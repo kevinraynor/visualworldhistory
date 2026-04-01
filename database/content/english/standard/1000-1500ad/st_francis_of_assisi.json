@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2292,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:292870725af4f5b8d8f8ca939d6a48799e217c288b627fe49eca71a8f8fa53b5",
+    "summary": "St. Francis of Assisi (c. 1181–1226 AD) was the founder of the Franciscan Order and one of the most beloved and influential figures in Christian history, whose radical embrace of poverty, care for the poor and sick, and celebration of the natural world as God's creation represented a transformative spiritual movement within medieval Catholicism. The son of a wealthy cloth merchant in Assisi, Francis abandoned his inheritance and worldly comfort following a religious conversion experience, choosing to live in absolute poverty, preach repentance, and serve lepers and the marginalized — a life of such authentic spiritual power that followers gathered around him spontaneously.\n\nFrancis founded the [[event:3008|Franciscan Order]] with papal approval in 1209, creating one of the two great mendicant orders (alongside the Dominicans) that revitalized medieval Christianity by combining scholarly preaching with pastoral accessibility. His Canticle of the Sun (Canticle of the Creatures, c. 1224) — possibly the first great work of Italian vernacular literature — celebrated Brother Sun, Sister Moon, Brother Wind, and Sister Death as fellow creatures of God, expressing a profound ecological spirituality that led Pope John Paul II to declare Francis the patron saint of ecology in 1979. Francis's attempt to peacefully convert the Sultan Al-Kamil of Egypt during the Fifth Crusade (1219) — walking into the enemy camp unarmed to preach — was one of the most remarkable acts of the Crusading period. His stigmata (the appearance of Christ's five wounds on his body, 1224) made him the first person formally recognized as receiving this mystical experience, and he was canonized just two years after his death.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+    "read_more_links": [
+        {
+            "title": "Canticle Sun Francis Italian literature",
+            "url": "https://en.wikipedia.org/wiki/Canticle_of_the_Sun"
+        },
+        {
+            "title": "Francis Sultan Egypt Fifth Crusade",
+            "url": "https://en.wikipedia.org/wiki/Francis_of_Assisi#Crusades"
+        },
+        {
+            "title": "Franciscan Order founding mendicant friars",
+            "url": "https://en.wikipedia.org/wiki/Franciscan_order"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Giovanni_Bellini_-_Saint_Francis_in_the_Desert_-_Google_Art_Project.jpg/300px-Giovanni_Bellini_-_Saint_Francis_in_the_Desert_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Giovanni_Bellini_-_Saint_Francis_in_the_Desert_-_Google_Art_Project.jpg",
+            "caption": "Giovanni Bellini - Saint Francis in the Desert - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Carlo_Crivelli_-_Saint_Francis_Collecting_the_Blood_of_Christ_-_Google_Art_Project.jpg/300px-Carlo_Crivelli_-_Saint_Francis_Collecting_the_Blood_of_Christ_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Carlo_Crivelli_-_Saint_Francis_Collecting_the_Blood_of_Christ_-_Google_Art_Project.jpg",
+            "caption": "Carlo Crivelli - Saint Francis Collecting the Blood of Christ - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Saint_Francis_of_Assisi_in_Ecstasy-Caravaggio_%28c.1595%29.jpg/300px-Saint_Francis_of_Assisi_in_Ecstasy-Caravaggio_%28c.1595%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Saint_Francis_of_Assisi_in_Ecstasy-Caravaggio_%28c.1595%29.jpg",
+            "caption": "Saint Francis of Assisi in Ecstasy-Caravaggio (c.1595)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Greco_-_Saint_Francis_Receiving_the_Stigmata_-_Google_Art_Project.jpg/300px-El_Greco_-_Saint_Francis_Receiving_the_Stigmata_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/El_Greco_-_Saint_Francis_Receiving_the_Stigmata_-_Google_Art_Project.jpg",
+            "caption": "Francis of Assisi receiving the Stigmata ",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philip Fruytiers",
+            "summary": "Flemish Baroque painter and engraver (1610–1666)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Philip_Fruytiers_-_Family_portrait.jpg/250px-Philip_Fruytiers_-_Family_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_Fruytiers"
+        },
+        {
+            "name": "Papal States",
+            "summary": "Italian state ruled by the pope (756–1870)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Papal_States_%28pre_1808%29.svg/250px-Flag_of_the_Papal_States_%28pre_1808%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Papal_States"
+        },
+        {
+            "name": "Pope Gregory IX",
+            "summary": "Head of the Catholic Church from 1227 to 1241",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gregory_IX.jpg/250px-Gregory_IX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Gregory_IX"
+        },
+        {
+            "name": "Stowaway",
+            "summary": "Sneaking onto a vehicle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Astrakhan_trams%2C_1041_stowaway.jpg/250px-Astrakhan_trams%2C_1041_stowaway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stowaway"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Al-Kamil",
+            "summary": "Ayyubid sultan of Egypt from 1218 to 1238",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis%2C_Al-Kamil_detail_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg/250px-Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis%2C_Al-Kamil_detail_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Kamil"
+        }
+    ],
+    "territory_geojson": null
+}

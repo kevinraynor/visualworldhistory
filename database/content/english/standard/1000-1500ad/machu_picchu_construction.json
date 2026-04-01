@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2263,
+    "parent_id": 99,
+    "granularity": "notable",
+    "content_hash": "sha256:09b841006a2e4c755c39d4b9d97687e924625dece11f3e04ad402e63199167f7",
+    "summary": "Machu Picchu (built c. 1450–1470 AD) is the most famous archaeological site in South America and one of the most celebrated examples of pre-Columbian architecture in the world — an [[event:99|Inca]] estate and ceremonial complex perched on a mountain ridge 2,430 meters above sea level in the Andes, commanding dramatic views of the Urubamba River gorge below and built with a precision that continues to astonish engineers and archaeologists. The site was constructed during the reign of the Sapa Inca Pachacuti — the ruler who transformed the Inca from a regional Andean kingdom into a continental empire — as a royal estate, religious sanctuary, and possibly astronomical observatory.\n\nMachu Picchu's construction demonstrates the extraordinary capabilities of Inca engineering without metal tools, wheeled vehicles, or draft animals: massive granite blocks weighing up to 50 tons were quarried from a nearby ridge and precisely fitted together without mortar in a technique called ashlar masonry, with joints so tight that a knife blade cannot be inserted between them. The site contains temples, palaces, agricultural terraces, sophisticated water channels, and approximately 150 buildings arranged in two zones (agricultural and urban) connected by over 100 flights of stairs. Astronomical alignments — including the Intihuatana stone ('hitching post of the sun') and windows aligned to solstice and equinox sunrises — indicate sophisticated astronomical knowledge. Machu Picchu was abandoned approximately 100 years after construction, possibly due to smallpox epidemics that preceded Spanish conquest, and its remote location protected it from Spanish discovery — it was brought to international attention only by Hiram Bingham's 1911 expedition.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "read_more_links": [
+        {
+            "title": "Machu Picchu construction Inca engineering",
+            "url": "https://en.wikipedia.org/wiki/Machu_Picchu#Architecture"
+        },
+        {
+            "title": "Intihuatana stone astronomical alignments",
+            "url": "https://en.wikipedia.org/wiki/Intihuatana"
+        },
+        {
+            "title": "Hiram Bingham 1911 discovery Machu Picchu",
+            "url": "https://en.wikipedia.org/wiki/Hiram_Bingham_III"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG/300px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG",
+            "caption": "View of the ancient houses of Machu Picchu houses, Urubamba Province, Cusco R...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aguas_Calientes%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-30%2C_DD_68.JPG/300px-Aguas_Calientes%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-30%2C_DD_68.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Aguas_Calientes%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-30%2C_DD_68.JPG",
+            "caption": "Pachacútec statue, Aguas Calientes, Cuzco, Peru",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/99_-_Machu_Picchu_-_Juin_2009.edit3.jpg/300px-99_-_Machu_Picchu_-_Juin_2009.edit3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/99_-_Machu_Picchu_-_Juin_2009.edit3.jpg",
+            "caption": "Machu Picchu from Wayna Picchu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/300px-Machu_Picchu%2C_2023_%28012%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg",
+            "caption": "Machu Picchu",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Agustín Lizárraga",
+            "summary": "Peruvian explorer and farmer (1865–1912)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Retrato_de_Agustin_Lizarraga.jpg/250px-Retrato_de_Agustin_Lizarraga.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Liz%C3%A1rraga"
+        },
+        {
+            "name": "Hiram Bingham III",
+            "summary": "American academic, explorer and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Senator_Hiram_Bingham_of_Conn.%2C_%281-9-25%29_LCCN2016839105_%283x4a%29.jpg/250px-Senator_Hiram_Bingham_of_Conn.%2C_%281-9-25%29_LCCN2016839105_%283x4a%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hiram_Bingham_III"
+        },
+        {
+            "name": "Inca architecture",
+            "summary": "Pre-Columbian architecture in South America",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inca_wall_1_-_Coricancha_Peru.jpg/250px-Inca_wall_1_-_Coricancha_Peru.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_architecture"
+        },
+        {
+            "name": "Sapa Inca",
+            "summary": "Emperor of the Inca Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aguas_Calientes.JPG/250px-Aguas_Calientes.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sapa_Inca"
+        },
+        {
+            "name": "Conquistador",
+            "summary": "Spanish and Portuguese conquerors of the Age of Discovery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg/250px-Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conquistador"
+        }
+    ],
+    "territory_geojson": null
+}

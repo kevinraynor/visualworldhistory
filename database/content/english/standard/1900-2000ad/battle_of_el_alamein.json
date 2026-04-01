@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2760,
+    "parent_id": 112,
+    "granularity": "detailed",
+    "content_hash": "sha256:f857aadef3ac97cd03e8891441566eb4d86d3159088d55989b74789b2f05d3b0",
+    "summary": "The Second Battle of El Alamein, fought in the Western Desert of Egypt from October 23 to November 11, 1942, was the decisive engagement of the North African campaign of [[event:112|World War II]]. British and Commonwealth forces under General Bernard Montgomery defeated the German-Italian Panzer Army Africa under Field Marshal Erwin Rommel, ending the German threat to Egypt and the Suez Canal. Rommel's forces, weakened by supply shortages and outnumbered significantly in men and materiel, were unable to withstand Montgomery's methodical offensive and were forced to begin a long retreat westward.\n\nThe battle followed the First Battle of El Alamein in July 1942, which had halted Rommel's advance into Egypt. The second battle involved intensive artillery preparation, infantry assaults, and armored engagements over twelve days. Montgomery's deliberate approach, though criticized for caution, successfully ground down Rommel's defensive strength. The German-Italian forces retreated across Libya, eventually withdrawing to Tunisia where they were subsequently trapped by the Allied forces that landed in Northwest Africa during Operation Torch in November 1942.\n\nEl Alamein is significant as one of the first clear Allied victories of the war in the western theater. British Prime Minister Winston Churchill's comment that before El Alamein the Allies never had a victory and after El Alamein they never had a defeat (though an exaggeration) captures the battle's symbolic importance as a turning point in Allied fortunes.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Battle_of_El_Alamein",
+    "read_more_links": [
+        {
+            "title": "El Alamein - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Second-Battle-of-El-Alamein"
+        },
+        {
+            "title": "Bernard Montgomery - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bernard_Montgomery"
+        },
+        {
+            "title": "North Africa Campaign WWII - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Western_Desert_campaign"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/General_Bernard_L._Montgomery_watches_his_tanks_move_up._North_Africa%2C_November_1942._-_NARA_-_535939_%28cropped%29_%28cropped%29.tif/300px-General_Bernard_L._Montgomery_watches_his_tanks_move_up._North_Africa%2C_November_1942._-_NARA_-_535939_%28cropped%29_%28cropped%29.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/General_Bernard_L._Montgomery_watches_his_tanks_move_up._North_Africa%2C_November_1942._-_NARA_-_535939_%28cropped%29_%28cropped%29.tif",
+            "caption": "General notes:  Use War and Conflict Number 1017 when ordering a reproduction...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Paracadutista_El_Alamein14.jpg/300px-Paracadutista_El_Alamein14.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Paracadutista_El_Alamein14.jpg",
+            "caption": "Divisa originale di un paracadutista del 187º reggimento paracadutisti della ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Alamein_1942_-_British_infantry.jpg/300px-El_Alamein_1942_-_British_infantry.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/El_Alamein_1942_-_British_infantry.jpg",
+            "caption": "El Alamein 1942: British infantry advances through the dust and smoke of the ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/El_Alamein_Aussie_9th_edited.JPG/300px-El_Alamein_Aussie_9th_edited.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/El_Alamein_Aussie_9th_edited.JPG",
+            "caption": "Photo of the memorial at the Allied Cemetery at El Alamein to the Australian ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Curio Barbasetti di Prun",
+            "summary": "Italian general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Lieutenant-General_Curio_Barbasetti_di_Prun.jpg/250px-Lieutenant-General_Curio_Barbasetti_di_Prun.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Curio_Barbasetti_di_Prun"
+        },
+        {
+            "name": "Erwin Rommel",
+            "summary": "German field marshal (1891–1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Erwin-Rommel-1941_%282%29.jpg/250px-Erwin-Rommel-1941_%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Erwin_Rommel"
+        },
+        {
+            "name": "Claude Auchinleck",
+            "summary": "British field marshal (1884–1981)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Claude_Auchinleck_Cecil_Beaton_photo.jpg/250px-Claude_Auchinleck_Cecil_Beaton_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Auchinleck"
+        },
+        {
+            "name": "Winston Churchill",
+            "summary": "British statesman and writer (1874–1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/250px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+            "name": "Commander-in-chief",
+            "summary": "Supreme commanding authority of a military",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Latvian_platoon_at_Camp_Lejeune.jpg/250px-Latvian_platoon_at_Camp_Lejeune.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Commander-in-chief"
+        },
+        {
+            "name": "William Gott",
+            "summary": "British Army general (1897–1942)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Brigadier_W_H_E_Gott.jpg/250px-Brigadier_W_H_E_Gott.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Gott"
+        }
+    ],
+    "territory_geojson": null
+}

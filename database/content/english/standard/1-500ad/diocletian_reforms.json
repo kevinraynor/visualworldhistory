@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2026,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:f40b78a7df3f2602f8bd54c6aa3a8908e7b5e752e97a64db5a21140dca686b3b",
+    "summary": "Diocletian (r. 284–305 AD) was the emperor who stabilized the Roman Empire after the [[event:2025|Crisis of Third Century]] through radical administrative, military, and economic reforms that fundamentally transformed the nature of Roman government — at the cost of creating a much more authoritarian, bureaucratic, and ceremonially elaborate state that resembled the Persian model more than the old Republican tradition. His reforms were so comprehensive that historians often date the end of the 'classical' Roman Empire and the beginning of the 'late' empire from his reign.\n\nDiocletian created the Tetrarchy ('rule of four') — dividing imperial authority between two senior Augusti and two junior Caesars to manage the empire's vast territory and multiple simultaneous threats. He tripled the size of the army, reformed the tax system with a census-based land and head tax, created a more elaborate court ceremonial (with prostration before the emperor as a semi-divine figure), reorganized provincial administration into smaller units, and attempted to control inflation with the Edict on Maximum Prices (301 AD). His [[event:2822|Great Persecution Diocletian]] (303–311 AD) was the final and most severe Roman persecution of Christians. He voluntarily abdicated in 305 AD — the only emperor to do so — and retired to his enormous palace at Split (modern Croatia), which still defines the city's old town.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diocletian",
+    "read_more_links": [
+        {
+            "title": "Tetrarchy system four emperors",
+            "url": "https://en.wikipedia.org/wiki/Tetrarchy"
+        },
+        {
+            "title": "Edict on Maximum Prices",
+            "url": "https://en.wikipedia.org/wiki/Edict_on_Maximum_Prices"
+        },
+        {
+            "title": "Diocletian's Palace Split Croatia",
+            "url": "https://en.wikipedia.org/wiki/Diocletian%27s_Palace"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Croatia-01239_-_The_Peristil_%289551533404%29.jpg/300px-Croatia-01239_-_The_Peristil_%289551533404%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Croatia-01239_-_The_Peristil_%289551533404%29.jpg",
+            "caption": "The Peristil is the rectangular space at the centre of Diocletian's Palace. O...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Historic_center_of_Split_in_Croatia_%2848608244858%29.jpg/300px-Historic_center_of_Split_in_Croatia_%2848608244858%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Historic_center_of_Split_in_Croatia_%2848608244858%29.jpg",
+            "caption": "Croatia",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Head_of_Diocletian%2C_Getty_Museum.jpg/300px-Head_of_Diocletian%2C_Getty_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Head_of_Diocletian%2C_Getty_Museum.jpg",
+            "caption": "Fragment of a Togate Statue of Diocletian; Unknown; about A.D. 295–300; Asia ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/MSR-ra-34-b-2-DM.jpg/300px-MSR-ra-34-b-2-DM.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/MSR-ra-34-b-2-DM.jpg",
+            "caption": "MSR-ra-34-b-2-DM",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Carinus",
+            "summary": "Roman emperor from 283 to 285",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Montemartini_-_Carino_1030439.JPG/250px-Montemartini_-_Carino_1030439.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carinus"
+        },
+        {
+            "name": "Galerius",
+            "summary": "Roman emperor from 305 to 311",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Romuliana_Galerius_head.jpg/250px-Romuliana_Galerius_head.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Galerius"
+        },
+        {
+            "name": "Constantius Chlorus",
+            "summary": "Roman emperor from 305 to 306",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Constantius_Chlorus_Ny_Carlsberg_Glyptotek_IN836.jpg/250px-Constantius_Chlorus_Ny_Carlsberg_Glyptotek_IN836.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantius_Chlorus"
+        },
+        {
+            "name": "Maximian",
+            "summary": "Roman emperor from 286 to 305",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mus%C3%A9e_Saint-Raymond_-_2017-09-02_-_Inv._Ra_34b_-_4654.jpg/250px-Mus%C3%A9e_Saint-Raymond_-_2017-09-02_-_Inv._Ra_34b_-_4654.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maximian"
+        },
+        {
+            "name": "Prisca (empress)",
+            "summary": "Roman empress from 284 to 305",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Empress_Prisca.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prisca_%28empress%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1109,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6a3bf7218a0943d9ea6ac6aaf5a3411b0a0e6647349b0d563a664c65ac3088dc",
+    "summary": "The University of Takshashila (Taxila, c. 500–200 BC) was one of the earliest centers of higher learning in the ancient world, located in the northwest of the Indian subcontinent (modern Pakistan), and attracted students from across Asia to study subjects ranging from medicine and law to military science and philosophy.\n\nTakshashila was not a university in the modern sense — it had no formal campus or administration — but rather a city renowned for its learned teachers, where scholars gathered students around them in the guru-shishya tradition. Notable alumni included [[event:1108|Kautilya]], the author of the Arthashastra, the physician Charaka, and the grammarian Panini. The city's location at the crossroads of the Persian, Hellenistic, and Indian worlds made it a place where multiple intellectual traditions intersected. Alexander the Great visited during his [[event:75|campaign in Asia]], and the encounter between Greek philosophers and Indian gymnosophists (naked philosophers) recorded by Greek historians reflects the meeting of these traditions at Taxila.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taxila",
+    "read_more_links": [
+        {
+            "title": "Ancient Indian education",
+            "url": "https://en.wikipedia.org/wiki/Education_in_ancient_India"
+        },
+        {
+            "title": "Chanakya at Taxila",
+            "url": "https://en.wikipedia.org/wiki/Chanakya"
+        },
+        {
+            "title": "Taxila archaeological site",
+            "url": "https://en.wikipedia.org/wiki/Taxila#Archaeology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Dharmarajika_stupa%2CTaxila.jpg/300px-Dharmarajika_stupa%2CTaxila.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Dharmarajika_stupa%2CTaxila.jpg",
+            "caption": "The Dharmarajika stupa, Taxila",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Motorway_taxila.jpg/300px-Motorway_taxila.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Motorway_taxila.jpg",
+            "caption": "beautiful scene on motorway M-1 Taxila.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Double-Headed_Eagle_Stupa_at_Sirkap_06.jpg/300px-Double-Headed_Eagle_Stupa_at_Sirkap_06.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Double-Headed_Eagle_Stupa_at_Sirkap_06.jpg",
+            "caption": "The Double-Headed-Eagle Stupa — at Sirkap, theIndo-Greek archaeological site....",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SirkapCity.JPG/300px-SirkapCity.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/SirkapCity.JPG",
+            "caption": "Ruins of ancient City of Sirkap, the Indo-Greek archaeological site.\nLocated ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        },
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        }
+    ],
+    "territory_geojson": null
+}

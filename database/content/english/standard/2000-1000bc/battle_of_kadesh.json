@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1808,
+    "parent_id": 1807,
+    "granularity": "notable",
+    "content_hash": "sha256:ea2be64acd3f0887abbe3fa47803f9d8b54bd5dffa6d650a54e574316d24e7d9",
+    "summary": "The Battle of Kadesh, fought in 1274 BC near the city of Kadesh on the Orontes River in modern Syria, was one of the largest chariot battles in ancient history and a pivotal confrontation between the two dominant powers of the Late Bronze Age: [[event:1807|Ramesses II]] of Egypt and Muwatalli II of the [[event:54|Hittite Empire]]. With an estimated 5,000–6,000 chariots combined, the engagement represented a clash of the period's supreme military technologies.\n\nThe battle began with an Egyptian intelligence failure. Ramesses II, advancing with his army divided into separate divisions, was fed false information by Hittite spies suggesting that the Hittite army was far away. In fact, a large Hittite chariot force was concealed behind the city of Kadesh. The Hittites ambushed the Egyptian Ra division and encircled the camp of Ramesses II himself. Egyptian accounts describe the pharaoh rallying his bodyguard and personally charging the Hittite chariots until relief arrived from another Egyptian division. The engagement ended inconclusively, with both sides withdrawing.\n\nBoth Ramesses II and the Hittites declared victory. The Egyptian record, preserved in the Poem of Pentaur and carved in elaborate reliefs on multiple temples, portrays Ramesses as a divine warrior who single-handedly turned the tide. Hittite records also claim the advantage. The strategic result was a stalemate that eventually led to the [[event:1809|Egyptian-Hittite Peace Treaty]] of 1259 BC — the earliest surviving peace treaty — under which both sides agreed to respect existing boundaries, exchange political refugees, and provide military assistance to each other against third parties.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Kadesh",
+    "read_more_links": [
+        {
+            "title": "Egyptian-Hittite Peace Treaty",
+            "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty"
+        },
+        {
+            "title": "Ramesses II",
+            "url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "title": "Battle of Kadesh - Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Kadesh"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Battle_scene_from_the_Great_Kadesh_reliefs_of_Ramses_II_on_the_Walls_of_the_Ramesseum.jpg/300px-Battle_scene_from_the_Great_Kadesh_reliefs_of_Ramses_II_on_the_Walls_of_the_Ramesseum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Battle_scene_from_the_Great_Kadesh_reliefs_of_Ramses_II_on_the_Walls_of_the_Ramesseum.jpg",
+            "caption": "Battle scene from the Great Kadesh reliefs of Ramses II on the Walls of the R...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Kadesh.jpg/300px-Treaty_of_Kadesh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Treaty_of_Kadesh.jpg",
+            "caption": "Smaller tablet of Treaty of Kadesh, discovered at Boğazköy, Turkey. Museum of...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/The_great_Sesostris_%28Rameses_II%29_in_the_Battle_of_Khadesh.jpg/300px-The_great_Sesostris_%28Rameses_II%29_in_the_Battle_of_Khadesh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/The_great_Sesostris_%28Rameses_II%29_in_the_Battle_of_Khadesh.jpg",
+            "caption": "The illustrated history of the world for the English people. From the earlies...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ramses_II_besieging_the_Cheta_people_in_Dapur.jpg/300px-Ramses_II_besieging_the_Cheta_people_in_Dapur.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ramses_II_besieging_the_Cheta_people_in_Dapur.jpg",
+            "caption": "Other version\nRamses II besieging the Cheta people in Dapur",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Muwatalli II",
+            "summary": "Hittite king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Felsrelief-Sirkeli.jpg/250px-Felsrelief-Sirkeli.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muwatalli_II"
+        },
+        {
+            "name": "Ḫattušili III",
+            "summary": "King of the Hittites c. 1275 – 1245 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Felsrelief_von_Firaktin_Hattusili_III_%28cropped%29.jpg/250px-Felsrelief_von_Firaktin_Hattusili_III_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%E1%B8%AAattu%C5%A1ili_III"
+        },
+        {
+            "name": "Lake Homs",
+            "summary": "Reservoir in Homs Governorate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lake_Homs_Satellite.png/250px-Lake_Homs_Satellite.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Homs"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Thutmose III",
+            "summary": "Pharaoh of Egypt from 1479 to 1425 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thutmosis_III-2_%28cropped%29.jpg/250px-Thutmosis_III-2_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thutmose_III"
+        }
+    ],
+    "territory_geojson": null
+}

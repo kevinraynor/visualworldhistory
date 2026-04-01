@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1112,
+    "parent_id": 1111,
+    "granularity": "notable",
+    "content_hash": "sha256:744f30e3c5fc6e33ce078c3371bd60432d6fcb0ae10befc18e34b6322d31c2fe",
+    "summary": "The Hundred Schools of Thought (c. 475–221 BC) was a golden age of Chinese philosophy during the [[event:1111|Warring States Period]], when competing states' patronage of scholars produced an extraordinary flowering of intellectual debate — rivaling the simultaneous philosophical ferment in Classical Greece, Vedic India, and Persia, forming what philosopher Karl Jaspers called the Axial Age.\n\nThe major schools included Confucianism (emphasizing ritual, hierarchy, and moral cultivation), [[event:1114|Daoism]] (seeking harmony with the natural order), [[event:1113|Legalism]] (advocating strict law and realpolitik), Mohism (championing universal love and utilitarian ethics), and the School of Names (exploring logic and language). The intellectual competition was intensified by the practical stakes: rulers hired scholars as advisors, and the most persuasive philosophers could influence the policies of powerful states. Many traveled from court to court seeking employment, generating an unprecedented circulation of ideas. The debates of this period established the core vocabulary of Chinese civilization — concepts like ren (benevolence), li (ritual propriety), dao (the Way), and fa (law) — that would shape Chinese thought for millennia.\n\nThe period ended when Qin's victory imposed [[event:1113|Legalism]] as official ideology, and the [[event:1122|Burning of Books and Burying of Scholars]] suppressed rival schools. But Confucianism revived under the [[event:77|Han Dynasty]] to become the dominant official philosophy of Chinese civilization, and the other schools' texts survived to continue influencing thinkers long after their original patrons were conquered.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought",
+    "read_more_links": [
+        {
+            "title": "Confucius",
+            "url": "https://en.wikipedia.org/wiki/Confucius"
+        },
+        {
+            "title": "Mohism",
+            "url": "https://en.wikipedia.org/wiki/Mohism"
+        },
+        {
+            "title": "Axial Age",
+            "url": "https://en.wikipedia.org/wiki/Axial_Age"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Birth_Places_of_Chinese_Philosophers.png/300px-Birth_Places_of_Chinese_Philosophers.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Birth_Places_of_Chinese_Philosophers.png",
+            "caption": "Birth places of notable Chinese philosophers of the Hundred Schools of Though...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/300px-Socrates.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Socrates.png",
+            "caption": "From http://hypernews.ngdc.noaa.gov",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Qin Shi Huang",
+            "summary": "Emperor of China from 221 to 210 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png/250px-Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Confucius",
+            "summary": "Chinese philosopher (c. 551 – c. 479 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/250px-Confucius_Tang_Dynasty.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Confucius"
+        },
+        {
+            "name": "Mencius",
+            "summary": "Confucian philosopher (c. 371 – c. 289 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg/250px-Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mencius"
+        },
+        {
+            "name": "Li Kui (legalist)",
+            "summary": "Chinese politician (455–395 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Li_Kui.jpg/250px-Li_Kui.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Li_Kui_%28legalist%29"
+        },
+        {
+            "name": "Shang Yang",
+            "summary": "Qin State statesman, chancellor and reformer (c. 390–338 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Statue_of_Shang_Yang.jpg/250px-Statue_of_Shang_Yang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shang_Yang"
+        }
+    ],
+    "territory_geojson": null
+}

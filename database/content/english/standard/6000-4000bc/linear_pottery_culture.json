@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1551,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f88e6a26ea03b84ba29f0320a9d8b6d06c3f0843de656025180e36810d43e8ea",
+    "summary": "The Linear Pottery culture (Linearbandkeramik or LBK) represents the first major wave of agricultural colonization of central Europe, spreading from Hungary westward to the Paris Basin and northward to the Low Countries and Poland between approximately 5500 and 4500 BCE. Named for the characteristic linear incised decoration on its pottery, the LBK culture carried the Neolithic package of farming, animal husbandry, and village settlement into a region previously occupied by Mesolithic hunter-gatherers, transforming the human landscape of temperate Europe in the span of a few centuries.\n\nLBK communities settled preferentially on fertile loess soils — the fine wind-deposited sediments of the central European river valleys — avoiding heavy clay soils and uplands. Their settlements consisted of longhouses, the characteristic architectural form of early European farming: large rectangular structures, typically 20–45 meters long and 5–7 meters wide, built from posts and planks, capable of housing extended family groups along with their animals and stored grain. These longhouses were clustered into small villages of a few dozen individuals, with communal areas and cemeteries associated with each settlement.\n\nThe LBK economy was based on cultivating emmer and einkorn wheat, lentils, and flax, and herding cattle, pigs, sheep, and goats. These crops and animals had been domesticated originally in the Near East and had spread through the Balkans and Hungary before entering central Europe with LBK farmers. The adoption of farming by communities in each new region appears to have involved actual migration of farming people rather than purely local adoption of new practices, as ancient DNA studies have confirmed that LBK populations in central Europe were genetically distinct from the Mesolithic populations they largely replaced.\n\nLBK communities appear to have maintained extensive social networks over long distances. Characteristic LBK pottery forms, flint types, and house plans are remarkably uniform across the culture's entire geographic range, suggesting frequent communication and exchange between distant communities. Spondylus shell ornaments — made from a marine bivalve found only in the Aegean and Adriatic — circulated across the entire LBK zone, testifying to long-distance exchange networks connecting central Europe to the Mediterranean. These networks facilitated the rapid spread of the LBK cultural package and maintained cultural coherence over a large territory.\n\nThe Linear Pottery culture is foundational to the later prehistory of Europe. From it descended a series of regional Neolithic cultures — including the [[event:1552|Lengyel]], [[event:1554|Rossen]], and related traditions — that populated central Europe through the fifth and fourth millennia BCE. The LBK expansion also set the stage for the later demographic and cultural transformations of the Chalcolithic and Bronze Age, including the arrival of steppe ancestry associated with the [[event:1544|Proto-Indo-European homeland]] migrations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Linear_Pottery_culture",
+    "read_more_links": [
+        {
+            "title": "European Neolithic - Britannica",
+            "url": "https://www.britannica.com/topic/Linear-Pottery-culture"
+        },
+        {
+            "title": "Neolithic Europe - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Neolithic_Europe/"
+        },
+        {
+            "title": "Neolithic longhouses - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Longhouse_(Neolithic_Europe)"
+        },
+        {
+            "title": "Spread of agriculture in Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ceramic_facepot_of_seated_woman_-_Budapest_History_Museum_2019.12.157.1.jpg/300px-Ceramic_facepot_of_seated_woman_-_Budapest_History_Museum_2019.12.157.1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ceramic_facepot_of_seated_woman_-_Budapest_History_Museum_2019.12.157.1.jpg",
+            "caption": "Neolithic (5200-4950 BCE), Törökbálint, Hungary. https://www.academia.edu/126...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/GBM_-_Linearbandkeramik_1_Grab.jpg/300px-GBM_-_Linearbandkeramik_1_Grab.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/GBM_-_Linearbandkeramik_1_Grab.jpg",
+            "caption": "Straubing ( Lower Bavaria ). Gäubodenmuseum: Grave 41 in the Linear Pottery c...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/GBM_-_Linearbandkeramik_3_Kette.jpg/300px-GBM_-_Linearbandkeramik_3_Kette.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/GBM_-_Linearbandkeramik_3_Kette.jpg",
+            "caption": "Straubing ( Lower Bavaria ). Gäubodenmuseum: Necklace from a grave in the Lin...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GBM_-_Linearbandkeramik_4.jpg/300px-GBM_-_Linearbandkeramik_4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/GBM_-_Linearbandkeramik_4.jpg",
+            "caption": "Straubing ( Lower Bavaria ). Gäubodenmuseum: Linear Pottery culture ceramics ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1377,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9151cb3d32752beb767114075e873bf963fdfd22eaaa023c811d2e3223490a21",
+    "summary": "Wilson Butte Cave is a prehistoric site in the Snake River Plain of southern Idaho, USA, notable for yielding some of the oldest securely dated evidence of human occupation in the American Northwest. Radiocarbon dates from the site's deepest cultural levels extend to approximately 13,000–12,500 BCE, making the cave one of the earliest known sites in the Great Basin and Columbia Plateau region.\n\nFor the period 10,000–8,000 BCE, Wilson Butte Cave was occupied by late Paleo-Indian and early Archaic hunter-gatherers who exploited the semi-arid sagebrush steppe environment of the Snake River Plain. The site contains a sequence of cultural deposits spanning from the Paleo-Indian through later Archaic periods, documenting long-term human use of the cave and its surroundings. Wilson Butte Cave is one of a number of early sites in the Great Basin and Columbia Plateau region — an area with significant early occupation evidence — that together document the colonization and adaptation of Paleo-Indian populations to the diverse environments of the western United States. Its position in the Pacific Northwest corridor makes it relevant to discussions of migration routes into the Americas and the spread of early populations after initial colonization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wilson_Butte_Cave",
+    "read_more_links": [
+        {
+            "title": "Great Basin Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Great_Basin_cultures"
+        },
+        {
+            "title": "Paleo-Indians - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paleo-Indians"
+        },
+        {
+            "title": "Snake River Plain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Snake_River_Plain"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/300px-HistoricPlacesNationalRegisterPlaque.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HistoricPlacesNationalRegisterPlaque.JPG",
+            "caption": "Plaque declaring \"this property has been placed on the National Register of H...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wilson-butte-exterior-id-us.jpg/300px-Wilson-butte-exterior-id-us.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wilson-butte-exterior-id-us.jpg",
+            "caption": "The top exterior view of Wilson Butte Cave in Jerome County, Idaho. This is a...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Wilson-butte-interior-id-us.jpg/300px-Wilson-butte-interior-id-us.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Wilson-butte-interior-id-us.jpg",
+            "caption": "Wilson Butte Cave in Jerome County, Idaho. This is a National Historic Landma...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jerome County, Idaho",
+            "summary": "County in Idaho, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Jerome_county_courthouse_2009.jpg/250px-Jerome_county_courthouse_2009.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jerome_County%2C_Idaho"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1210,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:69592c4fa08b5208ec1f20b2e29c0ae6e9b1a2e2821368858aa10da63ac2f5c3",
+    "summary": "The Development of Jainism (c. 500–200 BC) as an organized religion followed the teaching of Mahavira (c. 599–527 BC), the twenty-fourth tirthankara (ford-maker), who systematized the Jain philosophical tradition with its radical emphasis on non-violence (ahimsa), asceticism, and the liberation of the soul from the cycle of rebirth — making Jainism one of India's oldest continuous religious traditions.\n\nMahavira, a contemporary of the Buddha, renounced his royal life to become an ascetic, achieving enlightenment after twelve years and teaching for thirty years. Jain philosophy holds that the universe is eternal (with no creator god), that every living being has a soul, and that violence to any living being generates karma that binds the soul to the cycle of rebirth. The Jain ideal of ahimsa — taken to include not stepping on insects or straining drinking water — profoundly influenced Indian ethical thought and contributed (through the [[event:74|Maurya Empire (India)]]) to [[event:1098|Ashoka the Great]]'s adoption of non-violence. Jainism developed two major sects: the Digambara (sky-clad, whose monks renounce all possessions including clothing) and the Shvetambara (white-clad). Despite having relatively small numbers, Jain merchants and intellectuals exercised disproportionate cultural influence in medieval India, and the Jain principle of ahimsa directly inspired Mahatma Gandhi.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jainism",
+    "read_more_links": [
+        {
+            "title": "Mahavira",
+            "url": "https://en.wikipedia.org/wiki/Mahavira"
+        },
+        {
+            "title": "Ahimsa principle",
+            "url": "https://en.wikipedia.org/wiki/Ahimsa"
+        },
+        {
+            "title": "Jain philosophy",
+            "url": "https://en.wikipedia.org/wiki/Jain_philosophy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ellora%2C_cave_33%2C_Digambar_Jain_guru_%289841591645%29.jpg/300px-Ellora%2C_cave_33%2C_Digambar_Jain_guru_%289841591645%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ellora%2C_cave_33%2C_Digambar_Jain_guru_%289841591645%29.jpg",
+            "caption": "Ellora, cave 33, Digambar Jain guru\nSame man as 4 years earlier, www.flickr.c...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Kazhugumalai_Jain_beds_%288%29.jpg/300px-Kazhugumalai_Jain_beds_%288%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Kazhugumalai_Jain_beds_%288%29.jpg",
+            "caption": "Kazhugumalai Jain beds",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nishidhi_stone_with_14th_century_Old_Kannada_inscription_from_Tavanandi_forest.JPG/300px-Nishidhi_stone_with_14th_century_Old_Kannada_inscription_from_Tavanandi_forest.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nishidhi_stone_with_14th_century_Old_Kannada_inscription_from_Tavanandi_forest.JPG",
+            "caption": "This photograph was taken at the Shivappa Nayaka palace and museum in Shivamo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG/300px-Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Photo_of_lord_adinath_bhagwan_at_kundalpur.JPG",
+            "caption": "Kundalpur is a place that is famous for the colossus of Bade Baba (Adinath) i...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jain monasticism",
+            "summary": "Order of monks and nuns in the Jain community",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Acharya_KundaKunda.jpg/250px-Acharya_KundaKunda.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jain_monasticism"
+        },
+        {
+            "name": "Mahavira",
+            "summary": "Indian spiritual leader and the 24th Tirthankara of Jainism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mahavira_sculpture.jpg/250px-Mahavira_sculpture.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahavira"
+        }
+    ],
+    "territory_geojson": null
+}

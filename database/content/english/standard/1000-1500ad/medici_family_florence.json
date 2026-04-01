@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2299,
+    "parent_id": 2238,
+    "granularity": "notable",
+    "content_hash": "sha256:934d017339e979f75d411aa335cdf78b42f6151ac0341382defe96152483f8cd",
+    "summary": "The Medici Family of Florence (c. 1397–1737 AD) was the most powerful banking dynasty of medieval and Renaissance Europe and the greatest patrons of art and learning in history, whose wealth, political influence, and cultural investment made Florence the birthplace of the [[event:2238|Italian Renaissance]] and shaped Western civilization's artistic and intellectual heritage for centuries. Giovanni di Bicci de' Medici founded the Medici Bank around 1397, which grew under his son Cosimo de' Medici (Cosimo the Elder, 1389–1464) into the largest banking operation in Europe, with branches across the continent managing papal finances and serving as banker to kings and merchants.\n\nCosimo de' Medici used his banking wealth to establish the Medici as the informal rulers of republican Florence and as the most prolific art patrons of their age: he funded the construction of churches, libraries, and palaces, commissioned Brunelleschi, Donatello, and Fra Angelico, and established the Platonic Academy that became a center of humanist scholarship. His grandson Lorenzo de' Medici ('Lorenzo the Magnificent,' 1449–1492) is the archetype of the Renaissance patron — himself a gifted poet, he supported Botticelli, [[event:2298|Leonardo da Vinci]], [[event:3620|Michelangelo]] (whom he recognized as a teenager and invited to live in the Medici household), Poliziano, and Pico della Mirandola. The Medici produced four popes (Leo X, Clement VII, Pius IV, and Leon XI) and two queens of France (Catherine and Marie de' Medici), embedding their family in the highest levels of European power. Their legacy — the Uffizi Gallery, the Medici Chapels with Michelangelo's sculptures, the Biblioteca Medicea Laurenziana — remains one of the greatest concentrations of art and learning in the world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Medici",
+    "read_more_links": [
+        {
+            "title": "Cosimo Medici Elder Florence banker patron",
+            "url": "https://en.wikipedia.org/wiki/Cosimo_de%27_Medici"
+        },
+        {
+            "title": "Lorenzo Magnificent Renaissance patronage",
+            "url": "https://en.wikipedia.org/wiki/Lorenzo_de%27_Medici"
+        },
+        {
+            "title": "Medici Bank European banking system",
+            "url": "https://en.wikipedia.org/wiki/Medici_Bank"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Portrait_of_Cosimo_I_de%27_Medici_in_armour%2C_by_Agnolo_Bronzino_%28Uffizi_Gallery%2C_Florence%29.jpg/300px-Portrait_of_Cosimo_I_de%27_Medici_in_armour%2C_by_Agnolo_Bronzino_%28Uffizi_Gallery%2C_Florence%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Portrait_of_Cosimo_I_de%27_Medici_in_armour%2C_by_Agnolo_Bronzino_%28Uffizi_Gallery%2C_Florence%29.jpg",
+            "caption": "Portrait paintings of Cosimo I de' Medici in half length in armour by Agnolo ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Agnolo_Bronzino_-_Cosimo_I_de%27_Medici_in_armour_-_Google_Art_Project.jpg/300px-Agnolo_Bronzino_-_Cosimo_I_de%27_Medici_in_armour_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Agnolo_Bronzino_-_Cosimo_I_de%27_Medici_in_armour_-_Google_Art_Project.jpg",
+            "caption": "La versione più celebre è quella oggi nella Galleria degli Uffizi di Firenze.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gozzoli_magi.jpg/300px-Gozzoli_magi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gozzoli_magi.jpg",
+            "caption": "Medici family members placed allegorically in the entourage of a king from th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Piero_di_Cosimo_de%27_Medici.jpg/300px-Piero_di_Cosimo_de%27_Medici.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Piero_di_Cosimo_de%27_Medici.jpg",
+            "caption": "Piero di Cosimo de' Medici",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Louis XI",
+            "summary": "King of France from 1461 to 1483",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Louis_XI_%281423-1483%29.jpg/250px-Louis_XI_%281423-1483%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_XI"
+        },
+        {
+            "name": "Papal States",
+            "summary": "Italian state ruled by the pope (756–1870)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Papal_States_%28pre_1808%29.svg/250px-Flag_of_the_Papal_States_%28pre_1808%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Papal_States"
+        },
+        {
+            "name": "Giovanni di Bicci de' Medici",
+            "summary": "Italian banker (c. 1360–1429)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Giovanni_di_Bicci_de%27_Medici_Portrait_by_Agnolo_Bronzino.jpg/250px-Giovanni_di_Bicci_de%27_Medici_Portrait_by_Agnolo_Bronzino.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_di_Bicci_de%27_Medici"
+        },
+        {
+            "name": "Cosimo de' Medici",
+            "summary": "Lord of Florence from 1434 to 1464",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cosimo_di_Medici_%28Bronzino%29.jpg/250px-Cosimo_di_Medici_%28Bronzino%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cosimo_de%27_Medici"
+        },
+        {
+            "name": "Lorenzo de' Medici",
+            "summary": "Lord of Florence from 1469 to 1492",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lorenzo_de_Medici.jpg/250px-Lorenzo_de_Medici.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lorenzo_de%27_Medici"
+        },
+        {
+            "name": "Pope Leo X",
+            "summary": "Head of the Catholic Church from 1513 to 1521",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Raffaello%2C_ritratto_di_papa_leone_X_tra_i_cardinali_luigi_de%27_rossi_e_giulio_de%27_medici%2C_1518%2C_03.jpg/250px-Raffaello%2C_ritratto_di_papa_leone_X_tra_i_cardinali_luigi_de%27_rossi_e_giulio_de%27_medici%2C_1518%2C_03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Leo_X"
+        }
+    ],
+    "territory_geojson": null
+}

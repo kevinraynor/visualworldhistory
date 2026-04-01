@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1442,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a060adbbe25ff11f38afde6c30b7695e31da21007592bac83a712d04a7c79bad",
+    "summary": "The domestication of the potato (Solanum tuberosum) in the highlands of the southern Andes, primarily in the region of modern Peru and Bolivia around Lake Titicaca, began approximately 8,000 to 10,000 years ago and represents one of the most important agricultural developments of the Western Hemisphere. The wild ancestors of the domesticated potato are found growing across the Andean highlands, and the transformation of these bitter, sometimes toxic wild tubers into the edible, productive food crop that would eventually feed much of the world required sustained selective cultivation by Andean communities over many generations.\n\nThe Lake Titicaca basin, at elevations above 3,800 meters, is the most likely center of potato domestication, where communities of the Archaic period developed the agricultural techniques and knowledge systems necessary to cultivate, process, and store this staple. Processing techniques developed for the potato — including freeze-drying to produce chuño by exploiting the extreme diurnal temperature swings of the high Andes — extended the potato's utility as a storable, long-lasting food source and allowed communities to buffer against the frequent frosts and droughts of the high altitude environment.\n\nThe potato would not reach the rest of the world until the sixteenth century CE, when Spanish colonizers transported it to Europe following the conquest of the Inca Empire. Once introduced to Europe, the potato's high yield, nutritional value, and adaptability to cool, damp climates produced a demographic revolution — ultimately contributing to rapid population growth in Ireland, northern Europe, and beyond. The Irish dependence on the potato, famously illustrated by the catastrophic famine of 1845–1852, reflects the depth of impact this Andean domesticate had on global history. The potato thus ranks among the most globally consequential of the Americas' agricultural contributions to the world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potato#History",
+    "read_more_links": [
+        {
+            "title": "Potato - Britannica",
+            "url": "https://www.britannica.com/plant/potato"
+        },
+        {
+            "title": "Andean Civilizations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andean_civilizations"
+        },
+        {
+            "title": "Chuño - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chu%C3%B1o"
+        },
+        {
+            "title": "Lake Titicaca - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lake_Titicaca"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Potato_transportation_to_cold_storage_in_India_%281%29.jpg/300px-Potato_transportation_to_cold_storage_in_India_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Potato_transportation_to_cold_storage_in_India_%281%29.jpg",
+            "caption": "Potato transportation to cold storage in India",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Potatoes_for_sale_in_a_market_in_France.jpg/300px-Potatoes_for_sale_in_a_market_in_France.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Potatoes_for_sale_in_a_market_in_France.jpg",
+            "caption": "Potatoes for sale in a market in France",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Auspflanzung_Schweden_2.jpg/300px-Auspflanzung_Schweden_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Auspflanzung_Schweden_2.jpg",
+            "caption": "Amflora-Auspflanzung im Feldversuchsanbau 2008 in Schweden. Amflora ist die e...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Baked_Potato_%283662019664%29.jpg/300px-Baked_Potato_%283662019664%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Baked_Potato_%283662019664%29.jpg",
+            "caption": "Baked Potato",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3496,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c4425d345b09c660dbd953b0407779643f8225cf11d7bef1ea0dcc21ac63076b",
+    "summary": "The Zollverein (German Customs Union), established in 1834, was a coalition of German states that abolished internal tariffs among its members and established a common external tariff toward other countries. It was the most important step in the economic integration of the German states before political unification and has often been described as the precursor to [[event:2534|German political unification]] — economic unity preceding political unity.\n\nBefore the Zollverein, the German-speaking lands were fragmented into dozens of political units each with its own customs barriers. A merchant traveling from Hamburg to Vienna might cross numerous borders and pay multiple duties. This internal fragmentation was a major obstacle to trade and economic development. Prussia began the process of customs unification within its own territories in the late 1810s and then extended it by negotiating agreements with other German states.\n\nBy 1834 the Zollverein united 18 states containing about 23 million people in a free-trade area with a common external tariff administered primarily by Prussia. Austria was notably excluded — a politically significant omission that gave Prussia economic leadership of the German states at Austria's expense, foreshadowing the later political struggle over the 'lesser German' (kleindeuts ch, excluding Austria) versus 'greater German' (großdeutsch, including Austria) approaches to unification.\n\nThe Zollverein gradually expanded through the 1840s and 1850s, strengthening economic integration and creating infrastructure — railways, standardized weights and measures, shared postal systems — that tied the German economies together. Historians of German unification have noted that by 1866 when the political decision was made through the [[event:2575|Austro-Prussian War]], the economic argument for a Prussia-led Germany rather than an Austria-led one had already been settled by the Zollverein's development over three decades.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zollverein",
+    "read_more_links": [
+        {
+            "title": "Zollverein – Britannica",
+            "url": "https://www.britannica.com/topic/Zollverein"
+        },
+        {
+            "title": "German Unification – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Unification_of_Germany"
+        },
+        {
+            "title": "History of the European Union – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_European_Union"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Friedrich_List_1839.jpg/300px-Friedrich_List_1839.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Friedrich_List_1839.jpg",
+            "caption": "Friedrich List 1839",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sueddeutsche_Staaten.jpg/300px-Sueddeutsche_Staaten.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Sueddeutsche_Staaten.jpg",
+            "caption": "Map of South German states",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Johann_Friedrich_Freiherr_von_Cotta.png/300px-Johann_Friedrich_Freiherr_von_Cotta.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Johann_Friedrich_Freiherr_von_Cotta.png",
+            "caption": "Johann Friedrich Freiherr von Cotta",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph Görres",
+            "summary": "German writer and philosopher (1776–1848)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Portrait_of_J._J._Von_G%C3%B6rres.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_G%C3%B6rres"
+        },
+        {
+            "name": "Johann Friedrich Cotta (publisher)",
+            "summary": "German publisher, industrial pioneer and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Johann_Friedrich_Freiherr_von_Cotta.png/250px-Johann_Friedrich_Freiherr_von_Cotta.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Cotta_%28publisher%29"
+        }
+    ],
+    "territory_geojson": null
+}

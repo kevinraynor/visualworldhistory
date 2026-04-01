@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1715,
+    "parent_id": 41,
+    "granularity": "detailed",
+    "content_hash": "sha256:16fc4d43f16f601000034a9782ceb13ee0dd7c6b702a1b5d2c90474f5e1f3db1",
+    "summary": "The Sixth Dynasty of Egypt, approximately 2345–2181 BC, was the final dynasty of the Old Kingdom and a period marked by growing decentralisation, regional power struggles, and the beginning of Egypt's first major political fragmentation. While the early reigns of Teti and Pepi I saw continued building programmes and military expeditions into Nubia and the Levant, the later years of the dynasty witnessed an erosion of central authority as regional governors (nomarchs) accumulated hereditary power and independence.\n\nPharaoh Pepi II, who may have ascended to the throne as a young child and reigned for as many as 94 years, is traditionally associated with the dynasty's decline. Although this extraordinary reign is sometimes seen as a sign of stability, the evidence suggests that by its latter decades the central government had weakened considerably. Nomarchs were constructing their own elaborate tombs in their home provinces rather than around the royal capital, a clear signal that loyalty to the crown was giving way to local dynastic ambitions.\n\nThe collapse of the Sixth Dynasty led directly into [[event:1717|the First Intermediate Period of Egypt]], a time of political fragmentation, regional conflict, and social upheaval. Climate deterioration associated with [[event:1795|the 4.2 Kiloyear Event]] contributed to agricultural disruption and famine, undermining the central government's ability to maintain order. The Sixth Dynasty thus represents the end of an era — the closing chapter of the Old Kingdom that had produced the pyramids and the centralised theocratic state.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sixth_Dynasty_of_Egypt",
+    "read_more_links": [
+        {
+            "title": "Pepi II",
+            "url": "https://en.wikipedia.org/wiki/Pepi_II_Neferkare"
+        },
+        {
+            "title": "First Intermediate Period of Egypt",
+            "url": "https://en.wikipedia.org/wiki/First_Intermediate_Period_of_Egypt"
+        },
+        {
+            "title": "Old Kingdom of Egypt – Decline",
+            "url": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt#Decline_of_the_Old_Kingdom"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Seated_statue_of_an_official_on_block_chair._Limestone._6th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/300px-Seated_statue_of_an_official_on_block_chair._Limestone._6th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Seated_statue_of_an_official_on_block_chair._Limestone._6th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "caption": "Seated statue of an official on block chair. Limestone. 6th Dynasty. From Egy...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/AnkhnesmeryreII-and-Son-PepiII-SideView_BrooklynMuseum.png/300px-AnkhnesmeryreII-and-Son-PepiII-SideView_BrooklynMuseum.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/AnkhnesmeryreII-and-Son-PepiII-SideView_BrooklynMuseum.png",
+            "caption": "Alabaster statue of Ankhnesmeryre II and her son Pepi II. Dynasty 6, circa 22...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Merenre.jpg/300px-Merenre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Merenre.jpg",
+            "caption": "Hippopotamus ivory box bearing the titulary of Merenre Nemtyemsaf I (Reigned ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jequier_False_door_fragment_of_Nemtyemsaf_II.jpg/300px-Jequier_False_door_fragment_of_Nemtyemsaf_II.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jequier_False_door_fragment_of_Nemtyemsaf_II.jpg",
+            "caption": "False door fragment of Nemtyemsaf II from the mortuary temple of the pyramid ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Manetho",
+            "summary": "3rd-century BC Egyptian historian and priest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Manetho_Waddell1940_PD_Excerpt_pIX.jpg/250px-Manetho_Waddell1940_PD_Excerpt_pIX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Manetho"
+        },
+        {
+            "name": "Saqqara",
+            "summary": "Burial ground in Giza Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/250px-Saqqara_pyramid_ver_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "name": "Neferirkare Kakai",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Neferirkare_Kakai_2.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neferirkare_Kakai"
+        },
+        {
+            "name": "Djedkare Isesi",
+            "summary": "Ancient Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Part_of_a_door_jamb_showing_the_cartouche_of_Djedkare_Isesi._From_the_Sun_Temple_of_Nyuserre_Ini_at_Abu_Gurob%2C_Egypt._c._2430_BCE._Neues_Museum.jpg/250px-Part_of_a_door_jamb_showing_the_cartouche_of_Djedkare_Isesi._From_the_Sun_Temple_of_Nyuserre_Ini_at_Abu_Gurob%2C_Egypt._c._2430_BCE._Neues_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Djedkare_Isesi"
+        },
+        {
+            "name": "Unas",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/King_unas_of_egypt_being_suckled_by_a_unknown_goddess.jpg/250px-King_unas_of_egypt_being_suckled_by_a_unknown_goddess.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Unas"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        }
+    ],
+    "territory_geojson": null
+}

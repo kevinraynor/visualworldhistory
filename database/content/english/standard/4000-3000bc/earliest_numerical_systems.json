@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1630,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:355700fcae41e79e775fff10dcdb51c976a5b891d527d4dea5dba9bdb2a1b26d",
+    "summary": "The earliest formalized numerical systems emerged in Mesopotamia between approximately 3500 and 3200 BCE as an integral component of the [[event:1619|invention of writing]] in the context of the [[event:1617|Uruk Period]] temple economy. Rather than a single numerical system, the Sumerians developed multiple specialized notation schemes tailored to different types of commodities — one system for counting discrete objects such as animals and humans, another for measuring grain capacity, another for time, and yet others for land area and liquid volumes. This plurality of numerical notations, embedded within the [[event:1620|proto-cuneiform tablet]] tradition, reflects the complex administrative realities of managing a large urban economy.\n\nThe Sumerian numerical systems were among the first to employ a positional or place-value concept, where the value of a symbol depends on its position relative to other symbols — an insight that enormously simplifies arithmetic compared to purely additive systems like Roman numerals. The sexagesimal (base-60) system that characterized Mesopotamian mathematics became one of the most influential numerical frameworks in history: the division of the hour into 60 minutes, the minute into 60 seconds, and the circle into 360 degrees are all direct inheritances from Sumerian and Babylonian practice.\n\nThese early numerical systems were not purely abstract mathematics but practical tools for accounting, architectural planning, land measurement, and astronomical observation. Sumerian scribes could perform multiplication and division, calculate areas of irregular fields, and work with fractions. Later Babylonian mathematics, building on this Sumerian foundation, would solve quadratic equations and approximate the square root of 2 to several decimal places — achievements not independently replicated in Europe until much later.\n\nThe transmission of Mesopotamian numerical concepts to other cultures — including the Greeks, who absorbed much Babylonian astronomy and mathematics — means that the Sumerian numerical legacy reached, through many intermediaries, into modern science and everyday life. The numerical system that Sumerians developed to count their grain still shapes how we measure time and angles today.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babylonian_mathematics",
+    "read_more_links": [
+        {
+            "title": "History of Mathematics - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_mathematics"
+        },
+        {
+            "title": "Sumerian Numerals - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sexagesimal"
+        },
+        {
+            "title": "Ancient Mathematics - Britannica",
+            "url": "https://www.britannica.com/science/mathematics/Ancient-mathematical-sources"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Clay_tablet%2C_mathematical%2C_geometric-algebraic%2C_similar_to_the_Pythagorean_theorem._From_Tell_al-Dhabba%27i%2C_Iraq._2003-1595_BCE._Iraq_Museum.jpg/300px-Clay_tablet%2C_mathematical%2C_geometric-algebraic%2C_similar_to_the_Pythagorean_theorem._From_Tell_al-Dhabba%27i%2C_Iraq._2003-1595_BCE._Iraq_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Clay_tablet%2C_mathematical%2C_geometric-algebraic%2C_similar_to_the_Pythagorean_theorem._From_Tell_al-Dhabba%27i%2C_Iraq._2003-1595_BCE._Iraq_Museum.jpg",
+            "caption": "This clay tablet narrates a geometric-algebraic theory of how to make a solut...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Clay_tablet%2C_mathematical%2C_geometric-algebraic%2C_similar_to_the_Euclidean_geometry._From_Tell_Harmal%2C_Iraq._2003-1595_BCE._Iraq_Museum.jpg/300px-Clay_tablet%2C_mathematical%2C_geometric-algebraic%2C_similar_to_the_Euclidean_geometry._From_Tell_Harmal%2C_Iraq._2003-1595_BCE._Iraq_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Clay_tablet%2C_mathematical%2C_geometric-algebraic%2C_similar_to_the_Euclidean_geometry._From_Tell_Harmal%2C_Iraq._2003-1595_BCE._Iraq_Museum.jpg",
+            "caption": "Clay tablet, mathematical, geometric-algebraic theory (of right-angled triang...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/YBC-7289-OBV-labeled.jpg/300px-YBC-7289-OBV-labeled.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/YBC-7289-OBV-labeled.jpg",
+            "caption": "Labeled photograph of the Yale Babylonian Collection's Tablet YBC 7289 obvers...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Princeton University Press",
+            "summary": "Independent publisher associated with Princeton University",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Princeton_University_Press_logo.svg/250px-Princeton_University_Press_logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princeton_University_Press"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2129,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:662debb36d098d6ccd48a40771ebcb863ee3865007b4cd558fc92c602df9b23d",
+    "summary": "The Umayyad Caliphate (661–750 AD) was the first great Islamic dynasty — the caliphate that transformed the nascent Muslim state into a major world empire extending from the Iberian Peninsula to Central Asia, governing the largest contiguous empire the world had yet seen. Founded by Muawiya I after the First Fitna civil war, the Umayyads moved the capital from Medina to Damascus and adopted elements of Byzantine and Sassanid administrative practice, ruling through Arab tribal networks. Their expansion was breathtaking: the [[event:2131|conquest of Spain]] (711 AD), the reaching of the Indus River in the east, and Central Asian expansion as far as modern Pakistan.\n\nThe Umayyad period saw the construction of the [[event:2130|Dome of the Rock]] (691 AD) in Jerusalem — the first great monument of Islamic architecture — and the development of Islamic coinage, postal systems, and administrative structures. Arabic was established as the sole official language of administration. However, the Umayyads faced persistent criticism for privileging Arab Muslims over non-Arab converts (mawali), creating social tensions that fueled the [[event:3521|Abbasid Revolution]]. Theologically, many Muslims considered the Umayyads impious worldly rulers who had betrayed Muhammad's egalitarian ideals. The dynasty was overthrown in 750 AD by the Abbasids, with the Umayyad family massacred (though one survivor, Abd al-Rahman I, escaped to Spain and founded the [[event:2208|Umayyad Emirate of Cordoba]]). Umayyad Damascus gave Islamic civilization its early administrative and artistic foundations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+    "read_more_links": [
+        {
+            "title": "Umayyad administrative system",
+            "url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate#Administration"
+        },
+        {
+            "title": "Umayyad expansion map",
+            "url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate#Expansion"
+        },
+        {
+            "title": "Mawali non-Arab converts tension",
+            "url": "https://en.wikipedia.org/wiki/Mawali"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/110409_046.jpg/300px-110409_046.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/110409_046.jpg",
+            "caption": "Dome of the Rock, Jerusalem",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Damascus%2C_Syria%2C_The_Umayyad_Mosque%2C_The_Great_Mosque_of_Damascus_2.jpg/300px-Damascus%2C_Syria%2C_The_Umayyad_Mosque%2C_The_Great_Mosque_of_Damascus_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Damascus%2C_Syria%2C_The_Umayyad_Mosque%2C_The_Great_Mosque_of_Damascus_2.jpg",
+            "caption": "Damascus, Syria: The courtyard of the 8th-century Umayyad Mosque. The Umayyad...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Resafa%2C_Sergiopolis_3%2C_Syria.jpg/300px-Resafa%2C_Sergiopolis_3%2C_Syria.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Resafa%2C_Sergiopolis_3%2C_Syria.jpg",
+            "caption": "Resafa or Sergiopolis was a city located in the Roman province of Euphratensi...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Arabischer_Maler_um_730_002.jpg/300px-Arabischer_Maler_um_730_002.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Arabischer_Maler_um_730_002.jpg",
+            "caption": "Arabischer Maler um 730 002",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Mu'awiya I",
+            "summary": "Founder of the Umayyad Caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arab-Sasanian_coin_of_Muawiyah_I%2C_struck_at_the_Fasa_mint_in_Darabjird_%28Fars%29.jpg/250px-Arab-Sasanian_coin_of_Muawiyah_I%2C_struck_at_the_Fasa_mint_in_Darabjird_%28Fars%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mu%27awiya_I"
+        },
+        {
+            "name": "Marwan II",
+            "summary": "Umayyad caliph from 744 to 750",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dirham_of_Marwan_II_ibn_Muhammad%2C_AH_127-132.jpg/250px-Dirham_of_Marwan_II_ibn_Muhammad%2C_AH_127-132.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marwan_II"
+        },
+        {
+            "name": "Abbasid revolution",
+            "summary": "747–750 overthrow of the Umayyad caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Caliphate_750.jpg/250px-Caliphate_750.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_revolution"
+        },
+        {
+            "name": "Muhammad",
+            "summary": "Founder of Islam (c. 570–632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Al-Masjid_AL-Nabawi_Door.jpg/250px-Al-Masjid_AL-Nabawi_Door.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad"
+        },
+        {
+            "name": "Rashidun Caliphate",
+            "summary": "First Islamic caliphate (632–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG/250px-Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun_Caliphate"
+        }
+    ],
+    "territory_geojson": null
+}

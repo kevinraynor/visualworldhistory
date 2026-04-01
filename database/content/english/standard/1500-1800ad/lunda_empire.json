@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3242,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ed3292600a7c3a2b0e8dcef5cc6c9bac815c6f42bf07ea503f3f1e8695d627e0",
+    "summary": "The Lunda Empire (c. 1665–1887 AD) was a major Central African state that emerged from the southern [[event:3241|Luba]] cultural sphere and expanded across modern Democratic Republic of Congo, Zambia, and Angola, establishing one of the largest pre-colonial African empires through a distinctive political mechanism: instead of conquering and replacing local rulers, Lunda sovereignty was extended through adoption — local chiefs were incorporated into the Lunda state as subordinates of the paramount ruler (Mwant Yav) while retaining their local authority. This system, known as positional succession, allowed the empire to grow vast without requiring constant military presence in distant territories.\n\nThe Lunda Empire controlled major long-distance trade routes connecting the Atlantic coast (through Portuguese Angola) with the interior copper and ivory sources, and later with the [[event:2504|East African slave trade]] network. The empire became an important conduit for the slave trade, raiding neighbors for captives and exchanging them for European trade goods at the Atlantic coast. The Mwant Yav's court at Musumba was reportedly an impressive city of thousands, with a sophisticated political court and system of tributary relationships. The Lunda political model was widely emulated: subordinate chiefs who broke away to establish their own kingdoms (like the Kazembe kingdom along the Luapula River) adopted Lunda political forms, spreading Lunda institutional culture across a vast area even as the empire itself declined under the pressures of the 19th century slave trade and eventual Belgian and British colonial conquest.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lunda_Empire",
+    "read_more_links": [
+        {
+            "title": "Mwant Yav Lunda paramount ruler political system",
+            "url": "https://en.wikipedia.org/wiki/Mwata_Yamvo"
+        },
+        {
+            "title": "Lunda positional succession adoption political expansion",
+            "url": "https://en.wikipedia.org/wiki/Lunda_Empire#Political_organization"
+        },
+        {
+            "title": "Kazembe kingdom Luapula River Lunda subordinate state",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kazembe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lunda_Empire.png/300px-Lunda_Empire.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lunda_Empire.png",
+            "caption": "Map of Major States in the Southern Savannas, Mid-Nineteenth Century. Based o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leopold II of Belgium",
+            "summary": "King of the Belgians from 1865 to 1909",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leopold_ii_garter_knight.jpg/250px-Leopold_ii_garter_knight.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium"
+        }
+    ],
+    "territory_geojson": null
+}

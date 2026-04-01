@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2284,
+    "parent_id": 2283,
+    "granularity": "notable",
+    "content_hash": "sha256:e4e5140cd441add8b616fbc97e31ee0dc652ac56404b1525afae688f793728a2",
+    "summary": "The invention of Hangul (1443 AD, promulgated 1446) by [[event:2283|Joseon Dynasty]] King Sejong the Great was one of the most deliberate and linguistically sophisticated acts of alphabet creation in history — a writing system designed from the ground up to represent the sounds of the Korean language in a way that could be learned quickly by ordinary people, replacing or supplementing the Classical Chinese writing system that had served Korean literacy but was difficult to master and poorly suited to Korean phonology. Hangul is unique among major writing systems in having a known creator, a specific date of creation, and a detailed theoretical rationale (the Hunminjeongeum, 'Correct Sounds for the Instruction of the People').\n\nHangul's design is remarkably systematic and phonologically sophisticated. Its consonant letters are iconic — shaped to represent the position of tongue, lips, and throat in producing each sound (dental sounds have shapes suggesting tongue position; labial sounds suggest lip shapes). The letters are grouped into syllabic blocks rather than written linearly, combining the phonetic precision of an alphabet with the syllabic unit of Chinese-style writing. Sejong's advisors reportedly warned him that creating a Korean script would undermine the aristocracy's monopoly on literacy (which depended on mastery of Classical Chinese), and the new alphabet was indeed embraced by women, common people, and Buddhist clergy while the male aristocracy continued to prefer Classical Chinese. Hangul was periodically suppressed during Japanese colonial rule (1910–1945) as part of cultural assimilation policies, making its subsequent revival a powerful symbol of Korean national identity. Modern Korean literacy rates are among the highest in the world, a testament to Hangul's remarkable accessibility.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hangul",
+    "read_more_links": [
+        {
+            "title": "Hangul creation Hunminjeongeum Sejong",
+            "url": "https://en.wikipedia.org/wiki/Hunminjeongeum"
+        },
+        {
+            "title": "Hangul design phonological principles",
+            "url": "https://en.wikipedia.org/wiki/Hangul#Design_principles"
+        },
+        {
+            "title": "Hangul Japanese suppression Korean identity",
+            "url": "https://en.wikipedia.org/wiki/Hangul#Japanese_colonial_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%EC%9E%90%EA%B7%80%EB%82%98%EB%AC%B4_sign.jpg/300px-%EC%9E%90%EA%B7%80%EB%82%98%EB%AC%B4_sign.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%EC%9E%90%EA%B7%80%EB%82%98%EB%AC%B4_sign.jpg",
+            "caption": "Korean sign with info on about the silk tree",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Korean_Braille.jpg/300px-Korean_Braille.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Korean_Braille.jpg",
+            "caption": "Korean Braille",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 kr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%EA%B0%9C%EC%A0%95%ED%95%9C_%ED%95%9C%EA%B8%80_%EB%A7%9E%EC%B6%A4%EB%B2%95_%ED%86%B5%EC%9D%BC%EC%95%88-%ED%95%9C%EA%B8%80%ED%95%99%ED%9A%8C.jpg/300px-%EA%B0%9C%EC%A0%95%ED%95%9C_%ED%95%9C%EA%B8%80_%EB%A7%9E%EC%B6%A4%EB%B2%95_%ED%86%B5%EC%9D%BC%EC%95%88-%ED%95%9C%EA%B8%80%ED%95%99%ED%9A%8C.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%EA%B0%9C%EC%A0%95%ED%95%9C_%ED%95%9C%EA%B8%80_%EB%A7%9E%EC%B6%A4%EB%B2%95_%ED%86%B5%EC%9D%BC%EC%95%88-%ED%95%9C%EA%B8%80%ED%95%99%ED%9A%8C.jpg",
+            "caption": "Revised Hangul Spelling Unification Plan",
+            "attribution": "Wikimedia Commons, KOGL Type 1"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hunminjeongum.jpg/300px-Hunminjeongum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Hunminjeongum.jpg",
+            "caption": "Hunminjeongeum Haeryebon",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Ross (missionary)",
+            "summary": "Scottish Presbyterian missionary in China, translated the Bible to Korean (1842–1915)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/John_Ross_%28missionary%29.jpg/250px-John_Ross_%28missionary%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Ross_%28missionary%29"
+        },
+        {
+            "name": "Rosetta Sherwood Hall",
+            "summary": "Canadian missionary (1865–1951)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dr._Rosetta_Sherwood_Hall.jpg/250px-Dr._Rosetta_Sherwood_Hall.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rosetta_Sherwood_Hall"
+        }
+    ],
+    "territory_geojson": null
+}

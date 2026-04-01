@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1034,
+    "parent_id": 75,
+    "granularity": "notable",
+    "content_hash": "sha256:e000953c8f573be47828c45472ff8c2af0948737239d8b0ad315a82a509e1907",
+    "summary": "The Foundation of Alexandria (331 BC) was one of the most consequential urban foundations in world history, establishing a city on Egypt's Mediterranean coast that would become the intellectual and commercial capital of the ancient world for centuries. Alexander the Great personally selected the site — a narrow strip between the sea and Lake Mareotis with excellent natural harbors — and laid out the city's grid plan before departing for further conquests, never returning to see what it would become.\n\nUnder the [[event:1040|Ptolemaic Kingdom]] that inherited Egypt, Alexandria grew with extraordinary speed into a city of perhaps half a million people at its height, the largest in the world outside of China. The Ptolemies invested massively in it as a showcase of Hellenistic civilization: the famous [[event:1044|Library of Alexandria]] held hundreds of thousands of scrolls; the Museum (Mouseion) was an institution that supported scholars in residence; the [[event:1045|Lighthouse of Alexandria]] stood as one of the Seven Wonders of the Ancient World. The city attracted the greatest scientists and philosophers of the Hellenistic age, including Euclid, Archimedes (who visited), Eratosthenes, and Hipparchus.\n\nAlexandria's cosmopolitan character was unusual for the ancient world — it had large Jewish, Greek, Egyptian, and Syrian populations alongside smaller communities from across the Mediterranean and the East. The city's Jewish community produced the [[event:1151|Septuagint Translation]] of the Hebrew scriptures into Greek, a crucial step in the eventual spread of Judaism and Christianity. Alexandria remained a major center of scholarship, trade, and religious thought through the Roman period and into the early Byzantine era, its importance only ending with the Arab conquest of Egypt in 641 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandria",
+    "read_more_links": [
+        {
+            "title": "Ptolemaic Kingdom",
+            "url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom"
+        },
+        {
+            "title": "Library of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria"
+        },
+        {
+            "title": "Museum of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Mouseion"
+        },
+        {
+            "title": "History of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/History_of_Alexandria"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Egypt%E2%80%99s_Mediterranean_Coast_%28154431%29.jpg/300px-Egypt%E2%80%99s_Mediterranean_Coast_%28154431%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Egypt%E2%80%99s_Mediterranean_Coast_%28154431%29.jpg",
+            "caption": "An astronaut aboard the International Space Station captured this detailed im...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alexandria%2C_Egypt_%2826543517029%29.jpg/300px-Alexandria%2C_Egypt_%2826543517029%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Alexandria%2C_Egypt_%2826543517029%29.jpg",
+            "caption": "Alexandria, Egypt",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alexandria_tram.jpg/300px-Alexandria_tram.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alexandria_tram.jpg",
+            "caption": "Alexandria tram (Tatra-Yug)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Corniche_of_Alexandria.jpg/300px-Corniche_of_Alexandria.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Corniche_of_Alexandria.jpg",
+            "caption": "كورنيش الإسكندرية ويظهر مبنى قصر القطن وفندق سيسل في المنتصف",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alexandria Governorate",
+            "summary": "Governorate of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alexandria.svg/250px-Flag_of_Alexandria.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandria_Governorate"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Muhammad Ali of Egypt",
+            "summary": "Ruler of Egypt from 1805 to 1848",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/ModernEgypt%2C_Muhammad_Ali_by_Auguste_Couder%2C_BAP_17996.jpg/250px-ModernEgypt%2C_Muhammad_Ali_by_Auguste_Couder%2C_BAP_17996.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt"
+        },
+        {
+            "name": "Rashidun Caliphate",
+            "summary": "First Islamic caliphate (632–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG/250px-Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun_Caliphate"
+        }
+    ],
+    "territory_geojson": null
+}

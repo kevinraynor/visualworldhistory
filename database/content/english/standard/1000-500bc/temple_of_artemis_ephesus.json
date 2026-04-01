@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1984,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3e82d91ea9e1805dc5e5582e32363d7173b2846ef0fd6f1f922fa1435d3ac370",
+    "summary": "The Temple of Artemis at Ephesus (original construction c. 550 BC, rebuilt several times, the most famous version dedicated c. 323 BC) was one of the Seven Wonders of the ancient world — a massive Ionic temple on the Aegean coast of Anatolia (modern Turkey) measuring approximately 115 × 55 meters with 127 columns each 18 meters high, considered by ancient observers the most magnificent building on Earth. The first major version was commissioned by the Lydian king [[event:1996|Croesus of Lydia]], who funded its construction as a demonstration of his piety and wealth.\n\nThe temple was burned by Herostratus in 356 BC (the same night, according to tradition, that Alexander the Great was born) in a deliberate act of fame-seeking, giving rise to the concept of 'herostratic fame' — the desire to be remembered through destruction rather than creation. The Ephesians sought to erase Herostratus's name from history by making it illegal to speak it, but the historian Theopompus recorded it anyway. The temple was rebuilt on an even grander scale by the Ephesian people themselves and completed during Alexander's lifetime. It was repeatedly damaged and finally destroyed in raids during Late Antiquity, with virtually nothing surviving above ground — the site is now a marsh with a single reconstructed column.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Temple_of_Artemis",
+    "read_more_links": [
+        {
+            "title": "Herostratus burning the temple",
+            "url": "https://en.wikipedia.org/wiki/Herostratus"
+        },
+        {
+            "title": "Seven Wonders ancient world",
+            "url": "https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World"
+        },
+        {
+            "title": "Ephesus ancient city",
+            "url": "https://en.wikipedia.org/wiki/Ephesus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Philips_Galle%2C_Dianatemplet_i_Efesos%2C_1572%2C_KKSgb10001-5%2C_Statens_Museum_for_Kunst_%28cropped%29.jpg/300px-Philips_Galle%2C_Dianatemplet_i_Efesos%2C_1572%2C_KKSgb10001-5%2C_Statens_Museum_for_Kunst_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Philips_Galle%2C_Dianatemplet_i_Efesos%2C_1572%2C_KKSgb10001-5%2C_Statens_Museum_for_Kunst_%28cropped%29.jpg",
+            "caption": "Verdens otte vidundere",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Efes_M%C3%BCzesi%2C_2019_10.jpg/300px-Efes_M%C3%BCzesi%2C_2019_10.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Efes_M%C3%BCzesi%2C_2019_10.jpg",
+            "caption": "Ephesus Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Efes_M%C3%BCzesi%2C_2019_11.jpg/300px-Efes_M%C3%BCzesi%2C_2019_11.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Efes_M%C3%BCzesi%2C_2019_11.jpg",
+            "caption": "Efes Müzesi",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Templo-Artemisa-Efeso-2017.jpg/300px-Templo-Artemisa-Efeso-2017.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Templo-Artemisa-Efeso-2017.jpg",
+            "caption": "Temple of Artemis, Ephesus, Turkey",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Chersiphron",
+            "summary": "Ancient Greek architect",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Model_of_the_Artemisium_-_Ephesus_Museum_%282%29.JPG/250px-Model_of_the_Artemisium_-_Ephesus_Museum_%282%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chersiphron"
+        },
+        {
+            "name": "Croesus",
+            "summary": "King of Lydia from 561 to 547 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Croesus_portrait.jpg/250px-Croesus_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Croesus"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        },
+        {
+            "name": "Callimachus",
+            "summary": "3rd-century BCE Greek poet, scholar and librarian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/P.Oxy._XI_1362.jpg/250px-P.Oxy._XI_1362.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Callimachus"
+        },
+        {
+            "name": "Amazons",
+            "summary": "Female warriors and hunters in Greek mythology",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Amazzone_ferita_-_Musei_Capitolini.jpg/250px-Amazzone_ferita_-_Musei_Capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amazons"
+        }
+    ],
+    "territory_geojson": null
+}

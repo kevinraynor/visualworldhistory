@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2101,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b476f283ad4de65cfe28edfa0f854b5fb791ddbcf607c2e60b146aa9af35b853",
+    "summary": "The development of the codex — the book format with bound pages, as opposed to the scroll — in the 1st–4th centuries AD was one of the most consequential information technology transitions in history, transforming how written knowledge was stored, accessed, and transmitted. The codex originated in Rome as wax writing tablets (tabula) bound together, then evolved into parchment (animal skin) pages stitched together within wooden covers. By the 4th century AD, the codex had largely replaced the scroll as the dominant format for Christian scriptures and was beginning to displace the scroll more broadly.\n\nThe practical advantages of the codex over the scroll were significant: random access to any page without unrolling; ability to hold much more text in the same physical space; easier to mark, annotate, and index; more durable when sealed within covers; easier to carry. The adoption of the codex by early Christian communities — who used it for their scriptures from very early on — gave Christianity a technological advantage in the dissemination of its texts. The association between codex and Christianity was so strong that pagans often continued using scrolls longer, partly as cultural resistance. The parchment codex replaced papyrus scrolls across the Mediterranean world by the 5th–6th centuries, and was itself replaced by paper (transmitted from China via the Islamic world) in Europe only in the medieval period. The fundamental codex format — pages bound between covers — remains the form of books today.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Codex",
+    "read_more_links": [
+        {
+            "title": "Scroll to codex transition",
+            "url": "https://en.wikipedia.org/wiki/Codex#History"
+        },
+        {
+            "title": "Parchment vs papyrus",
+            "url": "https://en.wikipedia.org/wiki/Parchment"
+        },
+        {
+            "title": "Early Christian codex use",
+            "url": "https://en.wikipedia.org/wiki/Codex#Christian_adoption"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Facsimile_of_the_book_of_kells-Interior_of_the_Old_Library%2C_Trinity_College%2C_Dublin.jpg/300px-Facsimile_of_the_book_of_kells-Interior_of_the_Old_Library%2C_Trinity_College%2C_Dublin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Facsimile_of_the_book_of_kells-Interior_of_the_Old_Library%2C_Trinity_College%2C_Dublin.jpg",
+            "caption": "Facsimile of the book of kells at Interior of the Old Library, Trinity Colleg...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Meister_des_Codex_Amiatus_001.jpg/300px-Meister_des_Codex_Amiatus_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Meister_des_Codex_Amiatus_001.jpg",
+            "caption": "Meister des Codex Amiatus 001",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2049_-_Byzantine_Museum%2C_Athens_-_Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg/300px-2049_-_Byzantine_Museum%2C_Athens_-_Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/2049_-_Byzantine_Museum%2C_Athens_-_Parchement_scroll%2C_13th_century_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_12.jpg",
+            "caption": "Byzantine liturgical parchement scroll, 13th century. Exhibited in the Byzant...",
+            "attribution": "Wikimedia Commons, Attribution"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Table_with_was_and_stylus_Roman_times.jpg/300px-Table_with_was_and_stylus_Roman_times.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Table_with_was_and_stylus_Roman_times.jpg",
+            "caption": "Writing tablet with wax and stylus. Roman period. The sharp tip was used for ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Martial",
+            "summary": "1st-century Latin poet from Hispania",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Martial%2C_engraved_from_an_ancient_gem_%28cropped%29.jpg/250px-Martial%2C_engraved_from_an_ancient_gem_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martial"
+        },
+        {
+            "name": "Notebook",
+            "summary": "Book for writing, drawing, scrapbooking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Notebooks.jpg/250px-Notebooks.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Notebook"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Demosthenes",
+            "summary": "Classical Athenian statesman and orator (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/250px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Demosthenes"
+        }
+    ],
+    "territory_geojson": null
+}

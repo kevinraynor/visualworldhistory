@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1242,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:4d232f936bd04fb0f6f171ff3a8977f2f49eab40e6b6aec7e5b1144d892e201f",
+    "summary": "Cato the Elder (234–149 BC) was the archetype of old Roman virtue — stern, frugal, and militantly opposed to Greek cultural influence — and one of the most influential figures in shaping both Roman literature and Roman conservative ideology. As censor in 184 BC, he conducted a vigorous purge of luxury and moral laxity, expelling senators for un-Roman conduct and imposing heavy taxes on extravagant personal spending. His censorship became the defining standard of Roman moral authority.\n\nCato was Rome's first significant Latin prose writer, composing the Origines (a history of Rome and Italian cities, the first written in Latin rather than Greek) and the De Agri Cultura (On Agriculture), the oldest surviving complete Latin prose work. He prosecuted numerous cases against Greek-influenced Romans and foreign kings, and famously ended every speech in the Senate with 'Carthage must be destroyed' (Carthago delenda est) — a refrain he maintained for years until Rome finally launched the Third Punic War. His conflict with [[event:1228|Scipio Africanus]] represented the tension between Rome's new cosmopolitan military aristocracy and traditional Italian values. His grandson, Cato the Younger, became the embodiment of Stoic Republican virtue in the civil wars.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cato_the_Elder",
+    "read_more_links": [
+        {
+            "title": "De Agri Cultura treatise",
+            "url": "https://en.wikipedia.org/wiki/De_agri_cultura"
+        },
+        {
+            "title": "Roman censorship institution",
+            "url": "https://en.wikipedia.org/wiki/Roman_censor"
+        },
+        {
+            "title": "Cato and Greek culture opposition",
+            "url": "https://en.wikipedia.org/wiki/Cato_the_Elder#Opposition_to_Greek_influence"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tuscolo1.jpg/300px-Tuscolo1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tuscolo1.jpg",
+            "caption": "A view of the theatre at the ruins of the Roman city of Tusculum in the Caste...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rustici_latini_volgarizzati.tif/300px-Rustici_latini_volgarizzati.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Rustici_latini_volgarizzati.tif",
+            "caption": "Rustici latini volgarizzati",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Heinrich_Leutemann_-_Hannibals_%C3%9Cbergang_%C3%BCber_die_Alpen_%28cropped%29.jpg/300px-Heinrich_Leutemann_-_Hannibals_%C3%9Cbergang_%C3%BCber_die_Alpen_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Heinrich_Leutemann_-_Hannibals_%C3%9Cbergang_%C3%BCber_die_Alpen_%28cropped%29.jpg",
+            "caption": "Kolorierter Holzschnitt Die Karthager – Hannibals Übergang über die Alpen von...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Roman.forum.%26.arch.of.septimius.rome.arp.jpg/300px-Roman.forum.%26.arch.of.septimius.rome.arp.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Roman.forum.%26.arch.of.septimius.rome.arp.jpg",
+            "caption": "The Roman Forum, Rome, Italy. The arch was erected by Septimius Severus (Roma...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cato the Younger",
+            "summary": "Roman politician and Stoic (95–46 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cat%C3%B3n_%2852340687524%29.jpg/250px-Cat%C3%B3n_%2852340687524%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cato_the_Younger"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Lucius Valerius Flaccus (consul 195 BC)",
+            "summary": "Roman general and statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Senatus_consultum_de_bacchanalibus.jpg/250px-Senatus_consultum_de_bacchanalibus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Valerius_Flaccus_%28consul_195_BC%29"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        },
+        {
+            "name": "Justin (historian)",
+            "summary": "Roman historian, 2nd century",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iustinus_-_ita%2C_negli_anni_dil_signore_MCCCCLXXVII_ali_giorni_X_semptembris_-_913806_Scan00008.jpg/250px-Iustinus_-_ita%2C_negli_anni_dil_signore_MCCCCLXXVII_ali_giorni_X_semptembris_-_913806_Scan00008.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_%28historian%29"
+        }
+    ],
+    "territory_geojson": null
+}

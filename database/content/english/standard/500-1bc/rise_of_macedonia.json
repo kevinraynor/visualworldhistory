@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1027,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:92e2bc43908daf0dcfc1dd77a172547c8180afd2d30cc2f89e324395f7e144a5",
+    "summary": "The Rise of Macedonia (359–336 BC) refers to the remarkable transformation of the northern Greek kingdom of Macedon from a relatively peripheral monarchy into the dominant military power of the Greek world, accomplished primarily by [[event:1028|Philip II of Macedon]] during his twenty-three year reign. Under Philip, Macedonia went from a kingdom threatened by neighbors and internal rivals to the controller of all Greece, the foundation from which his son [[event:75|Alexander the Great's Empire]] would conquer the known world.\n\nMacedonia had long been regarded by southern Greeks as semi-barbaric — Greek in language and mythology but without the polis culture and civic institutions of the Aegean world. Its kings ruled over a warrior aristocracy and a population of peasant farmers and mountain herders. Philip fundamentally reformed this society by professionalizing the army, instituting the Macedonian phalanx of sarissa-armed infantry, organizing the Companion cavalry into a decisive strike force, and developing sophisticated siege engineering. He also conducted extensive diplomacy and bribery, famously saying he preferred gold over iron.\n\nPhilip systematically expanded Macedonian territory, seizing gold mines at Amphipolis that funded his military machine, incorporating Thessaly into his sphere, and gradually inserting himself into Greek political disputes until his victory at [[event:1029|Battle of Chaeronea]] in 338 BC gave him control over all of Greece. He formed the League of Corinth as a nominally voluntary Greek alliance with himself as hegemon and announced a campaign to liberate the Greek cities of Asia Minor from Persia — a project his son would complete far beyond any plan Philip envisioned.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)",
+    "read_more_links": [
+        {
+            "title": "Philip II of Macedon",
+            "url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "title": "Macedonian Phalanx",
+            "url": "https://en.wikipedia.org/wiki/Macedonian_phalanx"
+        },
+        {
+            "title": "Battle of Chaeronea",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)"
+        },
+        {
+            "title": "Demosthenes (orator)",
+            "url": "https://en.wikipedia.org/wiki/Demosthenes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%22An_der_Wende_vom_5._zum_4._Jahrhundert_v.Chr._wurde_Pella_Hauptstadt_des_K%C3%B6nigreichs_Makedonien.%22_6.jpg/300px-%22An_der_Wende_vom_5._zum_4._Jahrhundert_v.Chr._wurde_Pella_Hauptstadt_des_K%C3%B6nigreichs_Makedonien.%22_6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/%22An_der_Wende_vom_5._zum_4._Jahrhundert_v.Chr._wurde_Pella_Hauptstadt_des_K%C3%B6nigreichs_Makedonien.%22_6.jpg",
+            "caption": "Visit to the excavations in Pella.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lion_of_Amphipolis_BW_2017-10-05_09-38-25.jpg/300px-Lion_of_Amphipolis_BW_2017-10-05_09-38-25.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lion_of_Amphipolis_BW_2017-10-05_09-38-25.jpg",
+            "caption": "Lion of Amphipolis",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fragmentary_inscription_bearing_the_names_of_6_city_archons_%28politarchs%29%2C_2nd_c._BC%2C_Archaeological_Museum%2C_Pella_%286929923448%29.jpg/300px-Fragmentary_inscription_bearing_the_names_of_6_city_archons_%28politarchs%29%2C_2nd_c._BC%2C_Archaeological_Museum%2C_Pella_%286929923448%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Fragmentary_inscription_bearing_the_names_of_6_city_archons_%28politarchs%29%2C_2nd_c._BC%2C_Archaeological_Museum%2C_Pella_%286929923448%29.jpg",
+            "caption": "Fragmentary inscription bearing the names of 6 city archons (politarchs), 2nd...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Framentuary_votive_relief_representing_a_youth_ladling_wine_for_a_krater_and_a_round_table_with_vases%2C_from_the_Agora%2C_end_of_4th_c._BC%2C_Archaeological_Museum%2C_Pella_%287065345633%29.jpg/300px-Framentuary_votive_relief_representing_a_youth_ladling_wine_for_a_krater_and_a_round_table_with_vases%2C_from_the_Agora%2C_end_of_4th_c._BC%2C_Archaeological_Museum%2C_Pella_%287065345633%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Framentuary_votive_relief_representing_a_youth_ladling_wine_for_a_krater_and_a_round_table_with_vases%2C_from_the_Agora%2C_end_of_4th_c._BC%2C_Archaeological_Museum%2C_Pella_%287065345633%29.jpg",
+            "caption": "Framentuary votive relief representing a youth ladling wine for a krater and ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Perdiccas I of Macedon",
+            "summary": "King of Macedonia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Aegae_-_Old_Macedonia_founded_by_Perdikkas_I_pre_500_BCE.jpg/250px-Aegae_-_Old_Macedonia_founded_by_Perdikkas_I_pre_500_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perdiccas_I_of_Macedon"
+        },
+        {
+            "name": "Alexander I of Macedon",
+            "summary": "King of Macedon from c. 498/497 to 454 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_I_of_Macedon%2C_silver_obol%3B_struck_circa_460%E2%80%93450_BC.png/250px-Alexander_I_of_Macedon%2C_silver_obol%3B_struck_circa_460%E2%80%93450_BC.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_I_of_Macedon"
+        },
+        {
+            "name": "Perdiccas II of Macedon",
+            "summary": "5th-century BC king of Macedon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Perdikkas_II%2C_Tetrobol%2C_451-413_BC%2C_HGC_3-1-791.jpg/250px-Perdikkas_II%2C_Tetrobol%2C_451-413_BC%2C_HGC_3-1-791.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perdiccas_II_of_Macedon"
+        },
+        {
+            "name": "Archelaus of Macedon",
+            "summary": "King of Macedon from 413 to 399 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Didrachm_of_Archelaos_I_King_of_Macedonia.jpg/250px-Didrachm_of_Archelaos_I_King_of_Macedonia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archelaus_of_Macedon"
+        },
+        {
+            "name": "Philip II of Macedon",
+            "summary": "King of Macedon from 359 to 336 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/250px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

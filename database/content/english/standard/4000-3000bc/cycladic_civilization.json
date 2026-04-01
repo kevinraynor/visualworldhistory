@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 49,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:981be29d96090db8c9c1607d2988bfe6785995729e559cd7dd039fe54c0fae3c",
+    "summary": "The Cycladic civilization, centered on the islands of the Aegean Sea (the Cyclades) between approximately 3200 and 2000 BCE, was one of the earliest Bronze Age cultures of Europe and an important participant in the wider Aegean interaction sphere that included the [[event:40|Early Minoan civilization]] of Crete and the early settlements of mainland Greece. The Cycladic islands — including Naxos, Paros, Syros, and Melos — supported small but culturally vibrant communities whose art, particularly their distinctive marble figurines, achieved a striking abstract beauty that resonates with modern aesthetic sensibilities.\n\nCycladic culture is most famous for its schematic marble figurines, primarily depicting standing female figures with folded arms, geometric facial features, and elongated bodies. These figures — which range from a few centimeters to nearly life-size — were produced in large quantities and appear in burial contexts as well as in some habitation sites. Their exact function remains debated: they may have been cult objects, representations of goddesses, grave goods for the afterlife, or objects with social or economic significance. Their modern appearance has made them icons of prehistoric art, though their original painted details (now mostly lost) would have given them a different visual character.\n\nCycladic communities were maritime in orientation, exploiting the sea for fishing, trade, and communication. The islands possessed valuable resources including the obsidian of Melos (one of the few Aegean sources of this volcanic glass), the marble of Paros and Naxos, and the metallic ores of several islands. Trade in these materials connected the Cyclades to Crete, mainland Greece, Anatolia, and the wider eastern Mediterranean, positioning the islands as nodes in a regional exchange network.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cycladic_culture",
+    "read_more_links": [
+        {
+            "title": "Cycladic Figurines - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cycladic_figurine"
+        },
+        {
+            "title": "Bronze Age Aegean - Britannica",
+            "url": "https://www.britannica.com/place/ancient-Greece/The-Aegean-Bronze-Age"
+        },
+        {
+            "title": "Aegean Civilization - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aegean_civilization"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/300px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "caption": "Greece, Archipelago and part of Anadoli. Published for Willm. Faden, Geograph...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Silver_diadem%2C_2800-2300_BC%2C_Dokathismata%2C_NAMA_4729%2C_191015.jpg/300px-Silver_diadem%2C_2800-2300_BC%2C_Dokathismata%2C_NAMA_4729%2C_191015.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Silver_diadem%2C_2800-2300_BC%2C_Dokathismata%2C_NAMA_4729%2C_191015.jpg",
+            "caption": "Silver diadem with dentated edge. Findings from Dokathismata on Amorgos, grav...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Early_Cycladic_metal_tools%2C_Kastri_group%2C_AM_Syros%2C_180157.jpg/300px-Early_Cycladic_metal_tools%2C_Kastri_group%2C_AM_Syros%2C_180157.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Early_Cycladic_metal_tools%2C_Kastri_group%2C_AM_Syros%2C_180157.jpg",
+            "caption": "Early Cycladic metal tools. From the Early Cycladic settlement of Kastri near...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cyclades_map-fr.jpg/300px-Cyclades_map-fr.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cyclades_map-fr.jpg",
+            "caption": "Map in French of the Cyclades islands, Greece.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jean Arp",
+            "summary": "German-French sculptor and poet (1886–1966)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hans_Arp.JPG/250px-Hans_Arp.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Arp"
+        },
+        {
+            "name": "Constantin Brâncuși",
+            "summary": "Romanian sculptor, photographer and painter (1876–1957)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Edward_Steichen_-_Brancusi.jpg/250px-Edward_Steichen_-_Brancusi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i"
+        },
+        {
+            "name": "Cycladic art",
+            "summary": "Pre-Greek artistic tradition",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cycladic_idol_02.JPG/250px-Cycladic_idol_02.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cycladic_art"
+        }
+    ],
+    "territory_geojson": null
+}

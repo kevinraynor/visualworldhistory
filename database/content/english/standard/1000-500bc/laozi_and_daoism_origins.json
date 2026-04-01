@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1955,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:509d6b97282ebf9cd7c6d3418ff0adb8caab76d9a2656f0cce65958de1ffa248",
+    "summary": "Laozi (Old Master, traditionally c. 6th century BC) is the legendary author of the Daodejing (Tao Te Ching) and the founding figure of Daoist philosophy — though his historicity is uncertain and the text that bears his name was likely composed and edited over several centuries. The Daodejing (approximately 5,000 characters, one of the world's most translated texts) articulates a vision of the Dao (Way) as the underlying principle of reality — ineffable, spontaneous, and prior to all distinctions — and counsels harmony with this natural order through wu wei (non-action, effortless action), simplicity, and humility.\n\nDaoist thought offered a radical alternative to Confucian activism and Legalist coercion: the best government governs least, the wise person achieves without striving, and the natural world reveals the principles of right living more reliably than human ritual or law. The paradoxical, poetic style of the Daodejing — 'The Dao that can be named is not the eternal Dao' — made it endlessly reinterpretable across different contexts and traditions. Daoism developed over subsequent centuries into both a philosophical school (interacting with Buddhism after its introduction to China) and an organized religious tradition with priests, temples, and ritual practices. Its influence on Chinese art, literature, medicine, and martial arts has been pervasive, and its emphasis on naturalness and non-coercion has attracted readers worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laozi",
+    "read_more_links": [
+        {
+            "title": "Daodejing text overview",
+            "url": "https://en.wikipedia.org/wiki/Tao_Te_Ching"
+        },
+        {
+            "title": "Wu wei concept",
+            "url": "https://en.wikipedia.org/wiki/Wu_wei"
+        },
+        {
+            "title": "Daoism religious tradition",
+            "url": "https://en.wikipedia.org/wiki/Taoism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ping_Sien_Si_-_016_Lao_zi_%2816135526115%29.jpg/300px-Ping_Sien_Si_-_016_Lao_zi_%2816135526115%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ping_Sien_Si_-_016_Lao_zi_%2816135526115%29.jpg",
+            "caption": "016 Lao zi, Investiture of the Gods at Ping Sien Si, Pasir Panjang, Perak, Ma...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lao_Zi.jpg/300px-Lao_Zi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lao_Zi.jpg",
+            "caption": "Depictin of Lao Zi",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/300px-Zhang_Lu-Laozi_Riding_an_Ox.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg",
+            "caption": "The subject deals with the story of Laotzu riding an ox through a pass. It is...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Konfuzius-laozi.jpg/300px-Konfuzius-laozi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Konfuzius-laozi.jpg",
+            "caption": "Konfuzius trifft Laozi\nConfucius meets Laozi",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zhang Lu (painter)",
+            "summary": "Chinese painter (1464–1538)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/250px-Zhang_Lu-Laozi_Riding_an_Ox.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhang_Lu_%28painter%29"
+        },
+        {
+            "name": "Confucius",
+            "summary": "Chinese philosopher (c. 551 – c. 479 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/250px-Confucius_Tang_Dynasty.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Confucius"
+        },
+        {
+            "name": "Mencius",
+            "summary": "Confucian philosopher (c. 371 – c. 289 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg/250px-Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mencius"
+        },
+        {
+            "name": "Zhuang Zhou",
+            "summary": "Chinese philosopher (c.369 – c.286 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%E7%8E%84%E9%96%80%E5%8D%81%E5%AD%90%E5%9C%96_%E8%8E%8A%E5%AD%90.jpg/250px-%E7%8E%84%E9%96%80%E5%8D%81%E5%AD%90%E5%9C%96_%E8%8E%8A%E5%AD%90.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhuang_Zhou"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Shiji",
+            "summary": "Historical accounts of ancient China to Western Han",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%E5%8F%B2%E8%AE%B0.jpg/250px-%E5%8F%B2%E8%AE%B0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shiji"
+        }
+    ],
+    "territory_geojson": null
+}

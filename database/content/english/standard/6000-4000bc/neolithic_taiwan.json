@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1610,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b362375835439e53e08bec443c4836a0b9e98a060631718fab359b9b48b06c6c",
+    "summary": "Taiwan's Neolithic period began around 5000 BC with the appearance of the Dapenkeng culture, characterized by cord-marked pottery, polished stone tools, and a mixed economy of farming, fishing, and hunting. Communities settled in coastal and lowland areas, cultivating millet and possibly rice, and exploiting the rich marine resources of the surrounding seas. The island's position at the edge of the continental shelf made it a crossroads of maritime exchange and a probable staging ground for wider Pacific dispersals.\n\nThe Dapenkeng culture is widely associated with early Austronesian-speaking populations, and Taiwan's linguistic diversity — home to nine of the ten primary branches of the Austronesian family — supports its role as the ancestral homeland for this vast language group. The [[event:1609|Austronesian Maritime Expansion]] that eventually peopled Island Southeast Asia, Madagascar, and Polynesia appears to have originated from Taiwan or its near neighbors. The Neolithic communities of Taiwan therefore represent a pivotal node in one of the most far-reaching human dispersals of the prehistoric world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dapenkeng_culture",
+    "read_more_links": [
+        {
+            "title": "Austronesian expansion - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Austronesian_expansion"
+        },
+        {
+            "title": "Prehistory of Taiwan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_Taiwan"
+        },
+        {
+            "title": "Out of Taiwan hypothesis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Out_of_Taiwan_hypothesis"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        },
+        {
+            "name": "Kinmen",
+            "summary": "County of Taiwan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kinmen_Montage.png/250px-Kinmen_Montage.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kinmen"
+        }
+    ],
+    "territory_geojson": null
+}

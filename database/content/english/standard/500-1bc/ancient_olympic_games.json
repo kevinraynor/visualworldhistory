@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1193,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:92e0580b3a3eecb276c4da838e9c61e26e1fec0710ac2e5603691029aa2d4075",
+    "summary": "The Ancient Olympic Games (held every four years, 776 BC – 393 AD, covering the 500-1 BC period) were the most prestigious of the Panhellenic athletic festivals, held at Olympia in honor of Zeus, attracting competitors from across the Greek world and serving as a pan-Hellenic institution that transcended political divisions — with a sacred truce (ekecheiria) suspending warfare during the games.\n\nDuring the classical period (500–1 BC), the Olympics featured footraces, wrestling, boxing, pankration (a brutal combination of wrestling and boxing), pentathlon, and chariot racing. Victory brought enormous prestige — victors received only an olive wreath, but their home cities greeted them with lavish rewards, odes commissioned from poets (Pindar's Epinician Odes are the finest surviving examples), and sometimes free meals for life. Olympic victors were celebrated as nearly divine. The games continued through the Hellenistic and Roman periods; Roman emperors including Nero competed (and won, through bribery). The Christian emperor Theodosius I banned the games in 393 AD as pagan. The modern Olympic Games, revived in Athens in 1896, deliberately evoked this ancient institution. The ancient games' central feature — the idea that athletic competition could unite politically divided peoples — remains the ideal of the modern movement.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+    "read_more_links": [
+        {
+            "title": "Olympia sanctuary",
+            "url": "https://en.wikipedia.org/wiki/Olympia,_Greece"
+        },
+        {
+            "title": "Pindar Epinician Odes",
+            "url": "https://en.wikipedia.org/wiki/Pindar"
+        },
+        {
+            "title": "Olympic truce",
+            "url": "https://en.wikipedia.org/wiki/Olympic_truce"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Olympic_victors_on_Papyrus_1185.jpg/300px-Olympic_victors_on_Papyrus_1185.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Olympic_victors_on_Papyrus_1185.jpg",
+            "caption": "Ancient list on Papyrus 1185 of Olympic victors of the 75th to the 78th, and ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Group_of_Vatican_58_-_ABV_345_3_-_athletes_in_perizomata_and_trainers_-_Roma_MNEVG_-_06.jpg/300px-Group_of_Vatican_58_-_ABV_345_3_-_athletes_in_perizomata_and_trainers_-_Roma_MNEVG_-_06.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Group_of_Vatican_58_-_ABV_345_3_-_athletes_in_perizomata_and_trainers_-_Roma_MNEVG_-_06.jpg",
+            "caption": "object type / vase shape: attic black figure one-handled kantharos on high st...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hobble_Group_-_ABV_415_4_-_Athena_Promachos_-_boxers_-_London_BM_1873-0820-371_-_03.jpg/300px-Hobble_Group_-_ABV_415_4_-_Athena_Promachos_-_boxers_-_London_BM_1873-0820-371_-_03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Hobble_Group_-_ABV_415_4_-_Athena_Promachos_-_boxers_-_London_BM_1873-0820-371_-_03.jpg",
+            "caption": "object type / vase shape: attic black figure panathenaic prize-amphora\n- desc...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Discobolus_in_National_Roman_Museum_Palazzo_Massimo_alle_Terme.JPG/300px-Discobolus_in_National_Roman_Museum_Palazzo_Massimo_alle_Terme.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Discobolus_in_National_Roman_Museum_Palazzo_Massimo_alle_Terme.JPG",
+            "caption": "Discobolus in National Roman Museum Palazzo Massimo alle Terme",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zeus",
+            "summary": "Greek god of the sky and king of the gods",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zeus_Otricoli_Pio-Clementino_Inv257.jpg/250px-Zeus_Otricoli_Pio-Clementino_Inv257.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeus"
+        },
+        {
+            "name": "Theodosius I",
+            "summary": "Roman emperor from 379 to 395",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bust_of_Theodosius_I.jpg/250px-Bust_of_Theodosius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_I"
+        },
+        {
+            "name": "Theodosius II",
+            "summary": "Eastern Roman emperor from 402 to 450",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Theodosius_II_Louvre_Ma1036.jpg/250px-Theodosius_II_Louvre_Ma1036.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_II"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        },
+        {
+            "name": "Oenomaus",
+            "summary": "Greek mythological king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Oenomaus_and_Hippodamia.png/250px-Oenomaus_and_Hippodamia.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oenomaus"
+        },
+        {
+            "name": "Pindar",
+            "summary": "5th century BC Greek lyric poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bust_of_Pindar.jpg/250px-Bust_of_Pindar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pindar"
+        }
+    ],
+    "territory_geojson": null
+}

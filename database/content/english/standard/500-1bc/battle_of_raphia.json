@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1234,
+    "parent_id": 1041,
+    "granularity": "detailed",
+    "content_hash": "sha256:0d75cd9acfced7e87864ef047a9a944b2ccda0b016a2ab93a5a1e6834f8ec95f",
+    "summary": "The Battle of Raphia (217 BC) was one of the largest battles of the Hellenistic world, fought between Ptolemy IV of Egypt and Antiochus III of the Seleucid Empire near modern Rafah on the Gaza-Egypt border. With approximately 70,000–75,000 troops on each side and war elephants deployed by both, it was among the most evenly matched confrontations of the era. Ptolemy IV, despite his reputation as a dissolute ruler, personally commanded his troops and won a decisive victory.\n\nThe battle is historically significant for Ptolemy's use of African forest elephants against Antiochus's Indian elephants, and notably for the mass recruitment and arming of native Egyptian soldiers (machimoi) for the first time in the Ptolemaic period — a military necessity that had long-term political consequences. Empowered by their military role, Egyptian soldiers grew increasingly assertive, contributing to the native uprisings that weakened Ptolemaic rule in subsequent decades. The peace that followed the battle was favorable to Egypt but Antiochus III recovered to become the dominant Hellenistic power, later suffering defeat at Roman hands at the [[event:1156|Battle of Magnesia]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Raphia",
+    "read_more_links": [
+        {
+            "title": "Ptolemy IV Philopator",
+            "url": "https://en.wikipedia.org/wiki/Ptolemy_IV_Philopator"
+        },
+        {
+            "title": "Antiochus III the Great",
+            "url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great"
+        },
+        {
+            "title": "War elephants in Hellenistic warfare",
+            "url": "https://en.wikipedia.org/wiki/War_elephant#Hellenistic_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Battle_raphia.png/300px-Battle_raphia.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Battle_raphia.png",
+            "caption": "Map of the battle of Raphia",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy IV Philopator",
+            "summary": "4th Pharaoh of Ptolemaic Egypt (r. 221–204 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Octadrachm_Ptolemy_IV_BM_CMBMC33.jpg/250px-Octadrachm_Ptolemy_IV_BM_CMBMC33.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_IV_Philopator"
+        },
+        {
+            "name": "Antiochus III the Great",
+            "summary": "King of the Seleucid Empire from 222 to 187 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg/250px-Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great"
+        },
+        {
+            "name": "Cavalry",
+            "summary": "Soldiers or warriors fighting from horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg/250px-Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalry"
+        },
+        {
+            "name": "Sosibius",
+            "summary": "Late 3rd-century BC Ptolemaic chief minister",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Octadrachm_Ptolemy_IV_BM_CMBMC33.jpg/250px-Octadrachm_Ptolemy_IV_BM_CMBMC33.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sosibius"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Ptolemy V Epiphanes",
+            "summary": "5th Pharaoh of Ptolemaic Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Egypt_-_king_Ptolemaios_V_-_204-203_BC_-_gold_oktadrachm_-_bust_of_Ptolemaios_V_-_cornucopiae_-_Berlin_MK_AM_18203067.jpg/250px-Egypt_-_king_Ptolemaios_V_-_204-203_BC_-_gold_oktadrachm_-_bust_of_Ptolemaios_V_-_cornucopiae_-_Berlin_MK_AM_18203067.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes"
+        }
+    ],
+    "territory_geojson": null
+}

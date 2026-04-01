@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2271,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d80cac35744c20a43516983a76be9ce0a8d3a53443339ac19408a6ee5b4f2924",
+    "summary": "The Seljuk Empire (c. 1037–1194 AD) was a major Turkic Sunni Muslim sultanate that dominated the Middle East, Central Asia, and Anatolia for over a century, profoundly shaping the political and religious landscape of the Islamic world and triggering the [[event:92|Crusading movement]] through its conquest of Anatolia and Palestine. The Seljuks were Oghuz Turks who converted to Sunni Islam and migrated into the eastern Islamic world from the Central Asian steppes, rapidly rising from vassals of the [[event:2191|Samanid Empire]] to become the dominant military power of the region under Tughril and his nephew Alp Arslan.\n\nThe Seljuks' most consequential act was the [[event:2272|Battle of Manzikert]] (1071), which opened Anatolia to Turkish settlement and permanently altered the demographic character of Asia Minor from predominantly Christian Greek to predominantly Muslim Turkish — the geopolitical transformation that eventually produced modern Turkey. As sultans, the Seljuks revitalized Sunni Islam and the [[event:2133|Abbasid Caliphate]] (which they controlled but formally preserved as a religious institution), built the madrasa educational system that became the backbone of Islamic scholarship, and patronized the Persian cultural renaissance exemplified by the poet Omar Khayyam (who worked at the Seljuk court) and the philosopher-theologian al-Ghazali. The Seljuk period is considered the high point of pre-Mongol Persian-Islamic civilization. The empire fragmented into successor Seljuk states after 1092, with the Sultanate of Rum in Anatolia surviving until the early 14th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seljuk_Empire",
+    "read_more_links": [
+        {
+            "title": "Seljuk madrasa Islamic education system",
+            "url": "https://en.wikipedia.org/wiki/Nizamiyya"
+        },
+        {
+            "title": "Omar Khayyam Seljuk court poet mathematician",
+            "url": "https://en.wikipedia.org/wiki/Omar_Khayyam"
+        },
+        {
+            "title": "Al-Ghazali Seljuk period philosophy",
+            "url": "https://en.wikipedia.org/wiki/Al-Ghazali"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gran_Mezquita_de_Isfah%C3%A1n%2C_Isfahan%2C_Ir%C3%A1n%2C_2016-09-19%2C_DD_43-45_HDR_Alt.jpg/300px-Gran_Mezquita_de_Isfah%C3%A1n%2C_Isfahan%2C_Ir%C3%A1n%2C_2016-09-19%2C_DD_43-45_HDR_Alt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Gran_Mezquita_de_Isfah%C3%A1n%2C_Isfahan%2C_Ir%C3%A1n%2C_2016-09-19%2C_DD_43-45_HDR_Alt.jpg",
+            "caption": "This is a photo of a monument in Iran identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Model_of_a_House_with_Festive_Scene_MET_DP368497.jpg/300px-Model_of_a_House_with_Festive_Scene_MET_DP368497.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Model_of_a_House_with_Festive_Scene_MET_DP368497.jpg",
+            "caption": "The turquoise ceramic house model depicts a vernacular building featuring an ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Muqarnas_of_Imam_Ali_Mosque_16.jpg/300px-Muqarnas_of_Imam_Ali_Mosque_16.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Muqarnas_of_Imam_Ali_Mosque_16.jpg",
+            "caption": "This is a photo of a monument in Iran identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Feline_incense-burner_MET.jpg/300px-Feline_incense-burner_MET.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Feline_incense-burner_MET.jpg",
+            "caption": "Feline incense-burner MET",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Fatimid Caliphate",
+            "summary": "Fourth Islamic caliphate (909–1171)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fatimid_Caliphate.PNG/250px-Fatimid_Caliphate.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_Caliphate"
+        },
+        {
+            "name": "Abbasid Caliphate",
+            "summary": "Third Islamic caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/250px-Abbasid_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+        },
+        {
+            "name": "Al-Qa'im (Abbasid caliph at Baghdad)",
+            "summary": "Abbasid Caliph in Baghdad from 1031 to 1075",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TughrilCoin.jpg/250px-TughrilCoin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Qa%27im_%28Abbasid_caliph_at_Baghdad%29"
+        },
+        {
+            "name": "Al-Nasir",
+            "summary": "Abbasid Caliph in Baghdad (r. 1180–1225)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Talisman_Gate_in_Baghdad.jpg/250px-Talisman_Gate_in_Baghdad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Nasir"
+        },
+        {
+            "name": "Ian Hancock",
+            "summary": "Romani linguist (born 1942)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ian_Hancock_in_Bratislava.jpg/250px-Ian_Hancock_in_Bratislava.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ian_Hancock"
+        },
+        {
+            "name": "Chaghri Beg",
+            "summary": "11th-century Seljuk co-ruler and governor of Khorasan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Coin_of_Ahmad_Qavurt%2C_minted_in_Jiroft.jpg/250px-Coin_of_Ahmad_Qavurt%2C_minted_in_Jiroft.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chaghri_Beg"
+        }
+    ],
+    "territory_geojson": null
+}

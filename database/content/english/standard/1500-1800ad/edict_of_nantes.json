@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2379,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:769d3a923ad538a7a7a696319f54f58912357ce052dc316cf30c8ff0de52954b",
+    "summary": "The Edict of Nantes (April 1598 AD) was a royal decree issued by King Henry IV of France that granted the Huguenots (French Protestants) a substantial degree of religious tolerance and civil rights — including the right to worship freely in private, the right to hold public offices, and the right to maintain garrisoned fortresses (places de sûreté) for their own security — ending the French Wars of Religion after nearly 40 years of devastating conflict that had cost hundreds of thousands of lives. Henry IV himself was a former Protestant who had converted to Catholicism to secure the French throne ('Paris is worth a mass'), and the Edict represented a pragmatic recognition that religious uniformity could not be achieved by force and that civil peace required accommodation.\n\nThe Edict's toleration was limited by modern standards: it applied only to the Reformed (Calvinist) faith, not other religious minorities; Huguenots could only worship in designated locations; and the Catholic Church remained the established religion. Nevertheless, it was remarkably progressive for its time and allowed France to recover from decades of religious warfare. The Edict was progressively weakened under [[event:2361|Louis XIV]], who stripped away many Huguenot rights in the 1660s–1670s before revoking it entirely with the Edict of Fontainebleau in 1685 — an act that triggered the emigration of an estimated 200,000–400,000 skilled Huguenot craftsmen, merchants, and soldiers to Protestant states (England, the Dutch Republic, Prussia), greatly damaging French manufacturing and strengthening France's commercial rivals. The Edict of Nantes and its revocation illustrate the tension between confessional uniformity and pragmatic toleration that ran through European political thought from the Reformation to the Enlightenment.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Edict_of_Nantes",
+    "read_more_links": [
+        {
+            "title": "Henry IV France religious conversion tolerance",
+            "url": "https://en.wikipedia.org/wiki/Henry_IV_of_France"
+        },
+        {
+            "title": "Huguenot rights worship fortresses Nantes provisions",
+            "url": "https://en.wikipedia.org/wiki/Edict_of_Nantes#Provisions"
+        },
+        {
+            "title": "Revocation Edict Nantes 1685 Huguenot emigration",
+            "url": "https://en.wikipedia.org/wiki/Edict_of_Fontainebleau_(1685)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Henry_IV_of_france_by_pourbous_younger.jpg/300px-Henry_IV_of_france_by_pourbous_younger.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Henry_IV_of_france_by_pourbous_younger.jpg",
+            "caption": "Henry IV of france by pourbous younger",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/300px-046CupolaSPietro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+            "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Edit_de_nantes.jpg/300px-Edit_de_nantes.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Edit_de_nantes.jpg",
+            "caption": "The edict of Nantes, 1598.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Henry IV of France",
+            "summary": "King of France from 1589 to 1610",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Frans_Pourbus_the_Younger_%28Antwerp_1569_-_Paris_1622%29_-_Henri_IV%2C_King_of_France_%281553-1610%29_-_RCIN_402972_-_Royal_Collection.jpg/250px-Frans_Pourbus_the_Younger_%28Antwerp_1569_-_Paris_1622%29_-_Henri_IV%2C_King_of_France_%281553-1610%29_-_RCIN_402972_-_Royal_Collection.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_IV_of_France"
+        },
+        {
+            "name": "Louis XIV",
+            "summary": "King of France from 1643 to 1715",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Portrait_of_Louis_XIV_of_France_in_Coronation_Robes_%28by_Hyacinthe_Rigaud%29_-_Louvre_Museum.jpg/250px-Portrait_of_Louis_XIV_of_France_in_Coronation_Robes_%28by_Hyacinthe_Rigaud%29_-_Louvre_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_XIV"
+        },
+        {
+            "name": "Pope Clement VIII",
+            "summary": "Head of the Catholic Church from 1592 to 1605",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1280282369_clement-viii.jpg/250px-1280282369_clement-viii.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Clement_VIII"
+        },
+        {
+            "name": "Louis XIII",
+            "summary": "King of France from 1610 to 1643",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg/250px-Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_XIII"
+        },
+        {
+            "name": "Marie de' Medici",
+            "summary": "Queen of France from 1600 to 1610",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Frans_Pourbus%2C_the_Younger_-_Marie_de_M%C3%A9dicis_-_1920.1034_-_Art_Institute_of_Chicago.jpg/250px-Frans_Pourbus%2C_the_Younger_-_Marie_de_M%C3%A9dicis_-_1920.1034_-_Art_Institute_of_Chicago.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marie_de%27_Medici"
+        },
+        {
+            "name": "Cardinal Richelieu",
+            "summary": "French statesman and clergyman (1585–1642)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Champaigne_portrait_richelieu_eb.jpg/250px-Champaigne_portrait_richelieu_eb.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cardinal_Richelieu"
+        }
+    ],
+    "territory_geojson": null
+}

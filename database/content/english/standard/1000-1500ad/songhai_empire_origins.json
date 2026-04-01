@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2259,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6f96118b67b7adea63d6ee67a272b3494e2f937f9f91e363a5fbb181e82607e9",
+    "summary": "The Songhai Empire (c. 1000–1591 AD), centered on the city of Gao on the Niger River bend in modern Mali, was the largest empire in West African history, ultimately surpassing the [[event:93|Mali Empire]] in territorial extent and eclipsing it as the dominant power of the western Sudan. The Songhai people had established a kingdom at Gao as early as the 9th century, intermittently subject to Mali's authority before reasserting independence and then expanding under the dynamic ruler Sunni Ali (reigned 1464–1492), who captured [[event:2257|Timbuktu]] (1468) and Djenné (1473) in brilliant military campaigns and transformed Songhai from a regional power into an empire.\n\nThe empire reached its zenith under Askia Muhammad (reigned 1493–1528), who overthrew the Sunni dynasty, made the pilgrimage to Mecca, introduced significant administrative and legal reforms modeled on Islamic governance, and expanded Songhai territory dramatically. Askia Muhammad corresponded with North African and Egyptian scholars about correct Islamic practice, patronized the universities of Timbuktu, and created an efficient bureaucracy that extracted revenues from the gold and salt trade. The Songhai Empire controlled the most important commercial city and the most productive trade routes in West Africa at the height of its power. It fell to a Moroccan army equipped with firearms that crossed the Sahara in 1591 — a campaign made possible by the power of gunpowder weapons against which Songhai's cavalry-based military had no effective defense. The Moroccan victory fragmented the western Sudan into smaller states and ended the era of great Sahelian empires.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Songhai_Empire",
+    "read_more_links": [
+        {
+            "title": "Sunni Ali Songhai expansion Timbuktu",
+            "url": "https://en.wikipedia.org/wiki/Sunni_Ali"
+        },
+        {
+            "title": "Askia Muhammad Songhai peak Islam",
+            "url": "https://en.wikipedia.org/wiki/Askia_Mohammad_I"
+        },
+        {
+            "title": "Moroccan invasion Songhai 1591 firearms",
+            "url": "https://en.wikipedia.org/wiki/Moroccan_invasion_of_the_Songhai_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Map_of_the_Songhay_Empire.png/300px-Map_of_the_Songhay_Empire.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Map_of_the_Songhay_Empire.png",
+            "caption": "Own work, based off of \nGomez, M. (2018). African Dominion: A New History of ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/SONGHAI_empire_map.PNG/300px-SONGHAI_empire_map.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/SONGHAI_empire_map.PNG",
+            "caption": "Map of the w:'''Songhai Empire'''",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Timbuktu-manuscripts-astronomy-mathematics.jpg/300px-Timbuktu-manuscripts-astronomy-mathematics.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Timbuktu-manuscripts-astronomy-mathematics.jpg",
+            "caption": "Image of Timbuktu manuscripts.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Askia.jpg/300px-Askia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Askia.jpg",
+            "caption": "Tomb of Askia — mud building in Mali",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Malik",
+            "summary": "Semitic word for 'king'",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%27%D7%9E%D7%9C%D7%9A_%D7%90%D7%9E%D7%95%D7%9F%27_%D7%9B%D7%AA%22%D7%99_%D7%9C%D7%99%D7%99%D7%A4%D7%A6%D7%99%D7%92_B.H._3_%D7%A2%D7%9E%D7%95%D7%93_144%D7%90.jpg/250px-%27%D7%9E%D7%9C%D7%9A_%D7%90%D7%9E%D7%95%D7%9F%27_%D7%9B%D7%AA%22%D7%99_%D7%9C%D7%99%D7%99%D7%A4%D7%A6%D7%99%D7%92_B.H._3_%D7%A2%D7%9E%D7%95%D7%93_144%D7%90.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Malik"
+        }
+    ],
+    "territory_geojson": null
+}

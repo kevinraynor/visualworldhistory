@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2684,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e6f498ff02c769f47e6185f9e528dd10afb6dd7c3e9ba54e4243ac3c47132189",
+    "summary": "Apartheid was the official system of racial segregation and white minority rule enforced in South Africa from 1948 to 1991, under which the non-white majority — comprising Black Africans, Coloureds, and Indians — was denied basic political rights, subjected to severe economic and social restrictions, and forcibly separated from the white minority in all areas of life. The Afrikaner National Party, which came to power in the 1948 elections, systematized and dramatically extended existing racial discrimination into an all-encompassing policy that classified all South Africans by race and regulated where they could live, work, travel, and socialize.\n\nAppartheid's legal framework rested on legislation including the Population Registration Act, which classified all citizens by race; the Group Areas Act, which designated separate residential zones by race; the pass laws, which required all Black South Africans to carry identity documents limiting their movement; and the Bantu Education Act, which deliberately provided inferior schooling to Black children. The \"homelands\" policy created nominally independent Bantustan territories where Black South Africans were expected to exercise their political rights, effectively stripping them of South African citizenship.\n\nResistance to apartheid was met with violent repression. The [[ event:3654|Sharpeville massacre]] of March 1960, in which police shot and killed 69 protesters against the pass laws, shocked the world and led to international condemnation. The African National Congress (ANC) and Pan Africanist Congress were banned following Sharpeville, driving resistance underground. ANC leader Nelson Mandela, imprisoned on Robben Island from 1964, became the global symbol of the struggle against apartheid during his 27 years of imprisonment.\n\nThe [[event:3653|international anti-apartheid movement]] applied steadily increasing economic and cultural pressure. International sports boycotts excluded South Africa from the Olympic Games and other competitions. Economic sanctions, particularly after the [[event:3655|Soweto uprising]] of 1976 in which at least 176 students were killed by police, reduced foreign investment and put pressure on the South African economy. By the 1980s, apartheid had become increasingly economically unviable as well as morally indefensible.\n\nPresident F.W. de Klerk, recognizing the system's unsustainability, announced in February 1990 the unbanning of the ANC and other organizations and the forthcoming [[event:2685|release of Mandela]]. Negotiations between the government and the ANC, led by Mandela and de Klerk, produced a transition to democracy through the [[event:2772|elections of April 1994]] — the first in which all South Africans could vote. Mandela became South Africa's first democratically elected president. De Klerk and Mandela shared the Nobel Peace Prize in 1993 for their roles in ending apartheid peacefully.\n\nThe [[event:3490|Truth and Reconciliation Commission]], chaired by Archbishop Desmond Tutu, provided a forum for testimony about apartheid-era crimes and granted conditional amnesty in exchange for full disclosure. While criticized for not delivering adequate justice to victims, the Commission's process helped South Africa navigate its transition without mass retaliatory violence. Apartheid's legacy — in profound racial economic inequalities, spatial segregation of cities, and disparities in education and opportunity — continued to shape South African society long after the system's formal abolition.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apartheid",
+    "read_more_links": [
+        {
+            "title": "Apartheid – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/apartheid"
+        },
+        {
+            "title": "South African History Archive",
+            "url": "https://www.saha.org.za/"
+        },
+        {
+            "title": "Nelson Mandela Foundation",
+            "url": "https://www.nelsonmandela.org/"
+        },
+        {
+            "title": "Truth and Reconciliation Commission – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_(South_Africa)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Travelling_Light_76_F.jpg/300px-Travelling_Light_76_F.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Travelling_Light_76_F.jpg",
+            "caption": "Forced removal under apartheid, Mogopa, Western Transvaal, February 1984. Par...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/1963-1-10_Durban_-_Indian_woman_dia_2.jpg/300px-1963-1-10_Durban_-_Indian_woman_dia_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1963-1-10_Durban_-_Indian_woman_dia_2.jpg",
+            "caption": "1963-1-10 Durban - Indian woman dia 2",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/1962-21-12_tussen_Port_Elizabeth_en_Grahamstad%2C_ananasstalletje.jpg/300px-1962-21-12_tussen_Port_Elizabeth_en_Grahamstad%2C_ananasstalletje.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/1962-21-12_tussen_Port_Elizabeth_en_Grahamstad%2C_ananasstalletje.jpg",
+            "caption": "1962-21-12 tussen Port Elizabeth en Grahamstad, ananasstalletje",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Collectie_Fotocollectiie_Afdrukken_ANEFO_Rousel%2C_fotonummer_157-0188%2C_Bestanddeelnr_157-0188.jpg/300px-Collectie_Fotocollectiie_Afdrukken_ANEFO_Rousel%2C_fotonummer_157-0188%2C_Bestanddeelnr_157-0188.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Collectie_Fotocollectiie_Afdrukken_ANEFO_Rousel%2C_fotonummer_157-0188%2C_Bestanddeelnr_157-0188.jpg",
+            "caption": "Collectie / Archief : Fotocollectiie Afdrukken ANEFO Rousel\nReportage / Serie...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Nelson Mandela",
+            "summary": "President of South Africa from 1994 to 1999",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/250px-Nelson_Mandela_1994.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+        },
+        {
+            "name": "Saul Dubow",
+            "summary": "South African historian and academic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SaulDubow.jpg/250px-SaulDubow.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saul_Dubow"
+        },
+        {
+            "name": "Cecil Rhodes",
+            "summary": "British mining magnate and politician (1853–1902)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cecil_John_Rhodes_%28Cropped%29.jpg/250px-Cecil_John_Rhodes_%28Cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cecil_Rhodes"
+        }
+    ],
+    "territory_geojson": null
+}

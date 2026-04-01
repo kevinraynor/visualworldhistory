@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3756,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:920968be6ccf7959f3e6fa070b0afb8224d1827b9f3cd7e0d97f41a8da1f0be0",
+    "summary": "Domestic sheep (Ovis aries) were domesticated from wild mouflon (Ovis orientalis) in the region of Anatolia and the northern Fertile Crescent, with the domestication event dated to approximately 8000–7000 BCE. Archaeological evidence from sites in southeastern Anatolia shows changes in the age and sex profiles of killed animals consistent with managed herding rather than hunting, and skeletal morphology changes — including reduced body size and horn modification — appear in the record within a few centuries.\n\nSheep provided multiple resources including meat, milk, and eventually wool — though early domesticated sheep had hair coats rather than woolly fleeces, as the woolly coat was a later product of selective breeding. Wool would eventually become one of the most economically important textile fibers of the ancient world. The domestication of sheep, like that of [[event:3755|goats in the Zagros]], was fundamental to the pastoral dimension of Neolithic economies and enabled the spread of herding practices across a wide range of environments from the Near East into Europe and Central Asia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sheep#History",
+    "read_more_links": [
+        {
+            "title": "Sheep – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sheep"
+        },
+        {
+            "title": "Mouflon – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mouflon"
+        },
+        {
+            "title": "History of Wool – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wool#History"
+        },
+        {
+            "title": "Animal Domestication – Britannica",
+            "url": "https://www.britannica.com/topic/livestock-farming"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Herding_sheep353_%28edited%29.jpg/300px-Herding_sheep353_%28edited%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Herding_sheep353_%28edited%29.jpg",
+            "caption": "Aerial view of a flock of sheep with a shepherd in China",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Huda_Ram.jpg/300px-Huda_Ram.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Huda_Ram.jpg",
+            "caption": "A brown Huda Ram with white and brown color stripes",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/A_curious_Welsh_Mountain_sheep_%28Ovis_aries%29.jpg/300px-A_curious_Welsh_Mountain_sheep_%28Ovis_aries%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/A_curious_Welsh_Mountain_sheep_%28Ovis_aries%29.jpg",
+            "caption": "A curious Welsh Mountain sheep (Ovis aries)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/A_flock_of_Australian_White_Sheep_in_Mudgegonga%2C_Victoria%2C_Australia._This_is_breed_of_hair_sheep_suited_for_the_hot_and_varied_Australian_climate.jpg/300px-A_flock_of_Australian_White_Sheep_in_Mudgegonga%2C_Victoria%2C_Australia._This_is_breed_of_hair_sheep_suited_for_the_hot_and_varied_Australian_climate.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/A_flock_of_Australian_White_Sheep_in_Mudgegonga%2C_Victoria%2C_Australia._This_is_breed_of_hair_sheep_suited_for_the_hot_and_varied_Australian_climate.jpg",
+            "caption": "Australian Whites are a relatively new breed with genetic origins in the Whit...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Piebald",
+            "summary": "Animal with white markings on a darker coat",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Irish_Tinker_horse_2.JPG/250px-Irish_Tinker_horse_2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Piebald"
+        }
+    ],
+    "territory_geojson": null
+}

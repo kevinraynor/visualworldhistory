@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1463,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fd03c11eb60b1e6a304765111263d664dacac3968da0d6f9e1c1e45bfd44d5e0",
+    "summary": "Lead smelting — the extraction of metallic lead from galena (lead sulfide ore) and other lead minerals through high-temperature reduction — appears to have begun in Anatolia and the broader Near East from approximately 6500 to 6000 BCE, making it one of the earliest metal-smelting technologies known. Lead's relatively low melting point (327°C) compared to copper makes it more accessible to early pyrotechnologies, and galena's distinctive luster may have attracted the attention of communities already experimenting with other minerals for ornament and tool production.\n\nThe earliest lead objects from archaeological sites are typically small beads or pendants — luxury ornamental items rather than practical tools — suggesting that lead, like early copper, first entered the human material repertoire as a prestige material. Lead smelting and [[event:15|copper smelting]] appear to have developed in close proximity geographically, and early metallurgists in Anatolia were likely experimenting with multiple metal-bearing minerals simultaneously rather than developing each metal in isolation.\n\nLead would later become economically important for its use as a solder, for lining water pipes and storage vessels, and as a component of bronze when alloyed with copper and tin. In ancient Rome, lead pipes, cookware, and wine sweeteners led to significant lead exposure in the population — a public health consequence that some historians have argued had demographic effects. The long history of lead's uses and toxicity begins with these Neolithic experiments in Anatolian metalworking.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lead#History",
+    "read_more_links": [
+        {
+            "title": "Lead History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lead"
+        },
+        {
+            "title": "History of Metallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_metallurgy_in_the_Near_East"
+        },
+        {
+            "title": "Chalcolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic"
+        },
+        {
+            "title": "Galena - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Galena"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lead_electrolytic_and_1cm3_cube.jpg/300px-Lead_electrolytic_and_1cm3_cube.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lead_electrolytic_and_1cm3_cube.jpg",
+            "caption": "Electrolytically refined pure (99.989 %) superficially oxidized lead nodules ...",
+            "attribution": "Wikimedia Commons, FAL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Symptoms_of_lead_poisoning_%28raster%29.png/300px-Symptoms_of_lead_poisoning_%28raster%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Symptoms_of_lead_poisoning_%28raster%29.png",
+            "caption": "Symptoms of lead poisoning, taken from entries at corresponding Wikipedia art...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kymographic_recording_of_the_effect_of_lead_on_frog_heart..jpg/300px-Kymographic_recording_of_the_effect_of_lead_on_frog_heart..jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Kymographic_recording_of_the_effect_of_lead_on_frog_heart..jpg",
+            "caption": "This kymographic recording shows the effect of lead (lead acetate), when infu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Parc_de_Versailles%2C_Bassin_de_Flore%2C_Jean-Baptiste_Tuby_%281672-79%29_07.jpg/300px-Parc_de_Versailles%2C_Bassin_de_Flore%2C_Jean-Baptiste_Tuby_%281672-79%29_07.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Parc_de_Versailles%2C_Bassin_de_Flore%2C_Jean-Baptiste_Tuby_%281672-79%29_07.jpg",
+            "caption": "Flora, resting on a flowerbed (Anemones, Roses, cornflowers and heliotropes),...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1192,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:ccae15c4ca99b9e7e0ded61e224a20fe039ef163e7de1a4e8a7a92fbc9d7b878",
+    "summary": "Pythagoras (c. 570–495 BC) was a Greek philosopher and mathematician from Samos whose school at Croton in southern Italy founded a tradition of mathematical investigation that profoundly influenced Western thought — including the theorem bearing his name, the mathematical analysis of musical harmony, and the philosophical concept that reality is fundamentally mathematical in nature.\n\nThe historical Pythagoras is difficult to separate from later tradition, as his followers maintained secretive customs and attributed their own discoveries to the master. What is reliably associated with Pythagoras and his school includes: the proof (or systematic use) of the right-triangle theorem that now bears his name (known in Babylon a millennium earlier, but independently developed in Greece); the discovery that musical intervals correspond to simple numerical ratios (a string half as long sounds an octave higher); and the philosophical doctrine that numbers are the fundamental reality underlying all phenomena. The Pythagorean school also taught the transmigration of souls and maintained dietary taboos. Their mathematical philosophy influenced Plato — especially the view that the physical world is a reflection of ideal mathematical forms — and through Plato shaped the entire subsequent Western philosophical tradition, including modern physics' assumption that the universe is describable by mathematics.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pythagoras",
+    "read_more_links": [
+        {
+            "title": "Pythagorean theorem",
+            "url": "https://en.wikipedia.org/wiki/Pythagorean_theorem"
+        },
+        {
+            "title": "Pythagorean school",
+            "url": "https://en.wikipedia.org/wiki/Pythagoreanism"
+        },
+        {
+            "title": "Pythagoras and music",
+            "url": "https://en.wikipedia.org/wiki/Pythagorean_tuning"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg/300px-Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg",
+            "caption": "Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/300px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
+            "caption": "Roman copy of a Greek original from the 2nd-1st century BC",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Do_Not_Eat_Beans.jpg/300px-Do_Not_Eat_Beans.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Do_Not_Eat_Beans.jpg",
+            "caption": "Do Not Eat Beans, [fol. 25 recto], pen and brown ink with watercolor on laid ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Hippasus",
+            "summary": "5th-century BC Pythagorean philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hippasus_Metapontinus_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png/250px-Hippasus_Metapontinus_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hippasus"
+        },
+        {
+            "name": "Philolaus",
+            "summary": "Greek philosopher (c. 470 – c. 385 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pythagoras_and_Philolaus.png/250px-Pythagoras_and_Philolaus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philolaus"
+        },
+        {
+            "name": "Nicolaus Copernicus",
+            "summary": "Mathematician and astronomer (1473–1543)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/250px-Nikolaus_Kopernikus_MOT.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+        },
+        {
+            "name": "Johannes Kepler",
+            "summary": "German astronomer and mathematician (1571–1630)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/250px-JKepler.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Kepler"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1911,
+    "parent_id": 71,
+    "granularity": "major",
+    "content_hash": "sha256:70939c31acf2077a0c84156e25b64a42bf52434b4741a549e7884792c1e753d9",
+    "summary": "Cyrus the Great (r. c. 559–530 BC) was the founder of the Achaemenid Persian Empire — the most remarkable conqueror of the 6th century BC, who in roughly two decades created the largest empire the world had yet seen by defeating the Median, Lydian, and Babylonian kingdoms in succession without destroying the cultures he conquered. His policy of tolerance, allowing subject peoples to worship their own gods and live according to their own customs, was a deliberate administrative strategy that contrasted sharply with Assyrian methods and earned him extraordinary legitimacy among conquered peoples.\n\nCyrus's conquests proceeded with almost supernatural swiftness: he overthrew Astyages of Media (his grandfather, by some traditions) around 550 BC, conquered [[event:1996|Croesus of Lydia]]'s wealthy Lydian kingdom in 547 BC, and then took Babylon in 539 BC without significant resistance (see [[event:1913|Fall of Babylon to Persia]]). In Babylon he presented himself as the legitimate successor of Babylonian kings, making offerings to Marduk and releasing the [[event:1908|Babylonian Captivity Judah]] Jewish exiles to return to their homeland — an act recorded in the [[event:1912|Cyrus Cylinder]] and referenced in multiple biblical texts. Isaiah called Cyrus the Lord's 'anointed' (mashiach) — the only non-Jewish figure in the Hebrew Bible given this title. He died campaigning against the Massagetae (Central Asian nomads) around 530 BC. His tomb at Pasargadae survives as a simple but elegant stone structure.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great",
+    "read_more_links": [
+        {
+            "title": "Cyrus conquests sequence",
+            "url": "https://en.wikipedia.org/wiki/Cyrus_the_Great#Conquests"
+        },
+        {
+            "title": "Cyrus in Hebrew Bible Isaiah",
+            "url": "https://en.wikipedia.org/wiki/Cyrus_the_Great#Hebrew_Bible"
+        },
+        {
+            "title": "Tomb of Cyrus Pasargadae",
+            "url": "https://en.wikipedia.org/wiki/Tomb_of_Cyrus"
+        },
+        {
+            "title": "Achaemenid founding dynasty",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_Empire#Foundation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rembrandt_Harmensz._van_Rijn_%28Dutch_-_Daniel_and_Cyrus_before_the_Idol_Bel_-_Google_Art_Project.jpg/300px-Rembrandt_Harmensz._van_Rijn_%28Dutch_-_Daniel_and_Cyrus_before_the_Idol_Bel_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rembrandt_Harmensz._van_Rijn_%28Dutch_-_Daniel_and_Cyrus_before_the_Idol_Bel_-_Google_Art_Project.jpg",
+            "caption": "Rembrandt Harmensz. van Rijn (Dutch - Daniel and Cyrus before the Idol Bel - Google Art Project",
+            "attribution": "Wikimedia Commons"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/300px-Pasargad_Tomb_Cyrus3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pasargad_Tomb_Cyrus3.jpg",
+            "caption": "This is a photo of a monument in Iran identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Cyrus_Cylinder.jpg/300px-Cyrus_Cylinder.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cyrus_Cylinder.jpg",
+            "caption": "استوانه حقوق بشر کوروش بزرگ در موزه بریتانیا. ",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Queen_Tomyris_and_the_head_of_Cyrus_the_Great.jpg/300px-Queen_Tomyris_and_the_head_of_Cyrus_the_Great.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Tomyris_and_the_head_of_Cyrus_the_Great.jpg",
+            "caption": "Queen Tomyris and the head of Cyrus the Great",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cambyses I",
+            "summary": "King of Persia from c. 580 to 559 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg/250px-Pasargadae%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cambyses_I"
+        },
+        {
+            "name": "Cambyses II",
+            "summary": "Ruler of the Achaemenid Empire from 530 to 522 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Stela_Cambyses_Apis_closeup.jpg/250px-Stela_Cambyses_Apis_closeup.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cambyses_II"
+        },
+        {
+            "name": "Astyages",
+            "summary": "Median king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/King_Astyages_submitting_to_Cyrus.jpg/250px-King_Astyages_submitting_to_Cyrus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Astyages"
+        },
+        {
+            "name": "Croesus",
+            "summary": "King of Lydia from 561 to 547 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Croesus_portrait.jpg/250px-Croesus_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Croesus"
+        },
+        {
+            "name": "Atossa",
+            "summary": "Persian Achaemenid empress (550–475 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Achaemenid_prince%27s_head_2.jpg/250px-Achaemenid_prince%27s_head_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Atossa"
+        },
+        {
+            "name": "Darius the Great",
+            "summary": "Persian ruler from 522 to 486 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Darius_I.jpg/250px-Darius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

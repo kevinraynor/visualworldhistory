@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3846,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f60d6841387008970a13d7151b98e0eeb064b3d1802b53cae10f82267b4438b1",
+    "summary": "The eruption of Vesuvius and destruction of Pompeii (79 AD) — covered by the same event as [[event:2019|eruption_of_vesuvius_pompeii]] in the registry — was one of antiquity's most catastrophic natural disasters, burying the Roman cities of Pompeii, Herculaneum, Stabiae, and Oplontis under meters of volcanic ash and pyroclastic material. The eruption was witnessed and described in two letters by Pliny the Younger to the historian Tacitus, which provide one of antiquity's most vivid eyewitness accounts of a natural disaster — and record the death of his uncle Pliny the Elder, who sailed toward the eruption to rescue survivors and was overcome by the fumes.\n\nThe paradox of Pompeii is that destruction created preservation: the volcanic material that killed the cities' inhabitants sealed their physical world in remarkable detail. Excavations beginning in the 18th century revealed streets, houses, shops, temples, brothels, bakeries, thermopolia (fast food restaurants), wall paintings, mosaics, graffiti, and even the forms of human bodies (preserved as plaster casts after the organic matter decomposed, leaving hollow spaces in the ash). Pompeii has become the most intensively studied archaeological site in the world, providing an unparalleled window into ordinary Roman urban life at the height of the empire — social relations, commercial life, popular culture, art, religion, and daily routine. Over 1,700 years of Italian volcanic activity has buried the site repeatedly, and ongoing excavations continue to make new discoveries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+    "read_more_links": [
+        {
+            "title": "Pliny the Younger letters Vesuvius",
+            "url": "https://en.wikipedia.org/wiki/Pliny_the_Younger#Letters_about_Vesuvius"
+        },
+        {
+            "title": "Pompeii archaeological site",
+            "url": "https://en.wikipedia.org/wiki/Pompeii"
+        },
+        {
+            "title": "Pompeii plaster casts bodies",
+            "url": "https://en.wikipedia.org/wiki/Pompeii#Casts"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg/300px-Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg",
+            "caption": "Briullov visited Pompeii in 1828 and made sketches depicting the AD 79 Vesuvi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pompeii%26Vesuvius.JPG/300px-Pompeii%26Vesuvius.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pompeii%26Vesuvius.JPG",
+            "caption": "Pompeii, with Vesuvius towering above.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Destruction_of_Pompeii_and_Herculaneum.jpg/300px-Destruction_of_Pompeii_and_Herculaneum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Destruction_of_Pompeii_and_Herculaneum.jpg",
+            "caption": "The restored version of John Martin's Destruction of Pompeii and Herculaneum",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wn%C4%99trze_krateru_Wezuwiusz.jpg/300px-Wn%C4%99trze_krateru_Wezuwiusz.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Wn%C4%99trze_krateru_Wezuwiusz.jpg",
+            "caption": "Interior of the Vesuvius crater",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Martin (painter)",
+            "summary": "English painter, engraver and illustrator (1789–1854)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/John_Martin_by_Henry_Warren.jpg/250px-John_Martin_by_Henry_Warren.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Martin_%28painter%29"
+        },
+        {
+            "name": "Pliny the Younger",
+            "summary": "Roman lawyer, author and magistrate (61 – c. 113)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Pliny_the_Younger_and_his_Mother_at_Misenum%2C_79_A.D.%2C_by_Angelica_Kauffmann%2C_English%2C_1785%2C_oil_on_canvas_-_Princeton_University_Art_Museum_-_DSC06494_%28cropped%29.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Younger"
+        },
+        {
+            "name": "Suetonius",
+            "summary": "Roman historian (c. AD 69 – after AD 122)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Suetonius_etching_%28cropped%29.jpg/250px-Suetonius_etching_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suetonius"
+        },
+        {
+            "name": "Nero",
+            "summary": "Roman emperor from AD 54 to 68",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/250px-Nero_Glyptothek_Munich_321.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nero"
+        },
+        {
+            "name": "Tacitus",
+            "summary": "Roman historian and senator (56–120)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/250px-Wien-_Parlament-Tacitus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tacitus"
+        },
+        {
+            "name": "Haraldur Sigurðsson",
+            "summary": "Icelandic volcanologist and geochemist (born 1939)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr_Haraldur_Sigur%C3%B0sson.jpg/250px-Dr_Haraldur_Sigur%C3%B0sson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Haraldur_Sigur%C3%B0sson"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2646,
+    "parent_id": 111,
+    "granularity": "notable",
+    "content_hash": "sha256:22f72e0949f3782c2dfb5bdd010016ac2b03c0bf626154c2d281704dc1ee11fa",
+    "summary": "The October Revolution of 1917 (occurring in November by the Gregorian calendar) was the Bolshevik seizure of power in Petrograd, Russia, which overthrew the Provisional Government and established the world's first Communist state. Led by Vladimir Lenin and organized by Leon Trotsky, the Bolsheviks mobilized Red Guards and sympathetic military units to seize key government buildings, communications nodes, and infrastructure in a largely bloodless coup on the night of 25–26 October (Old Style). The Provisional Government's ministers were arrested in the Winter Palace; the government itself had been so weakened by its continued prosecution of the war and failure to address land reform that it collapsed with minimal resistance.\n\nThe October Revolution was the culmination of the dual-power crisis that had existed since the [[event:3326|February Revolution]] eight months earlier. The Provisional Government had pledged to continue Russia's participation in [[event:110|World War I]], a deeply unpopular position that eroded its support among soldiers, workers, and peasants. The Bolsheviks' slogans — \"Peace, Land, Bread\" and \"All Power to the Soviets\" — spoke directly to these grievances. Lenin's April Theses had argued that the revolution should not stop at bourgeois democracy but proceed immediately to socialist revolution, a controversial position that the Bolsheviks ultimately carried out.\n\nThe seizure of power was followed by a declaration of Soviet rule and initial decrees on land redistribution and an armistice with Germany. But the new regime faced immediate challenges: a [[event:2647|devastating civil war]], foreign intervention, and the enormous task of governing a vast, multiethnic empire in the midst of economic collapse. The October Revolution's legacy remains deeply contested — celebrated by its partisans as the dawn of socialist liberation, condemned by its critics as the founding act of a totalitarian state that would impose immense suffering on its peoples.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/October_Revolution",
+    "read_more_links": [
+        {
+            "title": "October Revolution – Britannica",
+            "url": "https://www.britannica.com/event/Russian-Revolution-of-1917"
+        },
+        {
+            "title": "Vladimir Lenin – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+        },
+        {
+            "title": "Bolsheviks – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bolsheviks"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/GunAurora061609.jpg/300px-GunAurora061609.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/GunAurora061609.jpg",
+            "caption": "Forward gun on Cruiser Aurora that fired the signal shot for the Bolshevik 19...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CruiserAurora061609.jpg/300px-CruiserAurora061609.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/CruiserAurora061609.jpg",
+            "caption": "Russian Cruiser Aurora in St. Petersburg, Russia.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/19191107-lenin_second_anniversary_october_revolution_moscow.jpg/300px-19191107-lenin_second_anniversary_october_revolution_moscow.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/19191107-lenin_second_anniversary_october_revolution_moscow.jpg",
+            "caption": "Soviet leaders Red Square, Moscow, USSR celebrating the second anniversary of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/300px-Lenin_in_1920_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lenin_in_1920_%28cropped%29.jpg",
+            "caption": "Standing portrait of Vladimir Lenin (1870–1924), Marxist revolutionary and le...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Winter Palace",
+            "summary": "Former imperial palace in Saint Petersburg, Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg/250px-RUS-2016-Aerial-SPB-Winter_Palace_%28crop%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Winter_Palace"
+        },
+        {
+            "name": "Left Socialist-Revolutionaries",
+            "summary": "Revolutionary political party in Russia from 1917 to 1921",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BB%D0%B5%D0%B2%D1%8B%D1%85_%D1%8D%D1%81%D0%B5%D1%80%D0%BE%D0%B2.svg/250px-%D0%9A%D0%B0%D0%BB%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%BB%D0%B5%D0%B2%D1%8B%D1%85_%D1%8D%D1%81%D0%B5%D1%80%D0%BE%D0%B2.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Left_Socialist-Revolutionaries"
+        },
+        {
+            "name": "Vladimir Lenin",
+            "summary": "Leader of the Soviet Union from 1922 to 1924",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/250px-Lenin_in_1920_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+        },
+        {
+            "name": "Leon Trotsky",
+            "summary": "Soviet politician and revolutionary (1879–1940)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/250px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Trotsky"
+        },
+        {
+            "name": "Lev Kamenev",
+            "summary": "Russian revolutionary and Soviet politician (1883–1936)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lev_Kamenev_1920s_%28cropped%29%28b%29.jpg/250px-Lev_Kamenev_1920s_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lev_Kamenev"
+        },
+        {
+            "name": "Vladimir Antonov-Ovseenko",
+            "summary": "Soviet revolutionary and diplomat (1883–1938)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/V_A_Antonov-Ovseenko.jpeg/250px-V_A_Antonov-Ovseenko.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Antonov-Ovseenko"
+        }
+    ],
+    "territory_geojson": null
+}

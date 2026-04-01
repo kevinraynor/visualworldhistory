@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 23,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f8bcf0e8c587c644a53f62c7cab7f6ad4fb4c0c5f06319899ee8deb16dac25f4",
+    "summary": "The domestication of cattle in Africa, most likely centered in the eastern Sahara and northeastern Africa during the ninth and eighth millennia BCE, represents an independent domestication event distinct from the domestication of Bos taurus in the Near East. African cattle, known as the African subspecies of Bos taurus or sometimes distinguished as a separate domestication lineage, appear to have been brought under human management by communities living in the wetter, greener Sahara of the early Holocene — a period when the [[event:17|Saharan Green Period]] made the now-desert hospitable to both people and large animals.\n\nGenetic and archaeozoological evidence suggests that wild aurochs (Bos primigenius) were independently domesticated in northeastern Africa, perhaps in the region of modern Sudan and Egypt, sometime between 10,000 and 7000 BCE. The resulting African cattle were subsequently herded across a vast landscape as communities adapted to the semi-arid grassland environments of the Green Sahara. Rock art from the Tassili n'Ajjer in Algeria and similar sites across the Sahara depicts elongated-horned cattle in scenes that suggest these animals held not merely economic but deep cultural and possibly religious significance for their herders.\n\nAfrican cattle pastoralism was closely tied to human mobility and the management of rainfall variability. Unlike the settled farming communities of the Levant, African herding societies often maintained semi-nomadic lifestyles, moving their herds seasonally to follow grazing resources. This pastoral adaptation proved enormously successful across the African continent and, as the Sahara dried after 5500 BCE, cattle herders expanded southward into sub-Saharan Africa, carrying their animals, languages, and practices into new environments. The spread of cattle pastoralism through Africa represents one of the formative movements in African prehistory.\n\nThe deep cultural importance of cattle in African societies — reflected in the role of cattle as bride wealth, ritual sacrifice, and prestige wealth among many African peoples today — has roots in these early herding communities of the Neolithic Green Sahara. The animal's centrality to social and economic life in numerous African cultures can be traced in an unbroken line back to the first African pastoralists of this era.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cattle#Domestication_and_husbandry",
+    "read_more_links": [
+        {
+            "title": "African Pastoralism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pastoralism#Africa"
+        },
+        {
+            "title": "Aurochs - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aurochs"
+        },
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "Prehistoric Africa - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-Africa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Beef_cattle_in_a_feedlot_in_New_Mexico.jpg/300px-Beef_cattle_in_a_feedlot_in_New_Mexico.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Beef_cattle_in_a_feedlot_in_New_Mexico.jpg",
+            "caption": "Beef cattle in a feedlot in New Mexico",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cow_giving_birth%2C_in_Laos_%28step_by_step%29.jpg/300px-Cow_giving_birth%2C_in_Laos_%28step_by_step%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Cow_giving_birth%2C_in_Laos_%28step_by_step%29.jpg",
+            "caption": "Cow giving birth to a calf, in a garden in Laos. Step by step, montage in 9 p...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2014-07-25_Melkkarussel_-_Hemme_Milch_%285%29.jpg/300px-2014-07-25_Melkkarussel_-_Hemme_Milch_%285%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2014-07-25_Melkkarussel_-_Hemme_Milch_%285%29.jpg",
+            "caption": "Rotary milking parlours at Hemme Milch Wedemark, Lower Saxony (photographed t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 de"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Aberdeen_Angus_im_Gadental_2.JPG/300px-Aberdeen_Angus_im_Gadental_2.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Aberdeen_Angus_im_Gadental_2.JPG",
+            "caption": "Aberdeen Angus im Gadental an den Steilhängen des Muttawangjoch oder auch Mut...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 at"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Princeton University Press",
+            "summary": "Independent publisher associated with Princeton University",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Princeton_University_Press_logo.svg/250px-Princeton_University_Press_logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princeton_University_Press"
+        }
+    ],
+    "territory_geojson": null
+}

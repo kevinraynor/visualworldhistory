@@ -1,0 +1,76 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1546,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:52ff8abc9395d3de56cbcf4fc6b6649d7bb50f67d0b0fb80c778cbd051e394ed",
+    "summary": "The invention of the plow — the ard or scratch plow in its earliest forms — represents one of the most important agricultural innovations in human history, enabling a dramatic increase in the area of land that could be cultivated and the productivity of farming. The earliest evidence for plow use dates to approximately 4500–4000 BCE in Mesopotamia and the Near East, with depictions on Mesopotamian clay tablets and clay models of ox-drawn ards providing some of the earliest direct evidence. Evidence from Europe appears around the same period, including ard marks preserved beneath Neolithic burial mounds in Denmark and Britain.\n\nThe simplest form of plow, the ard or scratch plow, consists of a pointed implement dragged through the soil to break it up for planting. Unlike modern moldboard plows that turn and invert the soil, the ard merely scores a furrow without turning it. In heavy soils, ard plowing was typically done in two directions at right angles — cross-plowing — to achieve adequate soil preparation. The ard was typically pulled by oxen, representing the first systematic harnessing of large animal draft power for agriculture. This combination of animal traction and mechanical tillage dramatically increased the amount of land a single farming family could cultivate.\n\nThe agricultural revolution enabled by the plow had far-reaching social consequences. Increased agricultural productivity supported larger populations and greater food surplus, which in turn underwrote the development of specialized non-agricultural occupations, trade, and urban life. In Mesopotamia, plow agriculture was closely associated with the development of [[event:31|Sumerian civilization]] and the management of large irrigated agricultural estates by temple and palace institutions. The plow became a fundamental component of the agricultural package — alongside [[event:1545|wheeled vehicles]], draft animals, and irrigation — that defined the Bronze Age agrarian economy.\n\nIn European prehistory, ard marks preserved in peat bogs and beneath burial mounds have been found at numerous Neolithic and Bronze Age sites, confirming that plow agriculture was widespread across Europe by the third millennium BCE at the latest. The introduction of the plow to Europe, alongside cattle domestication, may have been part of the broader agricultural transformation associated with the spread of farming communities from the Near East and with [[event:1551|Linear Pottery Culture]] migrations across central Europe.\n\nThe plow transformed the relationship between human communities and the land. By making cultivation of heavier soils feasible, it expanded the agricultural frontier into landscapes previously unsuitable for farming. This geographic expansion of agriculture, combined with increased per-household productivity, drove population growth and social complexity across Eurasia. The plow remains one of the most significant labor-saving devices in human history, and its introduction marks a decisive threshold in the development of agrarian civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plough#History",
+    "read_more_links": [
+        {
+            "title": "Plough - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Plough"
+        },
+        {
+            "title": "History of agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture"
+        },
+        {
+            "title": "Ard (implement) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ard_(plough)"
+        },
+        {
+            "title": "Agricultural tools history - Britannica",
+            "url": "https://www.britannica.com/technology/plow"
+        },
+        {
+            "title": "Neolithic agriculture - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/9/the-first-farmers/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg/300px-Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg",
+            "caption": "Rosa Bonheur - Ploughing in Nevers - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Steel_plough%2C_Emly.jpg/300px-Steel_plough%2C_Emly.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Steel_plough%2C_Emly.jpg",
+            "caption": "Steel plough, Emly",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Robert_Burns_statue%2C_Schenley_Park%2C_Pittsburgh_-_1.jpg/300px-Robert_Burns_statue%2C_Schenley_Park%2C_Pittsburgh_-_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Robert_Burns_statue%2C_Schenley_Park%2C_Pittsburgh_-_1.jpg",
+            "caption": "Robert Burns statue, Schenley Park, Pittsburgh, Pennsylvania, USA. Sculptor: ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bigham_Brother_Tomato_Tiller.JPG/300px-Bigham_Brother_Tomato_Tiller.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bigham_Brother_Tomato_Tiller.JPG",
+            "caption": "A one pass seedbed till (a sort of ridger) by Bigham Brothers at World Ag Exp...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Decomposition",
+            "summary": "Process of breaking down organic matter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Strawberries_time-lapse.ogv/150px--Strawberries_time-lapse.ogv.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Decomposition"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        }
+    ],
+    "territory_geojson": null
+}

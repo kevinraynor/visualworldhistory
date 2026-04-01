@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1661,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:bac8035a55ff1938b8dc99e206a5f15d304abb06c589541bb549af2a17b866cb",
+    "summary": "Dowth is a Neolithic passage tomb in the Boyne Valley of County Meath, Ireland, constructed around 3200-3100 BCE and forming the third of the great monument trio that includes [[event:1659|Newgrange]] and [[event:1660|Knowth]]. Less thoroughly excavated and studied than its companion monuments, Dowth is notable for its solar alignment, its decorated kerbstones, and its position as the northernmost of the three great Boyne Valley passage tombs.\n\nThe mound at Dowth is approximately 85 meters in diameter and about 15 meters tall — similar in scale to the other great Boyne Valley monuments — and contains two passage tombs opening from the western side of the mound. One passage terminates in a small chamber, while the other leads to a cruciform chamber with three recesses similar to the plan of Newgrange. A souterrain (underground passage) of later Iron Age construction has complicated the interpretation of the earlier Neolithic features. The mound was heavily disturbed by nineteenth-century amateur excavation, limiting the information recoverable from it.\n\nDowth's western passages are aligned to capture the setting sun around the winter solstice, complementing Newgrange's alignment with the rising winter solstice sun. This astronomical complementarity between the three monuments, if intentional (which scholars debate), would suggest a sophisticated coordinated planning of the entire Boyne Valley ritual landscape. Together, Dowth, Knowth, and Newgrange constitute one of the world's most impressive concentrations of Neolithic sacred architecture and form the UNESCO World Heritage Site of Brú na Bóinne.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dowth",
+    "read_more_links": [
+        {
+            "title": "Brú na Bóinne - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Br%C3%BA_na_B%C3%B3inne"
+        },
+        {
+            "title": "Newgrange - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Newgrange"
+        },
+        {
+            "title": "Neolithic Ireland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Ireland"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tumulus_de_Dowth_3.JPG/300px-Tumulus_de_Dowth_3.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Tumulus_de_Dowth_3.JPG",
+            "caption": "Tumulus de Dowth, dans le comté de Meath, Eire",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dowth_Passage_Tomb.2.JPG/300px-Dowth_Passage_Tomb.2.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dowth_Passage_Tomb.2.JPG",
+            "caption": "Dowth Passage Tomb",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dowth_chamber_entrance_2014_2.jpg/300px-Dowth_chamber_entrance_2014_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Dowth_chamber_entrance_2014_2.jpg",
+            "caption": "West entrance chamber at Dowth",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dowth-Stone_of_the_Seven_Suns.JPG/300px-Dowth-Stone_of_the_Seven_Suns.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dowth-Stone_of_the_Seven_Suns.JPG",
+            "caption": "Dowth passage tomb - kerbstone named \"Stone of the Seven Suns\"",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Newgrange",
+            "summary": "Neolithic monument in County Meath, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/250px-Irelands_history.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Newgrange"
+        },
+        {
+            "name": "Rock art",
+            "summary": "Human-made markings on natural stone",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petroglyph_jqjacobs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_art"
+        }
+    ],
+    "territory_geojson": null
+}

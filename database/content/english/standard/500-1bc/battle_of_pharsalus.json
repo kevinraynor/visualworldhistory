@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1078,
+    "parent_id": 1077,
+    "granularity": "detailed",
+    "content_hash": "sha256:1e4fc580dc1b4cc570910cc21884934596103b089dc7ae59a55dea08652903bb",
+    "summary": "The Battle of Pharsalus (48 BC) was the decisive engagement of [[event:1077|Caesar's Civil War]], fought in the Thessalian plain near the town of Pharsalus, in which Julius Caesar's outnumbered veterans defeated Pompey's larger army, shattering the Senate's military power and effectively deciding the war. After the battle, Caesar's dominance over the Roman world was never again seriously challenged in pitched battle.\n\nPompey had roughly twice Caesar's numbers, including more cavalry, and his officers reportedly discussed how to divide the spoils of inevitable victory. Caesar recognized the cavalry threat and placed a hidden reserve of veteran infantry on his right flank, angled back. When Pompey's cavalry swept Caesar's cavalry from the field and turned to charge the legion's flank — the decisive stroke they had planned — Caesar's hidden reserve stood firm, then counter-attacked, driving the cavalry from the field. Pompey's left flank, now exposed, collapsed and was enveloped. Pompey fled to his camp, then to his ships, then to Egypt, where he was assassinated.\n\nCaesar reportedly wept when shown Pompey's severed head — genuine emotion or political theater, ancient sources disagree. He treated most Pompeian soldiers who surrendered with clemency, offering pardon rather than execution, a policy he called clementia Caesaris (Caesar's mercy) that was both politically astute and genuinely characteristic of the man.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
+    "read_more_links": [
+        {
+            "title": "Julius Caesar",
+            "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "title": "Pompey",
+            "url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "title": "Caesar's Civil War",
+            "url": "https://en.wikipedia.org/wiki/Caesar%27s_Civil_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BattlePharsalus-LIX.png/300px-BattlePharsalus-LIX.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/BattlePharsalus-LIX.png",
+            "caption": "The positioning of troops at the battle of Pharsalus.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Niccol%C3%B2_da_Bologna_01.jpg/300px-Niccol%C3%B2_da_Bologna_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Niccol%C3%B2_da_Bologna_01.jpg",
+            "caption": "Lucanus: De bello civili (Pharsalia)  Lucan (born A.D. 39 in Cordoba, Spain),...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Battle_of_Pharsalus%2C_48_BC.png/300px-Battle_of_Pharsalus%2C_48_BC.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Battle_of_Pharsalus%2C_48_BC.png",
+            "caption": "Battle of Pharsalus, 48 BC",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "name": "Legionary",
+            "summary": "Professional soldier of the Roman army",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wells_0706_054.jpg/250px-Wells_0706_054.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Legionary"
+        },
+        {
+            "name": "Quintus Caecilius Metellus Pius Scipio",
+            "summary": "1st century BC Roman politician and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Silver_denarius_of_Metellus_Scipio_47_46_BCE.jpg/250px-Silver_denarius_of_Metellus_Scipio_47_46_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Pius_Scipio"
+        },
+        {
+            "name": "Eutropius (historian)",
+            "summary": "4th century Roman historian and official",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Miniature_of_Eutropius.jpg/250px-Miniature_of_Eutropius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eutropius_%28historian%29"
+        }
+    ],
+    "territory_geojson": null
+}

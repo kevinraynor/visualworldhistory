@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1053,
+    "parent_id": 1052,
+    "granularity": "notable",
+    "content_hash": "sha256:d116fb3e47b3e6250e7853d900b2189095f2ef3f74d25ea56b8ee5bf95966f23",
+    "summary": "The First Punic War (264–241 BC) was the opening conflict of the [[event:1052|Punic Wars]], fought primarily in Sicily and at sea, that ended Carthaginian control of the island and established Rome as a significant naval power for the first time. The war began with Rome's intervention in a dispute between Carthage and Syracuse over the Sicilian city of Messana — a limited intervention that spiraled into a twenty-three year struggle.\n\nRome's critical strategic challenge was that Carthage possessed a powerful navy and Sicily could not be conquered without controlling the surrounding sea. In an extraordinary feat of engineering and determination, Rome built a fleet of over a hundred warships — allegedly using a beached Carthaginian ship as the template — within sixty days, and trained crews on rowers drilling on land before the ships were even launched. The Romans compensated for their sailors' inexperience by inventing the corvus, a spiked boarding bridge that turned sea battles into the land fighting at which they excelled. An early naval victory at the [[event:1060|Battle of Mylae]] demonstrated this approach's effectiveness.\n\nThe war saw enormous losses on both sides, largely from storms rather than battle — Roman fleets of hundreds of ships were destroyed multiple times by storms. Roman resilience was remarkable: each time, Rome rebuilt its fleet and continued fighting. The war ended when a final Roman naval victory at the Aegates Islands in 241 BC cut off Carthage's forces in Sicily, forcing a negotiated peace. Carthage ceded Sicily and paid a large indemnity; Sicily became Rome's first overseas province, providing the administrative model that Rome would replicate across the Mediterranean.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Punic_War",
+    "read_more_links": [
+        {
+            "title": "Corvus (Roman navy)",
+            "url": "https://en.wikipedia.org/wiki/Corvus_(boarding_device)"
+        },
+        {
+            "title": "Battle of the Aegates Islands",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_the_Aegates_Islands"
+        },
+        {
+            "title": "Roman Sicily",
+            "url": "https://en.wikipedia.org/wiki/Roman_Sicily"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hannibal_Slodtz_Louvre_MR2093.png/300px-Hannibal_Slodtz_Louvre_MR2093.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hannibal_Slodtz_Louvre_MR2093.png",
+            "caption": "Hannibal Barca counting the rings of the Roman knights killed at the Battle o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Altar_Domitius_Ahenobarbus_Louvre_n3_%28cropped%29.jpg/300px-Altar_Domitius_Ahenobarbus_Louvre_n3_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Altar_Domitius_Ahenobarbus_Louvre_n3_%28cropped%29.jpg",
+            "caption": "Sacrifice scene during a census: Right part of a plaque from the Altar of Dom...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/CILI%282%29p47fgtXXFastitriumphales.jpg/300px-CILI%282%29p47fgtXXFastitriumphales.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/CILI%282%29p47fgtXXFastitriumphales.jpg",
+            "caption": "Fasti triumphales.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/First_Punic_War_264_BC_v3.png/300px-First_Punic_War_264_BC_v3.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/First_Punic_War_264_BC_v3.png",
+            "caption": "Map of the western Mediterranean Sea in 264 BC, focusing on the states involv...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Appian",
+            "summary": "Greco-Roman historian (c. 95 – c. 165)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Appian_%28Latin%29%2C_Florence%2C_BML%2C_Plut._68.19.jpg/250px-Appian_%28Latin%29%2C_Florence%2C_BML%2C_Plut._68.19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Appian"
+        },
+        {
+            "name": "Cassius Dio",
+            "summary": "Greco-Roman statesman and historian (c. 155–c. 235)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dio_Cassius.jpg/250px-Dio_Cassius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassius_Dio"
+        },
+        {
+            "name": "Adrian Goldsworthy",
+            "summary": "Welsh historian and author (born 1969)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Adrian_Goldsworthy-2.jpg/250px-Adrian_Goldsworthy-2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adrian_Goldsworthy"
+        }
+    ],
+    "territory_geojson": null
+}

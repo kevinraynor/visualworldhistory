@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2326,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a7f3fc392928c028691ead5a23a57d344006819e6f7facc87e5b23165a2fd53d",
+    "summary": "The Dutch Golden Age (c. 1588–1672 AD) was a period of extraordinary commercial, artistic, and scientific achievement during which the Dutch Republic — a small, recently independent state of roughly 1.5 million people — became the world's leading maritime trading power, the center of European capitalism and finance, and a global cultural powerhouse that produced Rembrandt, Vermeer, Spinoza, and Huygens. The Golden Age followed the [[event:2406|Dutch Revolt]] against Spanish Habsburg rule, which culminated in the declaration of independence (1581) and created a federated republic governed by merchant oligarchs rather than monarchs or nobles — a political structure uniquely supportive of commercial enterprise. The founding of the [[event:2357|Dutch East India Company]] (VOC, 1602) — the world's first joint-stock company with tradeable shares — gave the Dutch a corporate instrument of empire that monopolized the lucrative spice trade from the [[event:2518|Batavia]] base in Java.\n\nAt the peak of Dutch commercial dominance around 1650, Dutch merchant ships (the fluit — a cheap, efficient cargo vessel) carried more than half of all European seaborne trade. The [[event:3257|Amsterdam Stock Exchange]] and [[event:2511|banking institutions]] made Amsterdam the financial capital of Europe. Dutch colonial possessions stretched from New Amsterdam (Manhattan) to Brazil, from Ceylon to the Cape of Good Hope ([[event:2483|Cape Colony]]). The cultural flowering produced by this commercial wealth was equally remarkable: the Dutch school of painting ([[event:3259|Rembrandt]], Vermeer, Frans Hals), landscape art, still life, and genre painting emerged as distinctively bourgeois art forms; the [[event:2510|tulip mania]] of 1637 (history's first recorded speculative bubble) reflected the extraordinary liquid wealth of Dutch merchants. The Golden Age ended with the catastrophic French invasion of 1672 (the Rampjaar, 'Disaster Year'), which exposed the military limits of a commercial republic, though Dutch commercial and cultural influence persisted well into the 18th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dutch_Golden_Age",
+    "read_more_links": [
+        {
+            "title": "Dutch East India Company VOC spice trade",
+            "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company"
+        },
+        {
+            "title": "Dutch art Golden Age Rembrandt Vermeer painting",
+            "url": "https://en.wikipedia.org/wiki/Dutch_Golden_Age_painting"
+        },
+        {
+            "title": "Amsterdam financial capital trade dominance",
+            "url": "https://en.wikipedia.org/wiki/Amsterdam#Economic_history"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/300px-1665_Girl_with_a_Pearl_Earring.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg",
+            "caption": "Megapixel Girl with a Pearl Earring by Johannes Vermeer.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/300px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+            "caption": "La ronda de noche, por Rembrandt van Rijn",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jan_Steen_-_The_Dancing_Couple_-_Google_Art_Project.jpg/300px-Jan_Steen_-_The_Dancing_Couple_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jan_Steen_-_The_Dancing_Couple_-_Google_Art_Project.jpg",
+            "caption": "Jan Steen - The Dancing Couple - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Osias_Beert_the_Elder_-_Dishes_with_Oysters%2C_Fruit%2C_and_Wine_-_Google_Art_Project.jpg/300px-Osias_Beert_the_Elder_-_Dishes_with_Oysters%2C_Fruit%2C_and_Wine_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Osias_Beert_the_Elder_-_Dishes_with_Oysters%2C_Fruit%2C_and_Wine_-_Google_Art_Project.jpg",
+            "caption": "Osias Beert the Elder - Dishes with Oysters, Fruit, and Wine - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Rembrandt",
+            "summary": "Dutch painter and printmaker (1606–1669)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg/250px-Rembrandt_van_Rijn_-_Self-Portrait_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rembrandt"
+        },
+        {
+            "name": "Philip II of Spain",
+            "summary": "King of Spain (1556–1598), England (by marriage, 1554–1558), Portugal (1580–1598)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/250px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Spain"
+        },
+        {
+            "name": "Fernando Álvarez de Toledo, 3rd Duke of Alba",
+            "summary": "Spanish military leader and diplomat (1507–1582)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg/250px-Willem_Key_-_Don_Fernando_%C3%81lvarez_de_Toledo%2C_III_duque_de_Alba%2C_Fundaci%C3%B3n_Casa_de_Alba.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fernando_%C3%81lvarez_de_Toledo%2C_3rd_Duke_of_Alba"
+        },
+        {
+            "name": "John Maurice, Prince of Nassau-Siegen",
+            "summary": "Dutch soldier and administrator (1604–1679)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Portrait_of_Johan_Maurits_%281604-1679%29%2C_Count_of_Nassau-Siegen.jpg/250px-Portrait_of_Johan_Maurits_%281604-1679%29%2C_Count_of_Nassau-Siegen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Maurice%2C_Prince_of_Nassau-Siegen"
+        }
+    ],
+    "territory_geojson": null
+}

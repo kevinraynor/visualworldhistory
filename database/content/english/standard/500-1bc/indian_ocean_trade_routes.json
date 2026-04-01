@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1110,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8bbc4e99c52235f94ffe4fb20b1d1821a436aa2c67b0c43c6358ca5d3d87ec1a",
+    "summary": "The Indian Ocean Trade Routes (c. 300 BC onward) were maritime trade networks connecting the Indian subcontinent with Arabia, East Africa, and Southeast Asia, exploiting the predictable monsoon winds to enable regular voyaging across open ocean — one of the earliest and most consequential systems of long-distance maritime commerce.\n\nThe Greek navigator Hippalus is traditionally credited with the European 'discovery' of the monsoon system around 100 BC, though Indian and Arab mariners had used seasonal winds for centuries before. Goods flowing westward included Indian spices (pepper, cardamom), gems, cotton textiles, and indigo; flowing eastward came gold, silver, wine, glassware, and amphora goods from the Roman world. The Periplus of the Erythraean Sea (c. 1st century AD) provides a detailed merchant's guide to these routes. Ports like Barygaza (Bharuch), Muziri, and Poduke in India, Aden in Arabia, and Berenice in Egypt were nodes in a network that linked the Roman Empire to [[event:1107|Sangam Period Tamil Kingdoms]], Southeast Asian kingdoms, and eventually China via the maritime Silk Road.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indian_Ocean_trade",
+    "read_more_links": [
+        {
+            "title": "Periplus of the Erythraean Sea",
+            "url": "https://en.wikipedia.org/wiki/Periplus_of_the_Erythraean_Sea"
+        },
+        {
+            "title": "Monsoon winds",
+            "url": "https://en.wikipedia.org/wiki/Monsoon"
+        },
+        {
+            "title": "Indo-Roman trade relations",
+            "url": "https://en.wikipedia.org/wiki/Indo-Roman_trade_relations"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/300px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png",
+            "caption": "Proto-historic and historic maritime trade network of the Austronesian people...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Waves_in_pacifica_1.jpg/300px-Waves_in_pacifica_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Waves_in_pacifica_1.jpg",
+            "caption": "Sea Storm in Pacifica, w:California",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Stellardiagram-Zhengho.jpg/300px-Stellardiagram-Zhengho.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Stellardiagram-Zhengho.jpg",
+            "caption": "This navigational chart is one of the four stellar diagrams included in the W...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg/300px-Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Anonymous_Venetian_orientalist_painting%2C_The_Reception_of_the_Ambassadors_in_Damascus%27%2C_1511%2C_the_Louvre.jpg",
+            "caption": "This famous canvas, probably painted in the workshop of Gentile Bellini (d. 1...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zheng He",
+            "summary": "Chinese mariner and diplomat (1371–1433/1435)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/250px-2016_Malakka%2C_Stadhuys_%2809%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zheng_He"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Cornelius Gallus",
+            "summary": "Roman poet, orator and politician (died 26 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Egitto_romano%2C_testa_forse_di_g._cornelio_gallo%2C_30_ac_ca.jpg/250px-Egitto_romano%2C_testa_forse_di_g._cornelio_gallo%2C_30_ac_ca.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cornelius_Gallus"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        }
+    ],
+    "territory_geojson": null
+}

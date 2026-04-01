@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2035,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:6a694e72e953880ed722d71c7717d813880278f9376673af0dd2854a4f22c47b",
+    "summary": "Attila (r. 434–453 AD) was the king of the Hunnic Empire and one of the most feared military leaders in history — the 'Scourge of God' (flagellum Dei) who devastated the Eastern Roman Empire in multiple campaigns, extorted enormous tribute payments from Constantinople, and came close to conquering Western Europe before being stopped at the [[event:2036|Battle of Catalaunian Plains]]. His brief empire stretched from the Rhine to the steppes of Central Asia, held together by his personal authority and military terror.\n\nAttila's campaigns against the Eastern Roman Empire (441–443, 447 AD) destroyed dozens of cities and reportedly killed or enslaved hundreds of thousands, forcing Constantinople to pay massive gold tribute. His campaigns in the West (451 and 452 AD) devastated Gaul and northern Italy, with towns like Aquileia destroyed so thoroughly that refugees fled to the lagoons that would become Venice. His death in 453 AD — reportedly from a nosebleed on his wedding night, though assassination has been suspected — caused his empire to collapse almost immediately as his sons fought over the succession and his subject peoples revolted. Attila became a central figure in Germanic heroic legend (as Etzel in the Nibelungenlied) and the symbol of destructive barbarian invasion in Western historical imagination.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Attila",
+    "read_more_links": [
+        {
+            "title": "Hunnic Empire extent",
+            "url": "https://en.wikipedia.org/wiki/Hunnic_Empire"
+        },
+        {
+            "title": "Attila Italian campaign Venice origins",
+            "url": "https://en.wikipedia.org/wiki/Venice#Origins"
+        },
+        {
+            "title": "Nibelungenlied Etzel Attila",
+            "url": "https://en.wikipedia.org/wiki/Nibelungenlied#Attila"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Nemzeti_M%C3%BAzeum_-_Attila-ki%C3%A1ll%C3%ADt%C3%A1s_-_Hun_harcos.jpg/300px-Nemzeti_M%C3%BAzeum_-_Attila-ki%C3%A1ll%C3%ADt%C3%A1s_-_Hun_harcos.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Nemzeti_M%C3%BAzeum_-_Attila-ki%C3%A1ll%C3%ADt%C3%A1s_-_Hun_harcos.jpg",
+            "caption": "Hungarian National Museum - Attila exhibition (2026): Hun warrior",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paczka_Ferenc_-_Attila_hal%C3%A1la_-_1884.jpg/300px-Paczka_Ferenc_-_Attila_hal%C3%A1la_-_1884.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Paczka_Ferenc_-_Attila_hal%C3%A1la_-_1884.jpg",
+            "caption": "Death of Attila",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Attila_et_les_Huns_par_Georges-Antoine_Rochegrosse.jpg/300px-Attila_et_les_Huns_par_Georges-Antoine_Rochegrosse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Attila_et_les_Huns_par_Georges-Antoine_Rochegrosse.jpg",
+            "caption": "Roman villa in Gaul sacked by the hordes of Attila the Hun.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Attila_Museum.JPG/300px-Attila_Museum.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Attila_Museum.JPG",
+            "caption": "Attila in a museum in Hungary. Photo taken 2005 by me.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ellac",
+            "summary": "King of the Huns (co-rulership)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Son_of_Attila.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ellac"
+        },
+        {
+            "name": "Germanic heroic legend",
+            "summary": "Heroic literary traditions of the Germanic-speaking peoples",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Siegfrieds_Tod.jpg/250px-Siegfrieds_Tod.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Germanic_heroic_legend"
+        },
+        {
+            "name": "Ulfilas",
+            "summary": "Goth bishop and theologian (c. 311–383)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Germania%2C_1882_1020017_%284358323359%29_%28cropped%29.jpg/250px-Germania%2C_1882_1020017_%284358323359%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ulfilas"
+        },
+        {
+            "name": "Wilhelm Grimm",
+            "summary": "German author (1786–1859)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Wilhelm_Grimm_Daguerreotype.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_Grimm"
+        },
+        {
+            "name": "George VI",
+            "summary": "King of the United Kingdom from 1936 to 1952",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/250px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_VI"
+        },
+        {
+            "name": "Mór Than",
+            "summary": "Hungarian painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Than_M%C3%B3r_Rusz.jpg/250px-Than_M%C3%B3r_Rusz.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%B3r_Than"
+        }
+    ],
+    "territory_geojson": null
+}

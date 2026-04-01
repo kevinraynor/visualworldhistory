@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1089,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:716356077132468cfe03adb4b49fddcd052304d35a1f305bad768d1ffc99d1f8",
+    "summary": "The Pyrrhic War (280–275 BC) was a conflict between Rome and the Greek city of Tarentum (Taras) in southern Italy, which recruited the Epirote king Pyrrhus of Epirus — a brilliant general and cousin of Alexander the Great — to defend it against Roman expansion. The war gave the English language the phrase 'Pyrrhic victory' — a victory so costly that it amounts to defeat.\n\nPyrrhus brought an army with war elephants (the first the Romans had faced) to Italy and won two major battles, at Heraclea (280 BC) and Asculum (279 BC), but with such heavy losses to his irreplaceable veteran Epirote troops that he reportedly said after Asculum: 'If we are victorious in one more battle with the Romans, we shall be utterly ruined.' He was unable to convert military victories into political results — Rome refused to negotiate and kept raising new armies. Pyrrhus diverted to Sicily to fight Carthage, returned to Italy, suffered a defeat at Beneventum (275 BC), and withdrew to Greece, leaving Tarentum to fall to Rome. The wars demonstrated Rome's remarkable military resilience and its willingness to absorb enormous casualties, qualities that would prove decisive in the [[event:1052|Punic Wars]] that followed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pyrrhic_War",
+    "read_more_links": [
+        {
+            "title": "Pyrrhus of Epirus",
+            "url": "https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus"
+        },
+        {
+            "title": "Pyrrhic victory",
+            "url": "https://en.wikipedia.org/wiki/Pyrrhic_victory"
+        },
+        {
+            "title": "Tarentum",
+            "url": "https://en.wikipedia.org/wiki/Taranto"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/300px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+            "caption": "Pyrrhus MAN Napoli Inv6150 n03",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Relief_map_of_Italy_Calabria.png/300px-Relief_map_of_Italy_Calabria.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Relief_map_of_Italy_Calabria.png",
+            "caption": "Relief map of Calabria, Italy.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Relief_map_of_Italy_Sicily.png/300px-Relief_map_of_Italy_Sicily.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Relief_map_of_Italy_Sicily.png",
+            "caption": "Relief map of Sicily, Italy.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pyros.jpg/300px-Pyros.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pyros.jpg",
+            "caption": "Pyrrhos, King of Epirus, 278 276, minted at Syracuse, Bronze. ΦΘIAΣ Veiled he...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pyrrhus of Epirus",
+            "summary": "King of Epirus from 297 to 272 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus"
+        },
+        {
+            "name": "Manius Curius Dentatus",
+            "summary": "3rd century BC Roman general and statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dentatus.png/250px-Dentatus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Manius_Curius_Dentatus"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Ennius",
+            "summary": "Roman writer and poet (c. 239 – c. 169 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ny_Carlsberg_Glyptothek_-_Doppelherme_Vergil-Ennius.jpg/250px-Ny_Carlsberg_Glyptothek_-_Doppelherme_Vergil-Ennius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ennius"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        }
+    ],
+    "territory_geojson": null
+}

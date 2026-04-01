@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3687,
+    "parent_id": 2692,
+    "granularity": "detailed",
+    "content_hash": "sha256:05524b77914c13e9b05c74ba84ed0787b3528ccbba25d62d2e1541c216048727",
+    "summary": "Google was founded by Stanford University PhD students Larry Page and Sergey Brin in September 1998, developing from a research project called BackRub that began in 1996. The company's PageRank algorithm, which ranked search results according to the number and quality of links pointing to a page rather than simply keyword frequency, produced dramatically more relevant search results than existing search engines and rapidly made Google the dominant tool for navigating the World Wide Web.\n\nGoogle was incorporated and began operating from a garage in Menlo Park, California, before receiving $1 million in funding from investors including Sun Microsystems co-founder Andy Bechtolsheim. By 1999 it was handling over three million searches per day, and by 2000 it had become the world's largest search engine with an index of one billion web pages. The company developed the AdWords targeted advertising system that would become the foundation of its massive revenue model. Google's rise as a company epitomized the broader [[event:2692|Internet Revolution]] and the commercial potential of the World Wide Web, becoming in a few years one of the most influential companies in the world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Google",
+    "read_more_links": [
+        {
+            "title": "History of Google",
+            "url": "https://en.wikipedia.org/wiki/History_of_Google"
+        },
+        {
+            "title": "PageRank",
+            "url": "https://en.wikipedia.org/wiki/PageRank"
+        },
+        {
+            "title": "Larry Page",
+            "url": "https://en.wikipedia.org/wiki/Larry_Page"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/300px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+            "caption": "Belgium - Brussels - Schuman - Berlaymont - Seat of the European Commission",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/111_Eighth_Avenue.jpg/300px-111_Eighth_Avenue.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/111_Eighth_Avenue.jpg",
+            "caption": "A photograph of the Ninth Avenue façade of 111 Eighth Avenue, in the Chelsea ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg/300px-Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eric_Schmidt_at_the_37th_G8_Summit_in_Deauville_037.jpg",
+            "caption": "Eric Schmidt, Executive Chairman of Google Inc., at the press conference abou...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ad-tech_London_2010_%282%29.JPG/300px-Ad-tech_London_2010_%282%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ad-tech_London_2010_%282%29.JPG",
+            "caption": "Live on the 21st of September, 2010, ad:tech, London (at Olympia). This was t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Larry Page",
+            "summary": "American businessman (born 1973)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg/250px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Larry_Page"
+        },
+        {
+            "name": "Sergey Brin",
+            "summary": "American computer scientist (born 1973)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sergey_Brin_Ted_2010_%28cropped%29.jpg/250px-Sergey_Brin_Ted_2010_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sergey_Brin"
+        },
+        {
+            "name": "John L. Hennessy",
+            "summary": "American computer scientist (born 1952)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/John_L._Hennessy_by_Christopher_Michel_in_2024_01.jpg/250px-John_L._Hennessy_by_Christopher_Michel_in_2024_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_L._Hennessy"
+        },
+        {
+            "name": "Ruth Porat",
+            "summary": "American businessperson (born 1958)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/RuthPorat2016_%28cropped%29.jpg/250px-RuthPorat2016_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruth_Porat"
+        },
+        {
+            "name": "Public company",
+            "summary": "Company that offers its securities for sale to the general public",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/250px-New_York_Stock_Exchange_Facade_2015.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Public_company"
+        }
+    ],
+    "territory_geojson": null
+}

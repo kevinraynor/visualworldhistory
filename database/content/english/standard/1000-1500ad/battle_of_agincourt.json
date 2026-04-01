@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2237,
+    "parent_id": 2235,
+    "granularity": "detailed",
+    "content_hash": "sha256:60e82a000a3261dad44714481b58b7c6ddf4172721c3ddace093fe17b15e62ba",
+    "summary": "The Battle of Agincourt (October 25, 1415 AD) was the most celebrated English victory of the [[event:2235|Hundred Years' War]], in which Henry V's exhausted and heavily outnumbered English army — perhaps 6,000 men, mostly longbowmen — defeated a French force estimated at three to five times its size, killing thousands of French knights and nobles and capturing many more. The battle occurred as Henry V's army, weakened by dysentery and marching from Harfleur to Calais, was intercepted by the French army near the village of Agincourt in Picardy.\n\nThe French knights, dismounted and advancing in heavy plate armor through a rain-soaked plowed field, were decimated by English and Welsh longbowmen firing up to twelve arrows per minute from the flanks. The narrow front imposed by the wooded terrain negated French numerical advantage, and the armored knights, exhausted and fallen in the mud, were unable to fight effectively. Henry's controversial order to kill French prisoners midway through the battle (fearing a second French charge) was one of the most debated military decisions of the medieval period. Agincourt dramatically strengthened Henry V's domestic position, led directly to the Treaty of Troyes (1420) in which the French king recognized Henry as heir to the French throne, and became the defining myth of English military glory — immortalized by Shakespeare in Henry V, whose St. Crispin's Day speech remains one of the most famous passages in English literature.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt",
+    "read_more_links": [
+        {
+            "title": "Battle Agincourt longbow tactics",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Agincourt#Tactics"
+        },
+        {
+            "title": "Henry V Treaty Troyes France",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Troyes"
+        },
+        {
+            "title": "Shakespeare Henry V St Crispin Day speech",
+            "url": "https://en.wikipedia.org/wiki/Henry_V_(play)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Morning_of_the_Battle_of_Agincourt%2C_25th_October_1415.PNG/300px-Morning_of_the_Battle_of_Agincourt%2C_25th_October_1415.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Morning_of_the_Battle_of_Agincourt%2C_25th_October_1415.PNG",
+            "caption": "Morning of the Battle of Agincourt, 25th October 1415",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/300px-Schlacht_von_Azincourt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Schlacht_von_Azincourt.jpg",
+            "caption": "Battle of Agincourt (1415)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Agincourt_archers_memorial.jpg/300px-Agincourt_archers_memorial.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Agincourt_archers_memorial.jpg",
+            "caption": "A list of English archers killed at Agincourt, as recorded in the village's m...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Agincourt_Memorial.jpg/300px-Agincourt_Memorial.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Agincourt_Memorial.jpg",
+            "caption": "Memorial to the fallen of the battle of Agincourt, who have no memorial",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Saint Crispin's Day",
+            "summary": "(25 October) the feast day of the Christian saints Crispin and Crispinian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bossche_Saints_Crispin_and_Crispinian_%28detail%29_14.jpg/250px-Bossche_Saints_Crispin_and_Crispinian_%28detail%29_14.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Crispin%27s_Day"
+        },
+        {
+            "name": "Henry V of England",
+            "summary": "King of England from 1413 to 1422",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Henry_V_Miniature.jpg/250px-Henry_V_Miniature.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_V_of_England"
+        },
+        {
+            "name": "Humphrey, Duke of Gloucester",
+            "summary": "Lord Protector of England from 1422 to 1437",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HumphreyGloucester.jpg/250px-HumphreyGloucester.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Humphrey%2C_Duke_of_Gloucester"
+        },
+        {
+            "name": "Thomas Erpingham",
+            "summary": "English soldier and administrator (c. 1357 – 1428)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Statue_of_Sir_Thomas_Erpingham_%28Erpingham_Gate%2C_Norwich%29.jpg/250px-Statue_of_Sir_Thomas_Erpingham_%28Erpingham_Gate%2C_Norwich%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Erpingham"
+        },
+        {
+            "name": "Jean II Le Maingre",
+            "summary": "French knight, marshal and crusader (1366–1421)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Meister_des_Mar%C3%A9chal_de_Boucicaut_002.jpg/250px-Meister_des_Mar%C3%A9chal_de_Boucicaut_002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_II_Le_Maingre"
+        },
+        {
+            "name": "Edward III, Duke of Bar",
+            "summary": "Duke of Bar",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Agincourt%2C_St._Alban%27s_Chronicle_by_Thomas_Walsingham.jpg/250px-Battle_of_Agincourt%2C_St._Alban%27s_Chronicle_by_Thomas_Walsingham.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_III%2C_Duke_of_Bar"
+        }
+    ],
+    "territory_geojson": null
+}

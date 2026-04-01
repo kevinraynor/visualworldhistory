@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2253,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b5cffa1bf7167030101e9c50a3091f35251c6afb81c1f97986674c4c15555811",
+    "summary": "The Delhi Sultanate (1206–1526 AD) was the first major Islamic state to rule over a large portion of the Indian subcontinent, established following the Ghurid invasions pioneered by [[event:3526|Muhammad of Ghor's]] victories at the [[event:3527|Battles of Tarain]] (1191–1192), which broke the Hindu Rajput confederacy that had repelled [[event:2930|Mahmud of Ghazni's]] raids. The sultanate comprised five successive dynasties — the Mamluks (Slave Dynasty), Khilji, Tughlaq, Sayyid, and Lodi — ruling from Delhi over territories that varied dramatically in extent but at their peak under Alauddin Khalji (reigned 1296–1316) included almost the entire subcontinent.\n\nThe Delhi Sultanate's five-century existence fundamentally shaped the religious, cultural, and linguistic landscape of South Asia. It introduced Persian as the language of administration and elite culture, imported Central Asian and Persian architectural styles that fused with Indian traditions to create the distinctive Indo-Islamic architecture exemplified by the Qutb Minar and the early mosques of Delhi. The sultanate provided the institutional template for the Mughal Empire that succeeded it. It also presided over the virtual elimination of Buddhism from the Indian subcontinent — the destruction of the great Buddhist monasteries and universities (Nalanda, Vikramashila) by Ghurid and early sultanate armies in the 12th–13th centuries killed monks, burned libraries, and ended Buddhist institutional life in its homeland. The sultanate repelled the Mongol invasions that devastated Persia and Mesopotamia, with Alauddin Khalji defeating multiple Mongol armies — a military achievement that protected the subcontinent from the devastation that had struck western Asia. The Delhi Sultanate ended when the Afghan Lodi dynasty was defeated at the First Battle of Panipat (1526) by the Mughal founder Babur.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Delhi_Sultanate",
+    "read_more_links": [
+        {
+            "title": "Delhi Sultanate dynasties history",
+            "url": "https://en.wikipedia.org/wiki/Delhi_Sultanate#Dynasties"
+        },
+        {
+            "title": "Alauddin Khalji Mongol repulsion military",
+            "url": "https://en.wikipedia.org/wiki/Alauddin_Khalji"
+        },
+        {
+            "title": "Delhi Sultanate Indo-Islamic architecture",
+            "url": "https://en.wikipedia.org/wiki/Indo-Islamic_architecture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rani_ki_vav1.jpg/300px-Rani_ki_vav1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rani_ki_vav1.jpg",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Feroz_Shah_Kotla_view.jpg/300px-Feroz_Shah_Kotla_view.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Feroz_Shah_Kotla_view.jpg",
+            "caption": "Feroz Shah Kotla view",
+            "attribution": "Wikimedia Commons, GODL-India"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Balban_Khan%27s_Tomb_029.jpg/300px-Balban_Khan%27s_Tomb_029.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Balban_Khan%27s_Tomb_029.jpg",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lodhi_Garden%2C_New_Delhi._taken_by_Anita_Mishra.JPG/300px-Lodhi_Garden%2C_New_Delhi._taken_by_Anita_Mishra.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Lodhi_Garden%2C_New_Delhi._taken_by_Anita_Mishra.JPG",
+            "caption": "Lodhi Garden, New Delhi Sep.4.2013",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Khalji Revolution",
+            "summary": "1290 revolution in the Delhi Sultanate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Imaginary_portrait_of_Sultan_Firuz_Khalji%2C_Khwaja_Hasan%2C_and_a_dervish.jpg/250px-Imaginary_portrait_of_Sultan_Firuz_Khalji%2C_Khwaja_Hasan%2C_and_a_dervish.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Khalji_Revolution"
+        },
+        {
+            "name": "Qutb ud-Din Aibak",
+            "summary": "Ghurid general and Sultan of Delhi from 1206 to 1210",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grave_of_Sultan_Qutb_al-Din_Aibak.jpg/250px-Grave_of_Sultan_Qutb_al-Din_Aibak.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qutb_ud-Din_Aibak"
+        },
+        {
+            "name": "Ibrahim Khan Lodi",
+            "summary": "Sultan of Delhi from 1517 to 1526",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ibrahim_Lodi_at_the_Battle_of_Panipat_%281526%29.jpg/250px-Ibrahim_Lodi_at_the_Battle_of_Panipat_%281526%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Khan_Lodi"
+        },
+        {
+            "name": "Abbasid Caliphate",
+            "summary": "Third Islamic caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/250px-Abbasid_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+        },
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Muhammad of Ghor",
+            "summary": "Ghurid sultan from 1173 to 1206",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mu%27izz_al-Din_Muhammad._AH_599-602_AD_1171-1206.jpg/250px-Mu%27izz_al-Din_Muhammad._AH_599-602_AD_1171-1206.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_of_Ghor"
+        }
+    ],
+    "territory_geojson": null
+}

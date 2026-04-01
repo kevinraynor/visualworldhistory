@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2511,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:80e015988d51d882370678f9bdee3cf9376d5f9265e6dc56d423142f71dcbb73",
+    "summary": "The Founding of the Bank of England (1694 AD) was one of the most consequential financial innovations in history — the creation of a central bank that gave the British government access to long-term credit at low interest rates, enabling military spending that would otherwise be impossible, and establishing the financial infrastructure that would help fund the [[event:105|British Empire's]] global expansion and the [[event:108|Industrial Revolution]]. The bank was founded by Scottish merchant William Paterson as a joint-stock company, initially to lend £1.2 million to King William III to fund the [[event:3504|Nine Years' War]] against France, in exchange for incorporation rights and the privilege of issuing banknotes. The arrangement was mutually beneficial: the government received immediate funds; the bank received interest and a semi-monopoly on government banking.\n\nThe Bank of England's founding came in the context of England's post-[[event:2330|Glorious Revolution]] constitutional settlement: Parliament's control of taxation meant that government debt was secured by the 'credit of the nation' rather than merely the king's personal promise — making lending to Britain far safer than lending to absolutist monarchies whose commitments died with the monarch. This 'Financial Revolution' enabled Britain to mobilize credit on a scale France (with larger territory and population) could not match — a decisive advantage in the 18th-century wars against France. The bank's capacity to issue notes, regulate the currency, act as lender of last resort, and manage government debt gradually gave it the functions of a modern central bank, and its institutional design influenced central banks worldwide. Nationalized in 1946, the Bank of England remains one of the world's oldest and most influential central banks.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bank_of_England",
+    "read_more_links": [
+        {
+            "title": "William Paterson Bank England founded 1694 credit",
+            "url": "https://en.wikipedia.org/wiki/William_Paterson_(banker)"
+        },
+        {
+            "title": "Financial Revolution England government debt credit parliament",
+            "url": "https://en.wikipedia.org/wiki/Financial_Revolution"
+        },
+        {
+            "title": "Bank England lender last resort central bank history",
+            "url": "https://en.wikipedia.org/wiki/Bank_of_England#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/300px-Bank-of-England.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bank-of-England.jpg",
+            "caption": "View of the Bank of England building in July 2022",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_view_of_the_Bank_of_England%2C_Threadneedle_Street%2C_London_%28NYPL_Hades-280166-1253467%29.tiff/300px-A_view_of_the_Bank_of_England%2C_Threadneedle_Street%2C_London_%28NYPL_Hades-280166-1253467%29.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/A_view_of_the_Bank_of_England%2C_Threadneedle_Street%2C_London_%28NYPL_Hades-280166-1253467%29.tiff",
+            "caption": "* EM3505",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Former_Bank_of_England%2C_Birmingham.jpg/300px-Former_Bank_of_England%2C_Birmingham.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Former_Bank_of_England%2C_Birmingham.jpg",
+            "caption": "Built 1969-72 by Fitzroy Robinson and Partners",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Running_Cash_Note_-_Bank_of_England_Museum_-_Joy_of_Museums_-_2.jpg/300px-Running_Cash_Note_-_Bank_of_England_Museum_-_Joy_of_Museums_-_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Running_Cash_Note_-_Bank_of_England_Museum_-_Joy_of_Museums_-_2.jpg",
+            "caption": "Running Cash Note - Bank of England Museum - Joy of Museums - for information...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Andrew Bailey (banker)",
+            "summary": "British central banker (born 1959)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Andrew_Bailey_and_Jane_Hartley_%28Andrew_Bailey_3x4_cropped%29.jpg/250px-Andrew_Bailey_and_Jane_Hartley_%28Andrew_Bailey_3x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Bailey_%28banker%29"
+        },
+        {
+            "name": "James Gillray",
+            "summary": "British artist (1756–1815)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Jamesgillrayportrait.jpg/250px-Jamesgillrayportrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Gillray"
+        },
+        {
+            "name": "Chancellor of the Exchequer",
+            "summary": "Lead minister of His Majesty's Treasury",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg/250px-Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chancellor_of_the_Exchequer"
+        },
+        {
+            "name": "William III of England",
+            "summary": "King of England, Scotland, and Ireland from 1689 to 1702",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg/250px-King_William_III_of_England%2C_%281650-1702%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_III_of_England"
+        },
+        {
+            "name": "John Locke",
+            "summary": "English philosopher and physician (1632–1704)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg/250px-Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Locke"
+        },
+        {
+            "name": "William Paterson (banker)",
+            "summary": "Scottish trader and banker",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/New_Amsterdam_and_its_people%3B_studies%2C_social_and_topographical%2C_of_the_town_under_Dutch_and_early_English_rule_%281902%29_%2814579651777%29.jpg/250px-New_Amsterdam_and_its_people%3B_studies%2C_social_and_topographical%2C_of_the_town_under_Dutch_and_early_English_rule_%281902%29_%2814579651777%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Paterson_%28banker%29"
+        }
+    ],
+    "territory_geojson": null
+}

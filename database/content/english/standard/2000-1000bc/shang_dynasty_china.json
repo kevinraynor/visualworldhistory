@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 55,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:3f2eb6d4cd6f2dc93f938dfa0030b786307208d1adab8d21f4e3b21e4fa527db",
+    "summary": "The Shang dynasty, ruling from approximately 1600 to 1046 BC, was the first Chinese dynasty for which substantial archaeological and written evidence exists. Founded according to tradition after the overthrow of the legendary Xia dynasty, the Shang established a sophisticated bronze-age civilization in the Yellow River valley that laid foundational patterns for Chinese culture, writing, and statecraft.\n\nShang society was organized around a network of walled city-states dominated by a warrior aristocracy that derived its legitimacy partly from ritual communication with ancestors and deities. The king served as the paramount ritual specialist, presiding over elaborate sacrificial ceremonies and divination practices. [[event:1840|Oracle bones]] — animal bones and turtle shells heated until they cracked — were inscribed with questions addressed to royal ancestors and interpreted by diviner-priests, creating a corpus of inscribed records that represent the earliest substantial body of Chinese writing.\n\nThe [[event:1842|Chinese bronze casting]] tradition reached extraordinary heights under the Shang. Royal workshops produced ritual vessels of remarkable complexity, including massive cauldrons (ding), wine vessels, and weapons, decorated with stylized animal motifs known as taotie. These bronzes were central to royal legitimacy, used in ancestor veneration ceremonies and sometimes buried in lavish royal tombs.\n\nThe Shang capital moved several times over the dynasty's history. The final and best-documented capital, [[event:1841|Yin Xu near Anyang]], was occupied from about 1300 to 1046 BC and has been extensively excavated, revealing palace complexes, royal tombs, craft workshops, and thousands of oracle bone inscriptions. The tombs of Shang kings were among the richest burials of the ancient world, containing bronze ritual sets, jade objects, chariots, horses, and human sacrificial victims numbering in the hundreds.\n\nShang political authority rested on control over bronze production, which required copper and tin from distant sources, driving trade networks across a wide region. The dynasty also maintained a complex administrative system, with regional lords supplying tribute, corvée labor, and military service to the royal court. Shang warfare made use of bronze-tipped weapons and horse-drawn chariots, technologies shared with contemporaneous Near Eastern civilizations.\n\nThe Shang dynasty fell in 1046 BC when the Zhou king Wu led a coalition army to victory at the [[event:1844|Battle of Muye]], overthrowing the last Shang king Di Xin, who died in the burning of his palace. The victorious [[event:63|Zhou dynasty]] justified its conquest through the [[event:1845|Mandate of Heaven]], the concept that heaven grants rule to virtuous kings and withdraws it from the corrupt — a political doctrine that would shape Chinese political thought for millennia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shang_dynasty",
+    "read_more_links": [
+        {
+            "title": "Oracle Bones",
+            "url": "https://en.wikipedia.org/wiki/Oracle_bone"
+        },
+        {
+            "title": "Yinxu (Shang Capital)",
+            "url": "https://en.wikipedia.org/wiki/Yinxu"
+        },
+        {
+            "title": "Shang Dynasty - Britannica",
+            "url": "https://www.britannica.com/topic/Shang-dynasty"
+        },
+        {
+            "title": "Chinese Ritual Bronzes",
+            "url": "https://en.wikipedia.org/wiki/Chinese_ritual_bronzes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shang_Chariot_Burial_04.jpg/300px-Shang_Chariot_Burial_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Shang_Chariot_Burial_04.jpg",
+            "caption": "Yin Ruins, Anyang, Henan, China. Complete indexed photo collection at WorldHi...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HouMuWuDingFullView.jpg/300px-HouMuWuDingFullView.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HouMuWuDingFullView.jpg",
+            "caption": "Houmuwu Ding, also known as Simuwu Ding (wine vessel) is the heaviest piece o...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CMOC_Treasures_of_Ancient_China_exhibit_-_bronze_battle_axe.jpg/300px-CMOC_Treasures_of_Ancient_China_exhibit_-_bronze_battle_axe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/CMOC_Treasures_of_Ancient_China_exhibit_-_bronze_battle_axe.jpg",
+            "caption": "Bronze Battle Axe, Shang Dynasty (1600–1046 BC). Excavated at Subutun, Yidu, ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Oracle_bones_pit.JPG/300px-Oracle_bones_pit.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Oracle_bones_pit.JPG",
+            "caption": "Pit YH127 of oracle bones (甲骨) at Yinxu, Anyang, China. The oracle bones are ...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tang of Shang",
+            "summary": "Founder and first king of the Shang dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/King_Tang_of_Shang.jpg/250px-King_Tang_of_Shang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tang_of_Shang"
+        },
+        {
+            "name": "Di Xin",
+            "summary": "King of the ancient Chinese Shang dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg/250px-%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Di_Xin"
+        },
+        {
+            "name": "Shiji",
+            "summary": "Historical accounts of ancient China to Western Han",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%E5%8F%B2%E8%AE%B0.jpg/250px-%E5%8F%B2%E8%AE%B0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shiji"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Emperor Ku",
+            "summary": "Legendary ruler of China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Emperor_Ku.jpg/250px-Emperor_Ku.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Ku"
+        },
+        {
+            "name": "Xie of Shang",
+            "summary": "Founder of Predynastic Shang",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Xie_of_Shang.png/250px-Xie_of_Shang.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xie_of_Shang"
+        }
+    ],
+    "territory_geojson": null
+}

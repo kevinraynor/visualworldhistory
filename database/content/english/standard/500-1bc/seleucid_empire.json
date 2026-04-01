@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1041,
+    "parent_id": 80,
+    "granularity": "notable",
+    "content_hash": "sha256:ba972bab1f33b6ef715c3005ae48d87095ce03276e39c9d680e60354f0841315",
+    "summary": "The Seleucid Empire (312–63 BC) was the largest of Alexander's successor states, stretching at its height from Asia Minor through Persia to the borders of India, encompassing the heartland of the old Achaemenid Empire. Founded by Seleucus I Nicator, one of Alexander's generals who secured Babylonia during the [[event:1039|Wars of the Diadochi]], the Seleucid Empire faced the fundamental challenge of governing an enormous, diverse territory with a relatively small Greco-Macedonian ruling class.\n\nSeleucus founded numerous cities — Antioch on the Orontes (in modern Syria), Seleucia on the Tigris, and many others — as administrative centers and vehicles for Greek cultural diffusion. He and his successors promoted mixed Hellenic-Persian culture at court and often employed Iranian nobles in administrative roles. The [[event:1051|Seleucid-Maurya War]] ended with an agreement ceding the far eastern territories to [[event:74|Maurya Empire (India)]] in exchange for war elephants, acknowledging the limits of Seleucid power. Under [[event:1050|Antiochus III the Great]], the empire briefly recovered its eastern territories and reached its maximum extent.\n\nThe Seleucid Empire suffered progressive territorial loss: the [[event:1173|Greco-Bactrian Kingdom]] broke away in the 240s BC; the [[event:1143|Parthian Empire]] seized Iran; Rome defeated Antiochus III at the [[event:1156|Battle of Magnesia]] in 190 BC and imposed crushing indemnities; the [[event:1148|Maccabean Revolt]] drove the Seleucids from Judea. By the first century BC, the empire had shrunk to Syria alone. Pompey ended it entirely in 63 BC, incorporating the rump state into the Roman province of Syria.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seleucid_Empire",
+    "read_more_links": [
+        {
+            "title": "Seleucus I Nicator",
+            "url": "https://en.wikipedia.org/wiki/Seleucus_I_Nicator"
+        },
+        {
+            "title": "Antiochus III the Great",
+            "url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great"
+        },
+        {
+            "title": "Antioch",
+            "url": "https://en.wikipedia.org/wiki/Antioch"
+        },
+        {
+            "title": "Parthian Empire",
+            "url": "https://en.wikipedia.org/wiki/Parthian_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Antiochus_cylinder_with_transcription.jpg/300px-Antiochus_cylinder_with_transcription.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Antiochus_cylinder_with_transcription.jpg",
+            "caption": "Antiochus cylinder with transcription",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Seleucid_Empire_alternative_map_edited.jpg/300px-Seleucid_Empire_alternative_map_edited.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Seleucid_Empire_alternative_map_edited.jpg",
+            "caption": "Edited map of Seleucid Empire, based on File:Seleucid Empire alternative map....",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Seleucid_prince_Massimo_Inv1049.jpg/300px-Seleucid_prince_Massimo_Inv1049.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Seleucid_prince_Massimo_Inv1049.jpg",
+            "caption": "Statue of a prince or dynast without crown, traditionnally thought to be a Se...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philip II Philoromaeus",
+            "summary": "Last Seleucid King of the Syria from 65 to 64 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Posthumous_Philip_I.jpg/250px-Posthumous_Philip_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_Philoromaeus"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "name": "Chandragupta Maurya",
+            "summary": "Founder of the Maurya Empire (340–295 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        },
+        {
+            "name": "Antiochus III the Great",
+            "summary": "King of the Seleucid Empire from 222 to 187 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg/250px-Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great"
+        },
+        {
+            "name": "Mithridates I of Parthia",
+            "summary": "King of Parthian Empire, 165–132 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Coin_of_Mithradates_I_of_Parthia%2C_Seleucia_mint.jpg/250px-Coin_of_Mithradates_I_of_Parthia%2C_Seleucia_mint.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mithridates_I_of_Parthia"
+        }
+    ],
+    "territory_geojson": null
+}

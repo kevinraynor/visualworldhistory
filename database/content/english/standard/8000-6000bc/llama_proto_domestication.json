@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1500,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e8b91a205fffaacebe08cbb14fc22ccfd99f490448e0550b157aa8b5b5d7f2cf",
+    "summary": "The proto-domestication of the llama (Lama glama) began in the highlands of the central Andes, particularly in the Puna grasslands of modern Peru and Bolivia, from approximately 7000–6000 BCE. The wild ancestor of the llama, the guanaco, was initially hunted intensively before Andean communities began herding and selectively managing populations. Zooarchaeological evidence from high-altitude sites shows a gradual shift in kill patterns and age profiles consistent with increasing human control over herd animals during this period.\n\nThe llama became the primary large domesticated animal of South America and was indispensable to Andean civilization for transport, fiber, meat, and ritual purposes. Its ability to carry loads at high altitude and across rugged terrain made long-distance trade and the transport of goods across the Andes possible. The proto-domestication phase represents the beginning of a human-animal relationship that would underpin Andean cultural development for thousands of years, including the later Chavin, Tiwanaku, and Inca civilizations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Llama#History",
+    "read_more_links": [
+        {
+            "title": "Llama – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Llama"
+        },
+        {
+            "title": "Guanaco – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Guanaco"
+        },
+        {
+            "title": "Andean Prehistory – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andes#Prehistory"
+        },
+        {
+            "title": "Animal Domestication – Britannica",
+            "url": "https://www.britannica.com/topic/livestock-farming"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lama_glama_%2855026685111%29.jpg/300px-Lama_glama_%2855026685111%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lama_glama_%2855026685111%29.jpg",
+            "caption": "Lama glama at Copenhagen Zoo in Frederiksberg, Copenhagen.\n\nPlease attribute ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lama_glama_Laguna_Colorada_2.jpg/300px-Lama_glama_Laguna_Colorada_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lama_glama_Laguna_Colorada_2.jpg",
+            "caption": "A female llama (Lama glama) with her cria at Laguna Colorada, Reserva Naciona...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Black_Llama.jpg/300px-Black_Llama.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Black_Llama.jpg",
+            "caption": "Picture of a black Llama.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Llama_skeleton_at_MAV-USP.jpg/300px-Llama_skeleton_at_MAV-USP.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Llama_skeleton_at_MAV-USP.jpg",
+            "caption": "Llama skeleton. Lama glama.\nSpecimen of llama skeleton prepared by the bone m...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pack animal",
+            "summary": "Individual or type of working animal used by humans",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pack_Horse_2.jpg/250px-Pack_Horse_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pack_animal"
+        }
+    ],
+    "territory_geojson": null
+}

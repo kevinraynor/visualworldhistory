@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1882,
+    "parent_id": 54,
+    "granularity": "detailed",
+    "content_hash": "sha256:14c015d4705661fa4e1db1aea8881c5fcffb0230845e4c67a5874d46ef875676",
+    "summary": "The Hittite Laws are a collection of legal texts compiled during the [[event:54|Hittite Kingdom]], with the earliest versions dating to approximately 1650–1500 BC, though the laws were revised and updated over subsequent centuries. The laws are preserved on clay tablets discovered at the Hittite capital [[event:1818|Hattusa]] and are written in the Hittite language using cuneiform script. They represent one of the oldest surviving law codes in the world and provide important comparative material alongside contemporaneous Near Eastern legal traditions such as [[event:1828|Hammurabi's Code]].\n\nThe Hittite Laws are notable for their relatively merciful character compared to other ancient law codes. Where the Code of Hammurabi and the earlier Sumerian law codes often prescribed death as punishment for a wide range of offenses, the Hittite Laws more frequently specify monetary compensation or restitution paid to the injured party. This pattern reflects a legal philosophy emphasizing restoration of social harmony and compensation over retributive punishment. The laws cover a wide range of subjects including agricultural and property disputes, marriage and inheritance, slavery, assault, theft, and sexual offenses.\n\nThe texts also record changes made to earlier legal provisions, often noting that an earlier penalty has been reduced. This internal historical evidence shows that Hittite law evolved over time toward more lenient penalties, possibly reflecting changing social conditions or royal policy. The Hittite Laws are a significant source not only for legal history but also for understanding Hittite social organization, economic relations, and cultural values during the Bronze Age.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hittite_laws",
+    "read_more_links": [
+        {
+            "title": "Hittites - Britannica",
+            "url": "https://www.britannica.com/topic/Hittite"
+        },
+        {
+            "title": "Ancient Law Codes",
+            "url": "https://en.wikipedia.org/wiki/List_of_ancient_legal_codes"
+        },
+        {
+            "title": "Code of Hammurabi",
+            "url": "https://en.wikipedia.org/wiki/Code_of_Hammurabi"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hittite_Cuneiform_Tablet-_Legal_Deposition%28%3F%29.jpg/300px-Hittite_Cuneiform_Tablet-_Legal_Deposition%28%3F%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hittite_Cuneiform_Tablet-_Legal_Deposition%28%3F%29.jpg",
+            "caption": "Tablet on display at the Oriental Institute, with the caption:\nHittite Cuneif...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Theft",
+            "summary": "Nonconsensual taking of someone's property",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Paul-Charles_Chocarne-Moreau_The_Cunning_Thief.jpg/250px-Paul-Charles_Chocarne-Moreau_The_Cunning_Thief.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theft"
+        }
+    ],
+    "territory_geojson": null
+}

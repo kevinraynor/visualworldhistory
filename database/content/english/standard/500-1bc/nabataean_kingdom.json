@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1145,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d4c485edebb6cb55060befec5b654ee99038a44aee233d3b54cab42d42ffa04c",
+    "summary": "The Nabataean Kingdom (c. 312–106 AD) was an Arab kingdom centered at [[event:1146|Petra]] in modern Jordan, which grew wealthy as masters of the caravan trade routes connecting Arabia's incense lands with the Mediterranean world — adapting from nomadic pastoralism to become one of antiquity's most successful commercial states.\n\nThe Nabataeans originally resisted Hellenistic conquest by their mobility and control of desert water sources, successfully repelling Antigonus's forces in 312 BC. Over the following centuries they settled, built cities, and developed sophisticated water management systems (cisterns, dams, channels) that allowed dense population in an arid landscape. Their trade networks connected the [[event:1219|Incense Route]] from southern Arabia (Aden) through the Hejaz to Gaza and Egypt, carrying frankincense, myrrh, spices, and silks. Petra, carved into rose-red sandstone cliffs, was their capital and the visible expression of their wealth. The Nabataean script, developed in the 2nd century BC, was the direct ancestor of the Arabic script used today. The kingdom was peacefully annexed by Rome in 106 AD as the Province of Arabia, but Nabataean culture continued for centuries afterward.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nabataean_Kingdom",
+    "read_more_links": [
+        {
+            "title": "Nabataean script",
+            "url": "https://en.wikipedia.org/wiki/Nabataean_alphabet"
+        },
+        {
+            "title": "Incense trade route",
+            "url": "https://en.wikipedia.org/wiki/Incense_Route"
+        },
+        {
+            "title": "Nabataean water technology",
+            "url": "https://en.wikipedia.org/wiki/Nabataean_Kingdom#Water_management"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Al_khazneh.jpg/300px-Al_khazneh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Al_khazneh.jpg",
+            "caption": "This is a photo of a monument in Jordan identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Details_of_Al_Khazneh.jpg/300px-Details_of_Al_Khazneh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Details_of_Al_Khazneh.jpg",
+            "caption": "Details of Al Khazneh",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Petra_Al_Khazneh_1975.jpg/300px-Petra_Al_Khazneh_1975.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Petra_Al_Khazneh_1975.jpg",
+            "caption": "One of some pictures of the Treasury. Taken early in the morning, before it g...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Petra_Great_Temple_2380.jpg/300px-Petra_Great_Temple_2380.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Petra_Great_Temple_2380.jpg",
+            "caption": "One of some pictures taken at the Grea\\t Temple. A notice states: \"The Great ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Aretas I",
+            "summary": "First known King of the Nabataeans",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Urn_Tomb%2C_Petra_01.jpg/250px-Urn_Tomb%2C_Petra_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aretas_I"
+        },
+        {
+            "name": "Obodas I",
+            "summary": "Nabataean king and deity",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Obodas_1_silver_drachm_%2886_BC%29.jpg/250px-Obodas_1_silver_drachm_%2886_BC%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Obodas_I"
+        },
+        {
+            "name": "Aretas III",
+            "summary": "Nabataean king from 87-62 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Aretas_coinage.jpg/250px-Aretas_coinage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aretas_III"
+        },
+        {
+            "name": "Malichus I",
+            "summary": "Nabataean king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Silver_drachm_of_Malichus_I.jpg/250px-Silver_drachm_of_Malichus_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Malichus_I"
+        },
+        {
+            "name": "Malichus II",
+            "summary": "Ruler of Nabatea from 40 to 70 AD",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Malichos_II_silver_drachm.jpg/250px-Malichos_II_silver_drachm.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Malichus_II"
+        },
+        {
+            "name": "Ashurbanipal",
+            "summary": "Assyrian ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AshurbanipalKingOfAssyria.jpg/250px-AshurbanipalKingOfAssyria.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashurbanipal"
+        }
+    ],
+    "territory_geojson": null
+}

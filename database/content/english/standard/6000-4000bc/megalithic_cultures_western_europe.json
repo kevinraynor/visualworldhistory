@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 35,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:028dfcf6869ff52bd68e0e9e747d25e6fb0c2bc6068b38f450f9fa3ea84cfdab",
+    "summary": "Megalithic cultures flourished across western Europe from approximately 5000 to 2500 BCE, leaving a legacy of monumental stone structures that remain among the most impressive architectural achievements of the prehistoric world. The term megalithic (from the Greek for large stone) encompasses a wide range of monument types — dolmens, passage tombs, gallery graves, stone circles, alignments, and standing menhirs — spread across an arc from Scandinavia and the British Isles through Atlantic France, the Iberian Peninsula, Malta, and into parts of the Mediterranean.\n\nThe cultural and social contexts of megalith construction varied considerably across this broad geographic range, but several common themes emerge. Most megaliths were associated with collective burial practices, serving as tombs for communities over generations. The labor required to quarry, transport, and erect massive stones — some weighing hundreds of tonnes — required organized, cooperative effort far exceeding what individual families could provide, pointing to the existence of social leaders capable of mobilizing significant community resources. Megaliths thus reflect the emergence of hierarchical social organization in Neolithic farming societies.\n\nAmong the most celebrated megalithic sites are the [[event:1549|Carnac stone alignments]] in Brittany, France — comprising thousands of standing stones arranged in long parallel rows — and the [[event:1550|dolmen traditions]] of the Atlantic facade. The Newgrange passage tomb in Ireland, constructed around 3200 BCE, demonstrates remarkable astronomical knowledge, with its interior illuminated by the rising sun only at the winter solstice. Stonehenge in southern England, built and rebuilt over many centuries from around 3000 BCE onward, similarly reflects sophisticated understanding of solar and lunar cycles.\n\nThe distribution of megalithic monuments along the Atlantic coastline suggests that maritime contact played an important role in spreading the megalithic phenomenon. Coastal communities engaged in seaborne trade and exchange of ideas along the Atlantic facade long before the historical record begins, and shared architectural traditions may reflect shared cosmological beliefs as well as practical knowledge of construction techniques. Recent genetic studies have shown that Neolithic farmers who spread into western Europe from Anatolia largely replaced earlier hunter-gatherer populations, and it was these agricultural communities who built the megaliths.\n\nMegalithic cultures represent a distinct European contribution to the human heritage of monumental architecture. Their monuments demonstrate that complex religious practice, communal labor organization, and sophisticated astronomical knowledge were features of Neolithic farming societies long before the appearance of writing or metal tools. The megaliths continue to be focal points of cultural identity and scholarly inquiry, raising fundamental questions about the nature of prehistoric society, religion, and the human relationship with the landscape.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Megalith",
+    "read_more_links": [
+        {
+            "title": "Megalithic culture - Britannica",
+            "url": "https://www.britannica.com/topic/megalith"
+        },
+        {
+            "title": "Newgrange - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Newgrange"
+        },
+        {
+            "title": "Stonehenge - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stonehenge"
+        },
+        {
+            "title": "Atlantic megalithic monuments - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/1360/megalithic-architecture-in-prehistoric-europe/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg/300px-Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Example_of_a_northern-style_dolmen_at_Ganghwa_Island.jpg",
+            "caption": "Example of a northern-style dolmen at Ganghwa Island",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dolmen_de_Menga_07.jpg/300px-Dolmen_de_Menga_07.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dolmen_de_Menga_07.jpg",
+            "caption": "Dolmen de Menga in Antequera, Provinz Málaga, Spanien",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/300px-G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+            "caption": "Göbekli Tepe, Şanlıurfa",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Example_of_a_southern-style_dolmen_at_Ganghwa_Island.jpg/300px-Example_of_a_southern-style_dolmen_at_Ganghwa_Island.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Example_of_a_southern-style_dolmen_at_Ganghwa_Island.jpg",
+            "caption": "Example of a southern-style dolmen at Ganghwa Island",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Newgrange",
+            "summary": "Neolithic monument in County Meath, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/250px-Irelands_history.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Newgrange"
+        }
+    ],
+    "territory_geojson": null
+}

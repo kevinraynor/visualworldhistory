@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3652,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3cc43c37efa09904ad7877b28775de01650d9187fc9a637a74936643c99e7e8a",
+    "summary": "The Three Gorges Dam on the Yangtze River in central China is the world's largest hydroelectric power station by installed capacity. Construction began in December 1994 after decades of planning dating back to Sun Yat-sen's proposals in the 1910s, and the dam became fully operational in 2012. The project was deeply controversial from the outset: it required the displacement of over 1.2 million people from towns and villages that would be submerged by the reservoir, which stretches approximately 600 kilometers behind the dam.\n\nThe dam generates enormous quantities of electricity — over 100 terawatt-hours annually — reducing China's dependence on coal and contributing to reduced carbon emissions. It also provides some flood control on a river prone to devastating inundations that had killed hundreds of thousands in the twentieth century, and enables navigation by large vessels far into the interior. Critics raised concerns about the loss of archaeological and cultural sites, ecological damage to the Yangtze ecosystem including the near-extinction of the Yangtze river dolphin, geological instability, and questions about the adequacy of resettlement programs. The project exemplified both the scale of China's development ambitions and the human and environmental costs of rapid industrialization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+    "read_more_links": [
+        {
+            "title": "Three Gorges reservoir region",
+            "url": "https://en.wikipedia.org/wiki/Three_Gorges_reservoir_region"
+        },
+        {
+            "title": "Environmental impact of the Three Gorges Dam",
+            "url": "https://en.wikipedia.org/wiki/Environmental_impact_of_the_Three_Gorges_Dam"
+        },
+        {
+            "title": "Yangtze River",
+            "url": "https://en.wikipedia.org/wiki/Yangtze_River"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Three_Gorges_Reservoir_flood_mark.jpg/300px-Three_Gorges_Reservoir_flood_mark.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Three_Gorges_Reservoir_flood_mark.jpg",
+            "caption": "Flood mark of Three Gorges Reservoir on Yangtze River (China)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Three_Gorges_dam_locks_and_bridge.jpg/300px-Three_Gorges_dam_locks_and_bridge.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Three_Gorges_dam_locks_and_bridge.jpg",
+            "caption": "Three Gorges dam locks and bridge",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Collecting_Garbage_at_Three_Gorges_Dam.jpg/300px-Collecting_Garbage_at_Three_Gorges_Dam.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Collecting_Garbage_at_Three_Gorges_Dam.jpg",
+            "caption": "Collecting Garbage at Three Gorges Dam on the Yangtze River, China",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Three_Gorges_Dam_%2812280456164%29.jpg/300px-Three_Gorges_Dam_%2812280456164%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Three_Gorges_Dam_%2812280456164%29.jpg",
+            "caption": "Three Gorges Dam",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sun Yat-sen",
+            "summary": "Chinese revolutionary and statesman (1866–1925)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg/250px-%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Yat-sen"
+        },
+        {
+            "name": "Chiang Kai-shek",
+            "summary": "Leader of the Republic of China from 1928 to 1975",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/250px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek"
+        },
+        {
+            "name": "Mao Zedong",
+            "summary": "Leader of China from 1949 to 1976",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg/250px-Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mao_Zedong"
+        }
+    ],
+    "territory_geojson": null
+}

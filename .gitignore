@@ -1,0 +1,10 @@
+/vendor/
+/src/config.local.php
+/storage/
+/.claude/
+/experiment/
+/CLAUDE.md
+/generate-content.log
+/database/*
+!/database/content/
+/database/content/curation-log.json

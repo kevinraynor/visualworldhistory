@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2249,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:6239e1ce6c737f8488687e8e45f74a839ac92521b1985517818eadbc5da9cc12",
+    "summary": "Angkor Wat (built c. 1113–1150 AD) is the world's largest religious monument, a vast temple complex constructed by the Khmer king Suryavarman II at the heart of the [[event:3782|Angkor civilization]] in modern Cambodia, and one of the supreme achievements of human architectural and artistic ambition. Originally dedicated to the Hindu god Vishnu (and later converted to Theravada Buddhism), Angkor Wat represents the apex of classical Khmer architecture: a temple-mountain embodying Mount Meru, the cosmic center of Hindu cosmology, surrounded by a moat representing the primordial ocean and enclosing over 200 hectares of galleries, towers, and courtyards.\n\nAngkor Wat's architectural achievements are staggering. The main tower rises 65 meters above the ground; the complex is surrounded by a moat 190 meters wide and 5.5 kilometers in circumference. The gallery walls are lined with nearly 1,000 square meters of bas-relief carvings depicting scenes from Hindu mythology (the Churning of the Ocean of Milk, the Battle of Lanka) and Suryavarman II's military campaigns — the longest continuous bas-relief in the world. The monument's precision alignment with the spring equinox sunrise demonstrates sophisticated astronomical knowledge. Unlike most Angkor temples, Angkor Wat faces west (the direction of the setting sun and death) rather than east — possibly because Suryavarman II intended it as his funerary temple. Angkor Wat survived the abandonment of the broader Angkor complex in the 15th century because Buddhist monks continued to inhabit and maintain it, making it the only Angkor temple in continuous use. It remains the national symbol of Cambodia and appears on its flag.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Angkor_Wat",
+    "read_more_links": [
+        {
+            "title": "Angkor Wat architecture temple mountain",
+            "url": "https://en.wikipedia.org/wiki/Angkor_Wat#Architecture"
+        },
+        {
+            "title": "Angkor Wat bas-reliefs Hindu mythology",
+            "url": "https://en.wikipedia.org/wiki/Angkor_Wat#Bas-reliefs"
+        },
+        {
+            "title": "Suryavarman II Khmer king builder",
+            "url": "https://en.wikipedia.org/wiki/Suryavarman_II"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg/300px-Angkor_Wat_with_its_reflection_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Angkor_Wat_with_its_reflection_%28cropped%29.jpg",
+            "caption": "Angkor Wat with its reflection",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Statue_in_Cambodia.jpg/300px-Statue_in_Cambodia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Statue_in_Cambodia.jpg",
+            "caption": "Statue in Ta Reach, Cambodia.\n\n\" I'm in Cambodia right now, sitting in the ho...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bullet_holes_at_angkor_wat.jpg/300px-Bullet_holes_at_angkor_wat.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Bullet_holes_at_angkor_wat.jpg",
+            "caption": "BBullet holes left by a shoot-out between the Khmer Rouge and Vietnamese forc...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Angkor_%28IV%29.jpg/300px-Angkor_%28IV%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Angkor_%28IV%29.jpg",
+            "caption": "The elevation view of external gallery of main temple, Angkor Wat.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Suryavarman II",
+            "summary": "Emperor of the Khmer Empire from 1000 to 1150 CE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Suryavarman_II_Angkor_Wat_0869.jpg/250px-Suryavarman_II_Angkor_Wat_0869.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suryavarman_II"
+        },
+        {
+            "name": "Jayavarman VII",
+            "summary": "Khmer king (c. 1122–1218)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JayavarmanVII.jpg/250px-JayavarmanVII.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jayavarman_VII"
+        },
+        {
+            "name": "Zheng He",
+            "summary": "Chinese mariner and diplomat (1371–1433/1435)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/250px-2016_Malakka%2C_Stadhuys_%2809%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zheng_He"
+        },
+        {
+            "name": "Diogo do Couto",
+            "summary": "Portuguese historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Portrait_of_Diogo_do_Couto_%28Torre_do_Tombo%29_02.jpg/250px-Portrait_of_Diogo_do_Couto_%28Torre_do_Tombo%29_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diogo_do_Couto"
+        },
+        {
+            "name": "Henri Mouhot",
+            "summary": "French naturalist and explorer (1826–1861)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Henri_Mouhot.jpg/250px-Henri_Mouhot.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Mouhot"
+        },
+        {
+            "name": "Michelangelo",
+            "summary": "Italian artist and architect (1475–1564)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/250px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michelangelo"
+        }
+    ],
+    "territory_geojson": null
+}

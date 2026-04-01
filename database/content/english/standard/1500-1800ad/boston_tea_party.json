@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2351,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:5abd1d5effafcd55b91a413f0d69ffe03446b61a61d88adcd34cf2452eff9745",
+    "summary": "The Boston Tea Party (December 16, 1773 AD) was a dramatic act of political protest in which members of the Sons of Liberty — dressed as Mohawk Indians to disguise their identities — boarded three ships in Boston Harbor and dumped 342 chests of British East India Company tea (valued at approximately £10,000) into the water, a defiant response to the Tea Act of 1773 that escalated the colonial conflict with Britain toward revolution. The Tea Act, paradoxically, had actually lowered the price of tea in the colonies by eliminating middlemen, but it gave the [[event:2358|East India Company]] a legal monopoly on colonial tea sales, cutting out American merchants and importers who had profited from the smuggling trade. Colonists objected not to the price but to the precedent: Parliament's right to tax them without representation, which the Tea Act reaffirmed.\n\nThe British government's response to the Boston Tea Party was the decisive escalation: Parliament passed the Coercive Acts (the 'Intolerable Acts') in 1774, which closed Boston Harbor until the tea was paid for, altered the Massachusetts government charter, required colonists to house British troops, and gave British officials immunity from prosecution in colonial courts. These measures, intended to punish Massachusetts and deter other colonies, had the opposite effect: they united the colonies in outrage, triggered the convening of the First Continental Congress (September 1774), and set the stage for the battles of Lexington and Concord (April 1775) that began the [[event:106|American Revolution]]. The Boston Tea Party became an enduring symbol of principled resistance to unjust taxation and is regularly invoked in American political discourse — most recently as the namesake of the Tea Party political movement of the early 21st century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Tea_Party",
+    "read_more_links": [
+        {
+            "title": "Sons of Liberty Boston Tea Party organization",
+            "url": "https://en.wikipedia.org/wiki/Sons_of_Liberty"
+        },
+        {
+            "title": "Coercive Acts Intolerable Acts British response",
+            "url": "https://en.wikipedia.org/wiki/Intolerable_Acts"
+        },
+        {
+            "title": "Tea Act 1773 East India Company monopoly",
+            "url": "https://en.wikipedia.org/wiki/Tea_Act"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Boston_Tea_Party_Ships_%26_Museum_%2854960819933%29.jpg/300px-Boston_Tea_Party_Ships_%26_Museum_%2854960819933%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Boston_Tea_Party_Ships_%26_Museum_%2854960819933%29.jpg",
+            "caption": "Boston, MA",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Boston_Tea_Party-Cooper.jpg/300px-Boston_Tea_Party-Cooper.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Boston_Tea_Party-Cooper.jpg",
+            "caption": "Boston Tea Party (\"Americans throwing Cargoes of the Tea Ships into the River...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edenton-North-Carolina-women-Tea-boycott-1775.jpg/300px-Edenton-North-Carolina-women-Tea-boycott-1775.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edenton-North-Carolina-women-Tea-boycott-1775.jpg",
+            "caption": "\"A Society of Patriotic Ladies at Edenton in North Carolina\", a 1775 satirica...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boston_Tea_Party_w.jpg/300px-Boston_Tea_Party_w.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Boston_Tea_Party_w.jpg",
+            "caption": "Boston Tea Party",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Richard Clarke (merchant)",
+            "summary": "American merchant (1711–1795)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Richard_Clarke_%281711-1795%29_-The_Copley_Family_%281776-77%29_%28cropped%29.jpg/250px-Richard_Clarke_%281711-1795%29_-The_Copley_Family_%281776-77%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Clarke_%28merchant%29"
+        },
+        {
+            "name": "Edenton Tea Party",
+            "summary": "1774 American revolutionary protest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Edenton_Teapot.jpg/250px-Edenton_Teapot.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edenton_Tea_Party"
+        },
+        {
+            "name": "John Rowe (merchant)",
+            "summary": "Merchant in Boston (1715–1787)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/John_Rowe_%28merchant%29.png/250px-John_Rowe_%28merchant%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Rowe_%28merchant%29"
+        }
+    ],
+    "territory_geojson": null
+}

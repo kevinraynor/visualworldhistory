@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3492,
+    "parent_id": 109,
+    "granularity": "detailed",
+    "content_hash": "sha256:3798f4e92fa31a19b15651bc82758127f4a65c4cedd9c8c4c0d156b841c44789",
+    "summary": "The Battle of Leipzig (16–19 October 1813), known as the Battle of Nations (Völkerschlacht), was the largest battle of the [[event:109|Napoleonic Wars]] and the largest battle in European history before the First World War. Approximately 600,000 troops fought over four days in and around the Saxon city of Leipzig, with Napoleon's Grande Armée of around 190,000 facing a coalition of over 380,000 Austrians, Prussians, Russians, and Swedes.\n\nThe battle followed Napoleon's costly victory at Dresden in August 1813 and his failure to exploit it decisively. The coalition armies, following the 'Trachenberg Plan' of avoiding a decisive engagement with Napoleon personally while destroying his subordinate forces, gradually converged on Leipzig. Napoleon found himself outnumbered more than two to one and surrounded on three sides when the battle reached its crisis.\n\nThe fighting on 18 October was particularly savage as coalition armies attacked from multiple directions simultaneously. A critical moment came when 16,000 Saxon troops fighting with Napoleon defected to the coalition in the middle of the battle, further unbalancing his position. By the evening of 18 October Napoleon recognized the battle was lost and ordered a withdrawal.\n\nThe retreat on 19 October turned into catastrophe when the bridge over the Elster River was blown prematurely while many French troops were still in the city. Thousands were killed or captured. French losses exceeded 70,000 men, and Napoleon lost most of his German allies whose rulers switched sides. The defeat effectively ended French control over Germany and forced Napoleon's retreat to France, setting the stage for the invasion of France and his first abdication in 1814.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Leipzig",
+    "read_more_links": [
+        {
+            "title": "Battle of Leipzig – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Leipzig"
+        },
+        {
+            "title": "Napoleonic Wars – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
+        },
+        {
+            "title": "War of the Sixth Coalition – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/War_of_the_Sixth_Coalition"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Declaration_of_victory_after_the_Battle_of_Leipzig%2C_1813_%28by_Johann_Peter_Krafft%29.jpg/300px-Declaration_of_victory_after_the_Battle_of_Leipzig%2C_1813_%28by_Johann_Peter_Krafft%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Declaration_of_victory_after_the_Battle_of_Leipzig%2C_1813_%28by_Johann_Peter_Krafft%29.jpg",
+            "caption": "Declaration of victory after the Battle of Leipzig, 1813 (by Johann Peter Krafft)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/V%C3%B6lkerschlachtdenkmal_Leipzig_beim_Nacht.jpg/300px-V%C3%B6lkerschlachtdenkmal_Leipzig_beim_Nacht.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/V%C3%B6lkerschlachtdenkmal_Leipzig_beim_Nacht.jpg",
+            "caption": "The Monument to the Battle of the Nations at night in Leipzig, Germany dedica...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Russparis.jpg/300px-Russparis.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Russparis.jpg",
+            "caption": "Russparis",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Napoleon.Leipzig.jpg/300px-Napoleon.Leipzig.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Napoleon.Leipzig.jpg",
+            "caption": "Battle of Leipzig",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Karl Philipp, Prince of Schwarzenberg",
+            "summary": "Austrian nobleman and field marshal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Karel_Filip_Schwarzenberg.jpg/250px-Karel_Filip_Schwarzenberg.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Karl_Philipp%2C_Prince_of_Schwarzenberg"
+        },
+        {
+            "name": "Alexander I of Russia",
+            "summary": "Emperor of Russia from 1801 to 1825",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg/250px-Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia"
+        },
+        {
+            "name": "Levin August von Bennigsen",
+            "summary": "German general serving Russia (1745–1826)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bennigsen.jpg/250px-Bennigsen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Levin_August_von_Bennigsen"
+        },
+        {
+            "name": "Frederick William III of Prussia",
+            "summary": "King of Prussia from 1797 to 1840",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Portrait_of_Frederick_William_III.jpg/250px-Portrait_of_Frederick_William_III.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_William_III_of_Prussia"
+        },
+        {
+            "name": "Gebhard Leberecht von Blücher",
+            "summary": "Prussian field marshal (1742–1819)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/George_Dawe_%281781-1829%29_-_Field_Marshal_Prince_von_Bl%C3%BCcher_%281742%E2%80%931819%29_-_WM.1536-1948_-_Apsley_House.jpg/250px-George_Dawe_%281781-1829%29_-_Field_Marshal_Prince_von_Bl%C3%BCcher_%281742%E2%80%931819%29_-_WM.1536-1948_-_Apsley_House.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher"
+        },
+        {
+            "name": "Charles XIV John",
+            "summary": "King of Sweden and Norway from 1818 to 1844",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png/250px-Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_XIV_John"
+        }
+    ],
+    "territory_geojson": null
+}

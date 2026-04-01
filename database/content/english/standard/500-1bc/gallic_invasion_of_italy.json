@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1235,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:471cf53af705eaf07efa74f7f9d793299fd66cf73608d0a2434f51591ed9dc25",
+    "summary": "The Gallic invasion of Italy and sack of Rome (390 BC, or 387 BC by some reckonings) was a catastrophic raid by Celtic tribes under the chieftain Brennus, who defeated a Roman army at the Battle of the Allia River and then sacked Rome itself — the only time an enemy army occupied the city before the Visigoths in 410 AD. The Gauls held the city for several months, burning and looting, while a Roman garrison held out on the Capitoline Hill.\n\nRome eventually paid a ransom in gold to secure the Gauls' departure. The event, which Romans long called dies Nefastus (a cursed day), was deeply traumatic for Roman historical memory and had lasting military consequences: Rome subsequently rebuilt its city walls (the Servian Wall), reformed its military to counter the Gallic fighting style (the legionary manipular system partly derived from this), and developed an enduring fear of northern 'barbarian' incursions. Repeated Gallic raids and settlements in the Po Valley (Cisalpine Gaul) kept this threat active for over a century, until Rome's conquest of northern Italy in the Second Punic War period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Allia",
+    "read_more_links": [
+        {
+            "title": "Sack of Rome 390 BC",
+            "url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(390_BC)"
+        },
+        {
+            "title": "Brennus chieftain",
+            "url": "https://en.wikipedia.org/wiki/Brennus_(4th_century_BC)"
+        },
+        {
+            "title": "Servian Wall construction",
+            "url": "https://en.wikipedia.org/wiki/Servian_Wall"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Relief_map_of_Italien_Latium.png/300px-Relief_map_of_Italien_Latium.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Relief_map_of_Italien_Latium.png",
+            "caption": "Location map of Lazio region (Italy)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Corredo_T14.jpg/300px-Corredo_T14.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Corredo_T14.jpg",
+            "caption": "Corredo della tomba 14 proveniente da Monte Bibele",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sequani_coin_5th_to_1st_century_BCE.jpg/300px-Sequani_coin_5th_to_1st_century_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sequani_coin_5th_to_1st_century_BCE.jpg",
+            "caption": "Sequani coin 5th to 1st century BCE",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Servian_Wall-Termini_Station.jpg/300px-Servian_Wall-Termini_Station.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Servian_Wall-Termini_Station.jpg",
+            "caption": "Servian Wall-Termini Station",
+            "attribution": "Wikimedia Commons, CC SA 1.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Brennus (leader of the Senones)",
+            "summary": "4th-century BC Gaulish chieftain of the Senones",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Brennus_mg_9724.jpg/250px-Brennus_mg_9724.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brennus_%28leader_of_the_Senones%29"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Dionysius of Halicarnassus",
+            "summary": "1st-century BC Greek historian and teacher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dionigi_di_Alicarnasso.jpg/250px-Dionigi_di_Alicarnasso.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Tacitus",
+            "summary": "Roman historian and senator (56–120)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/250px-Wien-_Parlament-Tacitus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tacitus"
+        }
+    ],
+    "territory_geojson": null
+}

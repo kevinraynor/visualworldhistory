@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1118,
+    "parent_id": 1111,
+    "granularity": "detailed",
+    "content_hash": "sha256:96f512556c48e2debd7c3a1cd2abce6bacb1f170d626ee54453ab1ec29267c02",
+    "summary": "The Battle of Changping (260 BC) was the decisive engagement of the [[event:1111|Warring States Period]], in which the state of Qin defeated and effectively destroyed the military power of the state of Zhao, reportedly killing or executing up to 400,000 Zhao soldiers — making it one of the deadliest battles in ancient history.\n\nThe battle began as a prolonged standoff over the Shangdang region. Zhao's original commander, Lian Po, sensibly refused to engage Qin's superior forces in open battle, conducting a defensive strategy. Qin then used a diplomatic deception campaign to convince the Zhao king to replace Lian Po with the inexperienced Zhao Kuo, who relied on theoretical knowledge of warfare from books rather than experience. Zhao Kuo led his forces into a trap set by the Qin general Bai Qi, who encircled the entire Zhao army. After weeks of siege, Zhao Kuo was killed and the surviving Zhao soldiers — variously estimated from 200,000 to 400,000 — surrendered, whereupon Bai Qi reportedly ordered them buried alive, sparing only 240 young soldiers to carry news of the disaster home. Whether these numbers are historically accurate remains debated, but Changping undeniably shattered Zhao's power and left Qin as the unquestioned dominant military force in China.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Changping",
+    "read_more_links": [
+        {
+            "title": "Bai Qi",
+            "url": "https://en.wikipedia.org/wiki/Bai_Qi"
+        },
+        {
+            "title": "State of Zhao",
+            "url": "https://en.wikipedia.org/wiki/Zhao_(state)"
+        },
+        {
+            "title": "Warring States period battles",
+            "url": "https://en.wikipedia.org/wiki/Warring_States_period#Military_conflicts"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Battle_of_Changping.png/300px-Battle_of_Changping.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Battle_of_Changping.png",
+            "caption": "Map of Battle of Changping between Qin and Zhao states",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lian Po",
+            "summary": "Chinese general (d. 229 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%E5%BB%89%E9%A0%97.jpg/250px-%E5%BB%89%E9%A0%97.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lian_Po"
+        },
+        {
+            "name": "Bai Qi",
+            "summary": "Chinese Qin state military general ( c. 332 BC – 257 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bai_Qi.jpg/250px-Bai_Qi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bai_Qi"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Shiji",
+            "summary": "Historical accounts of ancient China to Western Han",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%E5%8F%B2%E8%AE%B0.jpg/250px-%E5%8F%B2%E8%AE%B0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shiji"
+        },
+        {
+            "name": "Emperor Xuanzong of Tang",
+            "summary": "Emperor of the Tang dynasty from 713 to 756",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg/250px-%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+        },
+        {
+            "name": "King Xiaocheng of Zhao",
+            "summary": "King of Zhao",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%E8%B6%99%E5%AD%9D%E6%88%90%E7%8E%8B.png/250px-%E8%B6%99%E5%AD%9D%E6%88%90%E7%8E%8B.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/King_Xiaocheng_of_Zhao"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3621,
+    "parent_id": 3620,
+    "granularity": "detailed",
+    "content_hash": "sha256:a0788f051c4f5ca94a6ee8d8538271e74d6855f56411e879588393f24f688eb3",
+    "summary": "The Sistine Chapel Ceiling (1508–1512 AD) is Michelangelo's monumental fresco commission — one of the supreme achievements of Western art, painted over four years on the vault of the Vatican's private papal chapel at the commission of Pope Julius II. Michelangelo, primarily a sculptor who famously protested his lack of skill as a fresco painter, nonetheless created a unified theological program depicting nine scenes from Genesis (including the Creation of Adam, with its iconic reaching fingers), surrounded by prophets and sibyls, and hundreds of supporting figures in architectural frames — all executed in a scale, physical dynamism, and psychological complexity unprecedented in Western painting. Working largely alone (with assistants for preparatory tasks), lying on scaffolding for years, Michelangelo completed the ceiling in 1512.\n\nThe Sistine ceiling's influence on subsequent art was immediate and overwhelming — virtually every major painter of the 16th century felt compelled to respond to it, and its muscular, dynamic figures defined what was called the 'grand manner' (maniera grande) that dominated painting for a century. The artist would return to the Sistine Chapel nearly 25 years later to paint the Last Judgment (1536–1541) on the altar wall — a somber, terrifying vision of divine judgment quite different in tone from the ceiling's creative optimism, reflecting both Michelangelo's aging and the changed religious atmosphere following the Protestant Reformation. The Sistine Chapel remains the site of papal conclaves, where cardinals elect new popes — white smoke from its chimney signaling a papal election, a tradition unchanged since the Renaissance.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
+    "read_more_links": [
+        {
+            "title": "Creation of Adam Michelangelo fresco iconic ceiling detail",
+            "url": "https://en.wikipedia.org/wiki/The_Creation_of_Adam"
+        },
+        {
+            "title": "Michelangelo sculptor painter Renaissance genius commission",
+            "url": "https://en.wikipedia.org/wiki/Michelangelo"
+        },
+        {
+            "title": "Last Judgment Sistine Chapel 1541 Michelangelo altar wall",
+            "url": "https://en.wikipedia.org/wiki/The_Last_Judgment_(Michelangelo)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/SistineChapelCeiling_Michelangelo_PunishmentOfHaman.jpg/300px-SistineChapelCeiling_Michelangelo_PunishmentOfHaman.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/SistineChapelCeiling_Michelangelo_PunishmentOfHaman.jpg",
+            "caption": "Image on left: Punishment of Haman, Sistine Chapel ceiling (detail). Image of...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SistienChapeCeiling_Michelaneglo_LibyanSibly_Jelbert.jpg/300px-SistienChapeCeiling_Michelaneglo_LibyanSibly_Jelbert.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/SistienChapeCeiling_Michelaneglo_LibyanSibly_Jelbert.jpg",
+            "caption": "Libyan Sibyl, Sistine Chapel ceiling, with the constellations of Draco and Ur...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/SistineChapelCeiling_Michelangelo_FallAndExpulsion.jpg/300px-SistineChapelCeiling_Michelangelo_FallAndExpulsion.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/SistineChapelCeiling_Michelangelo_FallAndExpulsion.jpg",
+            "caption": "Image on left: Fall and Expulsion, Sistine Chapel ceiling (detail). Image on ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%27Isaiah_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU36FXD.jpg/300px-%27Isaiah_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU36FXD.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/%27Isaiah_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU36FXD.jpg",
+            "caption": "The prophet Isaiah, fresco painted by Michelangelo (1475-1564), Sistine Chape...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Michelangelo",
+            "summary": "Italian artist and architect (1475–1564)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/250px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michelangelo"
+        },
+        {
+            "name": "Pope Sixtus IV",
+            "summary": "Head of the Catholic Church from 1471 to 1484",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pedro_Berruguete%2C_Portrait_of_Pope_Sixtus_IV_della_Rovere_%28early_1500s%29%2C_Cleveland_Museum_of_Art.jpg/250px-Pedro_Berruguete%2C_Portrait_of_Pope_Sixtus_IV_della_Rovere_%28early_1500s%29%2C_Cleveland_Museum_of_Art.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Sixtus_IV"
+        },
+        {
+            "name": "Pope Julius II",
+            "summary": "Head of the Catholic Church from 1503 to 1513",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pope_Julius_II.jpg/250px-Pope_Julius_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Julius_II"
+        },
+        {
+            "name": "Sandro Botticelli",
+            "summary": "Italian Renaissance painter (1445–1510)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sandro_Botticelli_083.jpg/250px-Sandro_Botticelli_083.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+        },
+        {
+            "name": "Domenico Ghirlandaio",
+            "summary": "Italian Renaissance painter from Florence (1448–1494)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Domenico_Ghirlandaio_Self_Portrait.jpg/250px-Domenico_Ghirlandaio_Self_Portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Ghirlandaio"
+        },
+        {
+            "name": "Pietro Perugino",
+            "summary": "Italian Renaissance painter (c. 1446/52–1523)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pietro_Perugino_031.jpg/250px-Pietro_Perugino_031.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pietro_Perugino"
+        }
+    ],
+    "territory_geojson": null
+}

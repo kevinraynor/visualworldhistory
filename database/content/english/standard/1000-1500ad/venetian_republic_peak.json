@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3020,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1a2a562901f757e73a225754b7d2187c1f7a2feeb2fe23cfcac46530f3f23898",
+    "summary": "The Venetian Republic at its peak (c. 1200–1500 AD) was the dominant maritime commercial power of the Mediterranean world, a merchant oligarchy of extraordinary political sophistication and commercial acumen that controlled the most important trade routes between Europe and the East, operated the largest merchant fleet in the known world, and maintained independence while the political geography around it shifted repeatedly over a thousand years. Venice's unique geography — a city built on islands in a lagoon, accessible only by water — made it the most defensible city in medieval Europe and shaped a political culture organized entirely around commerce.\n\nVenice's commercial empire rested on privileges extracted from the Byzantine Empire (culminating in the catastrophic [[event:2223|Fourth Crusade]] that Venice engineered to its own benefit), factories in Constantinople, Acre, Alexandria, and dozens of other Levantine and Black Sea ports, and the systematic organization of the spice and luxury goods trade. The Venetian Arsenal — the world's first industrial complex, capable of producing and equipping a galley per day — was the technological foundation of Venetian naval power. Venetian governance was remarkable for its stability: the unique constitution with its Doge, Great Council, Senate, and Council of Ten combined oligarchic efficiency with elaborate checks against tyranny, surviving for over a thousand years without a successful coup. Venice's cultural contributions — Titian, Tintoretto, Bellini, Vivaldi, Venetian glass, the development of printing in Italy — were extraordinary. The [[event:2290|Portuguese opening of the Cape route]] to India in 1498 began the slow decline of Venetian commercial primacy by bypassing the eastern Mediterranean routes Venice had monopolized.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Republic_of_Venice",
+    "read_more_links": [
+        {
+            "title": "Venetian Republic constitution governance",
+            "url": "https://en.wikipedia.org/wiki/Republic_of_Venice#Government"
+        },
+        {
+            "title": "Venice Arsenal industrial galley production",
+            "url": "https://en.wikipedia.org/wiki/Venetian_Arsenal"
+        },
+        {
+            "title": "Venetian spice trade eastern Mediterranean",
+            "url": "https://en.wikipedia.org/wiki/Republic_of_Venice#Trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ritratto_del_Doge_Andrea_Gritti_-_Tiziano_059.jpg/300px-Ritratto_del_Doge_Andrea_Gritti_-_Tiziano_059.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ritratto_del_Doge_Andrea_Gritti_-_Tiziano_059.jpg",
+            "caption": "Ritratto del Doge Andrea Gritti - Tiziano 059",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_battle_of_Cadore.jpg/300px-The_battle_of_Cadore.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_battle_of_Cadore.jpg",
+            "caption": "Rubens made this drawing in Italy after a copie of a painting of Titian. The ...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Schola_levantina_Facciata.jpg/300px-Schola_levantina_Facciata.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Schola_levantina_Facciata.jpg",
+            "caption": "Facade of \"Schola\" (ie synagogue) \"Levantine\" (the XVIII cent.), In the  Camp...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/%28Venice%29_Portrait_of_the_Venecian_doge_Francesco_Foscari_by_Lazzaro_Bastiani_-_Correr_Museum.jpg/300px-%28Venice%29_Portrait_of_the_Venecian_doge_Francesco_Foscari_by_Lazzaro_Bastiani_-_Correr_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/%28Venice%29_Portrait_of_the_Venecian_doge_Francesco_Foscari_by_Lazzaro_Bastiani_-_Correr_Museum.jpg",
+            "caption": "(Venice) Portrait of the Venecian doge Francesco Foscari by Lazzaro Bastiani - Correr Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Doge of Venice",
+            "summary": "Chief magistrate of Venetian Republic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lodovico_Manin.jpg/250px-Lodovico_Manin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Doge_of_Venice"
+        },
+        {
+            "name": "Paolo Lucio Anafesto",
+            "summary": "First Doge of Venice from 697 to 717",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/De_vita_ducum_Venetorum_1574.png/250px-De_vita_ducum_Venetorum_1574.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paolo_Lucio_Anafesto"
+        },
+        {
+            "name": "Ludovico Manin",
+            "summary": "Last Doge of Venice from 1789 to 1797",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lodovico_Manin.jpg/250px-Lodovico_Manin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ludovico_Manin"
+        },
+        {
+            "name": "Great Council of Venice",
+            "summary": "Chief political assembly of the Venetian republic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Guardi_-_Le_Doge_remercie_le_Conseil_majeur%2C_vers_1770_-_1780%2C_INV_20800.jpg/250px-Guardi_-_Le_Doge_remercie_le_Conseil_majeur%2C_vers_1770_-_1780%2C_INV_20800.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Council_of_Venice"
+        },
+        {
+            "name": "Marcello Tegalliano",
+            "summary": "Doge of Venice from 717 to 726",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Portrait_of_Marcello_Tegalliano.jpg/250px-Portrait_of_Marcello_Tegalliano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcello_Tegalliano"
+        },
+        {
+            "name": "Orso Ipato",
+            "summary": "Doge of Venice from 726 to 737",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Orso_Ipato_by_Vogel.jpg/250px-Orso_Ipato_by_Vogel.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Orso_Ipato"
+        }
+    ],
+    "territory_geojson": null
+}

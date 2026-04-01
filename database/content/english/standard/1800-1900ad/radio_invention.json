@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2615,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:8456bd1f8aff1771d0fadb4801bb1baee06c5514c0a683df0031978ea68afd6d",
+    "summary": "The development of radio communication in 1895–96, most associated with the Italian inventor Guglielmo Marconi, was the culmination of decades of theoretical and experimental work on electromagnetic waves and represented the most dramatic advance in wireless communication since the [[event:2555|telegraph]]. Radio would transform military command, maritime safety, journalism, entertainment, and ultimately global culture.\n\nThe theoretical foundation was James Clerk Maxwell's electromagnetic theory of the 1860s, which predicted that electrical oscillations would produce electromagnetic waves traveling at the speed of light. Heinrich Hertz experimentally confirmed the existence of such waves (later called radio waves) in 1887–88. Marconi, working in his family's country house in Italy and then in Britain, developed a practical system for transmitting and receiving electromagnetic signals at distances useful for communication. His 1896 demonstration to the British Post Office and his subsequent patent established him as the practical pioneer of radio.\n\nMarconi progressively extended the range of his system: from a few kilometers in 1896, to across the English Channel in 1899, to the first transatlantic transmission in December 1901 — when he received the Morse code letter 'S' from a transmitter in Cornwall at his receiving station in Newfoundland. This achievement proved that radio waves followed the curvature of the earth rather than traveling in straight lines, opening the prospect of global wireless communication.\n\nThe practical applications were immediate and life-saving in maritime contexts — radio allowed ships to call for help, a capability that was dramatically demonstrated (though tragically too late) in the Titanic disaster of 1912. Military applications were recognized immediately. Broadcast radio for entertainment and news emerged after the First World War and reshaped public life in the twentieth century, creating shared cultural experiences on a national and eventually global scale.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+    "read_more_links": [
+        {
+            "title": "History of Radio – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_radio"
+        },
+        {
+            "title": "Radio – Britannica",
+            "url": "https://www.britannica.com/technology/radio-technology"
+        },
+        {
+            "title": "Heinrich Hertz – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Memorial_plaque_in_honor_of_Guglielmo_Marconi_in_the_Basilica_Santa_Croce%2C_Florence._Italy.jpg/300px-Memorial_plaque_in_honor_of_Guglielmo_Marconi_in_the_Basilica_Santa_Croce%2C_Florence._Italy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Memorial_plaque_in_honor_of_Guglielmo_Marconi_in_the_Basilica_Santa_Croce%2C_Florence._Italy.jpg",
+            "caption": "People in Science",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Post_Office_Engineers.jpg/300px-Post_Office_Engineers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Post_Office_Engineers.jpg",
+            "caption": "British Post Office engineers inspect Guglielmo Marconi's wireless telegraphy...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Marconi_Wireless_Telegraph_1913_x.jpg/300px-Marconi_Wireless_Telegraph_1913_x.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Marconi_Wireless_Telegraph_1913_x.jpg",
+            "caption": "Aktie der Marconi Wireless Telegraph Company of America vom 20. August 1913",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Marconi_in_London.jpg/300px-Marconi_in_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Marconi_in_London.jpg",
+            "caption": "Plaque on the outside of BT Centre commemorates Marconi's first public transm...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Victor Emmanuel III",
+            "summary": "King of Italy from 1900 to 1946",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vitorio_Emanuel_III_%28cropped%29.jpg/250px-Vitorio_Emanuel_III_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Emmanuel_III"
+        },
+        {
+            "name": "Matteucci Medal",
+            "summary": "Italian award for physicists, named after Carlo Matteucci",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mateucci_Medal_2.png/250px-Mateucci_Medal_2.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Matteucci_Medal"
+        },
+        {
+            "name": "Pope Pius XI",
+            "summary": "Head of the Catholic Church from 1922 to 1939",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pius_XI%2C_by_Nicola_Perscheid_%28retouched%29.jpg/250px-Pius_XI%2C_by_Nicola_Perscheid_%28retouched%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Pius_XI"
+        },
+        {
+            "name": "Augusto Righi",
+            "summary": "Italian physicist (1850–1920)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Augusto_Righi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augusto_Righi"
+        },
+        {
+            "name": "Heinrich Hertz",
+            "summary": "German physicist (1857–1894)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HEINRICH_HERTZ.JPG/250px-HEINRICH_HERTZ.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+        },
+        {
+            "name": "James Clerk Maxwell",
+            "summary": "Scottish physicist and mathematician (1831–1879)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/250px-James-Clerk-Maxwell-1831-1879.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+        }
+    ],
+    "territory_geojson": null
+}

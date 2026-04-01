@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2374,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f6214ee63d8c7641558d29a16e2559de14f682a94e5617474b8f600371960287",
+    "summary": "The Fall of the Ming Dynasty (1644 AD) was one of the most dramatic dynastic collapses in Chinese history, ending 276 years of Han Chinese imperial rule and establishing the Manchu [[event:2337|Qing Dynasty]] — an outcome that resulted not from straightforward Manchu military conquest but from the combination of internal peasant rebellion, fiscal collapse, natural disaster, and Manchu opportunism. The Ming had been weakening for decades: the [[event:3253|Wanli Emperor's]] long period of court disengagement, factional conflict among scholar-officials, the diversion of enormous military resources to fight the [[event:2420|Imjin War]] in Korea, the silver supply disruption from the Americas causing economic chaos, and a catastrophic series of famines and floods in the 1630s–1640s that triggered massive peasant uprisings.\n\nThe final act was swift and tragic. Li Zicheng, a former postal worker who had become the most powerful rebel leader, swept through northern China and captured Beijing on April 25, 1644; the last Ming emperor Chongzhen, rather than surrender, hanged himself on Coal Hill overlooking the Forbidden City. The Ming general Wu Sangui, defending the northeast frontier against the Manchus, decided to open the Shanhaiguan pass and invite the Manchu forces to help him defeat the rebels — a fateful choice. The Manchus under the Shunzhi Emperor entered Beijing, scattered Li Zicheng's forces, and declared the Qing Dynasty. Manchu conquest of southern China took another two decades (the Southern Ming courts resisted until 1662) and was accompanied by significant violence, including the notorious Yangzhou Massacre (1645). The Manchu imposition of the queue hairstyle on Han men symbolized the conquest's cultural dimension.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ming_dynasty#Decline_and_fall",
+    "read_more_links": [
+        {
+            "title": "Li Zicheng peasant rebellion Ming fall Beijing",
+            "url": "https://en.wikipedia.org/wiki/Li_Zicheng"
+        },
+        {
+            "title": "Emperor Chongzhen last Ming suicide Coal Hill",
+            "url": "https://en.wikipedia.org/wiki/Chongzhen_Emperor"
+        },
+        {
+            "title": "Manchu Qing conquest Wu Sangui Shanhaiguan",
+            "url": "https://en.wikipedia.org/wiki/Wu_Sangui"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/300px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+            "caption": "Seated portrait of Emperor Ming Chengzu",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palace_of_Heavenly_Purity_%2820220218132818%29.jpg/300px-Palace_of_Heavenly_Purity_%2820220218132818%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palace_of_Heavenly_Purity_%2820220218132818%29.jpg",
+            "caption": "Qianqing Palace, where the famous \"Zheng Da Guang Ming\" plaque is located.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Detail_of_The_Emperor%27s_Approach%2C_Xuande_period.jpg/300px-Detail_of_The_Emperor%27s_Approach%2C_Xuande_period.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Detail_of_The_Emperor%27s_Approach%2C_Xuande_period.jpg",
+            "caption": "​明人畫出警圖",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg/300px-A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg",
+            "caption": "This painting depicts Zhu Yuanzhang (朱元璋), Emperor Taizu of the Ming dynasty ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hongwu Emperor",
+            "summary": "Emperor of China from 1368 to 1398",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+        },
+        {
+            "name": "Yongle Emperor",
+            "summary": "Emperor of China from 1402 to 1424",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yongle_Emperor"
+        },
+        {
+            "name": "Wanli Emperor",
+            "summary": "Emperor of China from 1572 to 1620",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MingShenzong1.jpg/250px-MingShenzong1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wanli_Emperor"
+        },
+        {
+            "name": "Wen Zhengming",
+            "summary": "Chinese painter, calligrapher, and poet (1470–1559)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Portrait_of_Wen_Zhengming.jpg/250px-Portrait_of_Wen_Zhengming.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wen_Zhengming"
+        },
+        {
+            "name": "Li Zicheng",
+            "summary": "Chinese rebel leader (1606–1645)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%E6%9D%8E%E8%87%AA%E6%88%90%E8%A1%8C%E5%AE%AB_%28cropped%29.png/250px-%E6%9D%8E%E8%87%AA%E6%88%90%E8%A1%8C%E5%AE%AB_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Li_Zicheng"
+        },
+        {
+            "name": "Zheng He",
+            "summary": "Chinese mariner and diplomat (1371–1433/1435)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/250px-2016_Malakka%2C_Stadhuys_%2809%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zheng_He"
+        }
+    ],
+    "territory_geojson": null
+}

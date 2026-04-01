@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1105,
+    "parent_id": 1104,
+    "granularity": "detailed",
+    "content_hash": "sha256:313f252f975107da01ad74896c55343086318b6f555a8c25c36ef8789e67ce00",
+    "summary": "Menander I (reigned c. 165–130 BC) was the most successful ruler of the [[event:1104|Indo-Greek Kingdom]], whose military campaigns extended Greek power deep into the Indian subcontinent and who is remembered in Buddhist tradition as a king who converted to Buddhism after philosophical debates with the monk Nagasena.\n\nMenander expanded his kingdom from its base in Bactria into the Punjab and possibly as far as the Ganges plain, threatening the [[event:1103|Shunga Dynasty]]'s heartland. His philosophical dialogues with the monk Nagasena are recorded in the Milindapanha (Questions of Milinda), a Buddhist text in which Menander (called Milinda) asks penetrating questions about Buddhist doctrine and is ultimately persuaded of the truth of Buddhism. Whether this represents actual conversion or literary convention is debated. His coins, distributed across a vast territory, bear the epithet Soter (Savior), and after his death Buddhist tradition records that his ashes were divided among many cities — an honor normally reserved for Buddhist saints. He represents the high point of Greek-Indian cultural interaction.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Menander_I",
+    "read_more_links": [
+        {
+            "title": "Milindapanha",
+            "url": "https://en.wikipedia.org/wiki/Milindapanha"
+        },
+        {
+            "title": "Indo-Greek Kingdom",
+            "url": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom"
+        },
+        {
+            "title": "Menander I coinage",
+            "url": "https://en.wikipedia.org/wiki/Menander_I#Coinage"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Foreigners_at_Sanchi_Stupa_I_North_Gateway.jpg/300px-Foreigners_at_Sanchi_Stupa_I_North_Gateway.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Foreigners_at_Sanchi_Stupa_I_North_Gateway.jpg",
+            "caption": "Crop and formatting of attached file. \nDescribes foreigners, probably Indo-Gr...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Shinkot_relic_casket.jpg/300px-Shinkot_relic_casket.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Shinkot_relic_casket.jpg",
+            "caption": "Shinkot relic casket",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/300px-Gandhara_Buddha_%28tnm%29.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gandhara_Buddha_%28tnm%29.jpeg",
+            "caption": "Representation of the Buddha in the Greco-Buddhist art of Gandhara, 1st centu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ptolemy_Asia_detail.jpg/300px-Ptolemy_Asia_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ptolemy_Asia_detail.jpg",
+            "caption": "The 11th Map of Asia (Descriptio Undecimae Tabulae Asiae) from Ptolemy's Geog...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Antimachus II",
+            "summary": "Indo-Greek king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Antimachos_II_on_horse.jpg/250px-Antimachos_II_on_horse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antimachus_II"
+        },
+        {
+            "name": "Strato I",
+            "summary": "Indo-Greek king from 125/120 to 110 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Strato_I_Old.jpg/250px-Strato_I_Old.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strato_I"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Nagasena",
+            "summary": "Buddhist monk who answered questions of King Menander I",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/King_Milinda_ask_questions.jpg/250px-King_Milinda_ask_questions.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nagasena"
+        },
+        {
+            "name": "Agathocles of Bactria",
+            "summary": "Indo-Greek king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Agathokles_portrait.jpg/250px-Agathokles_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Agathocles_of_Bactria"
+        }
+    ],
+    "territory_geojson": null
+}

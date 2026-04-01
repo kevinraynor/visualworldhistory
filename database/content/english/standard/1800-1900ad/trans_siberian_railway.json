@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2622,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:fc170a36edf46012c3ae5403c8bed07bf248ed09d2203fb5c194a97a7314f0e2",
+    "summary": "The Trans-Siberian Railway, begun in 1891 and reaching basic completion in 1916, is the longest railway line in the world, stretching approximately 9,289 kilometers from Moscow to Vladivostok on the Pacific coast. Its construction was the greatest engineering project of late nineteenth-century Russia, transforming the economic and strategic relationship between European Russia and the vast territories of Siberia and the Far East.\n\nThe railway was championed by Finance Minister Sergei Witte as the cornerstone of his industrialization program, part of his vision of transforming Russia into an Asian as well as a European power. Construction proceeded simultaneously from both east and west, employing tens of thousands of workers under extremely difficult conditions — permafrost, mountains, enormous river crossings, and the sheer remoteness of much of the route. The critical section around Lake Baikal initially required passengers to cross by ferry in summer and ice-sled in winter until a tunnel was completed in 1904.\n\nThe strategic implications were immediately recognized. The railway allowed Russia to project military power to the Far East far more rapidly than previously possible — a capability that it tried to exploit in the [[event:2561|Russo-Japanese War]] of 1904–05, though the railway's capacity was still insufficient to move troops as fast as the conflict demanded. The Japanese decision to attack before the railway reached full capacity was itself partly influenced by anxiety about what a fully operational Trans-Siberian would mean for Russian military strength in the region.\n\nEconomically, the railway opened Siberia to mass settlement and exploitation of its enormous natural resources — timber, coal, gold, and eventually petroleum. Millions of migrants moved eastward after the railway's construction. The Trans-Siberian remains essential to Russian economic life and is still the world's longest continuously operating railway line.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trans-Siberian_Railway",
+    "read_more_links": [
+        {
+            "title": "Trans-Siberian Railway – Britannica",
+            "url": "https://www.britannica.com/topic/Trans-Siberian-Railroad"
+        },
+        {
+            "title": "History of Russian Railways – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rail_transport_in_Russia"
+        },
+        {
+            "title": "Sergei Witte – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sergei_Witte"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RZD_ED9MK-0029_at_Polovinniy_stop%2C_Circum-Baikal_Railway%2C_2009_%2832356262012%29.jpg/300px-RZD_ED9MK-0029_at_Polovinniy_stop%2C_Circum-Baikal_Railway%2C_2009_%2832356262012%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/RZD_ED9MK-0029_at_Polovinniy_stop%2C_Circum-Baikal_Railway%2C_2009_%2832356262012%29.jpg",
+            "caption": "Longest stop of tourist train at middle of route, at August swim in Baikal is...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Simskaia_train_station.jpg/300px-Simskaia_train_station.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Simskaia_train_station.jpg",
+            "caption": "View from the rear platform of the Simskaia Station of the Samara-Zlatoust Ra...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Trans_Sibir.JPG/300px-Trans_Sibir.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Trans_Sibir.JPG",
+            "caption": "Trans-Siberian railway at Nazivaevskaya (Называевская), near Omsk, Siberia, R...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Prokudin-Gorskii-23.jpg/300px-Prokudin-Gorskii-23.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Prokudin-Gorskii-23.jpg",
+            "caption": "Bashkir switchman on the Trans-Siberian, near the town of Ust' Katav on the Y...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Northern Railway (Russia)",
+            "summary": "Railway connecting Moscow and Arkhangelsk, Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Severnaja-zheleznaja-doroga-002.jpg/250px-Severnaja-zheleznaja-doroga-002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Northern_Railway_%28Russia%29"
+        },
+        {
+            "name": "Alexander III of Russia",
+            "summary": "Emperor of Russia from 1881 to 1894",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tsar_Alexander_III_c._1885.jpg/250px-Tsar_Alexander_III_c._1885.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia"
+        },
+        {
+            "name": "Nikolay Muravyov-Amursky",
+            "summary": "Russian general, statesman, and diplomat (1809–1881)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Konstantin_Makovsky_Nikolay-Muravyov-Amursky_1863.jpg/250px-Konstantin_Makovsky_Nikolay-Muravyov-Amursky_1863.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nikolay_Muravyov-Amursky"
+        }
+    ],
+    "territory_geojson": null
+}

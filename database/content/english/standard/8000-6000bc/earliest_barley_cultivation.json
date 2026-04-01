@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3747,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:677f61b01cb6dd2e2b8cf6227dd044a96db770bd4fc9a5a08da31c751da9bace",
+    "summary": "Barley (Hordeum vulgare) was domesticated in the Fertile Crescent of the ancient Near East, with its wild progenitor Hordeum spontaneum growing abundantly across a wide range from the southern Levant to the Zagros foothills. The earliest securely dated domesticated barley comes from sites in the Jordan Valley and northern Syria, with cultivation beginning around 8000–7000 BCE. Barley was domesticated either once or twice — genetic analysis suggests the possibility of both a Near Eastern and a Tibetan domestication event.\n\nBarley is hardier than wheat and tolerates poorer soils, drier conditions, and higher altitudes, giving it a wide ecological range. It was a critical crop for early agricultural communities across the Near East and was the primary grain used in Mesopotamian brewing — barley beer was a staple beverage and an important source of calories and nutrition in ancient Sumerian and Babylonian societies. The cultivation of barley alongside wheat formed the core of the early agricultural economy across the ancient Near East and Mediterranean world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barley",
+    "read_more_links": [
+        {
+            "title": "Neolithic Founder Crops – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_founder_crops"
+        },
+        {
+            "title": "History of Beer – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_beer"
+        },
+        {
+            "title": "Fertile Crescent Agriculture – Britannica",
+            "url": "https://www.britannica.com/place/Fertile-Crescent"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barley_Seeds.jpg/300px-Barley_Seeds.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Barley_Seeds.jpg",
+            "caption": "Barley (Hordeum vulgare L.) seeds with husk (left) and with husk removed (rig...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Claas_Dominator_85_harvesting_winter_barley_at_Ostrittrum.jpg/300px-Claas_Dominator_85_harvesting_winter_barley_at_Ostrittrum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Claas_Dominator_85_harvesting_winter_barley_at_Ostrittrum.jpg",
+            "caption": "A class Dominator 85 operated by the Tonne agricultural service company harve...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mugimeshi.jpg/300px-Mugimeshi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mugimeshi.jpg",
+            "caption": "Mugimeshi (麦飯: rice cooked with barley)",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Barleycorn_MET_DP-300-063_%28cropped%29.jpg/300px-John_Barleycorn_MET_DP-300-063_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Barleycorn_MET_DP-300-063_%28cropped%29.jpg",
+            "caption": "British, Chelsea; Toy; Ceramics-Porcelain",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Essex",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Hythe%2C_Maldon_-_geograph.org.uk_-_3895331.jpg/250px-The_Hythe%2C_Maldon_-_geograph.org.uk_-_3895331.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Essex"
+        }
+    ],
+    "territory_geojson": null
+}

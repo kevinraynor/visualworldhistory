@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3871,
+    "parent_id": 99,
+    "granularity": "notable",
+    "content_hash": "sha256:5c5cf98af672322172597aa3644e4927f7046ba2d99badae624f556d533927bc",
+    "summary": "The Inca Empire's period of greatest expansion occurred between approximately 1438 and 1527 AD, when three successive emperors — Pachacuti (r. 1438–1471), Topa Inca Yupanqui (r. 1471–1493), and Huayna Capac (r. 1493–1527) — transformed what had been a modest regional kingdom centered on Cusco into the largest empire in the pre-Columbian Americas, stretching 4,300 kilometers along the Andes from modern Colombia to central Chile. Pachacuti (whose name means 'earth shaker') is considered the empire's true founder: after repelling the Chanka Confederation's attack on Cusco around 1438, he launched systematic conquests, reorganized the state on imperial lines, and rebuilt Cusco as an imperial capital, constructing the iconic Coricancha (Temple of the Sun) and possibly [[event:2263|Machu Picchu]] as a royal estate.\n\nInca imperial expansion combined military conquest with sophisticated political absorption. The Inca ('Sapa Inca,' or 'Unique Inca') offered conquered peoples a choice between voluntary submission (rewarded with gifts, reciprocal exchange relationships, and incorporation into the imperial economy) or military destruction. The imperial system was built on mit'a (state labor tax): all subjects owed periods of labor to the state, which deployed them to build the [[event:3513|road network]], terrace agriculture, irrigation systems, storehouses, and monumental architecture. In return, the state guaranteed food security through its massive storehouse system (qollqa). The empire had no writing system but used the quipu (knotted string records) for administrative accounting and possibly narrative recording. When Spanish conquistador Francisco Pizarro arrived in 1532, the empire was weakened by a devastating smallpox epidemic (which preceded the Spanish, killing Emperor Huayna Capac) and a civil war between his sons Huascar and Atahualpa — vulnerabilities that enabled a force of 168 Spaniards to topple the largest empire in the Americas.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_Empire",
+    "read_more_links": [
+        {
+            "title": "Pachacuti Inca expansion Cusco founder",
+            "url": "https://en.wikipedia.org/wiki/Pachacuti"
+        },
+        {
+            "title": "Mit'a labor tax Inca state economy",
+            "url": "https://en.wikipedia.org/wiki/Mit%27a"
+        },
+        {
+            "title": "Quipu knotted string Inca record system",
+            "url": "https://en.wikipedia.org/wiki/Quipu"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pisac%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_99.JPG/300px-Pisac%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_99.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pisac%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_99.JPG",
+            "caption": "Pisac, Cuzco, Peru",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sacsayhuaman_-_51188929520.jpg/300px-Sacsayhuaman_-_51188929520.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sacsayhuaman_-_51188929520.jpg",
+            "caption": "Sacsayhuamán archaeological site",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Luis_Montero_-_The_Funerals_of_Inca_Atahualpa_-_Google_Art_Project.jpg/300px-Luis_Montero_-_The_Funerals_of_Inca_Atahualpa_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Luis_Montero_-_The_Funerals_of_Inca_Atahualpa_-_Google_Art_Project.jpg",
+            "caption": "Luis Montero - The Funerals of Inca Atahualpa - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cusco_-_Qoricancha_-_panoramio_%281%29.jpg/300px-Cusco_-_Qoricancha_-_panoramio_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cusco_-_Qoricancha_-_panoramio_%281%29.jpg",
+            "caption": "Cusco - Qoricancha",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sapa Inca",
+            "summary": "Emperor of the Inca Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aguas_Calientes.JPG/250px-Aguas_Calientes.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sapa_Inca"
+        },
+        {
+            "name": "Atahualpa",
+            "summary": "Last Inca Emperor (ruled 1532–1533)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png/250px-Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Atahualpa"
+        },
+        {
+            "name": "Aleixo Garcia",
+            "summary": "Early 16th-century Portuguese explorer, conquistador",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Riodelaplatabasinmap.png/250px-Riodelaplatabasinmap.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aleixo_Garcia"
+        },
+        {
+            "name": "Inca architecture",
+            "summary": "Pre-Columbian architecture in South America",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inca_wall_1_-_Coricancha_Peru.jpg/250px-Inca_wall_1_-_Coricancha_Peru.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_architecture"
+        },
+        {
+            "name": "Carl Troll",
+            "summary": "German geographer (1899–1975)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Carl_Th._Troll.jpg/250px-Carl_Th._Troll.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Troll"
+        }
+    ],
+    "territory_geojson": null
+}

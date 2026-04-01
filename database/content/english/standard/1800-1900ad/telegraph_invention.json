@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2555,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d67d56e9b0b15ea6d35f2bf821678a08b20b3f36fccb6b69185a24f1f5f8cb5b",
+    "summary": "The invention and deployment of the electrical telegraph in the 1830s and 1840s was one of the most transformative communication technologies in history — the first means of transmitting information faster than a human being could physically travel. By enabling nearly instantaneous long-distance communication across continents and eventually under oceans, the telegraph fundamentally changed commerce, journalism, diplomacy, and military command.\n\nSeveral inventors in Europe and America contributed to the development of practical telegraphy. William Fothergill Cooke and Charles Wheatstone developed and patented a needle telegraph in Britain in 1837, and their system was adopted by the Great Western Railway later that year. In the United States, Samuel F. B. Morse — working with collaborator Alfred Vail — developed the Morse Code system and demonstrated a working telegraph in 1837, obtaining a US patent in 1840. The first long-distance telegraph line in the United States, connecting Washington D.C. and Baltimore, opened in May 1844 with Morse transmitting the message 'What hath God wrought.'\n\nThe economic and social consequences were rapid and sweeping. The telegraph transformed financial markets, enabling commodity prices and stock quotations to be shared across vast distances instantaneously. The first transcontinental telegraph line across the United States, completed in 1861, immediately put the Pony Express out of business. The transatlantic telegraph cable, successfully laid in 1866 after earlier failed attempts, linked Europe and North America in real-time communication for the first time.\n\nIn journalism, the telegraph created a news culture of immediacy, enabling wire services like the Associated Press (founded 1846) to distribute breaking news nationally. In warfare, the telegraph gave commanders the ability to coordinate large-scale operations across hundreds of miles — a capability heavily exploited in the [[event:2536|American Civil War]], which became the first 'telegraphic war.' The telegraph's compression of time and space established a pattern that would be replicated by each successive communication technology — telephone, radio, internet — reshaping human society's relationship with distance.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+    "read_more_links": [
+        {
+            "title": "Samuel Morse – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Samuel_Morse"
+        },
+        {
+            "title": "Telegraphy – Britannica",
+            "url": "https://www.britannica.com/technology/telegraphy"
+        },
+        {
+            "title": "Transatlantic Telegraph Cable – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Teletype-IMG_7289.jpg/300px-Teletype-IMG_7289.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Teletype-IMG_7289.jpg",
+            "caption": "ASR-33 Teletype.\n\nOn display at the Musée Bolo, EPFL, Lausanne.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lorenz_SZ42.jpg/300px-Lorenz_SZ42.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lorenz_SZ42.jpg",
+            "caption": "Lorenz SZ42 on display at the National Museum of Computing",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Printing_Telegraph.jpg/300px-Printing_Telegraph.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Printing_Telegraph.jpg",
+            "caption": "Hughes Letter-Printing Telegraph Set built by Siemens and Halske in Saint Pet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cooke_and_Wheatstone_electric_telegraph.jpg/300px-Cooke_and_Wheatstone_electric_telegraph.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cooke_and_Wheatstone_electric_telegraph.jpg",
+            "caption": "William Fothergill Cooke and Charles Wheatstone's electric telegraph (\"needle...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "David Edward Hughes",
+            "summary": "British-American inventor and music professor (1830–1900)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/David_E._Hughes.jpg/250px-David_E._Hughes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Edward_Hughes"
+        },
+        {
+            "name": "Samuel Morse",
+            "summary": "American inventor and painter (1791–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Samuel_Morse_portrait.jpg/250px-Samuel_Morse_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Morse"
+        },
+        {
+            "name": "Guglielmo Marconi",
+            "summary": "Italian radio-frequency engineer and inventor (1874–1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Guglielmo_Marconi.jpg/250px-Guglielmo_Marconi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+        },
+        {
+            "name": "Georges-Louis Le Sage",
+            "summary": "Genevan physicist and inventor (1724–1803)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Georges-Louis_Le_Sage.jpg/250px-Georges-Louis_Le_Sage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georges-Louis_Le_Sage"
+        },
+        {
+            "name": "Alessandro Volta",
+            "summary": "Italian chemist and physicist (1745–1827)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Alessandro_Volta.jpeg/250px-Alessandro_Volta.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alessandro_Volta"
+        },
+        {
+            "name": "Hans Christian Ørsted",
+            "summary": "Danish chemist and physicist (1777–1851)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/C.A._Jensen_-_Portrait_of_the_Physicist_Hans_Christian_%C3%98rsted_-_KMS8176_-_Statens_Museum_for_Kunst.jpg/250px-C.A._Jensen_-_Portrait_of_the_Physicist_Hans_Christian_%C3%98rsted_-_KMS8176_-_Statens_Museum_for_Kunst.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Christian_%C3%98rsted"
+        }
+    ],
+    "territory_geojson": null
+}

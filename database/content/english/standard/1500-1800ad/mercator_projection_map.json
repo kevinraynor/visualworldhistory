@@ -1,0 +1,81 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "2.0",
+    "event_id": 2476,
+    "summary": "Gerardus Mercator's World Map of 1569 AD introduced the cylindrical projection that bears his name — a cartographic innovation of profound practical importance that allowed navigators to plot straight-line compass courses (rhumb lines) on a flat map, transforming oceanic navigation by making it possible to sail to a destination simply by maintaining a constant compass bearing. Mercator, a Flemish cartographer and geographer from the [[event:2326|Dutch Golden Age]] tradition of instrument-making and geographic learning, published his map with the explicit purpose of aiding navigation: the mathematical distortion that enlarges land areas near the poles was a deliberate geometric consequence of making compass courses appear as straight lines.\n\nThe Mercator projection became the dominant world map format for over four centuries, used in atlases, school classrooms, and navigation charts worldwide — with profound cultural consequences. The projection's exaggeration of high-latitude areas made Greenland appear as large as Africa (Greenland is roughly 1/14 Africa's actual size) and placed Europe and North America in visually dominant central positions, contributing to Eurocentric perceptions of world geography that have only recently been seriously challenged by alternative projections (the Peters/Gall-Peters projection, emphasizing equal area, gained attention as a political alternative in the 1970s–80s). Mercator also compiled the first collection of maps called an 'Atlas' (posthumously published by his son in 1595) — coining the term that remains universal. His work represented a mathematical and geographic sophistication that enabled the age of deep-ocean navigation and global trade.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mercator_projection",
+    "read_more_links": [
+        {
+            "title": "Gerardus Mercator cartographer biography projection",
+            "url": "https://en.wikipedia.org/wiki/Gerardus_Mercator"
+        },
+        {
+            "title": "Rhumb line constant compass bearing navigation",
+            "url": "https://en.wikipedia.org/wiki/Rhumb_line"
+        },
+        {
+            "title": "Peters projection equal area alternative world map debate",
+            "url": "https://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Comparison_of_various_cylindrical_panoramic_formats_165_degrees_vertical_field_of_view_and_360_degrees_horizontal_field_of_view.jpg/300px-Comparison_of_various_cylindrical_panoramic_formats_165_degrees_vertical_field_of_view_and_360_degrees_horizontal_field_of_view.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Comparison_of_various_cylindrical_panoramic_formats_165_degrees_vertical_field_of_view_and_360_degrees_horizontal_field_of_view.jpg",
+            "caption": "Comparison of various panoramic image formats with vertical field of view of ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mercator_projection_Square.JPG/300px-Mercator_projection_Square.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mercator_projection_Square.JPG",
+            "caption": "The world on Mercator projection between 85°3'4\"S and 85°3'4\"N, such that ima...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rhumb_line_vs_great-circle_arc.png/300px-Rhumb_line_vs_great-circle_arc.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rhumb_line_vs_great-circle_arc.png",
+            "caption": "A rhumb line (blue) compared to a great-circle arc (red) between Lisbon, Port...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/World_Scale_from_DMA_Series_1150_map.png/300px-World_Scale_from_DMA_Series_1150_map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/World_Scale_from_DMA_Series_1150_map.png",
+            "caption": "The graphical scale from a DMA (now NGA) world map using the Mercator project...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pedro Nunes",
+            "summary": "Portuguese mathematician (1502–1578)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Pedro_Nunes.png/250px-Pedro_Nunes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Nunes"
+        },
+        {
+            "name": "Nicolas Perrenot de Granvelle",
+            "summary": "French diplomat (1486–1550)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tizian-Nicolas_Granvelle.jpg/250px-Tizian-Nicolas_Granvelle.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Perrenot_de_Granvelle"
+        },
+        {
+            "name": "Edward Wright (mathematician)",
+            "summary": "English mathematician and cartographer (1561–1615)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/EdwardWright-CertaineErrorsinNavigation-1599.png/250px-EdwardWright-CertaineErrorsinNavigation-1599.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Wright_%28mathematician%29"
+        },
+        {
+            "name": "Thomas Harriot",
+            "summary": "English astronomer, mathematician, ethnographer and translator",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ThomasHarriot.jpg/250px-ThomasHarriot.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Harriot"
+        },
+        {
+            "name": "Arno Peters",
+            "summary": "German historian and filmmaker (1916–2002)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Peters_projection%2C_date_line_in_Bering_strait.svg/250px-Peters_projection%2C_date_line_in_Bering_strait.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arno_Peters"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2364,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:841a6918f3d92e060d44cd4f28411ba63d4c46f90e88d778d97c92875fdd206d",
+    "summary": "The Copernican Revolution refers to the paradigm shift in cosmology initiated by Nicolaus Copernicus's heliocentric model — published in De Revolutionibus Orbium Coelestium ('On the Revolutions of the Celestial Spheres', 1543) — that displaced Earth from the center of the universe and initiated the [[event:104|Scientific Revolution]]. Copernicus, a Polish canon and astronomer, spent decades developing a mathematical model in which the Sun (not the Earth) was at the center of the solar system, the Earth rotated on its axis daily, and the Earth and other planets revolved around the Sun annually. His model elegantly explained the retrograde motion of the outer planets (which the Ptolemaic geocentric system explained through complex epicycles) and correctly predicted the order of the planets by their distance from the Sun.\n\nCopernicus published his work cautiously, delaying until near his death and including a preface (written by his editor Osiander, without Copernicus's knowledge) suggesting the heliocentric model was merely a mathematical calculation tool rather than a physical description — perhaps to deflect religious objections. The book was not immediately condemned; it was placed on the Catholic Index of Forbidden Books only in 1616 (after Galileo's telescopic discoveries made the issue urgent). The full intellectual revolution took over a century: [[event:2474|Kepler]] replaced circular orbits with ellipses (1609–1619), removing the last major inaccuracy of Copernicus's system; [[event:2362|Galileo's]] observations provided empirical evidence; and [[event:3864|Newton's]] mechanics explained why planets moved as Kepler described. Together, these five scientists — Copernicus, Brahe, Kepler, Galileo, Newton — dismantled the 1,400-year-old Ptolemaic system and established the modern scientific cosmos.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Copernican_Revolution",
+    "read_more_links": [
+        {
+            "title": "De Revolutionibus 1543 Copernicus heliocentric model",
+            "url": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium"
+        },
+        {
+            "title": "Copernicus heliocentric system planets Sun center",
+            "url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus#Heliocentric_model"
+        },
+        {
+            "title": "Scientific Revolution Copernicus Kepler Galileo Newton",
+            "url": "https://en.wikipedia.org/wiki/Scientific_revolution#Heliocentrism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Galileo_before_the_Holy_Office_-_Joseph-Nicolas_Robert-Fleury%2C_1847.png/300px-Galileo_before_the_Holy_Office_-_Joseph-Nicolas_Robert-Fleury%2C_1847.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Galileo_before_the_Holy_Office_-_Joseph-Nicolas_Robert-Fleury%2C_1847.png",
+            "caption": "Galileo before the Holy Office - Joseph-Nicolas Robert-Fleury, 1847",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/300px-Earth-moon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg",
+            "caption": "This view of the rising Earth greeted the Apollo 8 astronauts as they came fr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph-Nicolas Robert-Fleury",
+            "summary": "French painter (1797–1890)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Joseph-Nicolas_Robert-Fleury_Dagron_1880_BNF_Gallica.jpg/250px-Joseph-Nicolas_Robert-Fleury_Dagron_1880_BNF_Gallica.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-Nicolas_Robert-Fleury"
+        },
+        {
+            "name": "Nicolaus Copernicus",
+            "summary": "Mathematician and astronomer (1473–1543)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/250px-Nikolaus_Kopernikus_MOT.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+        },
+        {
+            "name": "Johannes Kepler",
+            "summary": "German astronomer and mathematician (1571–1630)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/250px-JKepler.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Kepler"
+        },
+        {
+            "name": "Galileo Galilei",
+            "summary": "Italian physicist and astronomer (1564–1642)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-250px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+        },
+        {
+            "name": "John Wilkins",
+            "summary": "English natural philosopher (1614–1672)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bp_John_Wilkins.jpg/250px-Bp_John_Wilkins.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Wilkins"
+        },
+        {
+            "name": "Pierre Gassendi",
+            "summary": "French priest, astronomer, and mathematician (1592–1655)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PierreGassendi.jpg/250px-PierreGassendi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Gassendi"
+        }
+    ],
+    "territory_geojson": null
+}

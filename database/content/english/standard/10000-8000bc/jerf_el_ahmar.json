@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1263,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a115c6bb96527fe5e5436b9c8a5a40904779602113a8a00960ffe29175e8a7fa",
+    "summary": "Jerf el Ahmar was a Pre-Pottery Neolithic A settlement on the upper Euphrates River in northern Syria, occupied from approximately 9500 to 8700 BCE. Like [[event:1251|Mureybet]] and [[event:1252|Abu Hureyra]], the site was excavated before it was inundated by the Tishreen Dam reservoir. Jerf el Ahmar is notable for its well-preserved communal structures and evidence of early symbolic behavior, including some of the world's earliest known pictographic clay tokens and marks that may prefigure later writing systems.\n\nThe site contained both circular residential structures in its earlier phases and, later, an unusual large oval communal building with a central post-ring, interpreted as a gathering place for ritual or social activities. Botanical evidence from Jerf el Ahmar documents the intensive use of wild plants alongside early cultivation, bridging the transition between foraging and farming. The site forms part of a cluster of contemporaneous upper Euphrates valley communities — including Mureybet, [[event:1370|Tell Halula]], and others — that together document the rapid social and economic changes underway in the northern Levant during the Pre-Pottery Neolithic period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jerf_el_Ahmar",
+    "read_more_links": [
+        {
+            "title": "Pre-Pottery Neolithic A - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A"
+        },
+        {
+            "title": "Upper Euphrates Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Euphrates"
+        },
+        {
+            "title": "Early Writing Precursors - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_writing"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg/300px-Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+            "caption": "Fertile crescent Neolithic B circa 7500 BC; black squares indicate pre-agricu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Aleppo Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleppo_in_Syria_2016.svg/250px-Aleppo_in_Syria_2016.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aleppo_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

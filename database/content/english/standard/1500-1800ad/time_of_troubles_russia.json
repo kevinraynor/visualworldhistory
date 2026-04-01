@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2411,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b8614b07251d4fec45881c58ef27de2af0a4ab8008b9447c4a02cadd71a891f3",
+    "summary": "The Time of Troubles (Smutnoye Vremya, 1598–1613 AD) was a catastrophic period of political crisis, social upheaval, famine, and foreign invasion in Russia that followed the extinction of the Rurik dynasty and nearly resulted in the permanent dismemberment of the Russian state. When Tsar Fyodor I (the last Rurik) died childless in 1598, Boris Godunov — his capable but ruthless regent — seized power. His reign (1598–1605) was undermined by the Great Famine of 1601–1603 (possibly caused by a volcanic winter from the 1600 eruption of Huaynaputina in Peru — one of history's longest-range disaster chains), which killed perhaps 2 million Russians, destroyed Godunov's political legitimacy, and created a population of displaced, desperate people susceptible to manipulation.\n\nThe crisis deepened through a cascade of pretenders claiming to be the murdered son of [[event:2410|Ivan the Terrible]], Tsarevich Dmitry: the First False Dmitry (1605–1606), a Polish-backed pretender who briefly took Moscow before being overthrown; the Second False Dmitry (the 'Brigand of Tushino'); and a Polish invasion that actually occupied Moscow (1610–1612) while a Swedish force occupied Novgorod. Russia's survival required the formation of a national militia by Kuzma Minin (a butcher) and Prince Dmitry Pozharsky, who expelled the Poles from Moscow in 1612. The Zemsky Sobor (national assembly) of 1613 elected the 16-year-old Mikhail Romanov as Tsar, founding the [[event:2412|Romanov dynasty]] that would rule until 1917. The Time of Troubles profoundly traumatized Russian political culture, reinforcing the conviction that strong autocratic central power was essential to prevent the chaos of competing claims — a lesson that shaped Russian political thought for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Time_of_Troubles",
+    "read_more_links": [
+        {
+            "title": "Boris Godunov Russia Time of Troubles famine",
+            "url": "https://en.wikipedia.org/wiki/Boris_Godunov"
+        },
+        {
+            "title": "False Dmitry pretenders Polish invasion Moscow",
+            "url": "https://en.wikipedia.org/wiki/False_Dmitriy_I"
+        },
+        {
+            "title": "Minin Pozharsky militia Moscow liberation 1612",
+            "url": "https://en.wikipedia.org/wiki/Kuzma_Minin"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vasily_shuysky.jpg/300px-Vasily_shuysky.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Vasily_shuysky.jpg",
+            "caption": "Tsar Vasili Shuysky. Miniature from 'Tsarsky titularnik', 1672. Василий Шуйск...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Uglich_Palace_of_Tsarevich_Dmitry_2023-07-21_7251.jpg/300px-Uglich_Palace_of_Tsarevich_Dmitry_2023-07-21_7251.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Uglich_Palace_of_Tsarevich_Dmitry_2023-07-21_7251.jpg",
+            "caption": "This is a photo of a cultural heritage object in Russia, number: 7610230001 (...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/King_Sigismund_Vasa_of_Poland.jpg/300px-King_Sigismund_Vasa_of_Poland.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/King_Sigismund_Vasa_of_Poland.jpg",
+            "caption": "Sigismund III Vasa, King of Poland and Sweden, with the Order of the Golden F...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Appeal_of_Minin.jpg/300px-Appeal_of_Minin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Appeal_of_Minin.jpg",
+            "caption": "Appeal of Minin",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Konstantin Makovsky",
+            "summary": "Russian painter (1839–1915)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg/250px-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9C%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Konstantin_Makovsky"
+        },
+        {
+            "name": "Kuzma Minin",
+            "summary": "Russian military leader (1570s–1616)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kuzma_Minin_engraving.png/250px-Kuzma_Minin_engraving.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kuzma_Minin"
+        },
+        {
+            "name": "Sigismund III Vasa",
+            "summary": "King of Poland and Grand Duke of Lithuania (1587–1632), King of Sweden (1592–1599)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg/250px-Soutman_Sigismund_III_Vasa_in_coronation_robes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sigismund_III_Vasa"
+        },
+        {
+            "name": "Feodor I of Russia",
+            "summary": "Tsar of Russia from 1584 to 1598",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fedor_I_the_Blessed_engraving.jpg/250px-Fedor_I_the_Blessed_engraving.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Feodor_I_of_Russia"
+        },
+        {
+            "name": "Rurikids",
+            "summary": "Noble lineage and rulers of Kievan Rus'",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coin_of_Yaroslav_the_Wise_%28reverse%29.png/250px-Coin_of_Yaroslav_the_Wise_%28reverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rurikids"
+        },
+        {
+            "name": "Michael of Russia",
+            "summary": "Tsar of Russia from 1613 to 1645",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Michael-I-Romanov-Wedekind_%28cropped%29.jpg/250px-Michael-I-Romanov-Wedekind_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_of_Russia"
+        }
+    ],
+    "territory_geojson": null
+}

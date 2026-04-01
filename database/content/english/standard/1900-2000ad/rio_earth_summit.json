@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3374,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a9fb5f04f08a41c6e798b9801b4f4b37d4c8ab65f493426c71fc25390a07c37c",
+    "summary": "The United Nations Conference on Environment and Development, known as the Earth Summit, was held in Rio de Janeiro, Brazil, from June 3–14, 1992. It was the largest gathering of heads of state in history to that point, bringing together representatives from 172 nations to address the growing intersection of environmental protection and economic development. The conference produced several landmark agreements including the Rio Declaration on Environment and Development, the Framework Convention on Climate Change, the Convention on Biological Diversity, and Agenda 21 — a comprehensive action plan for sustainable development.\n\nThe summit institutionalized the concept of sustainable development as the organizing principle for reconciling environmental protection and economic growth, building on the framework established by the 1987 Brundtland Commission report. It created the principle that states have common but differentiated responsibilities for global environmental problems, acknowledging that industrialized nations bore greater historical responsibility for environmental degradation than developing ones.\n\nThe Climate Change Convention signed at Rio did not include binding emissions targets — those would come with the [[event:3375|Kyoto Protocol]] in 1997. Nevertheless, Rio established the international institutional framework for climate negotiations that continues in the twenty-first century. The Earth Summit represented a generational shift in how the international community addressed the relationship between human civilization and the planetary environment, bringing environmental concerns to the center of global diplomatic agenda.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Earth_Summit",
+    "read_more_links": [
+        {
+            "title": "Rio Declaration - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rio_Declaration_on_Environment_and_Development"
+        },
+        {
+            "title": "UNFCCC - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change"
+        },
+        {
+            "title": "Sustainable Development - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sustainable_development"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/300px-Earth_Day_Flag.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Earth_Day_Flag.png",
+            "caption": "Higher-quality PNG version of John McConnell's Earth Day flag, based on this ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/300px-Aegopodium_podagraria1_ies.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Aegopodium_podagraria1_ies.jpg",
+            "caption": "Aegopodium podagraria",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "George H. W. Bush",
+            "summary": "President of the United States from 1989 to 1993",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/George_H._W._Bush_presidential_portrait_%28cropped_5%29.jpg/250px-George_H._W._Bush_presidential_portrait_%28cropped_5%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_H._W._Bush"
+        },
+        {
+            "name": "William K. Reilly",
+            "summary": "American conservationist (born 1940)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/William_K._Reilly_EPA.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_K._Reilly"
+        },
+        {
+            "name": "Mahathir Mohamad",
+            "summary": "Prime Minister of Malaysia (1981–2003, 2018–2020)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mahathir_Mohamad_13112018_%28cropped%29.jpg/250px-Mahathir_Mohamad_13112018_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahathir_Mohamad"
+        },
+        {
+            "name": "Vandana Shiva",
+            "summary": "Indian philosopher, scientist and environmentalist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dr._Vandana_Shiva_DS.jpg/250px-Dr._Vandana_Shiva_DS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vandana_Shiva"
+        },
+        {
+            "name": "Maurice Strong",
+            "summary": "Canadian businessman and diplomat",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Maurice_F._Strong_%281971_UN_photo%29.jpg/250px-Maurice_F._Strong_%281971_UN_photo%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Strong"
+        },
+        {
+            "name": "Tommy Koh",
+            "summary": "Singaporean diplomat and lawyer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Singaporean_diplomat_Tommy_Koh_%28cropped%29.JPG/250px-Singaporean_diplomat_Tommy_Koh_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tommy_Koh"
+        }
+    ],
+    "territory_geojson": null
+}

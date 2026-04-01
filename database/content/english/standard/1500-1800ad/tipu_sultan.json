@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3275,
+    "parent_id": 3274,
+    "granularity": "detailed",
+    "content_hash": "sha256:aa49ac28834437bfcfbf21879be0e585e66b3aea18053a63ddde1d99e687e5d2",
+    "summary": "Tipu Sultan (r. 1782–1799 AD) was the ruler of [[event:3273|Mysore]] and the most formidable military opponent of the [[event:2358|British East India Company]] in 18th-century India — a sophisticated military commander and administrator who modernized his state, deployed advanced rocket artillery, corresponded with Napoleon and the Ottoman Sultan seeking anti-British alliances, and died defending his capital Seringapatam against a British assault. Known as the 'Tiger of Mysore' (he kept live tigers and used tiger imagery throughout his court), Tipu inherited from his father Hyder Ali both the kingdom and the ongoing struggle against British encroachment. He introduced silk cultivation, reformed the calendar and coinage, developed trade with the Persian Gulf, and organized an early modern bureaucracy of remarkable efficiency for the period.\n\nTipu's religious and political legacy remains deeply contested. He was a devout Sunni Muslim who built mosques, used Islamic titles, and, according to contemporary accounts, forcibly converted Hindus and Christians in newly conquered territories — acts that have made him a polarizing figure in modern Indian historiography. His correspondence with French revolutionary authorities and Napoleon (whose Egyptian campaign was contemporary with the final Mysore War) alarmed the British into treating Mysore as a strategic threat requiring elimination rather than management. His death at Seringapatam (May 4, 1799), fighting in the breach of his capital's walls rather than surrendering, became one of the most celebrated episodes in British Indian military history — and equally celebrated in Indian national memory as an anti-colonial martyr's death. The British found his body in a pile of other dead and identified it by a tiger-stripe sword belt.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tipu_Sultan",
+    "read_more_links": [
+        {
+            "title": "Tipu Sultan rockets military technology Mysore army",
+            "url": "https://en.wikipedia.org/wiki/Mysorean_rockets"
+        },
+        {
+            "title": "Tipu Sultan Napoleon correspondence anti-British alliance",
+            "url": "https://en.wikipedia.org/wiki/Tipu_Sultan#Alliances"
+        },
+        {
+            "title": "Tipu Sultan legacy Hindu Muslim controversy historiography",
+            "url": "https://en.wikipedia.org/wiki/Tipu_Sultan#Legacy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/General_Sir_David_Baird_Discovering_the_Body_of_Sultan_Tippoo_Sahib.jpg/300px-General_Sir_David_Baird_Discovering_the_Body_of_Sultan_Tippoo_Sahib.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/General_Sir_David_Baird_Discovering_the_Body_of_Sultan_Tippoo_Sahib.jpg",
+            "caption": "Painting titled \"General Sir David Baird Discovering the Body of Sultan Tippo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gardens_Tipu_Summer_Palace_Srirangapatna_Jan24_A7C_08975.jpg/300px-Gardens_Tipu_Summer_Palace_Srirangapatna_Jan24_A7C_08975.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gardens_Tipu_Summer_Palace_Srirangapatna_Jan24_A7C_08975.jpg",
+            "caption": "View of the gardens of Daria Daulat Bagh (Tipu's Summer Palace) from the entr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tipu_Sultan%2C_Death_Place.jpg/300px-Tipu_Sultan%2C_Death_Place.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tipu_Sultan%2C_Death_Place.jpg",
+            "caption": "Stone tablet at the death place of Tipu Sultan the ruler of the Kingdom of My...",
+            "attribution": "Wikimedia Commons, GFDL 1.2"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Birth_place_of_Tipu_Sultan_%2C_01.jpg/300px-Birth_place_of_Tipu_Sultan_%2C_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Birth_place_of_Tipu_Sultan_%2C_01.jpg",
+            "caption": "Birth place of Tipu Sultan , Devanhalli , a town near Bangalore where Kempego...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hyder Ali",
+            "summary": "First Sultan of Mysore (c. 1720–1782)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%22Hyder_Ali%2C%22_a_steel_engraving_from_the_1790%27s_%28with_modern_hand_coloring%29.jpg/250px-%22Hyder_Ali%2C%22_a_steel_engraving_from_the_1790%27s_%28with_modern_hand_coloring%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hyder_Ali"
+        },
+        {
+            "name": "Krishnaraja Wodeyar III",
+            "summary": "Maharaja of Mysore from 1799 to 1868",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Krishnaraja_Wadiyar_III%2C_Maharaja_of_Mysore.jpg/250px-Krishnaraja_Wadiyar_III%2C_Maharaja_of_Mysore.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Krishnaraja_Wodeyar_III"
+        },
+        {
+            "name": "Maharaja of Mysore",
+            "summary": "Ruler of the Kingdom of Mysore",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Royal_coat_of_arms_of_the_Kingdom_of_Mysore.svg/250px-Royal_coat_of_arms_of_the_Kingdom_of_Mysore.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maharaja_of_Mysore"
+        },
+        {
+            "name": "Purnaiah",
+            "summary": "Prime Minister of Mysore",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Purniya%2C_Chief_Minister_of_Mysore.tif/lossy-page1-250px-Purniya%2C_Chief_Minister_of_Mysore.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Purnaiah"
+        },
+        {
+            "name": "Bande Nawaz",
+            "summary": "14th and 15th-century Indian Sufi saint",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Portrait_of_Bande_Nawaz%2C_a_Sufi_saint_from_India.jpg/250px-Portrait_of_Bande_Nawaz%2C_a_Sufi_saint_from_India.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bande_Nawaz"
+        },
+        {
+            "name": "Mawlid",
+            "summary": "Holiday commemorating the birthday of the Islamic prophet Muhammad",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Maulidur_Rasul_%288413657269%29.jpg/250px-Maulidur_Rasul_%288413657269%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mawlid"
+        }
+    ],
+    "territory_geojson": null
+}

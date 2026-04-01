@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2721,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c45427f132e6fb992b9516133b2c671d4b653084c52d54844ac919eb361c6af0",
+    "summary": "The Good Friday Agreement (also known as the Belfast Agreement) was signed on 10 April 1998 and marked the formal end of the most intense phase of the Troubles — the ethno-nationalist conflict in Northern Ireland that had claimed over 3,500 lives since the late 1960s. The agreement was reached after multi-party negotiations involving the British and Irish governments, the Ulster Unionist Party, the Social Democratic and Labour Party, Sinn Féin, and several smaller parties.\n\nThe agreement established power-sharing arrangements between unionists and nationalists in a devolved Northern Ireland Assembly, created new cross-border institutions linking Northern Ireland and the Republic of Ireland, and outlined a framework for the decommissioning of paramilitary weapons. Both governments made constitutional amendments: the Republic of Ireland removed its territorial claim to Northern Ireland, while the UK reaffirmed Northern Ireland's right to self-determination. The agreement was endorsed by referendums in both Northern Ireland and the Republic.\n\nThe Good Friday Agreement is widely regarded as a model for conflict resolution, demonstrating how intractable ethno-national conflicts can be addressed through inclusive political negotiation. While implementation has been uneven and the power-sharing institutions have experienced periods of collapse, Northern Ireland has been largely peaceful since 1998. The agreement's provisions relating to the Irish border became a central issue in subsequent debates over Brexit.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Good_Friday_Agreement",
+    "read_more_links": [
+        {
+            "title": "Good Friday Agreement - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Good-Friday-Agreement"
+        },
+        {
+            "title": "The Troubles - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Troubles"
+        },
+        {
+            "title": "Good Friday Agreement - CAIN Web Service, Ulster University",
+            "url": "https://cain.ulster.ac.uk/events/peace/agmnt.htm"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Troubled_Images_Exhibition%2C_Belfast%2C_August_2010_%2842%29.JPG/300px-Troubled_Images_Exhibition%2C_Belfast%2C_August_2010_%2842%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Troubled_Images_Exhibition%2C_Belfast%2C_August_2010_%2842%29.JPG",
+            "caption": "\"Vote Yes, It's the way Ahead\" (Yes Campaign (for the Belfast Agreement), 199...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/StormontGeneral.jpg/300px-StormontGeneral.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/StormontGeneral.jpg",
+            "caption": "General view of Parliament Buildings",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Visits-GOOD_FRIDAY_AGREEMENT_SIGNATORIES_ADDRESS_CO-OPERATION_IRELAND_EVENT_%2829239017097%29.jpg/300px-Visits-GOOD_FRIDAY_AGREEMENT_SIGNATORIES_ADDRESS_CO-OPERATION_IRELAND_EVENT_%2829239017097%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Visits-GOOD_FRIDAY_AGREEMENT_SIGNATORIES_ADDRESS_CO-OPERATION_IRELAND_EVENT_%2829239017097%29.jpg",
+            "caption": "(L–R) George Mitchell, Pat Doherty and Bertie Ahern.\nTony Blair, Bertie Ahern...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Anti_NI_Protocol_poster_in_Larne%2C_March_2021.jpg/300px-Anti_NI_Protocol_poster_in_Larne%2C_March_2021.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Anti_NI_Protocol_poster_in_Larne%2C_March_2021.jpg",
+            "caption": "Anti NI Protocol poster. Larne main street 6th March 2021",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mo Mowlam",
+            "summary": "British politician (1949–2005)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mo_Mowlam_official_portrait.jpg/250px-Mo_Mowlam_official_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mo_Mowlam"
+        },
+        {
+            "name": "David Andrews (politician)",
+            "summary": "Irish former politician (born 1935)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/David_Andrews_%28politician%29.jpg/250px-David_Andrews_%28politician%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Andrews_%28politician%29"
+        },
+        {
+            "name": "George J. Mitchell",
+            "summary": "American politician, diplomat, and judge (born 1933)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/George_John_Mitchell.jpg/250px-George_John_Mitchell.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_J._Mitchell"
+        },
+        {
+            "name": "Bill Clinton",
+            "summary": "President of the United States from 1993 to 2001",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/250px-Bill_Clinton.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Clinton"
+        },
+        {
+            "name": "Brendan O'Leary",
+            "summary": "Irish political scientist (born 1958)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brendan_O%27LearyII.jpeg/250px-Brendan_O%27LearyII.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brendan_O%27Leary"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2774,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5e959b596e25d10e57b7cab5f3bb33b30fe96a556268c979f3bfe65c977d95e6",
+    "summary": "The Global Positioning System (GPS) was declared fully operational by the United States Department of Defense in April 1995, following the completion of a constellation of twenty-four satellites in medium Earth orbit. Development of the system had begun in the 1970s under the U.S. military program NAVSTAR GPS, designed to provide precise positioning, navigation, and timing data for military operations anywhere on Earth in any weather conditions. The system was first used operationally during the 1991 [[event:2697|Gulf War]], where it provided American forces with significant navigational advantages in desert terrain.\n\nPresident Reagan had in 1983 made a version of GPS available for civilian use following the accidental shootdown of Korean Air Lines Flight 007, which had navigated off course. However, military authorities initially degraded the civilian signal through a process called Selective Availability, limiting civilian accuracy to about 100 meters. President Clinton ordered Selective Availability turned off in May 2000, instantly improving civilian GPS accuracy to approximately 20 meters and transforming the technology's commercial potential.\n\nThe combination of GPS with mobile phones and internet mapping services in the 2000s created a revolution in navigation and location-based services, fundamentally changing how people travel, how logistics are managed, and enabling entirely new categories of applications from ride-sharing to precision agriculture. GPS became the foundational technology of the location economy and one of the most commercially significant dual-use technologies ever developed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+    "read_more_links": [
+        {
+            "title": "GPS - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/GPS"
+        },
+        {
+            "title": "Selective Availability - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/GPS_signals#Selective_availability"
+        },
+        {
+            "title": "GPS History - GPS.gov",
+            "url": "https://www.gps.gov/systems/gps/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2nd_Space_Operations_Squadron_%287033686%29.jpeg/300px-2nd_Space_Operations_Squadron_%287033686%29.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/2nd_Space_Operations_Squadron_%287033686%29.jpeg",
+            "caption": "SCHRIEVER SPACE FORCE BASE, Colo. -- U.S. Space Force 2nd Lt Rebecca Hetrick ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/181206-F-DT527-136.jpg/300px-181206-F-DT527-136.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/181206-F-DT527-136.jpg",
+            "caption": "Air Force Space Command Vice Commander Lt. Gen. DT Thompson delivers presents...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/181206-F-DT527-136.jpg/300px-181206-F-DT527-136.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/181206-F-DT527-136.jpg",
+            "caption": "Air Force Space Command Vice Commander Lt. Gen. DT Thompson delivers presents...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ronald Reagan",
+            "summary": "President of the United States from 1981 to 1989",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/250px-Official_Portrait_of_President_Reagan_1981.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+        },
+        {
+            "name": "Ronald Reagan Presidential Library",
+            "summary": "Presidential library in Simi Valley, California",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Seal_of_the_Ronald_Reagan_Presidential_Library.svg/250px-Seal_of_the_Ronald_Reagan_Presidential_Library.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Reagan_Presidential_Library"
+        },
+        {
+            "name": "Bill Clinton",
+            "summary": "President of the United States from 1993 to 2001",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/250px-Bill_Clinton.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Clinton"
+        },
+        {
+            "name": "Roger L. Easton",
+            "summary": "American physicist and GPS inventor (1921–2014)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Roger_Easton.jpg/250px-Roger_Easton.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_L._Easton"
+        },
+        {
+            "name": "Gladys West",
+            "summary": "American mathematician (1930–2026)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/181206-F-DT527-087_%28cropped%29.jpg/250px-181206-F-DT527-087_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gladys_West"
+        },
+        {
+            "name": "Friedwardt Winterberg",
+            "summary": "German American physicist (born 1929)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Friedwardt_Winterberg_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Friedwardt_Winterberg"
+        }
+    ],
+    "territory_geojson": null
+}

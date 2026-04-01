@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 98,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:278e9f25dc402ae5b35471d60de1ea6b07552bb0164100875093697f9805819d",
+    "summary": "The Aztec Empire (1428–1521 AD), also known as the Triple Alliance Empire, was the dominant political and military power of Mesoamerica at the time of Spanish contact, controlling a vast network of tributary states across modern Mexico from its island capital [[event:2261|Tenochtitlan]] in the Valley of Mexico. The Aztecs (Mexica) were relative latecomers to the Valley of Mexico — a semi-nomadic people who arrived from the north around 1200 AD and spent a century as mercenary warriors before establishing their [[event:3870|own state]] in the early 15th century.\n\nThe Aztec Empire's extraordinary growth from 1428 onward under the Triple Alliance of Tenochtitlan, Texcoco, and Tlacopan was fueled by military conquest and an elaborate tribute system that extracted goods, labor, and sacrificial victims from conquered peoples across an estimated 200,000 square kilometers. Human sacrifice — conducted on a scale unprecedented in world history, with estimates of 20,000 or more sacrifices per year during major festivals — was central to Aztec religious ideology, which held that the gods required human blood to maintain the cosmic cycles of time. Tenochtitlan itself was a marvel of urban engineering: built on artificial islands (chinampas) in Lake Texcoco, connected to the shore by massive causeways, with a population of perhaps 200,000–300,000 making it larger than any contemporary European city. The empire fell with shocking speed to Hernán Cortés and indigenous allies in 1519–1521, a conquest that combined Spanish military technology, smallpox epidemics, and the political resentments of conquered peoples who initially welcomed Spanish alliance.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aztec_Empire",
+    "read_more_links": [
+        {
+            "title": "Triple Alliance Aztec political structure",
+            "url": "https://en.wikipedia.org/wiki/Aztec_Empire#Political_structure"
+        },
+        {
+            "title": "Aztec human sacrifice religious practice",
+            "url": "https://en.wikipedia.org/wiki/Human_sacrifice_in_Aztec_culture"
+        },
+        {
+            "title": "Tenochtitlan chinampas engineering",
+            "url": "https://en.wikipedia.org/wiki/Tenochtitlan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/National_Museum_of_Anthropology_-_Aztecs_%28JC%29_06.JPG/300px-National_Museum_of_Anthropology_-_Aztecs_%28JC%29_06.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/National_Museum_of_Anthropology_-_Aztecs_%28JC%29_06.JPG",
+            "caption": "National Museum of Anthropology - Aztecs",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Templo_Mayor_2015_001.jpg/300px-Templo_Mayor_2015_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Templo_Mayor_2015_001.jpg",
+            "caption": "Templo Mayor, Mexico City, Mexico.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Codex_azcatitlan222.jpg/300px-Codex_azcatitlan222.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Codex_azcatitlan222.jpg",
+            "caption": "Codex page.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aztec_Indians_Mexico_Tlaxcalan_Cortez.jpg/300px-Aztec_Indians_Mexico_Tlaxcalan_Cortez.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Aztec_Indians_Mexico_Tlaxcalan_Cortez.jpg",
+            "caption": "The Native people of Central America, i.e. Mexico as depicted in the Tlaxcala...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Conquistador",
+            "summary": "Spanish and Portuguese conquerors of the Age of Discovery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg/250px-Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conquistador"
+        },
+        {
+            "name": "Hernán Cortés",
+            "summary": "Spanish conquistador and explorer (1485–1547)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg/250px-Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s"
+        },
+        {
+            "name": "Mexica",
+            "summary": "Nahuatl-speaking Indigenous people of the Valley of Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aztec_drums%2C_Florentine_Codex..jpg/250px-Aztec_drums%2C_Florentine_Codex..jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mexica"
+        },
+        {
+            "name": "Tlatoani",
+            "summary": "Ruler of a Mesoamerican āltepētl (city-state)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nezahualpiltzintli.jpg/250px-Nezahualpiltzintli.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tlatoani"
+        },
+        {
+            "name": "Maxtla",
+            "summary": "King of Azcapotzalco and Coyoacán",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maxtlatl.JPG/250px-Maxtlatl.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maxtla"
+        },
+        {
+            "name": "Jaguar warrior",
+            "summary": "Type of elite Aztec warrior",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jaguar_warrior.jpg/250px-Jaguar_warrior.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jaguar_warrior"
+        }
+    ],
+    "territory_geojson": null
+}

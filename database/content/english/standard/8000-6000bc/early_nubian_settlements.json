@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1496,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:0b12df3d789806eb54fb7601e5bd28ac9429df005f052a2a80cdf089cf244b56",
+    "summary": "Nubia, the region along the Nile south of Egypt in modern Sudan, supported human settlements from at least 7000 BCE. Communities in this period were semi-sedentary, combining hunting and fishing with early forms of herding and plant gathering. The Nile's annual flooding regime provided a reliable ecological foundation, and sites along the river banks show evidence of small but persistent habitation.\n\nThese early Nubian communities developed distinctive material cultures, including characteristic pottery and groundstone tools, that differentiated them from contemporary Levantine and Egyptian populations. Their pastoral and fishing-based economies were well adapted to the Nile corridor environment, and they interacted with neighboring populations through trade and cultural exchange. These settlements represent the precursors to the later A-Group and Kerma cultures that would make Nubia a significant political and cultural region in subsequent millennia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nubia#Prehistoric_Nubia",
+    "read_more_links": [
+        {
+            "title": "Nubia – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nubia"
+        },
+        {
+            "title": "Prehistoric Sudan – Britannica",
+            "url": "https://www.britannica.com/place/Sudan/History"
+        },
+        {
+            "title": "Khartoum Mesolithic – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Khartoum_Mesolithic"
+        },
+        {
+            "title": "Nile Valley Prehistory – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_Egypt"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/A_great_pyramid_at_Meroe_in_1821.jpg/300px-A_great_pyramid_at_Meroe_in_1821.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/A_great_pyramid_at_Meroe_in_1821.jpg",
+            "caption": "A great pyramid at Meroe in 1821",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Exposition_Nubia%2C_Land_of_the_Black_Pharaohs_%E2%80%93_Mirror._Kerma_Period%2C_1700-1550_BC.jpg/300px-Exposition_Nubia%2C_Land_of_the_Black_Pharaohs_%E2%80%93_Mirror._Kerma_Period%2C_1700-1550_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Exposition_Nubia%2C_Land_of_the_Black_Pharaohs_%E2%80%93_Mirror._Kerma_Period%2C_1700-1550_BC.jpg",
+            "caption": "Exposition Nubia, Land of the Black Pharaohs – Mirror. Kerma Period, 1700-155...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pharaoh_Taharqa_of_Ancient_Egypt%27s_25th_Dynasty.jpg/300px-Pharaoh_Taharqa_of_Ancient_Egypt%27s_25th_Dynasty.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pharaoh_Taharqa_of_Ancient_Egypt%27s_25th_Dynasty.jpg",
+            "caption": "Pharaoh Taharqa of Ancient Egypt's 25th Dynasty.  Ashmolean Museum, Oxford Un...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Taharqa%27s_kiosk._Karnak_Temple.jpg/300px-Taharqa%27s_kiosk._Karnak_Temple.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Taharqa%27s_kiosk._Karnak_Temple.jpg",
+            "caption": "Taharqa's kiosk. Karnak Temple",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Taharqa",
+            "summary": "King of Kush and pharaoh of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Taharqa%2C_Louvre_Museum.jpg/250px-Taharqa%2C_Louvre_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taharqa"
+        },
+        {
+            "name": "Senkamanisken",
+            "summary": "Kushite King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/F5457_Louvre_expo_Napata_Senkamanisken_rwk.jpg/250px-F5457_Louvre_expo_Napata_Senkamanisken_rwk.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Senkamanisken"
+        },
+        {
+            "name": "Aspelta",
+            "summary": "Kushite King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Aspelta_statue_reconstruction%2C_with_Egyptian_headdress.jpg/250px-Aspelta_statue_reconstruction%2C_with_Egyptian_headdress.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aspelta"
+        },
+        {
+            "name": "Anlamani",
+            "summary": "Kushite king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Anlamani_statue_reconstruction%2C_with_Egyptian_headdress.jpg/250px-Anlamani_statue_reconstruction%2C_with_Egyptian_headdress.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anlamani"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Piye",
+            "summary": "Ancient Kushite king and pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stele_Piye_Mariette.jpg/250px-Stele_Piye_Mariette.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Piye"
+        }
+    ],
+    "territory_geojson": null
+}

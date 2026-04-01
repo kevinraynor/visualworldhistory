@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2079,
+    "parent_id": 2077,
+    "granularity": "detailed",
+    "content_hash": "sha256:bd97e9ad95a22d4c4eb2c3f551e0f276b874dd55dc2f9e8219298d5303348a19",
+    "summary": "The Siege of Masada (72–73 AD) was the final episode of the [[event:2077|First Jewish-Roman War]] — a Roman military operation against the last holdout of Jewish rebels, a fortress on a sheer desert mesa above the Dead Sea that Herod the Great had built and stocked as a refuge. After Jerusalem's fall in 70 AD, approximately 960 Sicarii (a radical Jewish faction) held Masada against the Roman Tenth Legion under Flavius Silva, who constructed an enormous siege ramp (still visible today) to breach the walls. When the ramp was completed and the Romans prepared to storm the fortress, the defenders — according to the Jewish historian Josephus — chose mass suicide over capture and enslavement.\n\nJosephus's dramatic account of Masada has made it one of history's most powerful stories of defiance — the leader Eleazar ben Yair reportedly gave two speeches convincing his people to die free rather than live as slaves, and lots were drawn to determine who would kill whom in sequence, with the last man killing himself. Archaeological excavations by Yigael Yadin in the 1960s largely confirmed the historical outline, finding skeletal remains, personal possessions, and lots (ostraca) that may be the very ones described by Josephus. Masada became an intense symbol in 20th-century Israeli national identity — 'Masada shall not fall again' — though more recent scholarship has complicated the valorization of mass suicide as national heroism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Masada",
+    "read_more_links": [
+        {
+            "title": "Masada fortress Herod",
+            "url": "https://en.wikipedia.org/wiki/Masada"
+        },
+        {
+            "title": "Josephus account of Masada",
+            "url": "https://en.wikipedia.org/wiki/Josephus#Jewish_War"
+        },
+        {
+            "title": "Masada complex Israeli symbol",
+            "url": "https://en.wikipedia.org/wiki/Masada_complex"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Israel-2013-Aerial_21-Masada.jpg/300px-Israel-2013-Aerial_21-Masada.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg",
+            "caption": "Aerial view of Masada (Hebrew מצדה), in the Judaean Desert (Hebrew: מִדְבַּר ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Masada_Roman_Ramp_by_David_Shankbone.jpg/300px-Masada_Roman_Ramp_by_David_Shankbone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Masada_Roman_Ramp_by_David_Shankbone.jpg",
+            "caption": "Masada Roman Ramp",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Masada_Roman_Ruins_by_David_Shankbone.jpg/300px-Masada_Roman_Ruins_by_David_Shankbone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Masada_Roman_Ruins_by_David_Shankbone.jpg",
+            "caption": "Roman legionary (X Fretensis) castra at Masada, Israel, viewed from the fortr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Francesco_Hayez_018.jpg/300px-Francesco_Hayez_018.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Francesco_Hayez_018.jpg",
+            "caption": "detail",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lucius Flavius Silva",
+            "summary": "1st century AD Roman senator, commander and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Flavio_Silva_from_the_Israel_Museum_-_Jerusalem.JPG/250px-Flavio_Silva_from_the_Israel_Museum_-_Jerusalem.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Flavius_Silva"
+        },
+        {
+            "name": "Josephus",
+            "summary": "Roman–Jewish historian and military leader (c. 37 – c. 100)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg/250px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Josephus"
+        },
+        {
+            "name": "Vespasian",
+            "summary": "Roman emperor from AD 69 to 79",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg/250px-Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian"
+        },
+        {
+            "name": "Legionary",
+            "summary": "Professional soldier of the Roman army",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Wells_0706_054.jpg/250px-Wells_0706_054.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Legionary"
+        },
+        {
+            "name": "Eric H. Cline",
+            "summary": "American historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eric_cline_3119.JPG/250px-Eric_cline_3119.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_H._Cline"
+        },
+        {
+            "name": "Edward Luttwak",
+            "summary": "Romanian–American military strategist (born 1942)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Edward_Luttwak_in_2026.jpg/250px-Edward_Luttwak_in_2026.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Luttwak"
+        }
+    ],
+    "territory_geojson": null
+}

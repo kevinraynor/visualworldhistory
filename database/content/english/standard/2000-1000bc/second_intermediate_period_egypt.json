@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1800,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:395c9ddd629243853683c21cd121d4ea2e532233d78212f12cb471e640591fbb",
+    "summary": "The Second Intermediate Period of Egypt (c. 1650–1550 BC) was an era of political fragmentation in which Egypt was divided among competing dynasties, most notably the [[event:1799|Hyksos]] Fifteenth Dynasty ruling the north from Avaris, an indigenous Seventeenth Dynasty at Thebes in the south, and a Nubian kingdom to the south. Egyptian sources describe this period as a time of chaos and humiliation, though modern scholarship recognizes a more complex picture of political coexistence and cultural exchange.\n\nThe Theban Seventeenth Dynasty gradually built up military strength and eventually launched a war of liberation against the Hyksos. The final campaigns were completed by Ahmose I around 1550 BC, who expelled the Hyksos from Egypt, reunified the country, and founded the Eighteenth Dynasty, inaugurating the [[event:60|New Kingdom]]. The trauma of Hyksos domination profoundly influenced New Kingdom imperial ideology and military policy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Intermediate_Period_of_Egypt",
+    "read_more_links": [
+        {
+            "title": "Hyksos",
+            "url": "https://en.wikipedia.org/wiki/Hyksos"
+        },
+        {
+            "title": "Ahmose I",
+            "url": "https://en.wikipedia.org/wiki/Ahmose_I"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Khendjer-complexe-1.jpg/300px-Khendjer-complexe-1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Khendjer-complexe-1.jpg",
+            "caption": "The Pyramid of Khendjer, Pharaoh Khendjer, ca. 1765 BC, ~4+ year reign",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ceremonial_axe_of_Ahmose_I_%28both_sides%29.jpg/300px-Ceremonial_axe_of_Ahmose_I_%28both_sides%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ceremonial_axe_of_Ahmose_I_%28both_sides%29.jpg",
+            "caption": "Ceremonial axe of Ahmose I (both sides)",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Khyan.jpg/300px-Khyan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Khyan.jpg",
+            "caption": "Lion of the Hyksos king Seuserenre Khyan\n• Conservation: London. British Muse...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Merneferre Ay",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Merneferre_Ay.jpg/250px-Merneferre_Ay.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merneferre_Ay"
+        },
+        {
+            "name": "Manetho",
+            "summary": "3rd-century BC Egyptian historian and priest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Manetho_Waddell1940_PD_Excerpt_pIX.jpg/250px-Manetho_Waddell1940_PD_Excerpt_pIX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Manetho"
+        },
+        {
+            "name": "Salitis",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Hyksos_invasion_as_imagined_in_the_19th_century_by_Hermann_Vogel.jpg/250px-Hyksos_invasion_as_imagined_in_the_19th_century_by_Hermann_Vogel.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Salitis"
+        },
+        {
+            "name": "Sobekneferu",
+            "summary": "Earliest confirmed female Egyptian pharaoh c. 1800 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Statue_of_Sobekneferu_%28Berlin_Egyptian_Museum_14475%29.jpg/250px-Statue_of_Sobekneferu_%28Berlin_Egyptian_Museum_14475%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sobekneferu"
+        },
+        {
+            "name": "Khendjer",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Khendjer_JE_53368_01.jpg/250px-Khendjer_JE_53368_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Khendjer"
+        },
+        {
+            "name": "Seheqenre Sankhptahi",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sankhptahi.jpg/250px-Sankhptahi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seheqenre_Sankhptahi"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3628,
+    "parent_id": 101,
+    "granularity": "detailed",
+    "content_hash": "sha256:24367e456a4a829ec9f5a5fcd71e8b93bb9de5303aa20d529fa3ed512699c59b",
+    "summary": "The Spanish Treasure Fleets (c. 1565–1790 AD) were the convoy system through which Spain transported the wealth of its American colonies — particularly the silver from [[event:2425|Potosí]] and Mexican mines — across the Atlantic to Seville and later Cádiz, constituting one of the most sustained and significant wealth transfers in human history. The flota system (formal convoys escorted by warships) was established in the 1560s after pirates and privateers began systematically targeting individual treasure ships; the convoys sailed twice annually (the Tierra Firme fleet to Cartagena and Porto Bello, the Nueva España fleet to Veracruz), assembled in Havana, and crossed the Atlantic under armed escort.\n\nThe treasure fleets transformed the European and global economy in ways that contemporaries could observe but could not fully explain. The massive influx of American silver caused a 'price revolution' across Europe — sustained inflation over the 16th and 17th centuries that disrupted existing economic relationships and accelerated the transition to market economies. Spain, though the source of all this silver, paradoxically benefited least: the treasure was rapidly spent on wars, court expenditure, and debt repayment to Italian and German bankers, cycling through Spain to the rest of Europe. The economist Earl Hamilton argued that American silver influx caused the European price revolution; subsequent research has complicated this narrative while acknowledging silver's importance. The treasure fleets were the target of Sir Francis Drake's [[event:2397|raids]], French and Dutch privateers, and [[event:3277|Caribbean pirates]] — losses of individual ships were dramatic and celebrated in European lore, though the overall convoy system was remarkably successful at delivering wealth to Spain.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_treasure_fleet",
+    "read_more_links": [
+        {
+            "title": "Flota system Spanish convoy Atlantic escort treasure",
+            "url": "https://en.wikipedia.org/wiki/Spanish_treasure_fleet#Organization"
+        },
+        {
+            "title": "Price revolution European inflation American silver economy",
+            "url": "https://en.wikipedia.org/wiki/Price_revolution"
+        },
+        {
+            "title": "Potosi silver mines colonial America Spanish treasure source",
+            "url": "https://en.wikipedia.org/wiki/Potos%C3%AD"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/17th_Century_Spanish_Treasure_Silver_8_Reales_Cob_Coin.jpg/300px-17th_Century_Spanish_Treasure_Silver_8_Reales_Cob_Coin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/17th_Century_Spanish_Treasure_Silver_8_Reales_Cob_Coin.jpg",
+            "caption": "thumb|right|100px|Mint mark 17th Century \"Spanish Treasure\" \"Shield Type\" Sil...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/16th_century_Portuguese_Spanish_trade_routes.png/300px-16th_century_Portuguese_Spanish_trade_routes.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/16th_century_Portuguese_Spanish_trade_routes.png",
+            "caption": "Map showing main Portuguese (blue) and Spanish (white) oceanic trade routes i...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/La_sevilla_del_sigloXVI.jpg/300px-La_sevilla_del_sigloXVI.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/La_sevilla_del_sigloXVI.jpg",
+            "caption": "Vista de la ciudad de Sevilla, (España), desde el barrio de Triana. A través ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/A_hoard_of_Iron_Age_coins_from_Beverly.jpg/300px-A_hoard_of_Iron_Age_coins_from_Beverly.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/A_hoard_of_Iron_Age_coins_from_Beverly.jpg",
+            "caption": "A hoard of Iron Age coins from Beverly, East Riding of Yorkshire, England.\nTh...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pedro Menéndez de Avilés",
+            "summary": "Spanish explorer and governor (1519–1574)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pedro_menendez_de_Aviles.jpg/250px-Pedro_menendez_de_Aviles.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Men%C3%A9ndez_de_Avil%C3%A9s"
+        },
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        },
+        {
+            "name": "Philip II of Spain",
+            "summary": "King of Spain (1556–1598), England (by marriage, 1554–1558), Portugal (1580–1598)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/250px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Spain"
+        },
+        {
+            "name": "Philip V of Spain",
+            "summary": "King of Spain (r. 1700–1724; 1724–1746)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Philip_V_of_Spain.jpg/250px-Philip_V_of_Spain.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_V_of_Spain"
+        },
+        {
+            "name": "Charles III of Spain",
+            "summary": "King of Spain from 1759 to 1788",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Charles_III_of_Spain_high_resolution.jpg/250px-Charles_III_of_Spain_high_resolution.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_III_of_Spain"
+        },
+        {
+            "name": "Amaro Pargo",
+            "summary": "Spanish privateer and slave trader (1678–1747)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Amaro_Pargo.jpg/250px-Amaro_Pargo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amaro_Pargo"
+        }
+    ],
+    "territory_geojson": null
+}

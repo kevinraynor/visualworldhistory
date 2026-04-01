@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1137,
+    "parent_id": 71,
+    "granularity": "detailed",
+    "content_hash": "sha256:e056910c8f1c86e98ceeaf12c45f15b871bb1cb12f2e380e39eebb5c844cacea",
+    "summary": "Persepolis (c. 500–330 BC) was the ceremonial capital of the Achaemenid Persian Empire, begun under Darius the Great and completed by Xerxes I and Artaxerxes I — a palatial complex whose magnificent audience halls, carved reliefs, and administrative archives made it the symbolic heart of the world's largest empire before its destruction by [[event:75|Alexander the Great]].\n\nBuilt on a grand artificial terrace near Shiraz in modern Iran, Persepolis was primarily used for the Persian New Year (Nowruz) celebration, when tribute delegations from all parts of the empire appeared before the king. The Apadana (audience hall) could accommodate thousands; its stairway reliefs show delegations from twenty-three subject peoples bringing gifts — an invaluable historical record of the empire's ethnic diversity. The Fortification Tablets and Treasury Tablets found at Persepolis document in extraordinary detail the administrative and economic life of the empire. Alexander burned Persepolis in 330 BC, reportedly in drunken revelry or as deliberate revenge for Xerxes' burning of the Athenian Acropolis. The ruins have been excavated since the 1930s and are now a UNESCO World Heritage Site, one of the finest examples of ancient Persian architecture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Persepolis",
+    "read_more_links": [
+        {
+            "title": "Apadana palace",
+            "url": "https://en.wikipedia.org/wiki/Apadana"
+        },
+        {
+            "title": "Persepolis fortification tablets",
+            "url": "https://en.wikipedia.org/wiki/Persepolis_fortification_tablets"
+        },
+        {
+            "title": "Achaemenid architecture",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_architecture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PersepolisNegareh.jpg/300px-PersepolisNegareh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/PersepolisNegareh.jpg",
+            "caption": "This is a photo of a monument in Iran identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Persepolis%2C_Iran_08.jpg/300px-Persepolis%2C_Iran_08.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Persepolis%2C_Iran_08.jpg",
+            "caption": "Unfinished gate, Persepolis, Iran",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hall_of_Hundred_Columns_%28Throne_Hall%29_in_Persepolis.jpg/300px-Hall_of_Hundred_Columns_%28Throne_Hall%29_in_Persepolis.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hall_of_Hundred_Columns_%28Throne_Hall%29_in_Persepolis.jpg",
+            "caption": "The Hall of Hundred Columns (Throne Hall) in Persepolis, Persia (Persis/Fars)...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/National_Meusem_Darafsh_6_%2854%29.JPG/300px-National_Meusem_Darafsh_6_%2854%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/National_Meusem_Darafsh_6_%2854%29.JPG",
+            "caption": "National Museum of Iran",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Xerxes I",
+            "summary": "King of Kings of the Achaemenid Empire from 486 to 465 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_%28785%29.JPG/250px-National_Museum_of_Iran_Darafsh_%28785%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        },
+        {
+            "name": "Artaxerxes I",
+            "summary": "King of Kings of the Achaemenid Empire from 465 to 424 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Relief_of_Artaxerxes_I%2C_from_his_tomb_in_Naqsh-e_Rustam.jpg/250px-Relief_of_Artaxerxes_I%2C_from_his_tomb_in_Naqsh-e_Rustam.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Artaxerxes_I"
+        },
+        {
+            "name": "Achaemenid architecture",
+            "summary": "Historical architecture style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Immortels_-_dynamosquito.jpg/250px-Immortels_-_dynamosquito.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Achaemenid_architecture"
+        },
+        {
+            "name": "Jamshid",
+            "summary": "Iranian king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Name-ye_Khosrovan_bsb11180462_00414.jpg/250px-Name-ye_Khosrovan_bsb11180462_00414.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jamshid"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Minaret",
+            "summary": "Architectural feature of mosques",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Minaret_of_Qayt_Bey%2C_Umayyad_Mosque.jpg/250px-Minaret_of_Qayt_Bey%2C_Umayyad_Mosque.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Minaret"
+        }
+    ],
+    "territory_geojson": null
+}

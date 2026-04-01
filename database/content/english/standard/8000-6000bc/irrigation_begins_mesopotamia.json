@@ -1,0 +1,63 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 24,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:147ded8a202111c02107a9858d5c4e8a24e45eb469d504188de80afe3664bccd",
+    "summary": "The earliest known development of artificial irrigation in Mesopotamia, occurring roughly between 7500 and 6000 BCE, represents one of the pivotal technological innovations of prehistoric civilization. Mesopotamia — the land between the Tigris and Euphrates rivers — receives insufficient rainfall in most of its territory to support rain-fed agriculture, particularly in the southern alluvial plains. The solution that early farming communities devised was to capture and redirect river water through channels, allowing cultivation in areas that would otherwise have been too dry during critical growing seasons.\n\nInitial irrigation systems were almost certainly simple — small earthen channels or diversions from natural watercourses — but even these modest interventions dramatically expanded the area of cultivable land and stabilized agricultural output against the unpredictability of rainfall. Early farming sites in the Assyrian steppe zone of northern Mesopotamia, including those of the [[event:1403|Hassuna]] and [[event:1404|Samarra culture]], provide early evidence of irrigation-adjacent agricultural practice, with the Samarra culture in particular associated with some of the earliest irrigation infrastructure identified archaeologically.\n\nIrrigation's social consequences were at least as significant as its agricultural ones. The construction and maintenance of irrigation systems required organized collective labor, the coordination of water rights, and the adjudication of disputes — all functions that tend to encourage or require more centralized social authority. This link between irrigation agriculture and social hierarchy has been debated extensively by social theorists, but it is generally accepted that irrigation played an important enabling role in the development of the first complex societies of southern Mesopotamia.\n\nThe gradual extension of irrigation agriculture into the dry southern Mesopotamian plains from the sixth millennium BCE onward eventually allowed the region to support the dense, productive populations that gave rise to the [[event:39|Ubaid culture]] and eventually Sumerian urbanism. In this sense, the first Mesopotamian irrigation experiments of this era represent a technological foundation on which subsequent civilization was built.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irrigation#History",
+    "read_more_links": [
+        {
+            "title": "History of Irrigation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Irrigation"
+        },
+        {
+            "title": "Mesopotamia - Britannica",
+            "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia"
+        },
+        {
+            "title": "Samarra Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Samarra_culture"
+        },
+        {
+            "title": "History of Agriculture in the Middle East - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture_in_the_Middle_East"
+        },
+        {
+            "title": "Ubaid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ubaid_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bisse.jpg/300px-Bisse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bisse.jpg",
+            "caption": "Bisse d'Ayent, a notable example of bisse (or suone) in Valais, still in func...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Crop_sprinklers_Rio_Vista_California_15_Jul_2004-002.jpg/300px-Crop_sprinklers_Rio_Vista_California_15_Jul_2004-002.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Crop_sprinklers_Rio_Vista_California_15_Jul_2004-002.jpg",
+            "caption": "Aerial view of crop sprinklers near Rio Vista, California in the Sacramento-S...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fields_SW_from_Sevilla.jpg/300px-Fields_SW_from_Sevilla.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fields_SW_from_Sevilla.jpg",
+            "caption": "Fields SW from Sevilla.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sprinkler_Irrigation_-_Sprinkler_head.JPG/300px-Sprinkler_Irrigation_-_Sprinkler_head.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sprinkler_Irrigation_-_Sprinkler_head.JPG",
+            "caption": "Micro-sprinkler used for irrigation.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

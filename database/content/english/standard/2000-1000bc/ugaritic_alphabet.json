@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1834,
+    "parent_id": 1833,
+    "granularity": "notable",
+    "content_hash": "sha256:b309b4dda7fad11107f23a1a17db0ccf893efd5e7963c30b3a4ecc40bfc0993f",
+    "summary": "The Ugaritic alphabet was a cuneiform script of thirty letters developed at the city of [[event:1833|Ugarit]] in the northern Levant around the fourteenth century BC. Unlike the complex syllabic and logographic cuneiform systems used across Mesopotamia, Ugaritic used a fully alphabetic principle, with each sign representing a single consonant. The script was pressed into clay tablets using a reed stylus in the same manner as Mesopotamian cuneiform, but the signs were simplified and reduced to a small, learnable set.\n\nThe Ugaritic alphabet is one of the earliest confirmed alphabetic writing systems in the world and provides crucial evidence for the development of alphabetic writing in the ancient Near East. Scholars have debated its relationship to the Proto-Sinaitic script and to the later [[event:1835|Phoenician alphabet]], with Ugaritic likely representing a parallel or closely related strand of alphabetic experimentation rather than a direct ancestor of the Phoenician system. Its use was largely confined to Ugarit and ended when that city was destroyed around 1185 BC.\n\nTexts written in the Ugaritic alphabet include administrative records, letters, legal documents, and, most notably, religious and mythological literature including the Baal Cycle. The decipherment of Ugaritic in the 1930s shortly after its discovery opened an entirely new body of ancient Near Eastern literature to scholars and deepened understanding of Canaanite religion and its relationship to the Hebrew Bible.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ugaritic_alphabet",
+    "read_more_links": [
+        {
+            "title": "Ugaritic - Britannica",
+            "url": "https://www.britannica.com/topic/Ugaritic-language"
+        },
+        {
+            "title": "History of the Alphabet",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_alphabet"
+        },
+        {
+            "title": "Phoenician Alphabet",
+            "url": "https://en.wikipedia.org/wiki/Phoenician_alphabet"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Literacy.PNG/300px-Literacy.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Literacy.PNG",
+            "caption": "The slow spread of literacy. The dark blue areas were literate at around 2300...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/22_alphabet.jpg/300px-22_alphabet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/22_alphabet.jpg",
+            "caption": "the picture depicting the w:ugarit alphabet , self-scan of Old syrian post-ca...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Stylus",
+            "summary": "Writing utensil or small tool for marking or shaping",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Table_with_was_and_stylus_Roman_times.jpg/250px-Table_with_was_and_stylus_Roman_times.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stylus"
+        },
+        {
+            "name": "Jared Diamond",
+            "summary": "American scientist, historian, and author (born 1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jared_Diamond_author_academic.jpg/250px-Jared_Diamond_author_academic.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jared_Diamond"
+        }
+    ],
+    "territory_geojson": null
+}

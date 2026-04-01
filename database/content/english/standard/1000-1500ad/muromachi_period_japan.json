@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2281,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:100644c1ef25d2e845f8a71aa6930f672e6b0389cba744f9d491e38763382bb2",
+    "summary": "The Muromachi Period (1336–1573 AD) was the era of the Ashikaga shogunate in Japan, named for the Muromachi district of Kyoto where the shogunate established its headquarters — the first shogunate to be based in the imperial capital itself. The period opened with the victory of Ashikaga Takauji over Emperor Go-Daigo's forces after the brief Kemmu Restoration, and was marked by both remarkable cultural achievement and increasing political fragmentation culminating in the century-long civil war of the [[event:3047|Sengoku period]].\n\nThe Muromachi period produced some of Japan's most distinctive cultural achievements. The Ashikaga shoguns — particularly Yoshimitsu (reigned 1368–1394), who built the Golden Pavilion (Kinkakuji) and promoted trade with Ming China — were passionate cultural patrons who combined warrior authority with aristocratic refinement. Noh theatre was formalized by Zeami Motokiyo under Yoshimitsu's patronage into one of the world's oldest continuously performed theatrical traditions. The Zen-influenced aesthetic tradition of wabi-sabi (finding beauty in imperfection and transience) crystallized in the tea ceremony, ink painting (sumi-e), rock gardens (karesansui), and flower arrangement (ikebana). Commercial activity and urban culture expanded significantly despite political disorder. The period's cultural legacy was immense: the aesthetic sensibilities developed in Muromachi Japan continue to define 'Japanese' aesthetics for the world. The shogunate effectively ended when the warlord Oda Nobunaga drove the last Ashikaga shogun from Kyoto in 1573.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muromachi_period",
+    "read_more_links": [
+        {
+            "title": "Ashikaga shogunate Muromachi culture",
+            "url": "https://en.wikipedia.org/wiki/Ashikaga_shogunate"
+        },
+        {
+            "title": "Noh theatre Zeami Muromachi origins",
+            "url": "https://en.wikipedia.org/wiki/N%C5%8D"
+        },
+        {
+            "title": "Japanese wabi-sabi aesthetics Muromachi",
+            "url": "https://en.wikipedia.org/wiki/Wabi-sabi"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Mouse_Story_-_Google_Art_Project.jpg/300px-The_Mouse_Story_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Mouse_Story_-_Google_Art_Project.jpg",
+            "caption": "The Mouse Story - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SesshuShuutouTou.jpg/300px-SesshuShuutouTou.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/SesshuShuutouTou.jpg",
+            "caption": "Paysage d'automne et d'hiver, par Sesshû, Tôkyô National Museum",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/250201_Ryoan-ji_Kyoto_Japan06s3.jpg/300px-250201_Ryoan-ji_Kyoto_Japan06s3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/250201_Ryoan-ji_Kyoto_Japan06s3.jpg",
+            "caption": "Ryōan-ji in Kyoto Kyoto prefecture, Japan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG/300px-Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG",
+            "caption": "Kinkaku-ji / Golden Temple in Kyoto",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ashikaga Takauji",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1338 to 1358",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ashikaga_Takauji_J%C5%8Ddo-ji.jpg/250px-Ashikaga_Takauji_J%C5%8Ddo-ji.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashikaga_Takauji"
+        },
+        {
+            "name": "Ashikaga Yoshiaki",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1568 to 1573",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ashikaga_Yoshiaki2.jpg/250px-Ashikaga_Yoshiaki2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashikaga_Yoshiaki"
+        },
+        {
+            "name": "Oda Nobunaga",
+            "summary": "Japanese samurai and warlord (1534–1582)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Odanobunaga.jpg/250px-Odanobunaga.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oda_Nobunaga"
+        },
+        {
+            "name": "Emperor Go-Daigo",
+            "summary": "Emperor of Japan from 1318 to 1339",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Go-Daigo.jpg/250px-Go-Daigo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Daigo"
+        },
+        {
+            "name": "Samurai",
+            "summary": "Japanese warrior class",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/250px-Samurai_on_horseback0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai"
+        },
+        {
+            "name": "Ashikaga Yoshimitsu",
+            "summary": "Military ruler of Japan from 1368 to 1394",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Yoshimitsu_Ashikaga_cropped.jpg/250px-Yoshimitsu_Ashikaga_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashikaga_Yoshimitsu"
+        }
+    ],
+    "territory_geojson": null
+}

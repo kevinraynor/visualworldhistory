@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2966,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:998197b7e9429fe6ae317a0182ff4e4d3b2c77ec9d72888a9e3ea5656256333c",
+    "summary": "The Second Crusade (1147–1150 AD) was the first crusade led by European kings — Louis VII of France and Conrad III of Germany — launched in response to the Muslim reconquest of Edessa (the first Crusader state to fall) in 1144, and proved a comprehensive failure that damaged Crusader-Byzantine relations, weakened the Crusader states' diplomatic position, and demonstrated that large, poorly coordinated armies of European nobility were not the most effective instrument for sustaining Crusader power in the Levant. The crusade was preached by Bernard of Clairvaux — one of the most influential religious figures of the 12th century — with such fervor that he reportedly ran out of cloth to make crosses for those who signed up.\n\nThe German army was severely damaged crossing Anatolia, and the combined forces' decision to attack Damascus — a Muslim city that had been friendly to the Crusader states and served as a buffer against the more dangerous powers of Aleppo and Mosul — was a strategic blunder of the first order, alienating a potential ally and achieving nothing. The siege of Damascus failed within four days; both kings returned to Europe in humiliation. The Second Crusade's Iberian sideshow was more successful: Portuguese forces captured Lisbon from the Moors with Crusader assistance (1147), permanently securing it for the emerging Kingdom of Portugal. The failure at Damascus contributed to the psychological and diplomatic isolation of the Crusader states, setting the stage for the rise of [[event:2273|Saladin]] and the eventual loss of Jerusalem.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Crusade",
+    "read_more_links": [
+        {
+            "title": "Bernard Clairvaux Second Crusade preaching",
+            "url": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux#Second_Crusade"
+        },
+        {
+            "title": "Siege Damascus 1148 failure Crusader",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Damascus_(1148)"
+        },
+        {
+            "title": "Capture Lisbon 1147 Portugal Crusade",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Lisbon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BattleOfInab.jpg/300px-BattleOfInab.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+            "caption": "The Battle of Inab (also named Ard al-Hatim). Below: The recovery of Raymond ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stained_glass_St_Bernard_MNMA_Cl3273.jpg/300px-Stained_glass_St_Bernard_MNMA_Cl3273.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Stained_glass_St_Bernard_MNMA_Cl3273.jpg",
+            "caption": "Stained glass representing St. Bernard of Clairvaux. Upper Rhine, ca. 1450.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Badr_al-Din_Lulu_frontispiece_%28guards%29.jpg/300px-Badr_al-Din_Lulu_frontispiece_%28guards%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Badr_al-Din_Lulu_frontispiece_%28guards%29.jpg",
+            "caption": "Badr al-Din Lulu frontispiece (guards)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RaymondOfPoitiersWelcomingLouisVIIinAntioch.JPG/300px-RaymondOfPoitiersWelcomingLouisVIIinAntioch.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/RaymondOfPoitiersWelcomingLouisVIIinAntioch.JPG",
+            "caption": "Raymond Of Poitiers Welcoming Louis VII in Antioch",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jean Colombe",
+            "summary": "French painter and illuminator (c. 1430 – c. 1493)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Passages_d%27outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg/250px-Passages_d%27outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Colombe"
+        },
+        {
+            "name": "County of Barcelona",
+            "summary": "Medieval Catalan county",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Expansi%C3%B3n_peninsular_de_la_Corona_de_Arag%C3%B3n.svg/250px-Expansi%C3%B3n_peninsular_de_la_Corona_de_Arag%C3%B3n.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/County_of_Barcelona"
+        },
+        {
+            "name": "Fatimid Caliphate",
+            "summary": "Fourth Islamic caliphate (909–1171)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fatimid_Caliphate.PNG/250px-Fatimid_Caliphate.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_Caliphate"
+        },
+        {
+            "name": "Baldwin III of Jerusalem",
+            "summary": "King of Jerusalem from 1143 to 1163",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Baudouin_III_apprenant_la_nouvelle_%28cropped%29.jpg/250px-Baudouin_III_apprenant_la_nouvelle_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem"
+        },
+        {
+            "name": "Melisende, Queen of Jerusalem",
+            "summary": "Crusader ruler from 1131 to 1152",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Coronation_of_Melisende.jpg/250px-Coronation_of_Melisende.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Melisende%2C_Queen_of_Jerusalem"
+        },
+        {
+            "name": "Raymond of Poitiers",
+            "summary": "Prince of Antioch from 1136 to 1149",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/RaymondOfPoitiersWelcomingLouisVIIinAntioch.JPG/250px-RaymondOfPoitiersWelcomingLouisVIIinAntioch.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raymond_of_Poitiers"
+        }
+    ],
+    "territory_geojson": null
+}

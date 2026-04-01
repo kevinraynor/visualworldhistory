@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3370,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:7384c89767b21fdd9a4267f83c065052be58c5777ddba22f77253276e5fdc7e7",
+    "summary": "The Lebanese Civil War was a multifaceted conflict that devastated Lebanon from 1975 to 1990, killing an estimated 120,000 to 150,000 people and displacing millions. Lebanon's fragile political system, based on a confessional power-sharing arrangement between Christian, Sunni, Shia, and Druze communities, collapsed under the strains of Palestinian armed factions operating from Lebanese territory, regional interference, and longstanding socioeconomic inequalities. Fighting erupted in April 1975 between the Christian Phalangist militia and Palestinian fighters.\n\nThe conflict quickly splintered into dozens of factions and phases. Syria intervened in 1976, initially against Palestinian and leftist forces. Israel invaded in 1978 and again in 1982, the latter occupation resulting in the expulsion of the PLO leadership from Beirut and the massacre of Palestinian civilians in the Sabra and Shatila refugee camps by Phalangist militias operating under Israeli supervision. The United States and France deployed peacekeeping forces, but the 1983 Beirut barracks bombings — coordinated suicide attacks by Hezbollah that killed 241 American and 58 French servicemen — forced Western withdrawal.\n\nThe Taif Agreement of 1989 ended the major fighting by redistributing political power along confessional lines and providing for Syrian tutelage over Lebanese politics. The war left Lebanon's infrastructure devastated, its political culture traumatized, and its national territory partly controlled by Syrian forces and Hezbollah. The war's legacies continued to shape Lebanese politics into the twenty-first century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lebanese_Civil_War",
+    "read_more_links": [
+        {
+            "title": "Lebanese Civil War - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Lebanese-Civil-War"
+        },
+        {
+            "title": "Sabra and Shatila massacre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre"
+        },
+        {
+            "title": "Taif Agreement - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ta%27if_Agreement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1856_Kiepert_Map_of_Lebanon_-_Geographicus_-_Lebanon-kiepert-1856.jpg/300px-1856_Kiepert_Map_of_Lebanon_-_Geographicus_-_Lebanon-kiepert-1856.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/1856_Kiepert_Map_of_Lebanon_-_Geographicus_-_Lebanon-kiepert-1856.jpg",
+            "caption": "An uncommon map of Lebanon by the classical scholar and cartographer H. Kiepe...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Foxhole_-_Lebanon_-_Beirut_-_July_1958.jpg/300px-Foxhole_-_Lebanon_-_Beirut_-_July_1958.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Foxhole_-_Lebanon_-_Beirut_-_July_1958.jpg",
+            "caption": "U.S. Marine sits in a foxhole and points a machine gun towards Beirut, Lebano...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Beirut-_building_from_before_civil_war.jpeg/300px-Beirut-_building_from_before_civil_war.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Beirut-_building_from_before_civil_war.jpeg",
+            "caption": "Traces from the Lebanese civil war. Beirut. Photo by Bertil Videt",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Beirutbarr.jpg/300px-Beirutbarr.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Beirutbarr.jpg",
+            "caption": "*Caption: The explosion of the Marine Corps building in Beirut, Lebanon on Oc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bachir Gemayel",
+            "summary": "Lebanese politician and militia commander (1947–1982)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bashir_Gemayel_%28cropped%29.png/250px-Bashir_Gemayel_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bachir_Gemayel"
+        },
+        {
+            "name": "Amine Gemayel",
+            "summary": "Eighth President of Lebanon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Amine_Gemayel_and_Catherine_Ashton_P020628000701_%28cropped%29.jpg/250px-Amine_Gemayel_and_Catherine_Ashton_P020628000701_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amine_Gemayel"
+        },
+        {
+            "name": "William Hawi",
+            "summary": "Lebanese politician (1908–1976)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/William_Amine_Hawi.jpg/250px-William_Amine_Hawi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Hawi"
+        },
+        {
+            "name": "Dany Chamoun",
+            "summary": "Lebanese politician (1934–1990)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dany_Chamoun_-_1988.jpg/250px-Dany_Chamoun_-_1988.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dany_Chamoun"
+        },
+        {
+            "name": "Elie Hobeika",
+            "summary": "Lebanese politician and militia commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Elie_Hobeika.jpg/250px-Elie_Hobeika.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elie_Hobeika"
+        },
+        {
+            "name": "Samir Geagea",
+            "summary": "Lebanese politician (born 1952)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Samir_Geagea_MaroPoli.jpg/250px-Samir_Geagea_MaroPoli.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samir_Geagea"
+        }
+    ],
+    "territory_geojson": null
+}

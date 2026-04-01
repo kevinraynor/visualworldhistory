@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2169,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:171d5c45898a19989af9aed412c2c9c23c028c141e8dddd4d48b1e6141b1cde5",
+    "summary": "Prambanan (completed c. 850 AD in central Java under the Mataram Sanjaya dynasty) is the largest Hindu temple compound in Indonesia and one of the most extraordinary religious complexes in the world — a cluster of 240 temples centered on three towering candi (shrines) dedicated to the Hindu Trimurti: Brahma (creator), Vishnu (preserver), and Shiva (destroyer), with the Shiva temple rising 47 meters as the tallest and most elaborate. Built shortly after and possibly in deliberate competition with the Buddhist [[event:2168|Borobudur]], Prambanan demonstrates the coexistence of Hindu and Buddhist traditions in medieval Java.\n\nPrambanan's outer galleries are covered with relief carvings depicting the Hindu epic Ramayana — the most extensive narrative cycle of Ramayana carvings in Southeast Asia, showing scenes from Rama's exile, Sita's abduction by the demon Ravana, Hanuman's monkey army, and the final battle in exquisite carved stone. The temple complex was extensively damaged by an earthquake (probably in the 10th century AD) and abandoned when the Javanese court moved east; it was further damaged by a 2006 earthquake. UNESCO restoration has stabilized the three main temples, and Prambanan is now a UNESCO World Heritage Site alongside Borobudur. The Prambanan ballet, performed by Javanese dancers against the lit temples at sunset, represents a living continuation of the artistic tradition the medieval builders embodied in stone.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prambanan",
+    "read_more_links": [
+        {
+            "title": "Prambanan Trimurti temples",
+            "url": "https://en.wikipedia.org/wiki/Prambanan#Architecture"
+        },
+        {
+            "title": "Ramayana reliefs carvings",
+            "url": "https://en.wikipedia.org/wiki/Prambanan#Reliefs"
+        },
+        {
+            "title": "Hindu Buddhist Java coexistence",
+            "url": "https://en.wikipedia.org/wiki/Religion_in_Java#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ru%C3%AFnen_van_Tjandi_Lora_Djongrang%2C_Residentie_Jogjakerta%2C_KITLV_47B17.tiff/300px-Ru%C3%AFnen_van_Tjandi_Lora_Djongrang%2C_Residentie_Jogjakerta%2C_KITLV_47B17.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ru%C3%AFnen_van_Tjandi_Lora_Djongrang%2C_Residentie_Jogjakerta%2C_KITLV_47B17.tiff",
+            "caption": "Title: \\\"Ruïnen van Tjandi Lora Djongrang, Residentie Jogjakerta\\\"Author/crea...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Candi_Sewu_main_stupa%2C_23_November_2013.jpg/300px-Candi_Sewu_main_stupa%2C_23_November_2013.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Candi_Sewu_main_stupa%2C_23_November_2013.jpg",
+            "caption": "Main stupa of Candi Sewu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brahma_temple_Prambanan_2017-08-02_%283%29.jpg/300px-Brahma_temple_Prambanan_2017-08-02_%283%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Brahma_temple_Prambanan_2017-08-02_%283%29.jpg",
+            "caption": "Brahma temple Prambanan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Brahma_temple_Prambanan_2017-08-02_%285%29.jpg/300px-Brahma_temple_Prambanan_2017-08-02_%285%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Brahma_temple_Prambanan_2017-08-02_%285%29.jpg",
+            "caption": "Brahma temple Prambanan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Frederick Coyett",
+            "summary": "Swedish noble, last colonial governor of Formosa",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Frederick_Coyett.jpg/250px-Frederick_Coyett.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_Coyett"
+        },
+        {
+            "name": "Mataram Sultanate",
+            "summary": "Javanese sultanate (1586–1755)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_Mataram_Sultanate.svg/250px-Flag_of_the_Mataram_Sultanate.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mataram_Sultanate"
+        },
+        {
+            "name": "Sukarno",
+            "summary": "President of Indonesia from 1945 to 1967",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Presiden_Sukarno_%28retouched%29.jpg/250px-Presiden_Sukarno_%28retouched%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sukarno"
+        },
+        {
+            "name": "Suharto",
+            "summary": "President of Indonesia from 1967 to 1998",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/President_Suharto%2C_1993.jpg/250px-President_Suharto%2C_1993.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suharto"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1751,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7e262dc08ec9bf33e74905fefd0b780ab10a9d007c3f3750b72d188a645bf6c8",
+    "summary": "The Cycladic figurines, produced in the Cycladic islands of the Aegean Sea approximately 2800–2300 BC, are among the most striking and enigmatic artworks of the prehistoric world. Carved from the brilliant white marble abundant on islands such as Paros and Naxos, these figures typically represent standing or reclining female forms rendered in a highly schematic, abstract manner — flat bodies, folded arms, and blank oval faces with only a vestigial nose. Their stark, simplified geometry has made them among the most recognisable and widely reproduced of all ancient artefacts.\n\nCycladic figurines range in size from a few centimetres to nearly life-size, and they were produced in large numbers throughout the Early Cycladic period. Most have been recovered from graves, though some appear in settlement contexts. Their function is debated: they may have been cult objects, images of a goddess, spirit companions for the dead, votive offerings, or simply prestige goods. The traces of paint surviving on some examples suggest they were originally decorated with geometric patterns and facial features, making the blank marble surface of the examples most familiar from museum displays a result of preservation rather than original appearance.\n\nThe aesthetics of Cycladic figurines have exercised a powerful influence on modern Western art. Early twentieth-century sculptors including Brancusi, Picasso, Henry Moore, and Barbara Hepworth were deeply influenced by their formal qualities, seeing in them a precedent for their own explorations of abstract form. This modern resonance has contributed to a robust market for Cycladic artefacts, which unfortunately also drove extensive looting of Cycladic sites in the twentieth century, depriving scholars of crucial contextual information.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cycladic_art",
+    "read_more_links": [
+        {
+            "title": "Cycladic culture",
+            "url": "https://en.wikipedia.org/wiki/Cycladic_culture"
+        },
+        {
+            "title": "Marble figurines of the Cyclades",
+            "url": "https://en.wikipedia.org/wiki/Cycladic_figurine"
+        },
+        {
+            "title": "Early Cycladic period",
+            "url": "https://en.wikipedia.org/wiki/Cycladic_culture#Early_Cycladic"
+        },
+        {
+            "title": "Prehistoric Aegean",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Greece"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Male_harp_player_of_the_early_Spedos_type_-_Getty_Museum_%2885.AA.103%29.jpg/300px-Male_harp_player_of_the_early_Spedos_type_-_Getty_Museum_%2885.AA.103%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Male_harp_player_of_the_early_Spedos_type_-_Getty_Museum_%2885.AA.103%29.jpg",
+            "caption": "Cycladic figurine of a harp player in the Getty Villa ",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schematic_female_large_figurine_of_the_early_Spedos_variety%2C_London_BM_1971%2C0521.1.jpg/300px-Schematic_female_large_figurine_of_the_early_Spedos_variety%2C_London_BM_1971%2C0521.1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Schematic_female_large_figurine_of_the_early_Spedos_variety%2C_London_BM_1971%2C0521.1.jpg",
+            "caption": "object type: large figurine / idol / statuette\n- description: schematic femal...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Harp_player%2C_Cycladic_civilization_-_Greece.JPG/300px-Harp_player%2C_Cycladic_civilization_-_Greece.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Harp_player%2C_Cycladic_civilization_-_Greece.JPG",
+            "caption": "Harp player, Cycladic civilization - Greece",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cycladic_figurine_woman%2C_marble%2C_Chalandriani%2C_2400%E2%80%932200_BC%2C_BM%2C_A14%2C_142690.jpg/300px-Cycladic_figurine_woman%2C_marble%2C_Chalandriani%2C_2400%E2%80%932200_BC%2C_BM%2C_A14%2C_142690.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cycladic_figurine_woman%2C_marble%2C_Chalandriani%2C_2400%E2%80%932200_BC%2C_BM%2C_A14%2C_142690.jpg",
+            "caption": "Cycladic figurine of a woman, marble, Chalandriani type. Early Bronze Age, EC...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

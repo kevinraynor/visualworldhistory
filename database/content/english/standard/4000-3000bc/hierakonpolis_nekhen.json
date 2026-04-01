@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3697,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:878649d9d93f9105ab2ae398c56fb804425351d8937d18e0ae93849ab1139719",
+    "summary": "Hierakonpolis, known in ancient Egyptian as Nekhen, was one of the most important prehistoric and early historic sites in Upper Egypt, located on the west bank of the Nile in present-day Aswan Governorate. During the Naqada II and III periods (approximately 3600–3100 BCE), Hierakonpolis was among the largest and most densely settled communities in Egypt, covering several square kilometers and including residential areas, craft workshops specializing in pottery and flint working, a brewery complex, and a ritual precinct with an early temple.\n\nHierakonpolis played a central role in the political unification of Egypt. It was a royal center of the predynastic kings who preceded [[event:1637|Narmer]], and many artifacts crucial to understanding Egyptian state formation have been excavated there, including the [[event:1638|Narmer Palette]] — discovered at Hierakonpolis in 1898 — and a painted tomb (Tomb 100) containing the earliest known example of Egyptian narrative wall painting. The city served as the principal cult center of Horus, the falcon deity who became the divine patron of Egyptian kingship and was identified with the pharaoh throughout Egyptian history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hierakonpolis",
+    "read_more_links": [
+        {
+            "title": "Hierakonpolis - Britannica",
+            "url": "https://www.britannica.com/place/Hierakonpolis"
+        },
+        {
+            "title": "Hierakonpolis Project",
+            "url": "https://www.hierakonpolis-online.org/"
+        },
+        {
+            "title": "Predynastic Egypt - Metropolitan Museum",
+            "url": "https://www.metmuseum.org/toah/hd/prdg/hd_prdg.htm"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tomb_100_Hierakompolis%2C_Naqada_II_culture_%28c._3500-3200_BCE%29.jpg/300px-Tomb_100_Hierakompolis%2C_Naqada_II_culture_%28c._3500-3200_BCE%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tomb_100_Hierakompolis%2C_Naqada_II_culture_%28c._3500-3200_BCE%29.jpg",
+            "caption": "Tomb 100 Hierakompolis,  Naqada II culture (c. 3500-3200 BCE)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hierakonpolis_death_mask_%28elite_cemetery%29._Nagada_Ic_%E2%80%93_Nagada_IIa_%283750_BC%29._Upper_Egypt%2C_Hierakonpolis_%28HK6%2C_Tomb_16%29._Egyptian_Museum%2C_Cairo.jpg/300px-Hierakonpolis_death_mask_%28elite_cemetery%29._Nagada_Ic_%E2%80%93_Nagada_IIa_%283750_BC%29._Upper_Egypt%2C_Hierakonpolis_%28HK6%2C_Tomb_16%29._Egyptian_Museum%2C_Cairo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hierakonpolis_death_mask_%28elite_cemetery%29._Nagada_Ic_%E2%80%93_Nagada_IIa_%283750_BC%29._Upper_Egypt%2C_Hierakonpolis_%28HK6%2C_Tomb_16%29._Egyptian_Museum%2C_Cairo.jpg",
+            "caption": "Reference: \"Figure 2. The earliest known death masks from the elite cemetery ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Human_figurine_from_the_Hierakonpolis_Main_Deposit.jpg/300px-Human_figurine_from_the_Hierakonpolis_Main_Deposit.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Human_figurine_from_the_Hierakonpolis_Main_Deposit.jpg",
+            "caption": "A limestone head of a bearded man with close-cropped hair arranged in tight c...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/300px-Narmer_Palette.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Narmer_Palette.jpg",
+            "caption": "The Narmer Palette",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Aswan Governorate",
+            "summary": "Governorate of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Panoramic_view_of_Aswan_2%2C_Egypt.jpg/250px-Panoramic_view_of_Aswan_2%2C_Egypt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aswan_Governorate"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        }
+    ],
+    "territory_geojson": null
+}

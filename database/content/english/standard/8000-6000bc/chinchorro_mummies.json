@@ -1,0 +1,53 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1438,
+    "parent_id": 1343,
+    "granularity": "notable",
+    "content_hash": "sha256:2abb8cc34b6153d542cab52dec7f0c51a73135d5728df6648167f3aedfbe1f27",
+    "summary": "The Chinchorro culture of the Atacama coastal region — spanning what is now northern Chile and southern Peru — produced the world's oldest known intentionally mummified human remains, predating Egyptian mummification by more than two thousand years. The earliest Chinchorro mummies date to approximately 7000 to 6000 BCE, with the practice continuing and elaborating through subsequent millennia. These communities were maritime hunter-gatherers who subsisted primarily on the extraordinary marine resources of the Humboldt Current — fish, shellfish, sea mammals, and seabirds — rather than agriculture.\n\nThe Chinchorro mummification process was elaborate and clearly intentional, involving the removal of internal organs and soft tissues, drying of the body, and reconstruction with clay, sticks, and other materials before being covered with a clay mask and painted. This mortuary practice reflects a profound concern with the preservation of the dead and implies complex beliefs about the relationship between the living and deceased members of the community. The oldest mummies, from the Black Mummy phase, involved especially extensive body modification, while later phases (Red Mummies and Mud-Coated Mummies) employed different techniques.\n\nThe Chinchorro phenomenon is remarkable for several reasons beyond its antiquity. First, mummification was practiced across what appears to be the entire community — men, women, children, and even fetuses received this treatment — suggesting that the ritual concern with preserving the dead was not limited to social elites, as was the case in Egypt and other later mummification traditions. This apparent democratization of elaborate mortuary practices raises intriguing questions about Chinchorro social organization and belief systems.\n\nThe extreme aridity of the Atacama Desert played a role both in naturally preserving many of these mummies and in shaping the Chinchorro adaptation to coastal resources. Recent research has suggested that elevated arsenic concentrations in local water sources, affecting infants and fetuses particularly severely, may have created elevated infant mortality rates that in turn motivated the development of elaborate mortuary practices as a way of coping with widespread infant death.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chinchorro_mummies",
+    "read_more_links": [
+        {
+            "title": "Chinchorro Culture - Britannica",
+            "url": "https://www.britannica.com/topic/Chinchorro-mummies"
+        },
+        {
+            "title": "Atacama Desert Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Atacama_Desert"
+        },
+        {
+            "title": "History of Mummification - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mummy"
+        },
+        {
+            "title": "Andean Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andean_civilizations"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Momia_cultura_chinchorro_a%C3%B1o_3000_AC.jpg/300px-Momia_cultura_chinchorro_a%C3%B1o_3000_AC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Momia_cultura_chinchorro_a%C3%B1o_3000_AC.jpg",
+            "caption": "Head of a mummy from the Chinchorro culture, found in Northern Chile.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ChinchorroMummiesSanMiguelDeAzapa.jpg/300px-ChinchorroMummiesSanMiguelDeAzapa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/ChinchorroMummiesSanMiguelDeAzapa.jpg",
+            "caption": "Chinchorro mummies, ones of the oldest preserved in the world, at the museum ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Chinchorro_mummy_heads_Arica.jpg/300px-Chinchorro_mummy_heads_Arica.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chinchorro_mummy_heads_Arica.jpg",
+            "caption": "Original caption:\n\nEn Arica están las momias más antiguas del mundo, pertenec...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

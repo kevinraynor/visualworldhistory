@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 84,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:be6646bdef5e009ae1008fb0b54f5497f32ede736556baf10cc9dcddd124e593",
+    "summary": "The Byzantine Empire (conventionally 330–1453 AD, with roots in the [[event:2030|Founding of Constantinople]] and the [[event:2790|Division Roman Empire]]) was the eastern continuation of the Roman Empire that survived the fall of the Western half in 476 AD by over a thousand years, preserving Roman law, Greek learning, Christian Orthodox theology, and classical civilization through the European Dark Ages and transmitting them to the Renaissance. At its foundation by [[event:2027|Constantine the Great]], Constantinople on the Bosphorus was established as the new Roman capital — 'New Rome' — which proved far more defensible than Rome itself.\n\nThe Byzantine state combined the Roman administrative tradition, Greek language and culture, and Eastern Orthodox Christianity into a distinctive civilization. Justinian I (527–565 AD) briefly reconquered much of the Western Mediterranean and codified Roman law in the Corpus Juris Civilis — the foundation of legal systems across Europe. Byzantine art, with its gold mosaic theology in churches from Ravenna to Constantinople, developed a distinctive visual language that shaped Orthodox Christian art across Eastern Europe, Russia, and the Balkans. The empire weathered Arab conquests (7th–8th centuries), Crusader assaults (1204 sack of Constantinople), and Mongol pressure before finally succumbing to the Ottoman Turks in 1453.\n\nByzantium's legacy is incalculable: it preserved and transmitted classical Greek texts, maintaining continuity with ancient philosophy and science; its legal code shaped the civil law tradition of continental Europe; its Orthodox Christianity spread to Bulgaria, Serbia, Russia, and Romania; and the flight of Byzantine scholars to Italy after 1453 catalyzed the Renaissance. The Byzantine Empire was the longest-lived state in European history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+    "read_more_links": [
+        {
+            "title": "Justinian I Corpus Juris Civilis",
+            "url": "https://en.wikipedia.org/wiki/Justinian_I"
+        },
+        {
+            "title": "Byzantine art mosaics",
+            "url": "https://en.wikipedia.org/wiki/Byzantine_art"
+        },
+        {
+            "title": "Fall of Constantinople 1453",
+            "url": "https://en.wikipedia.org/wiki/Fall_of_Constantinople"
+        },
+        {
+            "title": "Byzantine influence on Russia",
+            "url": "https://en.wikipedia.org/wiki/Byzantine_Commonwealth"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ivoire_Barberini_-_Mus%C3%A9e_du_Louvre_Objets_d%27art_OA_9063_%3B_MND_211.jpg/300px-Ivoire_Barberini_-_Mus%C3%A9e_du_Louvre_Objets_d%27art_OA_9063_%3B_MND_211.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ivoire_Barberini_-_Mus%C3%A9e_du_Louvre_Objets_d%27art_OA_9063_%3B_MND_211.jpg",
+            "caption": "Ivoire Barberini - Musée du Louvre Objets d'art OA 9063 ; MND 211",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20131203_Istanbul_048.jpg/300px-20131203_Istanbul_048.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/20131203_Istanbul_048.jpg",
+            "caption": "2013-12-03 in Istanbul.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Souso%C5%A1%C3%AD_Cyrila_a_Metod%C4%9Bje_09.jpg/300px-Souso%C5%A1%C3%AD_Cyrila_a_Metod%C4%9Bje_09.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Souso%C5%A1%C3%AD_Cyrila_a_Metod%C4%9Bje_09.jpg",
+            "caption": "Autor fotografie Jiří Zelenka. \nSousoší Cyrila a Metoděje\nSousoší Cyrila a Me...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Spas_vsederzhitel_sinay.jpg/300px-Spas_vsederzhitel_sinay.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Spas_vsederzhitel_sinay.jpg",
+            "caption": "The Christ Pantocrator of St. Catherine's Monastery at Sinai, a 6th-century e...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Justinian I",
+            "summary": "Roman emperor from 527 to 565",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/250px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justinian_I"
+        },
+        {
+            "name": "Constantine the Great",
+            "summary": "Roman emperor from 306 to 337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/250px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        },
+        {
+            "name": "Theodosius I",
+            "summary": "Roman emperor from 379 to 395",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bust_of_Theodosius_I.jpg/250px-Bust_of_Theodosius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_I"
+        },
+        {
+            "name": "Theodosius II",
+            "summary": "Eastern Roman emperor from 402 to 450",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Theodosius_II_Louvre_Ma1036.jpg/250px-Theodosius_II_Louvre_Ma1036.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_II"
+        },
+        {
+            "name": "Heraclius",
+            "summary": "Byzantine emperor from 610 to 641",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Heraclius_solidus.jpg/250px-Heraclius_solidus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heraclius"
+        },
+        {
+            "name": "Leo III the Isaurian",
+            "summary": "Byzantine emperor from 717 to 741",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solidus_of_Leo_III_sb1504.png/250px-Solidus_of_Leo_III_sb1504.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_III_the_Isaurian"
+        }
+    ],
+    "territory_geojson": null
+}

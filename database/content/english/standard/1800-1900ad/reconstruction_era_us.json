@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2580,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:19c566b40e96727a47231a2339a9d3036967b95b01366ed6c848a3a331fabb0d",
+    "summary": "The Reconstruction era (1865–1877) was the period following the [[event:2536|American Civil War]] during which the federal government attempted to rebuild the Southern states, integrate four million formerly enslaved people as citizens, and establish a new political and social order in the defeated Confederacy. It was one of the most transformative and tragically incomplete experiments in American democracy.\n\nReconstruction proceeded through three overlapping phases. Presidential Reconstruction under Andrew Johnson (1865–67) sought rapid reunion on lenient terms that largely restored the former Confederate ruling class to power. Congress, alarmed by the passage of 'Black Codes' in the Southern states that reimposed near-slavery on African Americans, took control in 1867 with Radical Reconstruction, dividing the South into military districts and requiring new state constitutions guaranteeing Black male suffrage as a condition of readmission to the Union.\n\nDuring the brief period of Radical Reconstruction, African Americans voted in large numbers for the first time, electing Black sheriffs, mayors, state legislators, and congressmen. Biracial Republican governments in the South invested in public education, infrastructure, and social services. The Fourteenth Amendment (1868) established birthright citizenship and equal protection of the laws; the Fifteenth Amendment (1870) prohibited denial of voting rights on the basis of race.\n\nWhite supremacist violence — from the Ku Klux Klan, the White League, and other paramilitary organizations — systematically terrorized Black voters and Republican officeholders throughout the South. The federal government's willingness and capacity to counter this violence waned progressively. The Compromise of 1877, which resolved the disputed presidential election by awarding the presidency to Republican Rutherford Hayes in exchange for the withdrawal of federal troops from the South, effectively ended Reconstruction. Within years, the Southern states had disenfranchised their Black populations through poll taxes, literacy tests, and violence, and enacted the Jim Crow segregation laws that would not be dismantled until the Civil Rights Movement of the 1950s and 1960s — nearly a century after Reconstruction's promise had been abandoned.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reconstruction_era",
+    "read_more_links": [
+        {
+            "title": "Reconstruction – Britannica",
+            "url": "https://www.britannica.com/event/Reconstruction-United-States-history"
+        },
+        {
+            "title": "Fourteenth Amendment – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution"
+        },
+        {
+            "title": "Ku Klux Klan (Reconstruction era) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ku_Klux_Klan#Reconstruction_era"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Radical_members_of_the_first_legislature_after_the_war%2C_South_Carolina_LCCN97504690.jpg/300px-Radical_members_of_the_first_legislature_after_the_war%2C_South_Carolina_LCCN97504690.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Radical_members_of_the_first_legislature_after_the_war%2C_South_Carolina_LCCN97504690.jpg",
+            "caption": "Title: Radical members of the first legislature after the war, South Carolina...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Thomas_Nast_1874.jpg/300px-Thomas_Nast_1874.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Thomas_Nast_1874.jpg",
+            "caption": "Thomas Nast 1874",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Union_as_it_was_The_lost_cause%2C_worse_than_slavery_-_-_Th._Nast._LCCN2001696840.jpg/300px-The_Union_as_it_was_The_lost_cause%2C_worse_than_slavery_-_-_Th._Nast._LCCN2001696840.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Union_as_it_was_The_lost_cause%2C_worse_than_slavery_-_-_Th._Nast._LCCN2001696840.jpg",
+            "caption": "Title: The Union as it was The lost cause, worse than slavery / / Th. Nast.\nA...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atlanta_roundhouse_ruin3.jpg/300px-Atlanta_roundhouse_ruin3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Atlanta_roundhouse_ruin3.jpg",
+            "caption": "Atlanta, Georgia shortly after the end of the American Civil War showing the ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Impeachment of Andrew Johnson",
+            "summary": "1868 US charging of president",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/AJohnsonimpeach.jpg/250px-AJohnsonimpeach.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Impeachment_of_Andrew_Johnson"
+        },
+        {
+            "name": "Abraham Lincoln",
+            "summary": "President of the United States from 1861 to 1865",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/250px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+        },
+        {
+            "name": "Andrew Johnson",
+            "summary": "President of the United States from 1865 to 1869",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/250px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Johnson"
+        },
+        {
+            "name": "Rutherford B. Hayes",
+            "summary": "President of the United States from 1877 to 1881",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/250px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes"
+        },
+        {
+            "name": "Emancipation Proclamation",
+            "summary": "Executive order by U.S. President Abraham Lincoln freeing slaves in the South",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg/250px-Hand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+        },
+        {
+            "name": "Eric Foner",
+            "summary": "American historian (born 1943)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Eric_Foner%2C_New_York_City%2C_New_York%2C_September_15%2C_2009_%28cropped%29.jpg/250px-Eric_Foner%2C_New_York_City%2C_New_York%2C_September_15%2C_2009_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Foner"
+        }
+    ],
+    "territory_geojson": null
+}

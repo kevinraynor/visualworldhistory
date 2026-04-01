@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2015,
+    "parent_id": 2014,
+    "granularity": "notable",
+    "content_hash": "sha256:e13d0be6c5e65fc4c76476e25ee6b4f940cc3bd1ab79c360d0167c7a082ed017",
+    "summary": "Paul of Tarsus (c. 5–67 AD) was the most influential missionary and theologian of early Christianity — a Pharisaic Jew from the diaspora who experienced a dramatic conversion on the road to Damascus and became the apostle who spread Christianity across the Gentile Roman world. His three missionary journeys (c. 46–58 AD) established Christian communities throughout Anatolia, Macedonia, Greece, and eventually Rome, and his 13 letters (of which 7 are universally accepted as authentic) form the earliest and theologically richest stratum of the New Testament.\n\nPaul's theological innovations transformed Christianity: his argument that Gentiles need not observe Jewish law to be saved (justified by faith rather than works of the Law) freed the movement from its Jewish ethnic boundaries and enabled universal adoption. His letters articulate a sophisticated theology of sin, grace, faith, the body of Christ (the church), and eschatological expectation that has shaped Christian thought from Augustine to Luther to the present. Paul's insistence on the centrality of the Resurrection as historical event ('if Christ has not been raised, your faith is futile' — 1 Corinthians 15:17) set the terms of Christian apologetics. He was executed in Rome under Nero around 67 AD, according to tradition by beheading (as a Roman citizen, he was spared crucifixion).",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_the_Apostle",
+    "read_more_links": [
+        {
+            "title": "Paul's letters theology",
+            "url": "https://en.wikipedia.org/wiki/Pauline_epistles"
+        },
+        {
+            "title": "Paul missionary journeys routes",
+            "url": "https://en.wikipedia.org/wiki/Paul%27s_missionary_journeys"
+        },
+        {
+            "title": "Justification by faith doctrine",
+            "url": "https://en.wikipedia.org/wiki/Justification_(theology)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg/300px-Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg",
+            "caption": "Conversion of Paul the Apostle ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/300px-St-thomas-aquinasFXD.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/St-thomas-aquinasFXD.jpg",
+            "caption": "During the 13th century, Saint Thomas Aquinas sought to reconcile Aristotelia...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Saint_Paul%2C_Rembrandt_van_Rijn_%28and_Workshop%3F%29%2C_c._1657.jpg/300px-Saint_Paul%2C_Rembrandt_van_Rijn_%28and_Workshop%3F%29%2C_c._1657.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Saint_Paul%2C_Rembrandt_van_Rijn_%28and_Workshop%3F%29%2C_c._1657.jpg",
+            "caption": "Rembrandt van Rijn (and Workshop?) (Dutch, 1606 - 1669 ), The Apostle Paul, c...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St._Paul%E2%80%99s_Grotto.jpg/300px-St._Paul%E2%80%99s_Grotto.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/St._Paul%E2%80%99s_Grotto.jpg",
+            "caption": "Grota św. Pawła w Rabat na Malcie",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Basilica",
+            "summary": "Type of building in classical and church architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BasilicaSemproniaReconstruction.jpg/250px-BasilicaSemproniaReconstruction.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Basilica"
+        },
+        {
+            "name": "Gamaliel",
+            "summary": "First century leading authority on Jewish law in the Sanhedrin",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rabban_Gamliel.jpg/250px-Rabban_Gamliel.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gamaliel"
+        },
+        {
+            "name": "Jesus",
+            "summary": "Jewish preacher and religious leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg/250px-Spas_vsederzhitel_sinay_%28cropped1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus"
+        },
+        {
+            "name": "John the Apostle",
+            "summary": "Apostle of Jesus, saint (c. 6 – c. 100)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rubens_apostel_johannes_grt.jpg/250px-Rubens_apostel_johannes_grt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_the_Apostle"
+        },
+        {
+            "name": "James, brother of Jesus",
+            "summary": "First leader of the Church of Jerusalem",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/James%2C_brother_of_Jesus_Emmanuel_Tzanes.png/250px-James%2C_brother_of_Jesus_Emmanuel_Tzanes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James%2C_brother_of_Jesus"
+        },
+        {
+            "name": "Authorship of the Epistle to the Hebrews",
+            "summary": "Question in biblical authorship",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Author_Hebrews.jpg/250px-Author_Hebrews.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Authorship_of_the_Epistle_to_the_Hebrews"
+        }
+    ],
+    "territory_geojson": null
+}

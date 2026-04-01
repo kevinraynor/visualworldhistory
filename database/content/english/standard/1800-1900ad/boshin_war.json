@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2590,
+    "parent_id": 2544,
+    "granularity": "detailed",
+    "content_hash": "sha256:a62f6e563e87a1da8b38c16581bfcd6e219dd9250f78d7fc2505e0c8b6a7fbcc",
+    "summary": "The Boshin War ('War of the Year of the Dragon,' 1868–69) was the civil conflict in Japan between forces loyal to the Tokugawa Shogunate and those fighting to restore imperial rule. The war resulted in the defeat of the shogunate and the formal transfer of power to the Emperor Meiji, inaugurating the [[event:2544|Meiji Restoration]] and Japan's transformation into a modern state.\n\nThe conflict began in January 1868 with the Battle of Toba-Fushimi near Kyoto, where imperial forces from the Satsuma and Choshu domains defeated a larger Tokugawa army despite being outnumbered. The surprise imperial victory demonstrated the military effectiveness of the modernized forces trained and equipped by the reformist domains using Western weapons and tactics. Shogun Tokugawa Yoshinobu withdrew to Edo (Tokyo) and then surrendered the city without a major fight in April 1868 — a decision that spared the capital enormous destruction.\n\nFighting continued in northern Japan, where domains loyal to the shogunate organized resistance in the Tohoku region. The final holdout was the Ezo Republic on the northern island of Hokkaido, a short-lived breakaway government of shogunate loyalists and French advisers who made a last stand at Hakodate. The defeat of this force in May 1869 completed the imperial victory. The war cost relatively few lives — estimates range from 3,500 to 8,000 killed — compared to the civil wars occurring simultaneously in the United States and elsewhere. The peaceful surrender of Edo in particular was seen as allowing the subsequent rapid modernization to proceed without the deep wounds of prolonged civil conflict.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boshin_War",
+    "read_more_links": [
+        {
+            "title": "Battle of Toba-Fushimi – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Toba%E2%80%93Fushimi"
+        },
+        {
+            "title": "Meiji Restoration – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+        },
+        {
+            "title": "Japanese History – Britannica",
+            "url": "https://www.britannica.com/place/Japan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Stonewall-Kotetsu.jpg/300px-Stonewall-Kotetsu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Stonewall-Kotetsu.jpg",
+            "caption": "Stonewall-Kotetsu",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BakufuTroopsIn1867.JPG/300px-BakufuTroopsIn1867.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/BakufuTroopsIn1867.JPG",
+            "caption": "Bakufu troops near Mount Fuji in 1867",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Modern_Costumes_of_Japanese_Officers_Shogunate_Army_1866.png/300px-Modern_Costumes_of_Japanese_Officers_Shogunate_Army_1866.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Modern_Costumes_of_Japanese_Officers_Shogunate_Army_1866.png",
+            "caption": "Sketches of Japan: Modern Costumes of Japanese Officers (Tokugawa shogunate a...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/MeijiJoukyou.jpg/300px-MeijiJoukyou.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/MeijiJoukyou.jpg",
+            "caption": "The palanquin and procession of Emperor Meiji moving from Kyoto to Tokyo thro...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Meiji",
+            "summary": "Emperor of Japan from 1867 to 1912",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meiji_Emperor_%28cropped%29%28b%29.jpg/250px-Meiji_Emperor_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Meiji"
+        },
+        {
+            "name": "Prince Arisugawa Taruhito",
+            "summary": "Japanese prince and general (1835–1895)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%E6%9C%89%E6%A0%96%E5%B7%9D%E5%AE%AE%E7%86%BE%E4%BB%81%E8%A6%AA%E7%8E%8B%E8%82%96%E5%83%8F%E5%86%99%E7%9C%9F.jpg/250px-%E6%9C%89%E6%A0%96%E5%B7%9D%E5%AE%AE%E7%86%BE%E4%BB%81%E8%A6%AA%E7%8E%8B%E8%82%96%E5%83%8F%E5%86%99%E7%9C%9F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Arisugawa_Taruhito"
+        },
+        {
+            "name": "Saigō Takamori",
+            "summary": "Japanese samurai and politician (1828–1877)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saigo_Takamori_%28b%29.jpg/250px-Saigo_Takamori_%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saig%C5%8D_Takamori"
+        },
+        {
+            "name": "Kuroda Kiyotaka",
+            "summary": "Prime Minister of Japan from 1888 to 1889",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kiyotaka_Kuroda_formal.jpg/250px-Kiyotaka_Kuroda_formal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kuroda_Kiyotaka"
+        },
+        {
+            "name": "Ōmura Masujirō",
+            "summary": "Japanese military leader (1824–1869)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Masujiro_Omura_cropped.jpg/250px-Masujiro_Omura_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%8Cmura_Masujir%C5%8D"
+        },
+        {
+            "name": "Yamagata Aritomo",
+            "summary": "Japanese military leader and statesman (1838–1922)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Yamagata_Aritomo_%28cropped%29.jpg/250px-Yamagata_Aritomo_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yamagata_Aritomo"
+        }
+    ],
+    "territory_geojson": null
+}

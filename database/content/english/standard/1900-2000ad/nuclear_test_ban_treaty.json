@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3360,
+    "parent_id": 113,
+    "granularity": "detailed",
+    "content_hash": "sha256:c487bf2ebd8a57f98607f44c871f154a9abfcfec50b36f92033fc6a83436349b",
+    "summary": "The Partial Nuclear Test Ban Treaty, signed on August 5, 1963, by the United States, the Soviet Union, and the United Kingdom, prohibited nuclear weapons testing in the atmosphere, in outer space, and underwater, while permitting underground tests. The treaty came in the wake of the [[event:2675|Cuban Missile Crisis]] and reflected both superpowers' recognition that the crisis had brought them dangerously close to nuclear war and that ongoing atmospheric testing was producing dangerous radioactive fallout.\n\nPublic concern about nuclear fallout had grown significantly through the late 1950s and early 1960s, with scientists documenting the presence of radioactive strontium-90 in children's teeth and mothers' milk. The atmospheric tests conducted by both superpowers and also by France and Britain had deposited radioactive material globally. The treaty represented a direct response to this public health concern as well as a diplomatic gesture of reduced Cold War tension following the near-catastrophe of the previous year.\n\nFrance and China, which were developing their own nuclear programs, refused to sign. Underground testing continued extensively by all nuclear powers. The treaty was nonetheless significant as the first arms control agreement between the United States and Soviet Union, establishing a precedent for subsequent negotiations including the Nuclear Non-Proliferation Treaty of 1968 and the SALT agreements of the 1970s.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty",
+    "read_more_links": [
+        {
+            "title": "Nuclear Test Ban - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Nuclear-Test-Ban-Treaty"
+        },
+        {
+            "title": "Cold War Arms Race - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nuclear_arms_race"
+        },
+        {
+            "title": "Cuban Missile Crisis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Eisenhower_and_Strauss.jpg/300px-Eisenhower_and_Strauss.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Eisenhower_and_Strauss.jpg",
+            "caption": "President Eisenhower receives a report from Lewis L. Strauss, Chairman of the...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bravo_fallout2.png/300px-Bravo_fallout2.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bravo_fallout2.png",
+            "caption": "Path of nuclear fallout plume after U.S. nuclear weapons test Bravo (yield 15...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Castle Bravo",
+            "summary": "1954 U.S. thermonuclear weapon test in the Marshall Islands",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CastleBravo1.gif/250px-CastleBravo1.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Castle_Bravo"
+        },
+        {
+            "name": "Bikini Atoll",
+            "summary": "Coral atoll in the Marshall Islands",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bikini_Atoll_2001-01-14%2C_Landsat_7_ETM%2B%2C_bands_3-2-1-8.png/250px-Bikini_Atoll_2001-01-14%2C_Landsat_7_ETM%2B%2C_bands_3-2-1-8.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bikini_Atoll"
+        },
+        {
+            "name": "Rongelap Atoll",
+            "summary": "Coral atoll in the Marshall Islands",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rongelap_Atoll_-_2014-12-06_-_Landsat_8_-_15m.png/250px-Rongelap_Atoll_-_2014-12-06_-_Landsat_8_-_15m.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rongelap_Atoll"
+        },
+        {
+            "name": "Utirik Atoll",
+            "summary": "Atoll in the Marshall Islands",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Utirik_Atoll_-_2014-02-09_-_Landsat_8_-_15m.png/250px-Utirik_Atoll_-_2014-02-09_-_Landsat_8_-_15m.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Utirik_Atoll"
+        },
+        {
+            "name": "Harry S. Truman",
+            "summary": "President of the United States from 1945 to 1953",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/250px-TRUMAN_58-766-06_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+        },
+        {
+            "name": "J. Robert Oppenheimer",
+            "summary": "American theoretical physicist (1904–1967)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/250px-Oppenheimer_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
+        }
+    ],
+    "territory_geojson": null
+}

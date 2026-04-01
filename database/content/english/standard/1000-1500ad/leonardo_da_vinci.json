@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2298,
+    "parent_id": 2238,
+    "granularity": "notable",
+    "content_hash": "sha256:a4c6f52a659225da843ca7a83ea7da999bccf1ac728b9bea53241ff33e257d41",
+    "summary": "Leonardo da Vinci (1452–1519 AD) was the supreme polymath of the [[event:2238|Italian Renaissance]] and perhaps the most versatile genius in recorded history — a painter, sculptor, architect, engineer, scientist, mathematician, musician, botanist, geologist, cartographer, and anatomist whose notebooks contain designs for flying machines, solar power, hydraulic machines, armored vehicles, and concentrated solar power centuries before their realization. Born the illegitimate son of a Florentine notary, Leonardo was apprenticed to the sculptor and painter Andrea del Verrocchio in Florence, where he quickly surpassed his master.\n\nLeonardo's surviving paintings are few — perhaps fifteen to twenty attributable works — but include two of the most famous paintings in human history: the Mona Lisa (c. 1503–1519) and The Last Supper (c. 1495–1498). The Mona Lisa's sfumato technique (the imperceptible blending of tones to create atmospheric haze and ambiguity of expression), revolutionary in its time, has made it the most reproduced and visited artwork in the world. The Last Supper's composition — showing the moment of Christ's announcement of betrayal, with each apostle's reaction psychologically individualized — transformed the iconography of this traditional subject. Leonardo's anatomical drawings, based on dissections of over thirty human corpses, are the most accurate representations of the human body produced before photography. His scientific notebooks — recording observations of bird flight, water currents, geological formations, and optics with extraordinary precision — demonstrate a mind that approached nature with an empirical rigor five decades before Galileo. He is the defining exemplar of the 'Renaissance Man' ideal of universal human capability.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "read_more_links": [
+        {
+            "title": "Mona Lisa Leonardo history mystery",
+            "url": "https://en.wikipedia.org/wiki/Mona_Lisa"
+        },
+        {
+            "title": "Leonardo anatomical drawings science",
+            "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci#Scientific_studies"
+        },
+        {
+            "title": "Leonardo notebooks engineering designs",
+            "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci%27s_journals_and_notes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/300px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+            "caption": "Leonardo da Vinci - Saint John the Baptist C2RMF retouched",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg/300px-Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
+            "caption": "Leonardo da Vinci - Ginevra de' Benci - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/300px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+            "caption": "Mona Lisa, by Leonardo da Vinci, from C2RMF retouched",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Leonardo_da_Vinci_-_Plan_of_Imola_-_Google_Art_Project.jpg/300px-Leonardo_da_Vinci_-_Plan_of_Imola_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Leonardo_da_Vinci_-_Plan_of_Imola_-_Google_Art_Project.jpg",
+            "caption": "Leonardo da Vinci - Plan of Imola - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Francesco Melzi",
+            "summary": "Italian painter (1491–1570)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Melzi_Boltraffio_%28cropped%29.jpg/250px-Melzi_Boltraffio_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Melzi"
+        },
+        {
+            "name": "Andrea del Verrocchio",
+            "summary": "15th century Italian sculptor, goldsmith and painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Andrea_del_Castagno%2C_portrait_de_Verrocchio%2C_vers_1470.jpg/250px-Andrea_del_Castagno%2C_portrait_de_Verrocchio%2C_vers_1470.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrea_del_Verrocchio"
+        },
+        {
+            "name": "Michelangelo",
+            "summary": "Italian artist and architect (1475–1564)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/250px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michelangelo"
+        },
+        {
+            "name": "Ludovico Sforza",
+            "summary": "Duke of Milan (1452–1508)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pala_Sforzesca_-_detail_01.jpg/250px-Pala_Sforzesca_-_detail_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ludovico_Sforza"
+        },
+        {
+            "name": "Leonardeschi",
+            "summary": "Group of artists who worked under the influence of Leonardo da Vinci",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Madonna_by_Brescianino_after_Leonardo_da_Vinci.JPG/250px-Madonna_by_Brescianino_after_Leonardo_da_Vinci.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardeschi"
+        },
+        {
+            "name": "Francis I of France",
+            "summary": "King of France from 1515 to 1547",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fran%C3%A7ois_Ier_Louvre.jpg/250px-Fran%C3%A7ois_Ier_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_I_of_France"
+        }
+    ],
+    "territory_geojson": null
+}

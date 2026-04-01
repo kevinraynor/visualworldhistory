@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1288,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fa2c8eb9405d1ff91945785d3218cc6a9303412aef4b9001843ac025f03f6047",
+    "summary": "Pedra Furada (\"pierced stone\") is a rock shelter site in the Piaui state of northeastern Brazil, located within the Serra da Capivara National Park — a UNESCO World Heritage Site — where extensive rock art covers the sandstone walls. The site has been the focus of intense scientific debate since the 1980s when Brazilian archaeologist Niede Guidon reported radiocarbon dates from purported hearths and stone artifacts extending as far back as 48,000–50,000 BCE, dates that would place humans in South America tens of thousands of years before any other accepted evidence of American occupation.\n\nThe extreme antiquity claimed for Pedra Furada has been disputed by many archaeologists, particularly North American scholars, who argue that the supposed hearths may represent natural fires from lightning strikes and that the alleged stone tools could be geofacts — stones flaked by natural rock fall — rather than humanly manufactured artifacts. The rock art of the Serra da Capivara region, however, is unambiguously human-made and includes some of the most spectacular prehistoric paintings in South America, with human figures, animals, and abstract designs dating to various periods.\n\nFor the period covered by this era (10,000–8,000 BCE), Pedra Furada's occupation layers are less controversial and document hunter-gatherer occupation of the interior of South America, part of the broader picture of early human dispersal across the continent in the terminal Pleistocene and early Holocene, as documented also at [[event:1285|Monte Verde]] and [[event:1287|Guitarrero Cave]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pedra_Furada",
+    "read_more_links": [
+        {
+            "title": "Serra da Capivara - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Serra_da_Capivara_National_Park"
+        },
+        {
+            "title": "Peopling of the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas"
+        },
+        {
+            "title": "Pre-Clovis Cultures - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Clovis_cultures"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/S%C3%ADtio_Arqueol%C3%B3gico_Boqueir%C3%A3o_da_Pedra_Furada.jpg/300px-S%C3%ADtio_Arqueol%C3%B3gico_Boqueir%C3%A3o_da_Pedra_Furada.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/S%C3%ADtio_Arqueol%C3%B3gico_Boqueir%C3%A3o_da_Pedra_Furada.jpg",
+            "caption": "This is a photo of a monument in Brazil identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Serra_da_Capivara_-_Painting_3.JPG/300px-Serra_da_Capivara_-_Painting_3.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Serra_da_Capivara_-_Painting_3.JPG",
+            "caption": "Painting",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/SERRA_DA_CAPIVARA01.jpg/300px-SERRA_DA_CAPIVARA01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/SERRA_DA_CAPIVARA01.jpg",
+            "caption": "BOQUEIRAO DA PEDRA FURADA ILUMINADO",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/20030924PPedraFurada9.jpg/300px-20030924PPedraFurada9.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/20030924PPedraFurada9.jpg",
+            "caption": "Pedra Furada, Parque Nacional Serra da Capivara, estado do Piauí, Brasil.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tom Dillehay",
+            "summary": "American anthropologist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tom_Dillehay_en_Puren.jpg/250px-Tom_Dillehay_en_Puren.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Dillehay"
+        },
+        {
+            "name": "Washington County, Pennsylvania",
+            "summary": "County in Pennsylvania, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Washington_County_Courthouse_%28Pennsylvania%29_south.jpg/250px-Washington_County_Courthouse_%28Pennsylvania%29_south.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Washington_County%2C_Pennsylvania"
+        }
+    ],
+    "territory_geojson": null
+}

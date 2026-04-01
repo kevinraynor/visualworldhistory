@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2809,
+    "parent_id": 1160,
+    "granularity": "detailed",
+    "content_hash": "sha256:c979252e67a3bf3ff2e8d83ba23fdc469de033ef4c8bfda44e5bf7b64395e161",
+    "summary": "The official adoption of Christianity by the Aksumite Kingdom under King Ezana (c. 330s AD) was one of the defining moments in African history — making Aksum one of the world's first Christian states, roughly contemporaneous with Constantine's Edict of Milan in the Roman Empire. The process is documented through Ezana's own inscriptions, which show a transition: earlier inscriptions invoke polytheistic deities; later ones invoke 'the Lord of Heaven' and carry the cross symbol. The monk Frumentius — brought to the Aksumite court as a young shipwrecked captive — served as royal secretary and eventually treasurer, used his position to establish Christian prayer meetings, returned to Alexandria to be consecrated as the first Bishop of Aksum by Athanasius, and returned to Ethiopia as 'Abba Selama' (Father of Peace).\n\nThis event relates closely to [[event:2064|Ethiopian Christianity]] but focuses specifically on the Aksumite state's official conversion under Ezana. The significance of this conversion extended far beyond religion: Ezana also conducted major military campaigns that destroyed the Kingdom of Meroe in Nubia, effectively ending one of the last independent pharaonic-tradition civilizations. The Aksumite Christian state became a major regional power allied with Byzantine Rome against the Sassanid Persian sphere of influence, and the Christian identity of Ethiopia provided a cultural continuity that survived the later Islamic conquests of neighboring regions. Ethiopia remains one of the world's oldest continuously Christian nations — a fact that Ethiopians point to with justifiable pride.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ezana_of_Axum",
+    "read_more_links": [
+        {
+            "title": "Frumentius Christianity Aksum",
+            "url": "https://en.wikipedia.org/wiki/Frumentius"
+        },
+        {
+            "title": "Ezana inscriptions coins",
+            "url": "https://en.wikipedia.org/wiki/Ezana_of_Axum#Religious_policy"
+        },
+        {
+            "title": "Aksum Meroe war Nubia",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum#Destruction_of_Meroe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/AXUM._Ezanas._Circa_330-360.jpg/300px-AXUM._Ezanas._Circa_330-360.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/AXUM._Ezanas._Circa_330-360.jpg",
+            "caption": "AXUM. Ezanas. Circa 330-360",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Samuel_of_Waldebba_Painting.jpg/300px-Samuel_of_Waldebba_Painting.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Samuel_of_Waldebba_Painting.jpg",
+            "caption": "Samuel of Waldebba Painting",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ChristCopticArt.png/300px-ChristCopticArt.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ChristCopticArt.png",
+            "caption": "Christ - Coptic Art",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ousanas",
+            "summary": "King of Aksum",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ousanas.jpg/250px-Ousanas.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ousanas"
+        },
+        {
+            "name": "MHDYS",
+            "summary": "King of Aksum",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mhdys.jpg/250px-Mhdys.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/MHDYS"
+        },
+        {
+            "name": "Zoskales",
+            "summary": "Early 2nd century King of Aksum",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ethio_w3.jpg/250px-Ethio_w3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zoskales"
+        },
+        {
+            "name": "Kaleb of Axum",
+            "summary": "King of Aksum from 514 to 542",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kaleb.jpg/250px-Kaleb.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kaleb_of_Axum"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Constantius II",
+            "summary": "Roman emperor from 337 to 361",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg/250px-Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantius_II"
+        }
+    ],
+    "territory_geojson": null
+}

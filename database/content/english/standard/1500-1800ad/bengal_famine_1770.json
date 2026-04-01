@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3276,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:1245d34e59116dfe48481fc2ffc2e9d3f540e00e2502ae1235fa05a3fa809a0c",
+    "summary": "The Bengal Famine of 1770 AD was a catastrophic famine that killed an estimated 10 million people — roughly one-third of Bengal's population — making it one of the deadliest famines in recorded history and a pivotal moment in the history of [[event:2358|British East India Company]] governance in India. The famine struck Bengal and Bihar in the wake of a severe drought, but its catastrophic scale was widely attributed to the Company's revenue policies: the Company had recently (1765) assumed the diwani (revenue collection rights) of Bengal under the [[event:2333|Battle of Plassey's]] aftermath, and its revenue collectors continued demanding full payment even as crops failed, leaving peasants without seed grain or food reserves. The Company's monopoly on grain trading further limited relief mechanisms.\n\nThe Bengal Famine provoked the first serious public debate in Britain about the East India Company's governance — an early precursor to the regulatory framework of the India Acts (1773, 1784) that gradually brought the Company under Crown supervision. Edmund Burke's years-long campaign against Warren Hastings (the Company's first Governor-General) drew partly on the Bengal famine as evidence of corporate misgovernance. The famine's demographic aftermath was severe: population recovery took decades, and the social disruption created opportunities for the Company to expand its landholding and administrative control. The 1770 famine established a pattern that would recur across British India — famines exacerbated by market policies, revenue collection, and colonial administrative priorities — culminating in the devastating late-19th century famines that killed tens of millions during the Victorian era.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Bengal_famine_of_1770",
+    "read_more_links": [
+        {
+            "title": "Bengal famine 1770 death toll one-third population",
+            "url": "https://en.wikipedia.org/wiki/Great_Bengal_famine_of_1770#Mortality"
+        },
+        {
+            "title": "East India Company diwani revenue Bengal exploitation",
+            "url": "https://en.wikipedia.org/wiki/Diwani"
+        },
+        {
+            "title": "Edmund Burke Warren Hastings trial Bengal famine governance",
+            "url": "https://en.wikipedia.org/wiki/Impeachment_of_Warren_Hastings"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Golghar_%E0%A5%AA.jpg/300px-Golghar_%E0%A5%AA.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Golghar_%E0%A5%AA.jpg",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Scarcity_in_India_RMG_PZ4974_%28cropped%29.jpg/300px-Scarcity_in_India_RMG_PZ4974_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Scarcity_in_India_RMG_PZ4974_%28cropped%29.jpg",
+            "caption": "Scarcity in India\nThis is one of a pair of Singleton prints that contrast Bri...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Shah_%27Alam_conveying_the_grant_of_the_Diwani_to_Lord_Clive.jpg/300px-Shah_%27Alam_conveying_the_grant_of_the_Diwani_to_Lord_Clive.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Shah_%27Alam_conveying_the_grant_of_the_Diwani_to_Lord_Clive.jpg",
+            "caption": "The Mughal emperor Shah Alam hands a scroll to Robert Clive, the governor of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bankim Chandra Chatterjee",
+            "summary": "Indian Bengali writer, poet and journalist (1838–1894)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bankim_Chattapadhyay.jpg/250px-Bankim_Chattapadhyay.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee"
+        },
+        {
+            "name": "Benjamin West",
+            "summary": "American-born painter (1738–1820)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/After_Benjamin_West%2C_Benjamin_West%2C_c._1776%2C_NGA_1133.jpg/250px-After_Benjamin_West%2C_Benjamin_West%2C_c._1776%2C_NGA_1133.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_West"
+        },
+        {
+            "name": "Madras Presidency",
+            "summary": "Administrative subdivision of India from 1652 to 1950",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/British_Raj_Red_Ensign.svg/250px-British_Raj_Red_Ensign.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Madras_Presidency"
+        },
+        {
+            "name": "Henry Singleton (painter)",
+            "summary": "English painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/1792_Singleton_Der_Vikar_empf%C3%A4ngt_den_Zehnten_anagoria.JPG/250px-1792_Singleton_Der_Vikar_empf%C3%A4ngt_den_Zehnten_anagoria.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Singleton_%28painter%29"
+        },
+        {
+            "name": "Naib Nazim of Dhaka",
+            "summary": "Chief Mughal administrator of Jahangir Nagar or Dhaka",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Asiatic_Society_Bangladesh.jpg/250px-Asiatic_Society_Bangladesh.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Naib_Nazim_of_Dhaka"
+        }
+    ],
+    "territory_geojson": null
+}

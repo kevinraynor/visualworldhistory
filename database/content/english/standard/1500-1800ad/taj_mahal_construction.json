@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2382,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:696cc408958876786bea46f988adaba341c77ef529e97a024d0672b884ca72be",
+    "summary": "The Taj Mahal (1632–1653 AD) is the supreme achievement of Mughal architecture and one of the most celebrated buildings in human history — a white marble mausoleum commissioned by [[event:2506|Shah Jahan]] on the banks of the Yamuna River at Agra, built to honor his beloved wife Mumtaz Mahal who died in childbirth in 1631. The building represents the culmination of an architectural tradition that had developed through [[event:2381|Akbar's]] Fatehpur Sikri and Jahangir's gardens, combining Persian, Ottoman, Indian, and Central Asian architectural elements into a perfect synthesis. The design, attributed to the architect Ustad Ahmad Lahauri, achieved a symmetry and visual harmony that is remarkable from any vantage point: the central dome (73 meters high) is surrounded by four identical minarets, set on a raised plinth, within a formal Charbagh (four-part paradise garden) with a central reflecting pool.\n\nThe construction was extraordinary in scale and craftsmanship: approximately 20,000 workers were employed over 22 years; the white Makrana marble was brought from Rajasthan (320 km), while semi-precious stones for the inlay work (pietra dura) — lapis lazuli, carnelian, malachite, jade, onyx — were sourced from across Asia and the Middle East. The calligraphy adorning the entrance archways was executed by the calligrapher Amanat Khan; the gardens' water system used an ingenious underground pipe and tank system to maintain consistent pressure. Shah Jahan, who was later imprisoned by his son [[event:2507|Aurangzeb]] in the Red Fort of Agra, reportedly spent his final years gazing at the Taj Mahal from his window across the river. The building was designated a UNESCO World Heritage Site in 1983 and is India's most visited monument.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "read_more_links": [
+        {
+            "title": "Taj Mahal architecture Ustad Ahmad Lahauri design",
+            "url": "https://en.wikipedia.org/wiki/Taj_Mahal#Architecture"
+        },
+        {
+            "title": "Shah Jahan Mumtaz Mahal love Mughal mausoleum",
+            "url": "https://en.wikipedia.org/wiki/Shah_Jahan#Taj_Mahal"
+        },
+        {
+            "title": "Pietra dura inlay marble stonework Taj Mahal",
+            "url": "https://en.wikipedia.org/wiki/Taj_Mahal#Materials"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taj_Mahal_Sunset_Edit1.jpg/300px-Taj_Mahal_Sunset_Edit1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Taj_Mahal_Sunset_Edit1.jpg",
+            "caption": "Western side of Taj Mahal at the golden hour, Agra, India",
+            "attribution": "Wikimedia Commons, GFDL 1.2"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Taj_Mahal_Mosque%2C_Agra.jpg/300px-Taj_Mahal_Mosque%2C_Agra.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Taj_Mahal_Mosque%2C_Agra.jpg",
+            "caption": "Mosque at the Taj Mahal complex in Agra, India",
+            "attribution": "Wikimedia Commons, GFDL 1.2"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dome_Chhatris_Spires_-_Taj_Mahal_-_Agra_2014-05-14_3805.JPG/300px-Dome_Chhatris_Spires_-_Taj_Mahal_-_Agra_2014-05-14_3805.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Dome_Chhatris_Spires_-_Taj_Mahal_-_Agra_2014-05-14_3805.JPG",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Taj_Mahal_N-UP-A28-a_%28cropped_2%29.jpg/300px-Taj_Mahal_N-UP-A28-a_%28cropped_2%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Taj_Mahal_N-UP-A28-a_%28cropped_2%29.jpg",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mughal architecture",
+            "summary": "16th–18th-century Indo-Islamic architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/250px-Taj_Mahal%2C_Agra%2C_India.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mughal_architecture"
+        },
+        {
+            "name": "Mumtaz Mahal",
+            "summary": "Empress of the Mughal Empire from 1628 to 1631",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_Mumtaz_Mahal_on_Ivory_%28cropped%29.jpg/250px-Portrait_of_Mumtaz_Mahal_on_Ivory_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mumtaz_Mahal"
+        },
+        {
+            "name": "Shah Jahan",
+            "summary": "Mughal emperor from 1628 to 1658",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27%2C_painted_by_Bichitr%2C_c._1630%2C_Chester_Beatty_Library_%28cropped2%29.jpg/250px-%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27%2C_painted_by_Bichitr%2C_c._1630%2C_Chester_Beatty_Library_%28cropped2%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shah_Jahan"
+        },
+        {
+            "name": "Ustad Isa",
+            "summary": "Persian architect",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Edwin_Lord_Weeks_-_The_Taj_Mahal_-_Walters_37316.jpg/250px-Edwin_Lord_Weeks_-_The_Taj_Mahal_-_Walters_37316.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ustad_Isa"
+        },
+        {
+            "name": "Abdul Hamid Lahori",
+            "summary": "17th-century historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Padshahnama_Manuscript.jpg/250px-Padshahnama_Manuscript.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abdul_Hamid_Lahori"
+        },
+        {
+            "name": "Jai Singh I",
+            "summary": "Maharaja of Amber from 1621 to 1667",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jai_Singh_I.png/250px-Jai_Singh_I.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jai_Singh_I"
+        }
+    ],
+    "territory_geojson": null
+}

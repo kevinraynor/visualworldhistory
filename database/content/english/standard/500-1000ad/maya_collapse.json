@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2181,
+    "parent_id": 2070,
+    "granularity": "notable",
+    "content_hash": "sha256:8b5664f26615dba1254245aa386e4aa6a0363c1599e7955d21040f8edfae1aab",
+    "summary": "The Maya Classic Collapse (c. 800–1000 AD) was the abandonment of dozens of major Maya lowland cities across the southern Maya region — an extraordinary civilizational contraction that saw cities like Tikal, Copan, Palenque, Quirigua, and dozens of others cease monumental construction, lose their royal dynasties, and experience drastic population decline within roughly two centuries. At its most extreme, urban populations in the southern lowlands may have fallen by 90%, and the Classic Maya political system of divine kings and competing city-states effectively ceased to exist. The last Long Count calendar date in the southern lowlands was recorded in 909 AD.\n\nThe collapse is one of the most studied events in pre-Columbian history, with causes that are now understood to have been multiple and interacting. Prolonged drought (documented through sediment core lake records) repeatedly struck the southern lowlands between 800–1000 AD, undermining the agricultural systems that fed urban populations. Chronic inter-city warfare depleted populations and disrupted trade networks. Political instability — evidenced in the archaeological record by a proliferation of 'secondary elites' and the breakdown of centralized royal authority — may have prevented coordinated responses to environmental stress. Deforestation and soil erosion added to agricultural stress. The collapse was not total: the northern Maya (Chichen Itza, Uxmal) continued to flourish in the Postclassic period, and Maya civilization survived in modified form until the Spanish conquest. Today, approximately 7 million Maya people live across Mexico and Central America.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Classic_Maya_collapse",
+    "read_more_links": [
+        {
+            "title": "Drought drought Maya collapse",
+            "url": "https://en.wikipedia.org/wiki/Classic_Maya_collapse#Drought_theory"
+        },
+        {
+            "title": "Maya cities abandoned list",
+            "url": "https://en.wikipedia.org/wiki/Classic_Maya_collapse#Sites_affected"
+        },
+        {
+            "title": "Maya survival Postclassic period",
+            "url": "https://en.wikipedia.org/wiki/Postclassic_Maya"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Codex_Lacambalam_l%C3%A1mina_15.png/300px-Codex_Lacambalam_l%C3%A1mina_15.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Codex_Lacambalam_l%C3%A1mina_15.png",
+            "caption": "This drawing is part of the codex also known as Codex Grolier. The day positi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/M%C3%A1scara_de_Xiuhtecuhtli_Cultura_Azteza-Mixteca_Ars_Summum.JPG/300px-M%C3%A1scara_de_Xiuhtecuhtli_Cultura_Azteza-Mixteca_Ars_Summum.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/M%C3%A1scara_de_Xiuhtecuhtli_Cultura_Azteza-Mixteca_Ars_Summum.JPG",
+            "caption": "Mask (human face, possibly representing Xiuhtecuhtli).\nMáscara de Xiuhtecuhtl...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MA_D293_Maya_stone_carving_from_Copan.jpg/300px-MA_D293_Maya_stone_carving_from_Copan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/MA_D293_Maya_stone_carving_from_Copan.jpg",
+            "caption": "Maya stone carving from Copan",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "David Stuart (Mayanist)",
+            "summary": "American archeologist (born 1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DavidStuart2019.jpg/250px-DavidStuart2019.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Stuart_%28Mayanist%29"
+        }
+    ],
+    "territory_geojson": null
+}

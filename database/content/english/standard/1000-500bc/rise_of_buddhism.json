@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 79,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:6b1de703f351293333e0201a36ea6fba4a3e37d3c89ebae4e5de04f9aca960e1",
+    "summary": "Buddhism arose in northeastern India in the 5th century BC, founded by Siddhartha Gautama (c. 563–483 BC or c. 480–400 BC by different scholarly reckonings) — a prince of the Shakya clan who renounced wealth and privilege to seek the end of suffering through spiritual inquiry. His enlightenment (Bodhi) under the Bodhi tree at Bodh Gaya and subsequent teaching mission established a religious tradition that would eventually become one of the world's major religions, currently counting approximately 500 million adherents.\n\nThe Buddha's core teachings — the Four Noble Truths (suffering exists; it arises from craving; it can cease; there is a path to its cessation) and the Eightfold Path — offered a practical ethical and meditative program accessible to all regardless of caste, a revolutionary challenge to the Brahmin-dominated Vedic religious order. Early Buddhism spread through the Ganges plain under royal patronage, particularly the [[event:1101|Ashoka and the Maurya Empire]]'s Emperor Ashoka (3rd century BC), who embraced the faith after his own military campaigns and became Buddhism's greatest patron and missionary promoter. The subsequent spread of Buddhism across Asia — to Sri Lanka, Southeast Asia, Central Asia, China, Korea, and Japan — represents one of the great cultural diffusions of world history, generating enormous diversity of practice and doctrine across Buddhist traditions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Buddhism",
+    "read_more_links": [
+        {
+            "title": "Siddhartha Gautama biography",
+            "url": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+        },
+        {
+            "title": "Four Noble Truths",
+            "url": "https://en.wikipedia.org/wiki/Four_Noble_Truths"
+        },
+        {
+            "title": "Early Buddhism spread India",
+            "url": "https://en.wikipedia.org/wiki/History_of_Buddhism_in_India"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boudha_Stupa_2018_04.jpg/300px-Boudha_Stupa_2018_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Boudha_Stupa_2018_04.jpg",
+            "caption": "This is a photo of a monument in Nepal identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Buddhist_alms_in_Si_Phan_Don.jpg/300px-Buddhist_alms_in_Si_Phan_Don.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Buddhist_alms_in_Si_Phan_Don.jpg",
+            "caption": "Buddhist alms in Don Det (Si Phan Don, Laos). Every day, early morning child ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Praying_monks_and_nuns_in_the_Buddha_Tooth_Relic_Temple_of_Singapore.jpg/300px-Praying_monks_and_nuns_in_the_Buddha_Tooth_Relic_Temple_of_Singapore.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Praying_monks_and_nuns_in_the_Buddha_Tooth_Relic_Temple_of_Singapore.jpg",
+            "caption": "Praying monks and nuns in the Buddha Tooth Relic Temple of Singapore.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG/300px-Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kinkaku-ji_the_Golden_Temple_in_Kyoto_overlooking_the_lake_-_high_rez.JPG",
+            "caption": "Kinkaku-ji / Golden Temple in Kyoto",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "K. T. S. Sarao",
+            "summary": "Indian historian and professor (born 1955)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/K._T._S._Sarao%2C2020.jpg/250px-K._T._S._Sarao%2C2020.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/K._T._S._Sarao"
+        },
+        {
+            "name": "The Buddha",
+            "summary": "Founder of Buddhism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/250px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/The_Buddha"
+        }
+    ],
+    "territory_geojson": null
+}

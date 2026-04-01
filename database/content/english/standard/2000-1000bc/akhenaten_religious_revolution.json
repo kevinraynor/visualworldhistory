@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1805,
+    "parent_id": 60,
+    "granularity": "notable",
+    "content_hash": "sha256:96a3eb266d75d724d6724a2f9c6485864e52b510be42d57cfbe414f1e65fa9b1",
+    "summary": "Akhenaten's religious revolution, enacted during his reign from approximately 1353 to 1336 BC, represented the world's first documented attempt at monotheism — or at least monolatry — imposed by state authority. Abandoning the elaborate polytheistic tradition of Egypt, Akhenaten elevated the Aten, the physical disk of the sun, as the sole object of official worship, claiming to be the exclusive intermediary between the Aten and humanity.\n\nThe practical expression of this revolution was sweeping. Akhenaten closed the temples of the traditional gods, particularly Amun — whose priesthood at Karnak had accumulated enormous wealth and political influence — and ordered the erasure of divine names from monuments, especially targeting Amun. He moved the royal court and government to a newly built capital, Akhetaten (modern Amarna), located on virgin ground in Middle Egypt to avoid the influence of established cult centers. The priests and administrators of the old gods were displaced and their revenues confiscated.\n\nTheological debate continues over whether Akhenaten's religion was truly monotheistic. The Aten was conceived as the creative force manifested in sunlight, and traditional solar theology had always emphasized the sun's importance. However, Akhenaten went further than any predecessor in explicitly denying the existence and worship of other gods as official state religion. Hymns composed in Akhenaten's name — particularly the Great Hymn to the Aten — show conceptual parallels with Psalm 104 in the Hebrew Bible, suggesting possible connections between Egyptian solar theology and Israelite religious thought.\n\nThe revolution did not survive Akhenaten. His son [[event:1806|Tutankhamun]] and subsequent pharaohs reversed every aspect of the reform, restoring the traditional cults, erasing Akhenaten's name from monuments, and condemning him as a heretic. Yet Akhenaten's experiment remains one of the most studied and debated episodes in ancient religious history, raising enduring questions about the roots of monotheism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akhenaten",
+    "read_more_links": [
+        {
+            "title": "Atenism",
+            "url": "https://en.wikipedia.org/wiki/Atenism"
+        },
+        {
+            "title": "Great Hymn to the Aten",
+            "url": "https://en.wikipedia.org/wiki/Great_Hymn_to_the_Aten"
+        },
+        {
+            "title": "Akhenaten - Britannica",
+            "url": "https://www.britannica.com/biography/Akhenaten"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tablet_official_letter-AO_7093-P5280232-gradient.jpg/300px-Tablet_official_letter-AO_7093-P5280232-gradient.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Tablet_official_letter-AO_7093-P5280232-gradient.jpg",
+            "caption": "لوح سومري يرجع الى ٣.٥٠٠ قبل الميلاد ",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Relief_fragment_showing_a_royal_head%2C_probably_Akhenaten%2C_and_early_Aten_cartouches._Aten_extends_Ankh_%28sign_of_life%29_to_the_figure._Reign_of_Akhenaten._From_Amarna%2C_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/300px-Relief_fragment_showing_a_royal_head%2C_probably_Akhenaten%2C_and_early_Aten_cartouches._Aten_extends_Ankh_%28sign_of_life%29_to_the_figure._Reign_of_Akhenaten._From_Amarna%2C_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Relief_fragment_showing_a_royal_head%2C_probably_Akhenaten%2C_and_early_Aten_cartouches._Aten_extends_Ankh_%28sign_of_life%29_to_the_figure._Reign_of_Akhenaten._From_Amarna%2C_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "caption": "Relief fragment showing a royal head, probably Akhenaten, and early Aten cart...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Akenat%C3%B3n_Berl%C3%ADn_05.JPG/300px-Akenat%C3%B3n_Berl%C3%ADn_05.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Akenat%C3%B3n_Berl%C3%ADn_05.JPG",
+            "caption": "Estatua de Akenatón. Berlín, Neues Museum.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Painted_limestone_miniature_stela._It_shows_Akhenaten_standing_before_2_incense_stands%2C_Aten_disc_above._From_Amarna%2C_Egypt._18th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/300px-Painted_limestone_miniature_stela._It_shows_Akhenaten_standing_before_2_incense_stands%2C_Aten_disc_above._From_Amarna%2C_Egypt._18th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Painted_limestone_miniature_stela._It_shows_Akhenaten_standing_before_2_incense_stands%2C_Aten_disc_above._From_Amarna%2C_Egypt._18th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "caption": "Painted limestone miniature stela. It shows Akhenaten standing before 2 incen...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Neferneferuaten",
+            "summary": "Ancient Egyptian female ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Golden_Nut_Pectoral_Carter_no._261p1_%28cropped%29.jpg/250px-Golden_Nut_Pectoral_Carter_no._261p1_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neferneferuaten"
+        },
+        {
+            "name": "Smenkhkare",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Relief_of_a_young_pharaoh_and_a_queen_holding_flowers_02.jpg/250px-Relief_of_a_young_pharaoh_and_a_queen_holding_flowers_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Smenkhkare"
+        },
+        {
+            "name": "Tutankhamun",
+            "summary": "Pharaoh of Egypt from 1333 to 1324 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/250px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tutankhamun"
+        },
+        {
+            "name": "Meritaten",
+            "summary": "Great Royal Wife, King's Daughter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Princess_of_Akhenaton_family-E_14715-IMG_0319-gradient.jpg/250px-Princess_of_Akhenaton_family-E_14715-IMG_0319-gradient.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Meritaten"
+        },
+        {
+            "name": "Tiye",
+            "summary": "Queen consort of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/%C3%84gyptisches_Museum_Berlin_027_detail_01.jpg/250px-%C3%84gyptisches_Museum_Berlin_027_detail_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tiye"
+        },
+        {
+            "name": "KV55",
+            "summary": "Egyptian tomb possibly of Pharaoh Akhenaten",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KV55_defaced_coffin.JPG/250px-KV55_defaced_coffin.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/KV55"
+        }
+    ],
+    "territory_geojson": null
+}

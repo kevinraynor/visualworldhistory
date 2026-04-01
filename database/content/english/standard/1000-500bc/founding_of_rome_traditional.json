@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1940,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2c33417f492fc43c9b1e82f7808e776235f6d2a34037298afeca5ac39518fdce",
+    "summary": "The traditional founding of Rome (753 BC, attributed to Romulus) is a mythological origin story that was taken seriously as history by the Romans themselves — complete with calculated dates, royal king lists, and elaborate narrative details. The story of Romulus and Remus, twin sons of the god Mars and a Vestal Virgin, suckled by a she-wolf and eventually founding a city on the Palatine Hill, provided Romans with a divine ancestry and an origin story that was simultaneously humble (shepherd origins) and martial (descended from Mars).\n\nArchaeologically, evidence of settlement on the hills of Rome dates to at least the 10th century BC, with the earliest iron age villages on the Palatine and Capitoline hills. The traditional date of 753 BC, calculated by the antiquarian Varro, is close to the archaeological evidence for a more unified settlement emerging from these villages — though it predates by several generations the development of the Forum Romanum as a civic center. Rome's actual origins were less a dramatic founding than a gradual coalescence of Latin and Sabine villages, eventually absorbing Etruscan cultural influences that shaped Roman religion, architecture, and kingship. The founding myth's importance was cultural and political — it provided the shared story that Romans told themselves about who they were.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Founding_of_Rome",
+    "read_more_links": [
+        {
+            "title": "Romulus and Remus myth",
+            "url": "https://en.wikipedia.org/wiki/Romulus_and_Remus"
+        },
+        {
+            "title": "Rome archaeology early settlement",
+            "url": "https://en.wikipedia.org/wiki/Rome#Pre-Roman_history"
+        },
+        {
+            "title": "Roman Kingdom period",
+            "url": "https://en.wikipedia.org/wiki/Roman_Kingdom"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/300px-Lupa_Capitolina%2C_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lupa_Capitolina%2C_Rome.jpg",
+            "caption": "Lupa Capitolina: she-wolf with Romulus and Remus. Bronze, 12th century AD[1],...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kapitolinische_W%C3%B6lfin_Museum_Capitolini.jpg/300px-Kapitolinische_W%C3%B6lfin_Museum_Capitolini.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Kapitolinische_W%C3%B6lfin_Museum_Capitolini.jpg",
+            "caption": "Capitoline she-wolf (Latin Lupa Capitolina), a bronze figure showing Romulus ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rome-Palatin-fonds_de_cabanes.JPG/300px-Rome-Palatin-fonds_de_cabanes.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Rome-Palatin-fonds_de_cabanes.JPG",
+            "caption": "Roman archaic huts on Palatin mount. Perhaps VIIIth centure BC",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Origini_di_roma_in_narrazione_continua%2C_da_pompei_V_4%2C_13%2C_s.n..JPG/300px-Origini_di_roma_in_narrazione_continua%2C_da_pompei_V_4%2C_13%2C_s.n..JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Origini_di_roma_in_narrazione_continua%2C_da_pompei_V_4%2C_13%2C_s.n..JPG",
+            "caption": "Ancient Roman frescos in the Museo Archeologico (Naples)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Romulus",
+            "summary": "King of Rome from 753 to 716 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg/250px-Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romulus"
+        },
+        {
+            "name": "Amulius",
+            "summary": "Mythical king of Alba Longa who ordered the death of Romulus and Remus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/21-manasses-chronicle.jpg/250px-21-manasses-chronicle.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amulius"
+        },
+        {
+            "name": "Numitor",
+            "summary": "Grandfather of the founders of Rome in Roman Mythology",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Numitor_from_Nuremberg_chronicles.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Numitor"
+        },
+        {
+            "name": "Claudius",
+            "summary": "Roman emperor from AD 41 to 54",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Claudius_crop.jpg/250px-Claudius_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claudius"
+        },
+        {
+            "name": "Hadrian",
+            "summary": "Roman emperor from 117 to 138",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg/250px-M%C3%BCnchen_SMAEK_2019-03-23n.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian"
+        }
+    ],
+    "territory_geojson": null
+}

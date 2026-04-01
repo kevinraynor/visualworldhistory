@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2303,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5b4ab39f10d301780a82933e268a0466ceb46f9f58ace3dc803f87363bec00e2",
+    "summary": "The Moai of Easter Island (Rapa Nui, c. 1250–1500 AD) are the iconic monolithic stone statues created by the indigenous Rapa Nui people, representing deified ancestors whose mana (spiritual power) was believed to protect and fertilize their communities — 900 statues carved from volcanic tuff, some transported miles from the quarry to coastal platforms (ahu), representing one of the most extraordinary engineering achievements of any pre-technological society. Easter Island, located in the southeast Pacific over 3,700 kilometers from the nearest inhabited land, was settled by Eastern Polynesians (related to the broader Pacific migrations that settled [[event:2302|New Zealand]]) around 1200 AD.\n\nThe construction and transportation of the moai — the largest weighing over 80 tons, the tallest standing 10 meters — required sophisticated engineering without metal tools or draft animals. Modern experiments have demonstrated that teams of workers could 'walk' the statues upright by rocking them forward with ropes, consistent with Rapa Nui oral tradition that the statues 'walked.' The moai project required enormous investments of labor, food, and resources from the island's population, and the island's limited ecosystem — deforested as the population grew and logs were used for moai transportation — eventually collapsed under the strain. The Rapa Nui population declined catastrophically (from perhaps 15,000 to a few thousand) due to a combination of deforestation, resource exhaustion, warfare between competing clans, and the devastating effects of Peruvian slave raids and European disease contact in the 19th century. The Easter Island case became an influential (if sometimes oversimplified) ecological parable about civilizational overreach.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moai",
+    "read_more_links": [
+        {
+            "title": "Easter Island Rapa Nui civilization history",
+            "url": "https://en.wikipedia.org/wiki/Easter_Island"
+        },
+        {
+            "title": "Moai transport walking ropes experiment",
+            "url": "https://en.wikipedia.org/wiki/Moai#Transportation"
+        },
+        {
+            "title": "Easter Island collapse deforestation ecology",
+            "url": "https://en.wikipedia.org/wiki/Easter_Island#Ecological_collapse"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/EasterIsland_1772.JPG/300px-EasterIsland_1772.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/EasterIsland_1772.JPG",
+            "caption": "North down 1772 map of Easter Island (Isla de San Carlos) drawn by the 1772 S...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg/300px-Moai_Rano_raraku.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Moai_Rano_raraku.jpg",
+            "caption": "Moai at Rano Raraku, Easter Island",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ahu_Tahai.jpg/300px-Ahu_Tahai.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ahu_Tahai.jpg",
+            "caption": "A close up of the moai at Ahu Tahai, restored with coral eyes by the American...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cantera_de_moais.jpg/300px-Cantera_de_moais.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cantera_de_moais.jpg",
+            "caption": "Moai quarry at Rano Raraku volcano",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thor Heyerdahl",
+            "summary": "Norwegian anthropologist and adventurer (1914–2002)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ThorHeyerdahl.jpg/250px-ThorHeyerdahl.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thor_Heyerdahl"
+        },
+        {
+            "name": "William Mulloy",
+            "summary": "American anthropologist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mulloy_o%27higgins_lecture.jpg/250px-Mulloy_o%27higgins_lecture.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Mulloy"
+        },
+        {
+            "name": "Pedro Edmunds Paoa",
+            "summary": "Chilean politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pedro_Edmunds_Paoa_%28cropped%29.jpg/250px-Pedro_Edmunds_Paoa_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_Edmunds_Paoa"
+        },
+        {
+            "name": "William Hodges",
+            "summary": "English painter (1744-1797)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/William_Hodges_2.jpg/250px-William_Hodges_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Hodges"
+        }
+    ],
+    "territory_geojson": null
+}

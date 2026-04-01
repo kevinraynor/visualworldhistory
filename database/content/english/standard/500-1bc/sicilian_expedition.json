@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1012,
+    "parent_id": 1010,
+    "granularity": "notable",
+    "content_hash": "sha256:4f889955b1879219d38eab4b8abd5068aa0e3bfc6e6626f6fe46ad69365b5d6c",
+    "summary": "The Sicilian Expedition (415–413 BC) was the most ambitious and catastrophic military operation Athens undertook during the [[event:1010|Peloponnesian War]] — an attempt to conquer the wealthy island of Sicily that ended in the utter destruction of the Athenian force and dealt Athens a blow from which it never fully recovered. The campaign is one of antiquity's most studied examples of democratic decision-making leading to strategic overreach.\n\nThe expedition was proposed ostensibly to aid the small Sicilian city of Segesta, but the real ambition was the conquest of Syracuse — the largest Greek city in the western Mediterranean — and with it control of Sicily's wealth and grain supply. Thucydides and the moderate general Nicias warned that Athens lacked sufficient knowledge of the distances and difficulties involved, but the dynamic politician Alcibiades swept the assembly with visions of western empire. Athens dispatched an enormous force of 134 triremes and 5,100 hoplites, plus thousands of sailors, rowers, and support personnel.\n\nThe expedition's leadership was crippled when Alcibiades was recalled to face charges of religious sacrilege and defected to Sparta, where he advised the Spartans on how to defeat his own city. Nicias, who had opposed the expedition, was left commanding a campaign he had never believed in. The Athenians failed to take Syracuse quickly and were then trapped in a siege that reversed on them — Spartan reinforcements under Gylippus revitalized the Syracusan defense. When the Athenians attempted to withdraw by sea, their fleet was destroyed in the harbor. The land army, surrendering when escape proved impossible, was put to forced labor in stone quarries where most perished from exposure, disease, and exhaustion.\n\nApproximately 40,000 Athenians and allies died or were enslaved in Sicily. The destruction of such a large portion of Athens's military resources emboldened Sparta and its allies, triggered revolts among Athens's subject states, and opened the door to Persian intervention that would ultimately decide the war against Athens.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sicilian_Expedition",
+    "read_more_links": [
+        {
+            "title": "Alcibiades",
+            "url": "https://en.wikipedia.org/wiki/Alcibiades"
+        },
+        {
+            "title": "Nicias",
+            "url": "https://en.wikipedia.org/wiki/Nicias"
+        },
+        {
+            "title": "Syracuse, Sicily",
+            "url": "https://en.wikipedia.org/wiki/Syracuse,_Sicily"
+        },
+        {
+            "title": "Thucydides – Book VI",
+            "url": "https://en.wikipedia.org/wiki/Thucydides#Books_VI_and_VII"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pelop_war_en.png/300px-Pelop_war_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pelop_war_en.png",
+            "caption": "Map of the Peloponnesian War, translated into English based on w:de:Image:Pel...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Destruction_of_the_Athenian_army_at_Syracuse.jpg/300px-Destruction_of_the_Athenian_army_at_Syracuse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Destruction_of_the_Athenian_army_at_Syracuse.jpg",
+            "caption": "Destruction of the Athenian army at Syracuse",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Destruction_of_the_Athenian_army_in_Sicily.jpg/300px-Destruction_of_the_Athenian_army_in_Sicily.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Destruction_of_the_Athenian_army_in_Sicily.jpg",
+            "caption": "Destruction of the Athenian army in Sicily",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Siege_of_Syracuse_%28414-413_BC%29.png/300px-Siege_of_Syracuse_%28414-413_BC%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Siege_of_Syracuse_%28414-413_BC%29.png",
+            "caption": "Made with: Donald Kagan, The Peace of Nicias and the Sicilian Expedition, Ith...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Nicias",
+            "summary": "Athenian politician and general (5th century BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg/250px-Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicias"
+        },
+        {
+            "name": "Hermocrates",
+            "summary": "5th-century BC Syracusan politician and strategos",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ermocrate_incisione_su_libro.PNG/250px-Ermocrate_incisione_su_libro.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermocrates"
+        },
+        {
+            "name": "Alcibiades",
+            "summary": "Athenian general and statesman (c. 450–404 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Detail_of_Alcibiades_from_Alcibiades_Being_Taught_by_Socrates_%281776%29_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg/250px-Detail_of_Alcibiades_from_Alcibiades_Being_Taught_by_Socrates_%281776%29_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alcibiades"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "Hyperbolus",
+            "summary": "Athenian politician (died 412/411 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/42_-_Sto%C3%A0_of_Attalus_Museum_-_Ostracism_against_Hyperbolos_%28417_BC%29_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_9_2009.jpg/250px-42_-_Sto%C3%A0_of_Attalus_Museum_-_Ostracism_against_Hyperbolos_%28417_BC%29_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_9_2009.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hyperbolus"
+        },
+        {
+            "name": "Hoplite",
+            "summary": "Ancient Greek soldier in a phalanx",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hoplite1.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hoplite"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3047,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:171db64d379039122a2f69bf0434140032cc2ec33047926888c7948bf5194b5c",
+    "summary": "The Sengoku Period ('Warring States Period,' c. 1467–1615 AD) was a century and a half of near-continuous civil war in Japan following the [[event:3046|Ōnin War]], in which the central authority of the [[event:2281|Muromachi shogunate]] effectively collapsed and hundreds of regional lords (daimyo) competed through military force for territory and dominance, reshaping Japan's political geography, military technology, social structure, and ultimately producing the Tokugawa unification that imposed two and a half centuries of enforced peace. The period is comparable to China's Warring States era and is similarly characterized by both enormous destruction and extraordinary innovation.\n\nThe Sengoku period transformed Japanese warfare and society. The introduction of firearms by Portuguese traders (1543) revolutionized battle tactics; the innovative use of arquebuses by Oda Nobunaga at the Battle of Nagashino (1575) — massed volleys from behind field fortifications — devastated the traditional cavalry charges of rival lords. The period also saw the rise of the ashigaru (foot soldiers) as decisive military forces, enabling ambitious low-born commanders to build armies and overthrow established noble houses — social mobility driven by military merit in ways that disrupted the hereditary hierarchies of the earlier period. The three 'great unifiers' — Oda Nobunaga, Toyotomi Hideyoshi (who rose from peasant origins to national hegemon), and Tokugawa Ieyasu — progressively reunified Japan, with Ieyasu's victory at Sekigahara (1600) and capture of Osaka (1615) completing the process. Hideyoshi's invasions of Korea (1592, 1597) introduced Japanese military power to the Asian mainland for the first time, with devastating consequences for Korean civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sengoku_period",
+    "read_more_links": [
+        {
+            "title": "Oda Nobunaga firearms Nagashino battle",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Nagashino"
+        },
+        {
+            "title": "Toyotomi Hideyoshi peasant unifier Japan",
+            "url": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi"
+        },
+        {
+            "title": "Tokugawa Ieyasu Sekigahara unification",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Sekigahara"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hosokawa_Masamoto.jpg/300px-Hosokawa_Masamoto.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hosokawa_Masamoto.jpg",
+            "caption": "Hosokawa Masamoto",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Gunsmith_Storefront_in_Sakai_Osaka_by_Akisato_Rito_1796.jpg/300px-Gunsmith_Storefront_in_Sakai_Osaka_by_Akisato_Rito_1796.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Gunsmith_Storefront_in_Sakai_Osaka_by_Akisato_Rito_1796.jpg",
+            "caption": "A gunsmith's storefront in Sakai, Osaka. From: \"Izumi Meisho Zue\" (1796). The...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png/300px-Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png",
+            "caption": "The Battle of Onin during the Onin War (1467-1477) by Utagawa Yoshitora.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mori_Motonari.jpg/300px-Mori_Motonari.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Mori_Motonari.jpg",
+            "caption": "Portrait of Mori Motonari in his later years.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Oda Nobunaga",
+            "summary": "Japanese samurai and warlord (1534–1582)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Odanobunaga.jpg/250px-Odanobunaga.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oda_Nobunaga"
+        },
+        {
+            "name": "Ikkō-ikki",
+            "summary": "Followers of Jōdo-Shinshū Buddhism who rebelled against their rulers in feudal Japan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Turumaru_Flags.jpg/250px-Turumaru_Flags.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ikk%C5%8D-ikki"
+        },
+        {
+            "name": "Samurai",
+            "summary": "Japanese warrior class",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/250px-Samurai_on_horseback0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai"
+        },
+        {
+            "name": "Toyotomi Hideyoshi",
+            "summary": "Military ruler of Japan from 1585 to 1598",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png/250px-Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi"
+        },
+        {
+            "name": "Tokugawa Ieyasu",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1603 to 1605",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tokugawa_Ieyasu2.JPG/250px-Tokugawa_Ieyasu2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+        },
+        {
+            "name": "Ashikaga Yoshimochi",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1394 to 1423",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ashikaga_Yoshimochi.jpg/250px-Ashikaga_Yoshimochi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashikaga_Yoshimochi"
+        }
+    ],
+    "territory_geojson": null
+}

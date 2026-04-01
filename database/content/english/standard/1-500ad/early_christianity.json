@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2014,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:ed645f7ac1a49ffc1e14c16a4474e9101db1555010113f9ec44f4accddf35b5c",
+    "summary": "Early Christianity (c. 30–300 AD) was the formative period of the Christian religion — the era during which the movement founded by [[event:2012|Jesus of Nazareth]]'s disciples grew from a tiny Jewish sect in Palestine into a geographically widespread community spanning the Roman Empire and beyond, despite periodic [[event:2821|Persecution Christians Rome]] state persecution and without political power or institutional support. The rapid spread was achieved through missionary networks, urban community formation, and the compelling message of resurrection, universal salvation, and mutual care.\n\nThe Acts of the Apostles records the movement's spread from Jerusalem to Rome; [[event:2015|Paul the Apostle Missions]] letters (the earliest New Testament documents) show communities established in Anatolia, Greece, and Rome within decades of the crucifixion. Early Christians met in private homes (house churches), shared meals (the Eucharist), cared for the sick, poor, and marginalized in ways distinctive in Roman society, and maintained networks of correspondence and visiting teachers across vast distances. Theological diversity was enormous: Gnostic Christianity, Marcionite Christianity, Jewish Christianity, and the emerging 'proto-orthodox' tradition competed for legitimacy. The destruction of the Jerusalem Temple in 70 AD (see [[event:2016|Destruction of Jerusalem Temple]]) effectively ended Jewish Christianity's centrality and accelerated the separation of Christianity from Judaism. By 300 AD, Christianity had perhaps 5–10% of the empire's population, concentrated in cities and among the educated and slave classes.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Early_Christianity",
+    "read_more_links": [
+        {
+            "title": "House church early Christians",
+            "url": "https://en.wikipedia.org/wiki/Early_Christian_worship"
+        },
+        {
+            "title": "Gnostic Christianity diversity",
+            "url": "https://en.wikipedia.org/wiki/Gnosticism"
+        },
+        {
+            "title": "Separation of Christianity and Judaism",
+            "url": "https://en.wikipedia.org/wiki/Parting_of_the_ways_(Judaism_and_Christianity)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PonteSantAngeloRom.jpg/300px-PonteSantAngeloRom.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/PonteSantAngeloRom.jpg",
+            "caption": "The Ponte Sant'Angelo with a view of St. Peter's Square and St. Peter's Basilica",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Jerusalem_Modell_BW_3.JPG/300px-Jerusalem_Modell_BW_3.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jerusalem_Modell_BW_3.JPG",
+            "caption": "Model of Jerusalem, Herod's Temple",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerusalem_Cenacle_BW_5.JPG/300px-Jerusalem_Cenacle_BW_5.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jerusalem_Cenacle_BW_5.JPG",
+            "caption": "Jerusalem, Cenacle, the site of The Last Supper on the Mount Zion",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fra_Angelico_026.jpg/300px-Fra_Angelico_026.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Fra_Angelico_026.jpg",
+            "caption": "Fra Angelico 026",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "First Council of Nicaea",
+            "summary": "Council of Christian bishops in Nicaea, 325",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg/250px-%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea"
+        },
+        {
+            "name": "Jesus",
+            "summary": "Jewish preacher and religious leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg/250px-Spas_vsederzhitel_sinay_%28cropped1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus"
+        },
+        {
+            "name": "Dispersion of the Apostles",
+            "summary": "Missionary work of Jesus's Apostles after his ascension",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/1485_Katzheimer_Apostelabschied_Historisches_Museum_Bamberg_anagoria.jpg/250px-1485_Katzheimer_Apostelabschied_Historisches_Museum_Bamberg_anagoria.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dispersion_of_the_Apostles"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Antiochus IV Epiphanes",
+            "summary": "King of the Seleucid Empire from 175 to 164 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/250px-Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes"
+        },
+        {
+            "name": "Apocalyptic literature",
+            "summary": "Genre of prophetical writing",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Merian%27s_Daniel_7_engraving.jpg/250px-Merian%27s_Daniel_7_engraving.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Apocalyptic_literature"
+        }
+    ],
+    "territory_geojson": null
+}

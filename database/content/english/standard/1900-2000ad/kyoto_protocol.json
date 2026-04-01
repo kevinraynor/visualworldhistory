@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3375,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:70eaa374bbf43b0cdefd667c1815e95509a4734ff43c8c29da0ee4c3db0e6653",
+    "summary": "The Kyoto Protocol was an international treaty adopted on December 11, 1997, in Kyoto, Japan, that for the first time established legally binding emissions reduction targets for greenhouse gases for industrialized nations. The protocol committed its signatories to reduce collective emissions of six greenhouse gases by an average of 5.2 percent below 1990 levels during the first commitment period of 2008–2012. It extended the framework established by the [[event:3374|Rio Earth Summit's]] Climate Change Convention, distinguishing between developed nations with binding targets and developing nations without.\n\nThe United States signed the protocol but the Senate refused to ratify it, citing concerns about economic competitiveness and the exemption of major developing countries including China and India. The Bush administration formally withdrew from the protocol in 2001, dealing a significant blow to its effectiveness. The protocol nonetheless entered into force in 2005 after ratification by Russia provided the threshold needed for implementation.\n\nThe Kyoto Protocol represented a landmark in international environmental law as the first agreement with binding emissions targets, but its limitations — the exclusion of major developing emitters and the U.S. non-participation — constrained its global impact. It established the concept of emissions trading through carbon markets and the Clean Development Mechanism, instruments that influenced subsequent climate policy. The protocol's architecture directly informed negotiations leading to the 2015 Paris Agreement, which applied a different approach by seeking voluntary nationally determined contributions from all countries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kyoto_Protocol",
+    "read_more_links": [
+        {
+            "title": "Kyoto Protocol - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Kyoto-Protocol"
+        },
+        {
+            "title": "UNFCCC - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change"
+        },
+        {
+            "title": "Climate change policy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Climate_change_policy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/300px-Earth_Day_Flag.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Earth_Day_Flag.png",
+            "caption": "Higher-quality PNG version of John McConnell's Earth Day flag, based on this ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/230603_Kyoto_International_Conference_Center_Kyoto_Japan02s3.jpg/300px-230603_Kyoto_International_Conference_Center_Kyoto_Japan02s3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/230603_Kyoto_International_Conference_Center_Kyoto_Japan02s3.jpg",
+            "caption": "Kyoto International Conference Center in Sakyo-ku, Kyoto, Kyoto prefecture, J...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Overview_map_of_states_committed_to_greenhouse_gas_limitations_in_the_first_Kyoto_Protocol_period_%28years_2008-2012%29_%28greyscale%29.png/300px-Overview_map_of_states_committed_to_greenhouse_gas_limitations_in_the_first_Kyoto_Protocol_period_%28years_2008-2012%29_%28greyscale%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Overview_map_of_states_committed_to_greenhouse_gas_limitations_in_the_first_Kyoto_Protocol_period_%28years_2008-2012%29_%28greyscale%29.png",
+            "caption": "Overview map of states committed to greenhouse gas (GHG) limitations in the f...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Land use, land-use change, and forestry",
+            "summary": "Greenhouse gas inventory sector",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg/250px-8000_BCE%2B_Loss_of_forest_and_grassland_to_grazing_and_crops.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Land_use%2C_land-use_change%2C_and_forestry"
+        }
+    ],
+    "territory_geojson": null
+}

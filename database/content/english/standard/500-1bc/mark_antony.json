@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1245,
+    "parent_id": 1080,
+    "granularity": "detailed",
+    "content_hash": "sha256:52d3f525f6276575ceead92aa6e90f987930523eccb16e4679906cfb9f6fda94",
+    "summary": "Mark Antony (Marcus Antonius, 83–30 BC) was Julius Caesar's most able lieutenant and the dominant figure in Rome in the immediate aftermath of Caesar's assassination in 44 BC. As consul, he seized Caesar's papers and treasury, delivered the famous funeral oration that turned Roman public opinion against the assassins, and initially appeared positioned to inherit Caesar's power. The Second Triumvirate (43 BC) with Octavian and Lepidus divided the Roman world, with Antony taking the eastern provinces.\n\nAntony's alliance with [[event:1244|Cleopatra and Caesar]]'s Cleopatra VII, whom he met at Tarsus in 41 BC, transformed him into a Hellenistic-style monarch in Roman eyes — he conducted campaigns in Parthia and Armenia, granted eastern territories to Cleopatra's children, and adopted Egyptian divine imagery, presenting himself as Dionysus-Osiris. His rival Octavian exploited Roman anxieties about eastern decadence and foreign queens, publishing Antony's will (which allegedly left Roman territories to Cleopatra's children) and declaring war on Cleopatra. The naval [[event:1080|Battle of Actium]] (31 BC) ended in Antony's defeat; he and Cleopatra both died by suicide in 30 BC. Octavian's victory left him sole master of Rome, soon to become Augustus.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony",
+    "read_more_links": [
+        {
+            "title": "Second Triumvirate",
+            "url": "https://en.wikipedia.org/wiki/Second_Triumvirate"
+        },
+        {
+            "title": "Antony and Cleopatra",
+            "url": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra"
+        },
+        {
+            "title": "Battle of Actium",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Actium"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Caesar-Coulouris-1937.jpg/300px-Caesar-Coulouris-1937.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Caesar-Coulouris-1937.jpg",
+            "caption": "Promotional photograph of the Mercury Theatre production of Caesar, featuring...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Busto_de_Cat%C3%B3n_el_Joven_-_Museo_Arqueol%C3%B3gico_de_Rabat_%281%29.jpg/300px-Busto_de_Cat%C3%B3n_el_Joven_-_Museo_Arqueol%C3%B3gico_de_Rabat_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Busto_de_Cat%C3%B3n_el_Joven_-_Museo_Arqueol%C3%B3gico_de_Rabat_%281%29.jpg",
+            "caption": "Bust of Cato the Younger (Marcus Porcius Cato Uticensis, also known as Cato o...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/-0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG/300px--0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/-0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG",
+            "caption": "Altes Museum\n  \n\n\n\n\n\nNative name\nAltes Museum\n\nParent institution\nStaatliche ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg/300px-Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg",
+            "caption": "لقاء أنطوني وكليوباترا، 41 ق.م.(لوحة بالألوان الزيتية للرسام لورينس تديما)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Proconsul",
+            "summary": "Governor of a province in the Roman republic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_2.jpg/250px-Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Proconsul"
+        },
+        {
+            "name": "Alexander Helios",
+            "summary": "Son of Egyptian Pharaoh Cleopatra VII",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alexander_Helios_bronze_statuette_of_a_boy_in_Eastern_dress_%283x4_cropped%29.jpg/250px-Alexander_Helios_bronze_statuette_of_a_boy_in_Eastern_dress_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Helios"
+        },
+        {
+            "name": "Cleopatra Selene II",
+            "summary": "Queen of Mauretania, 25 to 5 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Cleopatra_Selene_II.jpg/250px-Cleopatra_Selene_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra_Selene_II"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Lepidus",
+            "summary": "Roman politician and general (89–13/12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg/250px-Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lepidus"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2836,
+    "parent_id": 2802,
+    "granularity": "detailed",
+    "content_hash": "sha256:4dc524f4f5338d07d6a9c3321e552aa20a8ed5c82e5ed6679bc4f45f2a799b41",
+    "summary": "The Yellow Turban Rebellion (184 AD) was a massive peasant uprising in the Han Empire that struck the beginning of the Han dynasty's terminal decline — a coordinated insurrection by followers of a Daoist religious movement led by Zhang Jue, whose sect (the Way of Supreme Peace) combined faith healing, apocalyptic prophecy, and social justice appeal into a mass movement that reportedly gathered hundreds of thousands of followers before erupting simultaneously across multiple provinces. The rebels wore yellow turbans (symbolizing earth replacing the Han dynasty's blue representing heaven) and organized themselves as a religious army with ranks and rituals.\n\nThe uprising was suppressed within a year by Han armies reinforced by regional warlords, but its consequences were catastrophic for the dynasty. To defeat the Yellow Turbans, the central government had empowered regional military commanders and warlords with independent armies — powers that were never reclaimed. The Han emperor became increasingly a figurehead as regional strongmen competed for dominance, and the political fragmentation that followed led directly to the [[event:2802|fall of the Han]] in 220 AD and the [[event:2046|Three Kingdoms Period]]. The Yellow Turban Rebellion is significant not only as a political catalyst but as evidence of profound social crisis in late Han China: massive land concentration by aristocratic families, displacement of peasants, and a state unable to provide basic security had made large portions of the population receptive to millenarian religious movements promising transformation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion",
+    "read_more_links": [
+        {
+            "title": "Zhang Jue Way Supreme Peace",
+            "url": "https://en.wikipedia.org/wiki/Zhang_Jue"
+        },
+        {
+            "title": "Warlords after Yellow Turban",
+            "url": "https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion#Aftermath"
+        },
+        {
+            "title": "Han social crisis peasants",
+            "url": "https://en.wikipedia.org/wiki/Han_dynasty#Decline"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg/300px-CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "caption": "Detail of a painted figure of a cavalryman.\nWestern Han Dynasty (206 B.C. -  ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Yellow_Turban_Rebellion.jpg/300px-Yellow_Turban_Rebellion.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Yellow_Turban_Rebellion.jpg",
+            "caption": "Map showing the Yellow Turban Rebellion in Eastern Han Dynasty of China.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Three_Brothers_during_the_Yellow_Turban_Rebellion.jpg/300px-Three_Brothers_during_the_Yellow_Turban_Rebellion.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Three_Brothers_during_the_Yellow_Turban_Rebellion.jpg",
+            "caption": "A Qing Dynasty illustration of Liu Bei, Guan Yu, and Zhang Fei during the 184...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zhang Jue",
+            "summary": "Chinese Yellow Turban Rebellion leader (died 184)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zhang_Jue_Qing_portrait.jpg/250px-Zhang_Jue_Qing_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhang_Jue"
+        },
+        {
+            "name": "Ten Attendants",
+            "summary": "Influential eunuch-officials during the reign of Emperor Ling",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%E6%96%B0%E5%88%8A%E6%A0%A1%E6%AD%A3%E5%8F%A4%E6%9C%AC%E5%A4%A7%E5%AD%97%E9%9F%B3%E9%87%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89_%E6%98%8E%E4%B8%87%E5%8E%86%E5%8D%81%E4%B9%9D%E5%B9%B4%E4%B9%A6%E6%9E%97%E5%91%A8%E6%9B%B0%E6%A0%A1%E5%88%8A%E6%9C%AC_006.jpg/250px-%E6%96%B0%E5%88%8A%E6%A0%A1%E6%AD%A3%E5%8F%A4%E6%9C%AC%E5%A4%A7%E5%AD%97%E9%9F%B3%E9%87%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89_%E6%98%8E%E4%B8%87%E5%8E%86%E5%8D%81%E4%B9%9D%E5%B9%B4%E4%B9%A6%E6%9E%97%E5%91%A8%E6%9B%B0%E6%A0%A1%E5%88%8A%E6%9C%AC_006.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ten_Attendants"
+        },
+        {
+            "name": "Zhang Daoling",
+            "summary": "2nd century Chinese Taoist leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zhang_Daoling%2C_by_Ren_Xiong_and_Cai_Zhaochu_%28cropped%29.jpg/250px-Zhang_Daoling%2C_by_Ren_Xiong_and_Cai_Zhaochu_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhang_Daoling"
+        },
+        {
+            "name": "Liu Bei",
+            "summary": "Emperor of Shu Han from 221 to 223",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Liu_Bei_Tang.jpg/250px-Liu_Bei_Tang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Liu_Bei"
+        },
+        {
+            "name": "Guan Yu",
+            "summary": "Chinese general and folk hero (died 220)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Guanyu-1.jpg/250px-Guanyu-1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guan_Yu"
+        },
+        {
+            "name": "Zhang Fei",
+            "summary": "Chinese military general (died 221)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zhang_Fei_%28Chinese_characters%29.svg/250px-Zhang_Fei_%28Chinese_characters%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhang_Fei"
+        }
+    ],
+    "territory_geojson": null
+}

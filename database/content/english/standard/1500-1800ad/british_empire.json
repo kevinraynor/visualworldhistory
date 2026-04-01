@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 105,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:eff1a6f040418c3b752c0d56a95aeb4acca0d88f1cc45cbaa2a373e7a6a3feca",
+    "summary": "The British Empire's origins and early expansion (c. 1583–1800) transformed a small island kingdom on the edge of Europe into the nucleus of what would become the largest empire in world history, establishing colonial footholds across North America, the Caribbean, West Africa, India, and eventually Australia through a combination of chartered trading companies, military conquest, settler colonization, and the systematic exploitation of enslaved labor. The empire's early phase was driven by private enterprise: the [[event:2358|British East India Company]] (founded 1600) gradually transformed from a trading operation into a territorial power in India, while colonial ventures in Virginia ([[event:2359|Jamestown]], 1607), Massachusetts ([[event:2360|Plymouth]], 1620), and the Caribbean established plantation colonies dependent on the [[event:2341|Atlantic slave trade]].\n\nBritain's imperial consolidation accelerated after the [[event:2332|Seven Years' War]] (1756–1763), which expelled France from most of North America and India, leaving Britain as the dominant colonial power in both regions. The [[event:106|American Revolution]] (1776–1783) was a profound check on this expansion, stripping Britain of its thirteen most populous North American colonies, but the loss paradoxically accelerated imperial expansion elsewhere: the colonization of [[event:2464|Australia]] began in 1788, and India's conquest deepened after the [[event:2333|Battle of Plassey]] (1757) gave the East India Company control of Bengal — the subcontinent's richest province. By 1800, the British Empire encompassed territories on five continents, sustained by naval supremacy, the wealth of the [[event:108|Industrial Revolution]] just beginning, and institutional innovations in colonial administration, finance, and law that would shape global governance for the following century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/British_Empire",
+    "read_more_links": [
+        {
+            "title": "British East India Company Indian expansion",
+            "url": "https://en.wikipedia.org/wiki/East_India_Company"
+        },
+        {
+            "title": "British colonial North America thirteen colonies",
+            "url": "https://en.wikipedia.org/wiki/Thirteen_Colonies"
+        },
+        {
+            "title": "Seven Years War British imperial dominance",
+            "url": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/300px-Captainjamescookportrait.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Captainjamescookportrait.jpg",
+            "caption": "Official portrait of Captain James Cook",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/British_Empire_flag_RMG_L0088.tiff/300px-British_Empire_flag_RMG_L0088.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/British_Empire_flag_RMG_L0088.tiff",
+            "caption": "British Empire flag\nA version of the White Ensign with the arms of South Afri...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/British_Empire_1945.png/300px-British_Empire_1945.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/British_Empire_1945.png",
+            "caption": "The British Empire in 1945 after WW2.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Punch_Rhodes_Colossus.png/300px-Punch_Rhodes_Colossus.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Punch_Rhodes_Colossus.png",
+            "caption": "The Rhodes Colossus: Caricature of Cecil John Rhodes, after he announced plan...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Cabot",
+            "summary": "Italian navigator and explorer (c. 1450 – c. 1500)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/JohnCabotPainting.jpg/250px-JohnCabotPainting.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Cabot"
+        },
+        {
+            "name": "Henry VII of England",
+            "summary": "King of England from 1485 to 1509",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg/250px-Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+        },
+        {
+            "name": "Henry VIII",
+            "summary": "King of England from 1509 to 1547",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/250px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_VIII"
+        },
+        {
+            "name": "John Hawkins (naval commander)",
+            "summary": "English slave trader (1532–1595)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/John_Hawkins.JPG/250px-John_Hawkins.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Hawkins_%28naval_commander%29"
+        }
+    ],
+    "territory_geojson": null
+}

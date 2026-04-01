@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2336,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:64ec5ab842ef4b2206bf1f704729193e011d36f00ccdbdfed01bf6097ad7c11f",
+    "summary": "The Tokugawa Shogunate (1603–1868 AD) was the last and most durable of Japan's feudal military governments, established by [[event:3308|Tokugawa Ieyasu]] after his victory at the [[event:2421|Battle of Sekigahara]] (1600) and his appointment as Shogun in 1603, inaugurating over 250 years of peace, internal stability, and controlled isolation that profoundly shaped Japanese society, culture, and identity. The Tokugawa system imposed a rigid social hierarchy (shi-no-ko-sho: samurai, farmers, artisans, merchants) and a political structure (the sankin-kōtai alternate attendance system) that required feudal lords (daimyo) to spend alternate years in Edo (Tokyo) — keeping them under surveillance, draining their resources, and preventing rebellion. The [[event:2418|Sakoku isolation policy]] (from the 1630s) expelled European missionaries, banned Christianity, restricted foreign trade to a few licensed ports (Nagasaki, Hirado), and prohibited Japanese from traveling abroad.\n\nThe period of the Edo period (as the Tokugawa era is also called) saw Japan develop a sophisticated urban commercial culture despite its nominal agrarian ideology. The merchant class (theoretically lowest in the social hierarchy) accumulated wealth that patronized a brilliant popular culture: [[event:3309|kabuki theater]], [[event:3310|ukiyo-e woodblock prints]], haiku poetry (Bashō), and the prose fiction of Ihara Saikaku. Edo itself became one of the world's largest cities by the 18th century, with a population exceeding one million. The [[event:2417|Shimabara Rebellion]] (1637–1638), a Christian-led peasant revolt crushed with great brutality, intensified the anti-Christian policies. The Tokugawa peace ended when Commodore Perry's 'Black Ships' arrived in 1853, forcing Japan to open to Western trade and initiating the political crisis that led to the Meiji Restoration of 1868.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_shogunate",
+    "read_more_links": [
+        {
+            "title": "Sankin-kotai alternate attendance system daimyo",
+            "url": "https://en.wikipedia.org/wiki/Sankin-k%C5%8Dtai"
+        },
+        {
+            "title": "Edo period Japan urban culture kabuki prints",
+            "url": "https://en.wikipedia.org/wiki/Edo_period"
+        },
+        {
+            "title": "Sakoku isolation policy Japan 1630s trade restrictions",
+            "url": "https://en.wikipedia.org/wiki/Sakoku"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grote_partij_bij_het_opperhoofd_van_Dejima.jpg/300px-Grote_partij_bij_het_opperhoofd_van_Dejima.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Grote_partij_bij_het_opperhoofd_van_Dejima.jpg",
+            "caption": "A depiction of a party in the house of the Dutch chief De Sturler of Dejima. ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Map_of_Japan_in_Provinces_in_time_of_Iyeyasu.jpg/300px-Map_of_Japan_in_Provinces_in_time_of_Iyeyasu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Map_of_Japan_in_Provinces_in_time_of_Iyeyasu.jpg",
+            "caption": "Japan in Provinces in the time of Tokugawa Ieyasu (1542-1651, note: Ieyasu li...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Toyotomi_mon.png/300px-Toyotomi_mon.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Toyotomi_mon.png",
+            "caption": "Mon of the Toyotomi clan.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Iemitu.jpg/300px-Iemitu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Iemitu.jpg",
+            "caption": "Statue of Tokugawa Iemitsu; Collection of Kinzanji Temple; Donation of Okayam...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Go-Yōzei",
+            "summary": "Emperor of Japan from 1586 to 1611",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Emperor_Go-Yozei3.jpg/250px-Emperor_Go-Yozei3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Y%C5%8Dzei"
+        },
+        {
+            "name": "Emperor Ōgimachi",
+            "summary": "Emperor of Japan from 1557 to 1586",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Emperor_Ogimachi.jpg/250px-Emperor_Ogimachi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_%C5%8Cgimachi"
+        },
+        {
+            "name": "Emperor Meiji",
+            "summary": "Emperor of Japan from 1867 to 1912",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meiji_Emperor_%28cropped%29%28b%29.jpg/250px-Meiji_Emperor_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Meiji"
+        },
+        {
+            "name": "Tokugawa Ieyasu",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1603 to 1605",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tokugawa_Ieyasu2.JPG/250px-Tokugawa_Ieyasu2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+        },
+        {
+            "name": "Tokugawa Yoshinobu",
+            "summary": "Japanese samurai and military ruler (1837-1913)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/1867_Osaka_Yoshinobu_Tokugawa.jpg/250px-1867_Osaka_Yoshinobu_Tokugawa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Yoshinobu"
+        },
+        {
+            "name": "Samurai",
+            "summary": "Japanese warrior class",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/250px-Samurai_on_horseback0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai"
+        }
+    ],
+    "territory_geojson": null
+}

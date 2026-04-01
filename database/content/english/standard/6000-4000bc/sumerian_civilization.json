@@ -1,0 +1,90 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 31,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:6452f63de445fe9580dc5a9f0be15cb789930b0a17918927b043e42241b6c258",
+    "summary": "Sumerian civilization arose in the alluvial plains of southern Mesopotamia — the land between the Tigris and Euphrates rivers — beginning around 4500 BCE. Settled communities had existed in the region for millennia, but the Sumerians transformed scattered agricultural villages into a network of urban centers that would define civilization for thousands of years. Cities such as [[event:1518|Eridu]], Uruk, Ur, and Nippur each functioned as independent political and religious entities centered on a monumental temple complex dedicated to a patron deity.\n\nThe Sumerians pioneered some of humanity's most consequential innovations. They developed cuneiform script, one of the earliest writing systems, beginning as pictographic accounting records and evolving into a flexible medium for literature, law, and religious hymns. Their administrative needs drove advances in mathematics, including a sexagesimal (base-60) number system whose legacy persists in our 60-minute hours and 360-degree circles. Large-scale [[event:1579|irrigation canal]] networks allowed them to cultivate crops across a region with unpredictable rainfall, supporting dense urban populations.\n\nSumerian religion was polytheistic and deeply woven into political life. Temples functioned as economic institutions as well as sacred spaces, controlling vast agricultural estates and redistributing surplus grain to laborers, craftspeople, and priests. The concept of divine kingship — in which rulers derived authority from the gods — shaped political ideology throughout the ancient Near East for millennia. Sumerian mythological texts, including tales of the flood hero Ziusudra and the epic hero Gilgamesh, represent some of the world's oldest surviving literary works.\n\nSocial stratification became pronounced in Sumerian cities. At the apex stood the lugal (king) and priestly class; below them were free landowners, merchants, and artisans; at the base labored dependent workers and slaves. Sumerian artisans produced sophisticated goods in copper, gold, and lapis lazuli sourced through long-distance [[event:34|trade networks]] extending to the Indus Valley and Anatolia. The wheel — one of the era's defining inventions — was employed both on [[event:1545|wheeled vehicles]] and pottery wheels, dramatically increasing productive capacity.\n\nThe political landscape was one of chronic rivalry between city-states, punctuated by periods of hegemony when one city dominated the others. Military conflict was institutionalized, with standing armies equipped with bronze weapons and depicted in battle on monuments such as the Standard of Ur. Despite political fragmentation, Sumerian cultural forms — language, script, religious iconography, architectural traditions — spread widely across Mesopotamia and beyond, shaping successor civilizations including the Akkadians and Babylonians.\n\nSumerian civilization began to decline as a distinct political entity after the Akkadian conquest under Sargon of Akkad around 2334 BCE, but Sumerian cultural, religious, and literary traditions continued to flourish under subsequent rulers. The Sumerian language survived as a prestige literary and liturgical tongue long after it ceased to be spoken in daily life, preserved by the very scribal tradition the Sumerians had created. Their foundational contributions — urbanism, writing, codified law, mathematics, and monumental architecture — establish Sumer as one of the primary cradles of world civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sumer",
+    "read_more_links": [
+        {
+            "title": "Mesopotamia - Britannica",
+            "url": "https://www.britannica.com/place/Mesopotamia"
+        },
+        {
+            "title": "Sumerian civilization - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/sumer/"
+        },
+        {
+            "title": "Cuneiform script - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cuneiform"
+        },
+        {
+            "title": "Ancient Mesopotamia - Metropolitan Museum",
+            "url": "https://www.metmuseum.org/toah/hd/meso/hd_meso.htm"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Map_of_Sumer.png/300px-Map_of_Sumer.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Map_of_Sumer.png",
+            "caption": "Map of Sumer",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/British_Museum_Middle_East_14022019_Gold_and_carnelian_beads_2600-2300_BC_Royal_cemetery_of_Ur_%28composite%29.jpg/300px-British_Museum_Middle_East_14022019_Gold_and_carnelian_beads_2600-2300_BC_Royal_cemetery_of_Ur_%28composite%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/British_Museum_Middle_East_14022019_Gold_and_carnelian_beads_2600-2300_BC_Royal_cemetery_of_Ur_%28composite%29.jpg",
+            "caption": "British Museum Middle East 14022019 Gold and carnelian beads 2600-2300 BC Roy...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bill_of_sale_Louvre_AO3766.jpg/300px-Bill_of_sale_Louvre_AO3766.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bill_of_sale_Louvre_AO3766.jpg",
+            "caption": "Bill of sale Louvre AO3766",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg/300px-Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg",
+            "caption": "Standard of Ur, British Museum, London.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leather crafting",
+            "summary": "Practice of making leather into craft objects or works of art",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Leather_working_tools_%28DSC08329%29.jpg/250px-Leather_working_tools_%28DSC08329%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leather_crafting"
+        },
+        {
+            "name": "Metalworking",
+            "summary": "Process of making items from metal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dreher_an_einer_Drehbank.jpg/250px-Dreher_an_einer_Drehbank.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Metalworking"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Ur-Pabilsag",
+            "summary": "King of Ur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ur-Palbisag.jpg/250px-Ur-Palbisag.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Pabilsag"
+        },
+        {
+            "name": "Enmebaragesi",
+            "summary": "Ancient Mesopotamian king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mebaragsi%2C_King_of_Kish_%28transcription_of_fragment%2C_original_in_Iraq_National_Museum%29.jpg/250px-Mebaragsi%2C_King_of_Kish_%28transcription_of_fragment%2C_original_in_Iraq_National_Museum%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Enmebaragesi"
+        }
+    ],
+    "territory_geojson": null
+}

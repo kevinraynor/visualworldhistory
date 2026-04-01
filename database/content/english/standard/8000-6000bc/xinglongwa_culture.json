@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1429,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:793e8711b87d57aff7f0ee19d849dcf35eec9745a5b689a173e6f5fc7f7ac4ca",
+    "summary": "The Xinglongwa culture, named after a site in Inner Mongolia, China, and dated to approximately 6200 to 5400 BCE, was an early Neolithic culture of the western Liao River valley in northeastern China. It is notable for providing some of the earliest evidence of jade working in East Asia — a finding of considerable significance given the central importance of jade in subsequent Chinese and East Asian cultural traditions.\n\nXinglongwa communities lived in organized rectangular pit-houses arranged in rows, forming planned settlements that reflect a degree of community organization. Their subsistence was based on millet cultivation, hunting of deer and other wild animals, and fishing and gathering. The settlement at the type site of Xinglongwa itself is surrounded by a ditch, possibly indicating a concern with community boundary demarcation or defense.\n\nThe jade objects found at Xinglongwa sites — earrings and pendants crafted from local nephrite or similar stone — represent the earliest phase of a jade working tradition that would grow in elaboration and cultural centrality over subsequent millennia, ultimately giving rise to the jade-rich mortuary cultures of the Hongshan and later Neolithic periods of northeastern China. The Xinglongwa culture thus represents an important early node in the long history of Chinese jade, a material that carries profound symbolic weight in Chinese culture to the present day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Xinglongwa_culture",
+    "read_more_links": [
+        {
+            "title": "Hongshan Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hongshan_culture"
+        },
+        {
+            "title": "Neolithic China - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_China"
+        },
+        {
+            "title": "History of Jade in China - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jade_use_in_Mesoamerica_and_the_Caribbean"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Liaorivermap.png/300px-Liaorivermap.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Liaorivermap.png",
+            "caption": "This is a map of the Liao River drainage basin.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Neolithic_pottery_jar%2C_Xinglongwa_Culture%2C_Liaoning%2C_1990.JPG/300px-Neolithic_pottery_jar%2C_Xinglongwa_Culture%2C_Liaoning%2C_1990.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Neolithic_pottery_jar%2C_Xinglongwa_Culture%2C_Liaoning%2C_1990.JPG",
+            "caption": "Neolithic pottery jar, Xinglongwa Culture, Liaoning, 1990. National Museum of...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

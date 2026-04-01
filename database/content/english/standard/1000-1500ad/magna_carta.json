@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2232,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:026740f0d7af306337133caac9d4c432136f0e2ddeba2b24ae171244c2f013d6",
+    "summary": "The Magna Carta (Great Charter, 1215 AD) was a peace treaty between King John of England and rebellious barons, sealed at Runnymede on June 15, 1215, that became one of the most influential legal documents in Western history — the foundational text of constitutional government and the principle that rulers are subject to law. King John had alienated the English baronage through arbitrary taxation, abuse of royal prerogatives, and military failures in France; when the barons rebelled, John was forced to agree to a charter limiting royal power in specific ways: he could not imprison a free man without lawful judgment of his peers, could not sell or delay justice, and had to seek baronial consent for extraordinary taxation.\n\nThe Magna Carta was immediately repudiated by King John (who obtained papal annulment), but it was reissued with modifications by subsequent kings and gradually became embedded in English constitutional consciousness as a statement of fundamental rights. By the 17th century, when Parliament was struggling with Stuart absolutism, lawyers and politicians like Edward Coke transformed the Magna Carta into a constitutional myth — reading into its specific medieval provisions a universal statement of individual rights against arbitrary government. Clauses 39 and 40 (guaranteeing judgment by peers and denying sale of justice) were reinterpreted as the origin of habeas corpus and due process of law. Through English colonists who brought these constitutional concepts to America, the Magna Carta directly influenced the United States Constitution, the Bill of Rights, and ultimately the Universal Declaration of Human Rights — making a feudal peace treaty between an English king and his barons one of the most consequential political documents in world history.\n\nThe original document's actual provisions were largely technical — addressing specific baronial grievances about inheritance taxes, wardship, forest law, and debts to Jewish moneylenders — but its symbolic power as the moment a king was compelled to acknowledge that law stood above royal will proved inexhaustible across eight centuries of constitutional development.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magna_Carta",
+    "read_more_links": [
+        {
+            "title": "Magna Carta 1215 original provisions",
+            "url": "https://en.wikipedia.org/wiki/Magna_Carta#Provisions"
+        },
+        {
+            "title": "Magna Carta constitutional myth 17th century",
+            "url": "https://en.wikipedia.org/wiki/Magna_Carta#Reinterpretation_in_the_17th_century"
+        },
+        {
+            "title": "Magna Carta influence US Constitution rights",
+            "url": "https://en.wikipedia.org/wiki/Magna_Carta#Influence_on_the_United_States_Constitution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/300px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
+            "caption": "The Magna Carta (originally known as the Charter of Liberties) of 1215, writt...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CAC_CC_001_18_9_0000_0840.jpg/300px-CAC_CC_001_18_9_0000_0840.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/CAC_CC_001_18_9_0000_0840.jpg",
+            "caption": "Black and white photograph print of several people at a ceremony in the Capit...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magna_Carta_-_John_Pine_engraving_1733.jpg/300px-Magna_Carta_-_John_Pine_engraving_1733.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Magna_Carta_-_John_Pine_engraving_1733.jpg",
+            "caption": "Engraved facsimile of the original text of the Magna Carta, surrounded by a s...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Magna-carta-1225-C6257-03.jpg/300px-Magna-carta-1225-C6257-03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Magna-carta-1225-C6257-03.jpg",
+            "caption": "1225 Magna Carta, Additional MS 46144 \nReleased under British Library copyrig...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John, King of England",
+            "summary": "King of England from 1199 to 1216",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jan_tomb.jpg/250px-Jan_tomb.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John%2C_King_of_England"
+        },
+        {
+            "name": "Stephen Langton",
+            "summary": "Archbishop of Canterbury from 1207 to 1228",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stephenlangtonstatuecanterburycathedraloutside.jpg/250px-Stephenlangtonstatuecanterburycathedraloutside.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen_Langton"
+        },
+        {
+            "name": "Archbishop of Canterbury",
+            "summary": "Principal leader of the Church of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Official_portrait_of_The_Lord_Bishop_of_London_%283x4_cropped%29.jpg/250px-Official_portrait_of_The_Lord_Bishop_of_London_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archbishop_of_Canterbury"
+        },
+        {
+            "name": "Pope Innocent III",
+            "summary": "Head of the Catholic Church from 1198 to 1216",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg/250px-Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Innocent_III"
+        },
+        {
+            "name": "Henry III of England",
+            "summary": "King of England from 1216 to 1272",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HenryIII.jpg/250px-HenryIII.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_III_of_England"
+        },
+        {
+            "name": "Edward I",
+            "summary": "King of England from 1272 to 1307",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Edward_I_-_Westminster_Abbey_Sedilia.jpg/250px-Edward_I_-_Westminster_Abbey_Sedilia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_I"
+        }
+    ],
+    "territory_geojson": null
+}

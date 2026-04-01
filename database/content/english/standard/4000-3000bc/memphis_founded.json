@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1640,
+    "parent_id": 1637,
+    "granularity": "notable",
+    "content_hash": "sha256:a2d9bbcdf4cf774025dea02a7007669ab9a09b03e77d6420aafc5d2c7aec4254",
+    "summary": "Memphis, known in ancient Egyptian as Ineb-Hedj (the White Walls) and later as Men-nefer, was founded around 3100 BCE by [[event:1637|Narmer]] or his immediate successors as the capital of the newly unified Egyptian state. Its location at the apex of the Nile Delta, where the narrow ribbon of Upper Egypt's river valley meets the broad fan of the Lower Egyptian Delta, was strategically chosen to sit at the administrative and symbolic boundary of the two lands that pharaonic ideology defined as the dual kingdom.\n\nThe site of Memphis offered commanding advantages for a capital. It lay at the natural choke point controlling movement between Upper and Lower Egypt, making it ideal for both administrative oversight and military projection. The nearby desert plateau to the west provided the limestone and space for royal necropolises, including the famous cemeteries of [[event:1642|Saqqara]], which served as the burial ground for much of the First and Second Dynasties and later for the Old Kingdom pyramids of Abusir and further south. The city's harbor gave access to Nile traffic in both directions.\n\nThroughout the Old Kingdom, Memphis served as Egypt's primary administrative capital, housing the royal court, the central government, and the great temple of Ptah — the deity of craftsmen and creation who became the city's patron god and one of the most important gods in the Egyptian pantheon. The city's name in later tradition gave Greece the word Aigyptos, from which the name Egypt derives, testifying to Memphis's long identification with Egypt as a whole.\n\nMemphis remained Egypt's largest and most important city through much of the pharaonic period, even when political capitals shifted to Thebes during the Middle and New Kingdoms or to cities in the Delta during the Late Period. Its location at the junction of two regions made it an enduring center of administration, commerce, and religious life for over three thousand years.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Memphis,_Egypt",
+    "read_more_links": [
+        {
+            "title": "Early Dynastic Egypt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Early_Dynastic_Period_of_Egypt"
+        },
+        {
+            "title": "Memphis - Britannica",
+            "url": "https://www.britannica.com/place/Memphis-ancient-city-Egypt"
+        },
+        {
+            "title": "Ptah - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ptah"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ISS-43_Memphis%2C_Lower_Egypt.jpg/300px-ISS-43_Memphis%2C_Lower_Egypt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/ISS-43_Memphis%2C_Lower_Egypt.jpg",
+            "caption": "NASA astronaut Scott Kelly on the International Space Station May 29, 2015 tw...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Colossal_sculpture_of_Ramesses_II.stl/300px-Colossal_sculpture_of_Ramesses_II.stl",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Colossal_sculpture_of_Ramesses_II.stl",
+            "caption": "This representation of the colossal lying statue of Ramesses II, found at Mem...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Memphis-temple-Ptah.jpg/300px-Memphis-temple-Ptah.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Memphis-temple-Ptah.jpg",
+            "caption": "Reconstitution de la façade ouest du grand temple de Ptah à Memphis (XIXe dyn...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Giza Governorate",
+            "summary": "Governorate of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pyramids_of_Abusir_2%2C_Ancient_Egypt.jpg/250px-Pyramids_of_Abusir_2%2C_Ancient_Egypt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giza_Governorate"
+        },
+        {
+            "name": "Iry-Hor",
+            "summary": "Ruler of Ancient Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Iry_Hor_name.jpg/250px-Iry_Hor_name.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Iry-Hor"
+        },
+        {
+            "name": "Manetho",
+            "summary": "3rd-century BC Egyptian historian and priest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Manetho_Waddell1940_PD_Excerpt_pIX.jpg/250px-Manetho_Waddell1940_PD_Excerpt_pIX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Manetho"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Menes",
+            "summary": "Founder of Manetho's 1st dynasty and unifier of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Abydos_KL_01-01_n01.jpg/250px-Abydos_KL_01-01_n01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Menes"
+        }
+    ],
+    "territory_geojson": null
+}

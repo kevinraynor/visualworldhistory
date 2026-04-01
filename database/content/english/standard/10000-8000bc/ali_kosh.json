@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1357,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:219c3d9798021a8317bcaba8879adfd2d7ac3cee6ac87b02df44b4b51f4cff3f",
+    "summary": "Ali Kosh is an early Neolithic site in the Deh Luran Plain of Khuzestan Province, southwestern Iran, at the foot of the Zagros Mountains, with occupation layers dated to approximately 7500–6750 BCE. Excavated by Frank Hole and Kent Flannery in the 1960s, Ali Kosh became a foundational reference site for understanding the early stages of agriculture and herding in the eastern Fertile Crescent.\n\nThe site documents a community in the early stages of adopting a mixed agropastoral economy. The earliest inhabitants of Ali Kosh cultivated emmer wheat, einkorn wheat, and two-row hulled barley alongside managing [[event:1258|goats and sheep]], with evidence of wild plant and animal use continuing alongside cultivated and herded species. The stratigraphic sequence at Ali Kosh shows a gradual increase in reliance on domesticated species and a corresponding decrease in wild species over time, providing a detailed picture of the incremental transition from foraging to farming in the Zagros piedmont environment. Ali Kosh remains a key data point in comparative discussions of early agricultural origins across multiple regions of the Near East.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Kosh",
+    "read_more_links": [
+        {
+            "title": "Deh Luran Plain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Deh_Luran_Plain"
+        },
+        {
+            "title": "Zagros Mountains Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zagros_Mountains"
+        },
+        {
+            "title": "Early Agriculture Iran - Britannica",
+            "url": "https://www.britannica.com/place/Iran/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mesopotamian_Prehistorical_cultures.jpg/300px-Mesopotamian_Prehistorical_cultures.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mesopotamian_Prehistorical_cultures.jpg",
+            "caption": "Mesopotamian Prehistorical cultures",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg/300px-Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+            "caption": "Fertile crescent Neolithic B circa 7500 BC; black squares indicate pre-agricu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Neolithic_sites_in_Iran.jpg/300px-Neolithic_sites_in_Iran.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Neolithic_sites_in_Iran.jpg",
+            "caption": "Neolithic Iran sites",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ganj_dareh.jpg/300px-Ganj_dareh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ganj_dareh.jpg",
+            "caption": "Map showing location of Ganj Dareh in Iran",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

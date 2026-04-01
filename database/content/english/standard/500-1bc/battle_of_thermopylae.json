@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1004,
+    "parent_id": 1001,
+    "granularity": "notable",
+    "content_hash": "sha256:53fafbc23ada0367fe2a20223572f1468b80f045a6c5ab1339225bd19e2a43e3",
+    "summary": "The Battle of Thermopylae (480 BC) was a three-day rearguard action fought at a narrow coastal pass in central Greece between a small Greek alliance and the vast invading army of Xerxes I of Persia, part of the [[event:1007|Xerxes I Invasion of Greece]]. The pass at Thermopylae — the 'Hot Gates' — was one of the few points where a small force could bottle up a much larger army. The Greek commander, the Spartan King Leonidas I, led approximately 7,000 troops drawn from various city-states, including his famous 300 Spartans.\n\nFor two days, the Greeks successfully repelled every Persian assault. The Persian Immortals, Xerxes's elite troops, failed to break through the compressed fighting space. On the third day, a local Greek named Ephialtes revealed a mountain path allowing the Persians to outflank the position. Leonidas sent most of the Greek forces to safety and remained with a rearguard of 300 Spartans, around 700 Thespians, and 400 Thebans to cover the retreat. All of them died fighting.\n\nThe tactical defeat was transformed into a moral victory of enormous cultural power. The Spartans died to the last man, fulfilling their tradition of never retreating in battle. Their sacrifice allowed the main Greek fleet to withdraw from [[event:1008|Battles of Artemisium]] and regroup for the decisive [[event:1005|Battle of Salamis]]. The brief epitaph inscribed at the site — \"Go tell the Spartans, passerby, that here, obeying their commands, we lie\" — became one of antiquity's most famous lines.\n\nThermopylae's legacy has been immense and complex. It has been invoked in countless contexts as the archetype of heroic self-sacrifice against overwhelming odds. In ancient Athens, it served as a foil to Marathon — where free men won by cunning tactics — and Salamis — where they won by naval strategy. The battle has been mythologized in modern popular culture, though historians note that it was a Spartan defeat, and that Sparta's motivations were as much strategic as idealistic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae",
+    "read_more_links": [
+        {
+            "title": "Leonidas I",
+            "url": "https://en.wikipedia.org/wiki/Leonidas_I"
+        },
+        {
+            "title": "Xerxes I",
+            "url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        },
+        {
+            "title": "Spartan Army",
+            "url": "https://en.wikipedia.org/wiki/Spartan_army"
+        },
+        {
+            "title": "Second Persian Invasion of Greece",
+            "url": "https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg/300px-L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/L%C3%A9onidas_aux_Thermopyles_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3690_%3B_L_3711.jpg",
+            "caption": "Léonidas aux Thermopyles - Jacques-Louis David - Musée du Louvre Peintures INV 3690 ; L 3711",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Xerxes_all_ethnicities.jpg/300px-Xerxes_all_ethnicities.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Xerxes_all_ethnicities.jpg",
+            "caption": "Xerxes all ethnicities Analysis List with corresponding drawings",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Thespians_monument.jpg/300px-Thespians_monument.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Thespians_monument.jpg",
+            "caption": "Monument for the 700 Thespians",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thermopylae_ancient_coastline_large.jpg/300px-Thermopylae_ancient_coastline_large.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Thermopylae_ancient_coastline_large.jpg",
+            "caption": "View of the Thermopylae pass at the area of the Phocian Wall. In ancient time...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jacques-Louis David",
+            "summary": "French painter (1748–1825)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/250px-David_Self_Portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques-Louis_David"
+        },
+        {
+            "name": "Leonidas I",
+            "summary": "King of Sparta from c. 489 BC to 480 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/250px-Helmed_Hoplite_Sparta.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leonidas_I"
+        },
+        {
+            "name": "Xerxes I",
+            "summary": "King of Kings of the Achaemenid Empire from 486 to 465 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_%28785%29.JPG/250px-National_Museum_of_Iran_Darafsh_%28785%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Darius the Great",
+            "summary": "Persian ruler from 522 to 486 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Darius_I.jpg/250px-Darius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_the_Great"
+        },
+        {
+            "name": "Themistocles",
+            "summary": "Athenian politician and general (c. 524–459 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Illustrerad_Verldshistoria_band_I_Ill_116.png/250px-Illustrerad_Verldshistoria_band_I_Ill_116.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Themistocles"
+        }
+    ],
+    "territory_geojson": null
+}

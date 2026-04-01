@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2118,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:588fafe32398a0758a7ae0d6abc95c6154d58a70180d0f883d61c61b8297caa8",
+    "summary": "The legend of King Arthur — the British war leader who resisted the [[event:2117|Anglo-Saxon invaders]] after the Roman withdrawal — occupies a unique position in the history of historical mythology, combining a possible kernel of historical truth with centuries of literary elaboration into one of the most influential bodies of legend in Western culture. The earliest references are Welsh and are ambiguous: the poem Y Gododdin (c. 600 AD) mentions a warrior fighting 'though he was no Arthur,' and the Historia Brittonum (c. 830 AD) lists twelve battles won by 'Arthur.' A historical prototype — perhaps a late Roman or sub-Roman military leader who organized British resistance against the Saxons in the late 5th century — is possible but unproven.\n\nThe legendary Arthur was transformed by Geoffrey of Monmouth's Historia Regum Britanniae (c. 1136 AD) into a great king with a pan-European empire, and then by French Arthurian romances (Chrétien de Troyes) into the king of Camelot, presiding over the Round Table of knights including Lancelot, Gawain, and Percival, with Merlin as his wizard and Guinevere as his queen. The Grail quest, Tristan and Isolde, and the whole apparatus of medieval chivalric romance grew up around the Arthurian cycle. This literary tradition profoundly influenced medieval European culture and produced enduring art from Malory's Morte d'Arthur (1485) to Tennyson's Idylls of the King to the musical Camelot to countless modern films and novels. 'King Arthur' is arguably Britain's most important cultural export — a national myth built on a historical question mark.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/King_Arthur",
+    "read_more_links": [
+        {
+            "title": "Historical Arthur debate",
+            "url": "https://en.wikipedia.org/wiki/King_Arthur#Historical_basis"
+        },
+        {
+            "title": "Geoffrey of Monmouth Historia",
+            "url": "https://en.wikipedia.org/wiki/Geoffrey_of_Monmouth"
+        },
+        {
+            "title": "Arthurian legend development",
+            "url": "https://en.wikipedia.org/wiki/Matter_of_Britain"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Charles_Ernest_Butler_-_King_Arthur.jpg/300px-Charles_Ernest_Butler_-_King_Arthur.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Charles_Ernest_Butler_-_King_Arthur.jpg",
+            "caption": "Arthurian knight",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Llandaf%2C_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_163.JPG/300px-Llandaf%2C_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_163.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Llandaf%2C_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_163.JPG",
+            "caption": "Photograph taken in Llandaf Cathedral, Cardiff, South Wales. King Arthur retu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boys_King_Arthur_-_N._C._Wyeth_-_title_page.jpg/300px-Boys_King_Arthur_-_N._C._Wyeth_-_title_page.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Boys_King_Arthur_-_N._C._Wyeth_-_title_page.jpg",
+            "caption": "Title page of The Boy's King Arthur",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/John_william_waterhouse_tristan_and_isolde_with_the_potion.jpg/300px-John_william_waterhouse_tristan_and_isolde_with_the_potion.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/John_william_waterhouse_tristan_and_isolde_with_the_potion.jpg",
+            "caption": "John william waterhouse tristan and isolde with the potion",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Historicity of King Arthur",
+            "summary": "Debate about whether King Arthur was a historical person",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/KingArthurTombsite.jpg/250px-KingArthurTombsite.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Historicity_of_King_Arthur"
+        },
+        {
+            "name": "Geoffrey of Monmouth",
+            "summary": "Anglo-Norman author and Bishop of St Asaph from 1152 to 1155",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Geoffrey_of_Monmouth_at_Tintern_Station_%28geograph_6023609%29.jpg/250px-Geoffrey_of_Monmouth_at_Tintern_Station_%28geograph_6023609%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Geoffrey_of_Monmouth"
+        },
+        {
+            "name": "Historia Regum Britanniae",
+            "summary": "Pseudohistorical account of British history (c.1136)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Vortigern-Dragons.jpg/250px-Vortigern-Dragons.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Historia_Regum_Britanniae"
+        },
+        {
+            "name": "Uther Pendragon",
+            "summary": "Father of King Arthur in Arthurian legend",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Arthur-Pyle_Uther-Pendragon.JPG/250px-Arthur-Pyle_Uther-Pendragon.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Uther_Pendragon"
+        },
+        {
+            "name": "Excalibur",
+            "summary": "Legendary sword of King Arthur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Arthur-Pyle_Excalibur_the_Sword.JPG/250px-Arthur-Pyle_Excalibur_the_Sword.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Excalibur"
+        },
+        {
+            "name": "Chrétien de Troyes",
+            "summary": "12th-century French poet and trouvère",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chr%C3%A9tien_de_Troyes.jpg/250px-Chr%C3%A9tien_de_Troyes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chr%C3%A9tien_de_Troyes"
+        }
+    ],
+    "territory_geojson": null
+}

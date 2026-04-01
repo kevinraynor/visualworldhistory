@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2074,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9eacab2ea06f5df531b0e6583a0b8a3e121933aa9c724aafb9e56dc9f82ab387",
+    "summary": "The Rise of Tiwanaku (c. 300 BC–1000 AD, peak c. 400–900 AD) saw this city-state near Lake Titicaca on the Bolivian altiplano (at 3,800 meters elevation — among the highest ancient cities in the world) grow into one of the first expansive states in South America, spreading its cultural and political influence across the Andes and coast through a combination of military power, colonization, and religious prestige. Tiwanaku's monumental architecture — including the Akapana pyramid, the Kalasasaya temple compound, and the Gateway of the Sun — represents some of the most impressive stonework in the ancient Americas, with massive carved stones fitted together without mortar.\n\nThe Gateway of the Sun, a monolithic carved arch weighing approximately 10 tons, bears a relief of a central deity figure (often called the 'Staff God' or 'Gateway God') flanked by winged attendants — a religious iconography that spread across a vast region of the Andes and became a dominant religious symbol for centuries. Tiwanaku's expansion was driven by its control of raised-field agriculture (camellones) around Lake Titicaca that could produce surplus crops despite the harsh altitude, and by its role as a major religious pilgrimage center. The state maintained colonies on the Pacific coast and in the eastern valleys, exchanging highland products (potatoes, quinoa, llama goods) for coastal fish, coca, and valley maize. Tiwanaku collapsed around 1000 AD, probably due to prolonged drought, but its cultural legacy profoundly influenced the later Inca Empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tiwanaku",
+    "read_more_links": [
+        {
+            "title": "Gateway of the Sun sculpture",
+            "url": "https://en.wikipedia.org/wiki/Gate_of_the_Sun"
+        },
+        {
+            "title": "Tiwanaku raised-field agriculture",
+            "url": "https://en.wikipedia.org/wiki/Tiwanaku#Agriculture"
+        },
+        {
+            "title": "Tiwanaku Wari relationship",
+            "url": "https://en.wikipedia.org/wiki/Tiwanaku#Tiwanaku_and_Wari"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Tiwanaku_-_Puerta_de_la_Luna_-_panoramio.jpg/300px-Tiwanaku_-_Puerta_de_la_Luna_-_panoramio.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Tiwanaku_-_Puerta_de_la_Luna_-_panoramio.jpg",
+            "caption": "Tiwanaku - Puerta de la Luna",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg/300px-PUERTA_DEL_SOL_TIWANAKU.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg",
+            "caption": "Sitio arqueológico Ruinas de Tiahuanacu",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Monolito_Fraile_%28Tiwanaku%2C_Bolivia%29_%2836936733575%29.jpg/300px-Monolito_Fraile_%28Tiwanaku%2C_Bolivia%29_%2836936733575%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Monolito_Fraile_%28Tiwanaku%2C_Bolivia%29_%2836936733575%29.jpg",
+            "caption": "Monolito Fraile (Tiwanaku, Bolivia)",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Posnansky_Fig_10.png/300px-Posnansky_Fig_10.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Posnansky_Fig_10.png",
+            "caption": "Figura 10 del libro: Guía general ilustrada para la investigación de los monu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Arthur Posnansky",
+            "summary": "Viennese-born Bolivian explorer and writer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arthur_navy.jpg/250px-Arthur_navy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Posnansky"
+        },
+        {
+            "name": "Qiru",
+            "summary": "Ancient Andean drinking vessel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bolivia%2C_Cochabamba%28%3F%29%2C_Tiwanaku_style%2C_400-1000_-_Kero_%28Waisted_Cup%29_-_1963.476_-_Cleveland_Museum_of_Art.tif/lossy-page1-250px-Bolivia%2C_Cochabamba%28%3F%29%2C_Tiwanaku_style%2C_400-1000_-_Kero_%28Waisted_Cup%29_-_1963.476_-_Cleveland_Museum_of_Art.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qiru"
+        },
+        {
+            "name": "Looting",
+            "summary": "Indiscriminate taking of goods by force",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pluenderung_der_Judengasse_1614.png/250px-Pluenderung_der_Judengasse_1614.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Looting"
+        }
+    ],
+    "territory_geojson": null
+}

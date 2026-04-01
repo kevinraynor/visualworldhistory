@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1140,
+    "parent_id": 71,
+    "granularity": "detailed",
+    "content_hash": "sha256:69b3394cc654cdd18d5a8ba74f9b30d86f6c2b4503361e475e325c24ea751803",
+    "summary": "The Behistun Inscription (c. 520–518 BC) is a multilingual royal inscription carved into a cliff face at Mount Behistun in modern Iran by Darius the Great, recording his legitimation of power and military victories in three languages — Old Persian, Elamite, and Babylonian — and serving as the key that unlocked the decipherment of cuneiform writing in the 19th century.\n\nCarved at a height of over 100 meters in the cliff face of the main road between Mesopotamia and Iran, the inscription was designed to be visible to all travelers but practically impossible to reach and deface. The text describes Darius's accession to the Persian throne and his suppression of multiple revolts across the empire. Its significance to modern scholarship lies in its trilingual nature: when the British officer Henry Rawlinson copied and translated it in the 1830s–40s (at considerable personal risk), the Behistun Inscription played the same role for cuneiform decipherment that the Rosetta Stone ([[event:1047|Rosetta Stone Creation]]) had played for Egyptian hieroglyphics — providing the key to reading a lost script by comparison with known languages. Its decipherment opened the entire corpus of Mesopotamian literature, law, and history to modern scholars.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Behistun_Inscription",
+    "read_more_links": [
+        {
+            "title": "Henry Rawlinson",
+            "url": "https://en.wikipedia.org/wiki/Henry_Rawlinson_(archaeologist)"
+        },
+        {
+            "title": "Cuneiform decipherment",
+            "url": "https://en.wikipedia.org/wiki/Cuneiform#Decipherment"
+        },
+        {
+            "title": "Old Persian language",
+            "url": "https://en.wikipedia.org/wiki/Old_Persian"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/West_Asia_non_political_with_water_system.jpg/300px-West_Asia_non_political_with_water_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/West_Asia_non_political_with_water_system.jpg",
+            "caption": "West Asia non political with water system",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Behistun_Inscription_in_Persia_ca._520_BC-_UNESCO_World_Heritage_Site.jpg/300px-Behistun_Inscription_in_Persia_ca._520_BC-_UNESCO_World_Heritage_Site.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Behistun_Inscription_in_Persia_ca._520_BC-_UNESCO_World_Heritage_Site.jpg",
+            "caption": "Behistun Inscription (Bistoun / Bisotoun), dated ca. 520 BC, in Persia. -- Ph...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Heracles_Behistun_4000762965_10dbfce20a.jpg/300px-Heracles_Behistun_4000762965_10dbfce20a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Heracles_Behistun_4000762965_10dbfce20a.jpg",
+            "caption": "Detail of the Heracles rock relief at Behistun",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Behistun_relief_Darius_and_Gaumata.jpg/300px-Behistun_relief_Darius_and_Gaumata.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Behistun_relief_Darius_and_Gaumata.jpg",
+            "caption": "Behistun relief Darius and Gaumata",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Darius the Great",
+            "summary": "Persian ruler from 522 to 486 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Darius_I.jpg/250px-Darius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_the_Great"
+        },
+        {
+            "name": "Cambyses II",
+            "summary": "Ruler of the Achaemenid Empire from 530 to 522 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Stela_Cambyses_Apis_closeup.jpg/250px-Stela_Cambyses_Apis_closeup.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cambyses_II"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Sir Henry Rawlinson, 1st Baronet",
+            "summary": "British army officer, politician and Orientalist (1810–1895)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Henry_Rawlinson_%28crop%29.jpg/250px-Henry_Rawlinson_%28crop%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_Henry_Rawlinson%2C_1st_Baronet"
+        },
+        {
+            "name": "Claude Matthieu, Count Gardane",
+            "summary": "French general and diplomat (1766–1818)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gardane_pg293.jpg/250px-Gardane_pg293.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Matthieu%2C_Count_Gardane"
+        },
+        {
+            "name": "Robert Ker Porter",
+            "summary": "British artist, writer and diplomat",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Robert_Ker_Porter.jpg/250px-Robert_Ker_Porter.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Ker_Porter"
+        }
+    ],
+    "territory_geojson": null
+}

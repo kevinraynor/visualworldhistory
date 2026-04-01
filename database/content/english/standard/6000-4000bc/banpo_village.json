@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1525,
+    "parent_id": 36,
+    "granularity": "notable",
+    "content_hash": "sha256:db2d441d21457a91e0ef4e087e73d0bfb8d357921b8fab4dc6af4692d9758300",
+    "summary": "Banpo Village is one of the best-preserved and most thoroughly excavated Neolithic settlements in China, located on the eastern outskirts of present-day Xi'an in Shaanxi province. Occupied from approximately 4800 to 4000 BCE, Banpo was a substantial [[event:36|Yangshao culture]] community that provides detailed evidence of Neolithic village life in the Yellow River basin. The site was discovered in 1953 and became the first large-scale Neolithic excavation in the People's Republic of China, revealing over 45 house foundations, more than 200 storage pits, six pottery kilns, and nearly 250 graves.\n\nThe settlement was organized around a central open area, likely used for community activities, surrounded by residential structures arranged in clusters. Houses ranged from small single-room dwellings to larger structures that may have served communal functions. Most were semi-subterranean, with wooden post frameworks supporting wattle-and-daub walls, providing effective insulation against the region's cold winters. The entire settlement was enclosed by a substantial moat, approximately five to six meters wide, which served both defensive and drainage purposes and delineated the inhabited zone from associated cemetery and kiln areas.\n\nBanpo's economy was based primarily on cultivating foxtail millet and broomcorn millet, with evidence of pig, dog, and possibly chicken domestication providing supplementary protein. Fishing was clearly important, as fish iconography features prominently in the site's characteristic painted pottery. Storage pits, which substantially outnumber houses, point to the systematic management of agricultural surplus — a hallmark of communities with sufficiently organized social structures to plan for seasonal food variability.\n\nThe Banpo pottery tradition is particularly notable. Vessels were painted with bold red and black designs including geometric patterns, deer, and the famous fish-and-human-face motif — one of the most recognizable images of prehistoric China. This ceramic tradition reflects both artistic sophistication and the symbolic significance of fish in Yangshao cosmology, possibly connected to fertility or water worship. Archaeological analysis of the graves at Banpo suggests a relatively egalitarian society in its early phases, with most individuals buried with modest but broadly similar assemblages of grave goods.\n\nBanpo Village is now preserved as an open-air museum and serves as a major site for understanding the cultural and social organization of early farming communities in East Asia. Its evidence illuminates the deep roots of Chinese civilization in the agricultural traditions of the Yellow River basin, demonstrating that sophisticated community planning, craft production, and symbolic culture were well established in China more than six thousand years ago.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banpo",
+    "read_more_links": [
+        {
+            "title": "Yangshao culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yangshao_culture"
+        },
+        {
+            "title": "Banpo Museum - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/826/banpo/"
+        },
+        {
+            "title": "Neolithic China - Britannica",
+            "url": "https://www.britannica.com/place/China/The-Neolithic-period"
+        },
+        {
+            "title": "Yellow River Neolithic cultures",
+            "url": "https://en.wikipedia.org/wiki/Yellow_River#Neolithic_cultures"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Yangshao_Village_Diorama.jpg/300px-Yangshao_Village_Diorama.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yangshao_Village_Diorama.jpg",
+            "caption": "Yangshao Culture Museum, Yangshao Village, Henan, China. Complete indexed pho...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Banpo_motif.jpg/300px-Banpo_motif.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Banpo_motif.jpg",
+            "caption": "Banpo motif",
+            "attribution": "Wikimedia Commons, GFDL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Banpo_motif_%28B%26W%29.png/300px-Banpo_motif_%28B%26W%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Banpo_motif_%28B%26W%29.png",
+            "caption": "Banpo motif (B&W)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Banpo_bowl.jpg/300px-Banpo_bowl.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Banpo_bowl.jpg",
+            "caption": "Human faced fish decoration pottery bowl. Yangshao Culture, Banpo style (4800...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Friedrich Engels",
+            "summary": "German philosopher and socialist (1820–1895)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Friedrich_Engels_portrait_%28cropped%29.jpg/250px-Friedrich_Engels_portrait_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Friedrich_Engels"
+        }
+    ],
+    "territory_geojson": null
+}

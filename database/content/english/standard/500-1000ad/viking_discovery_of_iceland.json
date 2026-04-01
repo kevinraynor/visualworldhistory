@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2145,
+    "parent_id": 88,
+    "granularity": "notable",
+    "content_hash": "sha256:fd0941eee14cfbca0307da9c1413182b4bccc278201d795cc7c96c0ba11c69ef",
+    "summary": "The Viking discovery and settlement of Iceland (c. 870–930 AD) was one of the most significant European colonizations of the early medieval period — the establishment of the first permanent European state in the North Atlantic, which would develop a unique democratic tradition (the Althing, the world's oldest surviving parliament, founded 930 AD) and preserve an extraordinary literary heritage (the Eddas and Sagas). Norse explorers, following tales of an island in the northwestern ocean (possibly glimpsed by Irish monks who had sailed there earlier), landed on Iceland around 860–870 AD, and full-scale settlement began under Ingólfr Arnarson around 874 AD.\n\nThe settlement of Iceland was driven partly by population pressure in Norway and partly by political refugees fleeing Harald Fairhair's unification of Norway (those unwilling to submit to a king went west). Within 60 years (the 'Age of Settlement,' 874–930 AD), Iceland was substantially populated with an estimated 20,000–30,000 settlers and their thralls (slaves). The Althing — an annual outdoor assembly at Þingvellir where all free men gathered to settle disputes and make law — was established in 930 AD as the governing institution of this free-farmer republic. Iceland produced the Prose Edda (Snorri Sturluson) and the Family Sagas — prose narratives of the settlement period that are among the greatest medieval literary achievements, preserving detailed accounts of the Viking Age's people and values.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_Iceland",
+    "read_more_links": [
+        {
+            "title": "Althing oldest parliament",
+            "url": "https://en.wikipedia.org/wiki/Althing"
+        },
+        {
+            "title": "Icelandic Sagas literature",
+            "url": "https://en.wikipedia.org/wiki/Sagas_of_Icelanders"
+        },
+        {
+            "title": "Norse settlement Age of Settlement",
+            "url": "https://en.wikipedia.org/wiki/Settlement_of_Iceland"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Kbh_Hannes_Hafsteinn.jpg/300px-Kbh_Hannes_Hafsteinn.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kbh_Hannes_Hafsteinn.jpg",
+            "caption": "Image of Icelandic PM Hannes Hafsteinn",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1630_IJsland_Blaeu_HR%27.jpg/300px-1630_IJsland_Blaeu_HR%27.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/1630_IJsland_Blaeu_HR%27.jpg",
+            "caption": "Kaart van IJsland",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/The_Norwegians_land_in_Iceland_year_872.jpg/300px-The_Norwegians_land_in_Iceland_year_872.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_Norwegians_land_in_Iceland_year_872.jpg",
+            "caption": "The Norwegians land in Iceland year 872",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Reykjavik_-_Thor-Figur_1.jpg/300px-Reykjavik_-_Thor-Figur_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Reykjavik_-_Thor-Figur_1.jpg",
+            "caption": "National Museum of Iceland, Reykjavik. Figure of god Thor ( ca. 1000 AD ), ma...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vikings",
+            "summary": "Norse seafarers, merchants and raiders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg/250px-Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vikings"
+        },
+        {
+            "name": "Olaf Tryggvason",
+            "summary": "King of Norway from 995 to 1000",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Olav_Tryggvasson_mynt.jpg/250px-Olav_Tryggvasson_mynt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Olaf_Tryggvason"
+        },
+        {
+            "name": "Vigdís Finnbogadóttir",
+            "summary": "President of Iceland from 1980 to 1996",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vigdis_Finnbogadottir_%281985%29.jpg/250px-Vigdis_Finnbogadottir_%281985%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vigd%C3%ADs_Finnbogad%C3%B3ttir"
+        },
+        {
+            "name": "Pytheas",
+            "summary": "Ancient Greek geographer (born ca. 350 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Parisinus_gr_1397_f.162_pytheas_of_massalia_from_Strabo_7.3.1.jpg/250px-Parisinus_gr_1397_f.162_pytheas_of_massalia_from_Strabo_7.3.1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pytheas"
+        },
+        {
+            "name": "Harald Fairhair",
+            "summary": "Legendary first king of Norway",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flateyjarbok_Haraldr_Halfdan_2.jpg/250px-Flateyjarbok_Haraldr_Halfdan_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harald_Fairhair"
+        },
+        {
+            "name": "Telemark",
+            "summary": "County in Eastern Norway",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tinn_gaustatoppen_rjukan_IMG_0057.JPG/250px-Tinn_gaustatoppen_rjukan_IMG_0057.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Telemark"
+        }
+    ],
+    "territory_geojson": null
+}

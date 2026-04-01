@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2346,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:3cfcd8d655bff02ad912a8d295d3930c4a1dd640be486f33b38d37d528b64cfb",
+    "summary": "The Age of Enlightenment (c. 1685–1789 AD) was an intellectual and cultural movement centered in western Europe — especially France, Britain, and the German states — that championed reason, individual liberty, religious toleration, scientific inquiry, and constitutional government against the authority of tradition, monarchy, and revealed religion, producing the philosophical foundations of modern liberal democracy, secular governance, and human rights. Building on the [[event:104|Scientific Revolution's]] success in explaining natural phenomena through reason and observation, Enlightenment philosophers (philosophes) extended this method to human society, politics, economics, and ethics. John Locke's arguments for natural rights and government by consent, [[event:3264|Montesquieu's]] analysis of the separation of powers, [[event:2438|Voltaire's]] satirical attacks on religious intolerance, Rousseau's [[event:3263|social contract theory]], and [[event:2440|Adam Smith's]] analysis of market economics were not merely abstract philosophy but practical programs for reforming governments and societies.\n\nThe Enlightenment's institutional expression included the [[event:3262|salon culture]] of Paris (where philosophes gathered and debated), the [[event:2439|Encyclopédie]] (1751–1772) — Diderot and d'Alembert's 28-volume compendium of rational knowledge intended to transform how Europeans thought — and 'enlightened despots' like [[event:2386|Frederick the Great]], Catherine the Great, and Joseph II who implemented reforms (religious toleration, legal codification, education reform) while remaining absolute monarchs. The movement's political consequences were epoch-making: [[event:3291|Locke's]] ideas shaped the [[event:2350|Declaration of Independence]] and [[event:2396|American Constitution]]; Rousseau and the philosophes provided the vocabulary and intellectual justification for the [[event:107|French Revolution]]; and Enlightenment critiques of slavery contributed (alongside evangelical Christianity) to the abolition movement. Kant's definition — 'Enlightenment is man's emergence from his self-imposed immaturity' — captured its aspiration.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+    "read_more_links": [
+        {
+            "title": "Encyclopédie Diderot d'Alembert knowledge project",
+            "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die"
+        },
+        {
+            "title": "Enlightenment political philosophy Locke Rousseau Voltaire",
+            "url": "https://en.wikipedia.org/wiki/Political_philosophy#Enlightenment"
+        },
+        {
+            "title": "Enlightened despotism Frederick Catherine Joseph II",
+            "url": "https://en.wikipedia.org/wiki/Enlightened_absolutism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg/300px-Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
+            "caption": "Cover of the \"Encyclopédie, ou dictionnaire raisonné des sciences, des arts e...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pompeo_Marchesi_%281783.1858%29_Monumento_a_Cesare_Beccaria%2C_1837%2C_Milano.jpg/300px-Pompeo_Marchesi_%281783.1858%29_Monumento_a_Cesare_Beccaria%2C_1837%2C_Milano.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pompeo_Marchesi_%281783.1858%29_Monumento_a_Cesare_Beccaria%2C_1837%2C_Milano.jpg",
+            "caption": "Pompeo Marchesi (1783.1858) Monumento a Cesare Beccaria, 1837, Milano",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/S%C3%A9bastien_Leclerc_I%2C_Louis_XIV_Visiting_the_Royal_Academy_of_Sciences%2C_1671.jpg/300px-S%C3%A9bastien_Leclerc_I%2C_Louis_XIV_Visiting_the_Royal_Academy_of_Sciences%2C_1671.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/S%C3%A9bastien_Leclerc_I%2C_Louis_XIV_Visiting_the_Royal_Academy_of_Sciences%2C_1671.jpg",
+            "caption": "The Academy and Its Protectors. In the front are, from left to right, the\npri...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Oer-Weimarer_Musenhof.jpg/300px-Oer-Weimarer_Musenhof.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Oer-Weimarer_Musenhof.jpg",
+            "caption": "Der Weimarer Musenhof (1860); Schiller liest in Tiefurt",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Voltaire",
+            "summary": "French writer, historian, and philosopher (1694–1778)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-002.jpg/250px-Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Voltaire"
+        },
+        {
+            "name": "Anicet Charles Gabriel Lemonnier",
+            "summary": "French painter (1743–1824)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Longchamp102_Vincent_Lemonnier.jpg/250px-Longchamp102_Vincent_Lemonnier.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anicet_Charles_Gabriel_Lemonnier"
+        },
+        {
+            "name": "Jean-Baptiste-Louis Gresset",
+            "summary": "French poet and dramatist (1709–1777)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jean-Baptiste-Louis_Gresset.jpeg/250px-Jean-Baptiste-Louis_Gresset.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Baptiste-Louis_Gresset"
+        },
+        {
+            "name": "Pierre de Marivaux",
+            "summary": "French playwright and novelist (1688–1763)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pierre_de_Marivaux.jpeg/250px-Pierre_de_Marivaux.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_de_Marivaux"
+        },
+        {
+            "name": "Jean-François Marmontel",
+            "summary": "French historian and writer 1723–1799",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jean-Fran%C3%A7ois_Marmontel.jpg/250px-Jean-Fran%C3%A7ois_Marmontel.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Marmontel"
+        },
+        {
+            "name": "Joseph-Marie Vien",
+            "summary": "French painter (1716–1809)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/JMVien.jpg/250px-JMVien.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-Marie_Vien"
+        }
+    ],
+    "territory_geojson": null
+}

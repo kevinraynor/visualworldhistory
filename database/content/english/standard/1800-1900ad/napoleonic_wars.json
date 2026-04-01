@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 109,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:92196f9ae358c79dca9a548ce86c4d45a560e57f879635503ff8e0a1b863a561",
+    "summary": "The Napoleonic Wars were a series of major conflicts fought between 1803 and 1815 that pitted the French Empire under Napoleon Bonaparte against shifting coalitions of European powers. Emerging from the revolutionary turmoil that had convulsed France since 1789, these wars reshaped the political map of Europe and spread the ideals of the [[event:107|French Revolution]] — nationalism, legal equality, and the end of feudal privilege — across the continent and beyond.\n\nNapoleon's military genius manifested in a series of devastating campaigns that brought most of continental Europe under French dominance. His Grande Armée introduced new tactical doctrines — corps organization, rapid maneuver, the decisive battle of annihilation — that transformed warfare for generations. At its height, the French Empire directly controlled or strongly influenced territory from the Iberian Peninsula to the borders of Russia, reshaping kingdoms, deposing monarchs, and installing Napoleon's relatives on European thrones.\n\nThe wars produced some of the most celebrated and consequential battles in history. At [[event:2520|Austerlitz]] in 1805, Napoleon shattered the combined Austrian and Russian armies in what many consider his masterpiece. At [[event:2521|Trafalgar]] in the same year, however, Admiral Horatio Nelson's British fleet decisively defeated the Franco-Spanish navy, ensuring British maritime supremacy for a century and dashing Napoleon's hopes of invading England.\n\nThe turning point came with [[event:2524|Napoleon's catastrophic invasion of Russia]] in 1812, which destroyed the Grande Armée through a combination of Russian resistance, scorched-earth tactics, and the brutal winter. This disaster emboldened the European coalitions, and after a series of grueling campaigns across Germany and France, Napoleon was forced to abdicate and was exiled to Elba in 1814. His dramatic return during the Hundred Days ended permanently at [[event:2522|Waterloo]] in June 1815.\n\nThe wars' aftermath was shaped by the [[event:2523|Congress of Vienna]], which convened to redraw European borders and establish a conservative order designed to prevent future upheavals. The settlement created a balance-of-power system that, with adjustments, preserved European peace for nearly a century — though it could not suppress the nationalist and liberal movements that Napoleon's conquests had inadvertently nourished.\n\nThe Napoleonic Wars' legacy reaches far beyond Europe. The conflicts accelerated the collapse of Spanish colonial authority, triggering the [[event:2526|Latin American Independence Wars]] that swept the Americas between 1808 and 1833. The wars also gave rise to the [[event:2600|Napoleonic Code]], whose legal principles — equality before the law, property rights, secular civil authority — spread across Europe and its colonies and remain foundational to legal systems worldwide. Napoleon's career stands as one of history's most consequential, transforming both the art of war and the political order of the modern world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+    "read_more_links": [
+        {
+            "title": "Napoleon Bonaparte – Britannica",
+            "url": "https://www.britannica.com/biography/Napoleon-I"
+        },
+        {
+            "title": "The Napoleonic Wars: A Global History – Oxford Academic",
+            "url": "https://academic.oup.com/book/12483"
+        },
+        {
+            "title": "Congress of Vienna – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+        },
+        {
+            "title": "Napoleonic Code – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Napoleonic_Code"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg/300px-Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Antoine-Jean_Gros_-_Napoleon_on_the_Battlefield_of_Eylau_-_Google_Art_Project.jpg",
+            "caption": "Antoine-Jean Gros - Napoleon on the Battlefield of Eylau - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Duckworth%27s_Action_off_San_Domingo%2C_6_February_1806_RMG_BHC0571.tiff/300px-Duckworth%27s_Action_off_San_Domingo%2C_6_February_1806_RMG_BHC0571.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Duckworth%27s_Action_off_San_Domingo%2C_6_February_1806_RMG_BHC0571.tiff",
+            "caption": "Duckworth's Action off San Domingo, 6 February 1806\nFollowing Nelson's victor...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg/300px-Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Antoine-Jean_Gros_-_Capitulation_de_Madrid%2C_le_4_d%C3%A9cembre_1808.jpg",
+            "caption": "Antoine-Jean Gros - Capitulation de Madrid, le 4 décembre 1808",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Afanasij_Scheloumoff%2C_Battle_of_Mi%C5%A1ar.jpg/300px-Afanasij_Scheloumoff%2C_Battle_of_Mi%C5%A1ar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Afanasij_Scheloumoff%2C_Battle_of_Mi%C5%A1ar.jpg",
+            "caption": "Afanasij Scheloumoff, Battle of Mišar",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles XIV John",
+            "summary": "King of Sweden and Norway from 1818 to 1844",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png/250px-Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_XIV_John"
+        },
+        {
+            "name": "George III",
+            "summary": "King of Great Britain and Ireland from 1760 to 1820",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/250px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_III"
+        },
+        {
+            "name": "William Pitt the Younger",
+            "summary": "British statesman (1759–1806)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/OlderPittThe_Younger.jpg/250px-OlderPittThe_Younger.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Pitt_the_Younger"
+        },
+        {
+            "name": "Alexander I of Russia",
+            "summary": "Emperor of Russia from 1801 to 1825",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg/250px-Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia"
+        },
+        {
+            "name": "Frederick William III of Prussia",
+            "summary": "King of Prussia from 1797 to 1840",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Portrait_of_Frederick_William_III.jpg/250px-Portrait_of_Frederick_William_III.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_William_III_of_Prussia"
+        },
+        {
+            "name": "Ferdinand VII",
+            "summary": "King of Spain (1808, 1813–1833)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fernando_VII_-_Vicente_L%C3%B3pez.jpg/250px-Fernando_VII_-_Vicente_L%C3%B3pez.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_VII"
+        }
+    ],
+    "territory_geojson": null
+}

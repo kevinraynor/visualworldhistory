@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2424,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a5d1ef4e1a0a6eb9c959b48fa50c788e0c1ef0d1dd52fde09ac5bb64888edcaf",
+    "summary": "The Inca Civil War (1529–1532 AD) was a catastrophic succession conflict within the [[event:99|Inca Empire]] between the half-brothers Huascar (ruling from Cusco) and Atahualpa (ruling from Quito in the north), triggered by the unprecedented death without clear succession of the Emperor Huayna Capac — killed by a smallpox epidemic around 1527 that preceded the Spanish by years, along with his designated heir and tens of thousands of Inca nobles and soldiers — and whose timing directly enabled Francisco Pizarro's [[event:2320|conquest]] of the empire. The traditional Inca succession mechanism was not primogeniture but a combination of the deceased emperor's choice, performance, and factional politics among the panacas (royal lineages); Huayna Capac's dual rule of north and south created two power bases that supported competing claimants.\n\nThe war lasted approximately four years and was fought across the entire length of the empire. Atahualpa's northern armies, commanded by his brilliant generals Quizquiz and Chalcuchimac, ultimately proved superior to Huascar's forces; in 1532, Huascar was captured near Cusco, and Atahualpa — still receiving news of his triumph at the baths of Cajamarca in the north — was the empire's effective master. It was at this precise moment, with the empire shattered by civil war, its army exhausted, and half of its population dead from epidemic disease, that Pizarro arrived with 168 soldiers. The civil war had: eliminated most of the experienced military command; filled the empire with resentful populations of the defeated party; depleted treasury and supply reserves; and created a legitimacy crisis that made indigenous alliance with the Spanish seem advantageous to some Andean groups. The timing of Spanish arrival so closely following the epidemic and civil war made the [[event:2320|conquest]] possible at all.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_Civil_War",
+    "read_more_links": [
+        {
+            "title": "Huascar Atahualpa Inca succession conflict brothers",
+            "url": "https://en.wikipedia.org/wiki/Atahualpa"
+        },
+        {
+            "title": "Smallpox epidemic Huayna Capac death Inca weakness",
+            "url": "https://en.wikipedia.org/wiki/Inca_smallpox_epidemic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Machu_Picchu_Panorama_2025_%28cropped%29.jpg/300px-Machu_Picchu_Panorama_2025_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Machu_Picchu_Panorama_2025_%28cropped%29.jpg",
+            "caption": "View of Inca citadel of Machu Picchu",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png/300px-La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png",
+            "caption": "Oil painting depicts The Capture of Atahualpa in Cajamarca (Battle of Cajamar...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/John_Harris_Valda_-_Huscar_and_Atahualpa_fighting_over_the_Inca_Empire.jpg/300px-John_Harris_Valda_-_Huscar_and_Atahualpa_fighting_over_the_Inca_Empire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/John_Harris_Valda_-_Huscar_and_Atahualpa_fighting_over_the_Inca_Empire.jpg",
+            "caption": "John Harris Valda - Huscar and Atahualpa fighting over the Inca Empire",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Waskhar_portrait.jpg/300px-Waskhar_portrait.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Waskhar_portrait.jpg",
+            "caption": "Waskhar portrait",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Atahualpa",
+            "summary": "Last Inca Emperor (ruled 1532–1533)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png/250px-Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Atahualpa"
+        },
+        {
+            "name": "Chalcuchima",
+            "summary": "Inca general (died 1533)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Challco_Chima.jpg/250px-Challco_Chima.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chalcuchima"
+        },
+        {
+            "name": "Quizquiz",
+            "summary": "Inca general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hp_inka12.jpg/250px-Hp_inka12.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Quizquiz"
+        },
+        {
+            "name": "Rumiñawi (Inca warrior)",
+            "summary": "General during the Inca Civil War",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rumi%C3%B1ahui%2C_por_Jos%C3%A9_Y%C3%A9pez_A._%281925%29.jpg/250px-Rumi%C3%B1ahui%2C_por_Jos%C3%A9_Y%C3%A9pez_A._%281925%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rumi%C3%B1awi_%28Inca_warrior%29"
+        },
+        {
+            "name": "Sapa Inca",
+            "summary": "Emperor of the Inca Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aguas_Calientes.JPG/250px-Aguas_Calientes.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sapa_Inca"
+        },
+        {
+            "name": "Inca Garcilaso de la Vega",
+            "summary": "Writer, soldier, Spanish noble of Inca descent",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Inca_Garcilaso_1879.jpg/250px-Inca_Garcilaso_1879.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_Garcilaso_de_la_Vega"
+        }
+    ],
+    "territory_geojson": null
+}

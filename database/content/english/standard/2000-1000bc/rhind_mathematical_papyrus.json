@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1894,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5012321e713e6df0edd6999743bae9920fe1de291747c2ebe6aa595d5ccf1370",
+    "summary": "The Rhind Mathematical Papyrus, also known as the Ahmes Papyrus after its ancient copyist, dates to approximately 1650 BC and was copied from an earlier original of the Middle Kingdom period. It is the most comprehensive source for ancient Egyptian mathematics and was purchased in Luxor in 1858 by the Scottish antiquary Alexander Henry Rhind. The papyrus contains 87 mathematical problems and their solutions, covering arithmetic operations, fractions, geometry, algebra, and practical applications involving measurements of grain volumes and land areas.\n\nEgyptian mathematics as revealed by the Rhind Papyrus operated with a unit fraction system in which all fractions were expressed as sums of fractions with numerator one, along with the special fraction two-thirds. This system required scribes to use extensive tables for converting ordinary fractions into unit fraction form. The geometry sections demonstrate knowledge of areas of triangles, trapezoids, and circles, and include a value for pi of approximately 3.16, a respectable approximation for the era. There are also problems involving linear equations with a single unknown.\n\nThe Rhind Papyrus provides evidence that Egyptian mathematics, while primarily practical in orientation — focused on administrative and construction problems — was sophisticated and systematic. Alongside the [[event:1893|Ebers Papyrus]] it illustrates the high level of scribal and intellectual culture that supported [[event:60|New Kingdom Egypt]]. The papyrus is now divided between the British Museum in London and the Brooklyn Museum in New York. It remains one of the primary sources for the history of mathematics worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+    "read_more_links": [
+        {
+            "title": "Rhind Papyrus - Britannica",
+            "url": "https://www.britannica.com/topic/Rhind-papyrus"
+        },
+        {
+            "title": "Ancient Egyptian Mathematics",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_mathematics"
+        },
+        {
+            "title": "History of Mathematics",
+            "url": "https://en.wikipedia.org/wiki/History_of_mathematics"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rhind_Papyrus_Unit_Concordance.png/300px-Rhind_Papyrus_Unit_Concordance.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Rhind_Papyrus_Unit_Concordance.png",
+            "caption": "A table of concordance of ancient Egyptian units of measure which are used in...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rhind_Papyrus_Problem_81.png/300px-Rhind_Papyrus_Problem_81.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Rhind_Papyrus_Problem_81.png",
+            "caption": "Reproduction of Problem 81 of the Rhind Papyrus.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Rhind_Papyrus_Recto_and_Verso.png/300px-Rhind_Papyrus_Recto_and_Verso.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Rhind_Papyrus_Recto_and_Verso.png",
+            "caption": "Chace's exposition of the Rhind Papyrus includes a detailed illustration of t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Egyptian_A%27h-mos%C3%A8_or_Rhind_Papyrus_%281065x1330%29.png/300px-Egyptian_A%27h-mos%C3%A8_or_Rhind_Papyrus_%281065x1330%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Egyptian_A%27h-mos%C3%A8_or_Rhind_Papyrus_%281065x1330%29.png",
+            "caption": "Egyptian A'h-mosè (the Rhind Papyrus)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Khamudi",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cylinder_Khondy_Petrie.jpg/250px-Cylinder_Khondy_Petrie.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Khamudi"
+        },
+        {
+            "name": "Ahmose I",
+            "summary": "Pharaoh of Ancient Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Head_of_Ahmose_I_MET_DP140854.jpg/250px-Head_of_Ahmose_I_MET_DP140854.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmose_I"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Amenemhat III",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amenemhet_III%2C_basalto%2C_seconda_met%C3%A0_del_XIX_sec._ac._01_%28cropped%29.JPG/250px-Amenemhet_III%2C_basalto%2C_seconda_met%C3%A0_del_XIX_sec._ac._01_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amenemhat_III"
+        },
+        {
+            "name": "Princeton University Press",
+            "summary": "Independent publisher associated with Princeton University",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Princeton_University_Press_logo.svg/250px-Princeton_University_Press_logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princeton_University_Press"
+        },
+        {
+            "name": "Primary source",
+            "summary": "First-hand account of information",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pompeii-couple.jpg/250px-Pompeii-couple.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Primary_source"
+        }
+    ],
+    "territory_geojson": null
+}

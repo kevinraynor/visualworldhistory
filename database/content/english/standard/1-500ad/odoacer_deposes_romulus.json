@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2861,
+    "parent_id": 85,
+    "granularity": "notable",
+    "content_hash": "sha256:135f76f4989f5299e5282d02ab6efc1c502f79ddf96fcf461ad9464c0adaebfe",
+    "summary": "The deposition of Romulus Augustulus by Odoacer (476 AD) is conventionally dated as the [[event:85|fall of the Western Roman Empire]] — the moment when the last emperor claiming to rule the western half of the Roman world was overthrown by a Germanic chieftain who declined to appoint a successor, instead sending the imperial regalia to the Eastern Emperor in Constantinople with a message that one emperor sufficed for the whole empire. Romulus Augustulus (his name combining Rome's legendary founder with the diminutive '-ulus,' suggesting his contemporaries viewed him as a 'little Augustus') was actually a usurper of dubious legitimacy, installed by his father Orestes; the Eastern Empire never recognized him.\n\nOdoacer was a Germanic military commander (of mixed Scirian/Hunnic heritage) who led the mercenary troops of the Western Roman army in a mutiny demanding land grants, defeated Orestes, and captured Ravenna. He ruled Italy for seventeen years as king — maintaining Roman administrative structures, Latin law, and the Senate — until [[event:2040|Theoderic the Ostrogoth]] invaded at Constantinople's instigation in 489 AD and killed Odoacer in 493 AD. The 'fall' of 476 AD was recognized as significant mainly in hindsight; contemporaries saw it as one more coup in a long series. The Eastern Roman Empire (Byzantine Empire) continued for another 977 years, and modern historians debate whether 476 is the most meaningful date for the 'end' of Rome.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
+    "read_more_links": [
+        {
+            "title": "Odoacer king Italy",
+            "url": "https://en.wikipedia.org/wiki/Odoacer"
+        },
+        {
+            "title": "476 as historical turning point debate",
+            "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire#Modern_analysis"
+        },
+        {
+            "title": "Orestes father Romulus",
+            "url": "https://en.wikipedia.org/wiki/Orestes_(general)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg/300px-Gold_Solidus_of_Romulus_Augustulus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg",
+            "caption": "D N ROMVLVS A-GVSTVS P F AVG",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Napoli-casteldell%27ovo02.jpg/300px-Napoli-casteldell%27ovo02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Napoli-casteldell%27ovo02.jpg",
+            "caption": "Napoli, Italia8967_castell-delovo",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Pannonia_SPQR.png/300px-Pannonia_SPQR.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Pannonia_SPQR.png",
+            "caption": "Map of the Roman Empire during 116, the province Pannonia highlighted.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Julius_Nepos_RIC_X_3242_%28obverse%29.jpg/300px-Julius_Nepos_RIC_X_3242_%28obverse%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Julius_Nepos_RIC_X_3242_%28obverse%29.jpg",
+            "caption": "Julius Nepos. AD 474-475/480. AV Tremissis (13mm, 1.44 g, 6h). Mediolanum (Mi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Julius Nepos",
+            "summary": "Western Roman emperor from 474 to 480",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Solidus_of_Julius_Nepos.png/250px-Solidus_of_Julius_Nepos.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Nepos"
+        },
+        {
+            "name": "Odoacer",
+            "summary": "Ruler of Italy (c. 433 – 493)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png/250px-Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Odoacer"
+        },
+        {
+            "name": "Zeno (emperor)",
+            "summary": "Eastern Roman emperor (474–475; 476–491)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Solidus_of_Roman_emperor_Zeno.jpg/250px-Solidus_of_Roman_emperor_Zeno.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeno_%28emperor%29"
+        },
+        {
+            "name": "Severinus of Noricum",
+            "summary": "Italian Roman Catholic saint",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Severin_von_Noricum_%28um_1470%29.jpg/250px-Severin_von_Noricum_%28um_1470%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Severinus_of_Noricum"
+        },
+        {
+            "name": "Theodoric the Great",
+            "summary": "King of Italy from 493 to 526",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Teodorico_re_dei_Goti_%28493-526%29.png/250px-Teodorico_re_dei_Goti_%28493-526%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodoric_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

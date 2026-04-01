@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3333,
+    "parent_id": 2648,
+    "granularity": "notable",
+    "content_hash": "sha256:d3e60e42a2483c83a16107c272335ac32d300413323fa94d992d7d3e3ab03ef1",
+    "summary": "The Holodomor was a man-made famine that killed millions of people in Soviet Ukraine between 1932 and 1933, caused by the Soviet state's forced collectivization campaign and deliberate policies of grain requisitioning that left the Ukrainian peasantry without adequate food. The word Holodomor combines the Ukrainian words for hunger and extermination. Estimates of deaths range from 3.5 million to over 7 million, with 3.5–5 million now the most widely accepted scholarly range.\n\nThe famine resulted from a combination of policies: Stalin's collectivization drive forced peasants into collective farms and subjected them to grain procurement quotas that stripped communities of all food. When Ukrainian villages failed to meet quotas, they were placed on blacklists that cut them off from receiving any food supplies or goods from outside. The internal passport system prevented peasants from leaving their villages to seek food in cities. The Ukrainian Communist Party leadership that raised concerns about the famine was purged.\n\nThe question of whether the Holodomor constitutes genocide remains contested. Proponents argue that the policies specifically targeted Ukraine and Ukrainians as a nation, pointing to the disproportionate impact on Ukraine compared to other Soviet regions and to simultaneous repressions against Ukrainian cultural and political life. Others argue the famine resulted primarily from the general catastrophe of collectivization rather than an intent to destroy Ukrainians specifically. Ukraine, Canada, the United States, and numerous other countries officially recognize the Holodomor as genocide. Russia denies the genocide characterization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Holodomor",
+    "read_more_links": [
+        {
+            "title": "Holodomor - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Holodomor"
+        },
+        {
+            "title": "Soviet Famine 1930-33 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Soviet_famine_of_1930%E2%80%9333"
+        },
+        {
+            "title": "Collectivization in USSR - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Collectivization_in_the_Soviet_Union"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Edmonton_Holodomor_Memorial_2020.jpg/300px-Edmonton_Holodomor_Memorial_2020.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Edmonton_Holodomor_Memorial_2020.jpg",
+            "caption": "The Edmonton Holodomor Memorial in 2020",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/6_aug_top_daily_express_Holodomor_Genocide.jpg/300px-6_aug_top_daily_express_Holodomor_Genocide.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/6_aug_top_daily_express_Holodomor_Genocide.jpg",
+            "caption": "Daily Express pictures on Holodomor genocide by forced starvation of six mill...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/15th_anniversary_of_Holodomor_-_postcard.jpg/300px-15th_anniversary_of_Holodomor_-_postcard.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/15th_anniversary_of_Holodomor_-_postcard.jpg",
+            "caption": "\"1933. 15th anniversary. 8.000.000 victims of hunger in Ukraine\". A postcard ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dmitry_Medvedev_in_Kyiv_-_17_May_2010.jpeg/300px-Dmitry_Medvedev_in_Kyiv_-_17_May_2010.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dmitry_Medvedev_in_Kyiv_-_17_May_2010.jpeg",
+            "caption": "Dmitry Medvedev and Viktor Yanukovych honoured the memory of victims of the f...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "First five-year plan (Soviet Union)",
+            "summary": "Economic policy of the Soviet Union from 1928 to 1932",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1931._%D0%90%D0%B3%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8.jpg/250px-1931._%D0%90%D0%B3%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/First_five-year_plan_%28Soviet_Union%29"
+        },
+        {
+            "name": "Joseph Stalin",
+            "summary": "Leader of the Soviet Union from 1924 to 1953",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg/250px-Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Stalin"
+        },
+        {
+            "name": "Mikhail Gorbachev",
+            "summary": "Leader of the Soviet Union from 1985 to 1991",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/250px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+        },
+        {
+            "name": "Leon Trotsky",
+            "summary": "Soviet politician and revolutionary (1879–1940)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/250px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Trotsky"
+        }
+    ],
+    "territory_geojson": null
+}

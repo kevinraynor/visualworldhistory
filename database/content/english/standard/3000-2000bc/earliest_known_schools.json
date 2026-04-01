@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1737,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ab7c9cd27a31faceb0aff10b0e301abd496de3773ed62d01fb5f0db626c2047b",
+    "summary": "The earliest known formal schools, called edubba (meaning 'tablet house') in Sumerian, emerged in Mesopotamia around 2600–2400 BC in connection with the need to train scribes for the rapidly expanding administrative apparatus of the Sumerian city-states. As written records became essential to managing temple economies, distributing goods, recording legal transactions, and composing royal inscriptions, a new professional class of scribes became necessary, and institutions for training them in the complex cuneiform writing system developed accordingly.\n\nThe edubba was both a school and a training facility. Students learned by copying standard texts — vocabulary lists, mathematical tables, model contracts, and literary compositions — repeatedly until they achieved proficiency. The curriculum was demanding and the training period long, reflecting the complexity of cuneiform, which required mastery of hundreds of distinct signs with multiple phonetic and logographic values. Texts known as 'edubba literature' provide vivid, often humorous descriptions of school life, including the difficulties of demanding teachers, the punishments for lateness or poor work, and the social prestige awaiting a successfully trained scribe.\n\nThe emergence of formal scribal education was one of the most consequential developments in ancient history, because it created an institution dedicated to the transmission and preservation of knowledge across generations. The edubba curriculum preserved older literary texts, including early versions of the [[event:1728|Epic of Gilgamesh]], mathematical and astronomical observations, and hymns to the gods. In this sense, the Mesopotamian school was among the earliest institutions of higher learning and contributed directly to the preservation of Sumerian civilisation's intellectual heritage.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eduba",
+    "read_more_links": [
+        {
+            "title": "Cuneiform",
+            "url": "https://en.wikipedia.org/wiki/Cuneiform"
+        },
+        {
+            "title": "History of education",
+            "url": "https://en.wikipedia.org/wiki/History_of_education"
+        },
+        {
+            "title": "Scribe in ancient Mesopotamia",
+            "url": "https://en.wikipedia.org/wiki/Scribe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Assyrian_scribes.jpg/300px-Assyrian_scribes.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Assyrian_scribes.jpg",
+            "caption": "Assyrian scribes.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Samsu-iluna",
+            "summary": "King of Babylon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Record_of_the_sale_of_land_in_the_reign_of_Samsu-Iluna.jpg/250px-Record_of_the_sale_of_land_in_the_reign_of_Samsu-Iluna.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samsu-iluna"
+        }
+    ],
+    "territory_geojson": null
+}

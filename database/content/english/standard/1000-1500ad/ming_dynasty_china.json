@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 100,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:07fbe11f5e30104f187aee411176d33167735f9bcb561efd907e1244dcde77c1",
+    "summary": "The Ming Dynasty (1368–1644 AD) was one of the most stable and longest-lived dynasties in Chinese history, founded by the peasant rebel Zhu Yuanzhang (the Hongwu Emperor) who expelled the Mongol [[event:2229|Yuan Dynasty]] and restored Han Chinese rule after nearly a century of Mongol domination. The Ming represented a conscious effort to restore classical Chinese governance and culture — the civil service examination system was expanded, Confucian orthodoxy enforced, and an elaborate court ritual and imperial bureaucracy developed that defined the model of Chinese imperial governance.\n\nThe early Ming period produced several of the most iconic achievements in Chinese history. The construction of the [[event:2246|Forbidden City]] in Beijing (1406–1420) created the world's largest palace complex, a monument to imperial power and cosmic order. The [[event:2247|Zheng He voyages]] (1405–1433) sent enormous treasure fleets to Southeast Asia, India, Arabia, and East Africa in a demonstration of Chinese naval power unprecedented in world history — a project the Ming subsequently abandoned in a famous policy reversal that left the Indian Ocean's maritime networks to Portuguese and Arab traders. The Great Wall of China was rebuilt and extended to its current form primarily during the Ming period. Chinese population, commerce, and agricultural production recovered and expanded significantly after Mongol-era disruption, and Ming China was probably the world's largest economy for most of the dynasty's existence.\n\nThe dynasty's later centuries were marked by growing fiscal crisis, eunuch factionalism at court, peasant rebellions driven by famine and taxation, and increasing military pressure from the Manchu people to the northeast. The dynasty fell in 1644 when the peasant rebel Li Zicheng captured Beijing and the last Ming emperor hanged himself — whereupon Manchu forces, invited in by Chinese generals to restore order, instead established their own Qing Dynasty.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ming_dynasty",
+    "read_more_links": [
+        {
+            "title": "Zhu Yuanzhang Hongwu Emperor Ming founder",
+            "url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+        },
+        {
+            "title": "Ming Dynasty economy population agriculture",
+            "url": "https://en.wikipedia.org/wiki/Ming_dynasty#Economy"
+        },
+        {
+            "title": "Ming Dynasty collapse 1644 Qing",
+            "url": "https://en.wikipedia.org/wiki/Ming_dynasty#Fall"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/300px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+            "caption": "Seated portrait of Emperor Ming Chengzu",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Palace_of_Heavenly_Purity_%2820220218132818%29.jpg/300px-Palace_of_Heavenly_Purity_%2820220218132818%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Palace_of_Heavenly_Purity_%2820220218132818%29.jpg",
+            "caption": "Qianqing Palace, where the famous \"Zheng Da Guang Ming\" plaque is located.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Detail_of_The_Emperor%27s_Approach%2C_Xuande_period.jpg/300px-Detail_of_The_Emperor%27s_Approach%2C_Xuande_period.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Detail_of_The_Emperor%27s_Approach%2C_Xuande_period.jpg",
+            "caption": "​明人畫出警圖",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg/300px-A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/A_Seated_Portrait_of_Ming_Emperor_Taizu.jpg",
+            "caption": "This painting depicts Zhu Yuanzhang (朱元璋), Emperor Taizu of the Ming dynasty ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hongwu Emperor",
+            "summary": "Emperor of China from 1368 to 1398",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+        },
+        {
+            "name": "Yongle Emperor",
+            "summary": "Emperor of China from 1402 to 1424",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yongle_Emperor"
+        },
+        {
+            "name": "Wanli Emperor",
+            "summary": "Emperor of China from 1572 to 1620",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MingShenzong1.jpg/250px-MingShenzong1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wanli_Emperor"
+        },
+        {
+            "name": "Wen Zhengming",
+            "summary": "Chinese painter, calligrapher, and poet (1470–1559)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Portrait_of_Wen_Zhengming.jpg/250px-Portrait_of_Wen_Zhengming.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wen_Zhengming"
+        },
+        {
+            "name": "Li Zicheng",
+            "summary": "Chinese rebel leader (1606–1645)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%E6%9D%8E%E8%87%AA%E6%88%90%E8%A1%8C%E5%AE%AB_%28cropped%29.png/250px-%E6%9D%8E%E8%87%AA%E6%88%90%E8%A1%8C%E5%AE%AB_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Li_Zicheng"
+        },
+        {
+            "name": "Zheng He",
+            "summary": "Chinese mariner and diplomat (1371–1433/1435)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/250px-2016_Malakka%2C_Stadhuys_%2809%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zheng_He"
+        }
+    ],
+    "territory_geojson": null
+}

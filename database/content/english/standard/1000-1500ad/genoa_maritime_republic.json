@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3528,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e49033d4f28f239b8493f8c2f0f753629dad204e2b38d41220c56709c2910028",
+    "summary": "The Republic of Genoa (c. 1100–1797 AD) was a powerful Italian maritime city-state and trading empire whose merchants, bankers, and sailors dominated significant portions of Mediterranean and Black Sea commerce during the medieval and early modern periods, rivaling Venice for control of lucrative trade routes connecting Europe to the East. Founded on a natural harbor on the Ligurian coast, Genoa developed an aggressive commercial culture built on privately financed trading ventures (using the commenda partnership system — an early form of joint-stock investment) rather than state-organized fleets, giving Genoese merchants unusual entrepreneurial flexibility. Genoese colonies and trading posts stretched from the Crimea (Caffa, Soldaia) to the Levant (Acre, Tyre), to North Africa and the Iberian Peninsula, creating a commercial network that channeled Black Sea goods — including, fatefully, the plague-infected rats aboard Genoese ships from Caffa that helped spread the [[event:95|Black Death]] to Europe in 1347.\n\nGenoa's rivalry with Venice was one of medieval history's great commercial contests, fought through four major wars (the last, the War of Chioggia, 1378–1381, ended in Venetian victory) and constant commercial competition. Genoese banking evolved into one of Europe's most sophisticated financial systems: the Casa di San Giorgio (Bank of Saint George), founded in 1407, was one of the world's earliest public banks and became effectively a state within a state, managing Genoa's public debt, tax collection, and colonial administration. Genoese navigators and cartographers made crucial contributions to the Age of Exploration: the most famous Genoese sailor, Christopher Columbus, was funded by Spanish patrons when his own city refused his proposals, yet his transoceanic ambitions reflected the Genoese maritime tradition. Genoa's financial techniques — public debt instruments, letters of credit, maritime insurance — profoundly influenced the development of European capitalism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+    "read_more_links": [
+        {
+            "title": "Genoese colonies Black Sea Crimea trade",
+            "url": "https://en.wikipedia.org/wiki/Genoese_colonies"
+        },
+        {
+            "title": "Casa di San Giorgio early banking Genoa",
+            "url": "https://en.wikipedia.org/wiki/Casa_di_San_Giorgio"
+        },
+        {
+            "title": "Genoese commercial commenda partnership investment",
+            "url": "https://en.wikipedia.org/wiki/Commenda"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Italy_in_1499.png/300px-Italy_in_1499.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Italy_in_1499.png",
+            "caption": "A map that details the polities of the Italian Peninsula before the turn of t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Istanbul_Galata_%2854527446009%29.jpg/300px-Istanbul_Galata_%2854527446009%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Istanbul_Galata_%2854527446009%29.jpg",
+            "caption": "Istanbul (Turkey)",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Battle_of_Bassignana_1745.tiff/300px-Battle_of_Bassignana_1745.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Battle_of_Bassignana_1745.tiff",
+            "caption": "Italy. Genoa, 1685-1800",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SiegeofAntioch.jpeg/300px-SiegeofAntioch.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/SiegeofAntioch.jpeg",
+            "caption": "Detail of a medieval miniature of the Siege of Antioch from Sébastien Mamerot...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Doge of Genoa",
+            "summary": "Ruler of the Republic of Genoa",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Coat_of_arms_of_Republic_of_Genoa.svg/250px-Coat_of_arms_of_Republic_of_Genoa.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Doge_of_Genoa"
+        },
+        {
+            "name": "Napoleon",
+            "summary": "French general and emperor (1769–1821)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon"
+        },
+        {
+            "name": "Petrarch",
+            "summary": "Italian scholar and poet (1304–1374)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg/250px-Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Petrarch"
+        },
+        {
+            "name": "Rothari",
+            "summary": "King of the Lombards from 636 to 652",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Lombard_King_Rothari_%28or_Rotari%29_%28died_652%29_of_the_manuscript_%28ms._4%29_Codex_Legum_Longobardorum.png/250px-The_Lombard_King_Rothari_%28or_Rotari%29_%28died_652%29_of_the_manuscript_%28ms._4%29_Codex_Legum_Longobardorum.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rothari"
+        },
+        {
+            "name": "Berengar II of Italy",
+            "summary": "King of Italy from 950 to 961",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Otto_I_Manuscriptum_Mediolanense_c_1200.jpg/250px-Otto_I_Manuscriptum_Mediolanense_c_1200.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Berengar_II_of_Italy"
+        },
+        {
+            "name": "Pope Victor III",
+            "summary": "Head of the Catholic Church from 1086 to 1087",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Victor_III._-_Desiderius_of_Montecassino.jpg/250px-Victor_III._-_Desiderius_of_Montecassino.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Victor_III"
+        }
+    ],
+    "territory_geojson": null
+}

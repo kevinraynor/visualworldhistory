@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1082,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:4547bb00ffa67c336e2ec0964a2c5c01757d61c9bbb3058caeaab79b790eab11",
+    "summary": "The Battle of Actium (September 2, 31 BC) was the decisive naval engagement between Octavian's fleet, commanded by Marcus Agrippa, and the combined fleet of Mark Antony and [[event:1048|Cleopatra VII]] of Egypt, fought off the western coast of Greece near the promontory of Actium. Octavian's victory ended the last challenge to his supremacy over Rome and allowed him to establish the [[event:81|Roman Empire]] as its first emperor, [[event:1083|Augustus - First Roman Emperor]].\n\nAntony and Cleopatra had mustered a large fleet in the Gulf of Actium but found themselves blockaded and their army suffering from disease and desertions as Agrippa's superior naval forces controlled surrounding waters and supply lines. Their strategic situation was deteriorating when they chose to fight. The battle itself was tactically inconclusive — Agrippa's fleet engaged but did not immediately overwhelm Antony's — until Cleopatra's squadron broke through the battle line and sailed away, apparently implementing a prearranged escape plan. Antony abandoned his fleet and followed her to Egypt.\n\nWith Antony gone, his fleet surrendered and his land army shortly after. Octavian pursued to Egypt; Antony and Cleopatra each committed suicide rather than be captured. Egypt and its enormous wealth fell to Octavian, giving him the resources to pay off his veterans and stabilize his new order. Actium is conventionally dated as the end of the Roman Republic and the beginning of the [[event:80|Hellenistic Period]]'s successor era — Rome's imperial age.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Actium",
+    "read_more_links": [
+        {
+            "title": "Mark Antony",
+            "url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "title": "Marcus Agrippa",
+            "url": "https://en.wikipedia.org/wiki/Marcus_Agrippa"
+        },
+        {
+            "title": "Augustus",
+            "url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "title": "Cleopatra",
+            "url": "https://en.wikipedia.org/wiki/Cleopatra"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/IAN_0212_d_Anville_1734_Battle_of_Actium.jpg/300px-IAN_0212_d_Anville_1734_Battle_of_Actium.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/IAN_0212_d_Anville_1734_Battle_of_Actium.jpg",
+            "caption": "Plan of the battle of Actium. Copper engraving by Jean Baptiste Bourguignon d...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Octavian%27s_campsite_memorial_at_Actium_02.jpg/300px-Octavian%27s_campsite_memorial_at_Actium_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Octavian%27s_campsite_memorial_at_Actium_02.jpg",
+            "caption": "Nikopolis, Epeiros. Victory monument for the battle of Actium (Octavian's cam...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Actium_Cameo.jpg/300px-Actium_Cameo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Actium_Cameo.jpg",
+            "caption": "The Actium Cameo depicts Octavian riding a chariot pulled by four mermen. The...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Medinaceli_Actium_reliefs_06.jpg/300px-Medinaceli_Actium_reliefs_06.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Medinaceli_Actium_reliefs_06.jpg",
+            "caption": "Roman marble relief depicting the naval battle at Actium. \n\nFrom an early Imp...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Gaius Sosius",
+            "summary": "1st-century BC Roman general and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gaius_Sosius.jpg/250px-Gaius_Sosius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Sosius"
+        },
+        {
+            "name": "Cleopatra",
+            "summary": "Pharaoh of Egypt from 51 to 30 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/250px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Marcus Vipsanius Agrippa",
+            "summary": "Roman general and statesman (c. 63–12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agrippa_Gabii_Louvre_Ma1208.jpg/250px-Agrippa_Gabii_Louvre_Ma1208.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa"
+        },
+        {
+            "name": "Lepidus",
+            "summary": "Roman politician and general (89–13/12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg/250px-Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lepidus"
+        }
+    ],
+    "territory_geojson": null
+}

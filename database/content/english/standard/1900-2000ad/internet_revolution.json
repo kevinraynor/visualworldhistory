@@ -1,0 +1,70 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2692,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:3a086760934cb5042682c6aa15e463fe41c97998411bb7ec4edc78632705b802",
+    "summary": "The Internet Revolution refers to the rapid global adoption of the Internet and its transformative impact on communication, commerce, culture, and society from the early 1990s through the end of the century. While the technological foundations of the Internet had been laid by ARPANET (established 1969) and developed over two decades, it was Tim Berners-Lee's invention of the [[event:2693|World Wide Web]] in 1989-91 that made the Internet accessible to ordinary users. The number of Internet users grew from approximately 4 million in 1991 to over 400 million by 2000, with profound consequences that continued to unfold in the following decades.\n\nThe commercialization of the Internet accelerated dramatically after 1993 with the introduction of the Mosaic web browser, which made navigating the Web intuitive even for non-technical users. Netscape's 1994 browser and its public offering in 1995 triggered a wave of dot-com investment and entrepreneurship. Companies including [[event:3688|Amazon]] (1994), [[event:3687|Google]] (1998), and Yahoo (1995) were founded during this period, fundamentally altering retail, search, and information access. The NASDAQ stock index's explosion from the mid-1990s reflected investor enthusiasm that eventually produced the [[event:3377|dot-com bubble]] whose collapse in 2000-2001 ended the decade's speculative frenzy.\n\nEmail transformed business and personal communication, enabling instantaneous written correspondence across any distance at negligible cost. The World Wide Web made information on virtually any topic available to anyone with an Internet connection. Online commerce began disrupting traditional retail. The Internet's decentralized architecture, by design impossible to censor or control at a central point, created both unprecedented freedom of expression and new challenges for law enforcement, privacy, and intellectual property.\n\nThe Internet also had profound political effects. It accelerated the globalization of information and ideas, contributing to the spread of democracy movements and making it harder for authoritarian governments to control their populations' access to outside information. Conversely, it created new vectors for propaganda, disinformation, and surveillance. The gap between connected and unconnected populations — the digital divide — created new dimensions of global inequality.\n\nThe Internet Revolution also transformed the economy's structure. Traditional media — newspapers, television, music recording — faced existential challenges from digital distribution. Geographic barriers to commerce collapsed. New industries in software, online services, and digital media grew to enormous scale. The Silicon Valley model of technology entrepreneurship became a global template for economic development. The transformation wrought by the Internet in the 1990s proved to be just the first wave of a longer digital revolution that would continue reshaping civilization in the twenty-first century through social media, smartphones, and artificial intelligence.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Internet",
+    "read_more_links": [
+        {
+            "title": "History of the Internet – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
+        },
+        {
+            "title": "Internet – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/Internet"
+        },
+        {
+            "title": "World Wide Web – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+        },
+        {
+            "title": "Dot-com Bubble – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dot-com_bubble"
+        },
+        {
+            "title": "Tim Berners-Lee – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Share_of_individuals_using_the_internet.png/300px-Share_of_individuals_using_the_internet.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Share_of_individuals_using_the_internet.png",
+            "caption": "Share of the population using the Internet",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_sketch_of_the_ARPANET_in_December_1969.png/300px-A_sketch_of_the_ARPANET_in_December_1969.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/A_sketch_of_the_ARPANET_in_December_1969.png",
+            "caption": "A sketch of the ARPANET in December 1969. The nodes at UCLA and the Stanford ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thai-coup-detat-2014-social-media-banner.jpg/300px-Thai-coup-detat-2014-social-media-banner.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Thai-coup-detat-2014-social-media-banner.jpg",
+            "caption": "Banner instructing residents not to 'like' or 'share' non-mainstream views (t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "J. C. R. Licklider",
+            "summary": "American psychologist and computer scientist (1915-1990)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/J._C._R._Licklider.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J._C._R._Licklider"
+        }
+    ],
+    "territory_geojson": null
+}

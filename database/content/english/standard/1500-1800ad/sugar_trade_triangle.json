@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2485,
+    "parent_id": 2341,
+    "granularity": "detailed",
+    "content_hash": "sha256:722beec2f80136d1a60072ca7321461f0a98782f2421ebe04f5203648deccd0b",
+    "summary": "The Triangular Trade (c. 1600–1800 AD) was the multi-directional commercial system that connected Europe, West Africa, and the Americas in an interdependent economic network structured around the [[event:2341|Atlantic slave trade]]. In its classic formulation, European ships carried manufactured goods (textiles, firearms, alcohol, metal goods) to West Africa, exchanged them for enslaved people, transported the enslaved across the Middle Passage to the Americas, and returned to Europe with colonial commodities (sugar, tobacco, cotton, rum, indigo). In reality, the trade was more complex than a simple triangle — ships often made multiple stops, goods moved in many directions, and the 'triangle' was an economic structure more than a literal shipping route — but the core dynamic of African enslaved labor producing American commodities for European consumption was real.\n\nThe sugar trade was particularly central. European demand for sweetened foods and beverages — tea, coffee, and chocolate all consumed with sugar — grew explosively in the 17th and 18th centuries. Sugar was so profitable that Caribbean islands entirely subordinated their economies to its production: Jamaica, Barbados, and Saint-Domingue were essentially giant sugar factories, importing virtually all food for enslaved populations. The financial systems, insurance markets, and trading houses that facilitated the triangular trade created the commercial infrastructure of early capitalism — Lloyds of London, Barclays Bank, and other major institutions had roots in slave trade financing. Historians have debated the extent to which this trade specifically funded the [[event:108|Industrial Revolution]], with Eric Williams's influential 1944 thesis arguing for a direct connection that subsequent research has both refined and contested.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade#Triangular_trade",
+    "read_more_links": [
+        {
+            "title": "Middle Passage conditions Atlantic crossing enslaved Africans",
+            "url": "https://en.wikipedia.org/wiki/Middle_Passage"
+        },
+        {
+            "title": "Sugar trade Caribbean British colonial economy plantation",
+            "url": "https://en.wikipedia.org/wiki/History_of_sugar"
+        },
+        {
+            "title": "Eric Williams Capitalism Slavery thesis industrial revolution",
+            "url": "https://en.wikipedia.org/wiki/Capitalism_%26_Slavery"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Agostino_Brunias_-_A_Linen_Market_with_a_Linen-stall_and_Vegetable_Seller_in_the_West_Indies_-_Google_Art_Project.jpg/300px-Agostino_Brunias_-_A_Linen_Market_with_a_Linen-stall_and_Vegetable_Seller_in_the_West_Indies_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Agostino_Brunias_-_A_Linen_Market_with_a_Linen-stall_and_Vegetable_Seller_in_the_West_Indies_-_Google_Art_Project.jpg",
+            "caption": "Agostino Brunias - A Linen Market with a Linen-stall and Vegetable Seller in the West Indies - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Punishing_negroes_at_Cathabouco%2C_Rio_de_Janeiro.png/300px-Punishing_negroes_at_Cathabouco%2C_Rio_de_Janeiro.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Punishing_negroes_at_Cathabouco%2C_Rio_de_Janeiro.png",
+            "caption": "Punishing negroes at Cathabouco, Rio de Janeiro",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Agostino_Brunias_-_West_Indian_Creole_woman%2C_with_her_Black_Servant_-_Google_Art_Project.jpg/300px-Agostino_Brunias_-_West_Indian_Creole_woman%2C_with_her_Black_Servant_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Agostino_Brunias_-_West_Indian_Creole_woman%2C_with_her_Black_Servant_-_Google_Art_Project.jpg",
+            "caption": "Agostino Brunias - West Indian Creole woman, with her Black Servant - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/March%C3%A9_aux_Negres_by_Johann_Moritz_Rugendas_2.jpg/300px-March%C3%A9_aux_Negres_by_Johann_Moritz_Rugendas_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/March%C3%A9_aux_Negres_by_Johann_Moritz_Rugendas_2.jpg",
+            "caption": "\"Slave Market\" (caption translation). This image shows men, women and childre...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Conquistador",
+            "summary": "Spanish and Portuguese conquerors of the Age of Discovery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg/250px-Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conquistador"
+        },
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        }
+    ],
+    "territory_geojson": null
+}

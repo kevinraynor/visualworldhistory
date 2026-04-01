@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3344,
+    "parent_id": 113,
+    "granularity": "detailed",
+    "content_hash": "sha256:8680ce55a42c09694fbd5dc40ffda24b7968185afbde5d27a2ca164e6789f0ea",
+    "summary": "Winston Churchill delivered his Iron Curtain speech — formally titled The Sinews of Peace — at Westminster College in Fulton, Missouri, on March 5, 1946, with President Truman on the platform. The speech gave a name and a vivid image to the division of Europe that had developed since the end of [[event:112|World War II]]: an iron curtain had descended across the Continent, stretching from Stettin in the Baltic to Trieste in the Adriatic, with Soviet-dominated states lying east of that line.\n\nChurchill's speech was widely seen as one of the opening declarations of the [[event:113|Cold War]], clearly articulating the Western perspective that Soviet power represented a threat to freedom and democratic values. Churchill called for a special relationship between Britain and the United States to counter Soviet expansion. The speech provoked immediate controversy: Stalin called Churchill a warmonger and compared him to Hitler; American progressives criticized it as anti-Soviet provocation.\n\nThe speech accurately described the political reality of Soviet dominance in Eastern Europe but also contributed to the hardening of Cold War divisions by framing the Soviet-American rivalry in stark ideological terms. The iron curtain metaphor proved extraordinarily durable, defining the mental map of European division for the next forty-five years until the curtain was lifted by the revolutions of 1989.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_Curtain",
+    "read_more_links": [
+        {
+            "title": "Iron Curtain Speech - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sinews_of_Peace"
+        },
+        {
+            "title": "Iron Curtain - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Iron-Curtain-Speech"
+        },
+        {
+            "title": "Winston Churchill - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+            "title": "Origins of the Cold War - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Origins_of_the_Cold_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Russisch-finse_grens._Grenswachtpatrioulles_bij_slagboom%2C_Bestanddeelnr_254-7426.jpg/300px-Russisch-finse_grens._Grenswachtpatrioulles_bij_slagboom%2C_Bestanddeelnr_254-7426.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Russisch-finse_grens._Grenswachtpatrioulles_bij_slagboom%2C_Bestanddeelnr_254-7426.jpg",
+            "caption": "Collectie / Archief : Fotocollectie Anefo\nReportage / Serie : [ onbekend ]\nBe...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Iron_Curtain_-_Hungary.jpg/300px-Iron_Curtain_-_Hungary.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Iron_Curtain_-_Hungary.jpg",
+            "caption": "Small monument in Budapest.",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Oliver_Mark_-_Otto_Habsburg-Lothringen%2C_P%C3%B6cking_2006.jpg/300px-Oliver_Mark_-_Otto_Habsburg-Lothringen%2C_P%C3%B6cking_2006.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Oliver_Mark_-_Otto_Habsburg-Lothringen%2C_P%C3%B6cking_2006.jpg",
+            "caption": "Oliver Mark - Otto Habsburg-Lothringen, Pöcking 2006",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Grensovergang-helmstedt-marienborn-lichtmast-02.JPG/300px-Grensovergang-helmstedt-marienborn-lichtmast-02.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Grensovergang-helmstedt-marienborn-lichtmast-02.JPG",
+            "caption": "Grensovergang Helmstedt-Marienborn - lichtmast",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Winston Churchill",
+            "summary": "British statesman and writer (1874–1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/250px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+            "name": "Elisabeth of Bavaria, Queen of the Belgians",
+            "summary": "Queen of the Belgians from 1909 to 1934",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Queen_Elisabeth_of_the_Belgians.jpg/250px-Queen_Elisabeth_of_the_Belgians.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elisabeth_of_Bavaria%2C_Queen_of_the_Belgians"
+        },
+        {
+            "name": "Vasily Rozanov",
+            "summary": "Russian writer and philosopher (1856–1919)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vasily_Rosanov_by_Ivan_Parkhomenko_1909.jpg/250px-Vasily_Rosanov_by_Ivan_Parkhomenko_1909.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vasily_Rozanov"
+        }
+    ],
+    "territory_geojson": null
+}

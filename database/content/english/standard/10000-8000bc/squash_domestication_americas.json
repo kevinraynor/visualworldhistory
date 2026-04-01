@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1345,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c089029fced9d26cd866492a23f0742e7125613432c9c7ff8c2f2c0bfc31874b",
+    "summary": "Squash (Cucurbita pepo) represents one of the earliest known plant domestications in the Americas, with evidence from sites in Mexico and the southwestern United States suggesting that wild Cucurbita species were being harvested, managed, and ultimately domesticated beginning around 10,000–8,000 BCE. Seeds and rind fragments from Guilá Naquitz Cave in Oaxaca, Mexico, dated to approximately 8,000–7,500 BCE, show morphological characteristics consistent with early cultivation, making squash potentially the first domesticated plant in the Americas.\n\nThe earliest squash were likely valued primarily for their seeds — which are edible and nutritious — and possibly for the dried rinds used as containers and utensils, rather than for the flesh of the fruit, which in wild varieties is bitter and unpalatable. The gradual selection for larger, thicker-fleshed fruits with reduced bitterness would have been a process spanning many generations of cultivation. Squash cultivation in Mesoamerica eventually became part of the famous \"Three Sisters\" agricultural complex — squash, maize, and beans — that formed the backbone of indigenous American agriculture. The early domestication of squash demonstrates that the independent origins of agriculture in the Americas were underway at roughly the same time as the [[event:1|Neolithic Revolution in the Fertile Crescent]], reflecting a global pattern of early Holocene agricultural intensification.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cucurbita#History",
+    "read_more_links": [
+        {
+            "title": "Cucurbita History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cucurbita"
+        },
+        {
+            "title": "Guilá Naquitz Cave - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Guil%C3%A1_Naquitz_Cave"
+        },
+        {
+            "title": "Agriculture in the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Agriculture_in_the_Americas"
+        },
+        {
+            "title": "Three Sisters Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Three_Sisters_(agriculture)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cultivated_Cucurbita_of_Canada.jpg/300px-Cultivated_Cucurbita_of_Canada.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cultivated_Cucurbita_of_Canada.jpg",
+            "caption": "Cultivated Cucurbita of Canada",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cucurbita_moschata_Butternut_2012_G2.jpg/300px-Cucurbita_moschata_Butternut_2012_G2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cucurbita_moschata_Butternut_2012_G2.jpg",
+            "caption": "Butternut squash, cultivar variety of Cucurbita moschata, ripe fruit. Ukraine...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sangkhaya_fak_thong.JPG/300px-Sangkhaya_fak_thong.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sangkhaya_fak_thong.JPG",
+            "caption": "Sangkhaya fak thong (Thai script: สังขยาฟักทอง, also known as fak thong sangk...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pattypan_squash_J1.jpg/300px-Pattypan_squash_J1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Pattypan_squash_J1.jpg",
+            "caption": "Pattypan squash, in an organic farm in Belgium.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

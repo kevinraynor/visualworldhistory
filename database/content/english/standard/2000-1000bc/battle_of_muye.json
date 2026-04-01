@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1844,
+    "parent_id": 63,
+    "granularity": "notable",
+    "content_hash": "sha256:36df815e205c184a81c6072ccb911b1cccf66a6b15e53b64bf7701a2b1ba4768",
+    "summary": "The Battle of Muye, fought in 1046 BC according to most modern scholarly reconstructions, was the decisive military engagement in which the Zhou people, led by King Wu of Zhou, defeated the forces of the last Shang king, traditionally known as King Zhou or Di Xin. It is the foundational event of the [[event:63|Zhou dynasty]], which would go on to rule China for nearly eight centuries and shape the intellectual and cultural traditions that define classical Chinese civilization.\n\nThe battle took place at Muye, located in the vicinity of the Shang capital near modern Anyang in Henan province. Later Chinese historical accounts, written centuries after the event, describe King Wu's army as heavily outnumbered but victorious because the Shang king's forces, reportedly including large numbers of conscripted slaves and prisoners of war, defected or refused to fight. The Shang king is said to have retreated to his treasury, set it ablaze, and perished in the flames. Modern historians treat these accounts cautiously, as they were largely composed by Zhou successors with a strong interest in portraying the transition as both inevitable and morally justified.\n\nThe Zhou legitimized their conquest through the [[event:1845|Mandate of Heaven]] doctrine, arguing that heaven had withdrawn its sanction from the corrupt Shang and bestowed it upon the virtuous Zhou. This concept became one of the most enduring political ideas in Chinese history, invoked for millennia to explain dynastic transitions. The Battle of Muye thus marks not only a military turning point but the moment when a foundational ideology of Chinese political thought was first articulated.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Muye",
+    "read_more_links": [
+        {
+            "title": "Zhou Dynasty - Britannica",
+            "url": "https://www.britannica.com/place/Zhou-dynasty"
+        },
+        {
+            "title": "Mandate of Heaven",
+            "url": "https://en.wikipedia.org/wiki/Mandate_of_Heaven"
+        },
+        {
+            "title": "King Wu of Zhou",
+            "url": "https://en.wikipedia.org/wiki/King_Wu_of_Zhou"
+        },
+        {
+            "title": "Zhou dynasty",
+            "url": "https://en.wikipedia.org/wiki/Zhou_dynasty"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Battle_of_Muye.jpg/300px-Battle_of_Muye.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Battle_of_Muye.jpg",
+            "caption": "Battle of Muye, the battle during which Zhou overthrew Shang dynasty.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Di Xin",
+            "summary": "King of the ancient Chinese Shang dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg/250px-%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Di_Xin"
+        },
+        {
+            "name": "Daji",
+            "summary": "Favourite consort of the last Shang king, known for her alleged capabilities of seduction",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ping_Sien_Si_-_026_Daji_%2816133466711%29.jpg/250px-Ping_Sien_Si_-_026_Daji_%2816133466711%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daji"
+        },
+        {
+            "name": "Alfred J. Andrea",
+            "summary": "American historian and medievalist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Alfred_Andrea.jpg/250px-Alfred_Andrea.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_J._Andrea"
+        },
+        {
+            "name": "James Legge",
+            "summary": "Scottish missionary and translator (1815–1897)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/James_Legge_China.jpg/250px-James_Legge_China.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Legge"
+        }
+    ],
+    "territory_geojson": null
+}

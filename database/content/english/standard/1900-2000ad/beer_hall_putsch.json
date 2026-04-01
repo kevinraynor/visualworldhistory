@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2757,
+    "parent_id": 2653,
+    "granularity": "detailed",
+    "content_hash": "sha256:3d944452cb3af9f084820608c95bf4fb80288df9fe2dc2336eb31f9e8dd2e383",
+    "summary": "The Beer Hall Putsch was a failed coup attempt by the National Socialist German Workers' Party (Nazi Party) in Munich on the night of November 8–9, 1923. Adolf Hitler, then leader of the small but growing Nazi Party, attempted to seize power in Bavaria as a launching point for a national revolution against the [[event:2756|Weimar Republic]]. Hitler and approximately 600 armed SA stormtroopers interrupted a meeting of Bavarian government officials in the Bürgerbräukeller beer hall, taking the officials briefly hostage and announcing the revolution. The following morning, a march of 2,000 Nazis through Munich was broken up by police gunfire, killing sixteen marchers and four police officers. Hitler was arrested and charged with treason.\n\nAt his trial, Hitler used the proceedings as a political platform, delivering lengthy speeches that attracted national press coverage and transformed him from a regional agitator into a figure of national recognition. Convicted of treason in April 1924, he was sentenced to five years but was released after less than nine months, during which he dictated Mein Kampf to his secretary Rudolf Hess. The book combined autobiographical elements with extensive exposition of his political ideology, including extreme German nationalism, antisemitism, and the concept of Lebensraum.\n\nThe putsch's failure led Hitler to revise his strategy. Rather than seizing power through force, he concluded that the Nazis must pursue power through electoral means, a strategy that succeeded when the Great Depression created conditions for the party's rapid electoral rise from the late 1920s onward.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beer_Hall_Putsch",
+    "read_more_links": [
+        {
+            "title": "Beer Hall Putsch - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Beer-Hall-Putsch"
+        },
+        {
+            "title": "Mein Kampf - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mein_Kampf"
+        },
+        {
+            "title": "Adolf Hitler Early Life - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Reichsparteitag_of_the_NSDAP_in_Nuremberg%2C_SA_troops_march_past_Adolf_Hitler%2C_Sept._1935.jpg/300px-Reichsparteitag_of_the_NSDAP_in_Nuremberg%2C_SA_troops_march_past_Adolf_Hitler%2C_Sept._1935.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Reichsparteitag_of_the_NSDAP_in_Nuremberg%2C_SA_troops_march_past_Adolf_Hitler%2C_Sept._1935.jpg",
+            "caption": "Parade of SA troops past Hitler, Nuremberg 1935. In the car with Hitler: the ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bundesarchiv_Bild_102-00344A%2C_M%C3%BCnchen%2C_nach_Hitler-Ludendorff_Prozess.jpg/300px-Bundesarchiv_Bild_102-00344A%2C_M%C3%BCnchen%2C_nach_Hitler-Ludendorff_Prozess.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bundesarchiv_Bild_102-00344A%2C_M%C3%BCnchen%2C_nach_Hitler-Ludendorff_Prozess.jpg",
+            "caption": "For documentary purposes the German Federal Archive often retained the origin...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 de"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hitler%2C_Maurice%2C_Kriebel%2C_Hess%2C_Weber%2C_prison_de_Landsberg_en_1924.jpg/300px-Hitler%2C_Maurice%2C_Kriebel%2C_Hess%2C_Weber%2C_prison_de_Landsberg_en_1924.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Hitler%2C_Maurice%2C_Kriebel%2C_Hess%2C_Weber%2C_prison_de_Landsberg_en_1924.jpg",
+            "caption": "Nazis who participated in the Beer Hall Putsch: Adolf Hitler, Emil Maurice, H...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bodenplatte.JPG/300px-Bodenplatte.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Bodenplatte.JPG",
+            "caption": "ehemalige Bodenplatte zum Gedenken an die getöteten Polizisten beim Hitlerput...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Adolf Hitler",
+            "summary": "Dictator of Germany from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/250px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+            "name": "Erich Ludendorff",
+            "summary": "German general and politician (1865–1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg/250px-Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Erich_Ludendorff"
+        },
+        {
+            "name": "Rudolf Hess",
+            "summary": "German Nazi politician (1894–1987)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bundesarchiv_Bild_183-1987-0313-507%2C_Rudolf_Hess_%28cropped%29%28b%29.jpg/250px-Bundesarchiv_Bild_183-1987-0313-507%2C_Rudolf_Hess_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rudolf_Hess"
+        },
+        {
+            "name": "Ernst Pöhner",
+            "summary": "German politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ernst_Pohner.jpg/250px-Ernst_Pohner.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ernst_P%C3%B6hner"
+        },
+        {
+            "name": "Robert Heinrich Wagner",
+            "summary": "German Nazi Party official and politician (1895–1946)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/RobertWagner.JPG/250px-RobertWagner.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Heinrich_Wagner"
+        },
+        {
+            "name": "Hermann Göring",
+            "summary": "German Nazi politician and military leader (1893–1946)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg/250px-Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring"
+        }
+    ],
+    "territory_geojson": null
+}

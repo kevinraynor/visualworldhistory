@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2023,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:d08ddd9062224c40f53ff83b9d1c096d545ae8962995fa1b6597721806d24978",
+    "summary": "Marcus Aurelius (r. 161–180 AD) was the last of the 'Five Good Emperors' and the embodiment of Plato's ideal of the philosopher-king — a Roman emperor who devoted his personal life to Stoic philosophy (see [[event:1195|Stoicism Founded]]) while governing the most powerful state in the Western world. His Meditations — private philosophical reflections written in Greek during military campaigns, never intended for publication — are among the most moving and widely read works of practical philosophy ever written.\n\nThe Meditations are a discipline of self-examination and self-correction in the Stoic tradition: Marcus constantly reminds himself to act according to reason and virtue regardless of circumstances, to maintain equanimity in the face of pain and loss, to remember his own mortality and the smallness of human concerns in cosmic perspective, and to serve his duty. His reign was far from the peaceful contemplation the Meditations suggest: he spent most of it on campaign against Germanic tribes on the Danube frontier (the [[event:2818|Marcomannic Wars]]) and dealing with the [[event:2024|Antonine Plague]] that killed millions. His only significant failure by Stoic standards was naming his incompetent son Commodus as his successor, ending the adoptive succession of the Five Good Emperors.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "read_more_links": [
+        {
+            "title": "Meditations text overview",
+            "url": "https://en.wikipedia.org/wiki/Meditations"
+        },
+        {
+            "title": "Five Good Emperors tradition",
+            "url": "https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors"
+        },
+        {
+            "title": "Stoic philosopher-king ideal",
+            "url": "https://en.wikipedia.org/wiki/Philosopher-king"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Roman_Empress_Faustina_the_Younger%2C_161-170_CE%2C_marble._Acquired_in_Paris%2C_France%2C_in_1742_CE._Altes_Museum_in_Berlin.jpg/300px-Roman_Empress_Faustina_the_Younger%2C_161-170_CE%2C_marble._Acquired_in_Paris%2C_France%2C_in_1742_CE._Altes_Museum_in_Berlin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Roman_Empress_Faustina_the_Younger%2C_161-170_CE%2C_marble._Acquired_in_Paris%2C_France%2C_in_1742_CE._Altes_Museum_in_Berlin.jpg",
+            "caption": "Roman Empress Faustina the Younger, 161-170 CE. This motherly portrayal with ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MarcusAureliusStatue.jpg/300px-MarcusAureliusStatue.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/MarcusAureliusStatue.jpg",
+            "caption": "Marcus Aurelius'un Millet Kütüphanesinde sergilenen heykeli",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Antioch_in_Syria_engraving_by_William_Miller_after_H_Warren.jpg/300px-Antioch_in_Syria_engraving_by_William_Miller_after_H_Warren.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Antioch_in_Syria_engraving_by_William_Miller_after_H_Warren.jpg",
+            "caption": "Antioch in Syria from the North West engraving by William Miller after H Warr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Co-emperors_Marcus_Aurelius_and_Lucius_Verus%2C_British_Museum_%2823455313842%29.jpg/300px-Co-emperors_Marcus_Aurelius_and_Lucius_Verus%2C_British_Museum_%2823455313842%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Co-emperors_Marcus_Aurelius_and_Lucius_Verus%2C_British_Museum_%2823455313842%29.jpg",
+            "caption": "Co-emperors Marcus Aurelius and Lucius Verus, British Museum",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Antoninus Pius",
+            "summary": "Roman emperor from 138 to 161",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Antoninus_Pius_Glyptothek_Munich_337_cropped.jpg/250px-Antoninus_Pius_Glyptothek_Munich_337_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antoninus_Pius"
+        },
+        {
+            "name": "Commodus",
+            "summary": "Roman emperor from 177 to 192",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg/250px-Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Commodus"
+        },
+        {
+            "name": "Lucius Verus",
+            "summary": "Roman emperor from 161 to 169",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg/250px-Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Verus"
+        },
+        {
+            "name": "Faustina the Younger",
+            "summary": "Roman empress from 161 to 175",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Faustina_Minor_Louvre_Ma1144.jpg/250px-Faustina_Minor_Louvre_Ma1144.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Faustina_the_Younger"
+        },
+        {
+            "name": "Lucilla",
+            "summary": "Roman empress from 164 to 169",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Statue_of_Lucilla_detail.jpg/250px-Statue_of_Lucilla_detail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucilla"
+        }
+    ],
+    "territory_geojson": null
+}

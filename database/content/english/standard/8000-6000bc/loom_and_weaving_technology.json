@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1462,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ebae9f9dcb2ac71bd4bd50c12eb62d860ab8005a2a8fb182ac83c07b0efcf776",
+    "summary": "The development of loom-based weaving technology in the Near East during the Neolithic period, beginning approximately 7000 to 6000 BCE, represented a major advance in textile production beyond simple plaiting, twining, and finger-weaving techniques. The loom — in its earliest form probably a simple warp-weighted or back-strap device rather than the more complex frame looms of later periods — allowed weavers to interlace warp and weft threads with greater speed, regularity, and scale than was possible by hand alone, enabling the production of cloth in larger quantities and with more consistent quality.\n\nDirect evidence for early looms is scarce because wooden loom components rarely survive in archaeological contexts, but indirect evidence includes loom weights (pierced clay or stone objects used to tension warp threads on a warp-weighted loom), spindle whorls indicating thread preparation, and preserved textile fragments such as those found at [[event:26|Nahal Hemar Cave]] in the Levant. These finds indicate that weaving was practiced with considerable sophistication by Neolithic communities of the seventh millennium BCE.\n\nThe implications of weaving technology extended far beyond the provision of clothing. Woven textiles became important goods for exchange, and control over textile production eventually became a significant source of economic and social power in ancient civilizations. The textile industries of ancient Mesopotamia, Egypt, and later the Mediterranean world were major economic forces, and the roots of these industries lie in the Neolithic period when communities like those of [[event:11|Çatalhöyük]] and contemporaries were refining spinning and weaving as established crafts.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Loom#History",
+    "read_more_links": [
+        {
+            "title": "Loom History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Loom"
+        },
+        {
+            "title": "History of Textile - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_textile"
+        },
+        {
+            "title": "Spinning (textiles) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Spinning_(textiles)"
+        },
+        {
+            "title": "Neolithic Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_technology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chantier_de_fouilles_%C3%A0_Morigny-Champigny_en_juin_2012_20.jpg/300px-Chantier_de_fouilles_%C3%A0_Morigny-Champigny_en_juin_2012_20.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chantier_de_fouilles_%C3%A0_Morigny-Champigny_en_juin_2012_20.jpg",
+            "caption": "Archaeological site next to the industrial area SudEssor on the highway 20 at...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hand_loom_Weaving_in_Hooghly_District_17.jpg/300px-Hand_loom_Weaving_in_Hooghly_District_17.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Hand_loom_Weaving_in_Hooghly_District_17.jpg",
+            "caption": "Hand loom in Hooghly District,  West Bengal",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kangasteljed_Vormsi_rahvamajas.jpg/300px-Kangasteljed_Vormsi_rahvamajas.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kangasteljed_Vormsi_rahvamajas.jpg",
+            "caption": "Kangasteljed Vormsi rahvamajas",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lisses_du_m%C3%A9tier_%C3%A0_tisser.jpg/300px-Lisses_du_m%C3%A9tier_%C3%A0_tisser.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lisses_du_m%C3%A9tier_%C3%A0_tisser.jpg",
+            "caption": "Lisses du métier à tisser, technique de la Savonnerie",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph Marie Jacquard",
+            "summary": "French weaver, merchant, and inventor (1752–1834)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Joseph_Marie_Jacquard.jpg/250px-Joseph_Marie_Jacquard.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard"
+        },
+        {
+            "name": "Basile Bouchon",
+            "summary": "18th-century French inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Basile_Bouchon_1725_loom.jpg/250px-Basile_Bouchon_1725_loom.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Basile_Bouchon"
+        },
+        {
+            "name": "John Kay (flying shuttle)",
+            "summary": "British inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/PublicDomainColourPortraitOfJohnKayBorn1704.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Kay_%28flying_shuttle%29"
+        }
+    ],
+    "territory_geojson": null
+}

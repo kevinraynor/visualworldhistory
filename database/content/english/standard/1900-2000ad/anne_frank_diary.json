@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3457,
+    "parent_id": 2660,
+    "granularity": "detailed",
+    "content_hash": "sha256:94de1b7645a5a299373b2e1498e611047bb0fdfeb15e24e1b3e9d9d3c15b8957",
+    "summary": "Anne Frank was a German-born Jewish girl who kept a diary during the two years she and her family spent in hiding in a concealed apartment behind a bookcase in Amsterdam, sheltered by non-Jewish Dutch employees of her father's business. The family went into hiding in July 1942 to escape Nazi persecution following the German occupation of the Netherlands. Anne received the diary as a gift for her thirteenth birthday and used it to record her thoughts, fears, and observations on daily life in confinement alongside seven other people.\n\nThe family was discovered and arrested in August 1944, transported to concentration camps, and Anne died in Bergen-Belsen, likely in February or March 1945, just weeks before the camp's liberation. Her father Otto Frank, the only member of their group to survive, retrieved Anne's diary from an employee who had preserved it and arranged for its publication in Dutch in 1947 under the title Het Achterhuis (The Secret Annex). Translated into over seventy languages, The Diary of a Young Girl has sold over thirty million copies and become one of the most widely read accounts of the [[event:2660|Holocaust]], humanizing its victims for generations of readers worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl",
+    "read_more_links": [
+        {
+            "title": "Anne Frank",
+            "url": "https://en.wikipedia.org/wiki/Anne_Frank"
+        },
+        {
+            "title": "Anne Frank House",
+            "url": "https://en.wikipedia.org/wiki/Anne_Frank_House"
+        },
+        {
+            "title": "Bergen-Belsen concentration camp",
+            "url": "https://en.wikipedia.org/wiki/Bergen-Belsen_concentration_camp"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%27ANNE%27_stage_set.jpg/300px-%27ANNE%27_stage_set.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/%27ANNE%27_stage_set.jpg",
+            "caption": "Stage set for the theatre production 'ANNE:' the re-created Opekta offices (l...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tom_Sawyer_1876_frontispiece.jpg/300px-Tom_Sawyer_1876_frontispiece.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tom_Sawyer_1876_frontispiece.jpg",
+            "caption": "Frontispiece from The Adventures of Tom Sawyer by Mark Twain (1st ed., 1876):...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg/300px-The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Diary_of_a_Young_Girl_at_the_Anne_Frank_Zentrum.jpg",
+            "caption": "Facsimile of the diary of Anne Frank on display at the Anne Frank Zentrum in ...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bep Voskuijl",
+            "summary": "Dutch secretary who helped hide Anne Frank (1919–1983)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bep_Voskuijl.jpg/250px-Bep_Voskuijl.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bep_Voskuijl"
+        },
+        {
+            "name": "Anne Frank House",
+            "summary": "Writer's house and museum in Amsterdam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg/250px-Amsterdam_%28NL%29%2C_Anne-Frank-Huis_--_2015_--_7185.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anne_Frank_House"
+        },
+        {
+            "name": "Cissy van Marxveldt",
+            "summary": "Dutch writer (1889–1948)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cissy_van_Marxveldt.jpg/250px-Cissy_van_Marxveldt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cissy_van_Marxveldt"
+        },
+        {
+            "name": "Gerrit Bolkestein",
+            "summary": "Dutch politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gerrit_Bolkestein_%281944%29.jpg/250px-Gerrit_Bolkestein_%281944%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gerrit_Bolkestein"
+        },
+        {
+            "name": "Eleanor Roosevelt",
+            "summary": "American diplomat and activist (1884–1962)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg/250px-Eleanor_Roosevelt_at_the_United_Nations%2C_circa_1946-1947_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt"
+        },
+        {
+            "name": "David Polonsky",
+            "summary": "Israeli book illustrator and artistic film director",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/David_Polonsky_pic.jpg/250px-David_Polonsky_pic.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Polonsky"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1115,
+    "parent_id": 1111,
+    "granularity": "detailed",
+    "content_hash": "sha256:a04128293a5c3eb0de61c60b0c30ff72e13d80260c565d896ceba6bc98689bf3",
+    "summary": "The Art of War (c. 500–400 BC), attributed to the military strategist Sun Tzu (Sun Wu), is a Chinese treatise on military strategy and tactics that remains one of the most influential texts on warfare, strategy, and competition in world history — still required reading in military academies and business schools alike.\n\nComposed during the early [[event:1111|Warring States Period]], the Art of War consists of thirteen short chapters covering topics including strategy, tactical positioning, use of intelligence, management of troops, and the importance of deception. Its central insight — that the supreme achievement in warfare is to defeat the enemy without fighting — reflects a sophisticated understanding of strategy as manipulation of conditions rather than simple force. The text emphasizes flexibility, intelligence gathering, and exploiting enemy weaknesses over brute strength. Whether Sun Tzu was a historical individual or a compilation of multiple thinkers is debated, but the text's practical wisdom proved enduring: it influenced every major Chinese military tradition, was translated into Japanese (influencing samurai culture), and in modern times has been applied to business strategy, sports coaching, and political campaigning worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Art_of_War",
+    "read_more_links": [
+        {
+            "title": "Sun Tzu",
+            "url": "https://en.wikipedia.org/wiki/Sun_Tzu"
+        },
+        {
+            "title": "Chinese military history",
+            "url": "https://en.wikipedia.org/wiki/Military_history_of_China"
+        },
+        {
+            "title": "Art of War modern influence",
+            "url": "https://en.wikipedia.org/wiki/The_Art_of_War#Influence_and_legacy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/300px-Gari-Melchers-War-Highsmith.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gari-Melchers-War-Highsmith.jpeg",
+            "caption": "Second Floor, Northwest Gallery. Mural of War by Gari Melchers. Library of Co...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bamboo_book_-_unfolded_-_UCR.jpg/300px-Bamboo_book_-_unfolded_-_UCR.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bamboo_book_-_unfolded_-_UCR.jpg",
+            "caption": "A Chinese bamboo book, open and unfolded to display the contents. This copy o...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bamboo_book_-_binding_-_UCR.jpg/300px-Bamboo_book_-_binding_-_UCR.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bamboo_book_-_binding_-_UCR.jpg",
+            "caption": "A Chinese bamboo book, open to display the binding and contents. This copy of...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Inscribed_bamboo-slips_of_Art_of_War.jpg/300px-Inscribed_bamboo-slips_of_Art_of_War.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Inscribed_bamboo-slips_of_Art_of_War.jpg",
+            "caption": "Inscribed bamboo-slips of The Art of War, unearthed in Yinque Mountain, Linyi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sun Tzu",
+            "summary": "Chinese general (544–496 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg/250px-%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Tzu"
+        },
+        {
+            "name": "Emperor Shenzong of Song",
+            "summary": "Emperor of China from 1067 to 1085",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shenzong.jpg/250px-Shenzong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Shenzong_of_Song"
+        },
+        {
+            "name": "Jean Joseph Marie Amiot",
+            "summary": "French Jesuit missionary in China (1718–1793)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JosephMarieAmiot.JPG/250px-JosephMarieAmiot.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Joseph_Marie_Amiot"
+        },
+        {
+            "name": "Lionel Giles",
+            "summary": "British sinologist, writer, and philosopher (1875–1958)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lgiles.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lionel_Giles"
+        },
+        {
+            "name": "Mao Zedong",
+            "summary": "Leader of China from 1949 to 1976",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg/250px-Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mao_Zedong"
+        },
+        {
+            "name": "Võ Nguyên Giáp",
+            "summary": "Vietnamese general and communist politician (1911–2013)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mr._Vo_Nguyen_Giap_%28cropped%29.jpg/250px-Mr._Vo_Nguyen_Giap_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+        }
+    ],
+    "territory_geojson": null
+}

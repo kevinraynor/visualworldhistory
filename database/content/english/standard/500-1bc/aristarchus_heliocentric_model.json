@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1200,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:0ec8b78e5f2e03fba720969c3612d72f5552644fab89dd56966b23244c041afb",
+    "summary": "Aristarchus of Samos (c. 310–230 BC) proposed the first known heliocentric model of the solar system — that the Earth orbits the Sun rather than vice versa — nearly eighteen centuries before Copernicus, demonstrating that ancient Greek astronomy had reached remarkable conclusions through geometric reasoning from astronomical observations.\n\nAristarchus's heliocentric proposal survives only through references in other ancient authors, primarily [[event:1197|Archimedes]]' Sand Reckoner, where Archimedes describes Aristarchus's hypothesis. Aristarchus also made the first quantitative estimates of the relative distances of the Earth, Moon, and Sun using geometric methods based on the angle between the half-moon and the Sun. His estimates were inaccurate due to observational limitations, but the method was correct. The heliocentric theory was rejected by most ancient astronomers, including Hipparchus ([[event:1201|Hipparchus Star Catalog]]), largely because it lacked observational confirmation (stellar parallax was not detectable with ancient instruments) and conflicted with Aristotelian physics. The geocentric model of Ptolemy became the accepted system until Copernicus in 1543 — who was apparently aware of Aristarchus's work.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aristarchus_of_Samos",
+    "read_more_links": [
+        {
+            "title": "Ancient heliocentric models",
+            "url": "https://en.wikipedia.org/wiki/Heliocentrism#Ancient_heliocentrism"
+        },
+        {
+            "title": "Copernicus and Aristarchus",
+            "url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus#Aristarchus"
+        },
+        {
+            "title": "Greek astronomy methods",
+            "url": "https://en.wikipedia.org/wiki/Greek_astronomy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/300px-Earth-moon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg",
+            "caption": "This view of the rising Earth greeted the Apollo 8 astronauts as they came fr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/300px-Parthenon_from_west.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
+            "caption": "Parthenon from west",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Astronomer",
+            "summary": "Scientist in the field of astronomy",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg/250px-IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Astronomer"
+        },
+        {
+            "name": "Anaxagoras",
+            "summary": "5th-century BC Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Anaxagoras_Lebiedzki_Rahl.jpg/250px-Anaxagoras_Lebiedzki_Rahl.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anaxagoras"
+        },
+        {
+            "name": "Strato of Lampsacus",
+            "summary": "Ancient Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Strato_Nuremberg_Chronicle.jpg/250px-Strato_Nuremberg_Chronicle.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strato_of_Lampsacus"
+        },
+        {
+            "name": "Vitruvius",
+            "summary": "1st-century BC Roman architect and engineer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vitruvio_Pollione_portrait_%28cropped%29.jpg/250px-Vitruvio_Pollione_portrait_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vitruvius"
+        },
+        {
+            "name": "Philolaus",
+            "summary": "Greek philosopher (c. 470 – c. 385 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pythagoras_and_Philolaus.png/250px-Pythagoras_and_Philolaus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philolaus"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        }
+    ],
+    "territory_geojson": null
+}

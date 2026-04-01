@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1389,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:06b519e5b2971257b2bd08137db0bd35c8366f44793f89251495aa3a2150bbad",
+    "summary": "The Nile Delta and adjacent Mediterranean coastline of Egypt were inhabited during the early Holocene by communities that exploited the rich aquatic and coastal resources of this productive zone. Fishing villages and semi-permanent encampments developed along the banks of the Nile distributaries and the lagoon margins of the proto-delta, taking advantage of the enormous quantities of Nile perch, catfish, tilapia, and other fish species along with migratory waterfowl, shellfish, and aquatic plants.\n\nThe early Holocene Nile Delta communities were pre-agricultural and belong to the Late Palaeolithic and Epipalaeolithic cultural sequence of northeastern Africa. The archaeological visibility of these communities is limited by both the massive depositional changes in the delta region over the past 10,000 years — which have buried early Holocene surfaces under many meters of alluvial deposits — and the poor preservation conditions of the region. Nevertheless, survey and deep-drilling programs have recovered evidence of occupation and resource exploitation in the early Holocene delta zone. These early fishing communities represent one component of the diverse human populations of the Nile Valley that, over subsequent millennia, would gradually adopt agriculture and eventually contribute to the emergence of ancient Egyptian civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nile_Delta",
+    "read_more_links": [
+        {
+            "title": "Prehistoric Egypt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Egypt"
+        },
+        {
+            "title": "Ancient Egyptian Origins - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egypt#Prehistory"
+        },
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Nile_River_Delta_at_Night.JPG/300px-Nile_River_Delta_at_Night.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nile_River_Delta_at_Night.JPG",
+            "caption": "In this view of Egypt, we see a population almost completely concentrated alo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg/300px-Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Egypt_Population_Density_and_Low_Elevation_Coastal_Zones_%285457306559%29.jpg",
+            "caption": "Egypt: Population Density and Low Elevation Coastal Zones",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/AncientEgyptJamesRennell01.jpg/300px-AncientEgyptJamesRennell01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/AncientEgyptJamesRennell01.jpg",
+            "caption": "Map of ancient Egypt created by James Rennell as an insert for his book \"The ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nile_delta_landsat_false_color.jpg/300px-Nile_delta_landsat_false_color.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Nile_delta_landsat_false_color.jpg",
+            "caption": "Landsat 7 false colour image of the Nile Delta",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lake Burullus",
+            "summary": "Lake in Kafr el-Sheikh Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rosette%2C_Lac_Burlos.jpg/250px-Rosette%2C_Lac_Burlos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Burullus"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "James Rennell",
+            "summary": "English geographer, historian and oceanographer (1742–1830)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/James_Rennell_1799_%28cropped%29.jpg/250px-James_Rennell_1799_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Rennell"
+        },
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        }
+    ],
+    "territory_geojson": null
+}

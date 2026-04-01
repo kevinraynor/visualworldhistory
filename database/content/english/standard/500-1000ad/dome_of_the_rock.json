@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2130,
+    "parent_id": 2129,
+    "granularity": "notable",
+    "content_hash": "sha256:975c65e9f50e9fe28390652584d383535fdb27bcde7777e2f1ddf413a04f03f1",
+    "summary": "The Dome of the Rock (completed 691 AD, Jerusalem) is the oldest extant Islamic monument and one of the most politically and religiously charged sites on Earth — a magnificent octagonal shrine commissioned by Umayyad Caliph Abd al-Malik ibn Marwan over the sacred rock (the Foundation Stone/Temple Mount) in Jerusalem, from which Islamic tradition holds Muhammad ascended to heaven during the Night Journey (Isra and Mi'raj). Built by Byzantine craftsmen using Byzantine architectural forms (the octagonal plan and central dome recall the Church of the Holy Sepulchre), it was a deliberate statement of Islamic supersession over both Judaism and Christianity in the holy city.\n\nThe Dome of the Rock is architecturally extraordinary: its golden dome (covered today with gold-plated aluminum), its intricate mosaic decoration inside and out (including some of the earliest surviving Islamic inscriptions and Quranic verses), and its harmonious proportions make it a masterpiece of world architecture. The interior inscriptions explicitly address Christians, denying the Trinity and Christ's divinity — an unusual direct theological argument encoded in monumental form. The site is the third holiest in Islam and sits directly above the Temple Mount (Haram al-Sharif), Judaism's holiest site (the location of Solomon's Temple and the Second Temple). This overlap of Islamic, Jewish, and Christian sacred claims makes the Temple Mount/Dome of the Rock complex the most religiously contested piece of real estate on Earth and a persistent flashpoint in Arab-Israeli conflict.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+    "read_more_links": [
+        {
+            "title": "Dome of the Rock architecture",
+            "url": "https://en.wikipedia.org/wiki/Dome_of_the_Rock#Architecture"
+        },
+        {
+            "title": "Temple Mount sacred conflict",
+            "url": "https://en.wikipedia.org/wiki/Temple_Mount"
+        },
+        {
+            "title": "Night Journey Isra Mi'raj",
+            "url": "https://en.wikipedia.org/wiki/Isra%27_and_Mi%27raj"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg/300px-Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg",
+            "caption": "Southern aerial view of the Temple Mount (Hebrew: הַר הַבַּיִת‎, Har HaBáyit,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg/300px-Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg",
+            "caption": "The Dome of the Rock (Arabic: مسجد قبة الصخرة‎,  Hebrew: כיפת הסלע), on the T...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Chain_%28south_exposure%29.jpg/300px-Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Chain_%28south_exposure%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Chain_%28south_exposure%29.jpg",
+            "caption": "The Dome of the Chain (Arabic: قبة السلسلة, Qubbat al-Silsila), on the Temple...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dome_of_Rock_%28Jerusalem_2018%29_02.jpg/300px-Dome_of_Rock_%28Jerusalem_2018%29_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Dome_of_Rock_%28Jerusalem_2018%29_02.jpg",
+            "caption": "Inside Dome of the Rock (Jerusalem 2018)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Islamic architecture",
+            "summary": "Architectural styles of buildings associated with Islam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jerusalem_DomeoftheRock_J65.JPG/250px-Jerusalem_DomeoftheRock_J65.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Islamic_architecture"
+        },
+        {
+            "name": "Muhammad",
+            "summary": "Founder of Islam (c. 570–632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Al-Masjid_AL-Nabawi_Door.jpg/250px-Al-Masjid_AL-Nabawi_Door.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad"
+        },
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        },
+        {
+            "name": "Abd al-Malik ibn Marwan",
+            "summary": "Umayyad caliph from 685 to 705",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/First_Umayyad_gold_dinar%2C_Caliph_Abd_al-Malik%2C_695_CE.jpg/250px-First_Umayyad_gold_dinar%2C_Caliph_Abd_al-Malik%2C_695_CE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abd_al-Malik_ibn_Marwan"
+        },
+        {
+            "name": "Frederick Catherwood",
+            "summary": "English artist, architect and explorer (1799–1854)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Frederick_Catherwood.jpg/250px-Frederick_Catherwood.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_Catherwood"
+        },
+        {
+            "name": "Victor Wolfgang von Hagen",
+            "summary": "American explorer (1908–1985)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Victor_Von_Hagen_002.JPG/250px-Victor_Von_Hagen_002.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Wolfgang_von_Hagen"
+        }
+    ],
+    "territory_geojson": null
+}

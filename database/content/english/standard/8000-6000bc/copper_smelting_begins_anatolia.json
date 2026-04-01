@@ -1,0 +1,76 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 15,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:83c661547db7322ea909061b676a5cd1337fba9d72d7c3af7e4ba9f6a546ed74",
+    "summary": "The earliest experimentation with copper in Anatolia and adjacent regions of the Near East marks one of the most consequential technological transitions of prehistory. Long before true smelting — the extraction of metal from ore through high-temperature reduction — Neolithic communities were working native copper (naturally occurring metallic copper) through cold hammering and annealing, shaping it into beads, pins, and small tools. Evidence of this cold-worked native copper has been found at sites such as Çayönü Tepesi in southeastern Turkey and [[event:11|Çatalhöyük]], dating to the eighth and seventh millennia BCE.\n\nThe step from working native copper to smelting copper from malachite and other copper-bearing ores required the development and control of sufficiently high kiln temperatures, likely emerging from experience with high-fired pottery production. The earliest evidence of actual smelting — the production of copper metal from ore — appears at sites in Anatolia and the Levant in the late seventh and sixth millennia BCE. Sites such as Çatal Höyük and later [[event:1459|earliest copper smelting]] contexts point to this gradual technological mastery unfolding across the region.\n\nThe social implications of copper working were significant even at this early stage. Copper objects functioned primarily as prestige items and personal ornaments rather than utilitarian tools, suggesting that control over metal working conferred social status. This association between metalworking knowledge and social power would intensify over the following millennia as copper technology spread across Eurasia and eventually gave rise to the Bronze Age. The Anatolian metalworking tradition thus represents not merely a technological achievement but a social transformation in the making.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smelting#Copper",
+    "read_more_links": [
+        {
+            "title": "Copper - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Copper"
+        },
+        {
+            "title": "Chalcolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic"
+        },
+        {
+            "title": "Smelting History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Smelting"
+        },
+        {
+            "title": "Prehistoric Anatolia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Anatolia"
+        },
+        {
+            "title": "History of Metallurgy in the Near East - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_metallurgy_in_the_Near_East"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/TVA_phosphate_smelting_furnace.jpg/300px-TVA_phosphate_smelting_furnace.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/TVA_phosphate_smelting_furnace.jpg",
+            "caption": "Title: Large electric phosphate smelting furnace used in the making of elemen...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karabash_copper_smelter.jpg/300px-Karabash_copper_smelter.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Karabash_copper_smelter.jpg",
+            "caption": "Copper smelter of Karabash, Chelyabinsk Oblast, Russia, responsible for one o...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg/300px-S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg",
+            "caption": "Série de cuves d'électrolyse. Usine de Saint-Jean-de-Maurienne.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cowles_furnace-2.jpg/300px-Cowles_furnace-2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cowles_furnace-2.jpg",
+            "caption": "Cowles' electric smelting furnace at Cowles Syndicate Company, Limited, w:Sto...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Coke (fuel)",
+            "summary": "Coal product used in making steel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Koks_Brennstoff.jpg/250px-Koks_Brennstoff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coke_%28fuel%29"
+        },
+        {
+            "name": "Paul Héroult",
+            "summary": "French scientist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/PaulHeroult.jpg/250px-PaulHeroult.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_H%C3%A9roult"
+        }
+    ],
+    "territory_geojson": null
+}

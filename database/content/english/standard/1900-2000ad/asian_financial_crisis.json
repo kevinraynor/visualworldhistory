@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2769,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:412dedbe29628f78d2582515a6c83938dc6a4b1bcb859ae74da39336177465c9",
+    "summary": "The Asian financial crisis began in Thailand in July 1997 when the Thai baht collapsed after the government was forced to float the currency due to insufficient foreign reserves to defend its fixed exchange rate peg against speculative attacks. The crisis spread rapidly across East and Southeast Asia, severely affecting Indonesia, South Korea, Malaysia, and the Philippines, and to a lesser extent Hong Kong, Taiwan, and Singapore. Currency values plummeted, stock markets crashed, and GDP contracted sharply across the affected countries.\n\nThe crisis exposed structural vulnerabilities in the region's financial systems: excessive short-term foreign borrowing by domestic financial institutions, inadequately regulated banking sectors, fixed exchange rate regimes that encouraged unhedged borrowing in foreign currencies, and close relationships between governments, banks, and conglomerates (often called crony capitalism) that had misallocated credit. The International Monetary Fund intervened with large bailout packages for Thailand, Indonesia, and South Korea, but the IMF's conditions — demanding fiscal austerity and high interest rates — deepened economic contraction and generated significant criticism.\n\nIndonesia was most severely affected: the rupiah lost over eighty percent of its value, GDP fell sharply, and the economic crisis contributed directly to the political crisis that ended President Suharto's thirty-two-year rule in May 1998. South Korea also required a major IMF bailout but recovered relatively rapidly after extensive corporate restructuring. The crisis led to significant reforms in financial regulation and exchange rate management across the region, and contributed to the massive accumulation of foreign exchange reserves by Asian governments as self-insurance against future crises.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/1997_Asian_financial_crisis",
+    "read_more_links": [
+        {
+            "title": "Asian Financial Crisis - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Asian-financial-crisis"
+        },
+        {
+            "title": "IMF and Asian Crisis - IMF",
+            "url": "https://www.imf.org/en/About/Factsheets/Sheets/2016/08/01/16/32/IMF-and-the-Asian-Crisis"
+        },
+        {
+            "title": "Fall of Suharto - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fall_of_Suharto"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/South_Korean_bonds.webp/300px-South_Korean_bonds.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/South_Korean_bonds.webp",
+            "caption": "South Korean bonds",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/USD-CNY_exchange_rate.webp/300px-USD-CNY_exchange_rate.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/USD-CNY_exchange_rate.webp",
+            "caption": "USD/CNY exchange rate 1981-2022",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jakarta_riot_14_May_1998.jpg/300px-Jakarta_riot_14_May_1998.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jakarta_riot_14_May_1998.jpg",
+            "caption": "Shops looted and goods burned on the streets in Jakarta, 14 May 1998.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/USD_to_South_Korean_Won_exchange_rate.webp/300px-USD_to_South_Korean_Won_exchange_rate.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/USD_to_South_Korean_Won_exchange_rate.webp",
+            "caption": "USD / South Korean Won exchange rate",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Suharto",
+            "summary": "President of Indonesia from 1967 to 1998",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/President_Suharto%2C_1993.jpg/250px-President_Suharto%2C_1993.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suharto"
+        },
+        {
+            "name": "Fall of Suharto",
+            "summary": "1998 Indonesian presidential resignation",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Suharto_resigns.jpg/250px-Suharto_resigns.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fall_of_Suharto"
+        },
+        {
+            "name": "Alan Greenspan",
+            "summary": "American economist and financial advisor (born 1926)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alan_Greenspan_color_photo_portrait.jpg/250px-Alan_Greenspan_color_photo_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Greenspan"
+        },
+        {
+            "name": "Paul Krugman",
+            "summary": "American economist (born 1953)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/P20230814AS-0367_%28cropped%29.jpg/250px-P20230814AS-0367_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Krugman"
+        },
+        {
+            "name": "Joseph Stiglitz",
+            "summary": "American economist and Nobel Laureate (born 1943)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Joseph_E._Stiglitz%2C_2019_%28cropped%29.jpg/250px-Joseph_E._Stiglitz%2C_2019_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Stiglitz"
+        },
+        {
+            "name": "Jeffrey Sachs",
+            "summary": "American economist (born 1954)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/FMSTAN_%26_SPIDER_Global_meeting_in_Austrian_Foreign_Ministries_in_Vienna_%2849120446508%29_%28cropped%29.jpg/250px-FMSTAN_%26_SPIDER_Global_meeting_in_Austrian_Foreign_Ministries_in_Vienna_%2849120446508%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jeffrey_Sachs"
+        }
+    ],
+    "territory_geojson": null
+}

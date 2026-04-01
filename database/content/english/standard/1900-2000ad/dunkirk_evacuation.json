@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2764,
+    "parent_id": 112,
+    "granularity": "notable",
+    "content_hash": "sha256:e3385859b3f195865c98c82fd9bb9cdbd06cea5a8c73c98e903b72ebe3befff4",
+    "summary": "The Dunkirk evacuation, codenamed Operation Dynamo, took place from May 26 to June 4, 1940, when Allied forces trapped on the beaches and harbor of Dunkirk in northern France were evacuated to England. The operation followed Germany's rapid conquest of the Low Countries and the encirclement of Allied forces by German armored units. Approximately 338,000 British, French, and Belgian troops were rescued across the English Channel, an outcome made possible partly by the controversial German decision to halt the armored advance for several days — a decision whose precise reasons remain debated by historians.\n\nThe evacuation was conducted by a fleet of Royal Navy vessels supplemented by hundreds of civilian boats — fishing vessels, ferries, yachts, and pleasure craft — that crossed the Channel in what became celebrated in British memory as the spirit of Dunkirk. The operation rescued the core of the British Army that would later fight the war, though enormous quantities of equipment and weapons were abandoned on the beaches. Nine naval destroyers were sunk and many other vessels lost.\n\nChurchill's speech to the House of Commons following Dunkirk was one of the war's defining moments of oratory. He acknowledged the reality of a rescue while denying it was a victory, and called on Britain to fight on. The Dunkirk evacuation became mythologized in British culture as a story of resilience and improvisation against desperate odds, though historians have also emphasized that it was fundamentally a military defeat that left Britain momentarily unable to continue land operations against Germany.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dunkirk_evacuation",
+    "read_more_links": [
+        {
+            "title": "Dunkirk - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Dunkirk-evacuation"
+        },
+        {
+            "title": "Fall of France - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fall_of_France"
+        },
+        {
+            "title": "Operation Dynamo - Imperial War Museum",
+            "url": "https://www.iwm.org.uk/history/dunkirk-and-the-fall-of-france"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dunkirk_1940_HU2280.jpg/300px-Dunkirk_1940_HU2280.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dunkirk_1940_HU2280.jpg",
+            "caption": "Dunkirk 1940\nThe French destroyer BOURRASQUE sinking off Dunkirk loaded with ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Dunkirk_26-29_May_1940_NYP68075.jpg/300px-Dunkirk_26-29_May_1940_NYP68075.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dunkirk_26-29_May_1940_NYP68075.jpg",
+            "caption": "Dunkirk 26-29 May 1940\nBritish troops line up on the beach at Dunkirk to awai...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/East_Mole_Dunkirk.jpg/300px-East_Mole_Dunkirk.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/East_Mole_Dunkirk.jpg",
+            "caption": "The remains of the East Mole at Dunkirk from where many British troops were r...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Wounded_British_soldiers_evacuated_from_Dunkirk_make_their_way_up_the_gangplank_from_a_destroyer_at_Dover%2C_31_May_1940._H1623.jpg/300px-Wounded_British_soldiers_evacuated_from_Dunkirk_make_their_way_up_the_gangplank_from_a_destroyer_at_Dover%2C_31_May_1940._H1623.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Wounded_British_soldiers_evacuated_from_Dunkirk_make_their_way_up_the_gangplank_from_a_destroyer_at_Dover%2C_31_May_1940._H1623.jpg",
+            "caption": "Wounded British soldiers evacuated from Dunkirk make their way up the gangpla...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bertram Ramsay",
+            "summary": "Royal Navy Admiral; commanded the Dunkirk evacuation (1883–1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Admiral_Sir_Bertram_Ramsay_TR2626.jpg/250px-Admiral_Sir_Bertram_Ramsay_TR2626.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bertram_Ramsay"
+        },
+        {
+            "name": "Harold Alexander, 1st Earl Alexander of Tunis",
+            "summary": "British field marshal; Governor General of Canada (1891–1969)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harold_Alexander_E010750678-v8.jpg/250px-Harold_Alexander_E010750678-v8.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harold_Alexander%2C_1st_Earl_Alexander_of_Tunis"
+        },
+        {
+            "name": "William Tennant (Royal Navy officer)",
+            "summary": "Royal Navy Admiral (1890–1963)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Vice_Admiral_Tennant_1945_IWM_A_29072.jpg/250px-Vice_Admiral_Tennant_1945_IWM_A_29072.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Tennant_%28Royal_Navy_officer%29"
+        },
+        {
+            "name": "Robert Peverell Hichens",
+            "summary": "British naval commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Robert_hichens.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Peverell_Hichens"
+        },
+        {
+            "name": "Jean-Marie Charles Abrial",
+            "summary": "French admiral and naval minister",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Agence_Rol_-_Commandant_Abrial_sur_le_Tourville_01.jpg/250px-Agence_Rol_-_Commandant_Abrial_sur_le_Tourville_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Marie_Charles_Abrial"
+        },
+        {
+            "name": "Gerd von Rundstedt",
+            "summary": "German field marshal (1875–1953)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bundesarchiv_Bild_183-S37772%2C_Gerd_v._Rundstedt_%28cropped%29.jpg/250px-Bundesarchiv_Bild_183-S37772%2C_Gerd_v._Rundstedt_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gerd_von_Rundstedt"
+        }
+    ],
+    "territory_geojson": null
+}

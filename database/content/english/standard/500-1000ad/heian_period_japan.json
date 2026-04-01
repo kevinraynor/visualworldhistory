@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2164,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:5c902b5d86511691c350972dd5a7c966693eb13dde0467738e32ee01c8275e13",
+    "summary": "The Heian Period (794–1185 AD) was the apex of classical Japanese court culture — an era centered on the new capital Heian-kyo (modern Kyoto) during which the Japanese aristocracy developed a distinctively Japanese aesthetic sensibility that has shaped Japanese art, literature, and cultural ideals ever since. The period is defined by the dominance of the Fujiwara clan, who governed through marriage to the imperial family rather than direct usurpation, keeping emperors as ceremonial figures while Fujiwara regents held real power. This political arrangement allowed the court to focus on an elaborate culture of aesthetic refinement — calligraphy, poetry competitions, music, elaborate dress, and the cultivation of mono no aware (the pathos of transience).\n\nHeian culture produced [[event:2165|The Tale of Genji]] (c. 1000 AD) by Murasaki Shikibu — widely considered the world's first novel — along with the Pillow Book of Sei Shonagon, and an enormous body of waka poetry. The development of the hiragana syllabic writing system (derived from Chinese characters) allowed women, who were not trained in Chinese, to write extensively in Japanese — paradoxically making women the dominant literary force of the period. The Heian period also saw Buddhism and Shinto develop in increasingly Japanese forms: esoteric Buddhism (Shingon and Tendai), with its elaborate rituals and mountain temples, became the dominant court religion. The period ended with the Genpei War (1180–1185 AD), in which military clans (samurai) overthrew the court aristocracy's political dominance and established the first shogunate at Kamakura.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heian_period",
+    "read_more_links": [
+        {
+            "title": "Fujiwara clan regency system",
+            "url": "https://en.wikipedia.org/wiki/Fujiwara_clan"
+        },
+        {
+            "title": "Heian literature culture",
+            "url": "https://en.wikipedia.org/wiki/Heian_period#Literature"
+        },
+        {
+            "title": "Hiragana writing system development",
+            "url": "https://en.wikipedia.org/wiki/Hiragana#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Standing_Komoku_Ten_%28Virupakusa%29_Heian_Period%2C_12th_century.tiff/300px-Standing_Komoku_Ten_%28Virupakusa%29_Heian_Period%2C_12th_century.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Standing_Komoku_Ten_%28Virupakusa%29_Heian_Period%2C_12th_century.tiff",
+            "caption": "Wood with polychromy and cut gold leaf\nHeian period, 12th century, japanese n...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Byodo-in_Uji01pbs2640.jpg/300px-Byodo-in_Uji01pbs2640.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Byodo-in_Uji01pbs2640.jpg",
+            "caption": "Byōdō-in's Phoenix Hall is a Japan's National Treasure in Uji, Kyoto prefectu...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Genji_emaki_azumaya.jpg/300px-Genji_emaki_azumaya.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Genji_emaki_azumaya.jpg",
+            "caption": "A scene (AZUMA YA: East Wing) of Illustrated scroll  of Tale of Genji (writte...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Genpei_kassen.jpg/300px-Genpei_kassen.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Genpei_kassen.jpg",
+            "caption": "\"Genpei Battle Screen\" Left screen with six leaves (of a pair), H. 61.6; L. 1...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Kanmu",
+            "summary": "Emperor of Japan from 781 to 806",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Emperor_Kammu_large.jpg/250px-Emperor_Kammu_large.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Kanmu"
+        },
+        {
+            "name": "Fujiwara no Yoshifusa",
+            "summary": "9th Century Japanese statesman and Regent to the Emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fujiwara_no_Yoshifusa.jpg/250px-Fujiwara_no_Yoshifusa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fujiwara_no_Yoshifusa"
+        },
+        {
+            "name": "Emperor Antoku",
+            "summary": "Emperor of Japan from 1180 to 1185",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Emperor_Antoku.jpg/250px-Emperor_Antoku.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Antoku"
+        },
+        {
+            "name": "Taira no Kiyomori",
+            "summary": "12th-century Japanese military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Taira_no_Kiyomori%2CTenshiSekkanMiei.jpg/250px-Taira_no_Kiyomori%2CTenshiSekkanMiei.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taira_no_Kiyomori"
+        },
+        {
+            "name": "Minamoto no Yoritomo",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1192 to 1199",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Minamoto_no_Yoritomo.jpg/250px-Minamoto_no_Yoritomo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo"
+        },
+        {
+            "name": "Sakanoue no Tamuramaro",
+            "summary": "Japanese general and shogun (758 – 811)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sakanoue_Tamuramaro_sw.jpg/250px-Sakanoue_Tamuramaro_sw.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sakanoue_no_Tamuramaro"
+        }
+    ],
+    "territory_geojson": null
+}

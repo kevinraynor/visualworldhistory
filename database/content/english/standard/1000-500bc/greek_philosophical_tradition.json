@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1937,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b1ba94f0fb9ea59dee88c82b511563f35cd9589d1aab000e0c55877bd40683a5",
+    "summary": "The Greek philosophical tradition began in the 6th century BC with the Presocratic philosophers of Ionia (western Anatolia) — thinkers who for the first time attempted to explain the natural world through rational inquiry rather than myth, seeking a single underlying principle (arche) behind the diversity of natural phenomena. Thales of Miletus, often considered the first philosopher, proposed water as this fundamental substance; his pupil Anaximander proposed the boundless (apeiron); Anaximenes proposed air; Heraclitus proposed fire and the logos (rational principle governing change).\n\nThis move from mythos (mythological narrative) to logos (rational argument) was a revolution in intellectual method, not merely in content. The Presocratics established the practice of arguing for claims about the world on the basis of evidence and reason, critiquing competing views, and expecting others to do the same — the foundational practice of philosophy and science. The tradition continued through the Pythagoreans (who proposed mathematical structure as fundamental), the Eleatics (Parmenides' argument that change is illusory), and culminated in the Classical period with Socrates, Plato, and Aristotle. Greek philosophy's influence on Western thought is incalculable — through its transmission via Rome, medieval Islamic scholarship, and European universities, it shaped the categories and methods of virtually all Western intellectual inquiry.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pre-Socratic_philosophy",
+    "read_more_links": [
+        {
+            "title": "Presocratic philosophers list",
+            "url": "https://en.wikipedia.org/wiki/Pre-Socratic_philosophy#Major_pre-Socratics"
+        },
+        {
+            "title": "Milesian school founders",
+            "url": "https://en.wikipedia.org/wiki/Milesian_school"
+        },
+        {
+            "title": "Mythos to logos transition",
+            "url": "https://en.wikipedia.org/wiki/Mythos_and_logos"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/300px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
+            "caption": "Roman copy of a Greek original from the 2nd-1st century BC",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Elmo%27s_fire-2.jpg/300px-Elmo%27s_fire-2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Elmo%27s_fire-2.jpg",
+            "caption": "St. Elmo’s fire on Masts of Ship at Sea",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hendrik_ter_Brugghen_-_Democritus.jpg/300px-Hendrik_ter_Brugghen_-_Democritus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hendrik_ter_Brugghen_-_Democritus.jpg",
+            "caption": "Pendant of File:Hendrik ter Brugghen - Heraclitus.jpg",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Death_of_Empedocles_by_Salvator_Rosa.jpg/300px-The_Death_of_Empedocles_by_Salvator_Rosa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Death_of_Empedocles_by_Salvator_Rosa.jpg",
+            "caption": "Salvator Rosa, 'The Death of Empedocles', c. 1665 – 1670, Oil\non canvas, 135 ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pythagoras",
+            "summary": "Greek philosopher (c. 570 – c. 495 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pythagoras"
+        },
+        {
+            "name": "Parmenides",
+            "summary": "5th-century BC Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Busto_di_Parmenide_%28cropped%29.jpg/250px-Busto_di_Parmenide_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Parmenides"
+        },
+        {
+            "name": "Heraclitus",
+            "summary": "Ancient Greek philosopher (fl. c. 500 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Heraclitus_b_4_compressed.jpg/250px-Heraclitus_b_4_compressed.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heraclitus"
+        },
+        {
+            "name": "Socrates",
+            "summary": "Greek philosopher (c. 470–399 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/250px-Socrate_du_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Socrates"
+        },
+        {
+            "name": "Anaximander",
+            "summary": "Ancient Greek philosopher (c. 610 – c. 546 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pietro_Bellotti_%28attr%29_Anaximander.jpg/250px-Pietro_Bellotti_%28attr%29_Anaximander.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anaximander"
+        },
+        {
+            "name": "Anaximenes of Miletus",
+            "summary": "Ancient Greek philosopher (c. 586 – c. 526 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anaximenes_Milesius_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png/250px-Anaximenes_Milesius_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anaximenes_of_Miletus"
+        }
+    ],
+    "territory_geojson": null
+}

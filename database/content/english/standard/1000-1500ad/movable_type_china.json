@@ -1,0 +1,70 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2243,
+    "parent_id": 2156,
+    "granularity": "notable",
+    "content_hash": "sha256:201ac35730934f5a4ad3e4b7c1e51cb405cf1c189868c2a69c6f551907fe89fb",
+    "summary": "The invention of movable type in Song Dynasty China by Bi Sheng (c. 1040 AD) predated Gutenberg's European press by roughly 400 years, representing a remarkable Chinese technological achievement that demonstrated sophisticated understanding of the principles underlying mass text reproduction. Bi Sheng created individual characters from baked clay set in an iron frame with pine-resin adhesive, allowing pages to be composed, printed, and then redistributed for reuse — the fundamental concept of movable-type printing.\n\nThe Chinese innovation, while conceptually brilliant, faced challenges that limited its transformative impact compared to the European printing revolution. The Chinese writing system requires thousands of distinct characters — a practical printer needed 5,000–7,000 common characters and a complete set might require tens of thousands — making the composition process far more labor-intensive than the European alphabet's 26 letters. Subsequent Chinese innovators developed wooden type (Wang Zhen, c. 1298) and bronze type (Korea, 13th century), and the technology was refined and spread across East Asia. Korean metal movable type printing, developed during the [[event:2212|Goryeo Dynasty]] by the mid-13th century, preceded Gutenberg and produced sophisticated printed books including the world's oldest surviving metal-type printed book (Jikji, 1377). Despite these innovations, traditional woodblock printing remained dominant in China for most texts, as skilled woodblock cutters could produce high-quality illustrated books more easily than movable type. The Chinese movable type tradition nonetheless represents one of the great technological achievements of medieval civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bi_Sheng",
+    "read_more_links": [
+        {
+            "title": "Korean metal movable type Goryeo Jikji",
+            "url": "https://en.wikipedia.org/wiki/Jikji"
+        },
+        {
+            "title": "Wang Zhen wooden type Chinese printing",
+            "url": "https://en.wikipedia.org/wiki/Wang_Zhen_(inventor)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg/300px-Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg",
+            "caption": "Rebuild of Bi Sheng (毕升/畢昇, 11th century) creation of mobile characters print...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ma_Lin_Guests.jpg/300px-Ma_Lin_Guests.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ma_Lin_Guests.jpg",
+            "caption": "Chinese painting of the Song Dynasty artist Ma Lin",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Shen Kuo",
+            "summary": "Chinese scientist and statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg/250px-Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shen_Kuo"
+        },
+        {
+            "name": "Emperor Renzong of Song",
+            "summary": "Chinese emperor from 1022 to 1063",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Renzong.jpg/250px-Renzong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Renzong_of_Song"
+        },
+        {
+            "name": "Kublai Khan",
+            "summary": "Emperor of Yuan China from 1271 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/250px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+        },
+        {
+            "name": "International Astronomical Union",
+            "summary": "Association of professional astronomers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IAU_logo.svg/250px-IAU_logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/International_Astronomical_Union"
+        },
+        {
+            "name": "Johannes Gutenberg",
+            "summary": "German inventor and craftsman (died 1468)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg/250px-Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1975,
+    "parent_id": 1974,
+    "granularity": "detailed",
+    "content_hash": "sha256:e1e9260724a66f83880e507308f158a1e7f187c0e930356f583e09fec50b6a7b",
+    "summary": "The Great Dam of Ma'rib (c. 750 BC, with earlier precursors and later expansions) was one of the most impressive hydraulic engineering achievements of the ancient world — a massive earthen dam across the Wadi Adhana in Yemen, standing approximately 4 meters high and 500–600 meters wide in its original form (later expanded to over 650 meters and 14 meters high by the 5th century BC), that channeled seasonal floodwaters to irrigate approximately 9,600 hectares of agricultural land.\n\nThe dam transformed the arid highland plateau around Ma'rib from desert into productive farmland capable of supporting a substantial population — the biblical description of the Queen of Sheba's kingdom as a land of plenty reflects the genuine agricultural prosperity the dam enabled. The dam was maintained and repaired many times over its roughly 1,000-year lifespan until its final collapse around 570 AD, described in the Quran (34:15-16) as a divine punishment on the ungrateful Sabaeans. The 'flood of Iram' narrative in the Quran — the catastrophic failure that turned the gardens to desert — became the archetypal story of civilizational decline in Islamic tradition. Modern Yemen built a new dam at the same site in 1986, and archaeological work has extensively documented the ancient structure.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marib_Dam",
+    "read_more_links": [
+        {
+            "title": "Ma'rib ancient capital",
+            "url": "https://en.wikipedia.org/wiki/Ma%27rib"
+        },
+        {
+            "title": "Quran flood of Iram story",
+            "url": "https://en.wikipedia.org/wiki/Marib_Dam#In_the_Quran"
+        },
+        {
+            "title": "Ancient irrigation systems comparison",
+            "url": "https://en.wikipedia.org/wiki/Irrigation#Ancient_irrigation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jemen1988-022_hg.jpg/300px-Jemen1988-022_hg.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jemen1988-022_hg.jpg",
+            "caption": "Yemen",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Marib_dam.jpg/300px-Marib_dam.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Marib_dam.jpg",
+            "caption": "Marib dam, Yemen",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/083_stari_jez.jpg/300px-083_stari_jez.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/083_stari_jez.jpg",
+            "caption": "Ostanki jezu v Maribu - nov je v neposredni bližini",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sheikh_Zayed_dancing_with_Yemeni_locals.png/300px-Sheikh_Zayed_dancing_with_Yemeni_locals.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sheikh_Zayed_dancing_with_Yemeni_locals.png",
+            "caption": "Sheikh Zayed dancing the traditional dance \"Bara'a\" with a Jambiya along with...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Marib Governorate",
+            "summary": "Governorate of Yemen",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ma%27rib_in_Yemen.svg/250px-Ma%27rib_in_Yemen.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marib_Governorate"
+        },
+        {
+            "name": "Ruins",
+            "summary": "Remains of human-made architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg/250px-Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruins"
+        },
+        {
+            "name": "Abraha",
+            "summary": "6th-century Ethiopian Aksumite military general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Balami_-_Tarikhnama_-_The_miraculous_rescue_of_the_Ka%27ba_from_Abraha%27s_attack_%28cropped%29.jpg/250px-Balami_-_Tarikhnama_-_The_miraculous_rescue_of_the_Ka%27ba_from_Abraha%27s_attack_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abraha"
+        },
+        {
+            "name": "Zayed bin Sultan Al Nahyan",
+            "summary": "President of the United Arab Emirates from 1971 to 2004",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sheikh_Zayed_with_King_Faisal%2C_1974_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zayed_bin_Sultan_Al_Nahyan"
+        },
+        {
+            "name": "Andrey Korotayev",
+            "summary": "Russian anthropologist (born 1961)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rift_Valley4.jpg/250px-Rift_Valley4.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrey_Korotayev"
+        }
+    ],
+    "territory_geojson": null
+}

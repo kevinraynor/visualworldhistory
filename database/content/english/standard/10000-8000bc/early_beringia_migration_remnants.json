@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1362,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9ec9b79799039716eb9fc9f95469d8c24017e5f0be1c9209be26f8e1a3b45f6d",
+    "summary": "Beringia was the land bridge connecting northeastern Asia (modern Siberia) to northwestern North America (modern Alaska) across what is now the Bering Sea, exposed when lower sea levels during the last glacial maximum withdrew enough water to create a broad plain up to 1,000 kilometers wide. This landmass was the gateway through which the first humans entered the Americas, most likely during the period 20,000–12,000 BCE, though the exact timing and number of migration events continues to be debated.\n\nBy 10,000–8,000 BCE, the land bridge itself was submerging as sea levels rose with the melting of the glacial ice sheets, and Beringia as a dry land connection was effectively closed by approximately 11,000 BCE. However, the populations that had crossed Beringia in earlier millennia had already dispersed widely across North and South America. The remnant human communities at the eastern edge of Beringia — in Alaska and the Yukon — during this period were adapting to the changing environment as the steppes and grasslands that had supported Pleistocene game gave way to boreal forest and tundra.\n\nGenetic studies of living and ancient Native American populations confirm that all indigenous Americans descend from a small number of Asian founding populations that crossed Beringia, with most of the genetic diversity of the Americas deriving from a single major founding population. Some genetic evidence suggests secondary migrations after the initial dispersal — possibly including the ancestors of Na-Dene speakers and the later Arctic-adapted populations. The study of Beringian archaeology and ancient DNA continues to refine understanding of how and when the Americas were peopled.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beringia",
+    "read_more_links": [
+        {
+            "title": "Peopling of the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas"
+        },
+        {
+            "title": "Land Bridge - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Land_bridge"
+        },
+        {
+            "title": "Native American Origins - Britannica",
+            "url": "https://www.britannica.com/topic/Native-American/Migration-theories"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Global_sea_levels_during_the_last_Ice_Age.jpg/300px-Global_sea_levels_during_the_last_Ice_Age.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Global_sea_levels_during_the_last_Ice_Age.jpg",
+            "caption": "Global sea levels during the last Ice Age",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geodispersal_at_Bering_Land_Bridge.png/300px-Geodispersal_at_Bering_Land_Bridge.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Geodispersal_at_Bering_Land_Bridge.png",
+            "caption": "The figure shows two maps viewed from the North Pole at early and mid-Late Cr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Beringia_20000bp_duration_of_snow_cover_days_1.png/300px-Beringia_20000bp_duration_of_snow_cover_days_1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Beringia_20000bp_duration_of_snow_cover_days_1.png",
+            "caption": "Duration of snow cover in days, East Beringia, 20000 years ago. Chelsa Trace ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vitus Bering",
+            "summary": "Danish-born Russian explorer (1681–1741)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vitus_Bering_reconstruction.jpg/250px-Vitus_Bering_reconstruction.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vitus_Bering"
+        }
+    ],
+    "territory_geojson": null
+}

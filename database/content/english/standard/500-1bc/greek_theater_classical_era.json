@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1189,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:13696358df04e29b1fc58519281bddc241c1a1b559a4d26c77a288debc446d2d",
+    "summary": "Greek Theater of the Classical Era (c. 496–406 BC) produced the dramatic tradition that is the direct ancestor of Western theater — with tragedies by Aeschylus, Sophocles, and Euripides, and comedies by Aristophanes, performed at religious festivals in Athens before audiences of thousands and exploring questions of fate, justice, politics, and human nature that remain compelling today.\n\nAthenian drama developed from choral performances at festivals of Dionysus, evolving through Aeschylus's innovation of a second actor (enabling genuine dialogue), Sophocles's introduction of a third actor and painted scenery, and Euripides's psychologically realistic characters. The three great tragedians — Aeschylus (Oresteia, Prometheus Bound), Sophocles (Oedipus Rex, Antigone), and Euripides (Medea, The Bacchae) — together created a dramatic tradition of unmatched depth. Performances took place in the Theater of Dionysus on the slope of the Acropolis; male actors wore masks and elevated shoes; the plays were staged as competitive festivals. Aristophanes's comedies (The Clouds, The Wasps, The Birds) used humor to mock politicians, philosophers, and social trends, making [[event:1024|Socrates' Trial and Execution]]'s Socrates a comic villain. The theater's influence on Western literature, from Shakespeare to opera to modern film, is incalculable.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece",
+    "read_more_links": [
+        {
+            "title": "Aeschylus",
+            "url": "https://en.wikipedia.org/wiki/Aeschylus"
+        },
+        {
+            "title": "Sophocles",
+            "url": "https://en.wikipedia.org/wiki/Sophocles"
+        },
+        {
+            "title": "Theater of Dionysus",
+            "url": "https://en.wikipedia.org/wiki/Theatre_of_Dionysus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_great_theater_of_Epidaurus%2C_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC%2C_Sanctuary_of_Asklepeios_at_Epidaurus%2C_Greece_%2814015010416%29.jpg/300px-The_great_theater_of_Epidaurus%2C_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC%2C_Sanctuary_of_Asklepeios_at_Epidaurus%2C_Greece_%2814015010416%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_great_theater_of_Epidaurus%2C_designed_by_Polykleitos_the_Younger_in_the_4th_century_BC%2C_Sanctuary_of_Asklepeios_at_Epidaurus%2C_Greece_%2814015010416%29.jpg",
+            "caption": "The great theater of Epidaurus, designed by Polykleitos the Younger in the 4t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Acropolis_amphitheatre_of_Pergamon_%282020%29.jpg/300px-Acropolis_amphitheatre_of_Pergamon_%282020%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Acropolis_amphitheatre_of_Pergamon_%282020%29.jpg",
+            "caption": "Acropolis amphitheatre of Pergamon in 2020",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Athen_Akropolis_%2818512008726%29.jpg/300px-Athen_Akropolis_%2818512008726%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Athen_Akropolis_%2818512008726%29.jpg",
+            "caption": "One of the most famous cities in europe. Eine der populärsten Städte in Europa.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ancient_Greek_theatre_in_Delos_01.jpg/300px-Ancient_Greek_theatre_in_Delos_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ancient_Greek_theatre_in_Delos_01.jpg",
+            "caption": "Ancient Greek theatre in Delos, Greece",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dionysus",
+            "summary": "Ancient Greek god of winemaking and wine",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dionysos_Louvre_Ma87_n2.jpg/250px-Dionysos_Louvre_Ma87_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dionysus"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        },
+        {
+            "name": "Socrates",
+            "summary": "Greek philosopher (c. 470–399 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/250px-Socrate_du_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Socrates"
+        },
+        {
+            "name": "Arion",
+            "summary": "Legendary musician of ancient Greece",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flute-player_dolphin_Alcesti_Group_MAN.jpg/250px-Flute-player_dolphin_Alcesti_Group_MAN.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arion"
+        },
+        {
+            "name": "Solon",
+            "summary": "Athenian statesman (c. 630 – c. 560 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG/250px-Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Solon"
+        },
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        }
+    ],
+    "territory_geojson": null
+}

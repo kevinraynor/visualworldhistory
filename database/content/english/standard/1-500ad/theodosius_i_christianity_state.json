@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2031,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:04be1c0691307ba4336a730cb4cb597f798e975e34d21d8afc34c22f4a04804d",
+    "summary": "Theodosius I (r. 379–395 AD) was the last emperor to rule the unified Roman Empire and the ruler who completed the Christianization of the Roman state — making Nicene Christianity not merely tolerated or favored but the exclusive official religion. His [[event:2859|Theodosius Edict]] (Edict of Thessalonica, 380 AD) made Nicene Christianity the only legitimate form of Christianity for Roman citizens; in 391 AD he prohibited all pagan sacrifices and closed all pagan temples, effectively ending official paganism in the empire.\n\nTheodosius's reign also saw the final [[event:2032|Division of Roman Empire]] at his death in 395 AD, when the empire was divided between his sons Arcadius (East) and Honorius (West) — a division that would prove permanent. His assertion of imperial power over the church had complex results: after the massacre of civilians at Thessalonica, Bishop Ambrose of Milan forced Theodosius to perform public penance — establishing the principle that even emperors were subject to moral judgment by the church. The First Council of Constantinople (381 AD) under his patronage completed the Nicene settlement of the Arian controversy and condemned various heresies including Apollinarianism and Macedonianism. Theodosius also banned the Olympic Games as pagan in 393 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_I",
+    "read_more_links": [
+        {
+            "title": "Edict of Thessalonica 380 AD",
+            "url": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica"
+        },
+        {
+            "title": "Ambrose penance Theodosius",
+            "url": "https://en.wikipedia.org/wiki/Ambrose#Confrontation_with_Theodosius"
+        },
+        {
+            "title": "Pagan temples closure 391",
+            "url": "https://en.wikipedia.org/wiki/Theodosius_I#Religious_policy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Head_of_Aphrodite_%28National_Archaeological_Museum_of_Athens%2C_1-31-2023%29.jpg/300px-Head_of_Aphrodite_%28National_Archaeological_Museum_of_Athens%2C_1-31-2023%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Head_of_Aphrodite_%28National_Archaeological_Museum_of_Athens%2C_1-31-2023%29.jpg",
+            "caption": "Head of Aphrodite. Marble. Found in the Roman Agora of Athens. From a larger ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Anthonis_van_Dyck_005.jpg/300px-Anthonis_van_Dyck_005.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Anthonis_van_Dyck_005.jpg",
+            "caption": "Anthonis van Dyck 005",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Obelisk_of_Theodosius%2C_details_of_the_base_of_the_Obelisk_of_Thutmose_III%2C_Hippodrome%2C_Istanbul_%288370192180%29.jpg/300px-The_Obelisk_of_Theodosius%2C_details_of_the_base_of_the_Obelisk_of_Thutmose_III%2C_Hippodrome%2C_Istanbul_%288370192180%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Obelisk_of_Theodosius%2C_details_of_the_base_of_the_Obelisk_of_Thutmose_III%2C_Hippodrome%2C_Istanbul_%288370192180%29.jpg",
+            "caption": "The white marble base is entirely covered with bas-reliefs documenting the Im...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Roman_empire_395.jpg/300px-Roman_empire_395.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Roman_empire_395.jpg",
+            "caption": "Das römische Reich zum Zeitpunkt des Todes Theodosius' I. 395 n. Chr.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Julian (emperor)",
+            "summary": "Roman emperor from 361 to 363, Neoplatonic philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Juliancng8851obverse.jpg/250px-Juliancng8851obverse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julian_%28emperor%29"
+        },
+        {
+            "name": "Theodosius II",
+            "summary": "Eastern Roman emperor from 402 to 450",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Theodosius_II_Louvre_Ma1036.jpg/250px-Theodosius_II_Louvre_Ma1036.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_II"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Valens",
+            "summary": "Roman emperor from 364 to 378",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/INC-3015-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4._%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82_II._%D0%9E%D0%BA._364_%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png/250px-INC-3015-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4._%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82_II._%D0%9E%D0%BA._364_%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valens"
+        },
+        {
+            "name": "Arcadius",
+            "summary": "Roman emperor from 383 to 408",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Arcadius_Istanbul_Museum.JPG/250px-Arcadius_Istanbul_Museum.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arcadius"
+        },
+        {
+            "name": "Gratian",
+            "summary": "Roman emperor from 367 to 383",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gratian_Trier_enhanced.jpg/250px-Gratian_Trier_enhanced.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gratian"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1304,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:bd7044c22a6ba0dffb7aa08acd2c0fd2bf50746e82262518b2fa51b6c151d92a",
+    "summary": "The Pre-Pottery Neolithic A (PPNA) is an archaeological culture of the Levant dated to approximately 9500–8500 BCE, representing the earliest phase of the Neolithic Revolution in southwestern Asia and the world. PPNA communities were among the first humans to establish permanent agricultural settlements, grow cultivated crops, and construct permanent architecture on a significant scale — achievements that mark the beginning of one of the most transformative periods in human history.\n\nPPNA is defined by its absence of pottery — the communities of this period had not yet developed ceramic technology — alongside its distinctive stone tool industry and evidence of crop cultivation and early animal management. Major PPNA sites include [[event:2|Jericho]] in the Jordan Valley, [[event:1251|Mureybet]] and [[event:1263|Jerf el Ahmar]] on the Euphrates, [[event:1312|Netiv Hagdud]] in Israel, and numerous sites across Syria, Jordan, and the southern Levant. These communities cultivated wild and early-domesticated emmer wheat, einkorn wheat, and barley, harvested with stone-bladed sickles, and stored grain in subterranean pits and above-ground storage structures.\n\nThe most remarkable architectural achievement of the PPNA is the construction at Jericho of a massive stone tower approximately 8.5 meters tall with an internal staircase, and a thick defensive wall around the settlement — structures requiring organized communal labor and planning on a scale previously unrecorded in prehistory. Whether the Jericho wall was genuinely defensive, served as a flood barrier, or had ritual significance continues to be debated by archaeologists.\n\nThe PPNA demonstrates that settled life, food storage, and monumental construction preceded full agricultural domestication — some PPNA communities may still have been harvesting morphologically wild plants while already living in permanent villages. The PPNA was succeeded by the [[event:18|Pre-Pottery Neolithic B]], which saw further expansion and elaboration of farming communities across a wider geographic range.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A",
+    "read_more_links": [
+        {
+            "title": "Pre-Pottery Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic"
+        },
+        {
+            "title": "Neolithic Revolution - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Revolution"
+        },
+        {
+            "title": "Levantine Neolithic - Britannica",
+            "url": "https://www.britannica.com/topic/Natufian-culture"
+        },
+        {
+            "title": "Jericho Tower - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tower_of_Jericho"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/300px-G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+            "caption": "Göbekli Tepe, Şanlıurfa",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ziko.jpg/300px-Ziko.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ziko.jpg",
+            "caption": "Tel Essultan site",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reliefs_of_animals%2C_G%C3%B6bekli_Tepe_Layer_III%2C_circa_9000_BCE.jpg/300px-Reliefs_of_animals%2C_G%C3%B6bekli_Tepe_Layer_III%2C_circa_9000_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Reliefs_of_animals%2C_G%C3%B6bekli_Tepe_Layer_III%2C_circa_9000_BCE.jpg",
+            "caption": "Göbekli Tepe reliefs of animals",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Urfa_man.jpg/300px-Urfa_man.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Urfa_man.jpg",
+            "caption": "Urfa man, also known as the \"Balikligöl Statue\", Pre-Pottery Neolithic.\nhttps...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

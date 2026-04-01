@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 104,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:213bf8163f8a1559735e91c403d85453f08d95e96685da96724b47af28d833dc",
+    "summary": "The Scientific Revolution (c. 1543–1687 AD) was a profound transformation in European understanding of the natural world, spanning roughly from [[event:3862|Copernicus's heliocentric model]] (1543) through [[event:3864|Newton's Principia Mathematica]] (1687), during which the medieval Aristotelian worldview was replaced by a new framework of mathematical laws, systematic observation, and experimental testing that created the foundations of modern science. The revolution unfolded across multiple disciplines simultaneously: [[event:2364|Copernicus]] displaced the Earth from the center of the cosmos; Tycho Brahe compiled unprecedented astronomical observations; [[event:2474|Kepler]] derived mathematical laws of planetary motion; [[event:2362|Galileo]] used the telescope to observe mountains on the moon and moons around Jupiter, providing direct evidence against Aristotelian cosmology; [[event:2473|Descartes]] reformulated philosophical foundations of knowledge; and Newton synthesized celestial and terrestrial mechanics into a universal law of gravitation expressed in mathematical form.\n\nThe Scientific Revolution's institutional and methodological innovations were as significant as its specific discoveries. Francis Bacon articulated an empiricist program of systematic observation and inductive reasoning; the Royal Society of London (founded 1660) and the Académie des Sciences in Paris created institutional frameworks for collective scientific communication. The [[event:2475|microscope]] opened the world of cells and microorganisms; [[event:3288|Robert Boyle]] formulated laws of gas behavior and helped define chemistry as a distinct science; [[event:3289|Leibniz]] and Newton independently developed calculus. The revolution created not only new knowledge but a new epistemology — a conviction that nature operated according to discoverable mathematical laws accessible through reason and experiment — that drove the subsequent [[event:2346|Enlightenment]], the [[event:108|Industrial Revolution]], and ultimately all of modern technological civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scientific_revolution",
+    "read_more_links": [
+        {
+            "title": "Copernicus heliocentric model 1543 revolution",
+            "url": "https://en.wikipedia.org/wiki/Copernican_Revolution"
+        },
+        {
+            "title": "Galileo telescope observations moons Jupiter",
+            "url": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+        },
+        {
+            "title": "Newton Principia universal gravitation laws motion",
+            "url": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

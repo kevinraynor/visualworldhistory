@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2536,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:595ab9a83b961b21422c27db2bb4338226aeb361ee55682a2f807bf0c9cfd423",
+    "summary": "The American Civil War, fought from April 1861 to April 1865, was the bloodiest conflict in American history and one of the defining events of the nineteenth century. It resolved two fundamental questions that had haunted the United States since its founding: whether the union of states was perpetual or whether states could secede, and whether a republic dedicated to human equality could continue to sustain the institution of chattel slavery.\n\nThe war originated in the deepening sectional crisis over slavery that had been building since the nation's founding. The election of Abraham Lincoln in November 1860 on a platform of preventing slavery's expansion into the western territories triggered the secession of seven Deep South states even before Lincoln's inauguration. Four more states seceded after the war began. The Confederate States of America, with Jefferson Davis as president, established a rival government at Richmond, Virginia, and raised armies to defend what Confederate leaders explicitly described as a social and economic order founded on racial slavery.\n\nThe early years of the war produced a series of costly Confederate victories in the eastern theater, where General Robert E. Lee's Army of Northern Virginia consistently outmaneuvered and defeated larger Union forces. The Confederacy's hopes of foreign recognition — particularly from Britain and France, whose textile industries depended on Southern cotton — and of breaking Northern will through offensive operations reached their apex with Lee's invasions of the North at Antietam (September 1862) and Gettysburg (July 1863).\n\nThe [[event:2539|Emancipation Proclamation]], issued by Lincoln on 1 January 1863, transformed the war's character. By declaring enslaved people in Confederate states free, it made the destruction of slavery an explicit Union war aim and prevented European powers sympathetic to the Confederacy from offering recognition or intervention without appearing to support slavery. Simultaneously, it opened the Union Army to African American soldiers, eventually enlisting over 180,000 Black men who fought in segregated units.\n\nThe turning point came in the summer of 1863 with twin Union victories: the [[event:2538|Battle of Gettysburg]] in the east, which repulsed Lee's second invasion of the North and inflicted irreplaceable casualties on his army, and the fall of Vicksburg in the west, which gave the Union control of the Mississippi River and split the Confederacy. In 1864, Ulysses S. Grant, appointed commander of all Union armies, implemented a strategy of simultaneous pressure across all fronts, grinding down Confederate manpower and resources while General William Sherman's March to the Sea devastated Georgia and South Carolina.\n\nLee surrendered to Grant at Appomattox Court House on 9 April 1865. The war had cost approximately 620,000 to 750,000 lives — more American deaths than any other conflict before or since. Lincoln was assassinated five days later. The [[event:2537|Thirteenth Amendment]] abolishing slavery was ratified in December 1865, followed by the [[event:2580|Reconstruction era]] that attempted, with ultimately limited success, to integrate formerly enslaved people as citizens into American society. The Civil War's legacy — the contested meanings of race, citizenship, and American identity — continues to shape the nation's politics and culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Civil_War",
+    "read_more_links": [
+        {
+            "title": "American Civil War – Britannica",
+            "url": "https://www.britannica.com/event/American-Civil-War"
+        },
+        {
+            "title": "Abraham Lincoln – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+        },
+        {
+            "title": "Emancipation Proclamation – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+        },
+        {
+            "title": "Battle of Gettysburg – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg/300px-Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg",
+            "caption": "L. Prang & Co.  print of the painting \"Hancock at Gettysburg\" by Thure de Thu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg/300px-Thure_de_Thulstrup_-_Battle_of_Antietam.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Thure_de_Thulstrup_-_Battle_of_Antietam.jpg",
+            "caption": "Battle of Antietam by Thure de Thulstrup, published by L. Prang & Co.  Specif...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Battle_of_Hampton_Roads_3g01752u.jpg/300px-Battle_of_Hampton_Roads_3g01752u.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Battle_of_Hampton_Roads_3g01752u.jpg",
+            "caption": "Print shows a battle scene between the ironclads Monitor and Merrimac just of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chickamauga.jpg/300px-Chickamauga.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chickamauga.jpg",
+            "caption": "Battle of Chickamauga",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Abraham Lincoln",
+            "summary": "President of the United States from 1861 to 1865",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/250px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+        },
+        {
+            "name": "Emancipation Proclamation",
+            "summary": "Executive order by U.S. President Abraham Lincoln freeing slaves in the South",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg/250px-Hand_colored_Emancipation_The_Past_and_the_Future_by_Thomas_Nast.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+        },
+        {
+            "name": "William Tecumseh Sherman",
+            "summary": "United States Army general (1820–1891)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/General_William_T._Sherman_%284190887790%29_%28cropped%29.jpg/250px-General_William_T._Sherman_%284190887790%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman"
+        },
+        {
+            "name": "James Buchanan",
+            "summary": "President of the United States from 1857 to 1861",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/250px-James_Buchanan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Buchanan"
+        }
+    ],
+    "territory_geojson": null
+}

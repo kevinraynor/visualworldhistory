@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2274,
+    "parent_id": 2273,
+    "granularity": "detailed",
+    "content_hash": "sha256:4c3ed2b02a9c9c85831dacf75a509e0c536c2c803664e95b075770247d0eb5e8",
+    "summary": "The Battle of Hattin (July 4, 1187 AD) was the decisive engagement in which [[event:2273|Saladin's]] forces annihilated the main Crusader army of the [[event:2965|Kingdom of Jerusalem]], killing or capturing virtually the entire fighting strength of the Crusader states and making the subsequent recapture of Jerusalem and most of the Crusader territories almost inevitable. Saladin lured the Crusader army — led by the overconfident King Guy of Lusignan — away from water sources in the summer heat, surrounding it on the twin-peaked volcanic hill of Hattin while denying it access to the Sea of Galilee.\n\nThe Crusader army, dying of thirst in the summer heat while surrounded by Saladin's cavalry and harassed by brush fires and arrow storms, disintegrated as infantry broke formation attempting to reach water. The cavalry charges of the Crusader knights were repulsed repeatedly; by nightfall the army had effectively ceased to exist as a fighting force. King Guy was captured; Reynald of Chatillon — who had repeatedly broken truces with Saladin — was personally executed by Saladin. The True Cross, the Crusaders' most sacred relic (a fragment believed to be from the cross of the Crucifixion), was captured and never returned. The loss of the True Cross shattered Crusader morale. Within months, Saladin had captured Jerusalem and most of the major Crusader fortresses. The disaster at Hattin triggered the [[event:2222|Third Crusade]], which recovered the coast but could not reclaim Jerusalem — Hattin had permanently shifted the strategic balance of the Crusading conflict in Islam's favor.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Hattin",
+    "read_more_links": [
+        {
+            "title": "Battle Hattin thirst tactics Saladin",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Hattin#Battle"
+        },
+        {
+            "title": "True Cross captured Hattin relic",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Hattin#Aftermath"
+        },
+        {
+            "title": "Reynald Chatillon execution Saladin",
+            "url": "https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hittin.jpg/300px-Hittin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hittin.jpg",
+            "caption": "Hittin, Israel. site of the famous battle between the moslems and the crusade...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Banner_of_the_Principality_of_Antioch.png/300px-Banner_of_the_Principality_of_Antioch.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Banner_of_the_Principality_of_Antioch.png",
+            "caption": "Heraldic Banner of the Principality of Antioch under the Poitiers-Antioch dyn...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saladin_Guy.jpg/300px-Saladin_Guy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Saladin_Guy.jpg",
+            "caption": "Saladin a spol",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gustave_Dor%C3%A9-_Battle_of_Hattin.jpg/300px-Gustave_Dor%C3%A9-_Battle_of_Hattin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gustave_Dor%C3%A9-_Battle_of_Hattin.jpg",
+            "caption": "Battle of Hattin",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Saladin",
+            "summary": "Founder of the Ayyubid dynasty (c. 1137–1193)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saladin"
+        },
+        {
+            "name": "Guy of Lusignan",
+            "summary": "King of Jerusalem from 1186 to 1192",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coin_issued_by_Guy_de_Lusignan_during_when_he_was_Lord_of_Cyprus_%28Crop%29.png/250px-Coin_issued_by_Guy_de_Lusignan_during_when_he_was_Lord_of_Cyprus_%28Crop%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guy_of_Lusignan"
+        },
+        {
+            "name": "Raynald of Châtillon",
+            "summary": "Crusader and military leader (1125–1187)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ReynaldofChatillon%26PatriarchofAntioch.jpg/250px-ReynaldofChatillon%26PatriarchofAntioch.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raynald_of_Ch%C3%A2tillon"
+        },
+        {
+            "name": "Aimery of Cyprus",
+            "summary": "King of Jerusalem (1198–1205) and Cyprus (1196–1205)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Aimery_II_de_Lusignan.png/250px-Aimery_II_de_Lusignan.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aimery_of_Cyprus"
+        },
+        {
+            "name": "Reginald of Sidon",
+            "summary": "Crusader noble (died 1202)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Renaud%2C_comte_de_Sidon.png/250px-Renaud%2C_comte_de_Sidon.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Reginald_of_Sidon"
+        },
+        {
+            "name": "Gökböri",
+            "summary": "General of Saladin, ruler of Erbil and founder of the Ceremony of Mawlid (1154–1233)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Begtiginids._Muzaffar_al-Din_K%C3%B6kburi._AH_563-630_%28AD_1167-1233%29._%29Arbil_mint._Dated_AH_587_%28AD_1191-2%29%2C_obverse._Bareheaded_and_draped_bust_left%3B_name_and_titles_of_Muzaffar_al-Din_K%C3%B6kburi_in_outer_margin.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%B6kb%C3%B6ri"
+        }
+    ],
+    "territory_geojson": null
+}

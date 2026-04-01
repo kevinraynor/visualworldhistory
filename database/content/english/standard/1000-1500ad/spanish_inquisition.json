@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2287,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:5a436cbd738deec5f40ce76eef3ea7fb0df5379a3935a1766d3250b80bd9b41c",
+    "summary": "The Spanish Inquisition (established 1478, formally abolished 1834) was a tribunal of the Catholic Church established by the Spanish monarchs Ferdinand and Isabella under a papal bull from Pope Sixtus IV, originally to investigate and punish heresy among conversos — Jewish and Muslim converts to Christianity who were suspected of secretly maintaining their original religious practices. Unlike earlier medieval inquisitions operating under direct papal authority, the Spanish Inquisition was under royal control, functioning as an instrument of both religious orthodoxy and monarchical consolidation in the newly united Spanish kingdom.\n\nThe Inquisition's methods — arrest on secret denunciation, judicial torture to obtain confession, public trials culminating in the auto-da-fé (act of faith) where convicted heretics were publicly sentenced — created a climate of fear and suspicion, particularly among the converso population whose New Christian status was perpetually questioned. The most notorious Inquisitor General was Tomás de Torquemada (1483–1498), under whose direction thousands were tried and perhaps 2,000 executed — a number that was long exaggerated in Protestant polemical literature but represents real suffering nonetheless. The Inquisition's activities against Protestants in the 16th century and alleged witches extended its reach. The expulsion of the Jews from Spain in 1492 — the Alhambra Decree, issued the same year Columbus sailed — was a related but separate royal policy that drove hundreds of thousands of Jews into the Ottoman Empire, North Africa, and elsewhere. The Spanish Inquisition became the defining symbol in Protestant countries of Catholic religious tyranny and has profoundly shaped Western historical memory.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+    "read_more_links": [
+        {
+            "title": "Torquemada Inquisitor General methods",
+            "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_de_Torquemada"
+        },
+        {
+            "title": "Auto-da-fé Spanish Inquisition ceremony",
+            "url": "https://en.wikipedia.org/wiki/Auto-da-f%C3%A9"
+        },
+        {
+            "title": "Alhambra Decree Jewish expulsion Spain 1492",
+            "url": "https://en.wikipedia.org/wiki/Alhambra_Decree"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mateo_Zapata.jpg/300px-Mateo_Zapata.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mateo_Zapata.jpg",
+            "caption": "Goya aguada. Diego Mateo López Zapata in his cell before its trial by the Inq...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/300px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg",
+            "caption": "Facing Saint Peter's basilica, Rome, Italy, Vatican City.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Museo_de_la_Tortura_Toledo_18.jpg/300px-Museo_de_la_Tortura_Toledo_18.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Museo_de_la_Tortura_Toledo_18.jpg",
+            "caption": "Museo de la Tortura Toledo",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/La_Virgen_de_los_Reyes_Cat%C3%B3licos.jpg/300px-La_Virgen_de_los_Reyes_Cat%C3%B3licos.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/La_Virgen_de_los_Reyes_Cat%C3%B3licos.jpg",
+            "caption": "sacra conversazione ",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ferdinand II of Aragon",
+            "summary": "King of Aragon from 1479 to 1516",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Michel_Sittow_004.jpg/250px-Michel_Sittow_004.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon"
+        },
+        {
+            "name": "Isabella I of Castile",
+            "summary": "Queen of Castile and León from 1474 to 1504",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IsabellaofCastile03.jpg/250px-IsabellaofCastile03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+        },
+        {
+            "name": "Constantine the Great",
+            "summary": "Roman emperor from 306 to 337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/250px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        },
+        {
+            "name": "Theodosius I",
+            "summary": "Roman emperor from 379 to 395",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bust_of_Theodosius_I.jpg/250px-Bust_of_Theodosius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_I"
+        },
+        {
+            "name": "Theodosius II",
+            "summary": "Eastern Roman emperor from 402 to 450",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Theodosius_II_Louvre_Ma1036.jpg/250px-Theodosius_II_Louvre_Ma1036.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_II"
+        },
+        {
+            "name": "Sisebut",
+            "summary": "Visigothic King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sisebut1.jpg/250px-Sisebut1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sisebut"
+        }
+    ],
+    "territory_geojson": null
+}

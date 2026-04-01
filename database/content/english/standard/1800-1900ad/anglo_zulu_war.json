@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2594,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c8d347183a983c7d2e0efebb345982260abda72de6955a42453de28ef9d42bb6",
+    "summary": "The Anglo-Zulu War of 1879 was a conflict between the British Empire and the Zulu Kingdom of southern Africa that began with a catastrophic British defeat and ended with the British conquest and division of the Zulu kingdom. It remains one of the most dramatic episodes of the [[event:2545|Scramble for Africa]] and a powerful example of the extraordinary military capacity of the Zulu kingdom before its final defeat.\n\nThe war was initiated by the British High Commissioner for Southern Africa, Sir Henry Bartle Frere, who issued an ultimatum to the Zulu king Cetshwayo that was designed to provoke war and eliminate the powerful Zulu kingdom as a perceived threat to British plans for a South African confederation. When Cetshwayo refused to disband his army on the terms demanded, British forces invaded Zululand in January 1879.\n\nThe [[event:2595|Battle of Isandlwana]] on 22 January 1879 — the same day as the remarkable British defense of Rorke's Drift — saw a Zulu force of approximately 20,000 warriors annihilate a British column of about 1,700 men, killing over 1,300 soldiers in a matter of hours. It was one of the worst defeats in British colonial military history and sent shock waves through the Empire. The Zulu victory demonstrated the tactical sophistication and fighting power of the Zulu military system, particularly the 'bull horn' encirclement formation.\n\nBritain reinforced heavily and resumed the campaign. The Zulu army was decisively defeated at the Battle of Ulundi in July 1879. Cetshwayo was captured and the Zulu kingdom was divided among thirteen British-appointed chieftains, deliberately fragmenting the political unity that had made it such a formidable power. The war became the subject of intense popular interest in Britain and remains a prominent episode in British imperial history, particularly through the enduring fame of the defense of Rorke's Drift, where about 150 British soldiers successfully defended their position against a force of 3,000–4,000 Zulu warriors.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anglo-Zulu_War",
+    "read_more_links": [
+        {
+            "title": "Anglo-Zulu War – Britannica",
+            "url": "https://www.britannica.com/event/Anglo-Zulu-War"
+        },
+        {
+            "title": "Battle of Isandlwana – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Isandlwana"
+        },
+        {
+            "title": "Cetshwayo – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cetshwayo_kaMpande"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg/300px-Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg",
+            "caption": "Painting of the Battle of Rorke's Drift which took place in Natal during the ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Military_Map_of_Zulu_Land.jpg/300px-Military_Map_of_Zulu_Land.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Military_Map_of_Zulu_Land.jpg",
+            "caption": "Military Map of Zulu Land, 1879",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ntombe.jpg/300px-Ntombe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ntombe.jpg",
+            "caption": "The Zulu War, Attack on an Escort of the 80th Regiment at the Intombi River. ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Anglo-Zulu_War_collage.png/300px-Anglo-Zulu_War_collage.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Anglo-Zulu_War_collage.png",
+            "caption": "A collage of major events during the Anglo-Zulu War of 1879. From left to rig...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Redvers Buller",
+            "summary": "British Army general (1839–1908)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/VCRedversHenryBuller.jpg/250px-VCRedversHenryBuller.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Redvers_Buller"
+        },
+        {
+            "name": "Henry Pulleine",
+            "summary": "Commander in the British Army (1838–1879)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Henry_Burmester_Pulleine.jpg/250px-Henry_Burmester_Pulleine.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Pulleine"
+        },
+        {
+            "name": "Cetshwayo",
+            "summary": "King of the Zulu Kingdom (1826–1884)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Cetshwayo_ka_Mpande%2C_cropped.jpg/250px-Cetshwayo_ka_Mpande%2C_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cetshwayo"
+        },
+        {
+            "name": "Ntshingwayo Khoza",
+            "summary": "Zulu warrior and leader (1809–1883)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nthsingwayo_kaMahole.jpg/250px-Nthsingwayo_kaMahole.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ntshingwayo_Khoza"
+        },
+        {
+            "name": "Dabulamanzi kaMpande",
+            "summary": "Zulu commander (1839-1886)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dabulamanzi%2C_crop.jpg/250px-Dabulamanzi%2C_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dabulamanzi_kaMpande"
+        },
+        {
+            "name": "Diamond rush",
+            "summary": "New diamond discovery triggering an onrush of miners seeking their fortune",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/DF1873_The_New_Rush_market.jpg/250px-DF1873_The_New_Rush_market.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diamond_rush"
+        }
+    ],
+    "territory_geojson": null
+}

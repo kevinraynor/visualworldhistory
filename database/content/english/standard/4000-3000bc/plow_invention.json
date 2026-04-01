@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3429,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f41eb1f259886d45d91531dc30620c88f414ec8ea86c60369e30f4c949ed680b",
+    "summary": "The ard or scratch plow, the earliest form of the plow, is attested in Mesopotamia and Egypt from at least 3500 BCE and possibly earlier. Unlike a moldboard plow, which turns over the soil, the ard merely breaks and aerates the surface, but this was sufficient to permit the cultivation of much larger areas of land than was possible with hand tools alone. Pictographic representations of oxen-drawn ards appear on Mesopotamian tablets from the Uruk period, and ard marks preserved beneath burial mounds have been found across Europe and the Near East.\n\nThe adoption of draft animal-powered plowing represented a fundamental shift in the energy basis of agriculture, harnessing animal muscle to replace human labor for the most laborious field preparation tasks. Combined with the adoption of the [[event:1691|wheeled vehicle]], draft animal plowing transformed the productive capacity of farming communities and contributed to the population growth and surplus accumulation that supported the [[event:1617|Uruk period]] cities. The plow was independently invented or adopted across the Old World — spreading from the Near East into Europe, South Asia, and eventually East Asia — and remains in continuous use today.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plough",
+    "read_more_links": [
+        {
+            "title": "History of the Plow - Britannica",
+            "url": "https://www.britannica.com/technology/plow"
+        },
+        {
+            "title": "Agricultural Revolution - Oxford Handbooks",
+            "url": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199569885.001.0001/oxfordhb-9780199569885"
+        },
+        {
+            "title": "Draft Animals and Early Agriculture - Cambridge",
+            "url": "https://www.cambridge.org/core/journals/world-archaeology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg/300px-Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg",
+            "caption": "Rosa Bonheur - Ploughing in Nevers - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Steel_plough%2C_Emly.jpg/300px-Steel_plough%2C_Emly.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Steel_plough%2C_Emly.jpg",
+            "caption": "Steel plough, Emly",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Robert_Burns_statue%2C_Schenley_Park%2C_Pittsburgh_-_1.jpg/300px-Robert_Burns_statue%2C_Schenley_Park%2C_Pittsburgh_-_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Robert_Burns_statue%2C_Schenley_Park%2C_Pittsburgh_-_1.jpg",
+            "caption": "Robert Burns statue, Schenley Park, Pittsburgh, Pennsylvania, USA. Sculptor: ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bigham_Brother_Tomato_Tiller.JPG/300px-Bigham_Brother_Tomato_Tiller.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bigham_Brother_Tomato_Tiller.JPG",
+            "caption": "A one pass seedbed till (a sort of ridger) by Bigham Brothers at World Ag Exp...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Decomposition",
+            "summary": "Process of breaking down organic matter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Strawberries_time-lapse.ogv/150px--Strawberries_time-lapse.ogv.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Decomposition"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        }
+    ],
+    "territory_geojson": null
+}

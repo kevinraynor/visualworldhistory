@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1988,
+    "parent_id": 1987,
+    "granularity": "detailed",
+    "content_hash": "sha256:96150c7f77189fd2eee6f7802cfd69d406943280116245bc5b04ca4937ade8ce",
+    "summary": "The Foundation of Syracuse (734 BC) by Corinthian colonists led by the oikist Archias was the establishment of what would become the largest and most powerful Greek city in the western Mediterranean. Located on the southeastern coast of Sicily on a natural harbor island (Ortygia) connected to the mainland, Syracuse combined ideal harbor conditions, fertile agricultural hinterland, and a defensible position that made it naturally suited to becoming a major power.\n\nOver the following centuries, Syracuse grew from a colony to an empire in miniature under its series of powerful tyrants — [[event:1988|Foundation of Syracuse]]'s Gelon (who defeated the Carthaginian invasion at Himera in 480 BC on the same day as Salamis, according to tradition), Hiero I (patron of Pindar and Aeschylus), Dionysius I (who built the largest empire in the Greek West), and Dionysius II. The city's defeat of the massive Athenian expedition (415–413 BC) was one of the greatest military reversals in ancient history, destroying an Athenian force of over 40,000 men in Sicily. Syracuse was eventually taken by Rome after the [[event:3817|Siege of Syracuse]] (212 BC), ending its independent history, but its cultural legacy — Archimedes, Theocritus, the Sicilian Greek tradition — was enormous.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Syracuse,_Sicily",
+    "read_more_links": [
+        {
+            "title": "Gelon tyrant Himera victory",
+            "url": "https://en.wikipedia.org/wiki/Gelon"
+        },
+        {
+            "title": "Athenian expedition Sicily disaster",
+            "url": "https://en.wikipedia.org/wiki/Sicilian_Expedition"
+        },
+        {
+            "title": "Dionysius I of Syracuse",
+            "url": "https://en.wikipedia.org/wiki/Dionysius_I_of_Syracuse"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neapolis_Archaelogical_Park%2C_with_the_The_Basilica_of_the_Madonna_delle_Lacrime_in_the_Background%2C_Syracuse%2C_Sicily.jpg/300px-Neapolis_Archaelogical_Park%2C_with_the_The_Basilica_of_the_Madonna_delle_Lacrime_in_the_Background%2C_Syracuse%2C_Sicily.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Neapolis_Archaelogical_Park%2C_with_the_The_Basilica_of_the_Madonna_delle_Lacrime_in_the_Background%2C_Syracuse%2C_Sicily.jpg",
+            "caption": "Neapolis Archaelogical Park, with the The Basilica of the Madonna delle Lacri...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Castello_Maniace_Front.jpg/300px-Castello_Maniace_Front.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Castello_Maniace_Front.jpg",
+            "caption": "The Castello Maniace inside the fortress in Syracuse",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fountain_of_Diana_%2839548913321%29.jpg/300px-Fountain_of_Diana_%2839548913321%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fountain_of_Diana_%2839548913321%29.jpg",
+            "caption": "Fountain of Diana",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Blue_Hour_Piazza_Duomo_5_-_Syracuse_-_Unesco_World_Heritage.jpg/300px-Blue_Hour_Piazza_Duomo_5_-_Syracuse_-_Unesco_World_Heritage.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Blue_Hour_Piazza_Duomo_5_-_Syracuse_-_Unesco_World_Heritage.jpg",
+            "caption": "Piazza Duomo (Syracuse - Unesco World Heritage) during the blue hour. Few min...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Archimedes",
+            "summary": "Greek mathematician and physicist (c. 287 – 212 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/250px-Domenico-Fetti_Archimedes_1620.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archimedes"
+        },
+        {
+            "name": "Francesco Italia",
+            "summary": "Italian politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Francesco_Italia.jpg/250px-Francesco_Italia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Italia"
+        },
+        {
+            "name": "Saint Lucy",
+            "summary": "Third-fourth century Christian martyr and a canonized saint",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg/250px-Niccol%C3%B2_di_Segna_-_Saint_Lucy_-_Walters_37756.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Lucy"
+        },
+        {
+            "name": "Constans II",
+            "summary": "Roman emperor from 641 to 668",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Solidus_Constans_II_%28obverse%29.jpg/250px-Solidus_Constans_II_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constans_II"
+        },
+        {
+            "name": "Sicilian Baroque",
+            "summary": "Baroque architectural style from Sicily",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Catania%2C_Basilica_Collegiata_-_panoramio.jpg/250px-Catania%2C_Basilica_Collegiata_-_panoramio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sicilian_Baroque"
+        },
+        {
+            "name": "Agathocles of Syracuse",
+            "summary": "Greek tyrant of Syracuse from 317 to 289 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Agathokles_Musei_Vaticani.jpg/250px-Agathokles_Musei_Vaticani.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Agathocles_of_Syracuse"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2103,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:50db84ad63bc02be138dcbc593911adb3850ae00cab491aeeb8b2ae844c19634",
+    "summary": "Neoplatonism (founded c. 3rd century AD by Plotinus in Alexandria and Rome) was the last great philosophical system of pagan antiquity — a sophisticated metaphysical and mystical philosophy that synthesized Plato's ideas with Pythagorean and Stoic elements into a comprehensive account of reality, knowledge, and the soul's journey. Plotinus (204–270 AD), who studied in Alexandria before moving to Rome and attracting a circle of aristocratic students, produced the Enneads (edited by his student Porphyry) — arguably the most profound philosophical work of the ancient world after Plato and Aristotle. His system posited a hierarchical emanation of reality from the supreme principle 'the One,' through 'Intellect' (nous) and 'Soul,' down to matter.\n\nNeoplatonism's influence on subsequent thought was immense and paradoxical: though a pagan philosophy, it became the intellectual framework through which Christian theologians understood and expressed Christian doctrine. Augustine of Hippo's theology was deeply shaped by Neoplatonic concepts; Pseudo-Dionysius the Areopagite applied Neoplatonic hierarchy to Christian angels and the mystical ascent to God; and Neoplatonic metaphysics underpinned much of medieval Christian scholasticism. In the Islamic world, Neoplatonic texts translated into Arabic (often attributed to Aristotle) profoundly shaped Islamic philosophy. The Academy at Athens — where later Neoplatonists like Proclus taught — was closed by Emperor Justinian in 529 AD, conventionally marking the end of ancient philosophy, though Neoplatonic ideas continued in medieval Christian and Islamic thought.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neoplatonism",
+    "read_more_links": [
+        {
+            "title": "Plotinus philosopher biography",
+            "url": "https://en.wikipedia.org/wiki/Plotinus"
+        },
+        {
+            "title": "Enneads Plotinus works",
+            "url": "https://en.wikipedia.org/wiki/Enneads"
+        },
+        {
+            "title": "Neoplatonism Christian influence",
+            "url": "https://en.wikipedia.org/wiki/Neoplatonism_and_Christianity"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/300px-Lupa_Capitolina%2C_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lupa_Capitolina%2C_Rome.jpg",
+            "caption": "Lupa Capitolina: she-wolf with Romulus and Remus. Bronze, 12th century AD[1],...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Apamea_museum_mosaic_8528.jpg/300px-Apamea_museum_mosaic_8528.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Apamea_museum_mosaic_8528.jpg",
+            "caption": "This is part of the Socrates Mosaic, 362-363 AD. In the full mosaic Socrates ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gentile_da_Fabriano_052.jpg/300px-Gentile_da_Fabriano_052.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Gentile_da_Fabriano_052.jpg",
+            "caption": "Coronation of the Virgin ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/300px-046CupolaSPietro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+            "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        },
+        {
+            "name": "Plotinus",
+            "summary": "Founder of Neoplatonism (c. 204/5 – 270)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Plotinos.jpg/250px-Plotinos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plotinus"
+        },
+        {
+            "name": "Iamblichus",
+            "summary": "Neoplatonist philosopher and mystic (c. 245 – c. 325)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Iamblichus.jpg/250px-Iamblichus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Iamblichus"
+        },
+        {
+            "name": "Al-Farabi",
+            "summary": "Islamic philosopher and music theorist (c. 870 – 950/951)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Alpharabius_in_Liber_Chronicarum_1493_AD.png/250px-Alpharabius_in_Liber_Chronicarum_1493_AD.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Farabi"
+        },
+        {
+            "name": "Solomon ibn Gabirol",
+            "summary": "11th-century Andalusian poet and Jewish philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Malaga-Al_Malaqui-20110921_%28cropped%29.jpg/250px-Malaga-Al_Malaqui-20110921_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Solomon_ibn_Gabirol"
+        },
+        {
+            "name": "Avicenna",
+            "summary": "Persian polymath, physician and philosopher (c. 980–1037)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg/250px-Avicenna_Bust%2C_left_profile_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Avicenna"
+        }
+    ],
+    "territory_geojson": null
+}

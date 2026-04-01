@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1286,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:95a4aeac059dff1a9d94356c89da6d05659d936dd32db9eb13cf9eb87ec34e39",
+    "summary": "Meadowcroft Rockshelter is a prehistoric site near Avella in Washington County, Pennsylvania, USA, with a deeply stratified archaeological sequence that has been interpreted by its excavators as extending human occupation in eastern North America back to potentially 14,000–16,000 BCE — making it, if the dates are correct, one of the oldest known human habitation sites in the Americas.\n\nThe site consists of a natural sandstone overhang under which accumulated nearly three meters of cultural deposits representing thousands of years of intermittent human use. The deepest layers contain stone tools and other cultural materials associated with radiocarbon dates that predate the Clovis horizon. These early dates have been the subject of ongoing debate: some researchers have questioned whether possible contamination of radiocarbon samples from ancient carbon sources in local coal seams may have skewed the dates, but proponents of the site's antiquity maintain that multiple independent dating methods support pre-Clovis occupation. If the pre-Clovis dates at Meadowcroft are accepted, the site provides important evidence for the presence of humans in eastern North America long before [[event:1283|the Clovis cultural horizon]], consistent with a broader pattern of early American occupation emerging from sites such as [[event:1285|Monte Verde]] in Chile.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meadowcroft_Rockshelter",
+    "read_more_links": [
+        {
+            "title": "Pre-Clovis Cultures - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Clovis_cultures"
+        },
+        {
+            "title": "Peopling of the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas"
+        },
+        {
+            "title": "Paleo-Indians - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paleo-Indians"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MeadowcroftPA.jpg/300px-MeadowcroftPA.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/MeadowcroftPA.jpg",
+            "caption": "MeadowcroftPA",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NativeTowns_Pittsburgh.png/300px-NativeTowns_Pittsburgh.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/NativeTowns_Pittsburgh.png",
+            "caption": "Native American towns and other points of interest regarding Native Americans...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MeadowcroftRockshelter.jpg/300px-MeadowcroftRockshelter.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/MeadowcroftRockshelter.jpg",
+            "caption": "Picture of Meadowcroft Rockshelter located to the west of Avella in Washingto...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

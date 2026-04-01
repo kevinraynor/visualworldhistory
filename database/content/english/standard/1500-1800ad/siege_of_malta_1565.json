@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2490,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:0b8c38df9d264ae432dcc547ad4f6ea31033d3d46f63ef1774a7e5f2d49259db",
+    "summary": "The Great Siege of Malta (May–September 1565 AD) was one of the most celebrated defensive actions of the 16th century, in which the Knights of St. John — the crusading military order expelled from Rhodes in 1522 — successfully defended the island of Malta against a massive Ottoman force of approximately 40,000 men sent by [[event:2401|Suleiman the Magnificent]] to eliminate this strategic thorn in the Ottoman navy's western Mediterranean operations. The 700 Knights and 8,000 Maltese and Spanish troops under Grand Master Jean de Valette withstood four months of siege and bombardment, during which the fortifications were reduced almost to rubble and the garrison was decimated, before a relief force from Sicily forced the Ottoman withdrawal in September.\n\nThe siege's significance was both strategic and symbolic. Malta commanded the sea lanes of the central Mediterranean; an Ottoman Malta would have made the western Mediterranean untenable for Christian shipping and threatened Spain's Italian possessions. The Knights' successful defense (at enormous cost — de Valette himself was wounded, and barely 600 of the original defenders survived in fighting condition) became a sensation throughout Christian Europe, celebrated in paintings, poetry, and dispatches read from pulpits. It demonstrated that Ottoman expansion in the Mediterranean could be resisted, just as the [[event:2377|Battle of Lepanto]] (1571) would demonstrate that the Ottoman fleet could be defeated. De Valette founded Valletta — named for himself — immediately after the siege, building it as one of Europe's first purpose-built capital cities; the new fortifications made Malta virtually impregnable. The siege is considered a pivotal moment in halting Ottoman westward expansion.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Siege_of_Malta",
+    "read_more_links": [
+        {
+            "title": "Jean de Valette Grand Master Knights Malta defense",
+            "url": "https://en.wikipedia.org/wiki/Jean_Parisot_de_Valette"
+        },
+        {
+            "title": "Valletta founding capital Knights St John Malta",
+            "url": "https://en.wikipedia.org/wiki/Valletta"
+        },
+        {
+            "title": "Ottoman Mediterranean ambitions 16th century western expansion",
+            "url": "https://en.wikipedia.org/wiki/Ottoman_Empire#Mediterranean_expansion"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Naval_Flags_Sovereign_Military_Order_of_Malta.jpg/300px-Naval_Flags_Sovereign_Military_Order_of_Malta.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Naval_Flags_Sovereign_Military_Order_of_Malta.jpg",
+            "caption": "Zwei im Laufe der Jahrhunderte benutzte Flaggen der Marine des Malteserordens",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 de"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Siege_of_Malta-_Siege_and_Bombardment_of_St_Michael%2C_28_June_1565_RMG_BHC0255.tiff/300px-The_Siege_of_Malta-_Siege_and_Bombardment_of_St_Michael%2C_28_June_1565_RMG_BHC0255.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_Siege_of_Malta-_Siege_and_Bombardment_of_St_Michael%2C_28_June_1565_RMG_BHC0255.tiff",
+            "caption": "The Siege of Malta: Siege and Bombardment of St Michael, 28 June 1565\nThis is...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Malta_Mdina_BW_2011-10-05_09-28-08.jpg/300px-Malta_Mdina_BW_2011-10-05_09-28-08.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Malta_Mdina_BW_2011-10-05_09-28-08.jpg",
+            "caption": "Malta, Mdina",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Great_Siege_monument_Valletta_Malta.jpg/300px-Great_Siege_monument_Valletta_Malta.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Great_Siege_monument_Valletta_Malta.jpg",
+            "caption": "Great Siege monument by Antonio Sciortino (1927) on Triq Ir-Repubblika, Valle...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Matteo Pérez",
+            "summary": "Italian painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Painter_Matteo_da_Lecce%2C_attributed_to_Palma_il_Giovane.jpg/250px-The_Painter_Matteo_da_Lecce%2C_attributed_to_Palma_il_Giovane.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Matteo_P%C3%A9rez"
+        },
+        {
+            "name": "Militia",
+            "summary": "Force of non-professional soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hempstead_Rifles.jpg/250px-Hempstead_Rifles.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Militia"
+        },
+        {
+            "name": "Papal States",
+            "summary": "Italian state ruled by the pope (756–1870)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Papal_States_%28pre_1808%29.svg/250px-Flag_of_the_Papal_States_%28pre_1808%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Papal_States"
+        },
+        {
+            "name": "Dragut",
+            "summary": "Ottoman corsair, naval commander, and governor (1485–1565)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Istanbul_-_Est%C3%A0tua_de_Turgut_Reis_sota_el_Palau_de_Topkapi_retouched.jpg/250px-Istanbul_-_Est%C3%A0tua_de_Turgut_Reis_sota_el_Palau_de_Topkapi_retouched.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dragut"
+        },
+        {
+            "name": "Piali Pasha",
+            "summary": "Ottoman admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Piyale_Pasha_bust_at_Istanbul_Naval_Museum.JPG/250px-Piyale_Pasha_bust_at_Istanbul_Naval_Museum.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Piali_Pasha"
+        },
+        {
+            "name": "Occhiali",
+            "summary": "Italian-born Ottoman privateer and admiral (1519–1587)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ulu%C3%A7_Al%C3%AC%2C_Occhiali%2C_Uccialli_%28Giovan_Dionigi_Galeni%2C_alias_Ali_Kilic_Pasha%2C_1519-1587%29%2C_immagine_in_Johannes_Leunclavius_%28Lewenklau%2C_1533-41-1595%29_Wasser-_und_Speisentr%C3%A4ger_%281586%29%2C_Oesterreichische_Nationalbibliothek.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Occhiali"
+        }
+    ],
+    "territory_geojson": null
+}

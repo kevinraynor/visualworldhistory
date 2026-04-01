@@ -1,0 +1,37 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3300,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:954da0d6863bff51a7fdfeb5d258d81a9fc2d6a06783947821860f8e367741fd",
+    "summary": "The Macartney Mission (1793 AD) was Britain's first formal diplomatic embassy to the [[event:2337|Qing dynasty]] of China — a lavishly equipped expedition carrying scientific instruments, manufactured goods, and diplomatic proposals for expanded trade, sent by King George III and led by Lord Macartney, that was rebuffed by the [[event:2463|Qianlong Emperor]] in one of the most consequential diplomatic encounters of the 18th century. Britain sought to open China beyond the restrictive [[event:3244|Canton System]], establish a permanent British ambassador in Beijing, reduce customs duties, and gain access to additional Chinese ports. Macartney carried 600 cases of gifts — among them the most advanced British industrial products and scientific instruments — intended to demonstrate British technological sophistication.\n\nThe mission's failure stemmed from a fundamental clash of worldviews. The Qing imperial system recognized no equals — foreign rulers were inherently tributaries of the Son of Heaven. A disputed controversy over whether Macartney performed the full kowtow (nine prostrations) or merely one knee before Qianlong became a symbol of this incompatibility. Qianlong's famous reply to George III explained: 'Our Celestial Empire possesses all things in prolific abundance and lacks no product within its own borders. There is therefore no need to import the manufactures of outside barbarians in exchange for our own produce.' This response — combining genuine self-sufficiency with imperial complacency — has been interpreted as Qing China's definitive missed opportunity to engage constructively with the industrializing West before the Opium Wars forced engagement on humiliating terms. The contrast between the mission's failure and the subsequent British military victories of 1839-1842 defines the arc of Chinese-Western relations in the 19th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macartney_Mission",
+    "read_more_links": [
+        {
+            "title": "Macartney kowtow controversy British dignity Qing protocol",
+            "url": "https://en.wikipedia.org/wiki/Macartney_Mission#Kowtow_controversy"
+        },
+        {
+            "title": "Qianlong letter George III we lack nothing trade refusal",
+            "url": "https://en.wikipedia.org/wiki/Macartney_Mission#Qianlong's_response"
+        },
+        {
+            "title": "Canton System British trade frustration Macartney context",
+            "url": "https://en.wikipedia.org/wiki/Canton_System"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Macartney Embassy",
+            "summary": "First British diplomatic mission to China (1793)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/LordMacartneyEmbassyToChina1793.jpg/250px-LordMacartneyEmbassyToChina1793.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Macartney_Embassy"
+        }
+    ],
+    "territory_geojson": null
+}

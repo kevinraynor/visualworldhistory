@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1237,
+    "parent_id": 75,
+    "granularity": "detailed",
+    "content_hash": "sha256:d6c81b697e5d4ca041eb4117de0a39c7da94061c11dc07b0b440b37c35746812",
+    "summary": "Alexander the Great's campaigns in Central Asia (329–327 BC) were the most grueling and brutal phase of his conquests, as he pushed through Bactria (modern Afghanistan) and Sogdia (modern Uzbekistan/Tajikistan) in pursuit of Bessus, the Bactrian satrap who had murdered Darius III and claimed the Persian throne. Unlike the set-piece battles of his western campaigns, Central Asia required years of guerrilla warfare against mountain tribes and nomadic resistance led by leaders like Spitamenes.\n\nAlexander founded numerous garrison cities (many named Alexandria) across the region to anchor his control, and married the Bactrian noblewoman Roxana — a calculated political alliance that shocked his Macedonian officers. His behavior in this period showed increasing autocratic tendencies: he murdered his general Cleitus in a drunken rage, attempted to impose Persian-style proskynesis (prostration before the king), and executed his court historian Callisthenes for refusing this custom. Despite the prolonged resistance, Alexander incorporated Bactrian cavalry into his army and left a lasting Greek cultural presence in the region, later manifested in the [[event:1173|Greco-Bactrian Kingdom]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great#Bactria_and_Sogdia",
+    "read_more_links": [
+        {
+            "title": "Spitamenes Sogdian resistance",
+            "url": "https://en.wikipedia.org/wiki/Spitamenes"
+        },
+        {
+            "title": "Roxana wife of Alexander",
+            "url": "https://en.wikipedia.org/wiki/Roxana"
+        },
+        {
+            "title": "Alexandrias in the East",
+            "url": "https://en.wikipedia.org/wiki/Alexandria_(disambiguation)#Central_Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg/300px-Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Philip_II_of_Macedon_Ny_Carlsberg_Glyptotek_IN2263.jpg",
+            "caption": "Statue bust of the head of Philip II of Macedon ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg/300px-Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg",
+            "caption": "Alexander the Great Ny Carlsberg Glyptotek IN574 n1",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mappa_di_Eratostene.jpg/300px-Mappa_di_Eratostene.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mappa_di_Eratostene.jpg",
+            "caption": "19th century reconstruction of Eratosthenes' map of the known world, c. 194 BC.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alexander_Sarcophagus_Battle_of_Issus.jpg/300px-Alexander_Sarcophagus_Battle_of_Issus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alexander_Sarcophagus_Battle_of_Issus.jpg",
+            "caption": "Alexander Sarcophagus, illustration showing Alexander in the battle of Issus ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philip II of Macedon",
+            "summary": "King of Macedon from 359 to 336 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/250px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "name": "Philip III of Macedon",
+            "summary": "King of Macedon from 323 to 317 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gold_coin_of_Philip_III_Arrhidaios_struck_at_the_Babylon_mint_under_Archon%2C_Dokimos%2C_or_Seleukos_I.jpg/250px-Gold_coin_of_Philip_III_Arrhidaios_struck_at_the_Babylon_mint_under_Archon%2C_Dokimos%2C_or_Seleukos_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_III_of_Macedon"
+        },
+        {
+            "name": "Strategos",
+            "summary": "Greek military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Greek_strategist_Pio-Clementino_Inv306.jpg/250px-Greek_strategist_Pio-Clementino_Inv306.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strategos"
+        },
+        {
+            "name": "Darius III",
+            "summary": "King of the Achaemenid Empire from 336 to 330 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Darius_III_mosaic.jpg/250px-Darius_III_mosaic.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_III"
+        },
+        {
+            "name": "Roxana",
+            "summary": "Sogdian or Bactrian princess who married Alexander the Great",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alexander_The_Greate_and_Roxane_by_Rotari_1756.jpg/250px-Alexander_The_Greate_and_Roxane_by_Rotari_1756.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roxana"
+        },
+        {
+            "name": "Stateira (wife of Alexander the Great)",
+            "summary": "Daughter of Darius III, died 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/The_weddings_at_Susa%2C_Alexander_to_Stateira_and_Hephaistion_to_Drypetis_%28late_19th_century_engraving%29.jpg/250px-The_weddings_at_Susa%2C_Alexander_to_Stateira_and_Hephaistion_to_Drypetis_%28late_19th_century_engraving%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stateira_%28wife_of_Alexander_the_Great%29"
+        }
+    ],
+    "territory_geojson": null
+}

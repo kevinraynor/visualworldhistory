@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3475,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ccd1629b0e119b534bb788a5faba641212207da2835f64afe28d9b681d2a474b",
+    "summary": "Eritrea's independence from Ethiopia, formalized through a referendum in April 1993, ended one of Africa's longest wars of independence. Italy had colonized Eritrea from 1890 until World War II, when British forces captured the territory. The United Nations federated Eritrea with Ethiopia in 1952, but Emperor Haile Selassie abolished the federation in 1962 and annexed Eritrea outright, triggering the armed independence struggle led by the Eritrean People's Liberation Front (EPLF).\n\nThe independence struggle lasted thirty years and was fought simultaneously with Ethiopia's own internal upheavals, including the overthrow of Haile Selassie by a Marxist military junta (the Derg) in 1974 and the subsequent civil war that brought the Ethiopian People's Revolutionary Democratic Front to power in 1991. EPLF forces captured Asmara in May 1991 as the Ethiopian government collapsed, effectively ending the war. The 1993 referendum returned an overwhelming vote for independence. However, the new nation's relationship with Ethiopia deteriorated severely, culminating in the [[event:3666|Eritrean-Ethiopian War]] of 1998–2000.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eritrea",
+    "read_more_links": [
+        {
+            "title": "Eritrean War of Independence",
+            "url": "https://en.wikipedia.org/wiki/Eritrean_War_of_Independence"
+        },
+        {
+            "title": "EPLF",
+            "url": "https://en.wikipedia.org/wiki/Eritrean_People%27s_Liberation_Front"
+        },
+        {
+            "title": "History of Eritrea",
+            "url": "https://en.wikipedia.org/wiki/History_of_Eritrea"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Al_Sahaba_Mosque%2C_Massawa.jpg/300px-Al_Sahaba_Mosque%2C_Massawa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Al_Sahaba_Mosque%2C_Massawa.jpg",
+            "caption": "Al Sahaba Mosque, Massawa, 2024",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1690_Coronelli_Map_of_Ethiopia%2C_Abyssinia%2C_and_the_Source_of_the_Blue_Nile_-_Geographicus_-_Abissinia-coronelli-1690.jpg/300px-1690_Coronelli_Map_of_Ethiopia%2C_Abyssinia%2C_and_the_Source_of_the_Blue_Nile_-_Geographicus_-_Abissinia-coronelli-1690.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/1690_Coronelli_Map_of_Ethiopia%2C_Abyssinia%2C_and_the_Source_of_the_Blue_Nile_-_Geographicus_-_Abissinia-coronelli-1690.jpg",
+            "caption": "This is Coronelli's important 1690 map of Ethiopia (Abyssinia) showing the so...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Independence_Day_of_Eritrea.jpg/300px-Independence_Day_of_Eritrea.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Independence_Day_of_Eritrea.jpg",
+            "caption": "The Independence Day of Eritrea is one of the most important public holidays ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Eritrea_13.jpg/300px-Eritrea_13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Eritrea_13.jpg",
+            "caption": "This is an image of \"African people at work\" from",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Isaias Afwerki",
+            "summary": "President of Eritrea since 1993",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Isaias_Afwerki_%282023-05-31%29.jpg/250px-Isaias_Afwerki_%282023-05-31%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isaias_Afwerki"
+        },
+        {
+            "name": "Mani (prophet)",
+            "summary": "3rd century prophet and founder of Manichaeism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg/250px-Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mani_%28prophet%29"
+        }
+    ],
+    "territory_geojson": null
+}

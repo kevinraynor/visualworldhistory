@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2810,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a62482cf55e6c1088a843c26ec4442f0817a52a358fc2774bdc45dcde5160373",
+    "summary": "The Roman-Parthian Wars (c. 66 BC–217 AD) were a series of major conflicts and ongoing strategic competition between the two dominant powers of the ancient world — Rome in the west and the Parthian Empire in the east — fought primarily over control of Mesopotamia and Armenia, which functioned as a contested buffer zone between the two empires. The wars began with Crassus's catastrophic defeat at the [[event:2826|Battle of Carrhae]] (53 BC), where Parthian horse archers and heavy cavalry (cataphracts) destroyed seven Roman legions in the Syrian desert, killing Crassus himself and capturing Roman standards — a humiliation that obsessed Roman military culture for decades.\n\nSubsequent wars and campaigns saw both sides win and lose Mesopotamia multiple times. Trajan famously conquered all of Mesopotamia and reached the Persian Gulf in 116 AD — the greatest eastern extent of Roman power — but his successor Hadrian immediately abandoned the conquests as indefensible. The Parthian wars shaped Roman eastern strategy for centuries and produced cultural exchange as well: Parthian cataphract armor and tactics influenced Roman cavalry doctrine, and silk trade along the [[event:2050|Kushan Empire's]] Silk Road routes enriched both empires while Roman luxury goods flowed east. The Parthian Empire was replaced by the more aggressive [[event:2059|Sassanid Empire]] in 224 AD, which inherited the conflict with Rome and continued it with renewed intensity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_Wars",
+    "read_more_links": [
+        {
+            "title": "Battle of Carrhae Crassus",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Carrhae"
+        },
+        {
+            "title": "Parthian cataphract cavalry",
+            "url": "https://en.wikipedia.org/wiki/Cataphract"
+        },
+        {
+            "title": "Trajan eastern campaign Mesopotamia",
+            "url": "https://en.wikipedia.org/wiki/Trajan%27s_Parthian_campaign"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Septimius_arch_-_relief.jpg/300px-Septimius_arch_-_relief.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Septimius_arch_-_relief.jpg",
+            "caption": "War pannel, Septimius Severus' arch",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Parthia_001ad.jpg/300px-Parthia_001ad.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Parthia_001ad.jpg",
+            "caption": "The Parthian Empire in 001 AD.",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Trajan_Sestertius_116_833039.jpg/300px-Trajan_Sestertius_116_833039.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Trajan_Sestertius_116_833039.jpg",
+            "caption": "Traianus. AD 98-117. \n\nÆ Sestertius (33mm, 26.29 g, 6h). Rome mint. Struck AD...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sarbaz_Nysa.jpg/300px-Sarbaz_Nysa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sarbaz_Nysa.jpg",
+            "caption": "A second century BC helmet with hellenistic influences protects the head of a...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Trajan",
+            "summary": "Roman emperor from AD 98 to 117",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Traianus_Glyptothek_Munich_336.jpg/250px-Traianus_Glyptothek_Munich_336.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trajan"
+        },
+        {
+            "name": "Lucius Verus",
+            "summary": "Roman emperor from 161 to 169",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg/250px-Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Verus"
+        },
+        {
+            "name": "Septimius Severus",
+            "summary": "Roman emperor from 193 to 211",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg/250px-Septimius_Severus_busto-Musei_Capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Septimius_Severus"
+        },
+        {
+            "name": "Julia Domna",
+            "summary": "Roman empress from 193 to 211",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Julia_Domna_%28Julia_Pia%29%2C_inv._2210%2C_Roman_-_Braccio_Nuovo%2C_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00897.jpg/250px-Julia_Domna_%28Julia_Pia%29%2C_inv._2210%2C_Roman_-_Braccio_Nuovo%2C_Museo_Chiaramonti_-_Vatican_Museums_-_DSC00897.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julia_Domna"
+        },
+        {
+            "name": "Caracalla",
+            "summary": "Roman emperor from 198 to 217",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/0_Caracalla_-_Museo_Massimo_alle_Terme.JPG/250px-0_Caracalla_-_Museo_Massimo_alle_Terme.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Caracalla"
+        }
+    ],
+    "territory_geojson": null
+}

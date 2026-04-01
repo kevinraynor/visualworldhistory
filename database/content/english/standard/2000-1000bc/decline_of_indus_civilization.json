@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1848,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2d331cb9745bc30c9c8e29da853ac14443ba289924348dfc054371c1d8f2c0df",
+    "summary": "The decline of the Indus Valley Civilization, also known as the Late Harappan or post-urban phase, unfolded gradually between approximately 1900 and 1700 BC. At its height around 2500–1900 BC, the Indus civilization had been among the largest and most sophisticated urban cultures of the ancient world, with major cities such as Mohenjo-daro and Harappa featuring standardized architecture, advanced drainage systems, and a still-undeciphered writing system. By around 1700 BC, these great cities had been largely abandoned and the population had dispersed into smaller, more rural settlements, particularly in the eastern and southeastern areas of the former civilization's extent.\n\nThe causes of the decline remain a subject of active research and debate. Earlier theories proposing an Aryan invasion as the primary cause have been largely set aside by modern archaeology, which finds no evidence of widespread violent destruction at Harappan sites. Current explanations favor a combination of environmental factors, including a prolonged aridification trend linked to shifts in the monsoon pattern, the drying of major river systems including the Ghaggar-Hakra (possibly the legendary Sarasvati River), and related disruptions to agriculture and trade networks. Tectonic activity may also have contributed to flooding or river course changes.\n\nThe Late Harappan communities that persisted after the urban collapse maintained some cultural continuities with the earlier civilization but lost the standardized material culture, monumental architecture, and long-distance trade connections that characterized the urban phase. The eventual arrival of [[event:1849|Indo-Aryan peoples]] in the northwest of the subcontinent intersected with, rather than caused, this already-advanced decline. The legacy of the Indus civilization in subsequent South Asian cultures, including possible continuities in religious iconography and urban planning, remains an open question in scholarship.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#Late_Harappan",
+    "read_more_links": [
+        {
+            "title": "Indus Valley Civilisation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        },
+        {
+            "title": "Harappan Civilization Decline - Britannica",
+            "url": "https://www.britannica.com/place/Indus-civilization"
+        },
+        {
+            "title": "Late Harappan Phase",
+            "url": "https://en.wikipedia.org/wiki/Late_Harappan"
+        },
+        {
+            "title": "Ghaggar-Hakra River",
+            "url": "https://en.wikipedia.org/wiki/Ghaggar-Hakra_River"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Constitution_Page1_Rammanohar.jpg/300px-Constitution_Page1_Rammanohar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Constitution_Page1_Rammanohar.jpg",
+            "caption": "Humped/zebu taurus/bull motif of Indus Valley Civilization painted on page 1 ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Poids_cubiques_harapp%C3%A9ens_-_BM.jpg/300px-Poids_cubiques_harapp%C3%A9ens_-_BM.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Poids_cubiques_harapp%C3%A9ens_-_BM.jpg",
+            "caption": "Cubical weights made of chert, standardised throughout the Indus cultural zon...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Harappan_carnelian_and_terracotta_beads_-_Mohenjo-daro.jpg/300px-Harappan_carnelian_and_terracotta_beads_-_Mohenjo-daro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Harappan_carnelian_and_terracotta_beads_-_Mohenjo-daro.jpg",
+            "caption": "Two cornelian beads and four terracotta beads, from Mohenjo-daro (Pakistan), ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Harappan_%28Indus_Valley%29_Balance_%26_Weights.jpg/300px-Harappan_%28Indus_Valley%29_Balance_%26_Weights.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Harappan_%28Indus_Valley%29_Balance_%26_Weights.jpg",
+            "caption": "Harappan (Indus Valley) Balance & Weights. Harappan (Indus Valley) Civilizati...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jammu and Kashmir (state)",
+            "summary": "State administered by India (1952–2019)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Jammu_and_Kashmir_%281952-2019%29.svg/250px-Flag_of_Jammu_and_Kashmir_%281952-2019%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_%28state%29"
+        },
+        {
+            "name": "Ruins",
+            "summary": "Remains of human-made architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg/250px-Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruins"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

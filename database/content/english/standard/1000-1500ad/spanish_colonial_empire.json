@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 101,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:657a7275488f6e281e992a2af26507d19270ec201d5665285dc16f444ea89eef",
+    "summary": "The Spanish Colonial Empire (c. 1492–1898 AD) was one of the largest empires in history, spanning the Americas, the Philippines, parts of Africa, and various European territories, and was the first truly global empire to be established through oceanic exploration and conquest. Its origins lay in the [[event:2288|Columbus voyages]] of 1492 and the subsequent Spanish conquest of the Caribbean islands, followed within decades by the spectacular conquests of the [[event:98|Aztec Empire]] by Hernán Cortés (1519–1521) and the [[event:99|Inca Empire]] by Francisco Pizarro (1532–1572), which brought unimaginable quantities of silver and gold to Spain.\n\nThe empire's administration rested on the encomienda system (granting conquistadors labor rights over indigenous peoples), later partially reformed by the New Laws of 1542 under pressure from defenders of indigenous rights like Bartolomé de las Casas. The Viceroyalties of New Spain (Mexico) and Peru became the administrative pillars of a system that extracted enormous mineral wealth — particularly silver from the mines of Potosí (Bolivia) and Zacatecas (Mexico) — funding Spanish military power in Europe and fueling global commercial networks from Manila to Seville. The [[event:2289|Treaty of Tordesillas]] with Portugal divided the non-European world between the two Iberian powers. Spanish colonial rule imposed Catholicism through the [[event:2287|Inquisition]] and missions, reorganized indigenous economies, and transplanted Spanish language, law, and culture across the Western Hemisphere — a cultural imprint that remains dominant across Latin America five centuries later. The Spanish empire's wealth simultaneously funded European religious wars and stimulated the commercial and demographic transformations that would make the Atlantic world the center of global power.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Empire",
+    "read_more_links": [
+        {
+            "title": "Spanish conquest Aztec Inca empires",
+            "url": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire"
+        },
+        {
+            "title": "Encomienda system indigenous labor",
+            "url": "https://en.wikipedia.org/wiki/Encomienda"
+        },
+        {
+            "title": "Potosi silver mines Spanish economy",
+            "url": "https://en.wikipedia.org/wiki/Potos%C3%AD"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Muni_-_Guinea_Continental_Espa%C5%84ola_LOC_2012590213.jpg/300px-Muni_-_Guinea_Continental_Espa%C5%84ola_LOC_2012590213.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Muni_-_Guinea_Continental_Espa%C5%84ola_LOC_2012590213.jpg",
+            "caption": "Muni - Guinea Continental Espańola LOC 2012590213",
+            "attribution": "Wikimedia Commons"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TemplodelCarmenSLP01.JPG/300px-TemplodelCarmenSLP01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TemplodelCarmenSLP01.JPG",
+            "caption": "View of the side of the Templo del Carmen in San Luis Potosi, Mexico",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Francisco_Antonio_Vallejo_-_Glorification_of_the_Immaculate_Conception_-_Google_Art_Project.jpg/300px-Francisco_Antonio_Vallejo_-_Glorification_of_the_Immaculate_Conception_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Francisco_Antonio_Vallejo_-_Glorification_of_the_Immaculate_Conception_-_Google_Art_Project.jpg",
+            "caption": "Francisco Antonio Vallejo - Glorification of the Immaculate Conception - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Santo_Domingo_-_Museo_de_las_Casas_Reales_0399.JPG/300px-Santo_Domingo_-_Museo_de_las_Casas_Reales_0399.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Santo_Domingo_-_Museo_de_las_Casas_Reales_0399.JPG",
+            "caption": "Interior of Museo de las Casas Reales, in the Ciudad Colonial of Santo Doming...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "House of Capet",
+            "summary": "Royal house of France from 987 to 1328",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arms_of_the_Kingdom_of_France_%28Ancien%29.svg/250px-Arms_of_the_Kingdom_of_France_%28Ancien%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Capet"
+        },
+        {
+            "name": "Juan Carlos I",
+            "summary": "King of Spain from 1975 to 2014",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rey_Juan_Carlos_2013.jpg/250px-Rey_Juan_Carlos_2013.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Carlos_I"
+        },
+        {
+            "name": "Spanish peseta",
+            "summary": "Currency of Spain from 1868 to 2002",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/100_pesetas.png/250px-100_pesetas.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_peseta"
+        },
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        },
+        {
+            "name": "Philip V of Spain",
+            "summary": "King of Spain (r. 1700–1724; 1724–1746)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Philip_V_of_Spain.jpg/250px-Philip_V_of_Spain.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_V_of_Spain"
+        },
+        {
+            "name": "Charles II of Spain",
+            "summary": "King of Spain from 1665 to 1700",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Juan_de_Miranda_Carreno_002.jpg/250px-Juan_de_Miranda_Carreno_002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_II_of_Spain"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1156,
+    "parent_id": 1041,
+    "granularity": "detailed",
+    "content_hash": "sha256:c96662924fdbfad3128cf0849111ad17f1c7f2af0b94c5fbeccf4cfe87fb3485",
+    "summary": "The Battle of Magnesia (190 BC) was the decisive Roman victory over [[event:1050|Antiochus III the Great]] of the [[event:1041|Seleucid Empire]] that ended Seleucid power in Asia Minor and established Rome as the dominant power in the eastern Mediterranean — a turning point comparable in importance to the [[event:1067|Battle of Pydna]] for Greek affairs.\n\nAntiochus III had been expanding Seleucid power aggressively, reconquering territories in the east and pushing into Greece, where he clashed with Rome's interests. After defeating him at the Battle of Thermopylae and driving him from Greece, Rome pursued him to Asia Minor. At Magnesia (near modern Manisa, Turkey), the Roman commander Lucius Scipio — supported by his more famous brother Scipio Africanus ([[event:1228|Scipio Africanus]]) as political advisor — defeated Antiochus's numerically superior army. The subsequent Treaty of Apamea (188 BC) stripped Antiochus of all territory west of the Taurus Mountains, imposed a massive war indemnity, required surrender of war elephants, and prohibited him from operating a navy in certain waters. These terms permanently crippled Seleucid power and opened Asia Minor to Roman client kingdoms, reshaping the political map of the ancient Near East.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Magnesia",
+    "read_more_links": [
+        {
+            "title": "Treaty of Apamea",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Apamea_(188_BC)"
+        },
+        {
+            "title": "Roman expansion into Asia Minor",
+            "url": "https://en.wikipedia.org/wiki/Roman_Republic#Expansion"
+        },
+        {
+            "title": "Antiochus III",
+            "url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/West_Asia_non_political_with_water_system.jpg/300px-West_Asia_non_political_with_water_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/West_Asia_non_political_with_water_system.jpg",
+            "caption": "West Asia non political with water system",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Roman-Syrian-War.png/300px-Roman-Syrian-War.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Roman-Syrian-War.png",
+            "caption": "Map of the Roman-Syrian War from 192-188 B.C.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Seleucid-Empire_200bc.jpg/300px-Seleucid-Empire_200bc.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Seleucid-Empire_200bc.jpg",
+            "caption": "The Seleucid Empire in 200 BC.\n\n\nAuthor: Thomas A. Lessman. Source URL:https:...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Battle_of_Magnesia.jpg/300px-Battle_of_Magnesia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Battle_of_Magnesia.jpg",
+            "caption": "Hellenistic bronze plaque, discovered during the German archaeological campai...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lucius Cornelius Scipio Asiaticus",
+            "summary": "Roman general and statesman (d. after 183 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marius_Glyptothek_Munich_319.jpg/250px-Marius_Glyptothek_Munich_319.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Scipio_Asiaticus"
+        },
+        {
+            "name": "Eumenes II",
+            "summary": "King of Pergamon from 197 to 159 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Eumene_II_detto_giovane_comandante%2C_da_villa_dei_papiri%2C_peristilio_quadrato.JPG/250px-Eumene_II_detto_giovane_comandante%2C_da_villa_dei_papiri%2C_peristilio_quadrato.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eumenes_II"
+        },
+        {
+            "name": "Antiochus III the Great",
+            "summary": "King of the Seleucid Empire from 222 to 187 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg/250px-Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great"
+        },
+        {
+            "name": "Seleucus IV Philopator",
+            "summary": "King of the Seleucid Empire from 187 to 175 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Seleukos_IV_tetradrachm_obverse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seleucus_IV_Philopator"
+        },
+        {
+            "name": "Philip V of Macedon",
+            "summary": "King of Macedonia from 221 to 179 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg/250px-Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_V_of_Macedon"
+        },
+        {
+            "name": "Attalus I",
+            "summary": "King of Pergamon, reigned 241–197 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Portrait_of_a_Hellenistic_ruler_%28Attalus_I%3F%29._Berlin%2C_Pergamon_Museum._%285256233048%29.jpg/250px-Portrait_of_a_Hellenistic_ruler_%28Attalus_I%3F%29._Berlin%2C_Pergamon_Museum._%285256233048%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Attalus_I"
+        }
+    ],
+    "territory_geojson": null
+}

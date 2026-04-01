@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2312,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:808f498ceb6cf988b788ea95e3bf6771db4504149bd4bfce7d44856504b19f46",
+    "summary": "The Mesa Verde cliff dwellings (c. 600–1300 AD, peak occupation 1100–1300 AD) are the most spectacular pre-Columbian archaeological sites in North America, built by the Ancestral Pueblo (Anasazi) people into the natural alcoves and overhangs of the sandstone cliffs of the Mesa Verde plateau in modern southwestern Colorado. The most famous complex, Cliff Palace — containing 150 rooms and 23 kivas (ceremonial chambers) — was the largest cliff dwelling in North America, housing perhaps 100–150 residents in a multi-story stone structure tucked under a protective cliff overhang 30 meters above the canyon floor.\n\nThe cliff dwellings represented a dramatic change in Ancestral Pueblo settlement strategy in the late 12th century: the same people who had previously lived in open mesa-top pueblos (related to the earlier [[event:2313|Chaco Canyon]] tradition) moved into defensible cliff alcoves. The reasons for this defensive posturing — interpreted as response to warfare, drought, social stress, or some combination — remain debated. Mesa Verde's cliff dwellings were occupied for only about a century (c. 1200–1300 AD) before the entire Colorado Plateau was abandoned; the Ancestral Pueblo people migrated south and east to establish the modern Pueblo communities of New Mexico and Arizona. The abandonment coincided with a severe multi-decade drought documented in tree-ring records. Mesa Verde was designated a UNESCO World Heritage Site in 1978, and its spectacular preservation — the dry climate protecting the wooden roofing timbers, painted plaster walls, and thousands of artifacts — makes it an unparalleled window into Ancestral Pueblo civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mesa_Verde_National_Park",
+    "read_more_links": [
+        {
+            "title": "Cliff Palace Mesa Verde largest dwelling",
+            "url": "https://en.wikipedia.org/wiki/Cliff_Palace"
+        },
+        {
+            "title": "Ancestral Pueblo cliff dwelling reasons",
+            "url": "https://en.wikipedia.org/wiki/Mesa_Verde_National_Park#History"
+        },
+        {
+            "title": "Pueblo abandonment drought 1300 migration",
+            "url": "https://en.wikipedia.org/wiki/Ancestral_Puebloans#Depopulation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mesa_Verde_park_map.png/300px-Mesa_Verde_park_map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mesa_Verde_park_map.png",
+            "caption": "Mesa Verde park map by the National Park Service",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cliff_Palace%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2829%29.jpg/300px-Cliff_Palace%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2829%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cliff_Palace%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2829%29.jpg",
+            "caption": "Cliff Palace in Mesa Verde National Park, Colorado, U.S.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Square_Tower_House%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2812%29.jpg/300px-Square_Tower_House%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2812%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Square_Tower_House%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2812%29.jpg",
+            "caption": "Square Tower House in Mesa Verde National Park, Colorado, U.S.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spruce_Tree_House_%2815143919145%29.jpg/300px-Spruce_Tree_House_%2815143919145%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Spruce_Tree_House_%2815143919145%29.jpg",
+            "caption": "Mesa Verde 8-10",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Montezuma County, Colorado",
+            "summary": "County in Colorado, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Montezuma_County_Combined_Courts.JPG/250px-Montezuma_County_Combined_Courts.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Montezuma_County%2C_Colorado"
+        },
+        {
+            "name": "Theodore Roosevelt",
+            "summary": "President of the United States from 1901 to 1909",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/250px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+        },
+        {
+            "name": "Rock art",
+            "summary": "Human-made markings on natural stone",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petroglyph_jqjacobs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_art"
+        },
+        {
+            "name": "Check dam",
+            "summary": "Small dam to counteract erosion",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Viehofen_verbauung.jpg/250px-Viehofen_verbauung.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Check_dam"
+        }
+    ],
+    "territory_geojson": null
+}

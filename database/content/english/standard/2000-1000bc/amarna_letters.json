@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1881,
+    "parent_id": 1804,
+    "granularity": "detailed",
+    "content_hash": "sha256:e42339e9562447bdbffc75f6684066165880b4d40f6dadf980eb6d9d4d261a84",
+    "summary": "The Amarna Letters are a remarkable archive of diplomatic correspondence discovered at the site of Tell el-Amarna, the short-lived capital of the [[event:1804|Amarna Period]] pharaoh [[event:1805|Akhenaten]], in Egypt. Consisting of approximately 382 clay tablets inscribed in Akkadian cuneiform — the lingua franca of Late Bronze Age diplomacy — the letters were exchanged between the Egyptian court and the rulers of Babylonia, Assyria, Mitanni, the Hittites, and the many vassal city-states of Canaan during the reigns of Amenhotep III and Akhenaten, roughly 1360–1332 BC.\n\nThe letters provide an unparalleled window into the diplomatic culture of the Late Bronze Age, revealing a sophisticated system of inter-state relations governed by elaborate protocols of gift exchange, royal marriages, and mutual recognition of status. Letters from the great powers — addressed as fellow \"brothers\" of the pharaoh — negotiate the exchange of gold, luxury goods, and royal brides, while letters from the Canaanite vassals are filled with supplications, complaints about Egyptian inattention, and appeals for military aid against local enemies. Taken together, the archive reveals a world of interconnected states in active diplomatic communication.\n\nThe Amarna Letters are also significant for early biblical studies, as the Canaanite vassal letters contain numerous references to social groups, place names, and conditions in the Levant that intersect with biblical narrative traditions. The tablets were discovered by local farmers in 1887 and were dispersed to multiple collections before their significance was recognized, with the largest groups now held in Cairo, Berlin, and the British Museum.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amarna_letters",
+    "read_more_links": [
+        {
+            "title": "Amarna Letters - Britannica",
+            "url": "https://www.britannica.com/topic/Amarna-letters"
+        },
+        {
+            "title": "Amarna Period",
+            "url": "https://en.wikipedia.org/wiki/Amarna_Period"
+        },
+        {
+            "title": "Late Bronze Age Diplomacy",
+            "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_diplomacy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg/300px-Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg",
+            "caption": "Neues Museum - Berlin - Germany",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Amarna_letter-_Royal_Letter_from_Abi-milku_of_Tyre_to_the_king_of_Egypt_MET_24.2.12_EGDP021809.jpg/300px-Amarna_letter-_Royal_Letter_from_Abi-milku_of_Tyre_to_the_king_of_Egypt_MET_24.2.12_EGDP021809.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Amarna_letter-_Royal_Letter_from_Abi-milku_of_Tyre_to_the_king_of_Egypt_MET_24.2.12_EGDP021809.jpg",
+            "caption": "Tablet, Amarna letter",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Amarna_letter-_Royal_Letter_from_Ashur-uballit%2C_the_king_of_Assyria%2C_to_the_king_of_Egypt_MET_24.2.11_EGDP021805.jpg/300px-Amarna_letter-_Royal_Letter_from_Ashur-uballit%2C_the_king_of_Assyria%2C_to_the_king_of_Egypt_MET_24.2.11_EGDP021805.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Amarna_letter-_Royal_Letter_from_Ashur-uballit%2C_the_king_of_Assyria%2C_to_the_king_of_Egypt_MET_24.2.11_EGDP021805.jpg",
+            "caption": "Tablet, Amarna letter",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Amarna_letter-_Royal_Letter_from_Ashur-uballit%2C_the_king_of_Assyria%2C_to_the_king_of_Egypt_MET_24.2.11_EGDP021806.jpg/300px-Amarna_letter-_Royal_Letter_from_Ashur-uballit%2C_the_king_of_Assyria%2C_to_the_king_of_Egypt_MET_24.2.11_EGDP021806.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Amarna_letter-_Royal_Letter_from_Ashur-uballit%2C_the_king_of_Assyria%2C_to_the_king_of_Egypt_MET_24.2.11_EGDP021806.jpg",
+            "caption": "Tablet, Amarna letter",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Aziru",
+            "summary": "Ruler of Amurru",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Amarna_Akkadian_letter.png/250px-Amarna_Akkadian_letter.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aziru"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Jørgen Alexander Knudtzon",
+            "summary": "Norwegian linguist and historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/J%C3%B8rgenKnudtzon.jpg/250px-J%C3%B8rgenKnudtzon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Alexander_Knudtzon"
+        },
+        {
+            "name": "Claude Reignier Conder",
+            "summary": "British Army officer, explorer and antiquarian (1848–1910)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Claude_R._Conder.jpg/250px-Claude_R._Conder.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Reignier_Conder"
+        },
+        {
+            "name": "Mitanni",
+            "summary": "Ancient Hurrian-speaking state in northern Syria and southeast Anatolia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Carte_du_Mitanni-en.svg/250px-Carte_du_Mitanni-en.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mitanni"
+        },
+        {
+            "name": "Kadashman-Enlil I",
+            "summary": "King of Babylon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kassite_-_Cylinder_Seal_-_Walters_42619.jpg/250px-Kassite_-_Cylinder_Seal_-_Walters_42619.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kadashman-Enlil_I"
+        }
+    ],
+    "territory_geojson": null
+}

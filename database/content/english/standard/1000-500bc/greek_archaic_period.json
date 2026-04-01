@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1923,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:4591586c16e30077960891a5359d63eceac467355f9035d0a245470c70982e57",
+    "summary": "The Greek Archaic Period (c. 800–479 BC) was the transformative era in which ancient Greece emerged from the Dark Ages following the Bronze Age collapse into the cultural, political, and intellectual foundations of Classical civilization. It saw the emergence of the polis (city-state) as the dominant political form, the development of distinctive Greek artistic and literary styles, the colonization of the Mediterranean from Spain to the Black Sea, the invention of coinage, and the first flowering of philosophy and science.\n\nThe Archaic period began with the recovery of literacy through the adoption of the [[event:1928|Greek Alphabet Adoption]] Phoenician alphabet (c. 800 BC), enabling the writing down of [[event:1926|Homer's Iliad and Odyssey]] and other oral traditions. The political revolution of the period centered on the gradual replacement of aristocratic rule with tyrannies, and then in some poleis (especially Athens) with democratic institutions: [[event:1932|Draco's Laws]], [[event:1933|Solon's Reforms]], and [[event:1934|Cleisthenes' Democratic Reforms]] created the Athenian constitutional tradition. The archaic period's distinctly Greek artistic style — black-figure and red-figure pottery, kouros and kore sculpture — represents the emergence of a specifically Greek aesthetic vocabulary. The period ended with the Persian Wars (490, 480 BC), which tested and ultimately validated the Greek polis system against the largest empire in the world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Archaic_Greece",
+    "read_more_links": [
+        {
+            "title": "Greek Dark Ages recovery",
+            "url": "https://en.wikipedia.org/wiki/Greek_Dark_Ages"
+        },
+        {
+            "title": "Archaic Greek art kouros",
+            "url": "https://en.wikipedia.org/wiki/Kouros"
+        },
+        {
+            "title": "Greek tyranny archaic period",
+            "url": "https://en.wikipedia.org/wiki/Tyrant#Greek_tyrants"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/300px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "caption": "Greece, Archipelago and part of Anadoli. Published for Willm. Faden, Geograph...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Korinth_BW_2017-10-10_10-55-28.jpg/300px-Korinth_BW_2017-10-10_10-55-28.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Korinth_BW_2017-10-10_10-55-28.jpg",
+            "caption": "Greece, Ancient Corinth, Temple of Apollo",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Attic_late_geometric_Jug_undulating_linie_730_BC%2C_Prague_Kinsky%2C_NM-H10_2500%2C_140739.jpg/300px-Attic_late_geometric_Jug_undulating_linie_730_BC%2C_Prague_Kinsky%2C_NM-H10_2500%2C_140739.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Attic_late_geometric_Jug_undulating_linie_730_BC%2C_Prague_Kinsky%2C_NM-H10_2500%2C_140739.jpg",
+            "caption": "Jug with high handle. Undulating line on neck, snake?,  ancient symbol of pow...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gymnasion_and_Palaestra_in_Olympia_2010_2.jpg/300px-Gymnasion_and_Palaestra_in_Olympia_2010_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gymnasion_and_Palaestra_in_Olympia_2010_2.jpg",
+            "caption": "Gymnasion and Palaestra in archaeological site of Olympia, Greece.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hoplite",
+            "summary": "Ancient Greek soldier in a phalanx",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hoplite1.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hoplite"
+        },
+        {
+            "name": "Solon",
+            "summary": "Athenian statesman (c. 630 – c. 560 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG/250px-Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Solon"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Tyrant",
+            "summary": "Absolute ruler unrestrained by law or constitution",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%A4%8F%E6%A1%80%E5%83%8F.png/250px-%E5%A4%8F%E6%A1%80%E5%83%8F.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tyrant"
+        },
+        {
+            "name": "Archon",
+            "summary": "Greek term for a ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fragmentary_inscription_bearing_the_names_of_6_city_archons_%28politarchs%29%2C_2nd_c._BC%2C_Archaeological_Museum%2C_Pella_%286929923448%29.jpg/250px-Fragmentary_inscription_bearing_the_names_of_6_city_archons_%28politarchs%29%2C_2nd_c._BC%2C_Archaeological_Museum%2C_Pella_%286929923448%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archon"
+        }
+    ],
+    "territory_geojson": null
+}

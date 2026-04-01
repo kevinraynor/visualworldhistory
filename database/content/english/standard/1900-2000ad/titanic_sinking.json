@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3778,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:91fe99f620742b263273b66d864c0a4023227d9b2ea3a4a44a44b24e2ddd5c69",
+    "summary": "The sinking of the RMS Titanic on April 15, 1912 stands as one of the most famous maritime disasters in history and a defining moment in Edwardian cultural memory. The ocean liner, the largest afloat at the time of its construction, struck an iceberg at 11:40 p.m. on April 14 during its maiden voyage from Southampton to New York City and sank in less than three hours. Of the approximately 2,224 passengers and crew aboard, more than 1,500 perished — a death toll made worse by the inadequate supply of lifeboats, which could accommodate only about half the people on board.\n\nThe disaster exposed the dangerous overconfidence of the Edwardian age in technology and progress. The ship had been widely promoted as virtually unsinkable, and its builders and operators had dismissed warnings about iceberg-laden waters. Survival rates starkly reflected the class hierarchy of the era: first-class passengers had a survival rate of around 62 percent, second class 41 percent, and third class only 25 percent. The disparity arose partly from the physical layout of the ship, which made it harder for third-class passengers to reach lifeboats.\n\nThe disaster prompted sweeping improvements in maritime safety regulations, including requirements for sufficient lifeboats for all passengers, mandatory 24-hour radio monitoring, and the establishment of the International Ice Patrol. The wreck was discovered in 1985 by oceanographer Robert Ballard at a depth of 3,800 meters on the floor of the North Atlantic. The Titanic became a cultural phenomenon far exceeding its historical significance, subject to countless films, books, and exhibitions, and remains a powerful symbol of human hubris and the limits of technology.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+    "read_more_links": [
+        {
+            "title": "RMS Titanic",
+            "url": "https://en.wikipedia.org/wiki/RMS_Titanic"
+        },
+        {
+            "title": "International Ice Patrol",
+            "url": "https://en.wikipedia.org/wiki/International_Ice_Patrol"
+        },
+        {
+            "title": "Robert Ballard",
+            "url": "https://en.wikipedia.org/wiki/Robert_Ballard"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Titanic_breakup_simple.png/300px-Titanic_breakup_simple.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Titanic_breakup_simple.png",
+            "caption": "Simplistic representation of the 2 major models for the break-up of the RMS T...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Titanic_lifeboat.jpg/300px-Titanic_lifeboat.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Titanic_lifeboat.jpg",
+            "caption": "last lifeboat successfully launched from the Titanic",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Titanic_newspaper_boy.jpg/300px-Titanic_newspaper_boy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Titanic_newspaper_boy.jpg",
+            "caption": "Ned Parfett, paperboy, outside the White Star Line offices in London, April 1...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St%C3%B6wer_Titanic.jpg/300px-St%C3%B6wer_Titanic.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg",
+            "caption": "Titanic Sinking, engraving by Willy Stöwer.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Willy Stöwer",
+            "summary": "German painter (1864–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Willy_St%C3%B6wer.png/250px-Willy_St%C3%B6wer.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Willy_St%C3%B6wer"
+        },
+        {
+            "name": "Cobh",
+            "summary": "Seaport in County Cork, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cobhgallery.jpg/250px-Cobhgallery.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cobh"
+        },
+        {
+            "name": "Chief steward",
+            "summary": "Ranks on a merchant ship",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SS_Africa_K%C3%BCche.jpg/250px-SS_Africa_K%C3%BCche.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chief_steward"
+        },
+        {
+            "name": "Frederick Fleet",
+            "summary": "British sailor, survivor of the sinking of RMS Titanic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FrederickFleet.April1912.jpg/250px-FrederickFleet.April1912.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_Fleet"
+        }
+    ],
+    "territory_geojson": null
+}

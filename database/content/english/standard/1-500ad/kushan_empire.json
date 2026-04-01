@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2050,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b9855a9727ff48872b629ac10fb08c4801fe4758fb709d4368f64f4bc95644ab",
+    "summary": "The Kushan Empire (c. 60–375 AD) was one of the most cosmopolitan empires of the ancient world — a Central Asian state that controlled the critical junction between China, India, Persia, and the Roman Empire, straddling the Silk Road at its most valuable chokepoint. Originating from the Yuezhi people who had been pushed from northwestern China by the Xiongnu, the Kushans established themselves in Bactria (modern Afghanistan/Uzbekistan) and expanded south into the Indus Valley and east into modern Pakistan and northwestern India. At their peak under Kanishka I (c. 127–150 AD), the empire stretched from Central Asia to the Ganges plain.\n\nThe Kushan Empire was the great patron and transmitter of Buddhism along the Silk Road. Kanishka I convened a major Buddhist council, sponsored massive building programs, and his empire's control of the Himalayan passes and Silk Road routes meant that Buddhist monks, texts, merchants, and art styles could flow between India, China, and the Mediterranean world. The distinctive [[event:2051|Gandhara Buddhist art]] style — blending Hellenistic, Persian, and Indian traditions — flourished under Kushan patronage. The empire's coins famously depicted deities from Greek, Persian, Indian, and Buddhist traditions simultaneously, reflecting the empire's extraordinary cultural synthesis. The Kushans were gradually weakened by Sassanid Persian pressure from the west and Gupta pressure from the south, fragmenting in the 4th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kushan_Empire",
+    "read_more_links": [
+        {
+            "title": "Kanishka I Buddhist council",
+            "url": "https://en.wikipedia.org/wiki/Kanishka"
+        },
+        {
+            "title": "Kushan Silk Road position",
+            "url": "https://en.wikipedia.org/wiki/Kushan_Empire#Economy_and_trade"
+        },
+        {
+            "title": "Kushan coinage multi-faith",
+            "url": "https://en.wikipedia.org/wiki/Kushan_coinage"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fran%C3%A7oise_Foliot_-_Afghanistan_152.jpg/300px-Fran%C3%A7oise_Foliot_-_Afghanistan_152.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Fran%C3%A7oise_Foliot_-_Afghanistan_152.jpg",
+            "caption": "Afghanistan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buddha_triad_monk_layman_Guimet_MG21157.jpg/300px-Buddha_triad_monk_layman_Guimet_MG21157.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Buddha_triad_monk_layman_Guimet_MG21157.jpg",
+            "caption": "Buddha triad monk layman Guimet MG21157",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ahin_Posh_stupa_reconstitution%2C_Simpson_1878.jpg/300px-Ahin_Posh_stupa_reconstitution%2C_Simpson_1878.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Ahin_Posh_stupa_reconstitution%2C_Simpson_1878.jpg",
+            "caption": "Ahin Posh stupa reconstitution, Simpson 1878",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ayaz_Kala_%28Khorezm%2C_Ouzb%C3%A9kistan%29_%285608879653%29.jpg/300px-Ayaz_Kala_%28Khorezm%2C_Ouzb%C3%A9kistan%29_%285608879653%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ayaz_Kala_%28Khorezm%2C_Ouzb%C3%A9kistan%29_%285608879653%29.jpg",
+            "caption": "La citadelle inférieure.\nAyaz Kala dans le Khorezm (Karakalpakstan) est compo...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Kujula Kadphises",
+            "summary": "1st-century CE Kushan emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Coin_of_the_Kushan_king_Kujula_Kadphises.jpg/250px-Coin_of_the_Kushan_king_Kujula_Kadphises.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kujula_Kadphises"
+        },
+        {
+            "name": "Kanishka",
+            "summary": "Kushan emperor from 127 to 150",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/KanishkaCoin3.JPG/250px-KanishkaCoin3.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kanishka"
+        },
+        {
+            "name": "Kipunada",
+            "summary": "Kushan Ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kipunada.jpg/250px-Kipunada.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kipunada"
+        },
+        {
+            "name": "Vima Kadphises",
+            "summary": "2nd century Kushan emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Double_stater_Vima_Kadphises_Guimet_MG24356_%28cropped%29.jpg/250px-Double_stater_Vima_Kadphises_Guimet_MG24356_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vima_Kadphises"
+        },
+        {
+            "name": "Vasudeva II",
+            "summary": "Kushan emperor from c. 275 to 300",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coin_Vasudeva_II_Guimet_MA24360_%28cropped%29.jpg/250px-Coin_Vasudeva_II_Guimet_MA24360_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vasudeva_II"
+        },
+        {
+            "name": "Alain Daniélou",
+            "summary": "French historian, Indologist and musicologist (1907–1994)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alain_Dani%C3%A9lou.jpg/250px-Alain_Dani%C3%A9lou.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alain_Dani%C3%A9lou"
+        }
+    ],
+    "territory_geojson": null
+}

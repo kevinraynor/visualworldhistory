@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1043,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:98050ed4d38be1a3d5f9e03141ee1c1b134b914843e8740334f574d255e50380",
+    "summary": "The Kingdom of Pergamon (282–133 BC) was a small but prosperous Hellenistic kingdom in western Anatolia, centered on the acropolis city of Pergamon (modern Bergama in Turkey), which became one of the [[event:80|Hellenistic Period]]'s most remarkable cultural centers. Originally a Seleucid treasury city, it was seized by Philetaerus, a eunuch treasurer, who used its wealth to establish an independent dynasty, the Attalids.\n\nThe Attalids made Pergamon's name synonymous with cultural prestige through heavy investment in architecture, libraries, and art. The city's library was reputed to rival the [[event:1044|Library of Alexandria]]; according to ancient tradition, the Ptolemies cut off papyrus exports to prevent Pergamon's library from surpassing Alexandria's, forcing the Pergamenes to develop parchment (pergamene, from which the modern word derives). The Attalid kings cultivated Rome as an ally against the [[event:1041|Seleucid Empire]] and the [[event:1042|Antigonid Dynasty]], contributing to Rome's growing influence in the eastern Mediterranean. The last Attalid king, Attalus III, bequeathed the kingdom to Rome in 133 BC to prevent succession struggles, making Pergamon the province of Asia and vastly expanding Rome's eastern dominion.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_Pergamon",
+    "read_more_links": [
+        {
+            "title": "Pergamon",
+            "url": "https://en.wikipedia.org/wiki/Pergamon"
+        },
+        {
+            "title": "Attalid dynasty",
+            "url": "https://en.wikipedia.org/wiki/Attalid_dynasty"
+        },
+        {
+            "title": "Attalus III",
+            "url": "https://en.wikipedia.org/wiki/Attalus_III"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theatre_of_Pergamon.jpg/300px-Theatre_of_Pergamon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Theatre_of_Pergamon.jpg",
+            "caption": "Ancient Greek theatre of Pergamon, Turkey",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kingdom_of_Pergamon.png/300px-Kingdom_of_Pergamon.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kingdom_of_Pergamon.png",
+            "caption": "High detailed map showing the Kingdom of Pergamon at it's greatest extent in ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Seleucid_Empire_alternative_map.jpg/300px-Seleucid_Empire_alternative_map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Seleucid_Empire_alternative_map.jpg",
+            "caption": "Seleucid Empire alternative map\nMuch of Aria passed from Macedonian into Indi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Asia_Minor_188_BCE.jpg/300px-Asia_Minor_188_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Asia_Minor_188_BCE.jpg",
+            "caption": "\"The Growth of Roman Power in Asia Minor\" from The Historical Atlas by en:Wil...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philetaerus",
+            "summary": "Governor and autonomous ruler of Pergamon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Filetero_di_pergamo%2C_da_villa_dei_papiri%2C_peristilio_rettangolare.JPG/250px-Filetero_di_pergamo%2C_da_villa_dei_papiri%2C_peristilio_rettangolare.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philetaerus"
+        },
+        {
+            "name": "Eumenes III",
+            "summary": "King of Pergamon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Statue_of_Eumenes_III_%28cropped%29.jpg/250px-Statue_of_Eumenes_III_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eumenes_III"
+        },
+        {
+            "name": "Attalus III",
+            "summary": "Last king of Pergamon from 138 to 133 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Attalid_portrait_at_the_Antikensammlung_Berlin.jpg/250px-Attalid_portrait_at_the_Antikensammlung_Berlin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Attalus_III"
+        },
+        {
+            "name": "Eumenes I",
+            "summary": "King of Pergamon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmenesICoin.JPG/250px-EmenesICoin.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eumenes_I"
+        },
+        {
+            "name": "Attalus I",
+            "summary": "King of Pergamon, reigned 241–197 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Portrait_of_a_Hellenistic_ruler_%28Attalus_I%3F%29._Berlin%2C_Pergamon_Museum._%285256233048%29.jpg/250px-Portrait_of_a_Hellenistic_ruler_%28Attalus_I%3F%29._Berlin%2C_Pergamon_Museum._%285256233048%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Attalus_I"
+        },
+        {
+            "name": "Eumenes II",
+            "summary": "King of Pergamon from 197 to 159 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Eumene_II_detto_giovane_comandante%2C_da_villa_dei_papiri%2C_peristilio_quadrato.JPG/250px-Eumene_II_detto_giovane_comandante%2C_da_villa_dei_papiri%2C_peristilio_quadrato.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eumenes_II"
+        }
+    ],
+    "territory_geojson": null
+}

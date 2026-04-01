@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1333,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:37aadaa2b9835072ccec59c6837be9da15532c8e34e3bc547ed29f45c501b8f2",
+    "summary": "Mud brick — sun-dried or occasionally kiln-fired bricks made from clay-rich alluvial mud mixed with chopped straw or other temper — was the primary building material of settled communities across the ancient Near East from the early Neolithic through historical antiquity. The earliest known mud brick architecture appears at sites in the Levant and adjacent areas during the Pre-Pottery Neolithic A period, around 9500–8500 BCE, at communities such as [[event:2|Jericho]] and other Jordan Valley sites.\n\nBefore mud bricks, early Neolithic communities in the Levant typically constructed round or oval structures using irregular stones or pise (pounded earth), or simple posts and organic materials. The transition to standardized rectangular mud bricks represented a significant architectural innovation: brick construction enabled the building of straight walls, right-angle corners, and multistorey structures with greater regularity and more efficient use of space than round post-and-wattle buildings. The shift from round to rectangular architecture, visible in the transition from [[event:1304|PPNA]] to [[event:18|PPNB]] building traditions, may also reflect social changes in household organization, with rectangular buildings more readily subdivided into separate rooms serving different functions.\n\nMud brick architecture spread widely with the expansion of Neolithic farming cultures and became the dominant building material of Mesopotamian civilization. The tells — artificial mounds formed from the accumulated debris of centuries of mud brick buildings — that dot the Near Eastern landscape are a direct consequence of mud brick's short lifespan and the continuous cycle of construction, decay, and rebuilding that characterized settled village and urban life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mudbrick",
+    "read_more_links": [
+        {
+            "title": "Adobe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adobe"
+        },
+        {
+            "title": "Pre-Pottery Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic"
+        },
+        {
+            "title": "Ancient Near Eastern Architecture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Architecture_of_Mesopotamia"
+        },
+        {
+            "title": "Tell (archaeology) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tell_(archaeology)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mud-brick_stamped_with_seal_impression_of_raised_relief_of_the_Treasury_of_the_Vizier._From_Lahun%2C_Fayum%2C_Egypt._12th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/300px-Mud-brick_stamped_with_seal_impression_of_raised_relief_of_the_Treasury_of_the_Vizier._From_Lahun%2C_Fayum%2C_Egypt._12th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mud-brick_stamped_with_seal_impression_of_raised_relief_of_the_Treasury_of_the_Vizier._From_Lahun%2C_Fayum%2C_Egypt._12th_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "caption": "Mud-brick stamped with seal impression of raised relief of the Treasury of th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mudbricks_in_Palestine_2011.jpg/300px-Mudbricks_in_Palestine_2011.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mudbricks_in_Palestine_2011.jpg",
+            "caption": "New mudbricks in Palestine 2011",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SudanKhartoum-TutiIsland-BrickmakingCorinthia_RomanDeckert20160207.jpg/300px-SudanKhartoum-TutiIsland-BrickmakingCorinthia_RomanDeckert20160207.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/SudanKhartoum-TutiIsland-BrickmakingCorinthia_RomanDeckert20160207.jpg",
+            "caption": "A worker at a traditional brickyard on the Sudanese Island of Tuti, where the...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mudbrick_production_Niger_2007.jpg/300px-Mudbrick_production_Niger_2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Mudbrick_production_Niger_2007.jpg",
+            "caption": "Mudbrick production for house construction materials, 2007",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vernacular architecture",
+            "summary": "Architecture based on local needs, materials, traditions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Istano_Pagaruyuang.jpg/250px-Istano_Pagaruyuang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vernacular_architecture"
+        },
+        {
+            "name": "Edfu",
+            "summary": "Place in Aswan Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Temple_Edfou_Egypte.jpg/250px-Temple_Edfou_Egypte.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edfu"
+        }
+    ],
+    "territory_geojson": null
+}

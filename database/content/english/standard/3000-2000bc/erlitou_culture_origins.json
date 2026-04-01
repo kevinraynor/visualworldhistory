@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1768,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b047532afc7c8fc37de4d7443705666560eadee49098765040149fe6e1b9af9a",
+    "summary": "The Erlitou culture, with its origins approximately 2070–2000 BC in the central plains of China near modern Luoyang, Henan province, represents the earliest phase of Chinese Bronze Age urbanism and is associated by many scholars with the legendary [[event:1769|Xia dynasty]]. The type site of Erlitou itself shows evidence of palace-like structures, bronze-casting facilities, specialised craft workshops, and a hierarchical social organisation that marks a qualitative advance over the preceding Longshan culture in terms of urban complexity and political centralisation.\n\nThe material culture of Erlitou is notable for the production of bronze ritual vessels — a tradition that would become central to Chinese elite culture for millennia. The earliest bronzes from Erlitou are relatively small and simple, but they already embody the use of bronze not merely for tools and weapons but as a medium for vessels associated with ritual feasting and ancestor veneration. This distinctive orientation of Chinese Bronze Age metallurgy toward ritual vessels, rather than primarily military equipment, sets Chinese Bronze Age culture apart from contemporaneous bronze-using societies in the Near East and Europe.\n\nThe relationship between Erlitou and the legendary Xia dynasty described in early Chinese historical texts has been extensively debated. While direct proof that Erlitou was the capital or cultural expression of a historically attested Xia dynasty is lacking (no inscriptions identifying the state have been found), the temporal and geographic correspondence between Erlitou and the traditional accounts of Xia is close enough that many Chinese archaeologists regard Erlitou as the archaeological correlate of the earliest Chinese dynasty. Whether or not this identification is accepted, Erlitou represents the foundational moment of Chinese Bronze Age civilisation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Erlitou_culture",
+    "read_more_links": [
+        {
+            "title": "Xia dynasty",
+            "url": "https://en.wikipedia.org/wiki/Xia_dynasty"
+        },
+        {
+            "title": "Chinese Bronze Age",
+            "url": "https://en.wikipedia.org/wiki/Chinese_Bronze_Age"
+        },
+        {
+            "title": "Longshan culture",
+            "url": "https://en.wikipedia.org/wiki/Longshan_culture"
+        },
+        {
+            "title": "Bronze ritual vessels of China",
+            "url": "https://en.wikipedia.org/wiki/Bronze_vessels_of_China"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dagger-axe_%28ge_%E6%88%88%29.jpg/300px-Dagger-axe_%28ge_%E6%88%88%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Dagger-axe_%28ge_%E6%88%88%29.jpg",
+            "caption": "Dagger-axe (ge 戈). Jade (nephrite). 10.2 x 67.1 x 0.6 cm. China, probably Hen...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Characters_from_Erlitou_Culture%2C_Yanshi%2C_Henan_%2810185242295%29.jpg/300px-Characters_from_Erlitou_Culture%2C_Yanshi%2C_Henan_%2810185242295%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Characters_from_Erlitou_Culture%2C_Yanshi%2C_Henan_%2810185242295%29.jpg",
+            "caption": "Chinese Writing Museum, Anyang. Complete indexed photo collection at WorldHis...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Xia_Jade_Zhang.jpg/300px-Xia_Jade_Zhang.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Xia_Jade_Zhang.jpg",
+            "caption": "Prehistory to Sui Dynasty Gallery, New Luoyang City Museum, Henan, China. Com...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Turquoise-Inlaid_Plaque_with_Stylized_Animal-Mask_Decoration%2C_1900-1350_BC%2C_Neolithic_to_Shang_period%2C_Erlitou_culture%2C_China%2C_bronze_with_turquoise_inlay_-_Sackler_Museum_-_DSC02627.JPG/300px-Turquoise-Inlaid_Plaque_with_Stylized_Animal-Mask_Decoration%2C_1900-1350_BC%2C_Neolithic_to_Shang_period%2C_Erlitou_culture%2C_China%2C_bronze_with_turquoise_inlay_-_Sackler_Museum_-_DSC02627.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Turquoise-Inlaid_Plaque_with_Stylized_Animal-Mask_Decoration%2C_1900-1350_BC%2C_Neolithic_to_Shang_period%2C_Erlitou_culture%2C_China%2C_bronze_with_turquoise_inlay_-_Sackler_Museum_-_DSC02627.JPG",
+            "caption": "Exhibit in the Sackler Museum, Harvard University, Cambridge, Massachusetts, ...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tang of Shang",
+            "summary": "Founder and first king of the Shang dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/King_Tang_of_Shang.jpg/250px-King_Tang_of_Shang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tang_of_Shang"
+        }
+    ],
+    "territory_geojson": null
+}

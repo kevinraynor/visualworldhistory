@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2856,
+    "parent_id": 2025,
+    "granularity": "detailed",
+    "content_hash": "sha256:daff14df3396218b6aca135f1d9a1c55cf772ba3ebf5604ea906ea2344ff921c",
+    "summary": "The Gallic Empire (260–274 AD) was a breakaway western Roman state that controlled Gaul, Britain, and Spain for fourteen years during the [[event:2025|Crisis of the Third Century]] — established not by foreign conquest but by the Roman general Postumus, who declared himself emperor of a western state in 260 AD following the chaos unleashed by [[event:2826|Valerian's capture]]. Unlike the [[event:2855|Palmyrene Empire]] in the east, the Gallic Empire did not claim to be a separate nation but presented itself as a better defender of Roman traditions than the beleaguered central government — it maintained Roman institutions, Senate, consuls, and all the forms of Roman administration while remaining functionally independent.\n\nThe Gallic Empire was militarily effective in its primary purpose: its Rhine legions successfully defended Gaul against Germanic pressure during the period when the central Roman government was too distracted by the eastern crisis to do so. Under Postumus and his successors (Marius, Victorinus, Tetricus), the Gallic Empire maintained reasonable stability and prosperity in its territories. The emperor Tetricus was reportedly relieved when [[event:2854|Aurelian]] invaded in 274 AD — ancient sources claim he secretly negotiated his own surrender rather than fight. Aurelian reabsorbed the Gallic Empire and treated Tetricus generously, appointing him to a comfortable administrative post in Italy. The Gallic Empire's existence demonstrated that the western provinces could organize their own defense when necessary — a preview of the post-Roman Germanic kingdoms.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gallic_Empire",
+    "read_more_links": [
+        {
+            "title": "Postumus founder Gallic Empire",
+            "url": "https://en.wikipedia.org/wiki/Postumus"
+        },
+        {
+            "title": "Tetricus last Gallic emperor",
+            "url": "https://en.wikipedia.org/wiki/Tetricus_I"
+        },
+        {
+            "title": "Gallic Empire Rhine defense",
+            "url": "https://en.wikipedia.org/wiki/Gallic_Empire#Military"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/GallicEmpire262.png/300px-GallicEmpire262.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/GallicEmpire262.png",
+            "caption": "Map of the rebellous Gallic Empire, showing its core areas and held territori...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Map_of_the_Gallic_Empire%2C_260_AD.jpg/300px-Map_of_the_Gallic_Empire%2C_260_AD.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Map_of_the_Gallic_Empire%2C_260_AD.jpg",
+            "caption": "A map I created which depicts the Gallic Empire in 260 A.D. at its furthest t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coin_of_Tetricus_I.jpg/300px-Coin_of_Tetricus_I.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Coin_of_Tetricus_I.jpg",
+            "caption": "Coin of Tetricus I, last ruler of the Gallic Empire",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Postumus",
+            "summary": "Gallic emperor from 260 to 269",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Golden_coin_of_Postumus.png/250px-Golden_coin_of_Postumus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Postumus"
+        },
+        {
+            "name": "Marcus Aurelius Marius",
+            "summary": "Emperor of the Roman Gallic empire in 269",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Marius4.jpg/250px-Marius4.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius_Marius"
+        },
+        {
+            "name": "Victorinus",
+            "summary": "Roman emperor in Gaul from 268/269 to 270/271",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Aureus_Victorinus_RIC_0094_%28obverse%29.png/250px-Aureus_Victorinus_RIC_0094_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Victorinus"
+        },
+        {
+            "name": "Tetricus I",
+            "summary": "Gallic emperor from 271 to 274 AD",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/INC-2045-a_%D0%90%D1%83%D1%80%D0%B5%D1%83%D1%81._%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D0%BA_I_%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9._%D0%9E%D0%BA._271%E2%80%94274_%D0%B3%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png/250px-INC-2045-a_%D0%90%D1%83%D1%80%D0%B5%D1%83%D1%81._%D0%A2%D0%B5%D1%82%D1%80%D0%B8%D0%BA_I_%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9._%D0%9E%D0%BA._271%E2%80%94274_%D0%B3%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tetricus_I"
+        },
+        {
+            "name": "Eutropius (historian)",
+            "summary": "4th century Roman historian and official",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Miniature_of_Eutropius.jpg/250px-Miniature_of_Eutropius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eutropius_%28historian%29"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        }
+    ],
+    "territory_geojson": null
+}

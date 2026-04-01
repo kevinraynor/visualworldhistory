@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2494,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f9a6779b7094bd46d46e6003dc15fb0179fc3f7c7e9c1f5d047180ff3ed35e00",
+    "summary": "The German Peasants' War (1524–1525 AD) was the largest popular uprising in European history before the [[event:107|French Revolution]], mobilizing an estimated 300,000 peasants, miners, and urban artisans across the German-speaking lands in a revolt against feudal obligations, serfdom, and noble privilege — drawing on the social radicalism that many found implicit in [[event:2430|Luther's]] Reformation theology. The uprising was inspired in part by radical preachers like Thomas Müntzer, who preached a theology of revolutionary social transformation in which God's kingdom required the destruction of the ungodly nobility and establishment of equality among Christians. The Twelve Articles of Memmingen (1525), the peasants' main manifesto, demanded abolition of serfdom, reduction of feudal dues, right to elect their own pastors, and access to forests and fishing rights — claims grounded in both scripture and traditional rights.\n\nLuther himself initially expressed sympathy for some peasant grievances but was horrified by the uprising's violence and its claims to scriptural authority for social revolution; his pamphlet Against the Murderous, Thieving Hordes of Peasants urged nobles to crush the revolt without mercy. The peasants were militarily outmatched by professional noble armies: the Battle of Frankenhausen (May 1525) destroyed Müntzer's forces, and Müntzer was captured, tortured, and executed. The subsequent repression killed between 70,000 and 100,000 people. The defeat of the Peasants' War set back the cause of German peasant emancipation for centuries and demonstrated that the Lutheran Reformation, which Luther explicitly aligned with princely authority against popular radicalism, would be a conservative rather than revolutionary force in German social history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+    "read_more_links": [
+        {
+            "title": "Thomas Müntzer radical reformation theology peasant uprising",
+            "url": "https://en.wikipedia.org/wiki/Thomas_M%C3%BCntzer"
+        },
+        {
+            "title": "Twelve Articles Memmingen peasant demands grievances 1525",
+            "url": "https://en.wikipedia.org/wiki/Twelve_Articles"
+        },
+        {
+            "title": "Luther Against Murderous Thieving Hordes response peasants",
+            "url": "https://en.wikipedia.org/wiki/Against_the_Murderous,_Thieving_Hordes_of_Peasants"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Dirk.willems.rescue.ncs.jpg/300px-Dirk.willems.rescue.ncs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Dirk.willems.rescue.ncs.jpg",
+            "caption": "Dirk Willems' captor, who had been chasing Willems prior to falling through t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weinsberg_1578.jpg/300px-Weinsberg_1578.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Weinsberg_1578.jpg",
+            "caption": "Weinsberg in 1578. Part of a map of the surroundings of Heilbronn",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/De_Merian_Sueviae_144.jpg/300px-De_Merian_Sueviae_144.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/De_Merian_Sueviae_144.jpg",
+            "caption": "De Merian Sueviae 144",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Rohrbach-verbrennung-1525.jpg/300px-Rohrbach-verbrennung-1525.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Rohrbach-verbrennung-1525.jpg",
+            "caption": "Farmer's leader Jäcklein Rohrbach is burned alive in Neckargartach in C.E.152...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thomas Müntzer",
+            "summary": "German preacher and theologian (c. 1489 – 1525)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Thomas_Muentzer.jpg/250px-Thomas_Muentzer.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_M%C3%BCntzer"
+        },
+        {
+            "name": "Hans Müller von Bulgenbach",
+            "summary": "German peasant leader (c. 1490–1525)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Kupferstich_Hans_Bulgenbach.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_M%C3%BCller_von_Bulgenbach"
+        },
+        {
+            "name": "Georg, Truchsess von Waldburg",
+            "summary": "German nobleman and soldier (1488–1531)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bauernjoerg.jpg/250px-Bauernjoerg.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georg%2C_Truchsess_von_Waldburg"
+        },
+        {
+            "name": "George, Duke of Saxony",
+            "summary": "Duke of Saxony from 1500 to 1539",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lucas_Cranach_d.%C3%84._-_Bildnis_Georgs_des_B%C3%A4rtigen%2C_Herzog_von_Sachsen_%28Museum_der_bildenden_K%C3%BCnste%29.jpg/250px-Lucas_Cranach_d.%C3%84._-_Bildnis_Georgs_des_B%C3%A4rtigen%2C_Herzog_von_Sachsen_%28Museum_der_bildenden_K%C3%BCnste%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George%2C_Duke_of_Saxony"
+        },
+        {
+            "name": "Henry V, Duke of Brunswick-Lüneburg",
+            "summary": "Duke of Brunswick-Lüneburg and Prince of Wolfenbüttel (1489–1568)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Heinrich_II._%28der_J%C3%BCngere%29_1489-1568_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_V%2C_Duke_of_Brunswick-L%C3%BCneburg"
+        },
+        {
+            "name": "Martin Luther",
+            "summary": "German priest, theologian and author (1483–1546)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/250px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther"
+        }
+    ],
+    "territory_geojson": null
+}

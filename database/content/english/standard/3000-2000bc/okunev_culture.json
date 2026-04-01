@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1766,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2c94699df3e25659236e102e2d58cf4e9999ce8a1b21a7bb2fc8ddf99fcf96f8",
+    "summary": "The Okunev culture, occupying the Minusinsk Basin of southern Siberia approximately 2500–2000 BC, is one of the most artistically distinctive prehistoric cultures of Asia. The culture succeeded the [[event:1765|Afanasievo culture]] in the same region and is remarkable above all for its stone sculptures and petroglyphs — large carved stone figures with elaborate facial imagery featuring masks, solar symbols, and supernatural beings — which represent a unique artistic tradition with no direct parallels in the surrounding regions.\n\nOkunev stone sculptures, some standing up to two metres tall, depict anthropomorphic figures with complex facial markings including radiant eyes, protruding snouts, and elaborate geometric patterns. These images have been interpreted by scholars as representations of shamanic spirit-beings, solar deities, or ancestral figures associated with the ritual life of the community. The sculptural tradition suggests a complex cosmological and religious worldview that expressed itself in monumental art in ways that are unusual for the archaeology of prehistoric Siberia.\n\nGenetically and culturally, the Okunev people appear to represent a distinct population from the preceding Afanasievo people, with greater affinities to East Asian populations. They are sometimes described as representing the easternmost extension of a northern Eurasian hunter-gatherer tradition that developed in interaction with incoming steppe pastoralists. The Okunev culture provides evidence for the cultural and ethnic diversity of prehistoric southern Siberia and for the complex interactions between indigenous populations and incoming steppe migrants in this transitional region between Europe and Asia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Okunev_culture",
+    "read_more_links": [
+        {
+            "title": "Afanasievo culture",
+            "url": "https://en.wikipedia.org/wiki/Afanasievo_culture"
+        },
+        {
+            "title": "Minusinsk Basin",
+            "url": "https://en.wikipedia.org/wiki/Minusinsk_Basin"
+        },
+        {
+            "title": "Prehistoric Siberia",
+            "url": "https://en.wikipedia.org/wiki/Siberia#Prehistory"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Museum_in_Abakan%2C_Khakassia%2C_Russia_2021_-_petroglyphs.jpg/300px-Museum_in_Abakan%2C_Khakassia%2C_Russia_2021_-_petroglyphs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Museum_in_Abakan%2C_Khakassia%2C_Russia_2021_-_petroglyphs.jpg",
+            "caption": "Museum in Abakan, Khakassia, Russia 2021 - petroglyphs\nSee website: Kartazon ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Multidimensional_scaling_based_on_matrix_of_Slatkin_population_differentiation_%28FST%29_based_on_mtDNA_HVRI_sequences_in_the_Tagar_series_and_other_ancient_populations_from_different_regions_of_Eurasia.jpg/300px-Multidimensional_scaling_based_on_matrix_of_Slatkin_population_differentiation_%28FST%29_based_on_mtDNA_HVRI_sequences_in_the_Tagar_series_and_other_ancient_populations_from_different_regions_of_Eurasia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Multidimensional_scaling_based_on_matrix_of_Slatkin_population_differentiation_%28FST%29_based_on_mtDNA_HVRI_sequences_in_the_Tagar_series_and_other_ancient_populations_from_different_regions_of_Eurasia.jpg",
+            "caption": "Multidimensional scaling based on matrix of Slatkin population differentiatio...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TasHyz.JPG/300px-TasHyz.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/TasHyz.JPG",
+            "caption": "TasHyz",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Okunev_animal_petroglyphs.jpg/300px-Okunev_animal_petroglyphs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Okunev_animal_petroglyphs.jpg",
+            "caption": "Okunev animal petroglyphs",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hermitage Museum",
+            "summary": "Museum in Saint Petersburg, Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/5174-3._St._Petersburg._Greater_Hermitage.jpg/250px-5174-3._St._Petersburg._Greater_Hermitage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermitage_Museum"
+        },
+        {
+            "name": "Forging",
+            "summary": "Metalworking process",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bochumer_Verein-03-50142.jpg/250px-Bochumer_Verein-03-50142.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Forging"
+        },
+        {
+            "name": "Metalworking",
+            "summary": "Process of making items from metal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dreher_an_einer_Drehbank.jpg/250px-Dreher_an_einer_Drehbank.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Metalworking"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1417,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:851519d75c9a11253236b9cd32cd2b8f6412578e9a77fcfaaf1aab6edd40cb32",
+    "summary": "The Starčevo culture, named after a site near Belgrade in modern Serbia and dated broadly from approximately 6200 to 5200 BCE, was one of the earliest Neolithic cultures of the central Balkans and Pannonian Plain. It represents an important link in the chain of agricultural expansion from the southeastern Balkans northward and westward into central Europe, forming part of the broader wave of [[event:21|farming spread into Europe]] from Anatolian origins.\n\nStarčevo communities established themselves in a variety of landscape settings including river valleys, lakeshores, and upland areas, practicing mixed farming of cereals and legumes while herding cattle, sheep, goats, and pigs. Their settlements typically consisted of small clusters of rectangular or trapezoidal pit houses, and their material culture includes a distinctive pottery tradition featuring painted and incised decorations. The Starčevo culture is often grouped with the related Körös culture of Hungary and the Criş culture of Romania as parts of a broader central and southeastern European Neolithic complex sharing similar ceramics, architecture, and subsistence practices.\n\nThe Starčevo and related cultures played a pivotal role in carrying the farming way of life into the heart of Europe, establishing the demographic and agricultural conditions that would support the subsequent Linear Pottery culture (Linearbandkeramik) expansion across central and northwestern Europe. Their communities represent the human carriers of the agricultural transformation that permanently changed European landscapes and populations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star%C4%8Devo_culture",
+    "read_more_links": [
+        {
+            "title": "Neolithic Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        },
+        {
+            "title": "Körös Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/K%C3%B6r%C3%B6s_culture"
+        },
+        {
+            "title": "Linear Pottery Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Linear_Pottery_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Star%C4%8Devo1.jpg/300px-Star%C4%8Devo1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Star%C4%8Devo1.jpg",
+            "caption": "Starčevo culture artefacts",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe1.jpg/300px-Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe1.jpg",
+            "caption": "Map of the spread of Neolithic farming cultures in Europe, dates in year BCE",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Altar_table.jpg/300px-Altar_table.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Altar_table.jpg",
+            "caption": "Altar, table type, found in Tumba, Madzari, Skopje, dated 1st half 6 millenni...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Crvenokosa_boginja%2C_neolit%2C_Donja_Branjevina.tif/300px-Crvenokosa_boginja%2C_neolit%2C_Donja_Branjevina.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Crvenokosa_boginja%2C_neolit%2C_Donja_Branjevina.tif",
+            "caption": "\"Red-headed goddess\" - statuette from the early Neolithic period (archaeologi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 rs"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1069,
+    "parent_id": 72,
+    "granularity": "notable",
+    "content_hash": "sha256:6d174085b24a2caf0c147e7fb02604d2d45bcab3e7cc168cd85927e429bbaf82",
+    "summary": "The Marian Reforms (107–100 BC) were a sweeping reorganization of the Roman army by the consul Gaius Marius that transformed Rome's military from a citizen militia into a professional standing army, with consequences that fundamentally changed Roman politics and ultimately contributed to the Republic's fall. Marius implemented the reforms partly from military necessity — during the [[event:1090|Jugurthine War]] and later the [[event:1092|Cimbrian War]] against Germanic tribes — and partly from personal ambition.\n\nThe key change was eliminating the property qualification for military service. Previously, only men with sufficient property to equip themselves could serve; Marius opened the army to the proletarii (propertyless citizens), who were equipped at state expense. This created a professional, full-time army of soldiers who served sixteen or more years and were bonded to their commander by personal loyalty and the expectation of land grants upon discharge. Since the state often failed to provide land for veterans, soldiers came to depend on their generals to advocate for their interests — creating armies loyal to specific commanders rather than to the Republic.\n\nOther reforms included standardizing equipment (every soldier carried the same weapons regardless of wealth), reorganizing the legion into ten cohorts rather than three lines of maniples, and creating the aquila (eagle standard) as each legion's sacred emblem around which soldiers rallied. These changes produced a more effective fighting force but also the preconditions for the civil wars of the late Republic: ambitious generals with loyal armies became the dominant actors in Roman politics, from Sulla to Caesar to Augustus.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marian_reforms",
+    "read_more_links": [
+        {
+            "title": "Gaius Marius",
+            "url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "title": "Roman Legion",
+            "url": "https://en.wikipedia.org/wiki/Roman_legion"
+        },
+        {
+            "title": "Crisis of the Roman Republic",
+            "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Roman_aquila.jpg/300px-Roman_aquila.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Roman_aquila.jpg",
+            "caption": "Aquila, the sign of the legion\n\nPhotographed by myself during a show of Legio...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png/300px-RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png",
+            "caption": "Obverse of RRC 326/1, a silver denarius by Gaius Fundanius in 101 BC depictin...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Theodor_Mommsen_by_Ludwig_Knaus_%281881%29.jpg/300px-Theodor_Mommsen_by_Ludwig_Knaus_%281881%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Theodor_Mommsen_by_Ludwig_Knaus_%281881%29.jpg",
+            "caption": "Theodor Mommsen by Ludwig Knaus",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kempten_Pilum.jpg/300px-Kempten_Pilum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kempten_Pilum.jpg",
+            "caption": "Cambodunum Pilum",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gaius Marius",
+            "summary": "Roman general and statesman (c. 157–86 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png/250px-RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "name": "Heavy infantry",
+            "summary": "Heavily armed and armoured soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Greek_Phalanx.jpg/250px-Greek_Phalanx.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heavy_infantry"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Valerius Maximus",
+            "summary": "Early 1st century AD Roman professional rhetorician, historian and author",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Inkunabel.ValMax.001.jpg/250px-Inkunabel.ValMax.001.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valerius_Maximus"
+        },
+        {
+            "name": "Sallust",
+            "summary": "Roman historian and politician (86–35 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Salluste_%28cropped%29.jpg/250px-Salluste_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sallust"
+        },
+        {
+            "name": "Gaius Gracchus",
+            "summary": "Roman politician and reformer (c. 154 BC – 121 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Eugene_Guillaume_-_the_Gracchi_%28cropped%29_Gaius.jpg/250px-Eugene_Guillaume_-_the_Gracchi_%28cropped%29_Gaius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Gracchus"
+        }
+    ],
+    "territory_geojson": null
+}

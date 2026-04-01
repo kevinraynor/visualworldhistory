@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1085,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:e1107423c5d68b74a5a965d4bdbeafb5e2874dc1a77182bd8930f5c133babcaa",
+    "summary": "The Twelve Tables (451–449 BC) were Rome's earliest written law code, produced by a commission of ten men (decemviri) under political pressure from the plebeian class who wanted the previously unwritten customary law accessible to all citizens rather than monopolized by patrician priests and magistrates. The tables were inscribed on bronze (later wood) and displayed in the Forum, giving Rome's legal tradition a publicly accessible written foundation.\n\nThe Twelve Tables covered a wide range of legal matters: property rights, debt and slavery (including the harsh provision that a defaulting debtor could be sold into slavery), family law, inheritance, public nuisance, and procedure. Many provisions reflected an early agricultural society and seem harsh by modern standards. Despite their archaic content, the Tables held honored status in Roman tradition: Cicero reported that boys memorized them as a civic duty. Their significance was primarily procedural — making law publicly knowable — rather than substantive, establishing the principle that law should be written, public, and applicable to all citizens rather than being the private knowledge of elites.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Twelve_Tables",
+    "read_more_links": [
+        {
+            "title": "Roman Law",
+            "url": "https://en.wikipedia.org/wiki/Roman_law"
+        },
+        {
+            "title": "Roman Republic – Early History",
+            "url": "https://en.wikipedia.org/wiki/Roman_Republic#Early_Republic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jacques-Godefroy-De-imperio-maris_MG_1188.tif/300px-Jacques-Godefroy-De-imperio-maris_MG_1188.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Jacques-Godefroy-De-imperio-maris_MG_1188.tif",
+            "caption": "Portrait of Jacques Godefroy (1587-1652). \"Jacopus Gothofredus\"",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gortys_Law_Code.jpg/300px-Gortys_Law_Code.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Gortys_Law_Code.jpg",
+            "caption": "Ancient greek law code at Gortys, Crete",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Twelve_Tables_Engraving.jpg/300px-Twelve_Tables_Engraving.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Twelve_Tables_Engraving.jpg",
+            "caption": "Twelve Tables Engraving",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Loix_des_Douze_Tables.jpg/300px-Loix_des_Douze_Tables.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Loix_des_Douze_Tables.jpg",
+            "caption": "The Twelve Tables Rome's First Legal Code is Drawn up by a CommissionNumber 3...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        },
+        {
+            "name": "Dionysius of Halicarnassus",
+            "summary": "1st-century BC Greek historian and teacher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dionigi_di_Alicarnasso.jpg/250px-Dionigi_di_Alicarnasso.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Lucius Tarquinius Superbus",
+            "summary": "Seventh and last King of Rome",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tarquinius-Superbus.jpg/250px-Tarquinius-Superbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Tarquinius_Superbus"
+        },
+        {
+            "name": "Plebeians",
+            "summary": "General body of free Roman citizens",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roman_SPQR_banner.svg/250px-Roman_SPQR_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plebeians"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        }
+    ],
+    "territory_geojson": null
+}

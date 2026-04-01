@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1642,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6b6a2111893ebb92d1ffe5f93f4d4ba2400d7ad08fd67b4c976b1f3487a5e8bd",
+    "summary": "Saqqara, located on the west bank of the Nile approximately 30 kilometers south of [[event:1640|Memphis]], is one of the most important archaeological sites in Egypt — a vast necropolis that served as the burial ground for the ancient capital from the earliest periods of Egyptian history through the Greco-Roman era. The earliest tombs at Saqqara date to the First Dynasty (c. 3100-2900 BCE), and the site encompasses the mastaba tombs of First and Second Dynasty officials, the famous Step Pyramid complex of Djoser (c. 2650 BCE), and hundreds of additional monuments spanning three thousand years of burial activity.\n\nDuring the First Dynasty, Saqqara served primarily as the burial ground for high officials and wealthy elites attached to the Memphis court, while the kings themselves were buried at Abydos. The First Dynasty mastaba tombs at Saqqara are large rectangular mudbrick structures with niched facades — the so-called palace-facade style — that imitated the appearance of royal mudbrick architecture. These tombs contained elaborate burial goods and, in some cases, subsidiary burials of servants and officials interred to accompany their masters.\n\nSaqqara's most celebrated monument, Djoser's Step Pyramid, belongs to the following era, but the site's early development during this period established its character as the premier elite necropolis of Memphis. The combination of its proximity to the capital and its location on the desert plateau — traditional territory of the dead in Egyptian geography, facing the setting sun — made Saqqara the natural choice for the burials of those who served the pharaoh at Memphis, a function it retained for the entirety of pharaonic civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara",
+    "read_more_links": [
+        {
+            "title": "Step Pyramid of Djoser - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pyramid_of_Djoser"
+        },
+        {
+            "title": "Memphis Egypt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Memphis,_Egypt"
+        },
+        {
+            "title": "Saqqara - Britannica",
+            "url": "https://www.britannica.com/place/Saqqara"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%C3%84gyptisches_Museum_Kairo_2016-03-29_Ka-aper_01.jpg/300px-%C3%84gyptisches_Museum_Kairo_2016-03-29_Ka-aper_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/%C3%84gyptisches_Museum_Kairo_2016-03-29_Ka-aper_01.jpg",
+            "caption": "Egyptian Museum: wooden statue of high rank official Kaaper, Old Kingdom, (ar...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/S10.08_Sakkara%2C_image_9639.jpg/300px-S10.08_Sakkara%2C_image_9639.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/S10.08_Sakkara%2C_image_9639.jpg",
+            "caption": "Lantern Slide Collection: Views, Objects: Egypt. Sakkara [selected images]. V...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Saqqara_BW_1.jpg/300px-Saqqara_BW_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Saqqara_BW_1.jpg",
+            "caption": "Saqqara, entrance to the funerary complex of Djoser",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Giza Governorate",
+            "summary": "Governorate of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pyramids_of_Abusir_2%2C_Ancient_Egypt.jpg/250px-Pyramids_of_Abusir_2%2C_Ancient_Egypt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giza_Governorate"
+        },
+        {
+            "name": "Djoser",
+            "summary": "Pharaoh of the third dynasty of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Djoser_cropped.jpg/250px-Djoser_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Djoser"
+        },
+        {
+            "name": "Hotepsekhemwy",
+            "summary": "Ancient Egyptian king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hotepsekhemwy.jpg/250px-Hotepsekhemwy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hotepsekhemwy"
+        },
+        {
+            "name": "Nynetjer",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Statue_of_Ninetjer_Rijksmuseum_van_Oudheden_03_%28cropped%29.jpg/250px-Statue_of_Ninetjer_Rijksmuseum_van_Oudheden_03_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nynetjer"
+        },
+        {
+            "name": "Seth-Peribsen",
+            "summary": "Ancient Egyptian ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Peribsen.jpg/250px-Peribsen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seth-Peribsen"
+        },
+        {
+            "name": "Jean-Philippe Lauer",
+            "summary": "French architect and Egyptologist (1902–2001)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jean-Philippe_Lauer.jpg/250px-Jean-Philippe_Lauer.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Philippe_Lauer"
+        }
+    ],
+    "territory_geojson": null
+}

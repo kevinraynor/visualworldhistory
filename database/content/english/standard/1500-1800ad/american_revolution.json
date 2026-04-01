@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 106,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:cfe2736dc24154ff0239e7a7f1f1439514cb21fb3596cb8e3d85b17ffac8686e",
+    "summary": "The American Revolution (1765–1783 AD) was the political and military struggle through which thirteen British North American colonies declared independence and established the United States of America — the first modern democratic republic, whose founding documents articulated Enlightenment principles of natural rights, popular sovereignty, and limited government that would inspire revolutionary movements worldwide for two centuries. The Revolution's causes were rooted in the post–[[event:2332|Seven Years' War]] imperial reorganization: Britain, seeking to recover war debts, imposed new taxes (the [[event:2394|Stamp Act]], Townshend Acts) on the colonies without representation in Parliament, provoking the colonial argument 'no taxation without representation.' Escalating confrontations — the Boston Massacre (1770), the [[event:2351|Boston Tea Party]] (1773), the Coercive Acts — drove the colonies toward open rebellion, which began at Lexington and Concord in April 1775.\n\nThe [[event:2350|Declaration of Independence]] (July 4, 1776), primarily drafted by Thomas Jefferson, articulated the philosophical foundations of the new nation in Lockean terms: that all men are created equal, endowed with inalienable rights to life, liberty, and the pursuit of happiness, and that government derives its just powers from the consent of the governed. The military war, in which George Washington's Continental Army faced the world's preeminent military power, was decided by French intervention after the American victory at [[event:2395|Saratoga]] (1777) and concluded at [[event:2352|Yorktown]] (1781). The [[event:2477|Treaty of Paris]] (1783) recognized American independence. The Revolution's constitutional legacy — the [[event:2396|Constitution]] (1787), the Federalist Papers, the Bill of Rights — created a republican framework that balanced popular democracy against institutional checks and balances, influencing the [[event:107|French Revolution]] and virtually every subsequent democratic constitution.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Revolution",
+    "read_more_links": [
+        {
+            "title": "Declaration of Independence natural rights 1776",
+            "url": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence"
+        },
+        {
+            "title": "Continental Army George Washington military campaign",
+            "url": "https://en.wikipedia.org/wiki/Continental_Army"
+        },
+        {
+            "title": "Constitutional Convention 1787 founding documents",
+            "url": "https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/300px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "caption": "La Liberté guidant le peuple - Eugène Delacroix - Musée du Louvre Peintures RF 129 - après restauration 2024",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/HAMILTON%2C_Alexander-Treasury_%28BEP_engraved_portrait%29_%28cropped%29.jpg/300px-HAMILTON%2C_Alexander-Treasury_%28BEP_engraved_portrait%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/HAMILTON%2C_Alexander-Treasury_%28BEP_engraved_portrait%29_%28cropped%29.jpg",
+            "caption": "Engraved BEP portrait of U.S. Secretary of the Treasury Alexander Hamilton",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Boston_Tea_Party_w.jpg/300px-Boston_Tea_Party_w.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Boston_Tea_Party_w.jpg",
+            "caption": "Boston Tea Party",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%22Crispus_Attucks%2C%22_by_Herschel_Levit%2C_mural_at_the_Recorder_of_Deeds_building%2C_built_in_1943._515_D_St.%2C_NW%2C_Washington%2C_D.C_LCCN2010641712.tif/300px-%22Crispus_Attucks%2C%22_by_Herschel_Levit%2C_mural_at_the_Recorder_of_Deeds_building%2C_built_in_1943._515_D_St.%2C_NW%2C_Washington%2C_D.C_LCCN2010641712.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%22Crispus_Attucks%2C%22_by_Herschel_Levit%2C_mural_at_the_Recorder_of_Deeds_building%2C_built_in_1943._515_D_St.%2C_NW%2C_Washington%2C_D.C_LCCN2010641712.tif",
+            "caption": "1 photograph : digital, TIFF file, color.\nTitle, date, subject note, and keyw...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Trumbull",
+            "summary": "American artist (1756–1843)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Self_Portrait_by_John_Trumbull_circa_1802.jpeg/250px-Self_Portrait_by_John_Trumbull_circa_1802.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Trumbull"
+        },
+        {
+            "name": "George Washington",
+            "summary": "U.S. Founding Father, president from 1789 to 1797",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/250px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington"
+        },
+        {
+            "name": "George III",
+            "summary": "King of Great Britain and Ireland from 1760 to 1820",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/250px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_III"
+        },
+        {
+            "name": "Boston Massacre",
+            "summary": "1770 shooting deaths of five colonists by British soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Boston_Massacre_MET_DT2086.jpg/250px-The_Boston_Massacre_MET_DT2086.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Massacre"
+        },
+        {
+            "name": "Articles of Confederation",
+            "summary": "First constitution of the United States from 1781 to 1789",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Articles_page1.jpg/250px-Articles_page1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Articles_of_Confederation"
+        },
+        {
+            "name": "1689 Boston revolt",
+            "summary": "Uprising in New England against Governor Andros",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/AndrosaPrisonerInBoston.png/250px-AndrosaPrisonerInBoston.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/1689_Boston_revolt"
+        }
+    ],
+    "territory_geojson": null
+}

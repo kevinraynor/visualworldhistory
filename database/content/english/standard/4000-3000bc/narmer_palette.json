@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1638,
+    "parent_id": 1637,
+    "granularity": "notable",
+    "content_hash": "sha256:1c05bbf9a6dc081845ac20e721f350338b5824be7653b5a400a002ce4056f085",
+    "summary": "The Narmer Palette, a ceremonial cosmetic palette discovered at Hierakonpolis (ancient Nekhen) in 1897 and now housed in the Egyptian Museum in Cairo, is one of the most important artifacts of ancient Egypt. Dating to approximately 3100 BCE, it commemorates — or more precisely, asserts — the unification of Upper and Lower Egypt under [[event:1637|King Narmer]], and it constitutes one of the earliest historical documents in the world, combining legible hieroglyphic signs with programmatic royal imagery in a format that established the visual vocabulary of Egyptian pharaonic art for the next three thousand years.\n\nThe palette is carved from grey siltstone in a shield shape approximately 64 centimeters tall, with relief carvings covering both faces. On the obverse (usually displayed first), Narmer appears in the white crown of Upper Egypt, standing in the pose of smiting — his arm raised to strike a kneeling captive — while the falcon god Horus restrains a human-headed papyrus plant representing Lower Egypt by a leash through the nose. On the reverse, Narmer wears the red crown of Lower Egypt while inspecting rows of decapitated enemies whose heads are placed between their legs. In the central field of the reverse, two serpopards (hybrid serpent-leopard creatures) are depicted with their necks intertwined around the circular cosmetic-grinding area.\n\nThe imagery of the palette communicates a specific ideology of kingship. The pharaoh is presented as a superhuman figure, larger than all other humans depicted, identified with the falcon god Horus, and depicted as the conqueror and unifier of the two lands of Egypt. This visual program — the large-scale king dominating enemies, the association with Horus, the wearing of both crowns — became the canonical template for Egyptian royal art. The Narmer Palette effectively invented the pharaonic artistic tradition at a single stroke.\n\nThe palette also contains some of the earliest securely datable hieroglyphic inscriptions, including the name Narmer within the serekh frame at the top of both faces. A small figure labeled with a catfish and a chisel — the hieroglyphic reading of Narmer's name (nar = catfish, mer = chisel) — appears prominently. These inscriptions demonstrate that Egyptian hieroglyphic writing was already functional, if not yet fully developed, at the moment of unification, and that writing was from the beginning tied to the legitimation of royal authority.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Narmer_Palette",
+    "read_more_links": [
+        {
+            "title": "Narmer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Narmer"
+        },
+        {
+            "title": "Egyptian Art Origins - Khan Academy",
+            "url": "https://www.khanacademy.org/humanities/ancient-art-civilizations/egypt-art/predynastic-old-kingdom/a/palette-of-king-narmer"
+        },
+        {
+            "title": "Hierakonpolis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hierakonpolis"
+        },
+        {
+            "title": "Ancient Egyptian Art - Britannica",
+            "url": "https://www.britannica.com/art/ancient-Egyptian-art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Narmer_Palette_smiting_side.jpg/300px-Narmer_Palette_smiting_side.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Narmer_Palette_smiting_side.jpg",
+            "caption": "The smiting side of the Narmer Palette",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/300px-Narmer_Palette.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Narmer_Palette.jpg",
+            "caption": "The Narmer Palette",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Narmer_Palette_verso.jpg/300px-Narmer_Palette_verso.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Narmer_Palette_verso.jpg",
+            "caption": "Verso of the Narmer Palette",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Narmer_Palette_serpopard_side.jpg/300px-Narmer_Palette_serpopard_side.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Narmer_Palette_serpopard_side.jpg",
+            "caption": "The side of the Narmer Palette with the two serpopards",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Jackie French",
+            "summary": "Australian author",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Author_Jackie_French.jpg/250px-Author_Jackie_French.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jackie_French"
+        },
+        {
+            "name": "Rick Riordan",
+            "summary": "American author (born 1964)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rick_Riordan_%28cropped%29.jpg/250px-Rick_Riordan_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rick_Riordan"
+        },
+        {
+            "name": "Lincoln Child",
+            "summary": "American writer (born 1957)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lincoln_child_1018613.jpg/250px-Lincoln_child_1018613.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lincoln_Child"
+        }
+    ],
+    "territory_geojson": null
+}

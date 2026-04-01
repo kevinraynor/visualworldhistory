@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1024,
+    "parent_id": 64,
+    "granularity": "notable",
+    "content_hash": "sha256:abce35707e0b40b498c82bf09c9834eb23dda5f414970bedcdc0f4e9d66814d7",
+    "summary": "The trial and execution of Socrates (399 BC) stands as one of the most discussed events in the history of Western thought — the death of a philosopher at the hands of the democracy he both celebrated and challenged, generating a wound in Athenian self-understanding that never fully healed and sparking the philosophical tradition of Plato and Aristotle. Socrates was charged with impiety (not honoring the city's gods and introducing new divine beings) and corrupting the youth of Athens.\n\nSocrates was seventy years old, a veteran of military service at Potidaea and Amphipolis during the [[event:1010|Peloponnesian War]], and a well-known philosophical gadfly who had spent decades in the agora questioning Athenian assumptions about virtue, knowledge, piety, and justice. His method — relentless questioning that exposed the ignorance of those who believed themselves wise — had made him powerful enemies. The specific charges related to his associations with men who had harmed Athens, including Alcibiades (whose Sicilian catastrophe had nearly destroyed the city) and Critias (the leader of the [[event:1017|Thirty Tyrants of Athens]]).\n\nAt trial, Socrates refused to adopt the standard posture of supplication and apology. He argued that his philosophical mission had been given to him by the god, that he could not abandon it, and that if given the choice he would continue exactly as before. The jury voted to convict. During the penalty phase, Socrates's proposal of a fine rather than exile enraged jurors, who voted for death. He was executed by drinking hemlock while surrounded by friends, spending his last hours in philosophical discussion about the immortality of the soul — as recounted in Plato's Phaedo.\n\nThe execution transformed Socrates from a local provocateur into the paradigm of the philosopher who confronts authority and accepts death rather than compromise truth. Through Plato's dialogues, it became the founding episode of Western philosophy. The democratic city that killed Socrates has been judged harshly by subsequent centuries, though modern scholars note the genuine political context of resentment following civil war and the fear that Socratic influence had genuinely contributed to Athens's disasters.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trial_of_Socrates",
+    "read_more_links": [
+        {
+            "title": "Socrates",
+            "url": "https://en.wikipedia.org/wiki/Socrates"
+        },
+        {
+            "title": "Plato's Apology",
+            "url": "https://en.wikipedia.org/wiki/Apology_(Plato)"
+        },
+        {
+            "title": "Plato's Phaedo",
+            "url": "https://en.wikipedia.org/wiki/Phaedo"
+        },
+        {
+            "title": "Plato",
+            "url": "https://en.wikipedia.org/wiki/Plato"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/David_-_The_Death_of_Socrates.jpg/300px-David_-_The_Death_of_Socrates.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/David_-_The_Death_of_Socrates.jpg",
+            "caption": "David - The Death of Socrates",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/He_drank_the_contents_as_though_it_were_a_draught_of_Wine.jpg/300px-He_drank_the_contents_as_though_it_were_a_draught_of_Wine.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/He_drank_the_contents_as_though_it_were_a_draught_of_Wine.jpg",
+            "caption": "These stories from the history of ancient Greece begin with myths and legends...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/UWASocrates_gobeirne_cropped.jpg/300px-UWASocrates_gobeirne_cropped.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/UWASocrates_gobeirne_cropped.jpg",
+            "caption": "Cropped image of a Socrates bust for use in philosophy-related templates etc....",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Socrates_Pio-Clementino_Inv314.jpg/300px-Socrates_Pio-Clementino_Inv314.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Socrates_Pio-Clementino_Inv314.jpg",
+            "caption": "Bust of Socrates. Marble, Roman copy after a Greek original from the 4th cent...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diogenes Laertius",
+            "summary": "3rd-century Roman biographer of Greek philosophers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Diogenes_Laertius.jpg/250px-Diogenes_Laertius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diogenes_Laertius"
+        },
+        {
+            "name": "Socrates",
+            "summary": "Greek philosopher (c. 470–399 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/250px-Socrate_du_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Socrates"
+        },
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Xenophon",
+            "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/250px-Bust_of_Xenophon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xenophon"
+        },
+        {
+            "name": "I. F. Stone",
+            "summary": "American investigative journalist, writer, and author (1907–1989)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/StoneApril1972.jpg/250px-StoneApril1972.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/I._F._Stone"
+        },
+        {
+            "name": "Aristophanes",
+            "summary": "Classical Athenian comic playwright (c. 446 – c. 386 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bust_of_Aristophanes.jpg/250px-Bust_of_Aristophanes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristophanes"
+        }
+    ],
+    "territory_geojson": null
+}

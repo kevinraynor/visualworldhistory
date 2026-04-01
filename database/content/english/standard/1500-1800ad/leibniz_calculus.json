@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3289,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:612f6d0b6bc4584700e883c3e87ad9b64cb8a53c768ddeb400cd1ab0bc37a6cd",
+    "summary": "Gottfried Wilhelm Leibniz (1646–1716 AD) was the German polymath who independently developed calculus in the 1670s–1680s — the branch of mathematics dealing with continuous change and accumulation that has been fundamental to physics, engineering, and science ever since. Leibniz developed his version of calculus independently of [[event:2363|Isaac Newton]] (who had developed his 'method of fluxions' earlier but published later), and the notation Leibniz invented — dy/dx for derivatives, the integral sign ∫ for integration — was adopted by European mathematicians as superior to Newton's and remains the standard notation used worldwide today. The priority dispute between Leibniz and Newton (which became the Newton-Leibniz controversy, consuming mathematical communities for decades) has largely been resolved by historians to the conclusion that both independently arrived at the same fundamental insights.\n\nLeibniz's contributions extended far beyond calculus. He invented a mechanical calculating machine that could multiply and divide (improving on Pascal's adding machine), proposed the binary number system (base-2 arithmetic using only 0 and 1) that became the foundation of modern digital computing, developed a complete metaphysical system (monadology), made contributions to linguistics, jurisprudence, geology, and diplomacy, and corresponded with virtually every major intellectual in Europe. His philosophy — particularly his arguments that this is 'the best of all possible worlds' (optimism) — was famously mocked by Voltaire in Candide following the [[event:2387|Lisbon Earthquake]]. Leibniz died largely unrecognized and attended only by his secretary, while Newton was given a state funeral in Westminster Abbey — an irony that reflects the difference in their national recognition rather than their comparable contributions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+    "read_more_links": [
+        {
+            "title": "Leibniz calculus notation integral derivative dy/dx standard",
+            "url": "https://en.wikipedia.org/wiki/Leibniz%27s_notation"
+        },
+        {
+            "title": "Newton Leibniz calculus priority dispute controversy",
+            "url": "https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy"
+        },
+        {
+            "title": "Leibniz binary number system digital computing foundation",
+            "url": "https://en.wikipedia.org/wiki/Leibniz%27s_binary_numeral_system"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/300px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
+            "caption": "Christoph Bernhard Francke - Bildnis des Philosophen Leibniz (ca. 1695)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Leibnitzrechenmaschine.jpg/300px-Leibnitzrechenmaschine.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Leibnitzrechenmaschine.jpg",
+            "caption": "The Staffelwalze, or Stepped Reckoner, a digital calculating machine invented...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Gottfried_Wilhelm_Leibniz_c1700.jpg/300px-Gottfried_Wilhelm_Leibniz_c1700.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Gottfried_Wilhelm_Leibniz_c1700.jpg",
+            "caption": "Portrait of Gottfried Wilhelm Leibniz (1646-1716)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LeipzigLeibniz.JPG/300px-LeipzigLeibniz.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/LeipzigLeibniz.JPG",
+            "caption": "Memorial to Gottfried Wilhelm Leibniz in Leipzig",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2701,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:9d8843b764ba9d3b2f32b2af1540e0f7857150134ca5bdd8d5b39b81b9acf6fd",
+    "summary": "Albert Einstein published his special theory of relativity in 1905 and his general theory of relativity in 1915, together constituting one of the most revolutionary intellectual achievements in human history. The special theory upended Newtonian mechanics by demonstrating that the laws of physics are the same for all non-accelerating observers and that the speed of light in a vacuum is constant regardless of the motion of the source or observer. From these two postulates, Einstein derived consequences that defied intuition: that time passes at different rates for observers in relative motion (time dilation), that moving objects contract in length, and that mass and energy are equivalent, expressed in the famous equation E=mc².\n\nThe general theory extended these principles to accelerating reference frames and gravitation. Einstein proposed that massive objects warp the fabric of spacetime, and that what we experience as gravitational attraction is actually the curvature of spacetime around massive bodies. This reconceptualization replaced Newton's instantaneous action-at-a-distance gravity with a geometric theory of spacetime curvature.\n\nThe theories were confirmed through several landmark observations. Arthur Eddington's 1919 measurements of light bending around the sun during a solar eclipse provided the first experimental confirmation of general relativity and made Einstein an international celebrity overnight. Subsequent confirmations have included the precession of Mercury's orbit, gravitational redshift, and most spectacularly the 2015 detection of gravitational waves by the LIGO collaboration.\n\nThe practical consequences of relativity permeate modern life. GPS satellites must account for relativistic time dilation to provide accurate positioning. Nuclear power and weapons derive from the mass-energy equivalence expressed in E=mc². Particle accelerators routinely operate in regimes where relativistic effects are essential to their design. Cosmology and our understanding of the universe's large-scale structure rest on general relativity.\n\nEinstein's theories also triggered profound philosophical debates about the nature of time, space, causality, and determinism that continue among physicists and philosophers to the present day. The development of quantum mechanics in subsequent decades created a framework that, while extraordinarily successful, remains fundamentally incompatible with general relativity, making the search for a unified theory of quantum gravity one of the central unsolved problems in physics.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+    "read_more_links": [
+        {
+            "title": "Special theory of relativity - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/science/special-relativity"
+        },
+        {
+            "title": "General theory of relativity - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/science/general-relativity"
+        },
+        {
+            "title": "Einstein's Miracle Year Papers - American Physical Society",
+            "url": "https://www.aps.org/publications/apsnews/200512/history.cfm"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

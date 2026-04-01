@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1022,
+    "parent_id": 1021,
+    "granularity": "detailed",
+    "content_hash": "sha256:4a6fe72e3f4a54ec751a45d9bac63b0efcf6a975753e58851f8ad021e01815ae",
+    "summary": "The Sacred Band of Thebes (378–338 BC) was an elite military unit of 300 soldiers organized into 150 pairs of male lovers, based on the theory that men who fought beside their beloved would be inspired to greater courage and would never retreat in shame before them. Founded by the Theban general Gorgidas and later reorganized and deployed with devastating effect by Pelopidas, the Sacred Band became the finest infantry unit in the Greek world, remaining undefeated for four decades.\n\nThe Band formed the spearhead of Theban victory at [[event:1020|Battle of Leuctra]] and numerous subsequent engagements during the [[event:1021|Theban Hegemony]]. Their unbroken record of victory contributed powerfully to the myth of Theban invincibility. The Sacred Band met its end at the [[event:1029|Battle of Chaeronea]] in 338 BC, where Philip II of Macedon's army destroyed them entirely — the 300 fell where they stood, refusing to surrender or flee. Philip reportedly wept when he saw the field, according to ancient accounts, recognizing the exceptional courage of fallen men. Their collective grave at Chaeronea, the Polyandreion, was discovered in modern times with skeletons arranged in rows, providing direct archaeological evidence for the unit's historical reality.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sacred_Band_of_Thebes",
+    "read_more_links": [
+        {
+            "title": "Pelopidas",
+            "url": "https://en.wikipedia.org/wiki/Pelopidas"
+        },
+        {
+            "title": "Battle of Chaeronea",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)"
+        },
+        {
+            "title": "Theban Army",
+            "url": "https://en.wikipedia.org/wiki/Theban_hegemony"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_victory_monument_of_the_Thebans_at_Leuctra_%28tropaion%29.jpg/300px-The_victory_monument_of_the_Thebans_at_Leuctra_%28tropaion%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_victory_monument_of_the_Thebans_at_Leuctra_%28tropaion%29.jpg",
+            "caption": "The restored victory monument (tropaion) of the Battle of Leuctra. Lefktra, B...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chaironeia_lion_%28cropped%29.JPG/300px-Chaironeia_lion_%28cropped%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Chaironeia_lion_%28cropped%29.JPG",
+            "caption": "Lion of Chaeronea",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Plutarchs_Lives_Vol_the_Third_1727.jpg/300px-Plutarchs_Lives_Vol_the_Third_1727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Plutarchs_Lives_Vol_the_Third_1727.jpg",
+            "caption": "Third Volume of a 1727 edition of Plutarch's Lives printed by Jacob Tonson.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ancient_Greek_southern_regions.png/300px-Ancient_Greek_southern_regions.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ancient_Greek_southern_regions.png",
+            "caption": "Map of the southern regions of Ancient Greece",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Heavy infantry",
+            "summary": "Heavily armed and armoured soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Greek_Phalanx.jpg/250px-Greek_Phalanx.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heavy_infantry"
+        },
+        {
+            "name": "Line (formation)",
+            "summary": "Tactical formation of soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hohenfriedeberg_-_Attack_of_Prussian_Infantry_-_1745.jpg/250px-Hohenfriedeberg_-_Attack_of_Prussian_Infantry_-_1745.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Line_%28formation%29"
+        },
+        {
+            "name": "Pelopidas",
+            "summary": "4th century BC Theban statesman and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ivanov%2C_Andrey_-_Pelopidas%27s_death_-_1805-1806.jpg/250px-Ivanov%2C_Andrey_-_Pelopidas%27s_death_-_1805-1806.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pelopidas"
+        },
+        {
+            "name": "Philip II of Macedon",
+            "summary": "King of Macedon from 359 to 336 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/250px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Epaminondas",
+            "summary": "Theban general and statesman (419/411–362 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Epaminondas_-_Temple_of_Ancient_Virtue%2C_Stowe_-_Buckinghamshire%2C_England_-_DSC07376_%28cropped%29.jpg/250px-Epaminondas_-_Temple_of_Ancient_Virtue%2C_Stowe_-_Buckinghamshire%2C_England_-_DSC07376_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Epaminondas"
+        }
+    ],
+    "territory_geojson": null
+}

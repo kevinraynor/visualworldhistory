@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2268,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:6c42cadc7496e14932fa69aee0bc1b6b9800b6d27b42bec0342de299e385141b",
+    "summary": "Gothic architecture (c. 1140–1500 AD) was the dominant architectural style of medieval Western Europe, characterized by the pointed arch, ribbed vault, flying buttress, and large stained glass windows — an engineering revolution that transformed the dark, heavy-walled Romanesque churches of the early medieval period into soaring, light-filled cathedrals of unprecedented height and luminosity. The style originated in the Île-de-France region around Paris with Abbot Suger's reconstruction of the Basilica of Saint-Denis (1144), where the combination of pointed arches, ribbed vaults, and flying buttresses allowed walls to be thinned and windows enlarged dramatically.\n\nGothic architecture was a theological as much as an engineering achievement: the floods of colored light through enormous stained glass windows were understood as embodying the divine light that illuminated the soul; the soaring height of the nave expressed aspiration toward Heaven; the elaborate sculptural programs of the portals told biblical stories to the illiterate masses. The structural innovations were genuinely revolutionary — the flying buttress transferred the outward thrust of the vault to external piers, allowing walls to be reduced to frameworks for stained glass. Gothic cathedrals like Chartres, Reims, Amiens, Cologne, and [[event:2269|Notre-Dame de Paris]] required generations and sometimes centuries to build, mobilizing enormous resources of labor, capital, and skilled craftsmanship. The style spread across Europe — English Gothic developed its own distinctive Perpendicular tradition, German Gothic produced the great spires of Cologne and Ulm — and survived into the 16th century before giving way to Renaissance classical architecture in most of Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+    "read_more_links": [
+        {
+            "title": "Abbot Suger Saint-Denis Gothic origins",
+            "url": "https://en.wikipedia.org/wiki/Abbot_Suger"
+        },
+        {
+            "title": "Flying buttress Gothic structural innovation",
+            "url": "https://en.wikipedia.org/wiki/Flying_buttress"
+        },
+        {
+            "title": "Gothic stained glass light theology",
+            "url": "https://en.wikipedia.org/wiki/Stained_glass#Medieval_stained_glass"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Canterbury_Cathedral_Choir_%2840805457492%29.jpg/300px-Canterbury_Cathedral_Choir_%2840805457492%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Canterbury_Cathedral_Choir_%2840805457492%29.jpg",
+            "caption": "Here is a hdr photograph taken from the choir inside Canterbury Cathedral. Lo...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/20190204_OldSynagoga_3715_%2833586950518%29.jpg/300px-20190204_OldSynagoga_3715_%2833586950518%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/20190204_OldSynagoga_3715_%2833586950518%29.jpg",
+            "caption": "20190204_OldSynagoga_3715",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Canterbury_Cathedral_Nave_1%2C_Kent%2C_UK_-_Diliff.jpg/300px-Canterbury_Cathedral_Nave_1%2C_Kent%2C_UK_-_Diliff.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Canterbury_Cathedral_Nave_1%2C_Kent%2C_UK_-_Diliff.jpg",
+            "caption": "The nave of Canterbury Cathedral, viewed from the raised area of the rood scr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Amiens_tympan_central_detail_07.jpg/300px-Amiens_tympan_central_detail_07.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Amiens_tympan_central_detail_07.jpg",
+            "caption": "Amiens tympan central detail 07.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Romanesque architecture",
+            "summary": "Medieval European architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/LessayAbbaye3.JPG/250px-LessayAbbaye3.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romanesque_architecture"
+        },
+        {
+            "name": "Renaissance architecture",
+            "summary": "15th–16th-century European architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tempietto_di_Bramante02783.jpg/250px-Tempietto_di_Bramante02783.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Renaissance_architecture"
+        },
+        {
+            "name": "Classical architecture",
+            "summary": "Architectural style, inspired by classical Greco-Roman architectural principles",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Serlio_5_orders_peake.png/250px-Serlio_5_orders_peake.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Classical_architecture"
+        },
+        {
+            "name": "Rib vault",
+            "summary": "Architectural feature to cover a wide space",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peterborough_Cathedral%2C_south_aisle_01.jpg/250px-Peterborough_Cathedral%2C_south_aisle_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rib_vault"
+        },
+        {
+            "name": "Basilica of Saint-Denis",
+            "summary": "Historic church in Saint-Denis, Paris, France",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saint-Denis_-_Fa%C3%A7ade.jpg/250px-Saint-Denis_-_Fa%C3%A7ade.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis"
+        },
+        {
+            "name": "Town hall",
+            "summary": "Chief administrative building of a municipality",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Musei_Capitolini_20150812.jpg/250px-Musei_Capitolini_20150812.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Town_hall"
+        }
+    ],
+    "territory_geojson": null
+}

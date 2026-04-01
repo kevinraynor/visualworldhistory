@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3013,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:001aae57095564574c9589d5987028e8899487a7914256b189fa6f7ebd61a432",
+    "summary": "The Teutonic Knights (Order of the Teutonic House of St. Mary in Jerusalem, founded 1190 AD) were a German military religious order that began as a hospital order during the [[event:2220|Third Crusade's]] siege of Acre, evolved into one of the most powerful Crusading military orders, and eventually became the dominant military-colonial power of northeastern Europe, establishing a theocratic state in Prussia and the Baltic that lasted for centuries. After the [[event:92|Crusades]] in the Holy Land ended, the Order redirected its energies to 'crusades' against the pagan Baltic peoples — the Prussians, Livonians, and Lithuanians — receiving papal authorization to convert them by force.\n\nThe conquest of Prussia (1226–1285) was one of medieval Europe's most systematic colonial enterprises: the native Prussian population was decimated, enslaved, or assimilated; German colonists were settled on their lands; and the Order constructed a network of castles and fortified towns (including Königsberg, modern Kaliningrad) that became the basis of German settlement in the eastern Baltic. The Order's state — the Teutonic State of Prussia — was efficiently governed, economically productive, and militarily formidable, attracting crusading visitors from across Europe who came for the seasonal 'Lithuanian crusades' as a fashionable martial expedition. The Order's power was broken at the [[event:3014|Battle of Grunwald]] (1410) by a Polish-Lithuanian army, after which it gradually declined. Its Prussian territories eventually became the secular Duchy of Prussia (1525) under Hohenzollern rule — the state from which the later Kingdom of Prussia and eventually the German Empire descended.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teutonic_Order",
+    "read_more_links": [
+        {
+            "title": "Teutonic Knights Prussia Baltic crusades",
+            "url": "https://en.wikipedia.org/wiki/Teutonic_Order#Teutonic_State"
+        },
+        {
+            "title": "Prussian conquest Germanic settlement",
+            "url": "https://en.wikipedia.org/wiki/Prussian_Crusade"
+        },
+        {
+            "title": "Teutonic State Prussia predecessor German Empire",
+            "url": "https://en.wikipedia.org/wiki/State_of_the_Teutonic_Order"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2005-11-03_Bad_Mergentheim_Deutschordensschloss_Seitenansicht.jpg/300px-2005-11-03_Bad_Mergentheim_Deutschordensschloss_Seitenansicht.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/2005-11-03_Bad_Mergentheim_Deutschordensschloss_Seitenansicht.jpg",
+            "caption": "2005-11-03 Bad Mergentheim Deutschordensschloss Seitenansicht",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Grabesritter_bei_der_Liboriprozession.jpg/300px-Grabesritter_bei_der_Liboriprozession.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Grabesritter_bei_der_Liboriprozession.jpg",
+            "caption": "Grabesritter bei der Liboriprozession in Paderborn",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Deutschmeisterwappen_mergentheim.jpg/300px-Deutschmeisterwappen_mergentheim.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Deutschmeisterwappen_mergentheim.jpg",
+            "caption": "Coat of arms of the Deutscher Orden at the castleyard´s archway in Bad Mergen...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Deutscher_Orden_in_Europa_1300.png/300px-Deutscher_Orden_in_Europa_1300.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Deutscher_Orden_in_Europa_1300.png",
+            "caption": "Die Niederlassungen des Deutschen Ordens in Europa um 1300. Karte aus der Sai...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Saint George",
+            "summary": "Christian saint and martyr (died 303)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-03.jpg/250px-St._Georg%2C_Donatello%2C_1416-17%2C_Bargello_Florenz-03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_George"
+        },
+        {
+            "name": "Grand Master of the Teutonic Order",
+            "summary": "Leader of the Teutonic Order, a medieval sect of Roman Catholicism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Template_-_Grand_Master_of_the_Teutonic_Order.svg/250px-Template_-_Grand_Master_of_the_Teutonic_Order.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Master_of_the_Teutonic_Order"
+        },
+        {
+            "name": "Frank Bayard",
+            "summary": "German Catholic priest and Teutonic Grand Master (born 1971)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hochmeister_Frank_Bayard.jpg/250px-Hochmeister_Frank_Bayard.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Bayard"
+        },
+        {
+            "name": "Pope Clement III",
+            "summary": "Head of the Catholic Church from 1187 to 1191",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SpeculumGrandmontis_%28Pope_Clement_III%29.jpg/250px-SpeculumGrandmontis_%28Pope_Clement_III%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Clement_III"
+        },
+        {
+            "name": "Andrew II of Hungary",
+            "summary": "King of Hungary and Croatia from 1205 to 1235",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Andrew_II_seal_1224.jpg/250px-Andrew_II_seal_1224.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_II_of_Hungary"
+        },
+        {
+            "name": "Pope Honorius III",
+            "summary": "Head of the Catholic Church from 1216 to 1227",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Vad-0321_025_Honorius_III_%28cropped%29.jpg/250px-Vad-0321_025_Honorius_III_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Honorius_III"
+        }
+    ],
+    "territory_geojson": null
+}

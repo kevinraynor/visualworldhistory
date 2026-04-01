@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1622,
+    "parent_id": 1617,
+    "granularity": "notable",
+    "content_hash": "sha256:29752b4e94611785304d76123161deef57a3cf84cf00928584db14004fa923be",
+    "summary": "The Uruk Expansion, unfolding between roughly 3700 and 3100 BCE, was a remarkable process of long-distance colonization, trade, and cultural diffusion through which the [[event:1617|Uruk Period]] civilization of southern Mesopotamia extended its material culture, administrative practices, and likely its people across a vast arc of the ancient Near East. Archaeological evidence for Uruk-style artifacts, architecture, and administrative tools appears at dozens of sites stretching from southern Anatolia to the Iranian plateau and from the Levantine coast to the headwaters of the Tigris and Euphrates — a geographic spread that makes the Uruk Expansion one of the earliest documented examples of large-scale cultural and economic globalization.\n\nUruk-influenced sites identified by archaeologists include Arslantepe in eastern Turkey, Hacinebi on the upper Euphrates, Godin Tepe in western Iran, Habuba Kabira and Jebel Aruda in northern Syria, and Tell Brak in the upper Khabur basin. Some of these sites appear to have been fully planned Uruk colonies — settlements founded by immigrants from southern Mesopotamia who established enclaves in foreign territories, evidenced by their architecture, administrative tablets, and material culture being essentially identical to southern Mesopotamian examples. Others appear to reflect local communities that adopted Uruk organizational models, trade practices, or prestige goods while retaining their own cultural identities.\n\nThe driving force behind the Uruk Expansion was almost certainly economic. The alluvial plains of southern Mesopotamia, while extraordinarily fertile, lacked almost all the raw materials required for a complex urban civilization: stone, metal ores, timber, and luxury goods all had to be imported. Uruk's expansion northward and eastward appears to represent an organized effort to establish and control the supply routes for these resources. Colonies and trading posts in Syria and Anatolia gave Uruk direct access to metal sources, stone, and the agricultural surpluses of northern Mesopotamia.\n\nThe Uruk Expansion collapsed around 3100 BCE, roughly simultaneously across its far-flung network. The causes remain debated but likely included a combination of climatic deterioration, resistance from local populations who had benefited from trade but resisted incorporation, and possible internal pressures within Uruk itself. After the collapse, the long-distance network broke down and a period of re-localization followed. However, the administrative, writing, and urban technologies that Uruk had introduced continued to develop in the successor cultures of the Jemdet Nasr and Early Dynastic periods, and some peripheral regions — particularly Elam — went on to develop their own writing systems and complex societies partly inspired by the Uruk interaction.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Uruk_period#Uruk_expansion",
+    "read_more_links": [
+        {
+            "title": "Uruk Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Uruk_period"
+        },
+        {
+            "title": "Tell Brak - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tell_Brak"
+        },
+        {
+            "title": "Habuba Kabira - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Habuba_Kabira"
+        },
+        {
+            "title": "Ancient Near East Trade - Britannica",
+            "url": "https://www.britannica.com/place/ancient-Middle-East"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stele_of_lion_hunt%2C_from_Uruk%2C_Iraq%2C_3000-2900_BCE._Iraq_Museum.jpg/300px-Stele_of_lion_hunt%2C_from_Uruk%2C_Iraq%2C_3000-2900_BCE._Iraq_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stele_of_lion_hunt%2C_from_Uruk%2C_Iraq%2C_3000-2900_BCE._Iraq_Museum.jpg",
+            "caption": "This is the oldest narrative Mesopotamian sculpture (in relief) and the first...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fragment_of_a_bowl_with_a_frieze_of_bulls_in_relief%2C_ca._3300%E2%80%932900_B.C._Late_Uruk%E2%80%93Jemdet_Nasr._Southern_Mesopotamia.jpg/300px-Fragment_of_a_bowl_with_a_frieze_of_bulls_in_relief%2C_ca._3300%E2%80%932900_B.C._Late_Uruk%E2%80%93Jemdet_Nasr._Southern_Mesopotamia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fragment_of_a_bowl_with_a_frieze_of_bulls_in_relief%2C_ca._3300%E2%80%932900_B.C._Late_Uruk%E2%80%93Jemdet_Nasr._Southern_Mesopotamia.jpg",
+            "caption": "Fragment of a bowl with a frieze of bulls in relief, ca. 3300–2900 B.C. Late ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Warka_Vase%2C_Top_Register.jpg/300px-Warka_Vase%2C_Top_Register.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Warka_Vase%2C_Top_Register.jpg",
+            "caption": "Nude male holding and presenting offerings to Inanna (Akkadian Ishtar). This ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Uruk_period_priest_King_circa_3300_BC.jpg/300px-Uruk_period_priest_King_circa_3300_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Uruk_period_priest_King_circa_3300_BC.jpg",
+            "caption": "Uruk period priest King circa 3300 BC",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diyala Governorate",
+            "summary": "Governorate of Iraq",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Diyala_in_Iraq.svg/250px-Diyala_in_Iraq.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diyala_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

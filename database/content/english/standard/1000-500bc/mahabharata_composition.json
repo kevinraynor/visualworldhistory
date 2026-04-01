@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3108,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d50bd18ddc47db9d40232faa5da7ccadf0d197a9b1eba10b078d81c18075e0b2",
+    "summary": "The Mahabharata (core composition c. 400 BC–400 AD, with earlier oral traditions extending to c. 900–800 BC) is the longest poem in world literature — approximately 1.8 million words, roughly ten times the combined length of Homer's Iliad and Odyssey — an epic narrative of the war between two branches of the Bharata dynasty that serves simultaneously as a repository of Hindu philosophical and religious thought, a compendium of legend and myth, and a guide to dharma (right conduct). The Bhagavad Gita, one of the most influential texts in Hindu philosophy, is embedded within the Mahabharata as a dialogue between the warrior Arjuna and his charioteer Krishna.\n\nThe epic's core narrative concerns the Kurukshetra War between the Pandavas and Kauravas, five brothers and their hundred cousins competing for the kingdom of Hastinapura. The war is presented as a cosmic catastrophe — the end of the age — in which all of the great warrior families of ancient India are destroyed. The Bhagavad Gita (literally 'Song of God') addresses the philosophical crisis of Arjuna, who cannot bring himself to fight and kill his kinsmen; Krishna's response synthesizes multiple Hindu philosophical traditions (karma yoga, jnana yoga, bhakti yoga) and has been interpreted by generations of Hindu thinkers from Shankara to Gandhi. The Mahabharata and its companion epic the Ramayana together constitute the foundation of Hindu religious and cultural life across South and Southeast Asia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mahabharata",
+    "read_more_links": [
+        {
+            "title": "Bhagavad Gita text",
+            "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+        },
+        {
+            "title": "Kurukshetra War narrative",
+            "url": "https://en.wikipedia.org/wiki/Kurukshetra_War"
+        },
+        {
+            "title": "Mahabharata composition dating",
+            "url": "https://en.wikipedia.org/wiki/Mahabharata#Dating"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mahabharata_BharatVarsh.jpg/300px-Mahabharata_BharatVarsh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Mahabharata_BharatVarsh.jpg",
+            "caption": "Shows place names in India associated with the Mahābhārāta (an important sour...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ganesha_write_Mahabharata.jpg/300px-Ganesha_write_Mahabharata.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ganesha_write_Mahabharata.jpg",
+            "caption": "Sankshipta Mahabharat Part 1 Gita Press Gorakhpur\nby MahaMuni\nUsage https://c...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Swayamvara_Draupadi_Arjuna_Archery.jpg/300px-Swayamvara_Draupadi_Arjuna_Archery.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Swayamvara_Draupadi_Arjuna_Archery.jpg",
+            "caption": "To win the hand of Draupadi Arjuna has to shoot the eye of a fish that's on a...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/The_center_of_battle_of_Kurukshetra.jpg/300px-The_center_of_battle_of_Kurukshetra.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_center_of_battle_of_Kurukshetra.jpg",
+            "caption": "Kurukshestra Mahabharata war",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Kaurava",
+            "summary": "100 sons of King Dhritarashtra and Gandhari in the epic Mahabharata",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Panda_and_Kaurava_armise_face_each_other.jpg/250px-Panda_and_Kaurava_armise_face_each_other.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kaurava"
+        },
+        {
+            "name": "Bharata (Mahabharata)",
+            "summary": "King featured in the Mahabharata",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg/250px-Raja_Ravi_Varma_-_Mahabharata_-_Bharata.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bharata_%28Mahabharata%29"
+        },
+        {
+            "name": "Albrecht Weber",
+            "summary": "German Indologist and historian (1825–1901)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Albrecht_Weber_1899_-_Loescher_%26_Petsch.png/250px-Albrecht_Weber_1899_-_Loescher_%26_Petsch.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Albrecht_Weber"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,70 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1257,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3ea42e7f30365e85f803d57f3bacd6591dccac27c6db19441db655f116dba2a9",
+    "summary": "Barley (Hordeum vulgare) was domesticated from its wild ancestor Hordeum spontaneum in the Fertile Crescent, with the primary domestication event most likely occurring in the Jordan Valley and surrounding highlands of the Levant around 10,000–9,000 BCE, though some genetic evidence points to additional or alternative centers in the Near East. Barley was one of the first cereals to be domesticated alongside [[event:14|wheat]], and together these two crops formed the caloric backbone of early agricultural economies from the Mediterranean to South Asia.\n\nThe key morphological change distinguishing domesticated from wild barley is the development of a non-brittle rachis — the central stalk connecting grains to the plant — which prevents seeds from dispersing naturally and allows for efficient human harvesting. This trait arose through the selection, whether intentional or inadvertent, of plants whose seeds remained attached to the stalk until deliberately removed. Alongside wheat, barley cultivation spread rapidly across the ancient Near East during the [[event:18|Pre-Pottery Neolithic B]] period and beyond, adapting to a wider range of environments including cooler and more arid conditions where wheat performed less well.\n\nBarley's importance in subsequent civilization was immense. It served as the principal grain for bread and beer production in ancient Mesopotamia and Egypt, and its hardiness made it the dominant crop across much of the ancient world's less-favored agricultural zones. The [[event:1322|earliest known beer production]] is closely tied to barley cultivation, demonstrating the deep entanglement of cereal agriculture with human social and ritual life from the earliest Neolithic period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barley#History",
+    "read_more_links": [
+        {
+            "title": "Barley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Barley"
+        },
+        {
+            "title": "Domestication of Barley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hordeum_vulgare#History_and_domestication"
+        },
+        {
+            "title": "Cereal Domestication - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-agriculture"
+        },
+        {
+            "title": "Wild Barley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hordeum_spontaneum"
+        },
+        {
+            "title": "Fertile Crescent Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fertile_Crescent"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Barley_Seeds.jpg/300px-Barley_Seeds.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Barley_Seeds.jpg",
+            "caption": "Barley (Hordeum vulgare L.) seeds with husk (left) and with husk removed (rig...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Claas_Dominator_85_harvesting_winter_barley_at_Ostrittrum.jpg/300px-Claas_Dominator_85_harvesting_winter_barley_at_Ostrittrum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Claas_Dominator_85_harvesting_winter_barley_at_Ostrittrum.jpg",
+            "caption": "A class Dominator 85 operated by the Tonne agricultural service company harve...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mugimeshi.jpg/300px-Mugimeshi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Mugimeshi.jpg",
+            "caption": "Mugimeshi (麦飯: rice cooked with barley)",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Barleycorn_MET_DP-300-063_%28cropped%29.jpg/300px-John_Barleycorn_MET_DP-300-063_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Barleycorn_MET_DP-300-063_%28cropped%29.jpg",
+            "caption": "British, Chelsea; Toy; Ceramics-Porcelain",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Essex",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Hythe%2C_Maldon_-_geograph.org.uk_-_3895331.jpg/250px-The_Hythe%2C_Maldon_-_geograph.org.uk_-_3895331.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Essex"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1074,
+    "parent_id": 72,
+    "granularity": "notable",
+    "content_hash": "sha256:6d7ec9dc4a7a7fb83587a0692e3ab67cf68a070f64191debd6ba1e7a00c453a4",
+    "summary": "The Gallic Wars (58–50 BC) were Julius Caesar's eight-year conquest of Gaul (modern France, Belgium, and parts of Switzerland and Germany), one of the most consequential military campaigns in European history. The conquest added an enormous, rich territory to the Roman Empire, brought Celtic Gaul into Latin civilization, and provided Caesar with the veteran army and accumulated wealth that enabled him to seize power in Rome.\n\nCaesar received the governorship of Gaul in 59 BC as part of the [[event:1073|First Triumvirate]] arrangement. He used successive military interventions — initially justified as defending Roman allies — to gradually conquer all of Gaul. His Commentarii de Bello Gallico, written for Roman audiences as political propaganda in elegant, clear prose, is our primary source for the campaigns and remains one of Latin literature's most readable works. Caesar described his methods candidly: divide Gallic tribes against each other, support compliant leaders, and crush resistance with overwhelming force.\n\nThe campaigns featured sophisticated siege engineering (the [[event:1075|Siege of Alesia]] being the supreme example), rapid strategic marching, and Caesar's personal command at critical moments. He twice invaded Britain (55 and 54 BC), establishing Roman contact with the island though not conquest. Total Gallic casualties from combat, enslavement, and indirect effects of war may have reached one million; another million were enslaved — providing Caesar with enormous wealth from slave sales. The great Gallic chieftain Vercingetorix, who united most of Gaul in the last resistance, was captured at Alesia, paraded in Caesar's triumph in Rome, and then strangled.\n\nThe conquest of Gaul was one of the ancient world's most demographically and culturally transformative events. Within two generations, Gallic elites were writing Latin, practicing Roman religion, and seeking seats in the Roman Senate. The Latinization of Gaul produced the French language and much of French culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gallic_Wars",
+    "read_more_links": [
+        {
+            "title": "Julius Caesar",
+            "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "title": "Commentarii de Bello Gallico",
+            "url": "https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico"
+        },
+        {
+            "title": "Vercingetorix",
+            "url": "https://en.wikipedia.org/wiki/Vercingetorix"
+        },
+        {
+            "title": "Celtic Gaul",
+            "url": "https://en.wikipedia.org/wiki/Gaul"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Camp_des_Pictes_%2893%29.JPG/300px-Camp_des_Pictes_%2893%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Camp_des_Pictes_%2893%29.JPG",
+            "caption": "Présentation des différents guerriers gaulois avec leurs armes. Journées du P...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_02.jpg/300px-Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_02.jpg",
+            "caption": "Alise-Sainte-Reine (Côte-d'Or, France) - Statue of Vercingetorix",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Mausoleum_of_the_Julii%2C_about_40_BC%2C_Glanum_%2814793795492%29.jpg/300px-The_Mausoleum_of_the_Julii%2C_about_40_BC%2C_Glanum_%2814793795492%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/The_Mausoleum_of_the_Julii%2C_about_40_BC%2C_Glanum_%2814793795492%29.jpg",
+            "caption": "The Mausoleum of the Julii, located across the Via Domitia, to the north of, ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mus%C3%A9oparc_d%27Al%C3%A9sia_fortifications.JPG/300px-Mus%C3%A9oparc_d%27Al%C3%A9sia_fortifications.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mus%C3%A9oparc_d%27Al%C3%A9sia_fortifications.JPG",
+            "caption": "Muséoparc d'Alésia : vue de la fortification et de la ligne de défense.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lionel Royer",
+            "summary": "French painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lionel_Royer_photo.jpg/250px-Lionel_Royer_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lionel_Royer"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Publius Licinius Crassus (son of triumvir)",
+            "summary": "First century BCE Roman soldier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Death_of_Crassus%27_son_at_the_hands_of_the_Parthians_%28silver%29_%28cropped%29.jpg/250px-Death_of_Crassus%27_son_at_the_hands_of_the_Parthians_%28silver%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Publius_Licinius_Crassus_%28son_of_triumvir%29"
+        },
+        {
+            "name": "Decimus Junius Brutus Albinus",
+            "summary": "Roman general, politician, and assassin of Julius Caesar (81–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/C%C3%A9sar_se_rendant_au_s%C3%A9nat_aux_Ides_de_Mars.jpg/250px-C%C3%A9sar_se_rendant_au_s%C3%A9nat_aux_Ides_de_Mars.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus"
+        },
+        {
+            "name": "Lucius Munatius Plancus",
+            "summary": "Roman politician and soldier (87 – 15 BC), consul in 42 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bust_of_Plancus_IMG_9753.jpg/250px-Bust_of_Plancus_IMG_9753.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Munatius_Plancus"
+        },
+        {
+            "name": "Lucius Roscius Fabatus",
+            "summary": "Ancient Roman politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Roscia3.jpg/250px-Roscia3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Roscius_Fabatus"
+        }
+    ],
+    "territory_geojson": null
+}

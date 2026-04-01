@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1759,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fe3c02b15cdf9ef0fa5b1d0266aa24d7dfc3d84f61ad5e4394bbcaaf00f29638",
+    "summary": "Silbury Hill in Wiltshire, England, constructed around 2400–2350 BC, is the largest prehistoric earthwork mound in Europe, standing approximately 40 metres high and covering about 2.5 hectares at its base. Built in multiple phases from chalk rubble and soil, it required an estimated 4 million man-hours of labour, making it one of the most ambitious construction projects of Neolithic Britain. Despite centuries of investigation, including tunnelling, excavations, and modern geophysical surveys, the purpose of Silbury Hill remains one of the most enduring mysteries of British prehistory.\n\nNo burial has ever been found within Silbury Hill, distinguishing it from the barrows and long mounds of the same period. Various theories have been proposed: it may have served as a monument marking a sacred landscape, a ritual platform for ceremonies, a representation of the pregnant earth goddess, or a statement of collective labour and community identity. The hill is located within the same sacred landscape as [[event:43|Stonehenge]] and the Avebury stone circles, suggesting it formed part of a broader ceremonial region of exceptional importance in Neolithic Britain.\n\nSilbury Hill has suffered from the damage caused by nineteenth and twentieth-century excavation tunnels, which destabilised parts of its interior and led to partial collapses. English Heritage has conducted extensive conservation work to stabilise the structure. The hill remains a striking presence in the Wiltshire landscape and continues to attract both scholarly investigation and public fascination as a monument that resists easy interpretation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Silbury_Hill",
+    "read_more_links": [
+        {
+            "title": "Avebury",
+            "url": "https://en.wikipedia.org/wiki/Avebury"
+        },
+        {
+            "title": "Neolithic Britain",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Britain"
+        },
+        {
+            "title": "Stonehenge",
+            "url": "https://en.wikipedia.org/wiki/Stonehenge"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Prehistoric_Silbury_Hill%2C_Wiltshire.JPG/300px-Prehistoric_Silbury_Hill%2C_Wiltshire.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Prehistoric_Silbury_Hill%2C_Wiltshire.JPG",
+            "caption": "Photograph of the prehistoric monument of Silbury Hill following heavy rain s...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SilburyHill_gobeirne.jpg/300px-SilburyHill_gobeirne.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/SilburyHill_gobeirne.jpg",
+            "caption": "Silbury Hill, Wiltshire, UK.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/West_Kennet_Long_Barrow_entry.jpg/300px-West_Kennet_Long_Barrow_entry.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/West_Kennet_Long_Barrow_entry.jpg",
+            "caption": "West Kennet Long Barrow, Hügelgrab, Avebury, Wiltshire, UK",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Silbury_hill.jpg/300px-Silbury_hill.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Silbury_hill.jpg",
+            "caption": "Silbury Hill 3D model. Created from open Lidar data with app planlaufTerrain.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Wiltshire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bullocks_on_a_hillock%2C_Marlborough_Downs%2C_Wiltshire_-_geograph.org.uk_-_4609166.jpg/250px-Bullocks_on_a_hillock%2C_Marlborough_Downs%2C_Wiltshire_-_geograph.org.uk_-_4609166.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wiltshire"
+        },
+        {
+            "name": "John Aubrey",
+            "summary": "English writer and antiquarian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/John_Aubrey.jpg/250px-John_Aubrey.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Aubrey"
+        },
+        {
+            "name": "Mining in Cornwall and Devon",
+            "summary": "Mining in the English counties of Cornwall and Devon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Wheal_Owles_historic_tin_mine_Cornwall_UK.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mining_in_Cornwall_and_Devon"
+        },
+        {
+            "name": "Hugh Percy, 2nd Duke of Northumberland",
+            "summary": "British Army officer and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Portrait_of_Hugh_Percy%2C_Second_Duke_of_Northumberland_by_Gilbert_Stuart%2C_c._1788.jpg/250px-Portrait_of_Hugh_Percy%2C_Second_Duke_of_Northumberland_by_Gilbert_Stuart%2C_c._1788.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_Percy%2C_2nd_Duke_of_Northumberland"
+        }
+    ],
+    "territory_geojson": null
+}

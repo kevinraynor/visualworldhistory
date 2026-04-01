@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3299,
+    "parent_id": 2337,
+    "granularity": "detailed",
+    "content_hash": "sha256:c86b5c14b7f540e103fed3631bd05f19b79ce3fc860b850fe2706fb7fdfbc8ab",
+    "summary": "The Ten Great Campaigns (1747–1792 AD) were the series of military expeditions conducted by the [[event:2337|Qing dynasty]] under the [[event:2463|Qianlong Emperor]] that brought the empire to its greatest territorial extent, including the final elimination of the [[event:3297|Dzungar Khanate]], the incorporation of Xinjiang, two campaigns in Sichuan against the Jinchuan mountain peoples, two Burmese campaigns, a subjugation of Taiwan, campaigns in Vietnam and Nepal, and the incorporation of Tibet — a sustained projection of military power across Asia without historical precedent in Chinese history. Qianlong celebrated these campaigns as evidence of his universal imperial authority and commissioned elaborate commemorative paintings, poetry, and inscriptions, presenting them as demonstrations of Qing's superior civilization.\n\nThe Ten Great Campaigns' actual record was mixed. The [[event:3298|Dzungar campaigns]] were decisively successful, as was the pacification of Taiwan. The Jinchuan mountain campaigns in Sichuan required two costly efforts before the mountain fortresses were finally reduced (1771-1776). The Burmese campaigns ended in humiliating failure — Myanmar's armies fought the Qing to a standstill and imposed a peace that Qianlong publicly refused to acknowledge as a defeat. The Vietnam (Đại Việt) campaign of 1789 was routed by [[event:2517|Nguyễn Huệ's]] Tây Sơn forces. Qianlong nevertheless celebrated all ten campaigns as victories and suppressed accurate reporting of failures. The campaigns' enormous cost — estimated at 100-150 million taels — significantly depleted the treasury that the earlier Kangxi and Yongzheng emperors had carefully accumulated, contributing to the fiscal pressures that would hamper Qing responses to internal rebellions and external threats in the 19th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ten_Great_Campaigns",
+    "read_more_links": [
+        {
+            "title": "Jinchuan campaigns Sichuan mountain fortresses costly",
+            "url": "https://en.wikipedia.org/wiki/Jinchuan_campaigns"
+        },
+        {
+            "title": "Burmese campaign Qing failure Myanmar defeat 1769",
+            "url": "https://en.wikipedia.org/wiki/Sino-Burmese_War_(1765%E2%80%9369)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Battle_of_Oroi-Jalatu.jpg/300px-Battle_of_Oroi-Jalatu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Battle_of_Oroi-Jalatu.jpg",
+            "caption": "The Battle of Oroi-Jalatu,1756. Chinese general Zhao Hui attacked the Zunghar...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Reconquer_the_little_Goldstreamland.jpg/300px-Reconquer_the_little_Goldstreamland.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Reconquer_the_little_Goldstreamland.jpg",
+            "caption": "\"Reconquer the little Goldstreamland\", a scene of the Jinchuan Campaign 1771-...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Battle_at_the_River_Tho-xuong.jpg/300px-Battle_at_the_River_Tho-xuong.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Battle_at_the_River_Tho-xuong.jpg",
+            "caption": "A scene of the Chinese Campaign against Annam (Vietnam) 1788 - 1789",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Conquest_of_the_defence_tower_at_the_Luobowa_mountain.jpg/300px-Conquest_of_the_defence_tower_at_the_Luobowa_mountain.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Conquest_of_the_defence_tower_at_the_Luobowa_mountain.jpg",
+            "caption": "\"Conquest of the defence tower at the Luobowa mountain\", a scene of the Jinch...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zhaohui",
+            "summary": "Manchu Chinese politician and Military general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jaohui.jpg/250px-Jaohui.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhaohui"
+        },
+        {
+            "name": "Qianlong Emperor",
+            "summary": "Emperor of China from 1735 to 1796",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/250px-%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qianlong_Emperor"
+        },
+        {
+            "name": "Gurkha",
+            "summary": "Indian and Nepalese national soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nepali_soldiers_Le_Bon_1885.jpg/250px-Nepali_soldiers_Le_Bon_1885.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gurkha"
+        },
+        {
+            "name": "Emin Khoja",
+            "summary": "Prince of Turpan of the Second Rank",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Statue_of_Emin_Khoja%2C_next_to_the_Turfan_Emin_Minaret.jpg/250px-Statue_of_Emin_Khoja%2C_next_to_the_Turfan_Emin_Minaret.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emin_Khoja"
+        },
+        {
+            "name": "Amursana",
+            "summary": "Dzungar Leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Amursana.jpg/250px-Amursana.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amursana"
+        },
+        {
+            "name": "Chingünjav",
+            "summary": "Khalkha prince (1710–1757)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Depiction_of_Chingunjav_at_the_Chinggis_Khaan_National_Museum.png/250px-Depiction_of_Chingunjav_at_the_Chinggis_Khaan_National_Museum.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ching%C3%BCnjav"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3834,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:a2d8714bb4637682270ae3a02836715cf2eee99342c5162f88d135ac0f301ccf",
+    "summary": "The invention of the printing press with movable type by Johannes Gutenberg in Mainz, Germany around 1450 AD was one of the most transformative technological achievements in human history, enabling the mass reproduction of written text for the first time in European civilization and triggering a revolution in the production, distribution, and accessibility of knowledge that fundamentally altered religion, politics, science, and culture across the following centuries. Gutenberg, a goldsmith by training, combined several existing technologies — the screw press (used in wine and olive oil production), oil-based ink, and the concept of movable type (known in Asia since the 11th century, see [[event:3025|movable type printing]] and [[event:2243|movable type China]]) — into a practical, commercially viable system using individually cast metal letters that could be arranged, locked into a frame, inked, and pressed onto paper or vellum to produce hundreds of identical pages per day. The [[event:2239|Gutenberg Bible]] (c. 1455), printed in an edition of approximately 180 copies, demonstrated the technology's capabilities.\n\nThe spread of the printing press was extraordinarily rapid: within 50 years of Gutenberg's invention, printing presses had been established in over 270 European cities, producing an estimated 20 million books — more volumes than had been hand-copied in all of European history to that point. The consequences were epoch-making. The Protestant Reformation of the early 16th century was inseparable from printing: Martin Luther's 95 Theses and his German Bible translation spread across Europe with a speed that earlier heresies — suppressed before they could proliferate — had never achieved. Scientific communication became transformed: the [[event:96|Renaissance]] and subsequent Scientific Revolution depended on the rapid dissemination of observations, theories, and criticisms across the European scholarly community. Literacy rates gradually rose as books became affordable to the middle classes. Languages were standardized as printers chose particular regional dialects to print in, contributing to the formation of national languages. The printing press compressed centuries of intellectual change into decades, making it arguably the single most consequential technology in Western history between the wheel and the internet.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Printing_press",
+    "read_more_links": [
+        {
+            "title": "Gutenberg Bible first major printed book 1455",
+            "url": "https://en.wikipedia.org/wiki/Gutenberg_Bible"
+        },
+        {
+            "title": "Printing press Reformation Protestant spread Luther",
+            "url": "https://en.wikipedia.org/wiki/Printing_press#Reformation"
+        },
+        {
+            "title": "Spread of printing press European cities 1450-1500",
+            "url": "https://en.wikipedia.org/wiki/Incunable"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cccasarealjf.JPG/300px-Cccasarealjf.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cccasarealjf.JPG",
+            "caption": "Casa Real de Malolos, Built in 1580,residence and office of the Gobernadorcil...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Laurentius_de_Voltolina_Vorlesung_vor_Studenten_-_Min_1233_-_Kupferstichkabinett_Berlin.jpg/300px-Laurentius_de_Voltolina_Vorlesung_vor_Studenten_-_Min_1233_-_Kupferstichkabinett_Berlin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Laurentius_de_Voltolina_Vorlesung_vor_Studenten_-_Min_1233_-_Kupferstichkabinett_Berlin.jpg",
+            "caption": "Laurentius de Voltolina Vorlesung vor Studenten - Min 1233 - Kupferstichkabinett Berlin",
+            "attribution": "Wikimedia Commons, PDM-owner"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/1890_Reliance_Printing_Press.jpg/300px-1890_Reliance_Printing_Press.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/1890_Reliance_Printing_Press.jpg",
+            "caption": "An ~1890 Reliance Printing Press.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Handtiegelpresse_von_1811.jpg/300px-Handtiegelpresse_von_1811.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Handtiegelpresse_von_1811.jpg",
+            "caption": "Handtiegelpresse von 1811",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Johannes Gutenberg",
+            "summary": "German inventor and craftsman (died 1468)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg/250px-Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+        },
+        {
+            "name": "Charles Stanhope, 3rd Earl Stanhope",
+            "summary": "British scientist (1753–1816)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Charles_Stanhope%2C_3rd_Earl_Stanhope_by_John_Opie.jpg/250px-Charles_Stanhope%2C_3rd_Earl_Stanhope_by_John_Opie.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Stanhope%2C_3rd_Earl_Stanhope"
+        },
+        {
+            "name": "Pressing (wine)",
+            "summary": "Process of extracting juice from grapes in winemaking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Viognier_Grape_must_after_pressing.jpg/250px-Viognier_Grape_must_after_pressing.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pressing_%28wine%29"
+        },
+        {
+            "name": "Bi Sheng",
+            "summary": "Chinese inventor of moveable type (972–1051)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg/250px-Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bi_Sheng"
+        },
+        {
+            "name": "Ink ball",
+            "summary": "Tool used in printmaking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Amsterdam_-_Rembrandt_House_Museum%2C_printing_studio_05.JPG/250px-Amsterdam_-_Rembrandt_House_Museum%2C_printing_studio_05.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ink_ball"
+        }
+    ],
+    "territory_geojson": null
+}

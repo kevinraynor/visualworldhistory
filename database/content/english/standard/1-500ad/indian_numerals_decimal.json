@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2108,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:5418ac24e914fa73d00aee85ec0caeabd9646f4c9166c6cb28cd1505c01ca85a",
+    "summary": "The development of the Hindu-Arabic numeral system (c. 4th–6th centuries AD in India) — the place-value decimal system with ten distinct digits including zero that the entire modern world uses for mathematics — was arguably the most important intellectual innovation in the history of mathematics. The system combined three key elements: positional notation (where the value of a digit depends on its position), a decimal (base-10) structure, and crucially, a symbol for zero as a number (not merely a placeholder). Earlier positional systems (Babylonian, Mayan) existed, but the Indian decimal place-value system with zero was uniquely suited for computation.\n\nThe Brahmi numerals had ancient roots in India, but the crucial development of zero as a mathematical concept — a number with its own place in arithmetic, with its own rules for computation, not merely an empty position — is documented in Indian mathematical texts from the Gupta period, particularly in [[event:2054|Aryabhata's]] work and in Brahmagupta's Brahmasphutasiddhanta (628 AD), which gave the first clear rules for arithmetic with zero. The system was transmitted to the Islamic world in the 8th–9th centuries (where it is documented in the works of al-Khwarizmi, whose name gives us 'algorithm'), and from there to Europe by the 12th century — where it gradually replaced Roman numerals and enabled the mathematical revolution of the Renaissance and Scientific Revolution. Without positional arithmetic and zero, modern mathematics, science, engineering, and computing would be essentially impossible.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system",
+    "read_more_links": [
+        {
+            "title": "Zero concept Indian mathematics",
+            "url": "https://en.wikipedia.org/wiki/0#History"
+        },
+        {
+            "title": "Brahmi numeral origins",
+            "url": "https://en.wikipedia.org/wiki/Brahmi_numerals"
+        },
+        {
+            "title": "Brahmagupta arithmetic zero",
+            "url": "https://en.wikipedia.org/wiki/Brahmagupta"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Houghton_Typ_520.03.736_-_Margarita_philosophica.jpg/300px-Houghton_Typ_520.03.736_-_Margarita_philosophica.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Houghton_Typ_520.03.736_-_Margarita_philosophica.jpg",
+            "caption": "Illustration from Margarita philosophica, 1503, by Gregor Reisch (d. 1525). T...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Adam_riesen.jpg/300px-Adam_riesen.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Adam_riesen.jpg",
+            "caption": "The original description page was here. All following user names refer to de....",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Peter_Apian_1544.PNG/300px-Peter_Apian_1544.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Peter_Apian_1544.PNG",
+            "caption": "Peter Apian, Kaufmanns Rechnung, 1527: Ein Mann benutzt noch Rechenbrett und ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Edicts_of_Ashoka_numerals.jpg/300px-Edicts_of_Ashoka_numerals.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Edicts_of_Ashoka_numerals.jpg",
+            "caption": "Edicts of Ashoka numerals",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Al-Kindi",
+            "summary": "Muslim Arab philosopher, mathematician and physician (c. 801–873)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stamp_IQ_1962_6f.jpg/250px-Stamp_IQ_1962_6f.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Kindi"
+        },
+        {
+            "name": "Fibonacci",
+            "summary": "Italian mathematician (c. 1170 – c. 1240/50)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Leonardo_Fibonacci.JPG/250px-Leonardo_Fibonacci.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fibonacci"
+        },
+        {
+            "name": "Natural number",
+            "summary": "Number used for counting",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Three_Baskets_with_Apples.svg/250px-Three_Baskets_with_Apples.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Natural_number"
+        }
+    ],
+    "territory_geojson": null
+}

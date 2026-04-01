@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1197,
+    "parent_id": 80,
+    "granularity": "notable",
+    "content_hash": "sha256:f16d2bb93e2fd773e41a5b8363a41ddf2ec9a3d5cd40408a445258e5e4e4c30c",
+    "summary": "Archimedes of Syracuse (c. 287–212 BC) was the greatest mathematician and engineer of antiquity, whose discoveries in geometry (including the value of pi and the areas and volumes of curved shapes), physics (the principle of the lever and the principle of buoyancy), and mechanical engineering (war machines that defended [[event:3817|Siege of Syracuse]]) represent an astonishing concentration of genius that would not be surpassed until the Scientific Revolution.\n\nArchimedes' mathematical achievements include: the first rigorous calculation of pi (between 223/71 and 22/7); formulas for the area of circles, surface areas and volumes of spheres, cylinders, and parabolic segments; and the method of exhaustion (an anticipation of integral calculus). His principle of the lever ('Give me a place to stand and I will move the Earth') and the principle of buoyancy (Archimedes' principle, supposedly discovered when stepping into a bath and running through the streets shouting 'Eureka') became foundations of physics. His war machines — catapults, cranes that could lift Roman ships out of the water (the 'Claw of Archimedes'), and perhaps concentrated mirrors that set ships on fire — delayed Rome's capture of Syracuse for two years during the [[event:3817|Siege of Syracuse]]. He was killed by a Roman soldier, reportedly while working on a mathematical problem.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Archimedes",
+    "read_more_links": [
+        {
+            "title": "Archimedes' principle",
+            "url": "https://en.wikipedia.org/wiki/Archimedes%27_principle"
+        },
+        {
+            "title": "Archimedes Palimpsest",
+            "url": "https://en.wikipedia.org/wiki/Archimedes_Palimpsest"
+        },
+        {
+            "title": "Claw of Archimedes",
+            "url": "https://en.wikipedia.org/wiki/Claw_of_Archimedes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cicero_Discovering_the_Tomb_of_Archimedes_by_Benjamin_West.jpeg/300px-Cicero_Discovering_the_Tomb_of_Archimedes_by_Benjamin_West.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Cicero_Discovering_the_Tomb_of_Archimedes_by_Benjamin_West.jpeg",
+            "caption": "\"Cicero Discovering the Tomb of Archimedes\"",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FieldsMedalFront.jpg/300px-FieldsMedalFront.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/FieldsMedalFront.jpg",
+            "caption": "Photo of the obverse of a Fields Medal made by Stefan Zachow for the Internat...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/300px-Parthenon_from_west.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
+            "caption": "Parthenon from west",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Archimedes_%E2%80%93_Opere%2C_1615_%E2%80%93_BEIC_9741168.jpg/300px-Archimedes_%E2%80%93_Opere%2C_1615_%E2%80%93_BEIC_9741168.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Archimedes_%E2%80%93_Opere%2C_1615_%E2%80%93_BEIC_9741168.jpg",
+            "caption": "Frontespizio",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Domenico Fetti",
+            "summary": "Italian painter (c.1589–1623)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Portret_Domenico_Feti%2C_RP-P-2004-73-12_%28cropped%29.jpg/250px-Portret_Domenico_Feti%2C_RP-P-2004-73-12_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Domenico_Fetti"
+        },
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        },
+        {
+            "name": "Isidore of Miletus",
+            "summary": "5th-century Byzantine Greek architect and mathematician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/AT_13763_Roof_figure%2C_Isidor_von_Milet_at_the_Kunsthistorisches_Museum%2C_Vienna-74-Bearbeitet.jpg/250px-AT_13763_Roof_figure%2C_Isidor_von_Milet_at_the_Kunsthistorisches_Museum%2C_Vienna-74-Bearbeitet.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isidore_of_Miletus"
+        },
+        {
+            "name": "Benjamin West",
+            "summary": "American-born painter (1738–1820)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/After_Benjamin_West%2C_Benjamin_West%2C_c._1776%2C_NGA_1133.jpg/250px-After_Benjamin_West%2C_Benjamin_West%2C_c._1776%2C_NGA_1133.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_West"
+        },
+        {
+            "name": "John Tzetzes",
+            "summary": "Byzantine poet and writer (c.1110–1180)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Houghton_MS_Gr_20_-_Theogeny%2C_151.jpg/250px-Houghton_MS_Gr_20_-_Theogeny%2C_151.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Tzetzes"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        }
+    ],
+    "territory_geojson": null
+}

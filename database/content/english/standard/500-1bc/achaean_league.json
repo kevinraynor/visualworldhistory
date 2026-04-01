@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1203,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:021c87861788da965a8d5e2430cfd375f1c997f8cbb2a210b7276a211f68909c",
+    "summary": "The Achaean League (281–146 BC) was a confederation of Greek city-states in the northern Peloponnese that developed into the most powerful Greek political organization of the [[event:80|Hellenistic Period]], serving as the last significant attempt at Greek political unity before Roman conquest ended Greek independence.\n\nThe League initially united Achaean cities for mutual defense, but under the statesman Aratus of Sicyon (who joined Sicyon to the League in 251 BC and served as its leading figure for decades) it expanded to include most of the Peloponnese including Corinth. The League's constitution provided for a federal assembly, elected generals, and proportional representation — a genuinely federal political experiment that influenced the American Founders' thinking about federal republics. The League's foreign policy was complicated by the pressure of the [[event:1042|Antigonid Dynasty]]'s Macedon, requiring alternating alliance and opposition. After defeating Macedonia in the [[event:1065|Macedonian Wars]], Rome initially allowed Greek cities nominal freedom, but Roman interference in Greek affairs increasingly irritated the League. In 146 BC — the same year as the [[event:1059|Destruction of Carthage]] — Rome crushed the Achaean League's resistance and destroyed Corinth, imposing direct control over Greece.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Achaean_League",
+    "read_more_links": [
+        {
+            "title": "Aratus of Sicyon",
+            "url": "https://en.wikipedia.org/wiki/Aratus_of_Sicyon"
+        },
+        {
+            "title": "Destruction of Corinth 146 BC",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Corinth_(146_BC)"
+        },
+        {
+            "title": "Achaean League constitution",
+            "url": "https://en.wikipedia.org/wiki/Achaean_League#Constitution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Achaean_League_192_BC.png/300px-Achaean_League_192_BC.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Achaean_League_192_BC.png",
+            "caption": "Map of the Achaean League in 192 BCE after the Laconian War and annexation of...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tony_robert-fleury%2C_l%27ultimo_giorno_di_corinto%2C_ante_1870.JPG/300px-Tony_robert-fleury%2C_l%27ultimo_giorno_di_corinto%2C_ante_1870.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tony_robert-fleury%2C_l%27ultimo_giorno_di_corinto%2C_ante_1870.JPG",
+            "caption": "The Sack of Corinth ",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Macedonia_and_the_Aegean_World_c.200.png/300px-Macedonia_and_the_Aegean_World_c.200.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png",
+            "caption": "Macedonia and the Aegean world c.200 B.C. This image is made by Raymond Palmer.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hemidrachm%2C_250_BC%2C_Achaian_League.jpg/300px-Hemidrachm%2C_250_BC%2C_Achaian_League.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Hemidrachm%2C_250_BC%2C_Achaian_League.jpg",
+            "caption": "Hemidrachm, 250 BC, Achaian League",
+            "attribution": "Wikimedia Commons"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Strategos",
+            "summary": "Greek military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Greek_strategist_Pio-Clementino_Inv306.jpg/250px-Greek_strategist_Pio-Clementino_Inv306.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strategos"
+        },
+        {
+            "name": "Philopoemen",
+            "summary": "Ancient Greek general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mapofphilopoemen.jpg/250px-Mapofphilopoemen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philopoemen"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Xenophon",
+            "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/250px-Bust_of_Xenophon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xenophon"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Antipater",
+            "summary": "Macedonian statesman and regent (4th century BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/KINGS_of_MACEDON._Alexander_III_%27the_Great%27._336-323_BC.jpg/250px-KINGS_of_MACEDON._Alexander_III_%27the_Great%27._336-323_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antipater"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1047,
+    "parent_id": 1040,
+    "granularity": "detailed",
+    "content_hash": "sha256:ef39a986e7e99691a025efb3ea9d425310798f2f2cf03c241c4614196c1b99c1",
+    "summary": "The Rosetta Stone (196 BC) was a decree inscribed on a granodiorite stele by priests of the [[event:1040|Ptolemaic Kingdom]] during the reign of Ptolemy V Epiphanes, recording a priestly council's confirmation of royal cult honors in three scripts: ancient Egyptian hieroglyphs, Demotic script, and Greek. It was discovered by French soldiers during Napoleon's Egyptian campaign in 1799 and became the key that unlocked the long-lost ability to read ancient Egyptian hieroglyphs.\n\nThe decree itself was unremarkable — a list of honors to the king and privileges granted to the priesthood — but its parallel inscriptions in three scripts, including Greek which scholars could still read, provided the bilingual key that allowed Jean-François Champollion to crack hieroglyphic writing in 1822, opening the entire civilization of ancient Egypt to direct reading for the first time in over a thousand years. The stone is now in the British Museum in London, where it remains the most visited object in the collection. Its name has entered common use as a metaphor for any tool that provides the key to an otherwise impenetrable subject.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+    "read_more_links": [
+        {
+            "title": "Jean-François Champollion",
+            "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion"
+        },
+        {
+            "title": "Egyptian Hieroglyphs",
+            "url": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs"
+        },
+        {
+            "title": "Ptolemy V Epiphanes",
+            "url": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/300px-Rosetta_Stone.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosetta_Stone.JPG",
+            "caption": "The Rosetta Stone in the British Museum.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RosettaStone-LeftAndRightSides-BritishMuseum-August21-08.jpg/300px-RosettaStone-LeftAndRightSides-BritishMuseum-August21-08.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RosettaStone-LeftAndRightSides-BritishMuseum-August21-08.jpg",
+            "caption": "The left and right sides of the Rosetta Stone, containing the faint English i...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tourist_watching_Rosetta_Stone_at_British_Museum.JPG/300px-Tourist_watching_Rosetta_Stone_at_British_Museum.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tourist_watching_Rosetta_Stone_at_British_Museum.JPG",
+            "caption": "Tourist watching Rosetta Stone at British Museum. One of the most crowded par...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Copy_of_Rosetta_Stone.jpg/300px-Copy_of_Rosetta_Stone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Copy_of_Rosetta_Stone.jpg",
+            "caption": "Photo of the copy of Rosetta Stone in British Museum. Photo by kacperg333",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy V Epiphanes",
+            "summary": "5th Pharaoh of Ptolemaic Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Egypt_-_king_Ptolemaios_V_-_204-203_BC_-_gold_oktadrachm_-_bust_of_Ptolemaios_V_-_cornucopiae_-_Berlin_MK_AM_18203067.jpg/250px-Egypt_-_king_Ptolemaios_V_-_204-203_BC_-_gold_oktadrachm_-_bust_of_Ptolemaios_V_-_cornucopiae_-_Berlin_MK_AM_18203067.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_V_Epiphanes"
+        },
+        {
+            "name": "Ptolemy III Euergetes",
+            "summary": "3rd pharaoh of Ptolemaic Egypt (r. 246-222 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%28Venice%29_Ancient_Roman_busts_in_the_Museo_archeologico_nazionale_-_Ptolemy_III_Euergetes.jpg/250px-%28Venice%29_Ancient_Roman_busts_in_the_Museo_archeologico_nazionale_-_Ptolemy_III_Euergetes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_III_Euergetes"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Berenice II",
+            "summary": "Queen regnant of Cyrenaica from 258 to 246 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Monnaie_-_Octodrachme%2C_Or%2C_Incertain%2C_%C3%89gypte%2C_Ptol%C3%A9m%C3%A9e_IV_Philopator_-_btv1b11318685m_%281_of_2%29.jpg/250px-Monnaie_-_Octodrachme%2C_Or%2C_Incertain%2C_%C3%89gypte%2C_Ptol%C3%A9m%C3%A9e_IV_Philopator_-_btv1b11318685m_%281_of_2%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Berenice_II"
+        },
+        {
+            "name": "Ptolemy II Philadelphus",
+            "summary": "King of the Ptolemaic Kingdom, 284–246 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ptolemy_II_MAN_Napoli_Inv5600.jpg/250px-Ptolemy_II_MAN_Napoli_Inv5600.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"
+        },
+        {
+            "name": "Ptolemy IV Philopator",
+            "summary": "4th Pharaoh of Ptolemaic Egypt (r. 221–204 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Octadrachm_Ptolemy_IV_BM_CMBMC33.jpg/250px-Octadrachm_Ptolemy_IV_BM_CMBMC33.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_IV_Philopator"
+        }
+    ],
+    "territory_geojson": null
+}

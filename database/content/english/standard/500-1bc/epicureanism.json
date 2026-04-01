@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1196,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:1d8263ec412301d5b0a8e3e71d22c11b6ad95118d152bcd2b5ae7a93558b80b0",
+    "summary": "Epicureanism (founded c. 307–270 BC) was a philosophical school established by Epicurus in Athens, which taught that pleasure — specifically ataraxia (tranquility of mind) and aponia (freedom from bodily pain) — is the highest good, that the gods do not intervene in human affairs, and that death is simply the cessation of consciousness and need not be feared — a philosophy that offered comfort in a turbulent Hellenistic world.\n\nEpicurus founded his school in a garden outside Athens (hence followers were called 'Garden' philosophers), welcoming women and slaves as equals in an unusual departure from social norms. His physics drew on Democritus's atomism — the universe consists of atoms in void, with no supernatural dimension — which grounded his ethics: if gods don't interfere and death is mere non-existence, one need not fear punishment or oblivion. Epicurean pleasure was primarily negative (freedom from pain and anxiety) rather than active sensual enjoyment, despite the word 'epicurean' later acquiring connotations of luxurious excess. The philosophy attracted devoted followers across the Hellenistic and Roman worlds, including the poet [[event:1248|Lucretius and De Rerum Natura]]'s Lucretius, whose masterwork De Rerum Natura (On the Nature of Things) preserved Epicurean philosophy in poetic form and proved enormously influential on later Renaissance and Enlightenment materialism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Epicureanism",
+    "read_more_links": [
+        {
+            "title": "Epicurus",
+            "url": "https://en.wikipedia.org/wiki/Epicurus"
+        },
+        {
+            "title": "Lucretius",
+            "url": "https://en.wikipedia.org/wiki/Lucretius"
+        },
+        {
+            "title": "Epicurean garden school",
+            "url": "https://en.wikipedia.org/wiki/Epicurus#The_Garden"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/300px-Lupa_Capitolina%2C_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lupa_Capitolina%2C_Rome.jpg",
+            "caption": "Lupa Capitolina: she-wolf with Romulus and Remus. Bronze, 12th century AD[1],...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/300px-Epikouros_BM_1843.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg",
+            "caption": "Portrait of Epicurus, founder of the Epicurean school. Roman copy after a los...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lucretius%2C_De_rerum_natura.jpg/300px-Lucretius%2C_De_rerum_natura.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lucretius%2C_De_rerum_natura.jpg",
+            "caption": "Lucretius, De rerum natura // This elegant manuscript of Lucretius's philosop...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/300px-Socrates.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Socrates.png",
+            "caption": "From http://hypernews.ngdc.noaa.gov",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Epicurus",
+            "summary": "Ancient Greek philosopher, founder of Epicureanism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/250px-Epikouros_BM_1843.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Epicurus"
+        },
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        },
+        {
+            "name": "Democritus",
+            "summary": "Greek philosopher (c. 460–c. 370 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Unknown_greek_pushkin.jpg/250px-Unknown_greek_pushkin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Democritus"
+        },
+        {
+            "name": "Aristippus",
+            "summary": "Greek philosopher, founder of Cyrenaicism (c.435–c.356 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aristippus.jpg/250px-Aristippus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristippus"
+        },
+        {
+            "name": "Diogenes Laertius",
+            "summary": "3rd-century Roman biographer of Greek philosophers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Diogenes_Laertius.jpg/250px-Diogenes_Laertius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diogenes_Laertius"
+        },
+        {
+            "name": "Clement of Alexandria",
+            "summary": "Christian theologian (c. 150 – c. 215)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clement_alexandrin.jpg/250px-Clement_alexandrin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Clement_of_Alexandria"
+        }
+    ],
+    "territory_geojson": null
+}

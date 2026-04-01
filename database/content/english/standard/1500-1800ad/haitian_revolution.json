@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2335,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:15a36531ddffaa011e34da98057f19fe7692dc67e40631bf168d04fadddf4df1",
+    "summary": "The Haitian Revolution (1791–1804 AD) was the only successful large-scale slave revolt in history, the founding event of the first Black republic, and one of the most radical social revolutions the world has ever witnessed — overturning at once the institution of slavery, European colonial rule, and racial hierarchy in the colony of Saint-Domingue (now Haiti), which had been the most profitable colony in the world. Saint-Domingue produced roughly 40% of Europe's sugar and 60% of its coffee, worked by approximately 500,000 enslaved Africans under conditions of extreme brutality; enslaved people outnumbered white colonists 10:1. The revolution began with the Bois Caïman ceremony (August 14, 1791), a Vodou ritual in which enslaved people under Dutty Boukman launched a coordinated uprising, burning plantations across the northern province.\n\nThe revolution's political course was extraordinarily complex: it unfolded within the context of the [[event:107|French Revolution]], which created competing factions (white planters seeking autonomy, free people of color seeking equality, enslaved people seeking freedom). The French National Convention abolished slavery in 1794, which brought Toussaint Louverture — the uprising's greatest military leader — to the French side. Toussaint consolidated control of Saint-Domingue, drafted a constitution, and effectively ruled independently before Napoleon sent an expedition to reimpose slavery in 1801. Toussaint was treacherously captured but his generals continued the fight; Napoleon's army was devastated by yellow fever and ultimately defeated at the Battle of Vertières (November 1803). On January 1, 1804, Jean-Jacques Dessalines declared the independent Republic of Haiti — a word derived from the indigenous Taíno name for the island. Haiti's founding alarmed slaveholding societies throughout the Americas and was systematically excluded from diplomatic recognition and subjected to an economic isolation that shaped its poverty for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+    "read_more_links": [
+        {
+            "title": "Toussaint Louverture Haitian leader revolution",
+            "url": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
+        },
+        {
+            "title": "Saint-Domingue slavery colonial economy France",
+            "url": "https://en.wikipedia.org/wiki/Saint-Domingue"
+        },
+        {
+            "title": "Haiti 1804 independence Black republic founding",
+            "url": "https://en.wikipedia.org/wiki/Haitian_Declaration_of_Independence"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Leclerc_Expedition.png/300px-Leclerc_Expedition.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Leclerc_Expedition.png",
+            "caption": "France's Leclerc Expedition to Haiti.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/300px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "caption": "La Liberté guidant le peuple - Eugène Delacroix - Musée du Louvre Peintures RF 129 - après restauration 2024",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/R%C3%A9volte_des_esclaves_contre_les_arm%C3%A9es_envoy%C3%A9es_par_Napol%C3%A9on_Bonaparte_lors_de_l%27exp%C3%A9dition_de_Saint-Domingue_entre_1801_et_1803._Gravure_du_XIXe_si%C3%A8cle.jpg/300px-R%C3%A9volte_des_esclaves_contre_les_arm%C3%A9es_envoy%C3%A9es_par_Napol%C3%A9on_Bonaparte_lors_de_l%27exp%C3%A9dition_de_Saint-Domingue_entre_1801_et_1803._Gravure_du_XIXe_si%C3%A8cle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/R%C3%A9volte_des_esclaves_contre_les_arm%C3%A9es_envoy%C3%A9es_par_Napol%C3%A9on_Bonaparte_lors_de_l%27exp%C3%A9dition_de_Saint-Domingue_entre_1801_et_1803._Gravure_du_XIXe_si%C3%A8cle.jpg",
+            "caption": "Révolte des esclaves contre les armées envoyées par Napoléon Bonaparte lors d...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Manuel_Lopez_Lopez_Iodibo_-_Desalines_-_Huyes_del_valor_frances%2C_pero_matando_blancos.jpg/300px-Manuel_Lopez_Lopez_Iodibo_-_Desalines_-_Huyes_del_valor_frances%2C_pero_matando_blancos.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Manuel_Lopez_Lopez_Iodibo_-_Desalines_-_Huyes_del_valor_frances%2C_pero_matando_blancos.jpg",
+            "caption": "Entitled simply Desalines, it depicts the general, sword raised in one arm, w...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Georges Biassou",
+            "summary": "Early leader of the Haitian Revolution (1741–1801)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Georges_Biassou.jpg/250px-Georges_Biassou.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Biassou"
+        },
+        {
+            "name": "Toussaint Louverture",
+            "summary": "Haitian general and revolutionary (1744–1803)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Toussaint_Louverture_-_Girardin.jpg/250px-Toussaint_Louverture_-_Girardin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
+        },
+        {
+            "name": "André Rigaud",
+            "summary": "Haitian military leader (1761–1811)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Andr%C3%A9_Rigaud.gif/250px-Andr%C3%A9_Rigaud.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Rigaud"
+        },
+        {
+            "name": "Alexandre Pétion",
+            "summary": "Haitian army officer and statesman (1807–18)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Alexandre_Sab%C3%A9s_P%C3%A9tion_Portrait_circa_1807-1818_JCB_%28cropped%29.jpg/250px-Alexandre_Sab%C3%A9s_P%C3%A9tion_Portrait_circa_1807-1818_JCB_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandre_P%C3%A9tion"
+        },
+        {
+            "name": "Jean-Jacques Dessalines",
+            "summary": "Haitian revolutionary and first ruler (1758–1806)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jean_Jacques_Dessalines.jpg/250px-Jean_Jacques_Dessalines.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines"
+        },
+        {
+            "name": "Sir John Duckworth, 1st Baronet",
+            "summary": "Royal Navy officer, colonial administrator and politician (1748–1817)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Admiral_Sir_John_Thomas_Duckworth_%281748-1817%29.jpg/250px-Admiral_Sir_John_Thomas_Duckworth_%281748-1817%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_John_Duckworth%2C_1st_Baronet"
+        }
+    ],
+    "territory_geojson": null
+}

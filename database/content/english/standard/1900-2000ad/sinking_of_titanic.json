@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3451,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:15fb371d52eaec9c3fba53fa6700c48a788ef54f109379492ca6b7ced7e6b080",
+    "summary": "The RMS Titanic, the largest and most luxurious ocean liner of its era, sank in the North Atlantic Ocean on April 15, 1912, after striking an iceberg on its maiden voyage from Southampton to New York City. Of the estimated 2,224 passengers and crew aboard, more than 1,500 perished, making it one of the deadliest peacetime maritime disasters in history. The ship had been promoted as practically unsinkable, and insufficient lifeboat capacity meant that even if properly loaded, only around half the people on board could have been saved.\n\nThe disaster had immediate practical consequences for maritime safety regulation. International agreements mandated that ships carry lifeboats for all passengers, that ships maintain 24-hour radio watch, and established the International Ice Patrol. The sinking also became a potent cultural symbol of Edwardian overconfidence and of class inequality, as survival rates were dramatically higher for first-class passengers than for those in third class. The wreck was discovered on the ocean floor in 1985 by an expedition led by Robert Ballard, reigniting public fascination with the disaster that has persisted into the twenty-first century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+    "read_more_links": [
+        {
+            "title": "RMS Titanic",
+            "url": "https://en.wikipedia.org/wiki/RMS_Titanic"
+        },
+        {
+            "title": "International Ice Patrol",
+            "url": "https://en.wikipedia.org/wiki/International_Ice_Patrol"
+        },
+        {
+            "title": "SOLAS convention",
+            "url": "https://en.wikipedia.org/wiki/SOLAS_Convention"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Titanic_breakup_simple.png/300px-Titanic_breakup_simple.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Titanic_breakup_simple.png",
+            "caption": "Simplistic representation of the 2 major models for the break-up of the RMS T...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Titanic_lifeboat.jpg/300px-Titanic_lifeboat.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Titanic_lifeboat.jpg",
+            "caption": "last lifeboat successfully launched from the Titanic",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Titanic_newspaper_boy.jpg/300px-Titanic_newspaper_boy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Titanic_newspaper_boy.jpg",
+            "caption": "Ned Parfett, paperboy, outside the White Star Line offices in London, April 1...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/St%C3%B6wer_Titanic.jpg/300px-St%C3%B6wer_Titanic.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg",
+            "caption": "Titanic Sinking, engraving by Willy Stöwer.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Willy Stöwer",
+            "summary": "German painter (1864–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Willy_St%C3%B6wer.png/250px-Willy_St%C3%B6wer.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Willy_St%C3%B6wer"
+        },
+        {
+            "name": "Cobh",
+            "summary": "Seaport in County Cork, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Cobhgallery.jpg/250px-Cobhgallery.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cobh"
+        },
+        {
+            "name": "Chief steward",
+            "summary": "Ranks on a merchant ship",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/SS_Africa_K%C3%BCche.jpg/250px-SS_Africa_K%C3%BCche.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chief_steward"
+        },
+        {
+            "name": "Frederick Fleet",
+            "summary": "British sailor, survivor of the sinking of RMS Titanic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FrederickFleet.April1912.jpg/250px-FrederickFleet.April1912.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_Fleet"
+        }
+    ],
+    "territory_geojson": null
+}

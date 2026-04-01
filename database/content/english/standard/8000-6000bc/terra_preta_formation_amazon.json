@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1499,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:676a88282a846db1023ce27484836e72441ac7c19b2fde6f9c25b29505a5e492",
+    "summary": "Terra preta (Portuguese: dark earth) is a type of highly fertile, anthropogenic soil found at numerous sites across the Amazon Basin. The earliest evidence for its formation dates to around 7000–6000 BCE, when Amazonian hunter-gatherer and early horticultural communities began depositing charcoal, bone, and organic waste in concentrated areas, inadvertently creating a soil amendment of exceptional long-term fertility. Some deposits are several meters deep, indicating centuries or millennia of sustained human activity at specific locations.\n\nTerra preta represents some of the earliest evidence for significant human modification of Amazonian environments. Its formation demonstrates that pre-Columbian Amazonian populations were engaged in forms of landscape management that transformed the notoriously nutrient-poor tropical soils of the region. The existence of these ancient soils has reshaped scholarly understanding of the complexity and population density of pre-Columbian Amazonia, suggesting that the region supported far more people than previously assumed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terra_preta",
+    "read_more_links": [
+        {
+            "title": "Pre-Columbian Amazon – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Columbian_era"
+        },
+        {
+            "title": "Amazonian Cultures – Britannica",
+            "url": "https://www.britannica.com/place/Amazon-River/Cultural-history"
+        },
+        {
+            "title": "Biochar and Soil Fertility – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Biochar"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Manantenina_bushfire.jpg/300px-Manantenina_bushfire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Manantenina_bushfire.jpg",
+            "caption": "Illegal slash and burn practise in the region west of Manantenina.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Terra_preta_HC1.JPG/300px-Terra_preta_HC1.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Terra_preta_HC1.JPG",
+            "caption": "Home made terra preta: wood charcoal composted together with yard waste, kitc...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Francisco de Orellana",
+            "summary": "Spanish explorer and conquistador (1511–1546)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Francisco_de_Orellana1.JPG/250px-Francisco_de_Orellana1.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_de_Orellana"
+        }
+    ],
+    "territory_geojson": null
+}

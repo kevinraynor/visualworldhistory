@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1305,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a088d87a2fd4f4d06e101b40d874e2c9aeff7a1d574f29b4285f2c00b011e6cd",
+    "summary": "The earliest known use of copper by humans occurred in Anatolia and the surrounding regions of the Near East during the Pre-Pottery Neolithic period, with evidence of native (unsmelt) copper being worked into small tools and ornaments by approximately 9000–8000 BCE. Sites such as [[event:1254|Cayonu Tepesi]] in southeastern Anatolia have yielded copper pins, hooks, and awls produced by cold-working and annealing native copper — that is, hammering and heat-treating naturally occurring copper nuggets into useful shapes without melting or smelting the metal.\n\nThis earliest phase of copper use — the use of native copper before the discovery of smelting — predates the Chalcolithic (Copper Age) proper and represents the first human exploitation of a metal beyond naturally occurring stones. The small scale and limited range of objects produced suggests that copper was valued primarily as a novel and prestigious material for personal ornaments and specialized tools rather than as a replacement for the flint and obsidian tools that remained dominant for utilitarian purposes throughout this period.\n\nThe transition from cold-working native copper to true smelting — the extraction of copper from ore by heating — occurred much later, around 5000–4000 BCE in Anatolia and the surrounding region. However, the early PPNB use of native copper at Cayonu and contemporaneous sites establishes Anatolia as one of the earliest centers of metal-working anywhere in the world and provides the cultural and technological precedent for the later development of true metallurgy that would transform human societies during the Chalcolithic and Bronze Ages.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chalcolithic",
+    "read_more_links": [
+        {
+            "title": "Copper Age - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Copper_Age"
+        },
+        {
+            "title": "History of Metallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archaeometallurgy"
+        },
+        {
+            "title": "Native Copper Use - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Copper#History"
+        },
+        {
+            "title": "Cayonu Tepesi - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg/300px-Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg",
+            "caption": "Chalcolithic Male Figurine, 4500-3500 BCE",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Copper_Funnel_Beaker_Culture.png/300px-Copper_Funnel_Beaker_Culture.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Copper_Funnel_Beaker_Culture.png",
+            "caption": "The number of metal artefacts in northern Germany during the Neolithic and ea...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Los_Millares_recreacion_cuadro.jpg/300px-Los_Millares_recreacion_cuadro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Los_Millares_recreacion_cuadro.jpg",
+            "caption": "Pintura situada en el centro de recepción de visitantes de los Millares.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ferenc Pulszky",
+            "summary": "Hungarian politician and writer (1814–1897)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Horovitz_Portrait_of_Ferenc_Pulszky_1890.jpg/250px-Horovitz_Portrait_of_Ferenc_Pulszky_1890.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferenc_Pulszky"
+        },
+        {
+            "name": "Gaetano Chierici",
+            "summary": "Italian painter (1838–1920)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gaetano_Chierici_-_Self-portrait_in_Uffizi.jpg/250px-Gaetano_Chierici_-_Self-portrait_in_Uffizi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaetano_Chierici"
+        }
+    ],
+    "territory_geojson": null
+}

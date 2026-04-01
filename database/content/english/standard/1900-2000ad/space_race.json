@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2676,
+    "parent_id": 113,
+    "granularity": "major",
+    "content_hash": "sha256:04fc548e289ae0dfead8e9f06119d1f9c76025314fec07264896941845183ea8",
+    "summary": "The Space Race was a Cold War competition between the United States and the Soviet Union to achieve supremacy in spaceflight capability, running from the late 1950s through the mid-1970s. The competition was rooted in both military considerations — the same rocket technology that launched satellites could deliver nuclear warheads — and intense ideological rivalry, as each superpower sought to demonstrate technological superiority as evidence of the superiority of its political and economic system. The race produced some of the most audacious engineering achievements in human history and transformed humanity's relationship with the cosmos.\n\nThe Soviet Union launched the opening salvo with [[event:2678|Sputnik]] on October 4, 1957 — the world's first artificial satellite — shocking American politicians and the public and triggering a crisis of confidence about American technological and educational capabilities. The Soviets followed with more firsts: the first animal in space (the dog Laika in 1957), the first human in space ([[event:3359|Yuri Gagarin]] on April 12, 1961), and the first spacewalk (Alexei Leonov in 1965). Each Soviet achievement intensified American urgency.\n\nPresident John F. Kennedy responded with an audacious commitment in May 1961, announcing the goal of landing a man on the Moon and returning him safely to Earth before the end of the decade. NASA's Apollo program, the largest peacetime scientific and engineering undertaking in history, employed at its peak over 400,000 people and consumed approximately 4 percent of the U.S. federal budget. The program overcame multiple setbacks, including the Apollo 1 fire in January 1967 that killed three astronauts on the launch pad.\n\nThe [[event:2677|Apollo 11 mission]] achieved Kennedy's goal on July 20, 1969, when astronaut Neil Armstrong became the first human to set foot on the lunar surface, followed by Buzz Aldrin. The mission transmitted live television images to an estimated 600 million viewers worldwide — roughly one-fifth of humanity — making it one of the most-watched events in broadcast history. Five more successful lunar landings followed before the Apollo program ended in 1972.\n\nThe Space Race produced transformative technologies with lasting civilian applications: satellite communications, weather forecasting, GPS navigation, and miniaturized electronics all trace roots to the space program. The race also had a dark side — both nations developed military space programs that placed surveillance satellites in orbit, and the intercontinental ballistic missiles powering the space race were the primary delivery vehicles for nuclear weapons that threatened global destruction.\n\nThe race effectively ended with the 1975 Apollo-Soyuz mission, in which American and Soviet astronauts docked in orbit and shook hands — a symbolic act of detente following a decade of competition. Both nations subsequently shifted toward space stations and the Space Shuttle program. The Space Race's legacy endures in the infrastructure of modern space exploration and in the cultural memory of a generation for whom the Moon landing represented proof of the seemingly limitless possibilities of human ambition and ingenuity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Space_Race",
+    "read_more_links": [
+        {
+            "title": "Space Race – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/space-race"
+        },
+        {
+            "title": "NASA History – NASA Official Website",
+            "url": "https://www.nasa.gov/history"
+        },
+        {
+            "title": "Apollo Program – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Apollo_program"
+        },
+        {
+            "title": "Sputnik and the Dawn of the Space Age – NASA",
+            "url": "https://history.nasa.gov/sputnik/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Buzz_Aldrin_and_Apollo_11_Lunar_Lander%2C_AS11-40-5927.jpg/300px-Buzz_Aldrin_and_Apollo_11_Lunar_Lander%2C_AS11-40-5927.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Buzz_Aldrin_and_Apollo_11_Lunar_Lander%2C_AS11-40-5927.jpg",
+            "caption": "Buzz Aldrin removing the passive seismometer from a compartment in the SEQ ba...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/300px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+            "caption": "Apollo 11 Hasselblad image from film magazine 40/S - EVA. The image of astron...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Apollo_1_fire.jpg/300px-Apollo_1_fire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Apollo_1_fire.jpg",
+            "caption": "Officially designated Apollo/Saturn 204, but more commonly known as Apollo 1,...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Atlantis_docked_to_MIR_-_GPN-2000-001315.jpg/300px-Atlantis_docked_to_MIR_-_GPN-2000-001315.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Atlantis_docked_to_MIR_-_GPN-2000-001315.jpg",
+            "caption": "This view of the Space Shuttle Atlantis still connected to Russia's Mir Space...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Buzz Aldrin",
+            "summary": "American astronaut (born 1930)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/250px-Buzz_Aldrin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Buzz_Aldrin"
+        },
+        {
+            "name": "John F. Kennedy",
+            "summary": "President of the United States from 1961 to 1963",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/250px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+        },
+        {
+            "name": "Robert H. Goddard",
+            "summary": "American physicist and inventor (1882–1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg/250px-Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_H._Goddard"
+        },
+        {
+            "name": "Mikhail Tikhonravov",
+            "summary": "Soviet rocket scientist (1900–1974)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mikhail_Tikhonravov.jpg/250px-Mikhail_Tikhonravov.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mikhail_Tikhonravov"
+        },
+        {
+            "name": "Konstantin Tsiolkovsky",
+            "summary": "Russian scientist (1857–1935)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg/250px-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Konstantin_Tsiolkovsky"
+        },
+        {
+            "name": "Collier's",
+            "summary": "Former American general interest magazine",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Collier%27s-Remington-3-18-05.jpg/250px-Collier%27s-Remington-3-18-05.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Collier%27s"
+        }
+    ],
+    "territory_geojson": null
+}

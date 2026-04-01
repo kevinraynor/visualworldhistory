@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2134,
+    "parent_id": 2133,
+    "granularity": "notable",
+    "content_hash": "sha256:fbdad3814af4c53664771a59528954b1b76d9b8462c078d1decac59a4c06abdf",
+    "summary": "The founding of Baghdad (762 AD) by Abbasid Caliph al-Mansur created the city that would become the greatest metropolis of the medieval world — a purpose-built imperial capital on the Tigris River in Mesopotamia (near ancient Ctesiphon) that within a century had grown to a population of perhaps 1 million, making it the largest city on Earth. Al-Mansur commissioned a perfectly circular city (the Round City of Baghdad, Madinat al-Salam — City of Peace) with the palace and mosque at its center and concentric rings of markets and residences radiating outward, embodying an Islamic cosmological ideal of the ruler at the center of the world.\n\nThe original Round City was quickly outgrown as Baghdad expanded in all directions, becoming a vast, sprawling metropolis of multiple districts connected by the Tigris River. Under Harun al-Rashid (the caliph of the One Thousand and One Nights), Baghdad reached its peak as the [[event:2135|Islamic Golden Age's]] intellectual capital — hosting the [[event:2136|House of Wisdom]], the world's greatest library and translation center, and attracting scholars, merchants, and diplomats from across Eurasia. The contemporary Byzantine and Carolingian empires' capitals were provincial towns by comparison. Baghdad's wealth enabled patronage of scholarship, architecture, luxury manufacture, and entertainment on an extraordinary scale. The city was devastated by Mongol forces in 1258, killing an estimated 100,000–800,000 inhabitants, and never fully recovered its former preeminence.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baghdad",
+    "read_more_links": [
+        {
+            "title": "Round City al-Mansur design",
+            "url": "https://en.wikipedia.org/wiki/Baghdad#Round_City"
+        },
+        {
+            "title": "Baghdad medieval population largest",
+            "url": "https://en.wikipedia.org/wiki/Baghdad#Baghdad_as_global_capital"
+        },
+        {
+            "title": "One Thousand and One Nights Baghdad",
+            "url": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fall_Of_Baghdad_%28Diez_Albums%29.jpg/300px-Fall_Of_Baghdad_%28Diez_Albums%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Fall_Of_Baghdad_%28Diez_Albums%29.jpg",
+            "caption": "Fall Of Baghdad (Diez Albums).\nDetail: a leading official's failed attempt to...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bab_al-Wastani_northern_gate.jpg/300px-Bab_al-Wastani_northern_gate.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bab_al-Wastani_northern_gate.jpg",
+            "caption": "This is a photo of a monument in Iraq identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Al-_Saray_Mosque_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D9%8A.jpg/300px-Al-_Saray_Mosque_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D9%8A.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Al-_Saray_Mosque_%D8%AC%D8%A7%D9%85%D8%B9_%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D9%8A.jpg",
+            "caption": "Al-Saray Mosque, Baghdad. One of the heritage mosques in Baghdad was built in...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Al-Mustansriah_School_-_NW_Door_2.jpg/300px-Al-Mustansriah_School_-_NW_Door_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Al-Mustansriah_School_-_NW_Door_2.jpg",
+            "caption": "This is a photo of a monument in Iraq identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Republican Palace, Baghdad",
+            "summary": "Residence of the prime minister of Iraq",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Republican_Palace%2C_Baghdad%2C_Iraq.jpg/250px-Republican_Palace%2C_Baghdad%2C_Iraq.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Republican_Palace%2C_Baghdad"
+        },
+        {
+            "name": "Baghdad Governorate",
+            "summary": "Governorate of Iraq",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amwaj_Towers_Baghdad-2025.png/250px-Amwaj_Towers_Baghdad-2025.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baghdad_Governorate"
+        },
+        {
+            "name": "Al-Mansur",
+            "summary": "2nd Abbasid caliph (r. 754–775)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abb%C4%81sid_Caliph_al-Man%E1%B9%A3%C5%ABr_from_the_genealogy_%28silsilan%C4%81ma%29%2C_Cream_of_Histories_%28Z%C3%BCbdet-%C3%BCt_Tevarih%2C_1598%29.jpg/250px-Abb%C4%81sid_Caliph_al-Man%E1%B9%A3%C5%ABr_from_the_genealogy_%28silsilan%C4%81ma%29%2C_Cream_of_Histories_%28Z%C3%BCbdet-%C3%BCt_Tevarih%2C_1598%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Mansur"
+        },
+        {
+            "name": "Abbasid Caliphate",
+            "summary": "Third Islamic caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/250px-Abbasid_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+        },
+        {
+            "name": "Marduk-apla-iddina I",
+            "summary": "King of Babylon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kudurru_Louvre_Sb31.jpg/250px-Kudurru_Louvre_Sb31.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marduk-apla-iddina_I"
+        },
+        {
+            "name": "Sargon of Akkad",
+            "summary": "Founder of Akkadian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg/250px-Sargon_of_Akkad_on_his_victory_stele.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
+        }
+    ],
+    "territory_geojson": null
+}

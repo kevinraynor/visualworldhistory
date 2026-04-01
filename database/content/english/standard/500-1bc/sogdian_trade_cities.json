@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1175,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:38839ae88fbb08c38b58d050d14cb82af40c1dfc2eb41da7f408679ad170454f",
+    "summary": "The Sogdian Trade Cities (c. 300–100 BC) of Central Asia (modern Uzbekistan and Tajikistan) were the commercial centers — including Samarkand, Bukhara, and Maracanda — from which the Sogdian merchant people would eventually dominate the overland [[event:1129|Silk Road]] trade, serving as the crucial intermediaries between the Chinese, Persian, Indian, and Mediterranean worlds.\n\nSogdia, the region between the Amu Darya and Syr Darya rivers, was a prosperous agricultural and commercial zone that had been part of the Achaemenid Empire and then absorbed by [[event:75|Alexander the Great's Empire]]'s conquests (Samarkand/Maracanda was the city where Alexander killed his general Cleitus in a drunken quarrel). Under the subsequent [[event:1041|Seleucid Empire]] and then its successor states, Sogdian merchants developed the commercial networks and multilingual skills that would make them the premier traders of Central Asia for a millennium. Sogdian merchants are documented in Chinese sources from the 3rd century AD onward, but their commercial activities almost certainly began earlier; their merchant letters found at a watchtower in China (dated c. 313 AD) provide a window into a sophisticated trading diaspora connecting China to Persia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sogdia",
+    "read_more_links": [
+        {
+            "title": "Sogdian merchants",
+            "url": "https://en.wikipedia.org/wiki/Sogdian_merchants"
+        },
+        {
+            "title": "Ancient Sogdian letters",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Sogdian_Letters"
+        },
+        {
+            "title": "Samarkand history",
+            "url": "https://en.wikipedia.org/wiki/Samarkand#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Necklace_Sarazm_NMAT_SZM5-190_1147-365_%28cleanup%29.jpg/300px-Necklace_Sarazm_NMAT_SZM5-190_1147-365_%28cleanup%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Necklace_Sarazm_NMAT_SZM5-190_1147-365_%28cleanup%29.jpg",
+            "caption": "Necklace Sarazm NMAT SZM5-190 1147-365 (cleanup)",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Northern_Zhou_Dynasty_Tomb_of_Shijun_%28roof_reconstructed%29.jpg/300px-Northern_Zhou_Dynasty_Tomb_of_Shijun_%28roof_reconstructed%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Northern_Zhou_Dynasty_Tomb_of_Shijun_%28roof_reconstructed%29.jpg",
+            "caption": "Northern Zhou Dynasty Tomb of Shijun (roof reconstructed)",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tang_Sancai_Porcelain_with_Musicians_on_a_Camel_%28no_background%29.jpg/300px-Tang_Sancai_Porcelain_with_Musicians_on_a_Camel_%28no_background%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tang_Sancai_Porcelain_with_Musicians_on_a_Camel_%28no_background%29.jpg",
+            "caption": "Tang Sancai Porcelain with Musicians on a Camel (no background)",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lions%2C_soie_polychrome_sogdienne%2C_Asie_centrale.jpg/300px-Lions%2C_soie_polychrome_sogdienne%2C_Asie_centrale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lions%2C_soie_polychrome_sogdienne%2C_Asie_centrale.jpg",
+            "caption": "Lions, Sogdian polychrome silk, Central Asia. Probably from Bukhara, Uzbekist...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Darius the Great",
+            "summary": "Persian ruler from 522 to 486 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Darius_I.jpg/250px-Darius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_the_Great"
+        },
+        {
+            "name": "Cyrus the Great",
+            "summary": "Founder of the Achaemenid Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/250px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        }
+    ],
+    "territory_geojson": null
+}

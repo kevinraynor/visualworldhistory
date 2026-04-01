@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3718,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:92fd7083d552622f8602516fec052b8fc3d5d6ad245d3fde7967078e915f5de8",
+    "summary": "The Butmir culture, centered on the site of Butmir near Sarajevo in present-day Bosnia-Herzegovina, flourished from approximately 5100 to 4500 BC and is best known for its extraordinarily elaborate decorated pottery. Butmir ceramics feature intricate spiral, meander, and curvilinear designs rendered with fine incised lines and produced to a standard that astonished the European archaeologists who first excavated the site in the 1890s. The culture occupied a well-watered valley in central Bosnia and practiced mixed farming with cattle, sheep, and cultivated cereals.\n\nButmir's geographic position in the western Balkans placed it at the intersection of several Neolithic cultural traditions — the Vinca culture to the east, the Danilo and Hvar cultures of the Adriatic coast, and the broader Central European Neolithic. This intersection is reflected in its material culture, which combines features from multiple traditions. The quality and aesthetic sophistication of Butmir pottery place it among the finest ceramic achievements of Neolithic Europe, and the site remains a landmark for understanding the regional diversity of Balkan Neolithic cultures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Butmir_culture",
+    "read_more_links": [
+        {
+            "title": "Neolithic Balkans - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Balkans"
+        },
+        {
+            "title": "Vinca culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Vin%C4%8Da_culture"
+        },
+        {
+            "title": "Prehistoric Bosnia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_Bosnia_and_Herzegovina"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Plate_LXV.jpg/300px-Plate_LXV.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Plate_LXV.jpg",
+            "caption": "[A.—Members of Congress inspecting the Excavations at Butmir, 16th August 189...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Plate_LXVII.jpg/300px-Plate_LXVII.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Plate_LXVII.jpg",
+            "caption": "Idols of Butmir. \n[To face p. 460.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Plate_LXVIII-.jpg/300px-Plate_LXVIII-.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Plate_LXVIII-.jpg",
+            "caption": "Pottery from Butmir, with spiral and other ornamentation. \n[To face p. 462.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Okoliste._Neolithic_settlement_5200_BC._Bosnia_and_Herzegovina_%28cropped%29.jpg/300px-Okoliste._Neolithic_settlement_5200_BC._Bosnia_and_Herzegovina_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Okoliste._Neolithic_settlement_5200_BC._Bosnia_and_Herzegovina_%28cropped%29.jpg",
+            "caption": "Okoliste 5200 BC.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

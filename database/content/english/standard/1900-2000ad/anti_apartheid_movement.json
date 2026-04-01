@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3653,
+    "parent_id": 2684,
+    "granularity": "detailed",
+    "content_hash": "sha256:13c966a5aba9c5c10f456b275ddafe61e834bf2be1dc144ea9620417e03f62f2",
+    "summary": "The international anti-apartheid movement was a broad coalition of governments, civil society organizations, trade unions, student groups, and solidarity networks that organized sustained pressure against South Africa's racial segregation system from the 1960s through the early 1990s. The movement pursued multiple strategies: diplomatic isolation, economic sanctions and divestment campaigns, cultural and sports boycotts, and support for the African National Congress and other liberation movements.\n\nA global sports boycott excluded South Africa from the Olympics and most international competitions from 1964 onward, giving the isolation concrete everyday visibility. Consumer campaigns in Western countries pressured companies to withdraw investments from South Africa, with the divestment movement gaining particular momentum on American university campuses in the 1980s. Comprehensive economic sanctions were imposed by many Western countries after the declaration of a state of emergency in 1985–1986, over the opposition of the Reagan and Thatcher governments. The cumulative economic and diplomatic pressure contributed significantly to the internal negotiations that led to the unbanning of the ANC and the [[event:2685|release of Nelson Mandela]] in 1990 and the subsequent [[event:2772|first democratic elections]] in 1994.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anti-Apartheid_Movement",
+    "read_more_links": [
+        {
+            "title": "South African divestment campaigns",
+            "url": "https://en.wikipedia.org/wiki/South_African_divestment_campaigns"
+        },
+        {
+            "title": "International sports boycott of South Africa",
+            "url": "https://en.wikipedia.org/wiki/International_sports_boycott_of_apartheid_South_Africa"
+        },
+        {
+            "title": "Comprehensive Anti-Apartheid Act",
+            "url": "https://en.wikipedia.org/wiki/Comprehensive_Anti-Apartheid_Act"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anti-apartheidsdemonstratie_in_Amsterdam_de_kop_van_de_demonstratie%2C_Bestanddeelnr_934-2645.jpg/300px-Anti-apartheidsdemonstratie_in_Amsterdam_de_kop_van_de_demonstratie%2C_Bestanddeelnr_934-2645.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Anti-apartheidsdemonstratie_in_Amsterdam_de_kop_van_de_demonstratie%2C_Bestanddeelnr_934-2645.jpg",
+            "caption": "Collectie / Archief : Fotocollectie Anefo\nReportage / Serie : [ onbekend ]\nBe...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Demonstration_against_Apartheid%2C_Hull_Students%27_Union%2C_1978.png/300px-Demonstration_against_Apartheid%2C_Hull_Students%27_Union%2C_1978.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Demonstration_against_Apartheid%2C_Hull_Students%27_Union%2C_1978.png",
+            "caption": "Demonstration against Apartheid in the Hull University Students' Union, 1978....",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Durban_Sign_1989_%283x4_cropped%29.jpg/300px-Durban_Sign_1989_%283x4_cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Durban_Sign_1989_%283x4_cropped%29.jpg",
+            "caption": "Sign in Durban that states the beach is for whites only under section 37 of t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Albert Luthuli",
+            "summary": "South African politician (c. 1898–1967)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Albert_Lutuli_Anefo.jpg/250px-Albert_Lutuli_Anefo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Luthuli"
+        },
+        {
+            "name": "Nelson Mandela",
+            "summary": "President of South Africa from 1994 to 1999",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/250px-Nelson_Mandela_1994.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+        },
+        {
+            "name": "Abdul Minty",
+            "summary": "South African diplomat",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Abdul_Samad_Minty_%2801612940%29_%2849776375791%29.jpg/250px-Abdul_Samad_Minty_%2801612940%29_%2849776375791%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abdul_Minty"
+        },
+        {
+            "name": "Julius Nyerere",
+            "summary": "President of Tanzania from 1964 to 1985",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/President_Nyerere_1975.png/250px-President_Nyerere_1975.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Nyerere"
+        },
+        {
+            "name": "Hugh Gaitskell",
+            "summary": "British politician (1906–1963)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hugh_Gaitskell_MP.PNG/250px-Hugh_Gaitskell_MP.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_Gaitskell"
+        },
+        {
+            "name": "University of Hull",
+            "summary": "University in Kingston upon Hull, East Riding of Yorkshire, England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/University_of_Hull_arms.svg/250px-University_of_Hull_arms.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Hull"
+        }
+    ],
+    "territory_geojson": null
+}

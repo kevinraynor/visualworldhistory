@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1761,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:60a86a885451e15c2ab208c4f8d8ce959a1f0cc72999442868af0bac14c8387d",
+    "summary": "The Únětice culture, with its origins approximately 2300–2000 BC in Bohemia (modern Czech Republic) and neighbouring regions of central Europe, represents one of the earliest and most significant Bronze Age cultures of central Europe. It emerged at the transition from the Chalcolithic to the Bronze Age proper, as tin bronze — an alloy harder and more durable than pure copper — became the dominant material for tools and weapons. The Únětice culture is named after a burial site near Prague and is characterised by rich warrior burials, extensive bronze-working, and long-distance trade networks.\n\nÚnětice metalworkers produced a range of characteristic bronze objects including flat axes, daggers, pins, bracelets, and torcs. They traded these objects across a broad area of Europe, establishing commercial connections with the Baltic amber trade to the north, the Mediterranean world to the south, and the tin sources of Brittany and Cornwall to the west. This positioning within long-distance trade networks contributed to the accumulation of wealth visible in Únětice elite burials, some of which contain gold objects and prestige goods from distant sources.\n\nThe Únětice culture developed in subsequent centuries into the Early Bronze Age cultures of central Europe that produced the famous Nebra sky disk (the world's oldest known depiction of the night sky) and other remarkable artefacts. Its origins in this era represent the beginning of a central European Bronze Age tradition that would contribute significantly to later European Iron Age and Celtic cultures. The culture's early phase demonstrates how the spread of bronze metallurgy fundamentally transformed social organisation and long-distance exchange across prehistoric Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%9An%C4%9Btice_culture",
+    "read_more_links": [
+        {
+            "title": "Nebra sky disk",
+            "url": "https://en.wikipedia.org/wiki/Nebra_sky_disk"
+        },
+        {
+            "title": "European Bronze Age",
+            "url": "https://en.wikipedia.org/wiki/European_Bronze_Age"
+        },
+        {
+            "title": "Bronze Age metallurgy",
+            "url": "https://en.wikipedia.org/wiki/Bronze_Age"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pommelte_Ring1.png/300px-Pommelte_Ring1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pommelte_Ring1.png",
+            "caption": "Ringheiligtum Pömmelte, Sachsen-Anhalt",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Early_Bronze_Age_daggers%2C_Czech_Republic.jpg/300px-Early_Bronze_Age_daggers%2C_Czech_Republic.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Early_Bronze_Age_daggers%2C_Czech_Republic.jpg",
+            "caption": "Early Bronze Age daggers, Czech Republic",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bronze_Age_Europe_Axe_%2828138324124%29.jpg/300px-Bronze_Age_Europe_Axe_%2828138324124%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bronze_Age_Europe_Axe_%2828138324124%29.jpg",
+            "caption": "Bronze Age Europe Gallery, Neues Museum, Berlin, Germany. Complete indexed ph...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nebra_disc_1.jpg/300px-Nebra_disc_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nebra_disc_1.jpg",
+            "caption": "Nebra Sky Disk",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hans Seger",
+            "summary": "German prehistorian (1864–1943)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BildHansSeger.jpg/250px-BildHansSeger.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Seger"
+        }
+    ],
+    "territory_geojson": null
+}

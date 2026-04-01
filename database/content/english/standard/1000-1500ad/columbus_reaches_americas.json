@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2288,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:e595b779ce12a821000b4ba70fbc5078632db3259dc9f5bc75f1e675aa593e07",
+    "summary": "Christopher Columbus's arrival in the Caribbean (October 12, 1492 AD) was the event that permanently connected the Eastern and Western hemispheres after over ten millennia of separate development, initiating the Columbian Exchange and the processes of European colonization, indigenous population collapse, and Atlantic slave trade that defined the early modern world. Columbus, a Genoese navigator funded by the Spanish monarchs Ferdinand and Isabella, sailed westward from the Canary Islands with three ships and 90 men, making landfall in the Bahamas after 36 days — believing he had reached the outlying islands of Asia described in [[event:2230|Marco Polo's]] travels.\n\nColumbus made four voyages (1492–1504), establishing the first permanent European contact with the Caribbean and the mainland Americas, though he died in 1506 still insisting he had reached Asia. The realization that these were previously unknown continents — a 'New World' — came through the observations of Amerigo Vespucci, after whom the continents were named. The consequences of 1492 were world-historical and deeply ambivalent. For Europe, it opened access to the enormous resources of two continents and initiated the [[event:101|Spanish colonial empire]] that flooded Europe with American silver and transformed global commerce. For the indigenous peoples of the Americas, it initiated a catastrophic population collapse: smallpox and other Old World diseases to which native Americans had no immunity killed an estimated 50–90% of the hemisphere's population within a century — the most devastating demographic disaster in human history. The Columbian Exchange also transformed world agriculture: American crops (maize, potatoes, tomatoes, chili peppers) eventually fed billions of people in Europe, Africa, and Asia, permanently altering diets and enabling population growth on those continents.\n\nOctober 12 is celebrated as Columbus Day in the United States and Día de la Raza in Latin America, though the holiday's meaning is fiercely contested given the ensuing devastation of indigenous peoples.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+    "read_more_links": [
+        {
+            "title": "Columbus 1492 Caribbean landfall voyage",
+            "url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        },
+        {
+            "title": "Columbian Exchange disease crops global impact",
+            "url": "https://en.wikipedia.org/wiki/Columbian_exchange"
+        },
+        {
+            "title": "Indigenous population collapse Americas disease",
+            "url": "https://en.wikipedia.org/wiki/Population_history_of_Indigenous_peoples_of_the_Americas"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Columbus_Murals_Bobadilla_Betrays_Columbus.jpg/300px-Columbus_Murals_Bobadilla_Betrays_Columbus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Columbus_Murals_Bobadilla_Betrays_Columbus.jpg",
+            "caption": "July 13, 2020; Columbus Murals: Bobadilla Betrays Columbus (Photo by Matt Cas...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ColombusMap.jpg/300px-ColombusMap.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/ColombusMap.jpg",
+            "caption": "Christopher Colombus map. Lisbon, workshop of Bartolomeo and Christopher Colo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ColumbusFirstVoyageGuide.png/300px-ColumbusFirstVoyageGuide.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/ColumbusFirstVoyageGuide.png",
+            "caption": "Detailed guide to the First Voyage of Christopher Columbus, assuming Plana Ca...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ni%C3%B1a_replica_-_Morro_Bay_CA.jpg/300px-Ni%C3%B1a_replica_-_Morro_Bay_CA.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ni%C3%B1a_replica_-_Morro_Bay_CA.jpg",
+            "caption": "Niña in Morro Bay, California. The sailing ship built in 1991 is a replica of...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        },
+        {
+            "name": "Marco Polo",
+            "summary": "Venetian merchant, explorer, and writer (1254–1324)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Marco_Polo_-_costume_tartare.jpg/250px-Marco_Polo_-_costume_tartare.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Polo"
+        },
+        {
+            "name": "Conquistador",
+            "summary": "Spanish and Portuguese conquerors of the Age of Discovery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg/250px-Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conquistador"
+        },
+        {
+            "name": "Amerigo Vespucci",
+            "summary": "Italian explorer and navigator (1454–1512)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amerigo_Vespucci_%28with_turban%29_-_cropped.jpg/250px-Amerigo_Vespucci_%28with_turban%29_-_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amerigo_Vespucci"
+        },
+        {
+            "name": "Isabella I of Castile",
+            "summary": "Queen of Castile and León from 1474 to 1504",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IsabellaofCastile03.jpg/250px-IsabellaofCastile03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+        },
+        {
+            "name": "Ferdinand II of Aragon",
+            "summary": "King of Aragon from 1479 to 1516",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Michel_Sittow_004.jpg/250px-Michel_Sittow_004.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon"
+        }
+    ],
+    "territory_geojson": null
+}

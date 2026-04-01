@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2940,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3c9fae800b173ddcaeaf20af5d440cf6eea9a345e0d64ff5d4f6ed0510a00339",
+    "summary": "The invention of gunpowder in Tang Dynasty China (c. 850 AD) was one of the most consequential chemical discoveries in human history, arising — with characteristic historical irony — from Taoist alchemists searching for an elixir of immortality rather than a weapon of war. The earliest known written formula appears in a Taoist alchemical text from around 850 AD that explicitly warns readers against mixing charcoal, sulfur, and saltpeter (potassium nitrate) because the mixture ignites violently — a warning that inadvertently documented one of history's most transformative discoveries.\n\nThe military applications of gunpowder were developed rapidly by Tang and then Song Dynasty military engineers. The earliest weapons used gunpowder's incendiary rather than explosive properties: fire arrows, incendiary bombs thrown by catapult, and fire lances (a bamboo tube packed with gunpowder and co-reactants that produced a blast of fire and projectiles). By the 10th century, Song military engineers had developed bombs, grenades, and early rockets; by the 13th century, metal-barreled guns and cannon. Gunpowder technology spread westward along Silk Road trade and military routes, reaching the Islamic world by the 13th century and Europe shortly after — where it would eventually render medieval fortifications and armored cavalry obsolete, fundamentally transforming European warfare, social hierarchy, and political organization. The [[event:2160|application of gunpowder]] to weapons represents one of the clearest examples of a Chinese invention reshaping the entire world centuries after its discovery.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gunpowder",
+    "read_more_links": [
+        {
+            "title": "Gunpowder history Chinese invention formula",
+            "url": "https://en.wikipedia.org/wiki/Gunpowder#History"
+        },
+        {
+            "title": "Fire lance early gunpowder weapon China",
+            "url": "https://en.wikipedia.org/wiki/Fire_lance"
+        },
+        {
+            "title": "Gunpowder spread Islamic world Europe",
+            "url": "https://en.wikipedia.org/wiki/Gunpowder#Transmission_to_the_Islamic_world"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/De_la_pirotechnia_1540_Title_Page_AQ1_%281%29.jpg/300px-De_la_pirotechnia_1540_Title_Page_AQ1_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/De_la_pirotechnia_1540_Title_Page_AQ1_%281%29.jpg",
+            "caption": "Title page from De la pirotechnia : libri .x. dove ampiamente si tratta non s...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%E3%81%A6%E3%81%A4%E3%81%AF%E3%81%86%EF%BC%88%E9%9C%87%E5%A4%A9%E9%9B%B7%EF%BC%89.JPG/300px-%E3%81%A6%E3%81%A4%E3%81%AF%E3%81%86%EF%BC%88%E9%9C%87%E5%A4%A9%E9%9B%B7%EF%BC%89.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/%E3%81%A6%E3%81%A4%E3%81%AF%E3%81%86%EF%BC%88%E9%9C%87%E5%A4%A9%E9%9B%B7%EF%BC%89.JPG",
+            "caption": "Ceramic grenades \"tetsuhau\" found in a Mongolian shipwreck sunk off the Japan...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madrid_canons_indiens.png/300px-Madrid_canons_indiens.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Madrid_canons_indiens.png",
+            "caption": "An East Indies (precisely Javanese) cannon, ca. 1522, from the gallery of anc...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Irvinepowderhouse2.JPG/300px-Irvinepowderhouse2.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Irvinepowderhouse2.JPG",
+            "caption": "The Old 1642 Powder or Pouther Magazine at Irvine, North Ayrshire, Scotland. ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zeng Gongliang",
+            "summary": "Chinese politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Zeng_Gongliang.jpg/250px-Zeng_Gongliang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeng_Gongliang"
+        }
+    ],
+    "territory_geojson": null
+}

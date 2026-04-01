@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1380,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:74f823b846bf5a26d2a2002f71d364e5d67827d27d46acae728751d4181a8fd9",
+    "summary": "The Lapita culture — the archaeological tradition associated with the ancestors of Polynesian and other Remote Oceanian peoples — dates to approximately 1600–800 BCE in island Melanesia, far later than the period of this era. However, the populations that would eventually give rise to the Lapita cultural tradition had their deep roots in the hunter-gatherer communities of island Southeast Asia and the New Guinea region, active in the period 10,000–8,000 BCE as the [[event:1318|Sundaland]] landmass was being flooded by rising sea levels.\n\nThe immediate ancestors of Lapita culture in the period 10,000–8,000 BCE were forager and early horticulturalist communities occupying the island chains of Near Oceania — the Bismarck Archipelago, the Solomon Islands, and adjacent areas. These island-adapted peoples developed sophisticated maritime skills, exchanged goods over long distances between islands, and began the management of plants including [[event:1300|taro]], bananas, and yams that would eventually provide the agricultural foundation for Pacific colonization. The early Holocene populations of island Melanesia are the ancestral cultural foundation from which the sophisticated seafaring Lapita expansion of the second millennium BCE would later emerge, representing thousands of years of island adaptation and maritime skill-building in the southwestern Pacific.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lapita_culture",
+    "read_more_links": [
+        {
+            "title": "Melanesian Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Melanesia#History"
+        },
+        {
+            "title": "Pacific Islander Origins - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polynesian_people#Origins"
+        },
+        {
+            "title": "Island Southeast Asia Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Southeast_Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Boracay_paraw_sailboats_015.jpg/300px-Boracay_paraw_sailboats_015.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Boracay_paraw_sailboats_015.jpg",
+            "caption": "Boracay paraw sailboats",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Ethnology%2C_Osaka_-_Reconstructed_Lapita_female.jpg/300px-National_Museum_of_Ethnology%2C_Osaka_-_Reconstructed_Lapita_female.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/National_Museum_of_Ethnology%2C_Osaka_-_Reconstructed_Lapita_female.jpg",
+            "caption": "National Museum of Ethnology (Osaka) Revue of Rapita human bones",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/PortVilaLapita.jpg/300px-PortVilaLapita.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/PortVilaLapita.jpg",
+            "caption": "Lapita pottery, Vanuatu Cultural Centre, Port Vila, Vanuatu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Yami_ipanitika.jpg/300px-Yami_ipanitika.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Yami_ipanitika.jpg",
+            "caption": "Yami (or Tao) balangays in the Formosan Aboriginal Culture Village, Taiwan",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

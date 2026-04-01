@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1214,
+    "parent_id": 79,
+    "granularity": "detailed",
+    "content_hash": "sha256:09a3001fbac4d64d714d925287a95e95f49a8b1b951397842d2472c8f932e103",
+    "summary": "The Spread of Theravada Buddhism (c. 300–100 BC) was the transmission of the conservative Buddhist school — emphasizing the original Pali canon, monastic discipline, and the path of individual liberation — from India into Sri Lanka and mainland Southeast Asia, where it established the religious foundation that still characterizes much of South and Southeast Asian civilization today.\n\nTheravada ('Teaching of the Elders') distinguished itself from Mahayana and other schools by strict adherence to the Pali canon established at the [[event:1213|Third Buddhist Council]] and an emphasis on the monastic path. The mission of Mahinda (son of [[event:1098|Ashoka the Great]]) to Sri Lanka around 247 BC established what would become the most important Theravada heartland outside India: Sri Lanka preserved the Pali canon when it was being lost in India and served as the source from which Theravada Buddhism spread to Burma, Thailand, Cambodia, and Laos. The transmission to these Southeast Asian countries occurred primarily between the 3rd and 13th centuries AD, making Theravada the dominant form of Buddhism in most of mainland Southeast Asia and creating distinctive cultures that combined Indian Buddhist influences with indigenous traditions — the living Theravada traditions of Thailand, Myanmar, Laos, Cambodia, and Sri Lanka trace directly to these early foundations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Theravada",
+    "read_more_links": [
+        {
+            "title": "Buddhism in Sri Lanka",
+            "url": "https://en.wikipedia.org/wiki/Buddhism_in_Sri_Lanka"
+        },
+        {
+            "title": "Pali language",
+            "url": "https://en.wikipedia.org/wiki/Pali"
+        },
+        {
+            "title": "Theravada in Southeast Asia",
+            "url": "https://en.wikipedia.org/wiki/Theravada#Southeast_Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pali_Canon_Structure.png/300px-Pali_Canon_Structure.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pali_Canon_Structure.png",
+            "caption": "Tree structure of the Pali Canon, the Tipiṭaka of Theravāda Buddhism.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Thuparamaya_Stupa_and_Stone_Pillars.jpg/300px-Thuparamaya_Stupa_and_Stone_Pillars.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Thuparamaya_Stupa_and_Stone_Pillars.jpg",
+            "caption": "The stone pillars around the stupa was the structural support for a dome that...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Moggallana%CC%9E-statue.jpg/300px-Moggallana%CC%9E-statue.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Moggallana%CC%9E-statue.jpg",
+            "caption": "Maha-moggallana",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ruwanweli_Saya_1.jpg/300px-Ruwanweli_Saya_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ruwanweli_Saya_1.jpg",
+            "caption": "The Ruwanweli Saya dagoba in Anuradhapura",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "The Buddha",
+            "summary": "Founder of Buddhism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/250px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/The_Buddha"
+        },
+        {
+            "name": "Richard Gombrich",
+            "summary": "British Indologist (born 1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Richard_Gombrich_a_pordenonelegge.jpg/250px-Richard_Gombrich_a_pordenonelegge.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Gombrich"
+        },
+        {
+            "name": "Devanampiya Tissa",
+            "summary": "King of Anuradhapura from 307 BC to 267 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/King_Devanampiya_Tissa.jpg/250px-King_Devanampiya_Tissa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Devanampiya_Tissa"
+        },
+        {
+            "name": "Moggaliputta-Tissa",
+            "summary": "Indian Buddhist monk and scholar (c. 327–247 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nava_Jetavana_Temple_-_Shravasti_-_014_King_Asoka_at_the_Third_Council_%289241725897%29.jpg/250px-Nava_Jetavana_Temple_-_Shravasti_-_014_King_Asoka_at_the_Third_Council_%289241725897%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Moggaliputta-Tissa"
+        },
+        {
+            "name": "Ashoka",
+            "summary": "Mauryan emperor from 269 to 232 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/250px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "name": "Mahinda (Buddhist monk)",
+            "summary": "Indian Buddhist monk and son of the Mauryan emperor Ashoka",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arhat_Mahinda_Thera_%28Son_of_Emperor_Ashoka%29.jpg/250px-Arhat_Mahinda_Thera_%28Son_of_Emperor_Ashoka%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahinda_%28Buddhist_monk%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 74,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:340f2342b169f87e52bd23714554c244407b2495567432f7f35ffddbdb102cd4",
+    "summary": "The Maurya Empire (322–185 BC) was the first pan-Indian empire, unifying for the first time most of the Indian subcontinent under a single political authority, stretching from Afghanistan in the west to Bengal in the east and from the Himalayan foothills to the Deccan plateau. Founded by [[event:1097|Chandragupta Maurya]], it reached its greatest cultural and moral height under [[event:1098|Ashoka the Great]], who transformed from a conqueror to the ancient world's most famous advocate of nonviolence after the bloody [[event:1099|Kalinga War]].\n\nChandragupta established the empire partly in the vacuum left by the disruption of Alexander's campaigns in the northwest, working with his advisor Kautilya (author of the [[event:1108|Arthashastra of Kautilya]]) to build a sophisticated administrative state. The Mauryan administration was highly centralized for its era, with an efficient bureaucracy, a standardized system of weights and measures, a professional army, an extensive spy network, and royal roads connecting the empire's regions. The capital Pataliputra (modern Patna) was reportedly one of the ancient world's largest cities, impressing the Seleucid ambassador Megasthenes who documented it in his Indica.\n\nThe empire reached its greatest territorial extent under Bindusara (Chandragupta's son) and the early reign of Ashoka, but its most important legacy came from Ashoka's conversion to Buddhism after the [[event:1099|Kalinga War]]. His [[event:1100|Edicts of Ashoka]] — inscribed on rocks and pillars across the empire — proclaimed policies of religious tolerance, ethical governance, and welfare of people and animals. The [[event:1101|Spread of Buddhism under Ashoka]] was accelerated by Ashoka's missionaries and the model of a monarch governing by dharma (moral law) rather than mere force.\n\nThe [[event:1102|Decline of Maurya Empire]] began after Ashoka's death in 232 BC, as the empire fragmented under weaker successors. The last Mauryan emperor was killed by his general Pushyamitra Shunga, who founded the [[event:1103|Shunga Dynasty]]. Despite its relatively brief duration, the Maurya Empire's legacy was profound: it established the idea of pan-Indian unity, transmitted Buddhist civilization across Asia, and provided the administrative model that later Indian empires would attempt to emulate.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maurya_Empire",
+    "read_more_links": [
+        {
+            "title": "Chandragupta Maurya",
+            "url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        },
+        {
+            "title": "Ashoka",
+            "url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "title": "Kautilya – Arthashastra",
+            "url": "https://en.wikipedia.org/wiki/Arthashastra"
+        },
+        {
+            "title": "Pataliputra",
+            "url": "https://en.wikipedia.org/wiki/Pataliputra"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sarnath_capital.jpg/300px-Sarnath_capital.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sarnath_capital.jpg",
+            "caption": "Sarnath Lion Capital, Mauryan period, circa 250 BCE. The capital in 1905 at t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ashokan_Pillar_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4361.JPG/300px-Ashokan_Pillar_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4361.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ashokan_Pillar_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4361.JPG",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pataliputra_capital%2C_Bihar_Museum%2C_Patna%2C_3rd_century_BCE.jpg/300px-Pataliputra_capital%2C_Bihar_Museum%2C_Patna%2C_3rd_century_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Pataliputra_capital%2C_Bihar_Museum%2C_Patna%2C_3rd_century_BCE.jpg",
+            "caption": "Pataliputra capital, Bihar Museum, Patna, 3rd century BCE. See the descriptio...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/World_in_200_BCE.png/300px-World_in_200_BCE.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/World_in_200_BCE.png",
+            "caption": "World in 200 BCE",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Pushyamitra Shunga",
+            "summary": "Shunga Emperor from 185 to 149 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bharhut_Sunga_individual.jpg/250px-Bharhut_Sunga_individual.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pushyamitra_Shunga"
+        },
+        {
+            "name": "Ashoka",
+            "summary": "Mauryan emperor from 269 to 232 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/250px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "name": "Chandragupta Maurya",
+            "summary": "Founder of the Maurya Empire (340–295 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        },
+        {
+            "name": "Bindusara",
+            "summary": "Mauryan emperor from 297 to 273 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bindusara"
+        },
+        {
+            "name": "Dasharatha Maurya",
+            "summary": "Mauryan emperor from 232 to 224 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dasharatha_Maurya"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,90 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1835,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:f721bd8e4cb3b46927afb421708d10702a825dabdbb90d0c290363ffdd2b3dca",
+    "summary": "The Phoenician alphabet, developed in the Levantine city-states of the eastern Mediterranean coast around 1050 BC, is one of the most consequential inventions in human history. It consisted of twenty-two consonantal signs — an abjad — each representing a single sound, making it far simpler to learn than the hundreds of signs required by Egyptian hieroglyphics or Mesopotamian cuneiform. This simplicity allowed literacy to spread beyond the scribal elite to merchants, administrators, and ordinary people, fundamentally transforming how human societies recorded and transmitted information.\n\nThe Phoenician script descended from the earlier Proto-Sinaitic or Proto-Canaanite tradition, a family of alphabetic experiments attested in the Sinai Peninsula and Canaan from around 1800 BC onward. The [[event:1834|Ugaritic alphabet]] of the fourteenth century BC represented a closely related parallel development, but the Phoenician alphabet achieved far wider geographic diffusion owing to the maritime commercial reach of the [[event:58|Phoenician city-states]]. Phoenician merchants carried their script across the Mediterranean as they established trading colonies, leaving inscriptions from Cyprus and Greece to North Africa and Spain.\n\nThe Greek alphabet, derived directly from the Phoenician script around the ninth or eighth century BC, added vowel signs to produce the first fully phonemic alphabet in the modern sense. All subsequent European alphabetic traditions — Latin, Cyrillic, and their descendants — trace their ancestry to this Greek adaptation. Simultaneously, the Phoenician script gave rise to the Aramaic alphabet, which in turn became the ancestor of Hebrew square script, Arabic, and many South Asian and Southeast Asian scripts. The Phoenician alphabet is thus the common ancestor of virtually all alphabetic writing systems used in the world today.\n\nThe letters of the Phoenician alphabet were named after objects whose sounds they represented, a convention called acrophony: aleph (ox), beth (house), gimel (camel), and so on. These names passed into Greek as alpha, beta, gamma, giving us the very word alphabet. The archaeological and epigraphic record for the Phoenician script is rich, including the Ahiram sarcophagus inscription from Byblos, dated to around 1050 BC, which is among the earliest confirmed examples of the fully developed Phoenician alphabet in use.\n\nThe spread of alphabetic literacy had profound social consequences. It enabled the composition and transmission of literary, legal, and religious texts in forms accessible to a wider segment of society. The Hebrew Bible, composed and edited in the centuries following the emergence of the Phoenician alphabet, would have been impossible to transmit in its final written form without this technology. The democratization of writing that the Phoenician alphabet enabled ranks among the defining developments of ancient civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phoenician_alphabet",
+    "read_more_links": [
+        {
+            "title": "History of the Alphabet - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_alphabet"
+        },
+        {
+            "title": "Phoenician Alphabet - Britannica",
+            "url": "https://www.britannica.com/topic/Phoenician-alphabet"
+        },
+        {
+            "title": "Proto-Sinaitic Script",
+            "url": "https://en.wikipedia.org/wiki/Proto-Sinaitic_script"
+        },
+        {
+            "title": "Ahiram Sarcophagus",
+            "url": "https://en.wikipedia.org/wiki/Ahiram"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Barth%C3%A9l%C3%A9my_M%C3%A9dailles_ph%C3%A9niciennes.jpg/300px-Barth%C3%A9l%C3%A9my_M%C3%A9dailles_ph%C3%A9niciennes.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Barth%C3%A9l%C3%A9my_M%C3%A9dailles_ph%C3%A9niciennes.jpg",
+            "caption": "Barthélémy Médailles phéniciennes",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Barth%C3%A9l%C3%A9my_Alphabet_ph%C3%A9nicien.jpg/300px-Barth%C3%A9l%C3%A9my_Alphabet_ph%C3%A9nicien.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Barth%C3%A9l%C3%A9my_Alphabet_ph%C3%A9nicien.jpg",
+            "caption": "Barthélémy Alphabet phénicien",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Escrita_sudoeste_by_Henrique_Matos_004_02.jpg/300px-Escrita_sudoeste_by_Henrique_Matos_004_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Escrita_sudoeste_by_Henrique_Matos_004_02.jpg",
+            "caption": "Museum of Writing - Bronze Age - Almôdovar - Portugal",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Libyco-Berber_Dougga_aspiration.png/300px-Libyco-Berber_Dougga_aspiration.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Libyco-Berber_Dougga_aspiration.png",
+            "caption": "Drawing of the aspiration (\"aleph\") sign of the Libyco-Berber alphabet (when ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Stylus",
+            "summary": "Writing utensil or small tool for marking or shaping",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Table_with_was_and_stylus_Roman_times.jpg/250px-Table_with_was_and_stylus_Roman_times.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stylus"
+        },
+        {
+            "name": "Jean-Jacques Barthélemy",
+            "summary": "French writer and numismatist (1716–1795)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Jean-Jacques_Barth%C3%A9lemy_%281716-1795%29.jpg/250px-Jean-Jacques_Barth%C3%A9lemy_%281716-1795%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Jacques_Barth%C3%A9lemy"
+        },
+        {
+            "name": "Ahiram sarcophagus",
+            "summary": "Sarcophagus of Phoenician king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ahiram_sarcophag_from_Biblos_XIII-XBC.jpg/250px-Ahiram_sarcophag_from_Biblos_XIII-XBC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahiram_sarcophagus"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Cadmus",
+            "summary": "Greek mythology character, founder of Thebes",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kadmos_dragon_Louvre_N3157.jpg/250px-Kadmos_dragon_Louvre_N3157.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cadmus"
+        }
+    ],
+    "territory_geojson": null
+}

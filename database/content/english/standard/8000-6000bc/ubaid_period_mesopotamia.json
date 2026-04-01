@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 39,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:47bf8ae92d713e9c1a26872e10623c7a7e757a6f26e2dd253bca292f8d55f7dd",
+    "summary": "The Ubaid period of Mesopotamia, spanning approximately 6500 to 3800 BCE, represents one of the most important cultural phases in the development of early Mesopotamian civilization. Named after the site of Tell al-Ubaid near Ur in southern Iraq, the Ubaid period is characterized by a distinctive painted pottery tradition, the construction of monumental temple buildings, and an increasingly complex and integrated society that would eventually give rise to the world's first urban civilization in the subsequent Uruk period.\n\nDuring the early Ubaid period (c. 6500–5500 BCE), southern Mesopotamia was settled for the first time by farming communities who managed to make the dry alluvial plains productive through [[event:24|irrigation agriculture]]. The extraordinary agricultural productivity of this irrigated landscape — flat, fertile, and capable of yielding large grain surpluses — enabled population growth and the accumulation of resources that fueled social complexity. Ubaid communities built increasingly large temples on mud-brick platforms, suggesting the emergence of religious institutions as centers of social integration and resource redistribution.\n\nThe Ubaid cultural tradition spread remarkably widely, with Ubaid-style pottery and architectural forms appearing across a vast area from the Persian Gulf to southeastern Anatolia and the Levant coast. This spread may reflect trade networks, elite emulation, or actual population movement — or some combination of all three. In any case, the Ubaid horizon represents the moment when southern Mesopotamian cultural forms began to exert a transformative influence on a wide region, foreshadowing the later cultural dominance of Sumerian civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ubaid_period",
+    "read_more_links": [
+        {
+            "title": "Mesopotamia - Britannica",
+            "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia"
+        },
+        {
+            "title": "Sumerian Civilization - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sumer"
+        },
+        {
+            "title": "Uruk Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Uruk_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ubaid_0-1_pottery_footed_bowl_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06927.JPG/300px-Ubaid_0-1_pottery_footed_bowl_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06927.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ubaid_0-1_pottery_footed_bowl_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06927.JPG",
+            "caption": "Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Ill...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Female_clay_figurine_-_Ubaid_period_-_Ur_-_ME_122872.jpg/300px-Female_clay_figurine_-_Ubaid_period_-_Ur_-_ME_122872.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Female_clay_figurine_-_Ubaid_period_-_Ur_-_ME_122872.jpg",
+            "caption": "Female clay figurine. Probably made for ritual purposes. Ur, Ubaid Period (c....",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Cup_-_Mefesh_Ubaid_period.jpg/300px-Cup_-_Mefesh_Ubaid_period.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cup_-_Mefesh_Ubaid_period.jpg",
+            "caption": "Painted cup, decorated with geometric designs in dark paint. From Mefesh, Lat...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Spouted_jar_-_Ur_Ubaid_period.jpg/300px-Spouted_jar_-_Ur_Ubaid_period.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Spouted_jar_-_Ur_Ubaid_period.jpg",
+            "caption": "Spouted jar, decorated with geometric designs in dark paint. From Ur, Late Ub...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

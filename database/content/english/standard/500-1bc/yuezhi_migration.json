@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1174,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c104cd431b5589ecc0b9d56a744deeaed12c516d49f60539168b78e80704f788",
+    "summary": "The Yuezhi Migration (c. 176–128 BC) was the westward displacement of the Yuezhi people from the Tarim Basin by the [[event:1133|Xiongnu Empire]], setting off a chain reaction of migrations that destroyed the [[event:1173|Greco-Bactrian Kingdom]] and eventually led to the founding of the Kushan Empire — one of the great ancient civilizations connecting Rome, India, and China.\n\nThe Yuezhi originally lived in the Gansu corridor and Tarim Basin of western China, where they were powerful enough to receive Han tribute. When the Xiongnu under Modu Chanyu attacked and defeated them around 176 BC, killing their king and making his skull into a drinking cup, they fled westward in a massive migration. This westward movement displaced the Saka ([[event:1172|Saka Kingdoms]]) who were in their path, who in turn displaced other peoples further west. The Yuezhi pushed through Sogdia into Bactria, where around 128 BC the [[event:1128|Zhang Qian's Western Missions]]' Zhang Qian found them settled and at war with the Greco-Bactrian remnants. One Yuezhi tribe, the Kushans, unified the others and built the Kushan Empire (1st–3rd centuries AD) that controlled the [[event:1129|Silk Road]] and became a major patron of Buddhism, facilitating its spread from India to Central Asia and China.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yuezhi",
+    "read_more_links": [
+        {
+            "title": "Kushan Empire",
+            "url": "https://en.wikipedia.org/wiki/Kushan_Empire"
+        },
+        {
+            "title": "Silk Road and Kushans",
+            "url": "https://en.wikipedia.org/wiki/Kushan_Empire#Silk_Road"
+        },
+        {
+            "title": "Steppe domino migrations",
+            "url": "https://en.wikipedia.org/wiki/Yuezhi#Migration"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Buddha_triad_monk_layman_Guimet_MG21157.jpg/300px-Buddha_triad_monk_layman_Guimet_MG21157.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Buddha_triad_monk_layman_Guimet_MG21157.jpg",
+            "caption": "Buddha triad monk layman Guimet MG21157",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%E7%8B%BC%E7%B4%8B%E9%9D%92%E9%8A%85%E5%B8%B6%E9%A3%BE-Belt_Plaque_in_the_Shape_of_a_Standing_Wolf_MET_DT5398.jpg/300px-%E7%8B%BC%E7%B4%8B%E9%9D%92%E9%8A%85%E5%B8%B6%E9%A3%BE-Belt_Plaque_in_the_Shape_of_a_Standing_Wolf_MET_DT5398.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%E7%8B%BC%E7%B4%8B%E9%9D%92%E9%8A%85%E5%B8%B6%E9%A3%BE-Belt_Plaque_in_the_Shape_of_a_Standing_Wolf_MET_DT5398.jpg",
+            "caption": "Northwest China; Belt plaque; Metalwork",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kalchayan_Prince_warrior_%28full%29.jpg/300px-Kalchayan_Prince_warrior_%28full%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kalchayan_Prince_warrior_%28full%29.jpg",
+            "caption": "Kalchayan Prince warrior (full)",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Guan Zhong",
+            "summary": "Chinese chancellor and reformer (c. 720–645 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Qihuangongguanzhong2.jpg/250px-Qihuangongguanzhong2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guan_Zhong"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Qilian County",
+            "summary": "County in Qinghai, China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Qilian1.jpg/250px-Qilian1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qilian_County"
+        }
+    ],
+    "territory_geojson": null
+}

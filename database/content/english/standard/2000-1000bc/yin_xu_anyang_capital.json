@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1841,
+    "parent_id": 55,
+    "granularity": "notable",
+    "content_hash": "sha256:2de68a0fad57842e8e64b3d244b5a34b89ea7eb56a516c0bb9077d2a7bc042e3",
+    "summary": "Yin Xu, meaning the Ruins of Yin, is the archaeological site of the last capital of the [[event:55|Shang dynasty]], located near modern Anyang in Henan province, China. Occupied from approximately 1300 to 1046 BC, it served as the political and ritual center of the late Shang state, the seat from which Shang kings conducted warfare, performed ancestral rites, and administered their domains. The site covers a vast area containing palace and temple foundations, royal tombs, artisan workshops, and thousands of inscribed [[event:1840|oracle bones]].\n\nExcavations at Yin Xu, which began systematically in 1928, transformed understanding of early Chinese civilization. The royal tombs at Xibeigang, located across the Huan River from the palace district, are among the largest Bronze Age mortuary monuments in East Asia. They contained not only extraordinary quantities of bronze vessels, jade objects, and weapons but also the remains of hundreds of sacrificed humans and horses, reflecting the scale of Shang ritual practice. The tomb of Fu Hao, a consort of King Wu Ding who served as a military commander and high priestess, was discovered intact in 1976 and yielded the richest single assemblage of Shang bronzes and jades yet found.\n\nYin Xu was designated a UNESCO World Heritage Site in 2006. Its excavation provided concrete evidence linking the oracle bone inscriptions, the material culture of Chinese ritual bronzes, and the Shang kings named in later Chinese historical texts, confirming that the Shang dynasty was a genuine historical rather than purely legendary entity. The site remains under active excavation and continues to yield important discoveries about early Chinese urbanism, craft production, and royal ideology.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yinxu",
+    "read_more_links": [
+        {
+            "title": "Yin Xu - Britannica",
+            "url": "https://www.britannica.com/place/Yin-Xu"
+        },
+        {
+            "title": "Fu Hao's Tomb",
+            "url": "https://en.wikipedia.org/wiki/Fu_Hao%27s_tomb"
+        },
+        {
+            "title": "Shang dynasty",
+            "url": "https://en.wikipedia.org/wiki/Shang_dynasty"
+        },
+        {
+            "title": "Chinese Ritual Bronzes",
+            "url": "https://en.wikipedia.org/wiki/Chinese_ritual_bronzes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/26120-Anyang_%2849086436522%29.jpg/300px-26120-Anyang_%2849086436522%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/26120-Anyang_%2849086436522%29.jpg",
+            "caption": "26120-Anyang",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Shang_dynasty_inscribed_scapula.jpg/300px-Shang_dynasty_inscribed_scapula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Shang_dynasty_inscribed_scapula.jpg",
+            "caption": "Oracle bone recording divinations by Zhēng 爭, one of the Bīn 賓 group of divin...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tomb_Fu_Hao_YinXu.jpg/300px-Tomb_Fu_Hao_YinXu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tomb_Fu_Hao_YinXu.jpg",
+            "caption": "Tomb of Lady Fu Hao, Yinxu, Henan, China",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Houmuwu_Ding_or_Simuwu_Ding.jpg/300px-Houmuwu_Ding_or_Simuwu_Ding.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Houmuwu_Ding_or_Simuwu_Ding.jpg",
+            "caption": "Houmuwu Ding or Simuwu Ding",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pan Geng",
+            "summary": "King of the Shang dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%AC%BD%E5%AE%9A%E6%9B%B8%E7%B6%93%E5%9C%96%E8%AA%AA_%E6%96%86%E5%A7%8B%E5%9C%A8%E4%BD%8D%E5%9C%96.jpg/250px-%E6%AC%BD%E5%AE%9A%E6%9B%B8%E7%B6%93%E5%9C%96%E8%AA%AA_%E6%96%86%E5%A7%8B%E5%9C%A8%E4%BD%8D%E5%9C%96.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pan_Geng"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Tang of Shang",
+            "summary": "Founder and first king of the Shang dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/King_Tang_of_Shang.jpg/250px-King_Tang_of_Shang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tang_of_Shang"
+        },
+        {
+            "name": "Wang Guowei",
+            "summary": "Chinese historian and poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%E7%8E%8B%E5%9C%8B%E7%B6%AD.jpg/250px-%E7%8E%8B%E5%9C%8B%E7%B6%AD.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wang_Guowei"
+        }
+    ],
+    "territory_geojson": null
+}

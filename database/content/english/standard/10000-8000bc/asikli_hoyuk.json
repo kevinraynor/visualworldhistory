@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1265,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e542d4f41fd2d61f8107cd4eed76b2259055db0f6bd02afbb870ea4efd243a0c",
+    "summary": "Asikli Hoyuk is a Pre-Pottery Neolithic settlement in central Anatolia, located near the volcanic region of Cappadocia in the Aksaray province of Turkey, occupied from approximately 8200 to 7400 BCE. It is one of the earliest known permanent agricultural settlements in central Anatolia and provides important evidence for the spread of Neolithic farming lifestyles into the interior of the Anatolian plateau from earlier Neolithic centers in southeastern Anatolia and the Levant.\n\nThe site is notable for its densely packed, agglutinated rectangular mud-brick structures with no ground-level doorways — inhabitants entered buildings through the roof, a feature shared with the later and larger site of Catalhoyuk. Asikli Hoyuk provides early evidence for the management of wild sheep that were gradually being domesticated, alongside the cultivation of einkorn and emmer wheat and lentils. Biological studies of the skeletal remains from the site have documented health changes over the occupation sequence consistent with the transition to a more sedentary, cereal-heavy diet. The site also lies near major [[event:8|obsidian sources]] in Cappadocia, and obsidian processing was an important activity at Asikli Hoyuk.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A%C5%9F%C4%B1kl%C4%B1_H%C3%B6y%C3%BCk",
+    "read_more_links": [
+        {
+            "title": "Cappadocia Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cappadocia"
+        },
+        {
+            "title": "Anatolian Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_in_Anatolia"
+        },
+        {
+            "title": "Catalhoyuk - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/AshikliHoyuk.jpg/300px-AshikliHoyuk.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/AshikliHoyuk.jpg",
+            "caption": "General view of Aşıklı Höyük, Aksaray Province.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ashikli_Hoyuk.jpg/300px-Ashikli_Hoyuk.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ashikli_Hoyuk.jpg",
+            "caption": "Ashikli Hoyuk, Aksaray Turkey",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Deep_Sounding_Asikli_Hoyuk.JPG/300px-Deep_Sounding_Asikli_Hoyuk.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Deep_Sounding_Asikli_Hoyuk.JPG",
+            "caption": "The Deep Sounding sequence, Aşıklı Höyük",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hearth_in_house_2_Asikli_hoyuk.JPG/300px-Hearth_in_house_2_Asikli_hoyuk.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Hearth_in_house_2_Asikli_hoyuk.JPG",
+            "caption": "Hearth in House, Aşıklı Höyük",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

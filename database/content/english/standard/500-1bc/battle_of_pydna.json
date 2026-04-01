@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1067,
+    "parent_id": 1065,
+    "granularity": "detailed",
+    "content_hash": "sha256:be6f5dc68a8eb068472bf7016398a188f9bf60e43895ce0f13ffe502f71681c0",
+    "summary": "The Battle of Pydna (168 BC) ended the Third [[event:1065|Macedonian Wars]], with the Roman consul Lucius Aemilius Paullus defeating King Perseus of Macedon's phalanx army and effectively ending the independent Macedonian kingdom. The battle confirmed the tactical lesson of [[event:1066|Battle of Cynoscephalae]] about phalanx vulnerability on uneven terrain.\n\nPerseus had assembled a formidable army with an excellent phalanx, and the initial charge of the Macedonian phalanx drove the Roman front ranks back with significant casualties. However, as at Cynoscephalae, the phalanx advanced over rough ground and began losing cohesion. Roman centurions exploited gaps in the phalanx formation, getting their men inside the effective range of the long sarissa pikes where they could use their shorter swords effectively. The phalanx fragmented and the battle became a rout; Perseus fled and was later captured. The battle's aftermath was savage by Roman standards: some 150,000 Epirots in nearby towns were enslaved for supporting Perseus. Paullus divided Macedonia into four republics, ending the kingdom. Perseus died in Roman captivity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Pydna",
+    "read_more_links": [
+        {
+            "title": "Lucius Aemilius Paullus",
+            "url": "https://en.wikipedia.org/wiki/Lucius_Aemilius_Paullus_Macedonicus"
+        },
+        {
+            "title": "Perseus of Macedon",
+            "url": "https://en.wikipedia.org/wiki/Perseus_of_Macedon"
+        },
+        {
+            "title": "Macedonian Phalanx",
+            "url": "https://en.wikipedia.org/wiki/Macedonian_phalanx"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jean-Fran%C3%A7ois-Pierre_Peyron_001.jpg/300px-Jean-Fran%C3%A7ois-Pierre_Peyron_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Jean-Fran%C3%A7ois-Pierre_Peyron_001.jpg",
+            "caption": "Jean-François-Pierre Peyron 001",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lucius Aemilius Paullus Macedonicus",
+            "summary": "Roman general and statesman (c. 229 – 160 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lucius_Aemilius_Paullus_Macedonicus.png/250px-Lucius_Aemilius_Paullus_Macedonicus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Aemilius_Paullus_Macedonicus"
+        },
+        {
+            "name": "Publius Cornelius Scipio Nasica Corculum",
+            "summary": "Roman consul in 155 BC, pontifex maximus and princeps senatus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Head_of_Ennius.png/250px-Head_of_Ennius.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Publius_Cornelius_Scipio_Nasica_Corculum"
+        },
+        {
+            "name": "Perseus of Macedon",
+            "summary": "King of Macedonia from 179 to 168 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Perseus_of_Macedon_coin_cropped.png/250px-Perseus_of_Macedon_coin_cropped.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perseus_of_Macedon"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Cavalry",
+            "summary": "Soldiers or warriors fighting from horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg/250px-Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalry"
+        }
+    ],
+    "territory_geojson": null
+}

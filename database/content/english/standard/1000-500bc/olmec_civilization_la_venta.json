@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1976,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:922ad489a3f392b7e4d306f5b0b719f70aae72683e391c8bcb5ccd826881bf40",
+    "summary": "La Venta (c. 900–400 BC) was the second great center of Olmec civilization after San Lorenzo, situated on a swampy island near the Gulf coast of Mexico in modern Tabasco state. La Venta was home to one of the earliest pyramid structures in Mesoamerica — a 30-meter earth mound — and an elaborate ceremonial complex with buried mosaic floors of serpentine blocks, massive stone heads, and elaborately carved monuments that represent the height of Olmec artistic achievement.\n\nThe four colossal basalt heads at La Venta (each 1.5–3 meters tall, weighing 6–50 tons) portray individual rulers with distinctive helmet-like headdresses and individualized facial features — remarkable portraits requiring the transport of massive stones from quarries over 90 kilometers away. La Venta's symbolic landscape was carefully designed: a north-south axis aligned monuments, buried caches of jade and serpentine offerings marked sacred deposits, and the entire site expressed a cosmological program. Olmec iconography developed at La Venta — the 'were-jaguar' motif, the rain deity, the feathered serpent — established the religious and artistic vocabulary that later Mesoamerican civilizations, including the Maya and Aztec, inherited and transformed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/La_Venta",
+    "read_more_links": [
+        {
+            "title": "Olmec colossal heads",
+            "url": "https://en.wikipedia.org/wiki/Olmec_colossal_heads"
+        },
+        {
+            "title": "Olmec civilization overview",
+            "url": "https://en.wikipedia.org/wiki/Olmec"
+        },
+        {
+            "title": "Were-jaguar Olmec motif",
+            "url": "https://en.wikipedia.org/wiki/Olmec_alternative_origin_speculations#Were-jaguar"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Planta_de_casa-habitaci%C3%B3n_excavada_Museo_de_sitio_La_Venta_Tabasco.jpg/300px-Planta_de_casa-habitaci%C3%B3n_excavada_Museo_de_sitio_La_Venta_Tabasco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Planta_de_casa-habitaci%C3%B3n_excavada_Museo_de_sitio_La_Venta_Tabasco.jpg",
+            "caption": "Reconstruction of an excavated house-habitation, exhibited at the La Venta Ta...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Complejo_A%2C_Monumentos_2_y_3%2C_sitio_la_Venta_Tabasco.jpg/300px-Complejo_A%2C_Monumentos_2_y_3%2C_sitio_la_Venta_Tabasco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Complejo_A%2C_Monumentos_2_y_3%2C_sitio_la_Venta_Tabasco.jpg",
+            "caption": "Photograph of Complex A at the Olmec site of La Venta, showing the basalt col...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Monumento_25-26_Museo_de_sitio_La_Venta_Tabasco.jpg/300px-Monumento_25-26_Museo_de_sitio_La_Venta_Tabasco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Monumento_25-26_Museo_de_sitio_La_Venta_Tabasco.jpg",
+            "caption": "Monument 25-26 at the La Venta Site Museum, Tabasco.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Monumento_89_Museo_de_sitio_La_Venta_Tabasco.jpg/300px-Monumento_89_Museo_de_sitio_La_Venta_Tabasco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Monumento_89_Museo_de_sitio_La_Venta_Tabasco.jpg",
+            "caption": "Monument 89, La Venta Tabasco Site Museum.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Scientific consensus",
+            "summary": "Collective judgment, position, and opinion of the community of scientists",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Climate_science_opinion_graph_3.svg/250px-Climate_science_opinion_graph_3.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scientific_consensus"
+        }
+    ],
+    "territory_geojson": null
+}

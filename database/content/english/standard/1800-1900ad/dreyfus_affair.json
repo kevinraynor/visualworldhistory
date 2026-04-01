@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2568,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5033425ec8ca98284e1213b1614550ce7164e2eebc36e822613343c6d7679c55",
+    "summary": "The Dreyfus Affair was a major political crisis in France spanning from 1894 to 1906, centered on the wrongful conviction of Alfred Dreyfus, a Jewish French Army officer, for treason. The case became a defining episode in the history of antisemitism, the relationship between justice and state authority, and the emergence of modern Jewish nationalism.\n\nDreyfus, a captain in the French Army, was accused in 1894 of passing military secrets to Germany on the basis of handwriting evidence that experts disputed. He was convicted by a secret court martial and condemned to life imprisonment on Devil's Island in French Guiana. Evidence soon emerged pointing to another officer, Major Ferdinand Walsin Esterhazy, as the true spy, but the Army and government suppressed the exculpatory evidence to avoid admitting error. When journalist Émile Zola published his famous open letter 'J'accuse...!' in January 1898, accusing the Army and government of a cover-up, the case became a national and international sensation.\n\nFrance divided bitterly into Dreyfusards (who demanded justice and reopening of the case) and anti-Dreyfusards (who saw the affair as a Jewish and republican conspiracy against the Army and the Catholic Church). The affair catalyzed a decisive struggle between republican, secular, democratic France and the conservative, clerical, authoritarian right. Dreyfus was eventually pardoned in 1899 and fully exonerated in 1906. The affair contributed to the passage of France's 1905 law on the separation of church and state. The Austrian journalist Theodor Herzl, covering the trial as a correspondent and witnessing the 'Death to Jews' shouts of Parisian crowds, concluded that Jews could not be safe in Europe and founded the modern [[event:2569|Zionist movement]] in response.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dreyfus_affair",
+    "read_more_links": [
+        {
+            "title": "Dreyfus Affair – Britannica",
+            "url": "https://www.britannica.com/event/Dreyfus-affair"
+        },
+        {
+            "title": "Émile Zola – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/%C3%89mile_Zola"
+        },
+        {
+            "title": "Theodor Herzl – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Theodor_Herzl"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Caran-d-ache-dreyfus-supper.jpg/300px-Caran-d-ache-dreyfus-supper.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Caran-d-ache-dreyfus-supper.jpg",
+            "caption": "Drawing of \"a family supper\" by Caran d'Ache in le Figaro on February 14, 189...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cassation_Dreyfus.jpg/300px-Cassation_Dreyfus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cassation_Dreyfus.jpg",
+            "caption": "« La cour de Cassation - Affaire Dreyfus ». Le président Louis Loew, le procu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Dreyfus_Ile_du_diable_96.jpg/300px-Dreyfus_Ile_du_diable_96.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Dreyfus_Ile_du_diable_96.jpg",
+            "caption": "Gravure de Fortuné Méaulle représentant Alfred Dreyfus à l'île du Diable, sou...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dreyfus-in-Prison-1895.jpg/300px-Dreyfus-in-Prison-1895.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Dreyfus-in-Prison-1895.jpg",
+            "caption": "Une du Supplément illustré du Petit Journal - Affaire Dreyfus. « Alfred Dreyf...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Émile Zola",
+            "summary": "French writer (1840–1902)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nadar_%28atelier_de%29_-_Emile_Zola%2C_13-556535.jpg/250px-Nadar_%28atelier_de%29_-_Emile_Zola%2C_13-556535.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89mile_Zola"
+        },
+        {
+            "name": "Anatole France",
+            "summary": "French author and journalist (1844–1924)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Anatole_France_young_years.jpg/250px-Anatole_France_young_years.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anatole_France"
+        },
+        {
+            "name": "Charles Péguy",
+            "summary": "French poet, essayist, and editor (1873–1914)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Charles_P%C3%A9guy_by_Eug%C3%A8ne_Pirou%2C_cropped.png/250px-Charles_P%C3%A9guy_by_Eug%C3%A8ne_Pirou%2C_cropped.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_P%C3%A9guy"
+        },
+        {
+            "name": "Henri Poincaré",
+            "summary": "French mathematician, physicist and engineer (1854–1912)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PSM_V82_D416_Henri_Poincare.png/250px-PSM_V82_D416_Henri_Poincare.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9"
+        },
+        {
+            "name": "Georges Clemenceau",
+            "summary": "President of the Council of France (1906–1909, 1917–1920)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Georges_Clemenceau_par_Nadar.jpg/250px-Georges_Clemenceau_par_Nadar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Clemenceau"
+        },
+        {
+            "name": "Édouard Drumont",
+            "summary": "French antisemitic author and politician (1844–1917)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Edouard_Drumont_BNF_Gallica_%28cropped%29.jpg/250px-Edouard_Drumont_BNF_Gallica_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89douard_Drumont"
+        }
+    ],
+    "territory_geojson": null
+}

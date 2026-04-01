@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3030,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:55efe53136d9ae4db108c8fb191bb148f84e3e8b063cb74d25fe09285d7f31d2",
+    "summary": "The Sultanate of Malacca (c. 1400–1511 AD) was the most important port state in Southeast Asian history, founded by the Malay prince Paramesvara (who converted to Islam and took the name Iskandar Shah) at the mouth of the Malacca Strait — the maritime chokepoint through which virtually all trade between the Indian Ocean and South China Sea passed. In barely a century, Malacca grew from a small fishing village to the most prosperous entrepôt in Southeast Asia and one of the busiest ports in the world, with an estimated population of 100,000 and a cosmopolitan merchant community speaking over 84 languages.\n\nMalacca's success rested on its unique combination of geographic advantage, political pragmatism, and commercial openness. The sultanate established a reputation for fair dealing and reliable weights and measures that attracted merchants from China, India, Arabia, and Java; its harbor master (shahbandar) system organized merchants from different regions into communities with their own administrative representatives. Malacca became the primary vehicle for the spread of Islam through maritime Southeast Asia — the sultanate's rulers converted to Islam around 1400, and their commercial networks carried Islamic merchants, scholars, and influence throughout the Indonesian archipelago, initiating the conversion of coastal Java, Sumatra, Borneo, and the Philippines. The [[event:2247|Zheng He voyages]] established a tributary relationship with Ming China that protected Malacca from Siamese aggression. The sultanate was conquered by the Portuguese under Afonso de Albuquerque in 1511, who recognized it as the key to controlling the spice trade, but Islam in the region survived the political destruction and continued spreading through Malay merchant networks.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Malacca_Sultanate",
+    "read_more_links": [
+        {
+            "title": "Malacca entrepôt trade cosmopolitan port",
+            "url": "https://en.wikipedia.org/wiki/Malacca_Sultanate#Trade"
+        },
+        {
+            "title": "Islam spread Southeast Asia Malacca",
+            "url": "https://en.wikipedia.org/wiki/Islam_in_Southeast_Asia"
+        },
+        {
+            "title": "Portuguese conquest Malacca 1511",
+            "url": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_Malacca"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hang_Tuah%2C_Muzium_Negara_-_cropped.jpg/300px-Hang_Tuah%2C_Muzium_Negara_-_cropped.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hang_Tuah%2C_Muzium_Negara_-_cropped.jpg",
+            "caption": "Artwork depicting Hang Tuah at National Museum of Malaysia (Muzium Negara)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Disembarkation_point_of_Admiral_Zheng_He_in_1405.jpg/300px-Disembarkation_point_of_Admiral_Zheng_He_in_1405.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Disembarkation_point_of_Admiral_Zheng_He_in_1405.jpg",
+            "caption": "A memorial rock for the disembarkation point of Admiral Zheng He in 1405",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Malaccapalace.jpg/300px-Malaccapalace.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Malaccapalace.jpg",
+            "caption": "The Melaka Sultanate Palace (a replica of the Melaka Sultan's palace during t...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/A_Famosa_Fortress.JPG/300px-A_Famosa_Fortress.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/A_Famosa_Fortress.JPG",
+            "caption": "A Famosa, Melaka City, Melaka, Malaysia",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Johor Sultanate",
+            "summary": "Sultanate of Johor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Partition_of_the_Johor_Empire.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johor_Sultanate"
+        },
+        {
+            "name": "Mansur Shah of Malacca",
+            "summary": "Sultan of Malacca (r. 1459–1477)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tombstone_of_Mansur_Shah_in_National_Museum.jpg/250px-Tombstone_of_Mansur_Shah_in_National_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mansur_Shah_of_Malacca"
+        },
+        {
+            "name": "Mahmud Shah of Malacca",
+            "summary": "Sultan of Malacca",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mahmud_Shah_of_Malacca.jpg/250px-Mahmud_Shah_of_Malacca.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahmud_Shah_of_Malacca"
+        },
+        {
+            "name": "Tun Perak",
+            "summary": "5th Bendahara of the Sultanate of Malacca",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tun_Perak.jpg/250px-Tun_Perak.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tun_Perak"
+        },
+        {
+            "name": "Parameswara of Malacca",
+            "summary": "Founder of the Malacca Sultanate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Retrato_de_Parameswara.jpg/250px-Retrato_de_Parameswara.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Parameswara_of_Malacca"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

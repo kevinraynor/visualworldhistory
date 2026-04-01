@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3450,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:9f641fb3032c4c8e04170a116488b32b357faa6f6b6aba5acea1816eee2a15e8",
+    "summary": "The Mexican Revolution, which erupted in 1910 and continued in various phases through the early 1920s, was the first major social revolution of the twentieth century. It overthrew the thirty-year dictatorship of Porfirio Díaz, whose modernizing regime had concentrated land and wealth in the hands of a narrow elite while exploiting the rural poor. The revolution drew in a remarkable array of armed factions led by charismatic figures: Francisco Madero, Emiliano Zapata in the south demanding land reform, Pancho Villa in the north, Venustiano Carranza, and Álvaro Obregón.\n\nThe conflict claimed between one and two million lives from violence, disease, and famine, and caused massive displacement, including hundreds of thousands fleeing north to the United States. The revolution was not a single coherent movement but a series of shifting conflicts among competing armies and ideologies. Its most enduring achievement was the Constitution of 1917, one of the most radical political documents of its era, which provided for land redistribution, labor rights, restrictions on the Catholic Church's power, and national ownership of subsoil resources.\n\nThe revolution reshaped Mexican identity and politics for the rest of the century. The ruling Institutional Revolutionary Party (PRI), which emerged from the revolutionary aftermath, dominated Mexican politics continuously until the year 2000. Revolutionary imagery — Zapata, Villa, the murals of Diego Rivera — became central to a new nationalist cultural vision that celebrated indigenous and mestizo heritage over European models.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mexican_Revolution",
+    "read_more_links": [
+        {
+            "title": "Emiliano Zapata",
+            "url": "https://en.wikipedia.org/wiki/Emiliano_Zapata"
+        },
+        {
+            "title": "Pancho Villa",
+            "url": "https://en.wikipedia.org/wiki/Pancho_Villa"
+        },
+        {
+            "title": "Constitution of Mexico (1917)",
+            "url": "https://en.wikipedia.org/wiki/Constitution_of_Mexico_(1917)"
+        },
+        {
+            "title": "Institutional Revolutionary Party",
+            "url": "https://en.wikipedia.org/wiki/Institutional_Revolutionary_Party"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/300px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "caption": "La Liberté guidant le peuple - Eugène Delacroix - Musée du Louvre Peintures RF 129 - après restauration 2024",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Decena_tr%C3%A1gica.JPG/300px-Decena_tr%C3%A1gica.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Decena_tr%C3%A1gica.JPG",
+            "caption": "Decena trágica. Soldados sublevados en acción. 1913. Fotografia: Osuna.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/LaTrincheraOrozcoSICDF.JPG/300px-LaTrincheraOrozcoSICDF.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/LaTrincheraOrozcoSICDF.JPG",
+            "caption": "Mural section entitled \"La Trinchera\"  by Jose Clemente Orozco on one of the ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MaderoArrivesDecenaTragica.JPG/300px-MaderoArrivesDecenaTragica.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/MaderoArrivesDecenaTragica.JPG",
+            "caption": "Francisco I Madero arriving on the first day of the Decena Tragica February 1...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Porfirio Díaz",
+            "summary": "President and Dictator of Mexico from 1876 to 1911",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Porfirio_diaz.jpg/250px-Porfirio_diaz.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz"
+        },
+        {
+            "name": "Francisco I. Madero",
+            "summary": "President of Mexico from 1911 to 1913",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Francisco_I_Madero.jpg/250px-Francisco_I_Madero.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_I._Madero"
+        },
+        {
+            "name": "Victoriano Huerta",
+            "summary": "President and Dictator of Mexico from 1913 to 1914",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Victoriano_Huerta_en_1912.jpg/250px-Victoriano_Huerta_en_1912.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Victoriano_Huerta"
+        },
+        {
+            "name": "Venustiano Carranza",
+            "summary": "President of Mexico from 1914 to 1920",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Portrait_of_Venustiano_Carranza_%28cropped%29%28b%29.jpg/250px-Portrait_of_Venustiano_Carranza_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Venustiano_Carranza"
+        },
+        {
+            "name": "Álvaro Obregón",
+            "summary": "President of Mexico from 1920 to 1924",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Obreg%C3%B3n_Salido%2C_%C3%81lvaro_%28cropped%29%282%29.jpg/250px-Obreg%C3%B3n_Salido%2C_%C3%81lvaro_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Obreg%C3%B3n"
+        },
+        {
+            "name": "Pancho Villa",
+            "summary": "Mexican revolutionary general and politician (1878–1923)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Pancho_Villa_bandolier_%28cropped%29.jpg/250px-Pancho_Villa_bandolier_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pancho_Villa"
+        }
+    ],
+    "territory_geojson": null
+}

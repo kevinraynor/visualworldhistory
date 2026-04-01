@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1186,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c330324ce50b84b236e797393f6e2fc0f8c0c38202292a2ebede56db1ca21d62",
+    "summary": "The Hopewell Culture (c. 200 BC – 1 AD, peak around 100 BC – 500 AD) was a Native American cultural complex centered in the Ohio and Illinois river valleys that built enormous geometric earthworks, maintained an extensive long-distance exchange network reaching from the Rocky Mountains to the Gulf of Mexico, and created some of the most sophisticated art in pre-Columbian North America.\n\nThe 'Hopewell' name comes from the farm in Ohio where early mounds were excavated. The culture is defined by its Interaction Sphere — a trade and ceremonial network through which exotic materials traveled: obsidian from Yellowstone, copper from Lake Superior, mica from North Carolina, shark teeth and alligator skulls from the Gulf, and grizzly bear teeth from the Rocky Mountains. These materials were crafted into spectacular funerary objects — copper ear spools, mica cutouts of hands and animal figures, stone pipes with realistic carved animals — that accompanied elite burials in earthen mounds. The earthworks of the Newark Earthworks in Ohio, covering four square miles, represent the largest earthen construction in the world. The Hopewell culture declined around 500 AD, apparently due to climate change or disruption of the exchange networks, succeeded by the [[event:1187|Adena Culture]]'s contemporaries and eventually by the Mississippian culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hopewell_tradition",
+    "read_more_links": [
+        {
+            "title": "Newark Earthworks",
+            "url": "https://en.wikipedia.org/wiki/Newark_Earthworks"
+        },
+        {
+            "title": "Hopewell Interaction Sphere",
+            "url": "https://en.wikipedia.org/wiki/Hopewell_tradition#Interaction_sphere"
+        },
+        {
+            "title": "Mound Builders",
+            "url": "https://en.wikipedia.org/wiki/Mound_Builders"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Serpent_effigy%2C_Hopewell_culture%2C_Turner_Group%2C_Mound_4%2C_altar%2C_Little_Miami_Valley%2C_Ohio%2C_200_BC_to_500_AD%2C_mica_-_Native_American_collection_-_Peabody_Museum%2C_Harvard_University_-_DSC06095.jpg/300px-Serpent_effigy%2C_Hopewell_culture%2C_Turner_Group%2C_Mound_4%2C_altar%2C_Little_Miami_Valley%2C_Ohio%2C_200_BC_to_500_AD%2C_mica_-_Native_American_collection_-_Peabody_Museum%2C_Harvard_University_-_DSC06095.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Serpent_effigy%2C_Hopewell_culture%2C_Turner_Group%2C_Mound_4%2C_altar%2C_Little_Miami_Valley%2C_Ohio%2C_200_BC_to_500_AD%2C_mica_-_Native_American_collection_-_Peabody_Museum%2C_Harvard_University_-_DSC06095.jpg",
+            "caption": "Exhibit from the Native American Collection, Peabody Museum, Harvard Universi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hopewell_culture_nhp_raven_effigy_pipe_chillicothe_ohio_2006.jpg/300px-Hopewell_culture_nhp_raven_effigy_pipe_chillicothe_ohio_2006.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Hopewell_culture_nhp_raven_effigy_pipe_chillicothe_ohio_2006.jpg",
+            "caption": "A raven effigy pipe in the museum at Hopewell Culture National Historical Par...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hopewell_copper_spider.jpg/300px-Hopewell_copper_spider.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hopewell_copper_spider.jpg",
+            "caption": "Hopewell mound, copper spider (?)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sterling_Il_Sinnissippi_Site1.jpg/300px-Sterling_Il_Sinnissippi_Site1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sterling_Il_Sinnissippi_Site1.jpg",
+            "caption": "Sinnissippi Site, Sinnissippi Park, Sterling, Illinois. U.S. National Registe...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ross County, Ohio",
+            "summary": "County in Ohio, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Chillicothe_ohio_ross_county_courthouse_2006.jpg/250px-Chillicothe_ohio_ross_county_courthouse_2006.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ross_County%2C_Ohio"
+        },
+        {
+            "name": "Earthworks (archaeology)",
+            "summary": "General term to describe artificial changes in land level in history and pre-history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De_Offa_Dyke.JPG/250px-De_Offa_Dyke.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Earthworks_%28archaeology%29"
+        },
+        {
+            "name": "Scioto County, Ohio",
+            "summary": "County in Ohio, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Scioto_County_Courthouse.JPG/250px-Scioto_County_Courthouse.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scioto_County%2C_Ohio"
+        }
+    ],
+    "territory_geojson": null
+}

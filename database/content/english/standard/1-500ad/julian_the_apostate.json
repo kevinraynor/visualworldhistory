@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2858,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fbd60b78d27069da72b3ca599778930a99f646ac3b57528c7f6156d738440f69",
+    "summary": "Julian the Apostate (emperor 361–363 AD) was the last pagan Roman emperor — a philosophical intellectual who had been raised as a Christian in [[event:2027|Constantine's]] Christian court but secretly converted to Neoplatonist paganism, and who upon becoming emperor attempted to reverse the Christianization of the empire in favor of a reformed, philosophically sophisticated Hellenistic paganism. Julian's epithet 'the Apostate' was applied by his Christian critics; Julian himself would have said he was simply returning to Rome's true religious tradition. He stopped the financial subsidies to Christian churches, reopened pagan temples, tried to rebuild the Jewish Temple in Jerusalem (to contradict Christian prophecy), and issued an edict banning Christians from teaching classical literature (since they allegedly didn't believe in the gods whose myths they taught).\n\nJulian's restoration of paganism was half-hearted in its impact — eighteen months of imperial favoritism could not undo decades of Christian institutional consolidation — and ended abruptly when Julian was killed by a spear during his disastrous Persian campaign in 363 AD (Christian tradition gleefully preserved a legend of his dying words: 'Galilean, you have conquered'). Julian was a genuine intellectual who wrote prolifically — philosophical essays, religious reforms, and the satire 'Caesars' — and his short reign represents the last serious attempt to reverse the Christianization of the empire. His death settled the question permanently; all subsequent emperors were Christian.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julian_(emperor)",
+    "read_more_links": [
+        {
+            "title": "Julian pagan restoration attempt",
+            "url": "https://en.wikipedia.org/wiki/Julian_(emperor)#Religious_policy"
+        },
+        {
+            "title": "Julian writings philosophy",
+            "url": "https://en.wikipedia.org/wiki/Julian_(emperor)#Literary_works"
+        },
+        {
+            "title": "Julian Persian campaign death",
+            "url": "https://en.wikipedia.org/wiki/Julian_(emperor)#Persian_campaign"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ioulianou_autokratoros_ta_sozomena.tif/300px-Ioulianou_autokratoros_ta_sozomena.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ioulianou_autokratoros_ta_sozomena.tif",
+            "caption": "Ioulianou autokratoros ta sozomena",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Male_portrait_head%2C_Julian_the_Apostate_%28A.D._361-363%29%2C_according_to_one_view.jpg/300px-Male_portrait_head%2C_Julian_the_Apostate_%28A.D._361-363%29%2C_according_to_one_view.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Male_portrait_head%2C_Julian_the_Apostate_%28A.D._361-363%29%2C_according_to_one_view.jpg",
+            "caption": "Male portrait head. Pentelic marble. Found in Athens. The man depicted wears ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flavius_Claudius_Julianus_-_Tongeren_10-08-2018_13-43-23.jpg/300px-Flavius_Claudius_Julianus_-_Tongeren_10-08-2018_13-43-23.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Flavius_Claudius_Julianus_-_Tongeren_10-08-2018_13-43-23.jpg",
+            "caption": "This photo of immovable heritage has been taken in the Flemish Region",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Visit_of_the_H%C3%B4tel_de_Cluny_20150707_-_26.JPG/300px-Visit_of_the_H%C3%B4tel_de_Cluny_20150707_-_26.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Visit_of_the_H%C3%B4tel_de_Cluny_20150707_-_26.JPG",
+            "caption": "The Frigidarium in Cluny",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Constantius II",
+            "summary": "Roman emperor from 337 to 361",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg/250px-Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantius_II"
+        },
+        {
+            "name": "Jovian (emperor)",
+            "summary": "Roman emperor from 363 to 364",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Solidus_of_Jovian2_%28obverse%29.jpg/250px-Solidus_of_Jovian2_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jovian_%28emperor%29"
+        },
+        {
+            "name": "Helena (wife of Julian)",
+            "summary": "Roman empress in 360",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ritratto_femminile_detto_elena_fausta%2C_350-400_dc_ca._%28busto_moderno%29%2C_dallo_studio_cavaceppi%2C_MT_614.jpg/250px-Ritratto_femminile_detto_elena_fausta%2C_350-400_dc_ca._%28busto_moderno%29%2C_dallo_studio_cavaceppi%2C_MT_614.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Helena_%28wife_of_Julian%29"
+        },
+        {
+            "name": "Didius Julianus",
+            "summary": "Roman emperor in 193",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Buste_de_Didius_Iulianus5.jpg/250px-Buste_de_Didius_Iulianus5.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Didius_Julianus"
+        },
+        {
+            "name": "Constantine the Great",
+            "summary": "Roman emperor from 306 to 337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/250px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

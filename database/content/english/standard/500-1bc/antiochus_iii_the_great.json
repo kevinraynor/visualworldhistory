@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1050,
+    "parent_id": 1041,
+    "granularity": "detailed",
+    "content_hash": "sha256:986f98681cd4be129100c6679260edcffd8e655676f54c81f5e486e0aacf0f2c",
+    "summary": "Antiochus III the Great (r. 223–187 BC) was the most capable and ambitious of the [[event:1041|Seleucid Empire]]'s later rulers, who briefly restored the empire to something approaching its original extent through two decades of campaigning before suffering a catastrophic defeat at Roman hands. His career illustrates both the potential and the fatal limitations of Hellenistic kingship in the era of Roman expansion.\n\nAntiochus campaigned east into Bactria and India, restored Seleucid authority across much of Iran, and defeated the [[event:1040|Ptolemaic Kingdom]] in Coele-Syria (modern Israel and Lebanon). His crossing into Europe and alliance with Philip V of Macedon alarmed Rome, which had just finished defeating Philip in the [[event:1065|Macedonian Wars]]. Rome demanded Antiochus withdraw from Europe; he refused. At the [[event:1156|Battle of Magnesia]] in 190 BC, a Roman army allied with [[event:1043|Kingdom of Pergamon]] decisively defeated his forces. The subsequent Peace of Apamea stripped him of Asia Minor, imposed an enormous indemnity, and required him to surrender his navy and war elephants — effectively reducing the Seleucid Empire to a second-rate power. Antiochus died in 187 BC attempting to loot a temple in Elymais to raise money to pay the Roman indemnity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great",
+    "read_more_links": [
+        {
+            "title": "Seleucid Empire",
+            "url": "https://en.wikipedia.org/wiki/Seleucid_Empire"
+        },
+        {
+            "title": "Battle of Magnesia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Magnesia"
+        },
+        {
+            "title": "Peace of Apamea",
+            "url": "https://en.wikipedia.org/wiki/Peace_of_Apamea_(188_BC)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg/300px-Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg",
+            "caption": "This head bears a resemblance to profiles of the king of Syria Antiochus III ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antik_S%C4%B0kkeler_Antiochus_III.jpg/300px-Antik_S%C4%B0kkeler_Antiochus_III.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Antik_S%C4%B0kkeler_Antiochus_III.jpg",
+            "caption": "Kral Antiochus III, 223 – 187.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/194fkr.JPG/300px-194fkr.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/194fkr.JPG",
+            "caption": "Made by me.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/225fkr.jpg/300px-225fkr.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/225fkr.jpg",
+            "caption": "Made by me.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Seleucus III Ceraunus",
+            "summary": "Ruler of the Seleucid Kingdom from 225 to 223 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Seleukos_III_Keraunos%2C_Tetradrachm%2C_226-223_BC%2C_HGC_3-414c_Obverse.jpg/250px-Seleukos_III_Keraunos%2C_Tetradrachm%2C_226-223_BC%2C_HGC_3-414c_Obverse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seleucus_III_Ceraunus"
+        },
+        {
+            "name": "Seleucus IV Philopator",
+            "summary": "King of the Seleucid Empire from 187 to 175 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Seleukos_IV_tetradrachm_obverse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seleucus_IV_Philopator"
+        },
+        {
+            "name": "Molon",
+            "summary": "Seleucid satrap (died 220 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SELEUKID_EMPIRE._Molon._Usurper%2C_222-220_BC.jpg/250px-SELEUKID_EMPIRE._Molon._Usurper%2C_222-220_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Molon"
+        },
+        {
+            "name": "Achaeus (general)",
+            "summary": "3rd-century BC Seleucid general, short-lived ruler of Seleucid Asia-Minor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tetradrachm_-_Achaios_Usurper.jpg/250px-Tetradrachm_-_Achaios_Usurper.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Achaeus_%28general%29"
+        },
+        {
+            "name": "Cleopatra I Syra",
+            "summary": "Queen of Ptolemaic Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cleopatra_I.jpg/250px-Cleopatra_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra_I_Syra"
+        },
+        {
+            "name": "Seleucus II Callinicus",
+            "summary": "Ruler of the Seleucid Empire from 246 BC to 225 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coin_of_Seleucus_II_Callinicus_%28cropped%29%2C_Antioch_mint.jpg/250px-Coin_of_Seleucus_II_Callinicus_%28cropped%29%2C_Antioch_mint.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seleucus_II_Callinicus"
+        }
+    ],
+    "territory_geojson": null
+}

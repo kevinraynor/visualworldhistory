@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3467,
+    "parent_id": 114,
+    "granularity": "detailed",
+    "content_hash": "sha256:d4d7591701789198614c117d939b858be34af77bed886b67eec0b8a5b99372e0",
+    "summary": "Portugal fought to retain its African colonies — Angola, Mozambique, and Guinea-Bissau — in a series of wars that lasted from 1961 to 1974. The Estado Novo authoritarian regime refused to follow the path of decolonization taken by Britain, France, and Belgium, insisting that the African territories were integral provinces of metropolitan Portugal. Independence movements in all three territories launched guerrilla insurgencies that Portugal was unable to defeat despite massive military expenditure that consumed over forty percent of the state budget.\n\nThe wars were deeply unpopular within Portugal and generated significant internal opposition. A disproportionate burden fell on poor and working-class conscripts, and thousands of Portuguese officers became radicalized by the futility of the counterinsurgency. This military discontent directly caused the [[event:3468|Carnation Revolution]] of April 1974, when a group of left-wing officers overthrew the Estado Novo regime. The new government rapidly negotiated independence for all three territories by 1975. Angola and Mozambique both immediately descended into devastating civil wars, partly fueled by Cold War intervention, while Guinea-Bissau had achieved de facto independence even before the coup.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_Colonial_War",
+    "read_more_links": [
+        {
+            "title": "Estado Novo (Portugal)",
+            "url": "https://en.wikipedia.org/wiki/Estado_Novo_(Portugal)"
+        },
+        {
+            "title": "Angolan War of Independence",
+            "url": "https://en.wikipedia.org/wiki/Angolan_War_of_Independence"
+        },
+        {
+            "title": "Mozambican War of Independence",
+            "url": "https://en.wikipedia.org/wiki/Mozambican_War_of_Independence"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Forte_do_Bom_Sucesso_33182-Lisbon_%2835950198050%29.jpg/300px-Forte_do_Bom_Sucesso_33182-Lisbon_%2835950198050%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Forte_do_Bom_Sucesso_33182-Lisbon_%2835950198050%29.jpg",
+            "caption": "33182-Lisbon",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Chaimite_at_Elvas_2.jpg/300px-Chaimite_at_Elvas_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chaimite_at_Elvas_2.jpg",
+            "caption": "Portuguese Chaimite at Museu Militar de Elvas",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Museu_Militar_da_Luta_de_Liberta%C3%A7%C3%A3o_Nacional_%2811%29.jpg/300px-Museu_Militar_da_Luta_de_Liberta%C3%A7%C3%A3o_Nacional_%2811%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Museu_Militar_da_Luta_de_Liberta%C3%A7%C3%A3o_Nacional_%2811%29.jpg",
+            "caption": "Inside the Museu Militar da Luta de Libertação Nacional in Bissau.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HoldenRoberto_1973.jpg/300px-HoldenRoberto_1973.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HoldenRoberto_1973.jpg",
+            "caption": "Holden Roberto, president van de GRAE, de regering in ballingschap van de Ang...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "António de Oliveira Salazar",
+            "summary": "Prime Minister of Portugal from 1932 to 1968",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ant%C3%B3nio_de_Oliveira_Salazar_portrait_%28by_Manuel_Alves_San_Payo%29_%E2%80%93_Lisboa.jpg/250px-Ant%C3%B3nio_de_Oliveira_Salazar_portrait_%28by_Manuel_Alves_San_Payo%29_%E2%80%93_Lisboa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar"
+        },
+        {
+            "name": "Marcelo Caetano",
+            "summary": "Prime Minister of Portugal from 1968 to 1974",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marcello_caetano.jpg/250px-Marcello_caetano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcelo_Caetano"
+        },
+        {
+            "name": "Américo Tomás",
+            "summary": "President of Portugal from 1958 to 1974",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Am%C3%A9rico_Tom%C3%A1s.jpg/250px-Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Am%C3%A9rico_Tom%C3%A1s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Am%C3%A9rico_Tom%C3%A1s"
+        },
+        {
+            "name": "Francisco da Costa Gomes",
+            "summary": "President of Portugal From 1974 to 1976",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Francisco_Costa_Gomes_Roma_1975.jpg/250px-Francisco_Costa_Gomes_Roma_1975.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_da_Costa_Gomes"
+        },
+        {
+            "name": "António de Spínola",
+            "summary": "Portuguese president and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ant%C3%B3nio_de_Sp%C3%ADnola_%281974%29.png/250px-Ant%C3%B3nio_de_Sp%C3%ADnola_%281974%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Sp%C3%ADnola"
+        },
+        {
+            "name": "António Augusto dos Santos",
+            "summary": "Portuguese general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/General_Augusto_dos_Santos.png/250px-General_Augusto_dos_Santos.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Augusto_dos_Santos"
+        }
+    ],
+    "territory_geojson": null
+}

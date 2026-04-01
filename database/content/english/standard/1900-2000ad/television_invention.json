@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2740,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:0ed1fe677490ec34f5e4410e69d73f9f5e8f99f823dfbdf39054278d9aa3a3f7",
+    "summary": "The invention of television emerged from overlapping experiments conducted across several countries during the 1920s. Scottish inventor John Logie Baird demonstrated the first working mechanical television system in London in January 1926, transmitting recognizable images of human faces. In the United States, Philo Farnsworth developed a fully electronic television system and transmitted the first all-electronic image in 1927, while Vladimir Zworykin at RCA was simultaneously working on cathode-ray tube-based displays. The question of priority between mechanical and electronic systems, and between various national inventors, generated lasting controversy.\n\nRegular public broadcasting began in the United Kingdom in 1936 when the BBC launched the world's first high-definition television service. The United States followed with commercial broadcasting in 1941. The development was interrupted by World War II, but resumed rapidly after 1945. By the 1950s television had become the dominant mass medium across North America and Western Europe, transforming domestic life, political communication, and entertainment culture on an unprecedented scale.\n\nTelevision's cultural and political impact proved enormous. It brought live news coverage directly into homes — most dramatically during the [[event:2748|assassination of JFK]] in 1963 and the [[event:2677|moon landing]] in 1969 — and its power to shape public opinion became a central concern of democratic politics. Advertising-funded commercial television created new consumption patterns and homogenized popular culture across national audiences.\n\nThe medium transformed dramatically during its first half century, moving from black-and-white mechanical systems to color broadcasts, from single national channels to multi-channel cable and satellite television. By the end of the twentieth century, the average household in wealthy countries watched several hours of television daily, making it the most time-consuming leisure activity in human history and a central medium of public discourse.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Television",
+    "read_more_links": [
+        {
+            "title": "John Logie Baird - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/John-Logie-Baird"
+        },
+        {
+            "title": "Philo Farnsworth - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Philo_Farnsworth"
+        },
+        {
+            "title": "History of Television - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/television-technology/History-of-television"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Family_watching_television_1958.jpg/300px-Family_watching_television_1958.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Family_watching_television_1958.jpg",
+            "caption": "Family watching television in their home, c. 1958",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/John_Logie_Baird_and_Stooky_Bill.png/300px-John_Logie_Baird_and_Stooky_Bill.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Logie_Baird_and_Stooky_Bill.png",
+            "caption": "British inventor John Logie Baird and his first publicly demonstrated televis...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Samsung_LED_TV.jpg/300px-Samsung_LED_TV.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Samsung_LED_TV.jpg",
+            "caption": "A 40\" Samsung Full HD LED TV",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Dishing_out_the_truth.JPG/300px-Dishing_out_the_truth.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dishing_out_the_truth.JPG",
+            "caption": "Photo taken of Satellite Dishes in San Jose, CA, by Brian Seeling Katt in Aug...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alexander Bain (inventor)",
+            "summary": "Scottish inventor and engineer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Alexander_Bain.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Bain_%28inventor%29"
+        },
+        {
+            "name": "Paul Gottlieb Nipkow",
+            "summary": "German electrical engineer and inventor (1860–1940)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paul-nipkow.jpg/250px-Paul-nipkow.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Gottlieb_Nipkow"
+        },
+        {
+            "name": "Lee de Forest",
+            "summary": "American inventor (1873–1961)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lee_De_Forest.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lee_de_Forest"
+        },
+        {
+            "name": "Arthur Korn",
+            "summary": "German physicist and mathematician (1870–1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Arthur_Korn.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Korn"
+        },
+        {
+            "name": "Boris Rosing",
+            "summary": "Russian scientist and inventor (1869–1933)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Boris_Rozing.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Boris_Rosing"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2749,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2237390d8ca3c7406c6b23ff1d4db34352cde78c15306e23a2ad020d63e34885",
+    "summary": "The Watergate scandal began with a break-in at the Democratic National Committee headquarters in the Watergate complex in Washington, D.C. on June 17, 1972, carried out by operatives connected to President Richard Nixon's reelection campaign. Subsequent investigation revealed that Nixon and his senior aides had been systematically abusing executive power, directing illegal surveillance of political opponents, obstructing justice to conceal the break-in, and maintaining a secret slush fund for political dirty tricks. Nixon won reelection overwhelmingly in November 1972, but the scandal steadily unraveled over the following two years.\n\nThe Senate Watergate hearings in 1973 drew massive television audiences and the revelation that Nixon had secretly recorded conversations in the Oval Office proved decisive. Nixon resisted releasing the tapes, claiming executive privilege, but the Supreme Court unanimously ruled in United States v. Nixon that he must comply. The transcripts and recordings revealed Nixon's direct participation in the obstruction of justice. Facing near-certain impeachment and conviction, Nixon resigned the presidency on August 9, 1974 — the first and only U.S. president to resign from office. Vice President Gerald Ford, who succeeded him, controversially pardoned Nixon one month later.\n\nWatergate permanently altered American political culture, deepening public distrust of government that combined with the experience of the [[event:2674|Vietnam War]] to create lasting cynicism about political institutions. The scandal produced significant legislation including campaign finance reform and strengthened ethics and accountability measures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Watergate_scandal",
+    "read_more_links": [
+        {
+            "title": "Watergate Scandal - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Watergate-Scandal"
+        },
+        {
+            "title": "Richard Nixon Resignation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Resignation_of_Richard_Nixon"
+        },
+        {
+            "title": "United States v. Nixon - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/United_States_v._Nixon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Nation_needs_coolness_more_than_clarion_calls%3B_intelligence_more_than_charisma%3B_a_sense_of_history_more_than_a_sense_of_histrionics_LCCN2015649989.jpg/300px-The_Nation_needs_coolness_more_than_clarion_calls%3B_intelligence_more_than_charisma%3B_a_sense_of_history_more_than_a_sense_of_histrionics_LCCN2015649989.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Nation_needs_coolness_more_than_clarion_calls%3B_intelligence_more_than_charisma%3B_a_sense_of_history_more_than_a_sense_of_histrionics_LCCN2015649989.jpg",
+            "caption": "Title: The Nation needs coolness more than clarion calls; intelligence more t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/President_Ford_announces_his_decision_to_pardon_former_President_Richard_Nixon_-_NARA_-_7140608.jpg/300px-President_Ford_announces_his_decision_to_pardon_former_President_Richard_Nixon_-_NARA_-_7140608.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/President_Ford_announces_his_decision_to_pardon_former_President_Richard_Nixon_-_NARA_-_7140608.jpg",
+            "caption": "Photograph of President Gerald Ford announcing his decision to grant a pardon...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Watergate_Complex%2C_Office_Buildings_%281982%29.jpg/300px-Watergate_Complex%2C_Office_Buildings_%281982%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Watergate_Complex%2C_Office_Buildings_%281982%29.jpg",
+            "caption": "Watergate Complex, Einfahrt zur Tiefgarage",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/1976_campaign_button_f.JPG/300px-1976_campaign_button_f.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/1976_campaign_button_f.JPG",
+            "caption": "White button with blue lettering, depicting a man in a burglar outfit trying ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Presidency of Richard Nixon",
+            "summary": "U.S. presidential administration from 1969 to 1974",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/250px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Presidency_of_Richard_Nixon"
+        },
+        {
+            "name": "Richard Nixon",
+            "summary": "President of the United States from 1969 to 1974",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/250px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+        },
+        {
+            "name": "Impeachment process against Richard Nixon",
+            "summary": "1973–1974 US charging of president",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Opening_day_of_the_Nixon_impeachment_inquiry.jpg/250px-Opening_day_of_the_Nixon_impeachment_inquiry.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Impeachment_process_against_Richard_Nixon"
+        },
+        {
+            "name": "Richard Nixon's resignation speech",
+            "summary": "1974 address by the President of the United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nixon_Resignation_Speech_1974_with_Alvin_Snyder.jpg/250px-Nixon_Resignation_Speech_1974_with_Alvin_Snyder.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Nixon%27s_resignation_speech"
+        },
+        {
+            "name": "White House",
+            "summary": "Residence and workplace of the US president",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/250px-White_House_north_and_south_sides.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/White_House"
+        },
+        {
+            "name": "Bob Woodward",
+            "summary": "American investigative journalist (born 1943)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bob_Woodward_Oct23_%2853297480588%29.jpg/250px-Bob_Woodward_Oct23_%2853297480588%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Woodward"
+        }
+    ],
+    "territory_geojson": null
+}

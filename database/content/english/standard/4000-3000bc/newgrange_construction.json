@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1659,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2aa6d2be4dcac77631b57ef1304b3251d5c26aeb6ab6ecdbeaa02b0efd990623",
+    "summary": "Newgrange, a passage tomb located in the Boyne Valley of County Meath in Ireland, was constructed around 3200 BCE and stands as one of the most spectacular prehistoric monuments in the world. Predating Stonehenge by approximately five hundred years and the Great Pyramid of Giza by roughly six hundred years, Newgrange demonstrates the extraordinary capacity of Neolithic European communities — with no metal tools, no wheeled vehicles, and no writing — to organize massive collective labor projects of sophisticated astronomical and architectural precision.\n\nThe monument consists of a large circular mound approximately 80 meters in diameter and 13 meters high, covering about one acre and containing an estimated 200,000 tonnes of material. The mound is faced with white quartz cobbles imported from the Wicklow Mountains over 50 kilometers away and granite boulders from the Mourne Mountains, materials that required river transport and substantial logistical coordination. Ninety-seven large kerbstones, many decorated with carved spiral and lozenge patterns, encircle the base of the mound. The entrance stone bears particularly elaborate megalithic art including the famous triple-spiral motif.\n\nThe interior of Newgrange comprises a 19-meter stone-lined passage leading to a cruciform chamber with three recesses and a corbelled stone roof. The corbelling technique — progressively overhanging horizontal stone courses — achieves a height of six meters and has remained watertight for over five thousand years without mortar, a testament to its builders' engineering skill. The chamber contains three stone basins in which cremated human remains were placed, suggesting the monument served as a communal tomb for a social elite.\n\nNewgrange's most celebrated feature is its solar alignment. Above the entrance passage, a specially constructed roof-box allows a shaft of winter solstice sunlight to penetrate 19 meters into the chamber and illuminate the floor for approximately 17 minutes at sunrise on and around December 21st. This precise astronomical orientation required both careful planning and iterative construction adjustments, demonstrating that the monument's builders possessed sophisticated knowledge of the sun's seasonal path and the patience and resources to encode that knowledge in stone.\n\nNewgrange is one of three great passage tombs in the Boyne Valley cluster, accompanied by [[event:1660|Knowth]] and [[event:1661|Dowth]], all constructed within a few generations of one another. Together they form a ritual landscape of exceptional complexity and are inscribed as a UNESCO World Heritage Site.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Newgrange",
+    "read_more_links": [
+        {
+            "title": "Brú na Bóinne - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Br%C3%BA_na_B%C3%B3inne"
+        },
+        {
+            "title": "Megalithic Tombs - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Megalithic_architecture"
+        },
+        {
+            "title": "Newgrange - Britannica",
+            "url": "https://www.britannica.com/topic/Newgrange"
+        },
+        {
+            "title": "Neolithic Ireland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Ireland"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/County_Meath_-_Newgrange_-_20180709160029.jpg/300px-County_Meath_-_Newgrange_-_20180709160029.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/County_Meath_-_Newgrange_-_20180709160029.jpg",
+            "caption": "County Meath, Newgrange.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Corbelled_ceiling_of_Newgrange_passage_tomb.jpg/300px-Corbelled_ceiling_of_Newgrange_passage_tomb.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Corbelled_ceiling_of_Newgrange_passage_tomb.jpg",
+            "caption": "The corbelled vault of the Newgrange passage tomb chamber with a central caps...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Passage_leading_towards_chamber_of_Newgrange_passage_tomb_in_Ireland.jpg/300px-Passage_leading_towards_chamber_of_Newgrange_passage_tomb_in_Ireland.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Passage_leading_towards_chamber_of_Newgrange_passage_tomb_in_Ireland.jpg",
+            "caption": "A section of the passage leading towards the chamber of the Newgrange passage...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Maquette_Newgrange_3.jpg/300px-Maquette_Newgrange_3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Maquette_Newgrange_3.jpg",
+            "caption": "Newgrange",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dowth",
+            "summary": "Neolithic passage tomb located in the Boyne Valley, County Meath, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dowth.jpg/250px-Dowth.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dowth"
+        },
+        {
+            "name": "Megalithic art",
+            "summary": "Use of large stones as an artistic medium",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Newgrange_Entrance_Stone.jpg/250px-Newgrange_Entrance_Stone.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Megalithic_art"
+        },
+        {
+            "name": "Carrowkeel Megalithic Cemetery",
+            "summary": "Cluster of tombs in County Sligo, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CarrowkeelIreland.jpg/250px-CarrowkeelIreland.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carrowkeel_Megalithic_Cemetery"
+        },
+        {
+            "name": "Aengus",
+            "summary": "Irish god of youth, love, and poetic inspiration",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg/250px-Heroes_of_the_dawn_%281914%29_%2814566173909%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aengus"
+        },
+        {
+            "name": "Corbel arch",
+            "summary": "Architectural technique",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Corbel_Arch.svg/250px-Corbel_Arch.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Corbel_arch"
+        },
+        {
+            "name": "Joseph Nechvatal",
+            "summary": "American artist (born 1951)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Portrait_of_Joseph_Nechvatal%2C_2015.jpg/250px-Portrait_of_Joseph_Nechvatal%2C_2015.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Nechvatal"
+        }
+    ],
+    "territory_geojson": null
+}

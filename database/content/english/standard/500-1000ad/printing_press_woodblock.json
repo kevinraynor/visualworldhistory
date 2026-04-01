@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2158,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2b9201d663d7fd235ea78eece78b542bf21a55b486f83cd90273900e7fa217b5",
+    "summary": "Woodblock printing (developed in China c. 7th–9th centuries AD) was the first practical printing technology — the reproduction of text and images by carving a design in reverse into a wooden block, inking it, and pressing paper against it — and represents one of the most consequential inventions in human history. The technology was initially applied to Buddhist texts and images (the oldest dated printed book using this method is the [[event:2159|Diamond Sutra]], 868 AD), then rapidly expanded to secular texts, government documents, and eventually commercial publishing. The Chinese government used woodblock printing to produce the world's first paper money ([[event:2217|Chinese paper money]]) and official gazettes.\n\nWoodblock printing transformed Chinese civilization: the cost of producing books fell dramatically, enabling wider literacy and the standardization of classical texts; the examination system that staffed the Chinese bureaucracy was facilitated by printed study materials; Buddhist sutras could be reproduced in editions of thousands rather than hand-copied one at a time; and almanacs, agricultural manuals, and medical texts reached audiences that hand-copying could never have served. Movable type (individual ceramic characters) was invented in China by Bi Sheng around 1040 AD during the [[event:2156|Song dynasty]], but the enormous number of Chinese characters (tens of thousands) made movable type less practical than in alphabetic writing systems. The technology spread from China to Korea and Japan, and via Central Asia to the Islamic world; European movable type printing (Gutenberg, c. 1450) was likely independently invented but may have been influenced by Asian printing technology transmitted through trade.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Woodblock_printing",
+    "read_more_links": [
+        {
+            "title": "Diamond Sutra oldest printed book",
+            "url": "https://en.wikipedia.org/wiki/Diamond_Sutra"
+        },
+        {
+            "title": "Bi Sheng movable type China",
+            "url": "https://en.wikipedia.org/wiki/Bi_Sheng"
+        },
+        {
+            "title": "Printing history impact literacy",
+            "url": "https://en.wikipedia.org/wiki/History_of_printing"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jingangjing.jpg/300px-Jingangjing.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jingangjing.jpg",
+            "caption": "Frontispiece, Diamond Sutra from Cave 17, Dunhuang, ink on paper.\nA page from...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/300px-The_Great_Wave_off_Kanagawa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg",
+            "caption": "Modern recut copy of The Great Wave off Kanagawa (神奈川沖波裏), from 36 Views of M...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Matteo_Ripa001_-_Morning_Glow_on_the_Western_Ridge.jpg/300px-Matteo_Ripa001_-_Morning_Glow_on_the_Western_Ridge.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Matteo_Ripa001_-_Morning_Glow_on_the_Western_Ridge.jpg",
+            "caption": "Copper plate print from \"Imperial Production of Illustrated Poetry on the Sum...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/%E6%B8%85_%E7%8E%8B%E6%A7%A9_%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%9D%8E%E6%BC%81%E5%87%BA%E7%89%88_%E8%8A%A5%E5%AD%90%E5%9C%92%E7%95%AB%E5%82%B3_%E7%89%88%E6%9C%AC-Mt._Heng%2C_after_Juran_%28active_ca._960%E2%80%93965%29%2C_from_the_Mustard_Seed_Garden_Manual_of_Painting_MET_DP-14004-001.jpg/300px-%E6%B8%85_%E7%8E%8B%E6%A7%A9_%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%9D%8E%E6%BC%81%E5%87%BA%E7%89%88_%E8%8A%A5%E5%AD%90%E5%9C%92%E7%95%AB%E5%82%B3_%E7%89%88%E6%9C%AC-Mt._Heng%2C_after_Juran_%28active_ca._960%E2%80%93965%29%2C_from_the_Mustard_Seed_Garden_Manual_of_Painting_MET_DP-14004-001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%E6%B8%85_%E7%8E%8B%E6%A7%A9_%E8%A8%AD%E8%A8%88%EF%BC%8C%E6%9D%8E%E6%BC%81%E5%87%BA%E7%89%88_%E8%8A%A5%E5%AD%90%E5%9C%92%E7%95%AB%E5%82%B3_%E7%89%88%E6%9C%AC-Mt._Heng%2C_after_Juran_%28active_ca._960%E2%80%93965%29%2C_from_the_Mustard_Seed_Garden_Manual_of_Painting_MET_DP-14004-001.jpg",
+            "caption": "China; Print; Prints",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Wu Zetian",
+            "summary": "Empress of China from 690 to 705",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png/250px-%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wu_Zetian"
+        },
+        {
+            "name": "Emperor Yuan of Liang",
+            "summary": "Emperor of the Liang dynasty from 552 to 555",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Liang_Xiao_Yi.jpg/250px-Liang_Xiao_Yi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Yuan_of_Liang"
+        },
+        {
+            "name": "Emperor Zhenzong",
+            "summary": "Emperor of Song China from 997 to 1022",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Portrait_assis_de_l%27empereur_Song_Zhenzong.jpg/250px-Portrait_assis_de_l%27empereur_Song_Zhenzong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Zhenzong"
+        },
+        {
+            "name": "Su Shi",
+            "summary": "Chinese writer and politician (1037–1101)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Su_shi.jpg/250px-Su_shi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Su_Shi"
+        },
+        {
+            "name": "Matteo Ripa",
+            "summary": "Italian missionary",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Matteo_ripa.jpg/250px-Matteo_ripa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Matteo_Ripa"
+        },
+        {
+            "name": "Hu Zhengyan",
+            "summary": "Chinese painter, seal carver, and publisher (c. 1584 – 1674)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hu_Zhengyans_seal.JPG/250px-Hu_Zhengyans_seal.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hu_Zhengyan"
+        }
+    ],
+    "territory_geojson": null
+}

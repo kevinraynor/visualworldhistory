@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1853,
+    "parent_id": 56,
+    "granularity": "notable",
+    "content_hash": "sha256:66c16d0fad3826edb8450b197d1c67f5d2de3375759503d5136d416e70a4035c",
+    "summary": "San Lorenzo Tenochtitlán was the earliest major [[event:56|Olmec]] center and one of the oldest complex urban sites in Mesoamerica, flourishing from approximately 1500 to 1000 BC in the tropical lowlands of the Gulf Coast of Mexico, in what is now the state of Veracruz. The site sat atop a large plateau artificially reshaped by its inhabitants, with an elaborate system of drainage channels and aqueducts carved into the plateau surface — a feat of hydraulic engineering extraordinary for the period. At its height, San Lorenzo was the dominant center of political and religious power in the region.\n\nSan Lorenzo is most famous as the source of several of the [[event:1854|Olmec colossal heads]], massive stone portraits of rulers weighing up to 40 tons that were carved from basalt boulders quarried at Cerro Cintepec, some 80 kilometers distant, and transported to the site — a logistical achievement indicating substantial organizational capacity and surplus labor under centralized direction. The site also yielded enormous stone thrones and other monumental sculptures representing the earliest known tradition of monumental sculpture in Mesoamerica.\n\nAround 900 BC, San Lorenzo was largely abandoned and many of its stone monuments were deliberately mutilated and buried, possibly indicating either a political or religious transformation, a conquest, or an internal revolution. Political primacy in the Olmec world subsequently shifted to La Venta, which emerged as the major Olmec center of the subsequent period. San Lorenzo's role as the cradle of Olmec civilization makes it one of the most important archaeological sites in the Americas.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n",
+    "read_more_links": [
+        {
+            "title": "Olmec - Britannica",
+            "url": "https://www.britannica.com/topic/Olmec"
+        },
+        {
+            "title": "Olmec Civilization",
+            "url": "https://en.wikipedia.org/wiki/Olmecs"
+        },
+        {
+            "title": "La Venta",
+            "url": "https://en.wikipedia.org/wiki/La_Venta"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CabezaColosal1_MuseoXalapa_v1.1.jpg/300px-CabezaColosal1_MuseoXalapa_v1.1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/CabezaColosal1_MuseoXalapa_v1.1.jpg",
+            "caption": "CabezaColosal1 MuseoXalapa v1.1",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Olmec_%22Red_Palace%22_in_San_Lorenzo.webp/300px-The_Olmec_%22Red_Palace%22_in_San_Lorenzo.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Olmec_%22Red_Palace%22_in_San_Lorenzo.webp",
+            "caption": "An image of the \"Palacio Rojo\" or \"Red Palace\" in San Lorenzo",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

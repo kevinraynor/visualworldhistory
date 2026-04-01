@@ -1,0 +1,37 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1574,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:90c3de8a40cfb13113ffc0aa443f1e6c973cc5289d1f091fce4bd537f22604b9",
+    "summary": "Tell Zeidan is an archaeological site located at the confluence of the Balikh and Euphrates rivers in northern Syria, occupied from approximately 6000 to 4000 BCE during the Ubaid period. Excavations by the Oriental Institute of the University of Chicago beginning in 2008 have made Tell Zeidan one of the most informative Ubaid period sites ever investigated, providing detailed evidence for the social organization and economic practices of northern Mesopotamian communities during the transition toward complex society.\n\nTell Zeidan grew into a substantial community covering approximately 13 hectares — large by Ubaid standards — and the site preserves evidence of copper working, long-distance trade, stamp seal use, and social stratification. The presence of copper ore from the Taurus Mountains hundreds of kilometers away, obsidian from Anatolia, and exotic minerals confirms active participation in regional exchange networks. Stamp seals — used to mark ownership or authenticate transactions — appear at Tell Zeidan in significant quantities, indicating the beginnings of administrative practices that would later culminate in the development of writing.\n\nMost significantly, Tell Zeidan provides early evidence of social hierarchy through differential access to wealth and prestige goods in mortuary contexts. Some individuals were buried with far richer assemblages than others, and one building has been interpreted as a possible chiefly or elite residence. These findings suggest that significant social stratification preceded the Uruk period's urban revolution, challenging models that locate the origins of inequality exclusively in the emergence of [[event:34|Mesopotamian city-states]] in the south.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tell_Zeidan",
+    "read_more_links": [
+        {
+            "title": "Ubaid period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ubaid_period"
+        },
+        {
+            "title": "Oriental Institute Tell Zeidan project - University of Chicago",
+            "url": "https://oi.uchicago.edu/research/projects/tell-zeidan"
+        },
+        {
+            "title": "Northern Mesopotamia Chalcolithic - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-Mesopotamia/Prehistoric-Mesopotamia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 95,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:299a9402ca29e085d463811ac26ca12d33c187b35b2a4ab9388b6528ab2b926c",
+    "summary": "The Black Death (1347–1353 AD) was the most catastrophic pandemic in European history, killing an estimated 30–60% of Europe's population — between 25 and 50 million people — within roughly six years, and simultaneously devastating populations across the Middle East, Central Asia, and North Africa. Caused by Yersinia pestis bacteria transmitted primarily through rat fleas (with pneumonic transmission playing a role in the most lethal outbreaks), the Black Death reached Europe via Genoese trading ships from the Black Sea port of Caffa, spreading from Sicily through Italy, France, England, the Iberian Peninsula, Scandinavia, and Eastern Europe with terrifying speed.\n\nThe social, economic, and cultural consequences of the Black Death were transformative and paradoxical. The catastrophic labor shortage that followed gave the surviving peasantry unprecedented bargaining power, accelerating the decline of serfdom in Western Europe and contributing to [[event:2304|peasant revolts]] that challenged the existing social order. The Church's inability to explain or prevent the plague undermined ecclesiastical authority and contributed to the spiritual ferment that would eventually fuel the Reformation. The flagellant movement, anti-Jewish pogroms (Jews were falsely blamed for poisoning wells), and the macabre artistic tradition of the 'Dance of Death' reflected profound psychological dislocation. Economic disruption accelerated the reorganization of European commerce toward the Atlantic-focused trade networks that would power the [[event:97|Age of Exploration]]. The plague also likely spread along [[event:91|Mongol]] trade routes, making it an inadvertent consequence of the Pax Mongolica's Eurasian connectivity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Death",
+    "read_more_links": [
+        {
+            "title": "Black Death origins Caffa Black Sea",
+            "url": "https://en.wikipedia.org/wiki/Black_Death#Origin_and_spread"
+        },
+        {
+            "title": "Black Death social consequences Europe",
+            "url": "https://en.wikipedia.org/wiki/Black_Death#Consequences"
+        },
+        {
+            "title": "Flagellant movement anti-Jewish pogroms plague",
+            "url": "https://en.wikipedia.org/wiki/Flagellant"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Acral_gangrene_due_to_plague.jpg/300px-Acral_gangrene_due_to_plague.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Acral_gangrene_due_to_plague.jpg",
+            "caption": "Right hand of a plague patient displaying acral gangrene. Gangrene is one of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Yersinia_pestis_fluorescent.jpeg/300px-Yersinia_pestis_fluorescent.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Yersinia_pestis_fluorescent.jpeg",
+            "caption": "Yersinia pestis, Direct Fluorescent Antibody Stain (DFA), 200x Magnification....",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nuremberg_chronicles_-_Dance_of_Death_%28CCLXIIIIv%29.jpg/300px-Nuremberg_chronicles_-_Dance_of_Death_%28CCLXIIIIv%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Nuremberg_chronicles_-_Dance_of_Death_%28CCLXIIIIv%29.jpg",
+            "caption": "Illustrations from the Nuremberg Chronicle, by Hartmann Schedel (1440-1514)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg/300px-The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg",
+            "caption": "Obra moral que muestra el triunfo de la Muerte sobre las cosas mundanas, simb...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jani Beg",
+            "summary": "Khan of the Golden Horde from 1342 to 1357",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jani_Beg_Khan_enthroned%2C_in_Timurid_genealogy_1405-1409_%28Topkapi_Sarayi_M%C3%BCzesi%2C_H2152%29_f.38b.jpg/250px-Jani_Beg_Khan_enthroned%2C_in_Timurid_genealogy_1405-1409_%28Topkapi_Sarayi_M%C3%BCzesi%2C_H2152%29_f.38b.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jani_Beg"
+        },
+        {
+            "name": "Genghis Khan",
+            "summary": "Khan of the Mongol Empire from 1206 to 1227",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/250px-YuanEmperorAlbumGenghisPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Genghis_Khan"
+        },
+        {
+            "name": "Abu Sa'id Bahadur Khan",
+            "summary": "Ruler of the Mongol Ilkhanate from 1316 to 1335",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Abu_sa%27id.jpg/250px-Abu_sa%27id.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abu_Sa%27id_Bahadur_Khan"
+        },
+        {
+            "name": "Muhammad bin Tughluq",
+            "summary": "Sultan of Delhi from 1325 to 1351",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Muhammad_bin_Tughlaq_crop.jpg/250px-Muhammad_bin_Tughlaq_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_bin_Tughluq"
+        },
+        {
+            "name": "Justus Hecker",
+            "summary": "German physician and medical writer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Justus_Friedrich_Karl_Hecker.jpg/250px-Justus_Friedrich_Karl_Hecker.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justus_Hecker"
+        },
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        }
+    ],
+    "territory_geojson": null
+}

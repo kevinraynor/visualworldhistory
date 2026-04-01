@@ -1,0 +1,70 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1812,
+    "parent_id": 60,
+    "granularity": "detailed",
+    "content_hash": "sha256:d0fdf1f6a813329988db06cd5fea3a5cab619829081858767c6fada48fe181c4",
+    "summary": "The Book of the Dead is a collection of ancient Egyptian funerary texts, spells, and illustrations used from approximately 1550 BC onward to assist the deceased in navigating the dangers of the afterlife and achieving a blessed existence in the realm of the dead. Written on papyrus scrolls placed in the coffin or tomb of the deceased, or inscribed on tomb walls and burial objects, the Book of the Dead was a customized compilation rather than a fixed canonical text — different copies varied in content and length according to the wealth and preferences of the patron.\n\nThe texts evolved from earlier funerary literature, including the Pyramid Texts (inscribed only in royal pyramids) and the Coffin Texts (used by non-royal elites during the Middle Kingdom). The New Kingdom democratization of funerary religion allowed wealthy commoners to commission their own copies. Key chapters include spells for recognizing the deceased in the afterlife, for protecting the body from decay, and most famously the Negative Confession (Chapter 125), in which the deceased declared before forty-two divine judges that they had not committed specific sins, followed by the weighing of the heart against the feather of Ma'at to determine the purity of the soul.\n\nThe Book of the Dead provides modern scholars with rich evidence for New Kingdom Egyptian religious belief, cosmology, and conceptions of the afterlife, including the geography of the underworld, the role of divine beings such as Osiris and Anubis, and the importance of moral conduct during life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Book_of_the_Dead",
+    "read_more_links": [
+        {
+            "title": "Funerary Text (Egypt)",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_texts"
+        },
+        {
+            "title": "Book of the Dead - Britannica",
+            "url": "https://www.britannica.com/topic/Book-of-the-Dead-Egyptian-text"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BOTDSpell7980.jpg/300px-BOTDSpell7980.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/BOTDSpell7980.jpg",
+            "caption": "Fragment of coffin of Muthetepi (c. 747 - 656 BCE, Third intermediate period,...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bookofthedead-blackbg.jpg/300px-Bookofthedead-blackbg.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bookofthedead-blackbg.jpg",
+            "caption": "Complete scan of the 19th-century facsimiles of the Papyrus of Ani, a 78-foot...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Libro_dei_morti_di_Kha_AFP_0310.tif/300px-Libro_dei_morti_di_Kha_AFP_0310.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Libro_dei_morti_di_Kha_AFP_0310.tif",
+            "caption": "Papyrus in museo egizio - Turin, Italy",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg/300px-PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg",
+            "caption": "Book of the Dead papyrus of Pinedjem II, 21st dynasty, circa 990-969 BC. Orig...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Unas",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/King_unas_of_egypt_being_suckled_by_a_unknown_goddess.jpg/250px-King_unas_of_egypt_being_suckled_by_a_unknown_goddess.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Unas"
+        },
+        {
+            "name": "Hatshepsut",
+            "summary": "Pharaoh of Egypt from 1479 to 1458 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg/250px-Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hatshepsut"
+        },
+        {
+            "name": "Thutmose III",
+            "summary": "Pharaoh of Egypt from 1479 to 1425 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thutmosis_III-2_%28cropped%29.jpg/250px-Thutmosis_III-2_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thutmose_III"
+        }
+    ],
+    "territory_geojson": null
+}

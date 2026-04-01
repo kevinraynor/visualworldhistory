@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1444,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:cccd68ecfec25a81e850fdf9ae4622a958d217ed50c8efc154be9fd7483da023",
+    "summary": "The Andean Archaic period, spanning roughly from 8000 to 2000 BCE, was the long transitional era between the first colonization of the Andes by hunter-gatherers following the last glacial maximum and the emergence of the first complex societies in the region. During the portion of this period covered by this era (8000–6000 BCE), communities throughout the diverse ecological zones of the Andes — coast, highland valleys, high puna grasslands, and Amazonian margins — were developing the subsistence strategies and social arrangements that would eventually give rise to Andean civilization.\n\nArchaic Andean communities practiced a sophisticated multi-resource economy that exploited the extreme ecological diversity of the Andean environment. Coastal communities focused on marine resources while highland communities hunted camelids (guanaco and vicuña, the wild ancestors of the llama and alpaca), gathered highland tubers and grasses, and began early experiments in plant cultivation. The beginnings of [[event:1442|potato domestication]] and the proto-domestication of [[event:1500|llamas]] and [[event:1501|guinea pigs]] belong to this broad Archaic horizon.\n\nThe Archaic period in the Andes demonstrates the capacity of forager and early horticultural communities to develop complex adaptations to demanding environments without full-scale agriculture. The rich marine resources of the Humboldt Current in particular allowed coastal Archaic communities to support relatively dense populations and begin the social elaboration that would eventually culminate in the complex societies of later millennia, long before grain agriculture became the economic foundation of Andean life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Andean_preceramic",
+    "read_more_links": [
+        {
+            "title": "Andean Civilizations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andean_civilizations"
+        },
+        {
+            "title": "Humboldt Current - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Humboldt_Current"
+        },
+        {
+            "title": "Prehistoric South America - Britannica",
+            "url": "https://www.britannica.com/place/South-America/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PeruCaral01b.jpg/300px-PeruCaral01b.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/PeruCaral01b.jpg",
+            "caption": "Pirámides en Caral, Valle de Supe, Region Lima, Peru\n\n\n\n\n\n\nThis  is a retouch...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/PeruCaral02.jpg/300px-PeruCaral02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/PeruCaral02.jpg",
+            "caption": "Pirámides en Caral, Valle de Supe, Region Lima, Peru.",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ausangate-hillside-MT.jpg/300px-Ausangate-hillside-MT.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ausangate-hillside-MT.jpg",
+            "caption": "Hillside of peruvian Ausangate mountain.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/El_paraiso_peru.jpg/300px-El_paraiso_peru.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/El_paraiso_peru.jpg",
+            "caption": "Archaeological remains of the architectural complex of El Paraíso.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Earthworks (archaeology)",
+            "summary": "General term to describe artificial changes in land level in history and pre-history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De_Offa_Dyke.JPG/250px-De_Offa_Dyke.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Earthworks_%28archaeology%29"
+        }
+    ],
+    "territory_geojson": null
+}

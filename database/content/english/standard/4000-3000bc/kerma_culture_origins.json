@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1689,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d3dc43059c877b616c87c9284fc4293f5ca649817da6c930b21beb68bd740d68",
+    "summary": "The origins of the Kerma culture lie in the fourth millennium BCE, in the region of Upper Nubia centered on the Nile bend near present-day Kerma in Sudan. Precursors to the classic Kerma kingdom are traceable to pre-Kerma pastoral communities that herded cattle along the Nile and its tributaries, establishing settlements and cemeteries that would grow into the foundations of the first indigenous sub-Saharan African state.\n\nBy the third millennium BCE, Kerma had developed into a significant center of trade, cattle herding, and craft production, linked to [[event:1637|Egypt]] through exchange of gold, ivory, and enslaved people. Kerma-period pottery, characterized by its fine black-topped red ware, is among the most technically accomplished ceramics of ancient Africa. The culture would eventually give rise to the Kingdom of Kerma (approximately 2500–1500 BCE), which became a rival power to the Egyptian Middle Kingdom and the first recognizably urban civilization in sub-Saharan Africa.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kerma_culture",
+    "read_more_links": [
+        {
+            "title": "Kingdom of Kerma - Britannica",
+            "url": "https://www.britannica.com/place/Kerma"
+        },
+        {
+            "title": "Nubian Kingdoms - Metropolitan Museum",
+            "url": "https://www.metmuseum.org/toah/hd/kush/hd_kush.htm"
+        },
+        {
+            "title": "Ancient Sudan - British Museum",
+            "url": "https://www.britishmuseum.org/collection/galleries/ancient-sudan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tumulus_Kerma.jpg/300px-Tumulus_Kerma.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Tumulus_Kerma.jpg",
+            "caption": "Early Kerma (2500 to 2450 BC), Neolithic, found in Kerma necropolis. The tumu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Exposition_Nubia%2C_Land_of_the_Black_Pharaohs_%E2%80%93_Mirror._Kerma_Period%2C_1700-1550_BC.jpg/300px-Exposition_Nubia%2C_Land_of_the_Black_Pharaohs_%E2%80%93_Mirror._Kerma_Period%2C_1700-1550_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Exposition_Nubia%2C_Land_of_the_Black_Pharaohs_%E2%80%93_Mirror._Kerma_Period%2C_1700-1550_BC.jpg",
+            "caption": "Exposition Nubia, Land of the Black Pharaohs – Mirror. Kerma Period, 1700-155...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pottery%2C_Kerma_Museum%2C_Kerma%2C_Sudan%2C_North-east_Africa.jpg/300px-Pottery%2C_Kerma_Museum%2C_Kerma%2C_Sudan%2C_North-east_Africa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pottery%2C_Kerma_Museum%2C_Kerma%2C_Sudan%2C_North-east_Africa.jpg",
+            "caption": "Pottery, Kerma Museum, Kerma, Sudan, North-east Africa\nThe most characteristi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Daggers_of_bone_and_copper%2C_1750-1450_BCE%2C_Kerma%2C_British_Museum_EA55442.jpg/300px-Daggers_of_bone_and_copper%2C_1750-1450_BCE%2C_Kerma%2C_British_Museum_EA55442.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Daggers_of_bone_and_copper%2C_1750-1450_BCE%2C_Kerma%2C_British_Museum_EA55442.jpg",
+            "caption": "Daggers of bone and copper, 1750-1450 BCE, Kerma, British Museum EA55442\nBrit...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sobekhotep IV",
+            "summary": "Egyptian king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/F0822_Louvre_Sebekhotep_IV_E17_rwk.jpg/250px-F0822_Louvre_Sebekhotep_IV_E17_rwk.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sobekhotep_IV"
+        },
+        {
+            "name": "Taharqa",
+            "summary": "King of Kush and pharaoh of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Taharqa%2C_Louvre_Museum.jpg/250px-Taharqa%2C_Louvre_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taharqa"
+        }
+    ],
+    "territory_geojson": null
+}

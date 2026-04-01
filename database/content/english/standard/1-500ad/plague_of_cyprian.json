@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2088,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d456dfdd03e3a75e5af8b99b7d68a35ca89f52542cf54edd2f8f04f60c3bf205",
+    "summary": "The Plague of Cyprian (c. 249–262 AD) was a devastating pandemic that struck the Roman Empire at the height of the [[event:2025|Crisis of the Third Century]], killing an estimated 5,000 people per day at its peak in Rome and persisting for nearly fifteen years with recurring waves across the empire. Named after Cyprian, the Christian Bishop of Carthage who wrote about it (and who later died in it), the plague's pathogen remains debated — modern analysis of a mass grave from Alexandria with evidence of lime disinfectant and burning suggests it may have been viral hemorrhagic fever, possibly an Ebola-like virus, though smallpox and pandemic influenza have also been proposed.\n\nThe Plague of Cyprian's demographic, economic, and political consequences were severe — it exacerbated the instability of the Crisis of the Third Century by decimating armies, disrupting agriculture, and killing emperors (Claudius Gothicus died of it in 270 AD). Paradoxically, the plague may have aided the spread of Christianity: Christian communities' organized charity for the sick — including caring for non-Christians, who sometimes survived because of basic nursing care — provided a dramatic contrast to the traditional Roman response of abandoning plague victims. Cyprian's pastoral writings on death and suffering during the plague helped shape Christian theology of martyrdom and mortality. The early Christian willingness to tend the dying when others fled was noted by pagan observers and may have contributed to Christianity's growing appeal during this period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plague_of_Cyprian",
+    "read_more_links": [
+        {
+            "title": "Cyprian bishop writings",
+            "url": "https://en.wikipedia.org/wiki/Cyprian"
+        },
+        {
+            "title": "Plague pathogen identification",
+            "url": "https://en.wikipedia.org/wiki/Plague_of_Cyprian#Cause"
+        },
+        {
+            "title": "Christianity plague response",
+            "url": "https://en.wikipedia.org/wiki/Plague_of_Cyprian#Social_impact"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heiliger_Cyprianus.jpg/300px-Heiliger_Cyprianus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Heiliger_Cyprianus.jpg",
+            "caption": "Ausstattung der ehemaligen Seitenaltäre der Meßkircher St. Martinskirche, Sta...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cyprian",
+            "summary": "Bishop of Carthage and Christian writer (c. 210–258)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cyprian_von_Karthago2.jpg/250px-Cyprian_von_Karthago2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyprian"
+        },
+        {
+            "name": "Pope Dionysius of Alexandria",
+            "summary": "Head of the Church in Alexandria from 248 to 264",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dionisii_alek.jpg/250px-Dionisii_alek.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Dionysius_of_Alexandria"
+        },
+        {
+            "name": "Valerian (emperor)",
+            "summary": "Roman emperor from 253 to 260",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg/250px-Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valerian_%28emperor%29"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "Trebonianus Gallus",
+            "summary": "Roman emperor from 251 to 253",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bronze_statue_of_the_emperor_Trebonianus_Gallus_%28detail%29.jpg/250px-Bronze_statue_of_the_emperor_Trebonianus_Gallus_%28detail%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trebonianus_Gallus"
+        },
+        {
+            "name": "Volusianus",
+            "summary": "Roman emperor from 251 to 253",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Buste_de_Volusianus%2C_MBA.jpg/250px-Buste_de_Volusianus%2C_MBA.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Volusianus"
+        }
+    ],
+    "territory_geojson": null
+}

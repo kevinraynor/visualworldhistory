@@ -1,0 +1,53 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1597,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:40d2ec8d768cc1b63273ac5b9c86d436511eb5de9df3d0aa4e678aff5138fb1c",
+    "summary": "Watson Brake, located in Ouachita Parish in north-central Louisiana, is one of the oldest known earthwork mound complexes in North America, constructed by hunter-gatherer communities between approximately 3500 and 2800 BCE. The complex consists of eleven earthen mounds of varying heights, connected by low ridges to form an oval ring approximately 280 meters across. The largest mound rises to about 7.5 meters. Watson Brake predates the better-known Poverty Point site by roughly 2,000 years and challenges assumptions about the social complexity achievable by pre-agricultural societies.\n\nThe construction of Watson Brake required sustained, organized labor over many generations. Mound building of this scale without permanent agriculture, draft animals, or metal tools implies a degree of social coordination — whether through communal consensus, seasonal aggregation, or leadership — that was long considered incompatible with a hunter-gatherer lifestyle. The discovery of Watson Brake significantly revised archaeological models of social complexity, demonstrating that monumentality and community organization are not exclusively features of agricultural or urban societies.\n\nThe builders of Watson Brake were part of the Middle Archaic period culture of the Lower Mississippi Valley, subsisting on a rich mix of river fishing, hunting, and gathering wild plants. The region's exceptional natural productivity — the Lower Mississippi and its oxbows teemed with fish, shellfish, waterfowl, and mammals — may have supported the kind of sedentary or semi-sedentary lifestyle that facilitated monument building without requiring full-scale agriculture. Radiocarbon dates from Watson Brake place its construction squarely within the [[event:1599|Archaic Eastern Woodlands]] cultural tradition.\n\nThe purpose of the Watson Brake mound complex is not definitively established. The absence of clear evidence for burial mounds, temples, or elite residences suggests that the primary function may have been communal gathering, ceremonial activity, or territorial marking. Some researchers propose that the oval arrangement of mounds and ridges created a defined ceremonial space for periodic community aggregation, perhaps for feasting, exchange, or ritual events. The long-continued use of the site implies it held enduring significance for regional communities across multiple generations.\n\nWatson Brake is among the earliest examples of a tradition of mound building in eastern North America that would continue in various forms — from the Poverty Point culture through the Hopewell and Mississippian traditions — for several thousand years. It demonstrates the capacity of North American hunter-gatherer societies to invest in landscape modification and monumental construction long before the development of agriculture, and it represents a distinctive trajectory of social and ceremonial development in the pre-Columbian Americas.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Watson_Brake",
+    "read_more_links": [
+        {
+            "title": "Archaic period in North America - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archaic_period_(North_America)"
+        },
+        {
+            "title": "Poverty Point - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Poverty_Point"
+        },
+        {
+            "title": "North American mound building - Britannica",
+            "url": "https://www.britannica.com/topic/Mound-builder"
+        },
+        {
+            "title": "Lower Mississippi Valley archaeology - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/581/watson-brake/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Watson_Brake_Mounds_-_Map.png/300px-Watson_Brake_Mounds_-_Map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Watson_Brake_Mounds_-_Map.png",
+            "caption": "Map of the Watson Brake archaeological site",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mound_Builder_City.jpeg/300px-Mound_Builder_City.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mound_Builder_City.jpeg",
+            "caption": "An artists conception of the Emerald Site, (22 AD 504), a Plaquemine culture ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Watson_Brake_Aerial_Illustration_HRoe_2014.jpg/300px-Watson_Brake_Aerial_Illustration_HRoe_2014.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Watson_Brake_Aerial_Illustration_HRoe_2014.jpg",
+            "caption": "Artists conception of Watson Brake, an archaeological site in Ouachita Parish...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

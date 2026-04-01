@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2575,
+    "parent_id": 2534,
+    "granularity": "detailed",
+    "content_hash": "sha256:fa6ccaa498d6ef619726a8314955210b1af412b3dbe3e366f7b79925255a7c93",
+    "summary": "The Austro-Prussian War of 1866, also known as the Seven Weeks' War, was a short but decisive conflict between Prussia and Austria that determined whether the future German national state would be led by Prussia or Austria. Prussia's stunning victory excluded Austria from German affairs entirely and paved the way for [[event:2534|German Unification]] under Prussian leadership.\n\nBismarck had carefully prepared the political ground for war, securing Italian neutrality by promising Venetia to Italy and obtaining French neutrality through deliberate ambiguity about Prussia's postwar intentions. When fighting began in June 1866, the outcome was determined in just seven weeks. At the Battle of Königgrätz (Sadowa) on 3 July 1866, the Prussian army, equipped with the superior breech-loading Dreyse 'needle gun' and displaying superior coordination through use of the railway and telegraph, decisively defeated the main Austrian army and inflicted approximately 44,000 Austrian casualties against 9,000 of their own.\n\nBismarck imposed surprisingly moderate peace terms on Austria, resisting demands from the Prussian military for a triumphant march on Vienna. The Peace of Prague simply excluded Austria from the new North German Confederation and required the cession of Venetia to Italy. Bismarck's moderation was calculated: he did not want to push Austria into a permanent revanchist posture, preferring a defeated Austria as a potential future partner rather than an implacable enemy. This calculation paid dividends when Austria joined Germany's alliance system after 1871. The rapid Prussian victory also alarmed France, which realized too late that it had allowed Prussian power to grow unchecked — setting up the confrontation of 1870–71.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Austro-Prussian_War",
+    "read_more_links": [
+        {
+            "title": "Austro-Prussian War – Britannica",
+            "url": "https://www.britannica.com/event/Austro-Prussian-War"
+        },
+        {
+            "title": "Battle of Königgrätz – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_K%C3%B6niggr%C3%A4tz"
+        },
+        {
+            "title": "German Unification – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Unification_of_Germany"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chlum%2C_V%C5%A1estary_2022-04_14.jpg/300px-Chlum%2C_V%C5%A1estary_2022-04_14.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chlum%2C_V%C5%A1estary_2022-04_14.jpg",
+            "caption": "Memorial to the Battery of the Dead, Chlum, Všestary",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bilderrevolution0263.jpg/300px-Bilderrevolution0263.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bilderrevolution0263.jpg",
+            "caption": "Empfang für die preußischen Truppen in Berlin.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Austro-prussian-war-1866.png/300px-Austro-prussian-war-1866.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Austro-prussian-war-1866.png",
+            "caption": "Военные коалиции и ход австро-прусской войны 1866 года.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Europe_1867_map_en.png/300px-Europe_1867_map_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Europe_1867_map_en.png",
+            "caption": "Europe 1867. Historical map of the political situation after the forming of t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Georg Bleibtreu",
+            "summary": "German painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/G._Bleibtreu.jpg/250px-G._Bleibtreu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georg_Bleibtreu"
+        },
+        {
+            "name": "Otto von Bismarck",
+            "summary": "Chancellor of Germany from 1871 to 1890",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg/250px-Otto_von_Bismarck_1885_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Otto_von_Bismarck"
+        },
+        {
+            "name": "Helmuth von Moltke the Elder",
+            "summary": "German field marshal (1800–1891)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Portrait_of_Helmuth_von_Moltke_the_Elder_%28by_Carl_G%C3%BCnther%29_-_BNF_Gallica_%28cropped%29.jpg/250px-Portrait_of_Helmuth_von_Moltke_the_Elder_%28by_Carl_G%C3%BCnther%29_-_BNF_Gallica_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Elder"
+        },
+        {
+            "name": "Albrecht von Roon",
+            "summary": "Prussian general (1803–1879)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Count_Albrecht_von_Roon_circa_1870.jpg/250px-Count_Albrecht_von_Roon_circa_1870.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Albrecht_von_Roon"
+        },
+        {
+            "name": "Alfonso Ferrero La Marmora",
+            "summary": "Italian general and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Crimean_War_1854-56_Q71522.jpg/250px-Crimean_War_1854-56_Q71522.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfonso_Ferrero_La_Marmora"
+        },
+        {
+            "name": "Giuseppe Garibaldi",
+            "summary": "Italian patriot and general (1807–1882)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Garibaldi_%281866%29.jpg/250px-Garibaldi_%281866%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Garibaldi"
+        }
+    ],
+    "territory_geojson": null
+}

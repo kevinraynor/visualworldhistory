@@ -1,0 +1,87 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "2.0",
+    "event_id": 3584,
+    "summary": "The Pont du Gard (built c. 40–60 AD, though often associated with Roman engineering of the late Republic/early Imperial era) is a three-tiered Roman aqueduct bridge crossing the Gardon River in southern France, part of the 50-kilometer aqueduct system that supplied water to the Roman colony of Nemausus (modern Nîmes). Standing 49 meters high and 275 meters long, it is the tallest surviving Roman aqueduct bridge and among the best-preserved Roman structures anywhere in the world.\n\nThe engineering achievement is remarkable: the aqueduct channel at the top maintains a gradient of just 1 in 3,000 — dropping only 17 meters over 50 kilometers — an extraordinary surveying precision achieved without modern instruments. The stones of the bridge were laid without mortar, relying entirely on precise fitting and the weight of the structure. Projecting stones (putlogs) that originally supported the construction scaffolding are still visible. The aqueduct delivered approximately 40,000 cubic meters of water daily to Nîmes. The Pont du Gard exemplifies the Roman capacity to apply engineering solutions to infrastructure at a scale that would not be matched until the industrial era, and it remains a UNESCO World Heritage Site.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pont_du_Gard",
+    "read_more_links": [
+        {
+            "title": "Roman aqueducts engineering",
+            "url": "https://en.wikipedia.org/wiki/Roman_aqueduct"
+        },
+        {
+            "title": "Nîmes ancient Nemausus",
+            "url": "https://en.wikipedia.org/wiki/N%C3%AEmes"
+        },
+        {
+            "title": "Roman construction techniques",
+            "url": "https://en.wikipedia.org/wiki/Roman_engineering"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/300px-Pont_du_Gard_BLS.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pont_du_Gard_BLS.jpg",
+            "caption": "Pont du Gard, in Vers-Pont-du-Gard, Gard department, South France. The Pont d...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pont_du_Gard_Arch_Underside.jpg/300px-Pont_du_Gard_Arch_Underside.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pont_du_Gard_Arch_Underside.jpg",
+            "caption": "The underside of an arch on the second tier of the Pont du Gard. Note the mis...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pont_du_Gard_Scale.jpg/300px-Pont_du_Gard_Scale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pont_du_Gard_Scale.jpg",
+            "caption": "The road bridge adjacent to the aqueduct. Pedestrians are shown for scale.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pont_du_Gard_HDR_2.jpg/300px-Pont_du_Gard_HDR_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pont_du_Gard_HDR_2.jpg",
+            "caption": "arrière",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Marcus Vipsanius Agrippa",
+            "summary": "Roman general and statesman (c. 63–12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agrippa_Gabii_Louvre_Ma1208.jpg/250px-Agrippa_Gabii_Louvre_Ma1208.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa"
+        },
+        {
+            "name": "Claudius",
+            "summary": "Roman emperor from AD 41 to 54",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Claudius_crop.jpg/250px-Claudius_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claudius"
+        },
+        {
+            "name": "Henri, Duke of Rohan",
+            "summary": "Breton-French soldier, writer and leader of the Huguenots",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Henri_de_Rohan.png/250px-Henri_de_Rohan.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henri%2C_Duke_of_Rohan"
+        },
+        {
+            "name": "Alexandre Dumas",
+            "summary": "French writer and dramatist (1802–1870)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alexander_Dumas_p%C3%A8re_par_Nadar_-_Google_Art_Project.jpg/250px-Alexander_Dumas_p%C3%A8re_par_Nadar_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexandre_Dumas"
+        },
+        {
+            "name": "Napoleon III",
+            "summary": "Emperor of the French from 1852 to 1870",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre_Cabanel_002.jpg/250px-Alexandre_Cabanel_002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon_III"
+        }
+    ]
+}

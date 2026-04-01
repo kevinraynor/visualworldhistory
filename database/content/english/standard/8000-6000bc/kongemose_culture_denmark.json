@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1484,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d7d1a94125e9c032b19d9ee249457ba4196e110e3f68390d13cec4daadcd1109",
+    "summary": "The Kongemose culture was a Mesolithic hunter-gatherer culture of Scandinavia, primarily Denmark and southern Sweden, dated from approximately 6400 to 5400 BCE. Named after the site of Kongemose bog in central Zealand, Denmark, this culture represents one of the later phases of Mesolithic occupation in northern Europe before the arrival of farming communities and the transition to the Neolithic. Kongemose communities were skilled hunters, fishers, and gatherers who exploited the rich marine, estuarine, and forest resources of the post-glacial Scandinavian environment.\n\nThe Kongemose people lived along coastlines, in forest clearings, and near rivers and lakes, taking advantage of the productive ecosystems of the post-glacial Boreal and Atlantic periods when Scandinavia's climate was warming and forests were expanding. Their material culture includes microblades and microlithic stone tools, bone and antler points, fishing equipment, and simple dugout canoes — reflecting a sophisticated adaptation to a complex environment. The large shell middens (kitchen midden sites) characteristic of Danish Mesolithic culture were beginning to accumulate during this period.\n\nThe Kongemose culture was succeeded by the [[event:1485|Ertebølle culture]], which continued the hunter-gatherer tradition in Scandinavia well into the period when farming communities were already established in much of the rest of Europe. The persistence of rich hunter-gatherer adaptations in coastal Scandinavia illustrates how environmental productivity could sustain non-farming lifestyles even as the Neolithic agricultural wave was transforming societies to the south.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kongemose_culture",
+    "read_more_links": [
+        {
+            "title": "Ertebølle Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Erteб%C3%B8lle_culture"
+        },
+        {
+            "title": "Mesolithic Scandinavia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mesolithic_Scandinavia"
+        },
+        {
+            "title": "European Mesolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/European_Mesolithic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arch%C3%A4ologisches_Landesmuseum_Schloss_Gottorf_020.JPG/300px-Arch%C3%A4ologisches_Landesmuseum_Schloss_Gottorf_020.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Arch%C3%A4ologisches_Landesmuseum_Schloss_Gottorf_020.JPG",
+            "caption": "Archaeological state museum Schleswig-Holstein, Gottorf Castle",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Stitching awl",
+            "summary": "Tool for making or enlarging holes in fabric or leather",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/7alenebott.png/250px-7alenebott.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stitching_awl"
+        },
+        {
+            "name": "West Zealand County",
+            "summary": "County of Denmark",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/DenmarkWestZealand.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/West_Zealand_County"
+        }
+    ],
+    "territory_geojson": null
+}

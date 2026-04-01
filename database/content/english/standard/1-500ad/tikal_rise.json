@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2071,
+    "parent_id": 2070,
+    "granularity": "notable",
+    "content_hash": "sha256:ebc8ebde9d0de8b398528ecf6e49f55e41a4668334fe8e2463143d7c3caf0a54",
+    "summary": "The Rise of Tikal (c. 1st–5th centuries AD) saw this Maya city in the Petén lowlands of modern Guatemala grow from a minor settlement into the most powerful city-state of the early Maya Classic Period, controlling a vast territory through military conquest, strategic alliances, and control of trade routes. Tikal's trajectory was dramatically accelerated by its connections with [[event:2069|Teotihuacan]] — in 378 AD, a figure named Siyaj K'ahk' (Fire is Born), apparently connected to Teotihuacan, arrived at Tikal and installed a new ruling dynasty, replacing the previous king. This 'entrada' brought new architectural styles, weaponry, and political legitimacy tied to Teotihuacan's distant prestige.\n\nBy the 5th century, Tikal had emerged as one of the dominant powers in the Maya lowlands, with a dynastic tradition recorded in carved stone monuments (stelae and altars), monumental pyramid-temples that still dominate the jungle skyline, and a complex urban core housing tens of thousands of people. The city's Great Plaza — flanked by Temple I (the Temple of the Great Jaguar) and Temple II — represents one of the most magnificent public spaces in the ancient Americas. Tikal's rivalry with Calakmul, centered on competing alliance networks, would define Maya Classic Period politics for centuries. The city was a major pilgrimage, trade, and political center whose influence extended across hundreds of kilometers of lowland Maya territory.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tikal",
+    "read_more_links": [
+        {
+            "title": "Siyaj K'ahk Teotihuacan entrada",
+            "url": "https://en.wikipedia.org/wiki/Siyaj_K%27ahk%27"
+        },
+        {
+            "title": "Tikal Great Plaza temples",
+            "url": "https://en.wikipedia.org/wiki/Tikal#Great_Plaza"
+        },
+        {
+            "title": "Tikal Calakmul rivalry",
+            "url": "https://en.wikipedia.org/wiki/Tikal#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tikal-Plaza-And-North-Acropolis.jpg/300px-Tikal-Plaza-And-North-Acropolis.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tikal-Plaza-And-North-Acropolis.jpg",
+            "caption": "Temple I on The Great Plaza and North Acropolis seen from Temple II in Tikal,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tikal_Plaza_of_the_Seven_Temples.jpg/300px-Tikal_Plaza_of_the_Seven_Temples.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Tikal_Plaza_of_the_Seven_Temples.jpg",
+            "caption": "Plaza of the Seven Temples at Tikal, Peten, Guatemala.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Chr%C3%A1m_V.jpg/300px-Chr%C3%A1m_V.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Chr%C3%A1m_V.jpg",
+            "caption": "View on the Temple V of Tikal (Petén, Guatemala).",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/DSC03332TikalUnderjordiskSteinansikt.JPG/300px-DSC03332TikalUnderjordiskSteinansikt.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/DSC03332TikalUnderjordiskSteinansikt.JPG",
+            "caption": "A large stucco mask adorning the substructure of Temple 33 in the North Acrop...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mundo Perdido, Tikal",
+            "summary": "Architectural complexes in Tikal, Guatemala",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mundo_Perdido_pyramid_5C-54%2C_Tikal.jpg/250px-Mundo_Perdido_pyramid_5C-54%2C_Tikal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mundo_Perdido%2C_Tikal"
+        },
+        {
+            "name": "Maya architecture",
+            "summary": "Architecture style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Palenque%2C_Chiapas%2C_Mexico.JPG/250px-Palenque%2C_Chiapas%2C_Mexico.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maya_architecture"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Corbel arch",
+            "summary": "Architectural technique",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Corbel_Arch.svg/250px-Corbel_Arch.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Corbel_arch"
+        },
+        {
+            "name": "Unen Bahlam",
+            "summary": "Queen of Tikal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Unen_Bahlam.svg/250px-Unen_Bahlam.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Unen_Bahlam"
+        }
+    ],
+    "territory_geojson": null
+}

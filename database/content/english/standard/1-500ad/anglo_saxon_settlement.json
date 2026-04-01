@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2117,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b6e81b42478318a2d72f51f2db2610b74dcd2e8358fe576d2105f69a74a8685e",
+    "summary": "The Anglo-Saxon settlement of Britain (c. 410–600 AD) was the process by which Germanic peoples — primarily Angles, Saxons, and Jutes from what is now Denmark and northwestern Germany — migrated across the North Sea and established themselves in eastern and southern Britain following the Roman withdrawal. The process was gradual and complex: initially as mercenary soldiers serving in [[event:2111|Roman Britain]], then increasingly as settlers and eventually as conquerors, displacing or absorbing the Romano-British population. The extent of displacement versus assimilation remains hotly debated by historians and geneticists, but the linguistic result was total: the Brittonic (Celtic) language was virtually eliminated in England, replaced by Old English (Anglo-Saxon), a Germanic tongue that became the ancestor of modern English.\n\nThe Anglo-Saxon period produced some of the most significant events in English history: the conversion of the Anglo-Saxons to Christianity (beginning with Augustine of Canterbury's mission from Rome in 597 AD), the development of the earliest English kingdoms (Northumbria, Mercia, Wessex, East Anglia), the flowering of Northumbrian culture (Bede's Ecclesiastical History, the Lindisfarne Gospels), and the legendary resistance associated with [[event:2118|King Arthur]]. The Viking invasions of the late 8th century and the Danish Great Army of 865 AD dramatically disrupted Anglo-Saxon England; it was the survival and expansion of the West Saxon (Wessex) kingdom under Alfred the Great that preserved an English polity and culture, leading to the unified Kingdom of England under his descendants in the 10th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain",
+    "read_more_links": [
+        {
+            "title": "Anglo-Saxon kingdoms England",
+            "url": "https://en.wikipedia.org/wiki/Anglo-Saxon_kingdoms"
+        },
+        {
+            "title": "Augustine of Canterbury mission",
+            "url": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury"
+        },
+        {
+            "title": "Old English language origins",
+            "url": "https://en.wikipedia.org/wiki/Old_English"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/1130_Anglo-Saxon_Crossing.jpg/300px-1130_Anglo-Saxon_Crossing.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/1130_Anglo-Saxon_Crossing.jpg",
+            "caption": "1130 depiction of Saxons, Jutes, and Angles crossing the sea to Britain",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2008-05-17-SuttonHoo_crop.jpg/300px-2008-05-17-SuttonHoo_crop.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2008-05-17-SuttonHoo_crop.jpg",
+            "caption": "Replica of the helmet from the Sutton Hoo ship-burial 1, England.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Brittonic_and_Old_English_place_names_in_the_pre-1974_counties_of_Northumbria_Durham_Selkirkshire_Roxburghshire_Berwickshire_Peeblesshire_and_the_Lothians.png/300px-Brittonic_and_Old_English_place_names_in_the_pre-1974_counties_of_Northumbria_Durham_Selkirkshire_Roxburghshire_Berwickshire_Peeblesshire_and_the_Lothians.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Brittonic_and_Old_English_place_names_in_the_pre-1974_counties_of_Northumbria_Durham_Selkirkshire_Roxburghshire_Berwickshire_Peeblesshire_and_the_Lothians.png",
+            "caption": "Map of place-names between the Firth of Forth and the River Tees: in green, n...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Beda_Petersburgiensis_f3v.jpg/300px-Beda_Petersburgiensis_f3v.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Beda_Petersburgiensis_f3v.jpg",
+            "caption": "The Saint Petersburg Bede is an early surviving manuscript of Bede's 8th cent...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gildas",
+            "summary": "British monk and saint (c. 450/500 – c. 570)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Statue_St-Gildas_07082.jpg/250px-Statue_St-Gildas_07082.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gildas"
+        },
+        {
+            "name": "Bede",
+            "summary": "Anglo-Saxon monk, writer and saint (672/3–735)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/E-codices_bke-0047_001v_medium_%28cropped%29.jpg/250px-E-codices_bke-0047_001v_medium_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bede"
+        },
+        {
+            "name": "Postumus",
+            "summary": "Gallic emperor from 260 to 269",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Golden_coin_of_Postumus.png/250px-Golden_coin_of_Postumus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Postumus"
+        },
+        {
+            "name": "Carausius",
+            "summary": "Emperor in Britain and northern Gaul from 286 to 293",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Antoninianus_Carausius_leg4-RIC_0069v.jpg/250px-Antoninianus_Carausius_leg4-RIC_0069v.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carausius"
+        },
+        {
+            "name": "Magnus Maximus",
+            "summary": "Roman emperor from 383 to 388",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rare_aureus_of_Magnus_Maximus_%28obverse_transparent%29.png/250px-Rare_aureus_of_Magnus_Maximus_%28obverse_transparent%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Magnus_Maximus"
+        },
+        {
+            "name": "Constantine III (Western Roman emperor)",
+            "summary": "Roman emperor from 407 to 411",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Solidus_of_Constantine_III_%28west%29.png/250px-Solidus_of_Constantine_III_%28west%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_III_%28Western_Roman_emperor%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1147,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:54de60f702f9e0ebb5fbe7991f8dd400ef08e23d33f518c5891205dea0414c82",
+    "summary": "The Hasmonean Kingdom (c. 140–37 BC) was the Jewish dynasty that emerged from the [[event:1148|Maccabean Revolt]] against Seleucid rule, establishing the last independent Jewish state in ancient Palestine before the Roman era — achieving military success, territorial expansion, and the forced conversion of neighboring peoples, but ultimately succumbing to internal dynastic conflict and Roman intervention.\n\nThe Hasmoneans combined the roles of High Priest and political ruler, a combination that proved controversial among more traditional Jewish groups. Under John Hyrcanus I (134–104 BC) and his successors, the kingdom expanded significantly, incorporating Idumea, Samaria, and parts of the Transjordan — and forcibly converting the Idumeans to Judaism (a conversion that had lasting consequences: [[event:1154|Herod the Great]] was of Idumean descent). The Hasmonean period saw the crystallization of Jewish religious sects — Pharisees, Sadducees, and Essenes (the last group possibly responsible for the [[event:1149|Dead Sea Scrolls Community]]) — whose debates shaped the Judaism that survived into the modern era. Dynastic civil war in the 60s BC provided the opening for Roman general Pompey to intervene, taking Jerusalem in 63 BC and subordinating the Hasmonean state to Rome.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hasmonean_dynasty",
+    "read_more_links": [
+        {
+            "title": "John Hyrcanus",
+            "url": "https://en.wikipedia.org/wiki/John_Hyrcanus"
+        },
+        {
+            "title": "Pharisees and Sadducees",
+            "url": "https://en.wikipedia.org/wiki/Pharisees"
+        },
+        {
+            "title": "Roman conquest of Judea",
+            "url": "https://en.wikipedia.org/wiki/Roman_conquest_of_Judea"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg/300px-Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg",
+            "caption": "Palestine with the Hauran and the adjacent districts By W. Hughes, Prof. Geog...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Death_of_Eleazer.jpg/300px-Death_of_Eleazer.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Death_of_Eleazer.jpg",
+            "caption": "Gustave Doré engraving for the Bible - \"Death of Eleazer\" 1866",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fortress8185.JPG/300px-Fortress8185.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Fortress8185.JPG",
+            "caption": "Sartaba fortress",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Palestine_under_the_Maccabees_Smith_1915.jpg/300px-Palestine_under_the_Maccabees_Smith_1915.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Palestine_under_the_Maccabees_Smith_1915.jpg",
+            "caption": "Palestine under the Maccabees (10th-century BCE).\nAccording to Atlas of the H...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Antigonus II Mattathias",
+            "summary": "King of Judea from 40 to 37 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Antigonus_II_Mattathias_medal.svg/250px-Antigonus_II_Mattathias_medal.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antigonus_II_Mattathias"
+        },
+        {
+            "name": "Josephus",
+            "summary": "Roman–Jewish historian and military leader (c. 37 – c. 100)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg/250px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Josephus"
+        },
+        {
+            "name": "Antiochus IV Epiphanes",
+            "summary": "King of the Seleucid Empire from 175 to 164 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/250px-Antiochus_IV_Epiphanes_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_IV_Epiphanes"
+        },
+        {
+            "name": "Hyrcanus II",
+            "summary": "High Priest and king of Judea",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hyrcanus_II_medal.svg/250px-Hyrcanus_II_medal.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hyrcanus_II"
+        },
+        {
+            "name": "Aristobulus II",
+            "summary": "King and High Priest of Judaea",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Aristobulus_II_medal.svg/250px-Aristobulus_II_medal.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristobulus_II"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        }
+    ],
+    "territory_geojson": null
+}

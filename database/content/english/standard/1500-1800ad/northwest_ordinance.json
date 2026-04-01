@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2478,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:bc55d3a65638f67be570a2f8defefdf66d61cf2382293d5b85a59bbab3e57767",
+    "summary": "The Northwest Ordinance (July 13, 1787 AD) was one of the most consequential pieces of legislation passed under the [[event:3313|Articles of Confederation]], establishing the framework by which the United States would organize and admit new states from the territory northwest of the Ohio River — effectively creating the template for American continental expansion and ensuring that the republic would grow through the addition of equal states rather than colonial territories. The Ordinance divided the Northwest Territory (modern Ohio, Indiana, Illinois, Michigan, and Wisconsin) into a process of staged self-government: an appointed governor and judges at first, then an elected assembly once 5,000 free male adults inhabited an area, and finally full statehood when population reached 60,000.\n\nThe Ordinance contained several provisions of lasting significance. It prohibited slavery in the Northwest Territory — a prohibition that shaped the eventual sectional geography of slavery and freedom, since the states carved from this territory all entered the union as free states. It guaranteed freedom of religion, the right to trial by jury, and habeas corpus — fundamental rights incorporated into the legal framework of new territories. It also declared that 'religion, morality, and knowledge, being necessary to good government and the happiness of mankind, schools and the means of education shall forever be encouraged' — establishing the principle of public education support. The Ordinance's model of territorial government, with its clear path from territory to equal statehood, would be applied repeatedly as the United States expanded westward, providing an alternative to the colonial systems of European empires.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Northwest_Ordinance",
+    "read_more_links": [
+        {
+            "title": "Northwest Territory Ohio Indiana Illinois states admission",
+            "url": "https://en.wikipedia.org/wiki/Northwest_Territory"
+        },
+        {
+            "title": "Northwest Ordinance slavery prohibition free states Ohio",
+            "url": "https://en.wikipedia.org/wiki/Northwest_Ordinance#Slavery"
+        },
+        {
+            "title": "Territorial government model statehood American expansion",
+            "url": "https://en.wikipedia.org/wiki/United_States_territorial_acquisitions"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/300px-Independence_Hall.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Independence_Hall.jpg",
+            "caption": "The front of Independence Hall in Philadelphia, Pennsylvania",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ordinance2_of_1787.jpg/300px-Ordinance2_of_1787.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ordinance2_of_1787.jpg",
+            "caption": "US Postage Stamp: Ordinance of 1787, Issue of 1937, 3c",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Treaty_of_Penn_with_Indians_by_Benjamin_West.jpg/300px-Treaty_of_Penn_with_Indians_by_Benjamin_West.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Treaty_of_Penn_with_Indians_by_Benjamin_West.jpg",
+            "caption": "Title: The Treaty of Penn with the Indians. William Penn's 1682 treaty with t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/United_States_1789-08-1790-04.png/300px-United_States_1789-08-1790-04.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/United_States_1789-08-1790-04.png",
+            "caption": "Map of the states and territories of the United States as it was from August ...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Congress of the Confederation",
+            "summary": "Governing body of the United States from 1781 to 1789",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Great_Seal_of_the_United_States_of_America_%281782%29.svg/250px-Great_Seal_of_the_United_States_of_America_%281782%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Congress_of_the_Confederation"
+        },
+        {
+            "name": "Articles of Confederation",
+            "summary": "First constitution of the United States from 1781 to 1789",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Articles_page1.jpg/250px-Articles_page1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Articles_of_Confederation"
+        },
+        {
+            "name": "George III",
+            "summary": "King of Great Britain and Ireland from 1760 to 1820",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/250px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_III"
+        },
+        {
+            "name": "Thomas Jefferson",
+            "summary": "Founding Father, U.S. president from 1801 to 1809",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/250px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+        },
+        {
+            "name": "George Washington",
+            "summary": "U.S. Founding Father, president from 1789 to 1797",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/250px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington"
+        },
+        {
+            "name": "James Monroe",
+            "summary": "Founding Father, U.S. president from 1817 to 1825",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg/250px-James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Monroe"
+        }
+    ],
+    "territory_geojson": null
+}

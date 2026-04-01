@@ -1,0 +1,90 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1666,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:4598e14aef895b5ce1838f48d30d0e8c22bf80ef42e649e811911674ce0567bc",
+    "summary": "The Maltese Temple Period, spanning approximately 3600 to 2500 BCE, produced some of the world's oldest freestanding stone structures — the megalithic temples of the Maltese archipelago. Built by an isolated island community on Malta and Gozo without metal tools, draft animals, or any apparent connection to contemporary Egyptian or Mesopotamian civilization, these temples represent an independent tradition of monumental sacred architecture of remarkable sophistication. They predate the construction of the Great Pyramid of Giza by several centuries and Stonehenge's major phase by nearly a millennium.\n\nThe Maltese temples are characterized by a distinctive trefoil or cloverleaf ground plan, with a series of apses (semicircular recesses) arranged around a central corridor. The largest temples, such as Ggantija on Gozo (one of the world's oldest freestanding buildings), Mnajdra, and the [[event:1667|Hagar Qim]] complex, were built from enormous coralline limestone blocks, with some individual stones weighing over fifty tonnes. The blocks were quarried, transported, and raised into position using only human labor, ramps, and stone rollers — a feat of communal organization comparable to that of the great monuments of Egypt or Stonehenge.\n\nThe temples functioned as ritual centers, and archaeological finds within them include animal bones from sacrificial animals, altars, hearths, and sculptural representations of human figures — including the remarkable corpus of large limestone statues of obese, possibly gender-neutral figures sometimes called the Sleeping Lady of Hal Saflieni or the Venus of Malta. These figures may represent a deity, a priestly class, or deceased ancestors and are among the most distinctive artistic products of Neolithic Europe.\n\nThe [[event:1669|Hal Saflieni Hypogeum]], an underground rock-cut sanctuary on Malta, is closely associated with the temple culture and served as a necropolis where the remains of approximately 7,000 individuals were interred over centuries. The Maltese temple culture disappeared abruptly around 2500 BCE, apparently replaced by a new population with different material culture. The cause of this discontinuity — whether famine, epidemic, environmental collapse, or replacement by migrants — remains unknown.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Megalithic_Temples_of_Malta",
+    "read_more_links": [
+        {
+            "title": "Ggantija - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ggantija"
+        },
+        {
+            "title": "Hal Saflieni Hypogeum - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/%C4%A6al-Saflieni_Hypogeum"
+        },
+        {
+            "title": "Malta Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Malta/History"
+        },
+        {
+            "title": "Neolithic Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Malta_16_Mnajdra.jpg/300px-Malta_16_Mnajdra.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Malta_16_Mnajdra.jpg",
+            "caption": "The megalithic temple of Mnajdra, detail (Malta)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Atlas_Van_der_Hagen-KW1049B12_087-INSULARUM_MELITAE_Vulgo_MALTAE_et_GOZAE.jpeg/300px-Atlas_Van_der_Hagen-KW1049B12_087-INSULARUM_MELITAE_Vulgo_MALTAE_et_GOZAE.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Atlas_Van_der_Hagen-KW1049B12_087-INSULARUM_MELITAE_Vulgo_MALTAE_et_GOZAE.jpeg",
+            "caption": "The map of Malta was published by Nicolaes Visscher II (1649-1702). The islan...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Malta_-_Naxxar_-_Triq_l-Imdawra_-_Tal-Qadi_Temple_09_ies.jpg/300px-Malta_-_Naxxar_-_Triq_l-Imdawra_-_Tal-Qadi_Temple_09_ies.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Malta_-_Naxxar_-_Triq_l-Imdawra_-_Tal-Qadi_Temple_09_ies.jpg",
+            "caption": "Tal-Qadi Temple at Triq l-Imdawra in Naxxar, Malta",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malta_-_St._Paul%27s_Bay_-_Xemxija_Heritage_Trail_-_Xemxija_Temple_2_01_ies.jpg/300px-Malta_-_St._Paul%27s_Bay_-_Xemxija_Heritage_Trail_-_Xemxija_Temple_2_01_ies.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malta_-_St._Paul%27s_Bay_-_Xemxija_Heritage_Trail_-_Xemxija_Temple_2_01_ies.jpg",
+            "caption": "Remains of Xemxija Temple II nowadays used as gate stones in a dry stone wall...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph Aquilina",
+            "summary": "Maltese author and linguist (1911–1997)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%C4%A0u%C5%BC%C3%A8_Aquilina%2C_1937.jpg/250px-%C4%A0u%C5%BC%C3%A8_Aquilina%2C_1937.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Aquilina"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Trefoil",
+            "summary": "Artistic representation of three circular leaf shapes used in architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Trefoil-Architectural.svg/250px-Trefoil-Architectural.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trefoil"
+        },
+        {
+            "name": "Niche (architecture)",
+            "summary": "Architectural recess in a wall",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Paris_-_D%C3%B4me_des_Invalides_-_Statue_-_PA00088714_-_003.jpg/250px-Paris_-_D%C3%B4me_des_Invalides_-_Statue_-_PA00088714_-_003.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Niche_%28architecture%29"
+        },
+        {
+            "name": "Jean-Pierre Houël",
+            "summary": "French Neoclassical painter and engraver (1735–1813)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jean-Pierre_Hou%C3%ABl%2C_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg/250px-Jean-Pierre_Hou%C3%ABl%2C_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Pierre_Hou%C3%ABl"
+        }
+    ],
+    "territory_geojson": null
+}

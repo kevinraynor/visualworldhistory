@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 21,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:cb3141e233662f9b71a88ff16813dc8708a3a1112c98a733ce88ec018b0b569a",
+    "summary": "The spread of farming from its Near Eastern origins into Europe constitutes one of the most consequential demographic and cultural transformations in European prehistory. Beginning around 7000 BCE in the southeastern Balkans and Anatolia, and reaching the British Isles by approximately 4000 BCE, the agricultural transition unfolded over roughly three thousand years as farming communities expanded westward and northward through the continent. This process involved both the movement of people — farmers migrating outward from an Anatolian or southeastern European core — and the adoption of agricultural practices by indigenous hunter-gatherer populations, though the relative contribution of each mechanism varied by region.\n\nThe primary route of agricultural expansion into Europe followed the Balkans from Anatolia, with early farming communities establishing themselves in Greece around 6500 BCE and spreading rapidly northward through the Danube corridor and westward along the Mediterranean coastline. Sites such as [[event:1416|Sesklo]] in Greece and [[event:1418|Karanovo]] in Bulgaria represent early nodes in this agricultural expansion. A second major route followed the Mediterranean coast westward, reaching the Iberian Peninsula and even Atlantic France by the sixth millennium BCE, carried in part by the communities associated with the [[event:1422|Cardial Pottery culture]].\n\nGenetic studies conducted since the 2010s have substantially clarified the mechanisms of this transition. Ancient DNA evidence now indicates that the spread of farming into Europe was driven primarily by the migration of Anatolian farmers who largely replaced or absorbed existing Mesolithic hunter-gatherer populations across much of the continent. These migrating farmers brought not only seeds and animals but also their languages, ceramic traditions, house-building practices, and ritual beliefs. The genetic contribution of these Anatolian farmers is still detectable in modern Europeans, particularly in southern European populations.\n\nThe arrival of farming transformed European landscapes through forest clearance, the establishment of permanent villages, and the grazing of large herds of cattle, sheep, and goats. This environmental transformation had lasting ecological consequences. Socially, farming communities brought new forms of inequality — differential access to land, stored grain, and livestock — that would eventually crystallize into the hierarchical societies of the Bronze Age and beyond.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neolithic_Europe",
+    "read_more_links": [
+        {
+            "title": "Spread of Agriculture into Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe#Spread_of_agriculture"
+        },
+        {
+            "title": "Cardium Pottery - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cardium_pottery"
+        },
+        {
+            "title": "European Neolithic - Britannica",
+            "url": "https://www.britannica.com/topic/Stone-Age"
+        },
+        {
+            "title": "Ancient DNA and European Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Early_European_farmers"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Detmeroder_Opferstein.jpg/300px-Detmeroder_Opferstein.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Detmeroder_Opferstein.jpg",
+            "caption": "Detmeroder Opferstein, a stone used in Neolithic rituals, in Detmerode, Wolfs...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LiMuri-pjt.jpg/300px-LiMuri-pjt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/LiMuri-pjt.jpg",
+            "caption": "NOTE: This image is a panorama  consisting of 3 frames that were merged or st...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ancient_Greece_Neolithic_Stone_Grinder.jpg/300px-Ancient_Greece_Neolithic_Stone_Grinder.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ancient_Greece_Neolithic_Stone_Grinder.jpg",
+            "caption": "Greek Prehistory Gallery, National Museum of Archaeology, Athens, Greece. Com...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ancient_Greece_Neolithic_Stone_Tools_%26_Weapons.jpg/300px-Ancient_Greece_Neolithic_Stone_Tools_%26_Weapons.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ancient_Greece_Neolithic_Stone_Tools_%26_Weapons.jpg",
+            "caption": "Greek Prehistory Gallery, National Museum of Archaeology, Athens, Greece. Com...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Poulnabrone dolmen",
+            "summary": "Dolmen in the Burren, County Clare, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Paulnabrone.jpg/250px-Paulnabrone.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Poulnabrone_dolmen"
+        },
+        {
+            "name": "County Clare",
+            "summary": "County in Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/County_Clare_Coat_of_Arms.png/250px-County_Clare_Coat_of_Arms.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/County_Clare"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2226,
+    "parent_id": 91,
+    "granularity": "notable",
+    "content_hash": "sha256:cd3358aa62914edaa7c852d91080b084902709c6d3b0acf4d9b35b2957cc1e53",
+    "summary": "The Mongol conquest of China (1211–1279 AD) was a sixty-eight-year campaign involving multiple phases against three separate Chinese states — the Jin Dynasty of northern China (conquered 1234), the Western Xia (conquered 1227), and the [[event:3044|Southern Song Dynasty]] (conquered 1279) — representing one of the most prolonged and costly military campaigns in the [[event:91|Mongol Empire's]] history. China's walled cities, canals, and rice paddies were fundamentally hostile terrain for steppe cavalry, forcing the Mongols to develop sophisticated siege warfare, naval capabilities, and administrative techniques far beyond their nomadic origins.\n\nThe conquest was devastating in demographic terms. Northern China under the Jin Dynasty lost an estimated 35–50% of its population to Mongol warfare, famine, and disease — from roughly 50 million people to perhaps 30 million. Cities including Beijing, Kaifeng, and Zhongdu were comprehensively destroyed. Yet the Mongol conquerors also adapted pragmatically to Chinese civilization: they employed Chinese engineers, administrators, and scholars; adopted Chinese administrative techniques; and [[event:2229|Kublai Khan]] completed the conquest of the Southern Song while simultaneously constructing a Chinese-style imperial court, taking the Chinese dynastic name 'Yuan,' and patronizing Chinese culture, art, and scholarship. The Yuan Dynasty (1271–1368) represented a unique synthesis of Mongol political power with Chinese civilization, creating the conditions for [[event:2230|Marco Polo's]] famous visit and the Eurasian connectivity of the Pax Mongolica.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_China",
+    "read_more_links": [
+        {
+            "title": "Mongol conquest Jin Dynasty northern China",
+            "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Jin_dynasty"
+        },
+        {
+            "title": "Mongol conquest Southern Song Dynasty",
+            "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Song_dynasty"
+        },
+        {
+            "title": "China population loss Mongol period",
+            "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_China#Consequences"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bataille_entre_mongols_%26_chinois_%281211%29.jpeg/300px-Bataille_entre_mongols_%26_chinois_%281211%29.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bataille_entre_mongols_%26_chinois_%281211%29.jpeg",
+            "caption": "Battle between Mongols & Chinese (1211). Jami' al-tawarikh, Rashid al-Din.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Si%C3%A8ge_de_Beijing_%281213-1214%29.jpeg/300px-Si%C3%A8ge_de_Beijing_%281213-1214%29.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Si%C3%A8ge_de_Beijing_%281213-1214%29.jpeg",
+            "caption": "Siege of Beijing. Jami' al-tawarikh, Rashid al-Din.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mongol_Empire%27s_Ayimaq_in_North_China.jpg/300px-Mongol_Empire%27s_Ayimaq_in_North_China.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mongol_Empire%27s_Ayimaq_in_North_China.jpg",
+            "caption": "Domains of Mongol princes in 13th-14th century northern China.\nGreen is the t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mongol_Invasion_of_China.png/300px-Mongol_Invasion_of_China.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Mongol_Invasion_of_China.png",
+            "caption": "Mongol Empire's conquest of Chinese regimes including Western Liao, Jurchen J...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Genghis Khan",
+            "summary": "Khan of the Mongol Empire from 1206 to 1227",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/250px-YuanEmperorAlbumGenghisPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Genghis_Khan"
+        },
+        {
+            "name": "Ögedei Khan",
+            "summary": "Khan of the Mongol Empire from 1229 to 1241",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg/250px-YuanEmperorAlbumOgedeiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan"
+        },
+        {
+            "name": "Möngke Khan",
+            "summary": "Khan of the Mongol Empire from 1251 to 1259",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/M%C3%B6ngke_Khan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan"
+        },
+        {
+            "name": "Kublai Khan",
+            "summary": "Emperor of Yuan China from 1271 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/250px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+        },
+        {
+            "name": "Subutai",
+            "summary": "Mongol general under Genghis Khan and Ögedei Khan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Subudei.jpg/250px-Subudei.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Subutai"
+        },
+        {
+            "name": "Muqali",
+            "summary": "General and companion of Genghis Khan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Statue_of_Mukhulai.jpg/250px-Statue_of_Mukhulai.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muqali"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1507,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7877ff6f248a440814f3d1deb38ade7a2e19dac77f145bc0ba1756d926001a28",
+    "summary": "Clay counting tokens — small geometric objects in shapes such as spheres, cones, discs, and cylinders — were used across the ancient Near East from at least 8000 BCE to record quantities of goods such as grain, livestock, and oil. These tokens have been recovered from sites across Mesopotamia, Anatolia, and the Levant, and represent one of the earliest known systems of symbolic accounting. Each token shape appears to have corresponded to a specific commodity or unit of measure.\n\nScholars, most notably Denise Schmandt-Besserat, have argued that the clay token system was a direct precursor to cuneiform writing. As transactions became more complex, tokens were enclosed in clay envelopes and impressions of the enclosed tokens were made on the outside — a practice that eventually gave rise to two-dimensional representations on clay tablets and, ultimately, to full writing systems. Whether or not the direct evolutionary link is accepted in all its details, counting tokens represent a critical moment in the history of human information management.\n\nThe geographical distribution of the token system across thousands of kilometers of the ancient Near East indicates that recording needs were widespread among early agricultural communities. The standardization of token shapes suggests some degree of inter-community agreement about symbolic conventions, pointing toward the emergence of shared economic and administrative frameworks even before the rise of urban states.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_accounting",
+    "read_more_links": [
+        {
+            "title": "Clay Tokens and Writing – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Denise_Schmandt-Besserat"
+        },
+        {
+            "title": "Origins of Writing – Britannica",
+            "url": "https://www.britannica.com/topic/writing/Origins-of-writing"
+        },
+        {
+            "title": "Prehistoric Counting – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tally_stick"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Res_Gestae.jpg/300px-Res_Gestae.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Res_Gestae.jpg",
+            "caption": "Part of the Res gestae Divi Augusti from the Monumentum Ancyranum.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Accounting_in_Japan%2C_Taisho_era_-_Man_with_an_Abacus_and_an_Account_Book%2C_beside_Irori_%281914_by_Elstner_Hilton%29.jpg/300px-Accounting_in_Japan%2C_Taisho_era_-_Man_with_an_Abacus_and_an_Account_Book%2C_beside_Irori_%281914_by_Elstner_Hilton%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Accounting_in_Japan%2C_Taisho_era_-_Man_with_an_Abacus_and_an_Account_Book%2C_beside_Irori_%281914_by_Elstner_Hilton%29.jpg",
+            "caption": "This photo is from an album Elstner Hilton compiled in Japan between 1914 and...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Accountancy_clay_envelope_Louvre_Sb1932.jpg/300px-Accountancy_clay_envelope_Louvre_Sb1932.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Accountancy_clay_envelope_Louvre_Sb1932.jpg",
+            "caption": "Accountancy clay envelope Louvre Sb1932",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Forensic accounting",
+            "summary": "Branch of accounting which investigates financial misconduct and fraud",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Teerahertz_near-field_array_for_%CE%BCm-scale_surface_imaging_%28cropped%29.png/250px-Teerahertz_near-field_array_for_%CE%BCm-scale_surface_imaging_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Forensic_accounting"
+        },
+        {
+            "name": "Moses",
+            "summary": "Prophet in Abrahamic religions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg/250px-Rembrandt_Harmensz._van_Rijn_079.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Moses"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Res Gestae Divi Augusti",
+            "summary": "Funerary inscription of the first Roman emperor, Augustus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_%28%22Deeds_of_the_Divine_Augustus%22%29_inscribed_on_the_walls_of_the_cella%2C_Ancyra%2C_Ankara_%28Turkey%29_%2826028202241%29.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Res_Gestae_Divi_Augusti"
+        },
+        {
+            "name": "Suetonius",
+            "summary": "Roman historian (c. AD 69 – after AD 122)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Suetonius_etching_%28cropped%29.jpg/250px-Suetonius_etching_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suetonius"
+        },
+        {
+            "name": "Cassius Dio",
+            "summary": "Greco-Roman statesman and historian (c. 155–c. 235)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dio_Cassius.jpg/250px-Dio_Cassius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassius_Dio"
+        }
+    ],
+    "territory_geojson": null
+}

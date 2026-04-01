@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1441,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f44d0971e6ab6d277e9a26239444cc40055bc05efeb97728dae89cba19684bd4",
+    "summary": "The Tehuacán Valley of the Mexican state of Puebla was the site of an extensive archaeological project led by Richard MacNeish in the 1960s that sought to trace the origins of plant domestication in Mesoamerica. The project recovered thousands of plant remains from dry cave sites in the valley — including early cobs of maize, beans, squash, and other cultigens — and constructed a detailed chronological sequence of the transition from foraging to farming across several thousand years.\n\nThe Tehuacán Valley evidence played a formative role in shaping twentieth-century understanding of Mesoamerican agricultural origins. The small, primitive maize cobs from the earliest Coxcatlan and Abejas phases of the sequence were interpreted as evidence of very early maize domestication in the region, though subsequent reanalysis and radiocarbon dating have revised some of the earlier chronological claims. The valley evidence nonetheless remains important as a detailed local sequence demonstrating the gradual domestication and elaboration of the Mesoamerican crop complex over thousands of years.\n\nThe broader significance of the Tehuacán research lies in its contribution to understanding how ancient forager communities managed the transition to food production through a process of intensification rather than sudden transformation. Communities in the valley appear to have gradually increased their reliance on cultivated plants while continuing to exploit wild resources over many generations — a pattern consistent with evidence from other regions of the world and from sites such as [[event:1440|Guilá Naquitz Cave]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tehuac%C3%A1n",
+    "read_more_links": [
+        {
+            "title": "Tehuacán-Cuicatlán Valley - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tehuac%C3%A1n-Cuicatl%C3%A1n_Valley"
+        },
+        {
+            "title": "Maize Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Maize"
+        },
+        {
+            "title": "Mesoamerican Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Agriculture_in_Mesoamerica"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tehuac%C3%A1n.jpg/300px-Tehuac%C3%A1n.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Tehuac%C3%A1n.jpg",
+            "caption": "vista de la ciudad de Tehuacán puebla",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Municipal president",
+            "summary": "Chief of government of municipios in Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Palacio_Municipal_de_Tenosique_.jpg/250px-Palacio_Municipal_de_Tenosique_.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Municipal_president"
+        },
+        {
+            "name": "Cathedral",
+            "summary": "Christian church that is the seat of a bishop",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Catedral_da_S%C3%A9_em_S%C3%A3o_Paulo.jpg/250px-Catedral_da_S%C3%A9_em_S%C3%A3o_Paulo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2264,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d343cb2b172ea1334ef6bf933143369554791024851456c73dc516fc08d344e2",
+    "summary": "Cahokia (c. 1050–1350 AD) was the largest pre-Columbian city north of Mexico, the capital of the [[event:2185|Mississippian culture]], and a center of political and religious authority in the Mississippi River valley near modern St. Louis, Illinois. At its peak around 1100 AD, Cahokia housed an estimated 10,000–20,000 people — making it larger than contemporary London — and exerted influence over a vast region through a combination of religious ideology, elite trade networks, and political authority. The city's central monument, Monks Mound, is the largest pre-Columbian earthwork in North America, covering 5.5 hectares at its base and rising 30 meters — larger in base area than the Great Pyramid of Giza.\n\nCahokia's layout reflected sophisticated cosmological planning: the city's central plaza was aligned astronomically, with a circle of large cedar posts (now called 'Woodhenge') that tracked solstices and equinoxes from the center. The city contained over 100 earthen mounds arranged in distinct districts for elite residences, temples, and burial grounds. Elite burials at Cahokia reveal a highly stratified society: the famous 'Beaded Burial' of a young man interred on a platform of 20,000 marine shell beads, surrounded by sacrificed retainers, demonstrates both the scale of Cahokian wealth and the stark social hierarchy. Cahokia declined and was abandoned around 1350 AD — before European contact — for reasons that remain debated, including environmental degradation from deforestation, flooding, and climate changes, as well as possible political disintegration.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cahokia",
+    "read_more_links": [
+        {
+            "title": "Monks Mound Cahokia largest earthwork",
+            "url": "https://en.wikipedia.org/wiki/Monks_Mound"
+        },
+        {
+            "title": "Cahokia Woodhenge astronomical alignments",
+            "url": "https://en.wikipedia.org/wiki/Cahokia_Woodhenge"
+        },
+        {
+            "title": "Cahokia decline abandonment causes",
+            "url": "https://en.wikipedia.org/wiki/Cahokia#Decline"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Monks_Mound_-_Summer_2024.jpg/300px-Monks_Mound_-_Summer_2024.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Monks_Mound_-_Summer_2024.jpg",
+            "caption": "Photo taken in May 2024, facing the staircase side of Monks Mound.  People an...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cahokia_Mounds_--_UNESCO_reconstruction.jpg/300px-Cahokia_Mounds_--_UNESCO_reconstruction.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cahokia_Mounds_--_UNESCO_reconstruction.jpg",
+            "caption": "An UNESCO World Heritage \nAddress : 30 Ramey Street Collinsville, IL 62234\nTo...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Keller_figurine.jpg/300px-Keller_figurine.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Keller_figurine.jpg",
+            "caption": "Pre-Colombian art, from Cahokia Mounds site",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Chunkey_player_figurine.jpg/300px-Chunkey_player_figurine.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Chunkey_player_figurine.jpg",
+            "caption": "The \"Chunkey Player\" is a 8.5 inches (22 cm) high by 5.5 inches (14 cm) wide ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Earthworks (archaeology)",
+            "summary": "General term to describe artificial changes in land level in history and pre-history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De_Offa_Dyke.JPG/250px-De_Offa_Dyke.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Earthworks_%28archaeology%29"
+        },
+        {
+            "name": "St. Clair County, Illinois",
+            "summary": "County in Illinois, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/County_Courthouse%2C_Belleville%2C_IL.jpg/250px-County_Courthouse%2C_Belleville%2C_IL.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/St._Clair_County%2C_Illinois"
+        },
+        {
+            "name": "Alexander County, Illinois",
+            "summary": "County in Illinois, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Alexander_County_Courthouse%2C_Cairo.jpg/250px-Alexander_County_Courthouse%2C_Cairo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_County%2C_Illinois"
+        },
+        {
+            "name": "Coahoma County, Mississippi",
+            "summary": "County in Mississippi, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/WROX_Building_~_Clarksdale%2C_MS.JPG/250px-WROX_Building_~_Clarksdale%2C_MS.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coahoma_County%2C_Mississippi"
+        },
+        {
+            "name": "Trempealeau County, Wisconsin",
+            "summary": "County in Wisconsin, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arcadia_Free_Public_Library_NRHP_94000388_Trempeleau_County%2C_WI.jpg/250px-Arcadia_Free_Public_Library_NRHP_94000388_Trempeleau_County%2C_WI.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trempealeau_County%2C_Wisconsin"
+        },
+        {
+            "name": "Mound 72",
+            "summary": "Ridgetop Mississippian mound in Madison County, Illinois",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cahokia_Mound_72.jpg/250px-Cahokia_Mound_72.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mound_72"
+        }
+    ],
+    "territory_geojson": null
+}

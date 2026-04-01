@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1040,
+    "parent_id": 80,
+    "granularity": "notable",
+    "content_hash": "sha256:f3417e701bbc6b127400177d62c0ab480aef1bd29add08a7173e11860e4a049d",
+    "summary": "The Ptolemaic Kingdom (305–30 BC) was the Hellenistic successor state established in Egypt by Ptolemy I, one of Alexander's senior generals, which lasted for nearly three centuries and produced the last of its line in the remarkable [[event:1048|Cleopatra VII]]. Egypt, with its immense agricultural wealth from the Nile, was the most resource-rich of the successor kingdoms, allowing the Ptolemies to fund one of the ancient world's most splendid cultural establishments.\n\nPtolemy I, documented in his own right as [[event:1049|Ptolemy I Soter]], secured Egypt during the [[event:1039|Wars of the Diadochi]] through a combination of geographic advantage — the desert borders made Egypt easily defensible — and shrewd diplomacy. The Ptolemies presented themselves as pharaohs to their Egyptian subjects and as Hellenistic kings to their Greek and Macedonian ruling class, successfully navigating the dual cultural demands of ruling a majority-Egyptian population. [[event:1034|Foundation of Alexandria]] became their capital and the cultural center of the Hellenistic world, home to the [[event:1044|Library of Alexandria]] and a research institute that attracted the greatest minds of the age.\n\nThe kingdom's later history was marked by dynastic strife — Ptolemaic succession disputes were frequently violent — and progressive weakening in the face of Rome's rising power. [[event:1048|Cleopatra VII]], the last of the Ptolemies, attempted to preserve the kingdom's independence through alliances with Julius Caesar and Mark Antony, but her defeat at the [[event:1082|Battle of Actium]] in 31 BC and subsequent suicide ended the kingdom. Augustus annexed Egypt as a personal imperial possession, too rich and strategically important to trust to a senatorial governor.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+    "read_more_links": [
+        {
+            "title": "Ptolemy I Soter",
+            "url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+        },
+        {
+            "title": "Cleopatra",
+            "url": "https://en.wikipedia.org/wiki/Cleopatra"
+        },
+        {
+            "title": "Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Alexandria"
+        },
+        {
+            "title": "Ptolemaic Pharaohs",
+            "url": "https://en.wikipedia.org/wiki/Ptolemaic_dynasty"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kom_Ombo_Tempel_10.jpg/300px-Kom_Ombo_Tempel_10.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Kom_Ombo_Tempel_10.jpg",
+            "caption": "Relief im Tempel von Kom Ombo, Ägypten",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dendera_Tempel_Kleopatra_C%C3%A4sarion_04.jpg/300px-Dendera_Tempel_Kleopatra_C%C3%A4sarion_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dendera_Tempel_Kleopatra_C%C3%A4sarion_04.jpg",
+            "caption": "Relief mit Kleopatra VII. und ihrem Sohn Cäsarion an der Südseite des Hathor-...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ptolemaic_and_Roman_Egypt.jpg/300px-Ptolemaic_and_Roman_Egypt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ptolemaic_and_Roman_Egypt.jpg",
+            "caption": "Egypt. (Map of the Historical Atlas of Gustav Droysen, 1886)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/-0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG/300px--0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/-0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG",
+            "caption": "Altes Museum\n  \n\n\n\n\n\nNative name\nAltes Museum\n\nParent institution\nStaatliche ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy I Soter",
+            "summary": "Pharaoh of Egypt from 305 to 282 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ptolemy_I_Soter_Louvre_Ma849_A.jpg/250px-Ptolemy_I_Soter_Louvre_Ma849_A.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+        },
+        {
+            "name": "Cleopatra",
+            "summary": "Pharaoh of Egypt from 51 to 30 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/250px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Death of Alexander the Great",
+            "summary": "Death of the Macedonian king in 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dying_Alexander.jpg/250px-Dying_Alexander.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2154,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:cc054c9b99a94487e5b9ac1958d3c326453fc3190db79227120e853f17e8d9fe",
+    "summary": "The Sui Dynasty (581–618 AD) was the brief but crucial reunifying dynasty that ended the nearly four centuries of division following the [[event:2047|Jin Dynasty's]] collapse — the Chinese equivalent of Rome's Diocletian, or perhaps its Augustus. Emperor Wen (Yang Jian) reunified China in 589 AD by conquering the Chen dynasty in the south, ending the [[event:2048|Northern and Southern Dynasties]] period. His reign achieved significant administrative reforms including the expansion of the civil service examination system, standardization of weights and measures, and construction programs that laid the infrastructure foundations the [[event:87|Tang Dynasty]] would inherit.\n\nThe Sui's most enduring physical legacy was the [[event:2155|Grand Canal]] — an enormous infrastructure project connecting the Yellow River and Yangtze River basins — and the restoration of the Great Wall. However, Emperor Yang (the second Sui emperor) overextended the dynasty catastrophically: three disastrous military campaigns against Goguryeo Korea (612–614 AD) failed at enormous human cost, requiring the conscription and death of perhaps a million soldiers; forced labor for the Grand Canal and other construction projects alienated the peasant population; and excessive taxation triggered widespread rebellion. The Sui collapsed in civil war in 618 AD — less than 40 years after its founding — but its administrative and infrastructural legacy was so foundational that the Tang was essentially building on Sui work. Historians sometimes pair Sui and Tang as one continuous era, with the Sui as the painful foundation and the Tang as the flowering.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sui_dynasty",
+    "read_more_links": [
+        {
+            "title": "Emperor Wen Sui reunification",
+            "url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui"
+        },
+        {
+            "title": "Emperor Yang Goguryeo campaigns",
+            "url": "https://en.wikipedia.org/wiki/Emperor_Yang_of_Sui"
+        },
+        {
+            "title": "Sui Tang continuity",
+            "url": "https://en.wikipedia.org/wiki/Sui_dynasty#Legacy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Li_Jingxun_necklace.jpg/300px-Li_Jingxun_necklace.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Li_Jingxun_necklace.jpg",
+            "caption": "Li Jingxun necklace",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sui_dynasty_pipa_player_.jpg/300px-Sui_dynasty_pipa_player_.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sui_dynasty_pipa_player_.jpg",
+            "caption": "Sui dynasty figure of a pipa player held in the permanent collection of the M...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tomb_of_Li_Jingxun.jpg/300px-Tomb_of_Li_Jingxun.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tomb_of_Li_Jingxun.jpg",
+            "caption": "Tomb of Li Jingxun",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Wen of Sui",
+            "summary": "Emperor of China from 581 to 604",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sui_Wendi_Tang.jpg/250px-Sui_Wendi_Tang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Sui"
+        },
+        {
+            "name": "Troopship",
+            "summary": "Ship used to carry soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/USS_McCawley_landing_rehearsal.jpg/250px-USS_McCawley_landing_rehearsal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Troopship"
+        },
+        {
+            "name": "Li Jingxun",
+            "summary": "Northern Zhou and Sui dystany princess",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tomb_of_Li_Jingxun.jpg/250px-Tomb_of_Li_Jingxun.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Li_Jingxun"
+        },
+        {
+            "name": "Emperor Xuanzong of Tang",
+            "summary": "Emperor of the Tang dynasty from 713 to 756",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg/250px-%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+        },
+        {
+            "name": "Maurice (emperor)",
+            "summary": "Roman emperor from 582 to 602",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Solidus_of_Maurice_%28transitional_issue%29.png/250px-Solidus_of_Maurice_%28transitional_issue%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_%28emperor%29"
+        }
+    ],
+    "territory_geojson": null
+}

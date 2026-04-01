@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2039,
+    "parent_id": 2038,
+    "granularity": "detailed",
+    "content_hash": "sha256:cccd5a5f0581958fdaa2588dee1bb3728e3fac92adefff53899aa2119d0d5cee",
+    "summary": "The Visigothic Kingdom (c. 418–711 AD) was the first major Germanic successor state to establish itself on Roman territory, evolving from Alaric's Visigoths into a stable monarchy that ruled first in southwestern Gaul (capital Toulouse) and then, after being pushed out by the Franks at the Battle of Vouillé in 507, in the Iberian Peninsula (capital Toledo). The Visigoths had begun as Roman federates — allies settled within imperial territory — but after the sack of Rome in 410 ([[event:2033|Sack of Rome by Visigoths]]) they received formal settlement in Aquitaine, becoming the first Germanic people to receive a formal territorial grant.\n\nThe Visigothic Kingdom in Spain became one of the most sophisticated of the post-Roman states. Kings like Euric (who issued the first Germanic law code) and Leovigild unified the peninsula, while the conversion from Arianism to Nicene Christianity under Reccared I in 589 integrated the Visigothic elite with the Roman-descended population. Isidore of Seville produced encyclopedic scholarship under Visigothic patronage that would preserve classical learning through the early medieval period. The kingdom came to an abrupt end when Arab and Berber forces crossed from North Africa in 711, defeating the last Visigothic king Roderic at the Battle of Guadalete and conquering most of Iberia within a few years — ending almost three centuries of Visigothic rule.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Visigothic_Kingdom",
+    "read_more_links": [
+        {
+            "title": "Euric Visigothic law code",
+            "url": "https://en.wikipedia.org/wiki/Euric"
+        },
+        {
+            "title": "Reccared conversion to Catholicism",
+            "url": "https://en.wikipedia.org/wiki/Reccared_I"
+        },
+        {
+            "title": "Isidore of Seville scholarship",
+            "url": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Reccared_I_Conversi%C3%B3n%2C_by_Mu%C3%B1oz_Degrain%2C_Senate_Palace%2C_Madrid.jpg/300px-Reccared_I_Conversi%C3%B3n%2C_by_Mu%C3%B1oz_Degrain%2C_Senate_Palace%2C_Madrid.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Reccared_I_Conversi%C3%B3n%2C_by_Mu%C3%B1oz_Degrain%2C_Senate_Palace%2C_Madrid.jpg",
+            "caption": "El lienzo representa la conversión del rey Recaredo, que abandonó el arrianis...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Recopolis_-_Basilica_%28Exterior%29.jpg/300px-Recopolis_-_Basilica_%28Exterior%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Recopolis_-_Basilica_%28Exterior%29.jpg",
+            "caption": "Recopolis - Basilica (Exterior)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 es"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hispania_418_AD.PNG/300px-Hispania_418_AD.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hispania_418_AD.PNG",
+            "caption": "Iberian peninsula in year 418, after the Rhine invaders had divided Hispania ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hispania_586_AD.PNG/300px-Hispania_586_AD.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hispania_586_AD.PNG",
+            "caption": "Hispania 586 AD",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Theodoric I",
+            "summary": "King of the Visigoths",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/F%C3%A9lix_Castello%2C_%22Teodorico%2C_rey_godo%22%2C_1635.jpg/250px-F%C3%A9lix_Castello%2C_%22Teodorico%2C_rey_godo%22%2C_1635.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodoric_I"
+        },
+        {
+            "name": "Euric",
+            "summary": "King of the Visigoths from 466 to 484",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Eurico%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg/250px-Eurico%2C_rey_de_los_Visigodos_%28Museo_del_Prado%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Euric"
+        },
+        {
+            "name": "Alaric II",
+            "summary": "King of the Visigoths from 484 until 507",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Anneau_sigillaire_Alaric_II.jpg/250px-Anneau_sigillaire_Alaric_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alaric_II"
+        },
+        {
+            "name": "Theodoric the Great",
+            "summary": "King of Italy from 493 to 526",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Teodorico_re_dei_Goti_%28493-526%29.png/250px-Teodorico_re_dei_Goti_%28493-526%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodoric_the_Great"
+        },
+        {
+            "name": "Liuvigild",
+            "summary": "Visigothic king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Leovigild_CNG_97-722237.jpg/250px-Leovigild_CNG_97-722237.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Liuvigild"
+        },
+        {
+            "name": "Sisebut",
+            "summary": "Visigothic King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sisebut1.jpg/250px-Sisebut1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sisebut"
+        }
+    ],
+    "territory_geojson": null
+}

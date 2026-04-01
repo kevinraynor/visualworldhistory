@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2024,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:4c954966d1ee49a281f4360be091ecf0c9fc93fec1f24728b172dafd9ef5b5f2",
+    "summary": "The Antonine Plague (165–180 AD) was a pandemic that swept through the Roman Empire during the reign of Marcus Aurelius, killing an estimated 5–10 million people (perhaps 7–10% of the empire's population) and severely disrupting the military, economy, and social fabric of the Roman world. Brought back by soldiers returning from Mesopotamia, the disease — probably smallpox or measles, based on the symptoms recorded by the physician Galen — spread rapidly through the interconnected imperial trade and road networks.\n\nThe Antonine Plague had significant long-term consequences: it reduced the military's capacity to defend the northern frontier (contributing to the Marcomannic Wars' difficulty), disrupted agricultural and economic production in affected provinces, and accelerated the social trends that would lead to the [[event:2025|Crisis of Third Century]]. The religious response was notable: many Romans, confronted by the inadequacy of traditional religion to explain or stop the catastrophe, turned to new religions offering personal salvation and divine intervention — a trend that aided the spread of Christianity and of Eastern mystery cults. The physician Galen's detailed medical observations of the disease represent some of the most important clinical documentation from antiquity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Antonine_Plague",
+    "read_more_links": [
+        {
+            "title": "Galen medical description",
+            "url": "https://en.wikipedia.org/wiki/Antonine_Plague#Galen"
+        },
+        {
+            "title": "Roman population decline plague",
+            "url": "https://en.wikipedia.org/wiki/Antonine_Plague#Impact"
+        },
+        {
+            "title": "Plague of Cyprian later pandemic",
+            "url": "https://en.wikipedia.org/wiki/Plague_of_Cyprian"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Galenosgruppe_%28Wiener_Dioskurides%29.jpg/300px-Galenosgruppe_%28Wiener_Dioskurides%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Galenosgruppe_%28Wiener_Dioskurides%29.jpg",
+            "caption": "Galen's Group. The second physician's portrait from the Codex of Vienna Diosc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Memorial_plaque_commemorating_soldiers_who_died_in_the_Antonine_Plague.jpg/300px-Memorial_plaque_commemorating_soldiers_who_died_in_the_Antonine_Plague.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Memorial_plaque_commemorating_soldiers_who_died_in_the_Antonine_Plague.jpg",
+            "caption": "Memorial plaque dedicated by legionary veterans and survivors",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Aurelius180AD.png/300px-Aurelius180AD.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Aurelius180AD.png",
+            "caption": "The Roman Empire during the reign of Marcus Aurelius. His annexation of lands...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Marcus_Aurelius_Sestertius_177_860042.jpg/300px-Marcus_Aurelius_Sestertius_177_860042.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Marcus_Aurelius_Sestertius_177_860042.jpg",
+            "caption": "Marcus Aurelius. AD 161-180. \n\nÆ Sestertius (31mm, 28.62 g, 12h). Rome mint. ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Marcus Aurelius",
+            "summary": "Roman emperor from 161 to 180",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/250px-MSR-ra-61-b-1-DM.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+        },
+        {
+            "name": "Lucius Verus",
+            "summary": "Roman emperor from 161 to 169",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg/250px-Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Verus"
+        },
+        {
+            "name": "Galen",
+            "summary": "Greek physician, surgeon, and philosopher (c. 129–216 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Galenus.jpg/250px-Galenus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Galen"
+        },
+        {
+            "name": "Eutropius (historian)",
+            "summary": "4th century Roman historian and official",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Miniature_of_Eutropius.jpg/250px-Miniature_of_Eutropius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eutropius_%28historian%29"
+        },
+        {
+            "name": "Cassius Dio",
+            "summary": "Greco-Roman statesman and historian (c. 155–c. 235)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dio_Cassius.jpg/250px-Dio_Cassius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassius_Dio"
+        },
+        {
+            "name": "Aelius Aristides",
+            "summary": "2nd century Greek rhetorician and author",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Filosofo_elio_aristide%2C_200_ac._ca..JPG/250px-Filosofo_elio_aristide%2C_200_ac._ca..JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aelius_Aristides"
+        }
+    ],
+    "territory_geojson": null
+}

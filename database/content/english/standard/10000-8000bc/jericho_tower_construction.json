@@ -1,0 +1,47 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1367,
+    "parent_id": 2,
+    "granularity": "notable",
+    "content_hash": "sha256:7489567b0423aaec67fba02f01bc9915d1dff50babbc23191acd8250f355bc65",
+    "summary": "The Tower of Jericho is a massive round stone tower built at [[event:2|Jericho]] (Tell es-Sultan) during the Pre-Pottery Neolithic A period, dated to approximately 8800–8300 BCE, making it one of the oldest and most ambitious monumental stone constructions in human history. The tower stands approximately 8.5 meters tall, has a diameter of about 9 meters, and is built from large, roughly dressed limestone blocks without mortar. An internal stone staircase of 22 steps provides access to the top of the structure.\n\nThe Jericho Tower was associated with the substantial stone wall that surrounded the settlement — an enclosure that has traditionally been interpreted as a defensive fortification, though some scholars argue it may have served primarily as a flood barrier protecting the settlement from winter mud flows, or as a boundary marker with ritual or social significance. The construction of the tower and wall required an estimated 11,000 person-days of labor, implying a community with both the organizational capacity to coordinate large-scale collective projects and a sufficient population and food surplus to release workers from food-producing activities.\n\nThe tower's internal staircase opens onto a platform at the top, and a burial chamber was found within the base of the tower, suggesting possible ritual use. The tower predates the Egyptian pyramids by nearly 7,000 years and the Stonehenge megaliths by approximately 5,000 years, establishing early Neolithic communities in the Levant as capable of engineering feats of a scale previously associated only with much later civilizations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tower_of_Jericho",
+    "read_more_links": [
+        {
+            "title": "Jericho - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jericho"
+        },
+        {
+            "title": "Pre-Pottery Neolithic A - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A"
+        },
+        {
+            "title": "Ancient Fortifications - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fortification#History"
+        },
+        {
+            "title": "Tell es-Sultan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tell_es-Sultan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ziko.jpg/300px-Ziko.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ziko.jpg",
+            "caption": "Tel Essultan site",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Model_of_the_round_tower_in_Jericho_%282%29.JPG/300px-Model_of_the_round_tower_in_Jericho_%282%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Model_of_the_round_tower_in_Jericho_%282%29.JPG",
+            "caption": "Moshe Stekelis Museum of Prehistory exhibition. Model of the round tower in J...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3314,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5ff9f89bf1005b97a9bf4b232c07c186a552838f7efdcf9af71a8a7b76b1d17f",
+    "summary": "The Federalist Papers (1787–1788 AD) were a collection of 85 essays written by Alexander Hamilton, James Madison, and John Jay under the pseudonym 'Publius,' arguing for ratification of the [[event:2396|US Constitution]] — the most important work of political theory produced in American history and one of the foundational texts of republican government worldwide. Written as newspaper essays in New York state (a key battleground for ratification) and collected in book form in 1788, the Federalist Papers responded to Anti-Federalist critics who feared that the Constitution would create a tyrannical central government. Hamilton wrote 51 essays, Madison 29, and Jay 5; Madison's contributions, particularly Federalist No. 10 (arguing that large republics are more resistant to faction than small ones, inverting conventional wisdom) and No. 51 (articulating the separation of powers and checks and balances), are considered the most intellectually profound.\n\nThe Federalist Papers have had a peculiar dual life: in their immediate context they were partisan documents arguing for a specific political outcome; in their subsequent legacy they became the authoritative commentary on constitutional intent, cited by American courts, scholars, and politicians across two and a half centuries. Madison's argument in Federalist No. 10 — that the diversity of a large republic would prevent any single faction from dominating, since coalitions would be fragile and shifting — was an explicit response to [[event:3264|Montesquieu's]] argument that republics could only function in small territories. The Papers drew on [[event:3291|Locke]], [[event:3264|Montesquieu]], [[event:3263|Rousseau]], and ancient history to argue that the Constitution represented the best available approximation of a government that would protect liberty while maintaining order — an argument that continues to resonate.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Federalist_Papers",
+    "read_more_links": [
+        {
+            "title": "Federalist No. 10 Madison faction republic democracy argument",
+            "url": "https://en.wikipedia.org/wiki/Federalist_No._10"
+        },
+        {
+            "title": "Federalist No. 51 checks balances separation powers Madison",
+            "url": "https://en.wikipedia.org/wiki/Federalist_No._51"
+        },
+        {
+            "title": "Hamilton Madison Jay Publius authorship Federalist essays",
+            "url": "https://en.wikipedia.org/wiki/The_Federalist_Papers#Authorship"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg/300px-Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Alexander_Hamilton_portrait_by_John_Trumbull_1806.jpg",
+            "caption": "Alexander Hamilton portrait by John Trumbull 1806",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/300px-James_Madison.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/James_Madison.jpg",
+            "caption": "Portrait of James Madison, one of the authors of the Federalist Papers, and t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/John_Jay_%28Gilbert_Stuart_portrait%29.jpg/300px-John_Jay_%28Gilbert_Stuart_portrait%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/John_Jay_%28Gilbert_Stuart_portrait%29.jpg",
+            "caption": "John Jay (Gilbert Stuart portrait)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960.jpg/300px-An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/An_Advertisement_of_The_Federalist_-_Project_Gutenberg_eText_16960.jpg",
+            "caption": "An Advertisement of The Federalist - Project Gutenberg eText 16960",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "James Madison",
+            "summary": "Founding Father, U.S. president from 1809 to 1817",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/250px-James_Madison.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Madison"
+        },
+        {
+            "name": "Gouverneur Morris",
+            "summary": "American Founding Father and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Portrait_of_Gouverneur_Morris_%281752-1816%29%2C_1817.jpg/250px-Portrait_of_Gouverneur_Morris_%281752-1816%29%2C_1817.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gouverneur_Morris"
+        },
+        {
+            "name": "William Duer (Continental congressman)",
+            "summary": "American Founding Father and politician (1743–1799)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/WilliamDuer_%28cropped%29.jpg/250px-WilliamDuer_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Duer_%28Continental_congressman%29"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Marcus Junius Brutus",
+            "summary": "Roman politician and assassin of Julius Caesar (85–42 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
+        },
+        {
+            "name": "Cato the Younger",
+            "summary": "Roman politician and Stoic (95–46 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cat%C3%B3n_%2852340687524%29.jpg/250px-Cat%C3%B3n_%2852340687524%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cato_the_Younger"
+        }
+    ],
+    "territory_geojson": null
+}

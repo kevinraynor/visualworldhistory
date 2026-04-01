@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1066,
+    "parent_id": 1065,
+    "granularity": "detailed",
+    "content_hash": "sha256:146bea7445187e949fafc3c959c019938c5ab3142110c1f67402816d533b6482",
+    "summary": "The Battle of Cynoscephalae (197 BC) was the decisive engagement of the Second [[event:1065|Macedonian Wars]], in which the Roman general Titus Quinctius Flamininus defeated Philip V of Macedon's phalanx army on the hills of Thessaly, demonstrating for the first time in major battle the tactical superiority of the flexible Roman legion over the rigid Macedonian phalanx.\n\nThe battle was fought in hilly terrain — cynoscephalae means 'dogs' heads,' describing the rounded hilltops — that disrupted the phalanx's need for flat ground to maintain cohesion. When part of the Macedonian phalanx gained the upper hand on one flank, a Roman tribune improvised by detaching a force from the Roman right, which was winning, and attacking the undefended rear of the Macedonian victorious wing. The Macedonian phalanx, once broken from the rear, could not reform or respond effectively — its weapons were designed for pushing forward, not fighting in multiple directions. The result was a rout that killed approximately 8,000 Macedonians. Cynoscephalae proved that the legion's maniple system, with its smaller tactical units capable of independent action, had a decisive advantage over the phalanx in uneven terrain.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cynoscephalae",
+    "read_more_links": [
+        {
+            "title": "Titus Quinctius Flamininus",
+            "url": "https://en.wikipedia.org/wiki/Titus_Quinctius_Flamininus"
+        },
+        {
+            "title": "Philip V of Macedon",
+            "url": "https://en.wikipedia.org/wiki/Philip_V_of_Macedon"
+        },
+        {
+            "title": "Roman Legion vs Macedonian Phalanx",
+            "url": "https://en.wikipedia.org/wiki/Macedonian_phalanx#Comparison_to_the_Roman_legion"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cynoscephalae.png/300px-Cynoscephalae.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cynoscephalae.png",
+            "caption": "Map of the battle of Cynoscephalae",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Macedonia_and_the_Aegean_World_c.200.png/300px-Macedonia_and_the_Aegean_World_c.200.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png",
+            "caption": "Macedonia and the Aegean world c.200 B.C. This image is made by Raymond Palmer.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Titus Quinctius Flamininus",
+            "summary": "Roman general and statesman (c. 230–174 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Macedonia_-_T_Quinctius_Flamininus_-_196_BC_-_gold_stater_-_head_of_T_Quinctius_Flamininus_-_Victoria_-_London_BM_1954-1009-1.jpg/250px-Macedonia_-_T_Quinctius_Flamininus_-_196_BC_-_gold_stater_-_head_of_T_Quinctius_Flamininus_-_Victoria_-_London_BM_1954-1009-1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Titus_Quinctius_Flamininus"
+        },
+        {
+            "name": "Philip V of Macedon",
+            "summary": "King of Macedonia from 221 to 179 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg/250px-Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_V_of_Macedon"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        }
+    ],
+    "territory_geojson": null
+}

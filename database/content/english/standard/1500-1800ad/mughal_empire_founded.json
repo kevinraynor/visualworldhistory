@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3825,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:bed0b435e11d578a8f35b50d794eb502866fc25cc2372dbc10de651b4e99b1f6",
+    "summary": "The Founding of the Mughal Empire (1526 AD) occurred when the Timurid prince [[event:2512|Babur]] defeated Ibrahim Lodi at the [[event:2380|First Battle of Panipat]], ending the Delhi Sultanate and establishing the Mughal dynasty that would govern most of South Asia for over three centuries. The name 'Mughal' derives from 'Mongol' — the dynasty claimed descent from both Timur (Tamerlane) on the paternal side and Genghis Khan on the maternal — though culturally the Mughals were thoroughly Persianized Central Asians whose court language was Persian, whose artistic traditions drew on Persian illuminated manuscripts and architecture, and whose religious practice was Sunni Islam tempered by Sufi mysticism and, under [[event:2381|Akbar]], a synthetic tolerance of all religions.\n\nThe empire's foundation moment was followed by a near-extinction: [[event:3233|Humayun]] lost the empire to the [[event:3234|Sur Empire]] (1540–1555) and spent 15 years in exile before recovering it. The dynasty achieved its mature form only under Akbar (r. 1556–1605), whose administrative genius, religious tolerance, and military effectiveness created the institutional Mughal Empire that [[event:2506|Shah Jahan]] would embellish and [[event:2507|Aurangzeb]] would overextend. At its peak, the Mughal Empire governed approximately 150 million people (about a quarter of the world's population) and produced an estimated 25% of global GDP — making it one of the most economically significant polities in pre-industrial history. The empire left enduring legacies in South Asian architecture, cuisine, language (Urdu), music, and administrative tradition that profoundly shaped the subcontinent's character.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mughal_Empire",
+    "read_more_links": [
+        {
+            "title": "Mughal Empire history overview administration culture",
+            "url": "https://en.wikipedia.org/wiki/Mughal_Empire#History"
+        },
+        {
+            "title": "Mughal GDP economic significance pre-industrial world",
+            "url": "https://en.wikipedia.org/wiki/Mughal_Empire#Economy"
+        },
+        {
+            "title": "Persian cultural influence Mughal court language arts",
+            "url": "https://en.wikipedia.org/wiki/Mughal_Empire#Culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/India%2C_Mughal%2C_early_17th_century_-_An_Illuminated_Folio_from_the_Royal_Manuscript_of_the_Farhang-i_Jahangiri_%28_-_2013.318.a_-_Cleveland_Museum_of_Art.tif/300px-India%2C_Mughal%2C_early_17th_century_-_An_Illuminated_Folio_from_the_Royal_Manuscript_of_the_Farhang-i_Jahangiri_%28_-_2013.318.a_-_Cleveland_Museum_of_Art.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/India%2C_Mughal%2C_early_17th_century_-_An_Illuminated_Folio_from_the_Royal_Manuscript_of_the_Farhang-i_Jahangiri_%28_-_2013.318.a_-_Cleveland_Museum_of_Art.tif",
+            "caption": "India, Mughal, early 17th century - An Illuminated Folio from the Royal Manuscript of the Farhang-i Jahangiri ( - 2013.318.a - Cleveland Museum of Art",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Renaldis_muslin_woman.jpg/300px-Renaldis_muslin_woman.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Renaldis_muslin_woman.jpg",
+            "caption": "Renaldis muslin woman",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Badshahi_Mosque%2C_Lahore._King%27s_Mosque.jpg/300px-Badshahi_Mosque%2C_Lahore._King%27s_Mosque.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Badshahi_Mosque%2C_Lahore._King%27s_Mosque.jpg",
+            "caption": "This is a photo of a monument in Pakistan identified as the",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/1._%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0_%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE.jpg/300px-1._%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0_%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/1._%E0%A6%B2%E0%A6%BE%E0%A6%B2%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0_%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE.jpg",
+            "caption": "This is a photo of a monument in Bangladesh identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Babur",
+            "summary": "Mughal emperor from 1526 to 1530",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg/250px-Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Babur"
+        },
+        {
+            "name": "Daulat Rao Sindhia",
+            "summary": "Maharaja of Gwalior from 1794 to 1827",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/MAHARAJA_DAULAT_RAO_SCINDIA_OF_GWALIOR_%28R._1794-1827%29.jpg/250px-MAHARAJA_DAULAT_RAO_SCINDIA_OF_GWALIOR_%28R._1794-1827%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daulat_Rao_Sindhia"
+        },
+        {
+            "name": "Akbar",
+            "summary": "Mughal emperor from 1556 to 1605",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg/250px-Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Akbar"
+        },
+        {
+            "name": "Aurangzeb",
+            "summary": "Mughal emperor from 1658 to 1707",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aurangzeb-portrait.jpg/250px-Aurangzeb-portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aurangzeb"
+        },
+        {
+            "name": "Mughal architecture",
+            "summary": "16th–18th-century Indo-Islamic architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/250px-Taj_Mahal%2C_Agra%2C_India.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mughal_architecture"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2365,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f9d6cff86b4fb67ac3a2693327cbb00065ecd40e0ccd17a1a62f22cad8e61f69",
+    "summary": "The Act of Union of 1707 merged the Kingdom of England (including Wales) and the Kingdom of Scotland into the single Kingdom of Great Britain, creating a unified parliament at Westminster and establishing the political entity that would build the world's largest empire. The union had deep historical roots in the 1603 'Union of the Crowns' when James VI of Scotland inherited the English throne as James I, creating a personal union of the two kingdoms under one monarch but leaving them with separate parliaments and legal systems. The formal political union was driven by practical considerations on both sides: Scotland, economically ruined by the failed Darien Scheme (an attempt to establish a Scottish colony in Panama), needed access to English markets and the growing colonial trade; England needed to secure its northern border, particularly given the risk that Scotland might choose a different (Catholic Stuart) monarch under the Act of Settlement, potentially creating a hostile northern neighbor allied with France.\n\nThe merger of parliaments was deeply unpopular in Scotland, where many saw it as absorption by a wealthier neighbor — Scottish satirists called the negotiators who accepted English financial inducements 'bought and sold for English gold.' The union abolished the Scottish Parliament and gave Scotland 45 seats in the new British House of Commons and 16 representative peers in the Lords (proportional to Scotland's relative wealth). Scotland retained its distinct legal system (Scots law), Presbyterian church governance, and educational institutions — concessions that preserved Scottish cultural distinctiveness within the union. The [[event:2384|Jacobite Risings]] of 1715 and 1745 represented armed challenges to the union from Scottish Highlanders loyal to the exiled Stuart dynasty; the defeat of the [[event:2385|Battle of Culloden]] (1746) definitively ended the Jacobite threat and allowed the Highland culture to be systematically dismantled. Great Britain subsequently emerged as the dominant global power of the 18th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Acts_of_Union_1707",
+    "read_more_links": [
+        {
+            "title": "Darien Scheme Scottish colonial failure Panama",
+            "url": "https://en.wikipedia.org/wiki/Darien_scheme"
+        },
+        {
+            "title": "Kingdom Great Britain 1707 formation history",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Closterman%2C_John_-_Queen_Anne_-_NPG_215.jpg/300px-Closterman%2C_John_-_Queen_Anne_-_NPG_215.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Closterman%2C_John_-_Queen_Anne_-_NPG_215.jpg",
+            "caption": "Closterman, John - Queen Anne - NPG 215",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Downsitting_of_the_Scottish_Parliament_detail.JPG/300px-Downsitting_of_the_Scottish_Parliament_detail.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Downsitting_of_the_Scottish_Parliament_detail.JPG",
+            "caption": "'The Downsitting of the Scottish Parliament' (slightly cropped) from Châtelai...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Articles_of_Union_between_England_and_Scotland_28_Jan_1707.png/300px-Articles_of_Union_between_England_and_Scotland_28_Jan_1707.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Articles_of_Union_between_England_and_Scotland_28_Jan_1707.png",
+            "caption": "This file comprises a vellum-bound volume containing the Articles of Union ag...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cromwell_at_Dunbar_Andrew_Carrick_Gow.jpg/300px-Cromwell_at_Dunbar_Andrew_Carrick_Gow.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cromwell_at_Dunbar_Andrew_Carrick_Gow.jpg",
+            "caption": "Cromwell at Dunbar Andrew Carrick Gow",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Anne, Queen of Great Britain",
+            "summary": "Queen of Great Britain and Ireland from 1702 to 1714",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg/250px-Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anne%2C_Queen_of_Great_Britain"
+        },
+        {
+            "name": "Elizabeth I",
+            "summary": "Queen of England and Ireland from 1558 to 1603",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/250px-Darnley_stage_3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_I"
+        },
+        {
+            "name": "James VI and I",
+            "summary": "King of Scotland from 1567 to 1625, King of England and Ireland from 1603 to 1625",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JamesIEngland.jpg/250px-JamesIEngland.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_VI_and_I"
+        },
+        {
+            "name": "James II of England",
+            "summary": "King of England, Scotland and Ireland from 1685 to 1688",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/James_II_by_Peter_Lely.jpg/250px-James_II_by_Peter_Lely.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_II_of_England"
+        },
+        {
+            "name": "William III of England",
+            "summary": "King of England, Scotland, and Ireland from 1689 to 1702",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg/250px-King_William_III_of_England%2C_%281650-1702%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_III_of_England"
+        },
+        {
+            "name": "Edwin Sandys (1561–1629)",
+            "summary": "English politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Edwin_Sandys_%281561-1629%29.jpg/250px-Edwin_Sandys_%281561-1629%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edwin_Sandys_%281561%E2%80%931629%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 91,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:1b14545cb5bb4d176a203af286512b268837496862768bcb6115f970f5f1b7ce",
+    "summary": "The Mongol Empire (1206–1368 AD) was the largest contiguous land empire in human history, at its height spanning from the Pacific coast of China to Eastern Europe and the Persian Gulf — roughly 24 million square kilometers, encompassing approximately a quarter of the world's total land area. Founded by [[event:2225|Genghis Khan]] through the unification of the warring Mongol and Turkic steppe tribes in 1206, the empire expanded with stunning speed through a combination of superb cavalry tactics, psychological terror, pragmatic administration, and an ability to incorporate conquered peoples' skills into the Mongol war machine.\n\nThe Mongol conquests were among the most destructive events in premodern history. The [[event:2226|invasion of China]], the [[event:2973|destruction of the Khwarazmian Empire]], the [[event:2227|invasion of Eastern Europe]], and the [[event:2228|siege of Baghdad]] killed tens of millions of people and depopulated entire regions for generations. The Iranian plateau lost perhaps three-quarters of its population; Mesopotamia never fully recovered its ancient agricultural productivity after Mongol destruction of the irrigation networks. Yet the Mongol Empire also created what historians call the Pax Mongolica — a period of relative peace across Eurasia's vast interior that facilitated the movement of merchants, diplomats, and ideas along the Silk Road with unprecedented safety. The travels of [[event:2230|Marco Polo]] exemplified this connectivity. The empire fragmented after Genghis Khan's death into four successor khanates — the [[event:2305|Golden Horde]], [[event:2306|Ilkhanate]], [[event:2307|Chagatai Khanate]], and [[event:2229|Yuan Dynasty]] — each pursuing different trajectories and most eventually converting to Islam.\n\nThe long-term consequences of the Mongol period were paradoxical. The destruction accelerated the collapse of the Abbasid caliphate and Persian cultural centers while simultaneously transmitting Chinese technologies (printing, gunpowder, papermaking) westward and stimulating European interest in direct sea routes to Asia — indirectly contributing to the [[event:97|Age of Exploration]]. The spread of plague along Mongol trade routes likely caused or accelerated the [[event:95|Black Death]] that devastated 14th-century Europe. Few single historical phenomena have so thoroughly reshaped the demographic, political, and cultural map of Eurasia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+    "read_more_links": [
+        {
+            "title": "Pax Mongolica Silk Road trade safety",
+            "url": "https://en.wikipedia.org/wiki/Pax_Mongolica"
+        },
+        {
+            "title": "Mongol military tactics and conquests",
+            "url": "https://en.wikipedia.org/wiki/Mongol_military_tactics_and_organization"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fall_Of_Baghdad_%28Diez_Albums%29.jpg/300px-Fall_Of_Baghdad_%28Diez_Albums%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Fall_Of_Baghdad_%28Diez_Albums%29.jpg",
+            "caption": "Fall Of Baghdad (Diez Albums).\nDetail: a leading official's failed attempt to...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pursuit_by_Mongol_Warriors_%28Diez_Albums%29.jpg/300px-Pursuit_by_Mongol_Warriors_%28Diez_Albums%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pursuit_by_Mongol_Warriors_%28Diez_Albums%29.jpg",
+            "caption": "Early 14th-century work from the Diez Albums depicting Mongol warriors pursui...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tem%C3%BCjin_proclaimed_as_Genghis_Khan_in_1206_Jami%27_al-tawarikh_manuscript.jpg/300px-Tem%C3%BCjin_proclaimed_as_Genghis_Khan_in_1206_Jami%27_al-tawarikh_manuscript.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tem%C3%BCjin_proclaimed_as_Genghis_Khan_in_1206_Jami%27_al-tawarikh_manuscript.jpg",
+            "caption": "Temüjin being proclaimed as Genghis Khan in 1206, as illustrated in a 15th-ce...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Toda_Mongke_and_His_Mongol_Horde.jpg/300px-Toda_Mongke_and_His_Mongol_Horde.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Toda_Mongke_and_His_Mongol_Horde.jpg",
+            "caption": "Tulsi , Madhu\nToda Mongke and His Mongol Horde, Folio from a Chingiznama (His...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Genghis Khan",
+            "summary": "Khan of the Mongol Empire from 1206 to 1227",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/250px-YuanEmperorAlbumGenghisPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Genghis_Khan"
+        },
+        {
+            "name": "Ögedei Khan",
+            "summary": "Khan of the Mongol Empire from 1229 to 1241",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg/250px-YuanEmperorAlbumOgedeiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan"
+        },
+        {
+            "name": "Möngke Khan",
+            "summary": "Khan of the Mongol Empire from 1251 to 1259",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/M%C3%B6ngke_Khan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan"
+        },
+        {
+            "name": "Kublai Khan",
+            "summary": "Emperor of Yuan China from 1271 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/250px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+        },
+        {
+            "name": "Chagatai Khan",
+            "summary": "Second son of Genghis Khan and Börte (1183–1242)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chagatai_Khan_%28cropped%29.JPG/250px-Chagatai_Khan_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chagatai_Khan"
+        },
+        {
+            "name": "Jochi",
+            "summary": "Mongol prince and general (c. 1182 – c. 1225)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Juchi_Khan_%28cropped%29.JPG/250px-Juchi_Khan_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jochi"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3674,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:93e05dcc6d7baebb7307d3716e84d06878538efbd4c836bb0a130a6493929759",
+    "summary": "On December 21, 1988, Pan Am Flight 103 exploded over Lockerbie, Scotland, killing all 259 people aboard and 11 residents of Lockerbie struck by wreckage, for a total of 270 dead. The explosion was caused by a Semtex bomb hidden in a cassette player in the aircraft's luggage hold. The attack was the deadliest terrorist incident in British history and, at the time, the deadliest attack against American civilians since the Second World War.\n\nA painstaking international investigation eventually pointed to Libyan intelligence agents acting under orders from Muammar Gaddafi's government, believed to be retaliation for the 1986 US bombing of Libya. Two Libyan suspects were indicted in 1991, and years of diplomatic standoff followed before Libya surrendered them for trial in 1999 under a deal negotiated by the UN and brokered partly by South Africa's Nelson Mandela. The trial was conducted under Scottish law in the Netherlands; one defendant, Abdelbaset al-Megrahi, was convicted in 2001 while the other was acquitted. Al-Megrahi was released on compassionate grounds in 2009, dying of cancer in 2012 while maintaining his innocence, a decision that generated significant controversy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_103",
+    "read_more_links": [
+        {
+            "title": "Lockerbie",
+            "url": "https://en.wikipedia.org/wiki/Lockerbie"
+        },
+        {
+            "title": "Abdelbaset al-Megrahi",
+            "url": "https://en.wikipedia.org/wiki/Abdelbaset_al-Megrahi"
+        },
+        {
+            "title": "1986 United States bombing of Libya",
+            "url": "https://en.wikipedia.org/wiki/1986_United_States_bombing_of_Libya"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/B747_N739PA_PanAm.jpg/300px-B747_N739PA_PanAm.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/B747_N739PA_PanAm.jpg",
+            "caption": "On 21 December 1988 this B747 exploded over Lockerbie, Scotland due to a terr...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/20210815_Lockerbie_Memorial-8774.jpg/300px-20210815_Lockerbie_Memorial-8774.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/20210815_Lockerbie_Memorial-8774.jpg",
+            "caption": "A memorial for victims on the ground of Pan Am Flight 103 in Sherwood Garden,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lockerbie_disaster_memorial.jpg/300px-Lockerbie_disaster_memorial.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lockerbie_disaster_memorial.jpg",
+            "caption": "Lockerbie disaster memorial (Lockerbie cemetery)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cairn_Inscription_ANC.jpg/300px-Cairn_Inscription_ANC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cairn_Inscription_ANC.jpg",
+            "caption": "Inscription on memorial at Arlington National Cemetery",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Muammar Gaddafi",
+            "summary": "Leader of Libya from 1969 to 2011",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg/250px-Moamer_el_Gadafi_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+        },
+        {
+            "name": "Lamin Khalifah Fhimah",
+            "summary": "Libyan accused of the Lockerbie bombing (born 1956)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lamen_Khalifa_Fhimah.jpg/250px-Lamen_Khalifa_Fhimah.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lamin_Khalifah_Fhimah"
+        },
+        {
+            "name": "Mustafa Abdul Jalil",
+            "summary": "Interim leader of Libya from 2011 to 2012",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Mustafa_Abdul_Jalil_%285713061984%29.jpg/250px-Mustafa_Abdul_Jalil_%285713061984%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mustafa_Abdul_Jalil"
+        },
+        {
+            "name": "Dawson's Field hijackings",
+            "summary": "1970 Palestinian militant plane hijackings",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Dawson%27s_Field.JPG/250px-Dawson%27s_Field.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dawson%27s_Field_hijackings"
+        },
+        {
+            "name": "Bernt Carlsson",
+            "summary": "Swedish diplomat (1938–1988)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BerntCarlsson.jpg/250px-BerntCarlsson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bernt_Carlsson"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1045,
+    "parent_id": 1040,
+    "granularity": "detailed",
+    "content_hash": "sha256:22ea8d1f4af3b53214df7f2639c6f971f31456e4d5fa7aa6e71afdfe96cde6e2",
+    "summary": "The Lighthouse of Alexandria (completed c. 280 BC) on the island of Pharos in Alexandria's harbor was one of the Seven Wonders of the Ancient World — the tallest man-made structure of antiquity at an estimated 100–140 meters (330–460 feet). Commissioned by [[event:1049|Ptolemy I Soter]] and completed under his successor Ptolemy II, it guided ships safely into Alexandria's busy harbor and served as a symbol of Ptolemaic power and the glory of their capital city.\n\nThe lighthouse reportedly used a fire and a system of mirrors to project its light far out to sea; ancient sources suggest the flame could be seen from as far as 50 kilometers away. The structure's design — a square lower section, an octagonal middle section, and a cylindrical top surmounted by a statue, possibly of Zeus or Poseidon — became the model for lighthouse design throughout the Mediterranean. The word 'pharos' entered multiple European languages as the generic word for lighthouse. The structure was damaged by earthquakes in the medieval period and its stones eventually used to construct the Citadel of Qaitbay, which stands on the same site today.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria",
+    "read_more_links": [
+        {
+            "title": "Seven Wonders of the Ancient World",
+            "url": "https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World"
+        },
+        {
+            "title": "Ptolemy II Philadelphus",
+            "url": "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"
+        },
+        {
+            "title": "History of Lighthouses",
+            "url": "https://en.wikipedia.org/wiki/Lighthouse#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/PHAROS_Scale_Comparison.jpg/300px-PHAROS_Scale_Comparison.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/PHAROS_Scale_Comparison.jpg",
+            "caption": "A size comparison of the Ancient Lighthouse of Alexandria (PHAROS) between a ...",
+            "attribution": "Wikimedia Commons, Attribution"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Philip_Galle_-_Lighthouse_of_Alexandria_%28Pharos_of_Alexandria%29_-_1572.jpg/300px-Philip_Galle_-_Lighthouse_of_Alexandria_%28Pharos_of_Alexandria%29_-_1572.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Philip_Galle_-_Lighthouse_of_Alexandria_%28Pharos_of_Alexandria%29_-_1572.jpg",
+            "caption": "Lighthouse of Alexandria",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lighthouse_-_Thiersch.png/300px-Lighthouse_-_Thiersch.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lighthouse_-_Thiersch.png",
+            "caption": "Lighthouse - Thiersch",
+            "attribution": "Wikimedia Commons"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leuchtturm_von_Alexandria.png/300px-Leuchtturm_von_Alexandria.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Leuchtturm_von_Alexandria.png",
+            "caption": "3D reconstruction of the Lighthouse of Alexandria",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy II Philadelphus",
+            "summary": "King of the Ptolemaic Kingdom, 284–246 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ptolemy_II_MAN_Napoli_Inv5600.jpg/250px-Ptolemy_II_MAN_Napoli_Inv5600.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Ptolemy I Soter",
+            "summary": "Pharaoh of Egypt from 305 to 282 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ptolemy_I_Soter_Louvre_Ma849_A.jpg/250px-Ptolemy_I_Soter_Louvre_Ma849_A.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Al-Masudi",
+            "summary": "10th-century Arab historian and geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/NHM_Bellariastra%C3%9Fe_side_risalit_right_-_Al_Masudi_-_Emmerich_Alexius_Swoboda_3890.jpg/250px-NHM_Bellariastra%C3%9Fe_side_risalit_right_-_Al_Masudi_-_Emmerich_Alexius_Swoboda_3890.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Masudi"
+        }
+    ],
+    "territory_geojson": null
+}

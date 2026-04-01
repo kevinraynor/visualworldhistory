@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2439,
+    "parent_id": 2346,
+    "granularity": "detailed",
+    "content_hash": "sha256:3940e41b81f969f70c4837c4ceb3651c562f829e0b963c297a628a03e43856a4",
+    "summary": "The Encyclopédie (1751–1772 AD), edited by Denis Diderot and Jean le Rond d'Alembert, was the most ambitious publishing project of the [[event:2346|Enlightenment]] — a 28-volume comprehensive reference work covering all human knowledge from the most elevated philosophical principles to the most practical crafts and mechanical arts, explicitly designed to transform how Europeans thought by presenting all subjects through the lens of rational empiricism and challenging religious and political orthodoxy. The work's full title — Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers ('Encyclopedia, or Systematic Dictionary of the Sciences, Arts, and Crafts') — captured its dual ambition: to be both a reference work and a polemic for rational, secular knowledge.\n\nThe Encyclopédie employed the most distinguished minds of the era: Voltaire, [[event:3263|Rousseau]], Montesquieu, Turgot, and [[event:3264|Holbach]] all contributed. Its articles on religion were often subtly (and not so subtly) subversive — the article on 'Priests' discussed them anthropologically; the article on 'Political Authority' began by denying that any man had natural authority over his fellows. The project faced sustained opposition: it was twice officially suppressed (in 1752 and 1759) by French royal authorities, and d'Alembert resigned as co-editor after the second suppression. Diderot persevered alone, only to discover near completion that his publisher had secretly toned down the most controversial articles. Nevertheless, the Encyclopédie succeeded brilliantly: approximately 4,000 copies of the complete edition were sold (an enormous circulation for the era), spreading Enlightenment ideas across educated Europe. Its practical descriptions of manufacturing processes — including illustrations of workshops, machines, and crafts — were unprecedented in encyclopedic writing and represented a new respect for technical and mechanical knowledge.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die",
+    "read_more_links": [
+        {
+            "title": "Diderot Encyclopedie editor articles 1751-1772",
+            "url": "https://en.wikipedia.org/wiki/Denis_Diderot"
+        },
+        {
+            "title": "Encyclopedie suppression censorship French authorities",
+            "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die#Suppression_and_resumption"
+        },
+        {
+            "title": "Encyclopedie craft plates mechanical arts illustrations",
+            "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die#Plates"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg/300px-Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Encyclopedie_de_D%27Alembert_et_Diderot_-_Premiere_Page_-_ENC_1-NA5.jpg",
+            "caption": "Cover of the \"Encyclopédie, ou dictionnaire raisonné des sciences, des arts e...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/ENC_SYSTEME_FIGURE.jpeg/300px-ENC_SYSTEME_FIGURE.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/ENC_SYSTEME_FIGURE.jpeg",
+            "caption": "\"Figurative System of organisation of human knowledge from the en:Encyclopédi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Encyclopedie_frontispice_section_256px.jpg/300px-Encyclopedie_frontispice_section_256px.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Encyclopedie_frontispice_section_256px.jpg",
+            "caption": "Extract of the frontispiece of the Encyclopédie ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Denis_Diderot_111.PNG/300px-Denis_Diderot_111.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Denis_Diderot_111.PNG",
+            "caption": "Denis Diderot, the editor of the Encyclopédie ",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Denis Diderot",
+            "summary": "French philosopher and writer (1713–1784)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Denis_Diderot_by_Louis-Michel_van_Loo.jpg/250px-Denis_Diderot_by_Louis-Michel_van_Loo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Denis_Diderot"
+        },
+        {
+            "name": "Ephraim Chambers",
+            "summary": "English writer and encyclopaedist (c. 1680–1740)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Chambers_Cyclopaedia_1728.jpg/250px-Chambers_Cyclopaedia_1728.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ephraim_Chambers"
+        },
+        {
+            "name": "Jean Paul de Gua de Malves",
+            "summary": "French mathematician (1713–1785)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gua_de_Malves_-_Usages_de_l%27analyse_de_Descartes%2C_1740_-_BEIC_1460763.jpg/250px-Gua_de_Malves_-_Usages_de_l%27analyse_de_Descartes%2C_1740_-_BEIC_1460763.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Paul_de_Gua_de_Malves"
+        },
+        {
+            "name": "Étienne Bonnot de Condillac",
+            "summary": "French philosopher (1714–1780)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Etienne_de_Condillac.jpg/250px-Etienne_de_Condillac.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89tienne_Bonnot_de_Condillac"
+        },
+        {
+            "name": "Charles-Nicolas Cochin",
+            "summary": "French artist (1715–1790)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Charles-Nicolas_Cochin.jpg/250px-Charles-Nicolas_Cochin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles-Nicolas_Cochin"
+        },
+        {
+            "name": "Guillaume-Chrétien de Lamoignon de Malesherbes",
+            "summary": "French statesman and minister (1721–1794)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Chr%C3%A9tien-Guillaume_de_Lamoignon_de_Malesherbes_%281721-1794%29.jpg/250px-Chr%C3%A9tien-Guillaume_de_Lamoignon_de_Malesherbes_%281721-1794%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume-Chr%C3%A9tien_de_Lamoignon_de_Malesherbes"
+        }
+    ],
+    "territory_geojson": null
+}

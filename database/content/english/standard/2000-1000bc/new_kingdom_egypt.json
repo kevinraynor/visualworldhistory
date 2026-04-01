@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 60,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7a75050ae3a022db2b9709c7faa146b0ce6a7ae81f99875c173fc9e7eba73269",
+    "summary": "The New Kingdom of Egypt, spanning from approximately 1550 to 1069 BC, represented the height of ancient Egyptian imperial power, artistic achievement, and international influence. Founded when the Theban pharaoh Ahmose I expelled the [[event:1799|Hyksos]] invaders and reunified Egypt, the New Kingdom saw the country transformed into a major military empire that extended Egyptian control deep into Nubia and the Levant.\n\nThe New Kingdom is defined by a succession of remarkable rulers. [[event:1801|Hatshepsut]] served as one of Egypt's few female pharaohs, presiding over a prosperous reign marked by ambitious construction projects and a famous trading expedition to the land of Punt. [[event:1802|Thutmose III]] extended Egyptian power to its greatest territorial reach through seventeen military campaigns, winning the decisive [[event:1803|Battle of Megiddo]] against a Canaanite coalition. Later, [[event:1807|Ramesses II]] dominated the era through his long reign, celebrated building program, and the famous contest with the Hittites at the [[event:1808|Battle of Kadesh]].\n\nThe [[event:1804|Amarna Period]] under [[event:1805|Akhenaten]] represented a radical theological and artistic interlude. The pharaoh dismantled the traditional polytheistic religion in favor of Aten, the sun disk, moving the capital to a new city at Amarna and overseeing a distinctive naturalistic art style. His successor [[event:1806|Tutankhamun]] reversed these reforms, restoring the traditional cults and the primacy of Amun. The Amarna episode left lasting disruption in Egyptian religious institutions.\n\nNew Kingdom Egypt was a major player in the international diplomatic system of the Late Bronze Age, exchanging embassies, gifts, and princesses with the Hittites, Mitanni, Babylon, and Assyria. The [[event:1811|Valley of the Kings]] near Thebes served as the royal necropolis, where pharaohs were buried in rock-cut tombs stocked with elaborate funerary equipment. Egyptian temples of the period, including the [[event:1885|Karnak complex]] and [[event:1810|Abu Simbel]], remain among the most impressive architectural achievements of antiquity.\n\nThe New Kingdom declined during the Twentieth Dynasty under pressure from the [[event:1814|Sea Peoples]], internal power struggles between pharaonic authority and the increasingly powerful priesthood of Amun, and economic contraction. By around 1069 BC the state had fragmented into the [[event:1813|Third Intermediate Period]], with rival dynasties ruling Upper and Lower Egypt simultaneously.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt",
+    "read_more_links": [
+        {
+            "title": "Valley of the Kings",
+            "url": "https://en.wikipedia.org/wiki/Valley_of_the_Kings"
+        },
+        {
+            "title": "Ramesses II",
+            "url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "title": "New Kingdom Egypt - Britannica",
+            "url": "https://www.britannica.com/topic/New-Kingdom"
+        },
+        {
+            "title": "Karnak Temple Complex",
+            "url": "https://en.wikipedia.org/wiki/Karnak"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Abu_Simbel_Temple_May_30_2007.jpg/300px-Abu_Simbel_Temple_May_30_2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abu_Simbel_Temple_May_30_2007.jpg",
+            "caption": "Abu Simbel Temple of Ramesses II. Taken by myself. May 30, 2007",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Amenhotep_I.jpg/300px-Amenhotep_I.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Amenhotep_I.jpg",
+            "caption": "Pharaoh Amenhotep I with his mother Queen Ahmose-Nefertari. (18th dynasty of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thutmosis_III_wien_front.jpg/300px-Thutmosis_III_wien_front.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Thutmosis_III_wien_front.jpg",
+            "caption": "Statue of Thutmosis III in the Kunsthistorisches Museum in Vienna (Wien). Acq...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Merneptah",
+            "summary": "Pharaoh of Egypt from 1213 to 1203 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Buste_de_Meremptah_%28la_Villette%2C_2023%29.jpg/250px-Buste_de_Meremptah_%28la_Villette%2C_2023%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merneptah"
+        },
+        {
+            "name": "Ahmose I",
+            "summary": "Pharaoh of Ancient Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Head_of_Ahmose_I_MET_DP140854.jpg/250px-Head_of_Ahmose_I_MET_DP140854.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmose_I"
+        },
+        {
+            "name": "Christian Charles Josias von Bunsen",
+            "summary": "German diplomat and scholar (1791–1860)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Christian_karl_josias_von_bunsen.jpg/250px-Christian_karl_josias_von_bunsen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Charles_Josias_von_Bunsen"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Hatshepsut",
+            "summary": "Pharaoh of Egypt from 1479 to 1458 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg/250px-Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hatshepsut"
+        }
+    ],
+    "territory_geojson": null
+}

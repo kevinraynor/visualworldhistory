@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1220,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:90bd12f9862eb5ed81ecf51bbcba373e27113110e066532b339af921de11138f",
+    "summary": "Chinese Iron Casting (c. 300–200 BC) was the Chinese development of cast iron technology — melting iron to liquid and pouring it into molds — over a millennium earlier than in Europe, enabling mass production of iron tools and weapons that gave [[event:76|Qin Dynasty]] armies and agricultural societies a decisive technological advantage during the [[event:1111|Warring States Period]].\n\nChina had been working with cast iron since at least the 5th century BC, developing furnace technologies that reached the high temperatures (above 1200°C) needed to melt iron. This was a fundamentally different approach from the bloomery iron-working of the Mediterranean world, which produced wrought iron by hammering heated solid iron but could not reach the temperatures for casting. Cast iron could be produced in much larger quantities and cast into complex shapes including agricultural tools, weapons, and construction elements. The military advantage was significant during the [[event:1111|Warring States Period]] as iron-equipped armies vastly outnumbered the bronze-armed forces of earlier periods. Iron plowshares and other agricultural tools increased food production, supporting growing populations. Cast iron technology eventually reached Europe via the Middle East around the 14th century AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cast_iron#History",
+    "read_more_links": [
+        {
+            "title": "History of ferrous metallurgy",
+            "url": "https://en.wikipedia.org/wiki/History_of_ferrous_metallurgy"
+        },
+        {
+            "title": "Chinese metallurgy",
+            "url": "https://en.wikipedia.org/wiki/Chinese_bronze_inscriptions"
+        },
+        {
+            "title": "Iron in Chinese warfare",
+            "url": "https://en.wikipedia.org/wiki/Warring_States_period#Technology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eglinton_Castle_%26_Tournament_Bridge_1884.jpg/300px-Eglinton_Castle_%26_Tournament_Bridge_1884.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Eglinton_Castle_%26_Tournament_Bridge_1884.jpg",
+            "caption": "Eglinton Castle and the Tournament Bridge in 1884",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/P%C3%A8re-Lachaise%2C_The_bat_%2810153312114%29.jpg/300px-P%C3%A8re-Lachaise%2C_The_bat_%2810153312114%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/P%C3%A8re-Lachaise%2C_The_bat_%2810153312114%29.jpg",
+            "caption": "The bat",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cast_fe_and_cu_dwv_piping.jpg/300px-Cast_fe_and_cu_dwv_piping.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cast_fe_and_cu_dwv_piping.jpg",
+            "caption": "Cast Iron and copper DWV (Drain, Waste and Vent) Piping in a Timber Residenti...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Belgian_waffles_cooked_in_a_Krampouz_cast-iron_waffle_iron.JPG/300px-Belgian_waffles_cooked_in_a_Krampouz_cast-iron_waffle_iron.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Belgian_waffles_cooked_in_a_Krampouz_cast-iron_waffle_iron.JPG",
+            "caption": "Belgian waffles cooked in a Krampouz cast-iron waffle iron, in a Montreal res...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Shropshire",
+            "summary": "County in England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_Shropshire_Hills_-_geograph.org.uk_-_6083545.jpg/250px-The_Shropshire_Hills_-_geograph.org.uk_-_6083545.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shropshire"
+        }
+    ],
+    "territory_geojson": null
+}

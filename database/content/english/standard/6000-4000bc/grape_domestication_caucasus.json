@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3713,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:4d7616c35ec54a746a9b7bef7ffb042cd2b6ce2ee78017d822950ab12ca554f1",
+    "summary": "Genetic and archaeological evidence points to the South Caucasus — encompassing present-day Georgia, Armenia, and Azerbaijan — as the primary center of grape (Vitis vinifera) domestication, with the process underway by at least 6000 BC. The wild progenitor, Vitis vinifera sylvestris, grew across a wide arc from the Atlantic coast of Europe to Central Asia, but the earliest evidence for intentional cultivation and winemaking clusters in the Caucasus region. Sites in Georgia, such as Shulaveri and Areni-1 Cave in Armenia, have yielded grape seeds, pips, and residues indicating wine production by the sixth and fifth millennia BC.\n\nThe domestication of the grape was inseparable from the development of winemaking, which became one of the most economically and culturally significant practices in the ancient Near East and Mediterranean world. Domesticated grapes spread westward through Anatolia and the Aegean and southward into the Levant and Egypt over subsequent millennia, accompanying the expansion of agricultural communities and long-distance trade networks. The Caucasian origins of viticulture remain a foundational chapter in the history of both agriculture and fermented beverages.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Grape#History",
+    "read_more_links": [
+        {
+            "title": "History of wine - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_wine"
+        },
+        {
+            "title": "Vitis vinifera - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Vitis_vinifera"
+        },
+        {
+            "title": "Viticulture origins - Britannica",
+            "url": "https://www.britannica.com/topic/viticulture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Seedless_grapes_of_Kallidaikurichi.jpg/300px-Seedless_grapes_of_Kallidaikurichi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Seedless_grapes_of_Kallidaikurichi.jpg",
+            "caption": "Seedless grapes of Kallidaikurichi",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Beschimmelde_druiven.jpg/300px-Beschimmelde_druiven.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Beschimmelde_druiven.jpg",
+            "caption": "beschimmelde druiven",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grapes%2C_Rostov-on-Don%2C_Russia.jpg/300px-Grapes%2C_Rostov-on-Don%2C_Russia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Grapes%2C_Rostov-on-Don%2C_Russia.jpg",
+            "caption": "Green grapes. Purple grapes. Rostov-on-Don, Russia.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Grapes_in_the_Philippines_1.jpg/300px-Grapes_in_the_Philippines_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Grapes_in_the_Philippines_1.jpg",
+            "caption": "Grapes",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cypriot wine",
+            "summary": "Wine making in Cyprus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dionysos_Akme_Paphos_mosaic.jpg/250px-Dionysos_Akme_Paphos_mosaic.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cypriot_wine"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2687,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:71cfd125c2d72711de0a43e40e706c3a4d904a00837d5377179dc107978b81d0",
+    "summary": "The Yom Kippur War, also known as the October War or Ramadan War, began on October 6, 1973, when Egypt and Syria launched a coordinated surprise attack against Israeli forces on the Sinai Peninsula and Golan Heights while most Israeli soldiers and civilians observed the Jewish holy day of Yom Kippur. The initial Arab assaults overwhelmed Israeli defenses and came closer to Israeli defeat than any conflict since 1948, but after two weeks of intense fighting, Israel had reversed the tide and advanced to within 100 kilometers of Cairo and 40 kilometers of Damascus when a UN ceasefire took effect on October 25.\n\nThe war was planned and executed by Egyptian President Anwar Sadat to break the political stalemate following the [[event:2686|Six-Day War]] and recover the Sinai Peninsula, lost to Israel in 1967. Egyptian forces crossed the Suez Canal in a carefully prepared assault that overcame the Israeli Bar-Lev Line, while Syrian armor simultaneously struck toward the Golan Heights in enormous strength. The initial days nearly produced catastrophic Israeli losses, particularly on the Golan, where a handful of Israeli tanks delayed the Syrian advance long enough for reserves to mobilize.\n\nAmerican military airlifts of supplies to Israel and Soviet airlifts to Egypt turned the war into a superpower proxy conflict. When Israeli forces threatened the encirclement of Egypt's Third Army, the Soviets warned of direct intervention, triggering a U.S. nuclear alert and intense diplomatic pressure on Israel to allow Egyptian forces to receive supplies. The crisis demonstrated the continuing risks of superpower confrontation inherent in Middle Eastern conflicts.\n\nThe immediate strategic outcome was an Israeli military victory, but the political consequences favored Egypt. Sadat had demonstrated that Arab armies could fight effectively against Israel, restoring Egyptian pride and honor lost in 1967. This achievement made him politically secure enough to pursue the diplomatic track that led to the [[event:2715|Camp David Accords]] in 1978 and the Egyptian-Israeli peace treaty of 1979 — the first peace agreement between Israel and an Arab state. The war also triggered the [[event:2714|OPEC oil crisis]] when Arab states embargoed oil exports to countries that had supported Israel.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yom_Kippur_War",
+    "read_more_links": [
+        {
+            "title": "October War – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Yom-Kippur-War"
+        },
+        {
+            "title": "Egypt-Israel Peace Treaty 1979 – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_peace_treaty"
+        },
+        {
+            "title": "OPEC Oil Embargo – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+        },
+        {
+            "title": "Anwar Sadat – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Anwar-Sadat"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Golda_Meir2.jpg/300px-Golda_Meir2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Golda_Meir2.jpg",
+            "caption": "Golda Meir",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Baniasfmkesh.jpg/300px-Baniasfmkesh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Baniasfmkesh.jpg",
+            "caption": "The Banyas oil terminal in Syria after being ignited with 76 mm shells from I...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Damaged_BMP-1.jpg/300px-Damaged_BMP-1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Damaged_BMP-1.jpg",
+            "caption": "Two damaged BMP-1 IFVs in an Israeli military base. They were captured from e...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/1973_sinai_war_maps2.jpg/300px-1973_sinai_war_maps2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/1973_sinai_war_maps2.jpg",
+            "caption": "Sinai maps, from the US Military Academy History archives (copyright US gover...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Anwar Sadat",
+            "summary": "President of Egypt from 1970 to 1981",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Anwar_Sadat_cropped_%28cropped%29%282%29.jpg/250px-Anwar_Sadat_cropped_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anwar_Sadat"
+        },
+        {
+            "name": "Ahmad Ismail Ali",
+            "summary": "Egyptian military commander (1917-1974)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/General_Ahmed_Ismail_Ali.jpg/250px-General_Ahmed_Ismail_Ali.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmad_Ismail_Ali"
+        },
+        {
+            "name": "Saad el-Shazly",
+            "summary": "Egyptian general (1922–2011)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MG_Saad_El-Shazly.jpg/250px-MG_Saad_El-Shazly.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saad_el-Shazly"
+        },
+        {
+            "name": "Mohamed Abdel Ghani el-Gamasy",
+            "summary": "Egyptian Field Marshal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Elgamsy.jpg/250px-Elgamsy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Abdel_Ghani_el-Gamasy"
+        },
+        {
+            "name": "Hosni Mubarak",
+            "summary": "President of Egypt from 1981 to 2011",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hosni_Mubarak_-_Official_Photo.JPG/250px-Hosni_Mubarak_-_Official_Photo.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hosni_Mubarak"
+        },
+        {
+            "name": "Fouad Mohamed Abou Zikry",
+            "summary": "Egyptian admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fouad_abuzikry.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fouad_Mohamed_Abou_Zikry"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2046,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:314c91438a9625fd54659f9cad9182fa4563aa182dab2529664df78593266680",
+    "summary": "The Three Kingdoms Period (220–280 AD) was one of the most turbulent and romanticized eras in Chinese history — a time when the Han Empire fractured into three competing states: Wei (north), Shu Han (southwest), and Wu (southeast), each claiming legitimacy as the successor to the Han dynasty. The period opened with the effective collapse of Han central authority amid [[event:2836|the Yellow Turban Rebellion]] and the rise of warlords, and concluded with the unification of China under the Jin dynasty in 280. The pivotal [[event:2837|Battle of Red Cliffs]] (208 AD) — where Cao Cao's northern fleet was destroyed by the allied forces of Liu Bei and Sun Quan — cemented the division into three states.\n\nDespite the warfare and population decline (which was catastrophic — China's population may have fallen by a third or more), the Three Kingdoms period produced significant cultural achievements and technological innovations. The era's military strategists, particularly Zhuge Liang (chancellor of Shu Han), became legendary figures in Chinese culture. The historical novel 'Romance of the Three Kingdoms' (written in the 14th century) immortalized this period as China's equivalent of the Trojan War cycle — a foundational national epic mixing history with legend. The period's influence on Chinese literature, strategy games, and popular culture remains enormous to the present day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Kingdoms",
+    "read_more_links": [
+        {
+            "title": "Cao Cao Wei Kingdom",
+            "url": "https://en.wikipedia.org/wiki/Cao_Cao"
+        },
+        {
+            "title": "Zhuge Liang strategist",
+            "url": "https://en.wikipedia.org/wiki/Zhuge_Liang"
+        },
+        {
+            "title": "Romance of Three Kingdoms novel",
+            "url": "https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%E9%BE%9F%E5%BD%A2%E9%93%9C%E7%A0%9A%E6%BB%B4_%E5%90%B4.jpg/300px-%E9%BE%9F%E5%BD%A2%E9%93%9C%E7%A0%9A%E6%BB%B4_%E5%90%B4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/%E9%BE%9F%E5%BD%A2%E9%93%9C%E7%A0%9A%E6%BB%B4_%E5%90%B4.jpg",
+            "caption": "​Bronze Turtle-shaped Water Dropper 三国吴 2008年鄂钢技改郭家垴墓地出土",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/A_Fragment_of_Biography_of_Bu_Zhi_History_Books_of_Three_Kingdoms_02_2012-12.JPG/300px-A_Fragment_of_Biography_of_Bu_Zhi_History_Books_of_Three_Kingdoms_02_2012-12.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/A_Fragment_of_Biography_of_Bu_Zhi_History_Books_of_Three_Kingdoms_02_2012-12.JPG",
+            "caption": "The remnant scroll of the Records of the Three Kingdoms, the manuscript of th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jian%27an_Commanderies.png/300px-Jian%27an_Commanderies.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jian%27an_Commanderies.png",
+            "caption": "Provinces and commanderies of the Han Dynasty in 219 CE, during the Jian'an era",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Map_of_China_During_the_Period_of_the_Three_Kingdoms.jpg/300px-Map_of_China_During_the_Period_of_the_Three_Kingdoms.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Map_of_China_During_the_Period_of_the_Three_Kingdoms.jpg",
+            "caption": "Map of China During the Period of the Three Kingdoms (From Pott's Sketch of C...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zhuge Liang",
+            "summary": "Chinese statesman and strategist (181–234)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%E6%98%8E%E4%BA%BA%E7%BB%98_%E3%80%8A%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%83%8F%E3%80%8B%EF%BC%88%E5%8D%97%E8%96%B0%E6%AE%BF%E6%9C%AC%EF%BC%89.jpg/250px-%E6%98%8E%E4%BA%BA%E7%BB%98_%E3%80%8A%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%83%8F%E3%80%8B%EF%BC%88%E5%8D%97%E8%96%B0%E6%AE%BF%E6%9C%AC%EF%BC%89.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhuge_Liang"
+        },
+        {
+            "name": "Zhang Heng",
+            "summary": "Chinese scientist and statesman (78–139)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/20251004_Tomb_of_Zhang_Heng_03.jpg/250px-20251004_Tomb_of_Zhang_Heng_03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhang_Heng"
+        },
+        {
+            "name": "Luo Guanzhong",
+            "summary": "14th-century Chinese novelist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%E7%BD%97%E8%B4%AF%E4%B8%AD_01.jpg/250px-%E7%BD%97%E8%B4%AF%E4%B8%AD_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Luo_Guanzhong"
+        },
+        {
+            "name": "Dong Zhuo",
+            "summary": "2nd-century Chinese military general and warlord",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Dong_Zhuo_Qing_Dynasty_Illustration.jpg/250px-Dong_Zhuo_Qing_Dynasty_Illustration.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dong_Zhuo"
+        },
+        {
+            "name": "Emperor Xian of Han",
+            "summary": "Emperor of the Han dynasty from 189 to 220",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Emperor_Xian_Qing_illustration.jpg/250px-Emperor_Xian_Qing_illustration.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Xian_of_Han"
+        },
+        {
+            "name": "Cao Cao",
+            "summary": "Chinese warlord and statesman (155–220)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cao_Cao_scth.jpg/250px-Cao_Cao_scth.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cao_Cao"
+        }
+    ],
+    "territory_geojson": null
+}

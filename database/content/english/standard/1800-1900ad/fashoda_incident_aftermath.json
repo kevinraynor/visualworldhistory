@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3757,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3b22ad3b2c7c44890b3d6096bf7efc526a7f78b530a540e6737cc85da5ed9ee8",
+    "summary": "The Fashoda Incident of 1898 brought France and Britain to the brink of war over competing imperial claims in the upper Nile Valley, and its resolution marked a definitive turning point in the European scramble for Africa that clarified the boundaries of the two powers' respective African empires. The confrontation grew from simultaneous expeditions: the French, led by Major Jean-Baptiste Marchand, had marched across Central Africa from Brazzaville and raised the French flag over the small Nile fort of Fashoda (in present-day South Sudan); the British, following Kitchener's victory at the [[event:2606|Battle of Omdurman]], arrived with an overwhelmingly superior force and demanded French withdrawal.\n\nThe diplomatic standoff lasted weeks, with both governments facing intense nationalist pressure at home — France was simultaneously convulsed by the Dreyfus Affair, severely limiting the government's freedom to pursue an aggressive foreign policy. The French ultimately backed down, withdrawing from Fashoda in November 1898 after Britain made clear it would not negotiate under military pressure. France accepted that the entire Nile Valley lay within the British sphere, while Britain acknowledged French predominance in the Sahara and West Africa.\n\nThe incident's aftermath was as consequential as the crisis itself. The humiliation of Fashoda convinced French policymakers that rivalry with Britain over Africa was dangerous and ultimately futile, especially given the looming German threat. Within six years, France and Britain had resolved their outstanding colonial disputes and signed the Entente Cordiale (1904), a diplomatic realignment that pointed toward their eventual alliance in the First World War. Fashoda thus represents the moment when Anglo-French colonial rivalry transformed into the foundation of a strategic partnership.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fashoda_Incident",
+    "read_more_links": [
+        {
+            "title": "Entente Cordiale – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Entente_Cordiale"
+        },
+        {
+            "title": "Scramble for Africa – Britannica",
+            "url": "https://www.britannica.com/event/Scramble-for-Africa"
+        },
+        {
+            "title": "Jean-Baptiste Marchand – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Marchand"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Punch_Rhodes_Colossus.png/300px-Punch_Rhodes_Colossus.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Punch_Rhodes_Colossus.png",
+            "caption": "The Rhodes Colossus: Caricature of Cecil John Rhodes, after he announced plan...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/LeCommandantMarchand.jpg/300px-LeCommandantMarchand.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/LeCommandantMarchand.jpg",
+            "caption": "Illustration depicting Major Marchand, a French general and explorer, during ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Illustration_anglophobe_dans_La_France_illustr%C3%A9e_%281898%29.png/300px-Illustration_anglophobe_dans_La_France_illustr%C3%A9e_%281898%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Illustration_anglophobe_dans_La_France_illustr%C3%A9e_%281898%29.png",
+            "caption": "\"The English in Siam, Egypt, the Sudan and other places\". The Anglophobic cap...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fashoda_Egyptian_fort_ruins_%281898%29.jpg/300px-Fashoda_Egyptian_fort_ruins_%281898%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fashoda_Egyptian_fort_ruins_%281898%29.jpg",
+            "caption": "View of the ruins of the fort built on the Nile at Fashoda by the Egyptians i...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jean-Baptiste Marchand",
+            "summary": "French military officer and explorer (1863–1934)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Jean-Baptiste_Marchand_-_1904-02-01_-_Thoissey.png/250px-Jean-Baptiste_Marchand_-_1904-02-01_-_Thoissey.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Marchand"
+        },
+        {
+            "name": "Cecil Rhodes",
+            "summary": "British mining magnate and politician (1853–1902)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cecil_John_Rhodes_%28Cropped%29.jpg/250px-Cecil_John_Rhodes_%28Cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cecil_Rhodes"
+        },
+        {
+            "name": "Wilhelm Junker",
+            "summary": "Russian explorer in Africa (1840–1892)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Wilhelm_Junker_001.jpg/250px-Wilhelm_Junker_001.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_Junker"
+        },
+        {
+            "name": "Leopold II of Belgium",
+            "summary": "King of the Belgians from 1865 to 1909",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leopold_ii_garter_knight.jpg/250px-Leopold_ii_garter_knight.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium"
+        },
+        {
+            "name": "Charles Mangin",
+            "summary": "French general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/G%C3%A9n%C3%A9ral_Charles_Mangin_agence_Meurisse_BNF_Gallica.jpg/250px-G%C3%A9n%C3%A9ral_Charles_Mangin_agence_Meurisse_BNF_Gallica.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Mangin"
+        },
+        {
+            "name": "Christian de Bonchamps",
+            "summary": "French explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Christian_de_Bonchamps.jpg/250px-Christian_de_Bonchamps.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_de_Bonchamps"
+        }
+    ],
+    "territory_geojson": null
+}

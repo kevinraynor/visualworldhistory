@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1418,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c2cb21c86d9e16b7d14f54c5acfb5bdefa9c002712eed309c14142b5b7a1a901",
+    "summary": "The Karanovo culture of Bulgaria, named after the stratified tell site of Karanovo in the Thracian Plain and dating from approximately 6200 BCE onward, represents one of the earliest farming cultures of southeastern Europe and one of the most important sites for understanding the Neolithic transition in the Balkans. The Karanovo tell accumulated over many centuries of occupation, producing one of the deepest and most informative stratigraphic sequences in European prehistory, with distinct cultural layers (Karanovo I through VII) providing a detailed chronological framework for Balkan prehistory.\n\nKaranovo communities practiced mixed agriculture based on emmer and einkorn wheat, lentils, and other legumes alongside herding of cattle, sheep, goats, and pigs. Their settlements featured rectangular, timber-framed or mud-brick houses arranged in planned layouts. The pottery tradition of the Karanovo I and II phases features distinctive painted wares with white-on-red geometric designs. The long stratigraphic sequence at the site captures the entire trajectory of Balkan Neolithic and Chalcolithic development, making Karanovo an indispensable reference point for central European prehistory.\n\nAs part of the wave of [[event:21|agricultural expansion into Europe]] from Anatolian origins, Karanovo and related southeastern European Neolithic cultures established the foundations upon which later cultures — including the remarkable [[event:25|Vinča culture]] of the Balkans — would build. The gradual cultural elaboration visible in the Karanovo sequence reflects the deepening roots of settled farming life in the Balkans over successive generations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karanovo_culture",
+    "read_more_links": [
+        {
+            "title": "Neolithic Bulgaria - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Bulgaria"
+        },
+        {
+            "title": "Neolithic Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        },
+        {
+            "title": "Vinča Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Vin%C4%8Da_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Neolitic_houses_reconstruction_01.JPG/300px-Neolitic_houses_reconstruction_01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Neolitic_houses_reconstruction_01.JPG",
+            "caption": "Neolitic houses and workshop reconstruction in Archeological park Topolnica",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Museum_of_History_Kardzhali_2011_PD_015.JPG/300px-Museum_of_History_Kardzhali_2011_PD_015.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Museum_of_History_Kardzhali_2011_PD_015.JPG",
+            "caption": "Kardzhali Museum of History, Kardzhali , Bulgaria ; -- Nephrite Swastika, 600...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NHM_-_Pazardzik_Sitzidol.jpg/300px-NHM_-_Pazardzik_Sitzidol.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/NHM_-_Pazardzik_Sitzidol.jpg",
+            "caption": "Natural History Museum, Vienna ( Austria ). Neolithic sitting figurine ( 5th ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nova-Zagora-history-museum-vessel-5200yBC.jpg/300px-Nova-Zagora-history-museum-vessel-5200yBC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Nova-Zagora-history-museum-vessel-5200yBC.jpg",
+            "caption": "Exhibits of the History Museum of Nova Zagora, Bulgaria - a vessel dated back...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

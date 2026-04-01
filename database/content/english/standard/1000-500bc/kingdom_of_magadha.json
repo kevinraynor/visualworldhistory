@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1963,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:5173a616c5843a837e5e4bceac354d0011cfb4cdb9d0505128292fc4b6277528",
+    "summary": "The Kingdom of Magadha (c. 684–322 BC) was the dominant state among the Mahajanapadas of the Ganges plain and the political foundation on which both the Nanda and Maurya empires were built. Located in what is now Bihar, with its early capital at Rajgir (Rajagriha) and later at Pataliputra (Patna), Magadha had natural advantages: a fertile agricultural base, iron ore deposits (enabling superior weapons), control of major river trade routes, and access to war elephants from the forests of Bengal.\n\nMagadha's rise accelerated under the Haryanka dynasty (c. 544–413 BC), continued under the Shishunaga dynasty, and culminated in the aggressive expansion of the Nanda dynasty (c. 345–322 BC), which brought most of northern India under Magadha's control. Magadha was the homeland of both Buddhism and Jainism — the Buddha spent much of his teaching career in Magadha, and the first Buddhist councils were held at Rajgir and Pataliputra. The region's political importance continued when Chandragupta Maurya, overthrowing the Nandas around 322 BC with the assistance of Kautilya, made Pataliputra the capital of the Maurya Empire — the first unified Indian state, encompassing most of the subcontinent.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magadha",
+    "read_more_links": [
+        {
+            "title": "Rajgir ancient capital",
+            "url": "https://en.wikipedia.org/wiki/Rajgir"
+        },
+        {
+            "title": "Pataliputra capital city",
+            "url": "https://en.wikipedia.org/wiki/Pataliputra"
+        },
+        {
+            "title": "Magadha Buddhist connections",
+            "url": "https://en.wikipedia.org/wiki/Magadha#Buddhist_and_Jain_importance"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Map_of_the_Gupta_Empire.png/300px-Map_of_the_Gupta_Empire.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Map_of_the_Gupta_Empire.png",
+            "caption": "Map of the Gupta Empire",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Map_of_the_Maukharis.png/300px-Map_of_the_Maukharis.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Maukharis.png",
+            "caption": "Map of the Maukharis",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Map_of_the_Shungas.png/300px-Map_of_the_Shungas.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Map_of_the_Shungas.png",
+            "caption": "Map of the Shungas",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shunga_Empire.jpg/300px-Shunga_Empire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Shunga_Empire.jpg",
+            "caption": "Shunga Empire 100 BCE\nReference: [1] . After Pushyamitra the empire keep decl...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bimbisara",
+            "summary": "Haryanka emperor from 544 to 492 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/250px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bimbisara"
+        },
+        {
+            "name": "Ajatashatru",
+            "summary": "King of Magadha from 492 to 460 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indian_Museum_Sculpture_-_Ajatasattu_worships_the_Buddha_%289217704485%29.jpg/250px-Indian_Museum_Sculpture_-_Ajatasattu_worships_the_Buddha_%289217704485%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ajatashatru"
+        },
+        {
+            "name": "Mahapadma Nanda",
+            "summary": "4th century BCE Nanda emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/I12_1karshapana_Maghada_1ar_%288482307176%29.jpg/250px-I12_1karshapana_Maghada_1ar_%288482307176%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahapadma_Nanda"
+        },
+        {
+            "name": "Chandragupta Maurya",
+            "summary": "Founder of the Maurya Empire (340–295 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        },
+        {
+            "name": "Mahavira",
+            "summary": "Indian spiritual leader and the 24th Tirthankara of Jainism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mahavira_sculpture.jpg/250px-Mahavira_sculpture.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahavira"
+        },
+        {
+            "name": "K. T. S. Sarao",
+            "summary": "Indian historian and professor (born 1955)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/K._T._S._Sarao%2C2020.jpg/250px-K._T._S._Sarao%2C2020.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/K._T._S._Sarao"
+        }
+    ],
+    "territory_geojson": null
+}

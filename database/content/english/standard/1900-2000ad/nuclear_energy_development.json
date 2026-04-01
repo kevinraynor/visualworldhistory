@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2704,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:927a4fb827cb08cd04cc871166b6ec49ba671c33dfde0966913e0a826e70f3d3",
+    "summary": "The development of nuclear energy as a practical power source emerged from the convergence of theoretical physics and wartime urgency. Enrico Fermi and his team achieved the first controlled nuclear chain reaction at the University of Chicago on 2 December 1942, as part of the [[event:2765|Manhattan Project]]. This experiment demonstrated that fission could be sustained in a controlled manner, laying the conceptual foundation for both nuclear weapons and civilian power reactors.\n\nFollowing the end of World War II, governments and scientists turned toward civilian applications of nuclear fission. The United States launched its Atoms for Peace program in 1953, seeking to channel nuclear technology toward power generation. The Soviet Union activated the world's first nuclear power plant at Obninsk in June 1954, producing five megawatts of electricity. The United Kingdom opened Calder Hall in 1956, the first full-scale commercial nuclear power station. The United States followed with the Shippingport Atomic Power Station in 1958.\n\nNuclear power expanded rapidly through the 1960s and 1970s, with dozens of plants constructed across Europe, North America, and Asia. Proponents argued that nuclear power offered a pathway to cheap, abundant electricity without the air pollution and carbon emissions of fossil fuels. By the late 1970s, nuclear power provided a significant fraction of electricity in many developed nations, reaching over 75 percent in France by the 1980s.\n\nPublic and regulatory attitudes shifted significantly following the Three Mile Island accident in the United States in 1979 and especially the [[event:2699|Chernobyl disaster]] of 1986. New construction largely halted in the West, and the industry entered a prolonged period of stagnation. Nuclear power remains a significant but contested component of global electricity generation, producing roughly ten percent of the world's electricity as of the early twenty-first century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nuclear_power",
+    "read_more_links": [
+        {
+            "title": "History of Nuclear Energy - World Nuclear Association",
+            "url": "https://www.world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx"
+        },
+        {
+            "title": "Nuclear Power - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/nuclear-power"
+        },
+        {
+            "title": "Atoms for Peace - International Atomic Energy Agency",
+            "url": "https://www.iaea.org/topics/atoms-for-peace-and-war"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gr%C3%BCne_protests_against_nuclear_energy.jpg/300px-Gr%C3%BCne_protests_against_nuclear_energy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Gr%C3%BCne_protests_against_nuclear_energy.jpg",
+            "caption": "Bündnis 90/Die Grünen protest against nuclear energy near nuclear waste dispo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Energy_Production_Death_Rates_per_TWh.png/300px-Energy_Production_Death_Rates_per_TWh.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Energy_Production_Death_Rates_per_TWh.png",
+            "caption": "Death rates from energy sources is measured as the number of deaths from air ...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%9F%D1%80%D0%B8%D0%BF%D1%8F%D1%82%D1%8C_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_4_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0%D0%B0_%D0%A7%D0%90%D0%AD%D0%A1.jpg/300px-%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%9F%D1%80%D0%B8%D0%BF%D1%8F%D1%82%D1%8C_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_4_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0%D0%B0_%D0%A7%D0%90%D0%AD%D0%A1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%D0%A6%D0%B5%D0%BD%D1%82%D1%80_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%9F%D1%80%D0%B8%D0%BF%D1%8F%D1%82%D1%8C_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_4_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0%D0%B0_%D0%A7%D0%90%D0%AD%D0%A1.jpg",
+            "caption": "Landscape of the city of Pripyat with a view of the Chernobyl nuclear power p...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Calder_Hall_nuclear_power_station_%2811823864155%29.jpg/300px-Calder_Hall_nuclear_power_station_%2811823864155%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Calder_Hall_nuclear_power_station_%2811823864155%29.jpg",
+            "caption": "Calder Hall, United Kingdom - The world's first commercial nuclear power stat...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Atoms for Peace",
+            "summary": "1953 speech by US President Eisenhower",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Atoms_for_Peace_stamp.jpg/250px-Atoms_for_Peace_stamp.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Atoms_for_Peace"
+        }
+    ],
+    "territory_geojson": null
+}

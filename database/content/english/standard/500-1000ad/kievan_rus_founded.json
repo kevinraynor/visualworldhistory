@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2148,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1915d7a18683e45c9fd04bcc984f5ef005e89e1ae8ac92ae0abd49690efb9d4b",
+    "summary": "Kievan Rus (c. 882–1240 AD) was the first East Slavic state — a loose federation of principalities centered on Kiev (modern Kyiv) that formed the foundation of the later Russian, Ukrainian, and Belarusian nations. Founded according to tradition when the Varangian (Norse) chieftain Rurik established himself at Novgorod (c. 862 AD), and consolidated when Oleg captured Kiev around 882 AD and made it his capital, Kievan Rus was a product of Varangian Norse merchants using the river route from the Baltic to the Black Sea ('the route from the Varangians to the Greeks') to trade with Byzantium.\n\nThe relationship with Byzantium was central to Kievan Rus's development: Norse-Slavic warriors repeatedly attacked Constantinople (860, 907, 941, 968 AD) and negotiated trade agreements; the [[event:2149|Christianization of Rus]] in 988 AD under Prince Vladimir brought Byzantine Orthodox Christianity, writing (Cyrillic script, devised by the Byzantine missionaries Cyril and Methodius), art, and legal traditions to the Slavic world. Kievan Rus at its peak under Yaroslav the Wise (r. 1019–1054) was a major European power, with diplomatic marriages connecting the Rurikid dynasty to the royal families of France, England, Norway, Hungary, and Byzantium. The state fragmented after Yaroslav's death into competing principalities, leaving it vulnerable to the Mongol invasion of 1237–1240 that destroyed Kiev and many other cities.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kievan_Rus%27",
+    "read_more_links": [
+        {
+            "title": "Varangian trade route Byzantium",
+            "url": "https://en.wikipedia.org/wiki/Trade_route_from_the_Varangians_to_the_Greeks"
+        },
+        {
+            "title": "Yaroslav the Wise reign",
+            "url": "https://en.wikipedia.org/wiki/Yaroslav_the_Wise"
+        },
+        {
+            "title": "Rurik dynasty origins",
+            "url": "https://en.wikipedia.org/wiki/Rurikids"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Location_of_Kyivan_Rus.png/300px-Location_of_Kyivan_Rus.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Location_of_Kyivan_Rus.png",
+            "caption": "Map of later Kyivan Rus (after the death of Yaroslav I in 1054).",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Histoire_de_Pologne_par_Joachim_Lelevel_-_atlas_1844_%28126669792%29_%28cropped%29.jpg/300px-Histoire_de_Pologne_par_Joachim_Lelevel_-_atlas_1844_%28126669792%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Histoire_de_Pologne_par_Joachim_Lelevel_-_atlas_1844_%28126669792%29_%28cropped%29.jpg",
+            "caption": "Histoire de Pologne par Joachim Lelevel - atlas 1844 (126669792) (cropped)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/CHODZKO%281861%29_CARTE_DES_PAYS_SLAVO-POLONAIS_AUX_VIII_ET_IX_SIECLE.jpg/300px-CHODZKO%281861%29_CARTE_DES_PAYS_SLAVO-POLONAIS_AUX_VIII_ET_IX_SIECLE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/CHODZKO%281861%29_CARTE_DES_PAYS_SLAVO-POLONAIS_AUX_VIII_ET_IX_SIECLE.jpg",
+            "caption": "CHODZKO(1861) CARTE DES PAYS SLAVO-POLONAIS AUX VIII ET IX SIECLE",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/300px-Golden_Gate_Kiev_2018_G1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Golden_Gate_Kiev_2018_G1.jpg",
+            "caption": "The Golden Gates of Kyiv, Ukraine",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vladimir the Great",
+            "summary": "Grand Prince of Kiev from 978 to 1015",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Coin_of_Vladimir_the_Great.JPG/250px-Coin_of_Vladimir_the_Great.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_the_Great"
+        },
+        {
+            "name": "Yaroslav the Wise",
+            "summary": "Grand Prince of Kiev from 1019 to 1054",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/YaroslavWiseSeal.jpg/250px-YaroslavWiseSeal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yaroslav_the_Wise"
+        },
+        {
+            "name": "Oleg the Wise",
+            "summary": "Varangian prince, founder of Kievan Rus'",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%D0%9F%D1%80%D0%B8%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B7%D1%8E_%D0%9E%D0%BB%D0%B5%D0%B3%D1%83_%D0%B4%D0%B0%D0%BD%D0%B8_%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8.jpg/250px-%D0%9F%D1%80%D0%B8%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B7%D1%8E_%D0%9E%D0%BB%D0%B5%D0%B3%D1%83_%D0%B4%D0%B0%D0%BD%D0%B8_%D0%BF%D0%BE%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0%D0%BC%D0%B8.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oleg_the_Wise"
+        },
+        {
+            "name": "Varangians",
+            "summary": "Slavic and Greek designation of Vikings",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Varangian_routes.png/250px-Varangian_routes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Varangians"
+        },
+        {
+            "name": "Rurik",
+            "summary": "Varangian chieftain of the Rus'",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/1000_Rurik.JPG/250px-1000_Rurik.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rurik"
+        },
+        {
+            "name": "Sviatoslav I",
+            "summary": "Prince of Kiev from 945 to 972",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sviatoslav_by_Eugene_Lanceray_1886.JPG/250px-Sviatoslav_by_Eugene_Lanceray_1886.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sviatoslav_I"
+        }
+    ],
+    "territory_geojson": null
+}

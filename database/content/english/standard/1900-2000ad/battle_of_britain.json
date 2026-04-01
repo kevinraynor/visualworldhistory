@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2656,
+    "parent_id": 112,
+    "granularity": "notable",
+    "content_hash": "sha256:7f8757915e67655c4bc4922cdb462dfa959365c8a0fe42774c7ab0dc797944af",
+    "summary": "The Battle of Britain, fought from July to October 1940, was the first major military campaign decided entirely through air power, and the first significant German defeat of [[event:112|World War II]]. After the [[event:3337|fall of France]], Hitler expected Britain to seek terms; when Prime Minister Winston Churchill's government refused, Hitler ordered plans for a naval and amphibious invasion (Operation Sea Lion) — which required German air supremacy over the English Channel and southern England as a prerequisite. The Luftwaffe under Hermann Goering set out to destroy the Royal Air Force and its infrastructure.\n\nThe RAF Fighter Command, led by Air Marshal Hugh Dowding, mounted a formidable defense exploiting several key advantages: radar (the Chain Home system) providing early warning; the Spitfire and Hurricane fighters' quality roughly matching the German Messerschmitt Bf 109; and German bombers operating at the extreme limits of their range. The Luftwaffe targeted RAF airfields and sector stations in August–September in attacks that came close to overwhelming the defense. The RAF was losing pilots and planes faster than it could replace them when Germany, following an RAF raid on Berlin, shifted its bombing campaign to targeting London and other cities (the Blitz).\n\nThis strategic shift — blundering or deliberate — relieved pressure on Fighter Command's airfields and allowed it to recover. By late October, the Luftwaffe had failed to achieve air superiority and Hitler indefinitely postponed Sea Lion. Britain remained in the war as the only major power still resisting Germany. Churchill's famous tribute — \"Never in the field of human conflict was so much owed by so many to so few\" — captured the significance of the RAF's defense. Britain's survival provided the essential base from which the eventual Allied counteroffensive in Western Europe would be launched.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Britain",
+    "read_more_links": [
+        {
+            "title": "Battle of Britain – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Britain-European-history"
+        },
+        {
+            "title": "Royal Air Force – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Royal_Air_Force"
+        },
+        {
+            "title": "The Blitz – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Blitz"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/British_and_German_aircraft_a_dog_fight.jpg/300px-British_and_German_aircraft_a_dog_fight.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/British_and_German_aircraft_a_dog_fight.jpg",
+            "caption": "IWM caption : THE BATTLE OF BRITAIN 1940. Pattern of condensation trails left...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinkel_He_111_over_Wapping%2C_East_London.jpg/300px-Heinkel_He_111_over_Wapping%2C_East_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Heinkel_He_111_over_Wapping%2C_East_London.jpg",
+            "caption": "Operations: A German Luftwaffe Heinkel He 111 bomber flying over Wapping, Lon...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Armadale_Castle_-_Battle_of_Britain_pilot_memorial_1.jpg/300px-Armadale_Castle_-_Battle_of_Britain_pilot_memorial_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Armadale_Castle_-_Battle_of_Britain_pilot_memorial_1.jpg",
+            "caption": "Battle of Britain pilot memorial, outside the Museum of the Isles at Armadale...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pilot_seen_running_to_fighter.jpg/300px-Pilot_seen_running_to_fighter.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pilot_seen_running_to_fighter.jpg",
+            "caption": "IWM caption : THE BATTLE OF BRITAIN 1940. Pilots seen running to their aircraft.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hugh Dowding",
+            "summary": "Royal Air Force Air Chief Marshal (1882–1970)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hugh_Dowding.jpg/250px-Hugh_Dowding.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_Dowding"
+        },
+        {
+            "name": "Keith Park",
+            "summary": "New Zealand soldier, aviator and former Royal Air Force Air Chief Marshal (1892–1975)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Air_Marshal_Sir_Keith_Park.jpg/250px-Air_Marshal_Sir_Keith_Park.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Keith_Park"
+        },
+        {
+            "name": "Trafford Leigh-Mallory",
+            "summary": "Royal Air Force Air Chief Marshal (1892-1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Air_Chief_Marshal_Sir_Trafford_Leigh-Mallory%2C_KCB%2C_DSO%2C_1944_TR2625.jpg/250px-Air_Chief_Marshal_Sir_Trafford_Leigh-Mallory%2C_KCB%2C_DSO%2C_1944_TR2625.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trafford_Leigh-Mallory"
+        },
+        {
+            "name": "Quintin Brand",
+            "summary": "Royal Air Force Air Vice-Marshal (1893-1968)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Sir_Christopher_Quintin_Brand.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Quintin_Brand"
+        },
+        {
+            "name": "Richard Saul",
+            "summary": "Royal Air Force Air Vice-Marshal (1891-1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Air_Vice-Marshal_Richard_Saul.jpg/250px-Air_Vice-Marshal_Richard_Saul.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Saul"
+        },
+        {
+            "name": "Hermann Göring",
+            "summary": "German Nazi politician and military leader (1893–1946)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg/250px-Hermann_Goering_-_Nuremberg_2_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring"
+        }
+    ],
+    "territory_geojson": null
+}

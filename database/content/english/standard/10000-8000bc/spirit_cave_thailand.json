@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1297,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a9cc47c54443fc2173219874dfaf43d347069c56e79a72485845107b3511739d",
+    "summary": "Spirit Cave is a prehistoric rock shelter in the Mae Hong Son Province of northwestern Thailand, near the border with Myanmar, excavated by Chester Gorman in 1965–1966. The site gained considerable attention for claims of very early plant cultivation — Gorman reported the presence of peas, beans, water chestnuts, and other plant remains in layers dated to approximately 9000–7000 BCE, which he interpreted as evidence of early cultivation.\n\nSubsequent analysis has cast doubt on the cultivation interpretation: many of the plant remains from Spirit Cave are now believed to represent wild rather than domesticated species gathered by hunter-gatherers rather than cultivated plants. Nonetheless, Spirit Cave remains an important reference site for understanding the broad-spectrum subsistence strategies of Hoabinhian hunter-gatherers in mainland Southeast Asia during the period 10,000–8,000 BCE. The Hoabinhian cultural tradition — characterized by large, minimally modified cobble tools — was widespread across mainland Southeast Asia during this period and represents an important context for understanding human adaptations to the tropical and subtropical environments of the region. Spirit Cave is part of a constellation of sites such as [[event:1298|Hoabinhian communities]] across Thailand, Laos, Vietnam, and Malaysia that document the rich but understudied prehistory of Southeast Asia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spirit_Cave_(Thailand)",
+    "read_more_links": [
+        {
+            "title": "Hoabinhian Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hoabinhian"
+        },
+        {
+            "title": "Southeast Asian Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Southeast_Asia"
+        },
+        {
+            "title": "Origins of Southeast Asian Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Agriculture_in_Southeast_Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salween_watershed.png/300px-Salween_watershed.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Salween_watershed.png",
+            "caption": "This is a map of the Salween River Watershed.  \n\nI, Karl Musser, created it b...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Amphoe_5807.png/300px-Amphoe_5807.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Amphoe_5807.png",
+            "caption": "Map of Mae Hong Son province, Thailand, highlighting Amphoe Pang Mapha (อำเภอ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

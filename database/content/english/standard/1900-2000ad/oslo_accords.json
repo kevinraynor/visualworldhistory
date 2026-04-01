@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2720,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:27b26bded4b6b037e03f815a46892c29b5166b0974abe9d9dd20c665fcadc1e0",
+    "summary": "The Oslo Accords were a series of agreements between Israel and the Palestine Liberation Organization (PLO) negotiated secretly in Oslo, Norway, and signed in Washington in September 1993 and Cairo in May 1994. The first Oslo Accord established mutual recognition between Israel and the PLO and created the Palestinian Authority to govern portions of the West Bank and Gaza Strip. The accords were seen as a historic breakthrough, leading to a famous handshake between Israeli Prime Minister Yitzhak Rabin and PLO Chairman Yasser Arafat on the White House lawn.\n\nRabin, Arafat, and Israeli Foreign Minister Shimon Peres shared the Nobel Peace Prize in 1994. However, the accords failed to produce a final status agreement and left the most difficult issues — Jerusalem, refugees, borders, and settlements — unresolved. Rabin's assassination by a right-wing Israeli extremist in November 1995 removed one of the agreement's key architects. Subsequent negotiations, including the [[event:2715|Camp David Summit]] in 2000, collapsed, and the outbreak of the Second Intifada effectively ended the Oslo process.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oslo_Accords",
+    "read_more_links": [
+        {
+            "title": "Oslo Accords - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Oslo-Accords"
+        },
+        {
+            "title": "Assassination of Yitzhak Rabin - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Assassination_of_Yitzhak_Rabin"
+        },
+        {
+            "title": "Oslo Accords - Wilson Center",
+            "url": "https://www.wilsoncenter.org/oslo-accords"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Restricted_space_in_the_West_Bank%2C_Area_C.png/300px-Restricted_space_in_the_West_Bank%2C_Area_C.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Restricted_space_in_the_West_Bank%2C_Area_C.png",
+            "caption": "Restricted space in the West Bank, Area C. (Originally published by OCHAoPt i...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flickr_-_Government_Press_Office_%28GPO%29_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg/300px-Flickr_-_Government_Press_Office_%28GPO%29_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flickr_-_Government_Press_Office_%28GPO%29_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg",
+            "caption": "The Nobel Peace Prize laureates for 1994 in Oslo. From left to right: PLO Cha...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg/300px-Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg",
+            "caption": "Israeli Prime Minister Yitzhak Rabin, U.S. president Bill Clinton, and PLO ch...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Yitzhak Rabin",
+            "summary": "Prime Minister of Israel (1974–1977; 1992–1995)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg/250px-Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yitzhak_Rabin"
+        },
+        {
+            "name": "Yasser Arafat",
+            "summary": "President of Palestine from 1989 to 2004",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/250px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yasser_Arafat"
+        },
+        {
+            "name": "Bill Clinton",
+            "summary": "President of the United States from 1993 to 2001",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/250px-Bill_Clinton.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Clinton"
+        },
+        {
+            "name": "White House",
+            "summary": "Residence and workplace of the US president",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/250px-White_House_north_and_south_sides.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/White_House"
+        },
+        {
+            "name": "Status of Jerusalem",
+            "summary": "Legal and diplomatic status",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg/250px-%D7%94%D7%A8_%D7%94%D7%91%D7%99%D7%AA_%D7%9E%D7%93%D7%A8%D7%95%D7%9D_%D7%9E%D7%A2%D7%A8%D7%91.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Status_of_Jerusalem"
+        },
+        {
+            "name": "Yigal Amir",
+            "summary": "Israeli assassin (born 1970)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Yigal_Amir_Amir%2C_November_1995_%283x4_cropped%29.jpg/250px-Yigal_Amir_Amir%2C_November_1995_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yigal_Amir"
+        }
+    ],
+    "territory_geojson": null
+}

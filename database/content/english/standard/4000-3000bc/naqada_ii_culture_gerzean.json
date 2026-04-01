@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1634,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:61e0f0eb04ae294a37394be273770c1420fb73982b253daf4eed753d273c261f",
+    "summary": "The Naqada II culture, also known as the Gerzean period, flourished in Upper Egypt between approximately 3500 and 3200 BCE and represents a crucial phase in the social and political consolidation that culminated in the [[event:1637|unification of Egypt]] around 3100 BCE. Named after the site of Naqada on the west bank of the Nile, this cultural phase shows dramatic increases in social stratification, long-distance trade, craft specialization, and the emergence of the iconographic and symbolic vocabulary that would define pharaonic civilization.\n\nNaqada II culture is characterized by its distinctive pottery — buff-colored vessels decorated with painted images of boats, animals, stylized human figures, and geometric designs. These pottery styles reveal a society engaging in long-distance exchange, as imported materials including lapis lazuli from Afghanistan, obsidian from Ethiopia, cedar resin from the Levant, and silver from Anatolia appear in elite burials. The volume and diversity of imported prestige goods testifies to the growing wealth of Upper Egyptian elites and their integration into the broader Near Eastern exchange network.\n\nFunerary evidence is the primary window into Naqada II society. Elite graves become substantially larger and richer than commoner burials, with some tombs containing dozens of imported luxury items, cosmetic palettes, ivory objects, and copper tools. This mortuary differentiation reflects the crystallization of a hereditary ruling class whose authority was expressed partly through control of trade and redistribution of prestige goods. Decorated tombs at Hierakonpolis — some bearing painted scenes of processions, battles, and animal hunts — foreshadow the royal iconography of the dynastic period.\n\nThe Naqada II period also sees the first appearance of architectural mud-brick on a significant scale and the beginnings of the ceremonial palette tradition that would culminate in the famous [[event:1638|Narmer Palette]]. The fish-tail and shield-shaped palettes of Naqada II feature relief carvings of animals and mythological scenes that directly prefigure dynastic royal iconography. By the end of the Naqada II period, Upper Egyptian cultural forms were expanding northward into the Delta, laying the cultural groundwork for political unification.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Naqada_II",
+    "read_more_links": [
+        {
+            "title": "Predynastic Egypt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Predynastic_Egypt"
+        },
+        {
+            "title": "Ancient Egypt Predynastic Period - Britannica",
+            "url": "https://www.britannica.com/place/ancient-Egypt/Predynastic-and-Early-Dynastic-Egypt"
+        },
+        {
+            "title": "Naqada Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Naqada_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Abadiya_Grave_B102_assemblage._Naqada_IIA._Ashmolean_Museum.jpg/300px-Abadiya_Grave_B102_assemblage._Naqada_IIA._Ashmolean_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Abadiya_Grave_B102_assemblage._Naqada_IIA._Ashmolean_Museum.jpg",
+            "caption": "Abadiya Grave B102 assemblage. Naqada IIA. Ashmolean Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Egyptian_Burial_%2835808408273%29.jpg/300px-Egyptian_Burial_%2835808408273%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Egyptian_Burial_%2835808408273%29.jpg",
+            "caption": "Early Ancient Egypt Gallery, British Museum, London, England, UK. Complete in...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ivory_bearded_figurines%2C_large_and_small._Naqada._Royal_Museums_of_Art_and_History%2C_Brussels.jpg/300px-Ivory_bearded_figurines%2C_large_and_small._Naqada._Royal_Museums_of_Art_and_History%2C_Brussels.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ivory_bearded_figurines%2C_large_and_small._Naqada._Royal_Museums_of_Art_and_History%2C_Brussels.jpg",
+            "caption": "Ivory bearded figurines, large and small. Naqada. Royal Museums of Art and Hi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ivory_tusks%2C_left_one_hollow%2C_right_one_plain_with_bearded_face_design._Naqada_Tomb_T4.jpg/300px-Ivory_tusks%2C_left_one_hollow%2C_right_one_plain_with_bearded_face_design._Naqada_Tomb_T4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Ivory_tusks%2C_left_one_hollow%2C_right_one_plain_with_bearded_face_design._Naqada_Tomb_T4.jpg",
+            "caption": "Ivory tusks, left one hollow, right one plain with bearded face design. Naqad...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

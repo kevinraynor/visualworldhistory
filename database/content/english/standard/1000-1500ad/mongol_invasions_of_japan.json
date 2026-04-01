@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2280,
+    "parent_id": 91,
+    "granularity": "notable",
+    "content_hash": "sha256:6f4e0ea6b8600b8c6325320d1a962efbd3ef43be3be6bdad8faf7b42d5b5d3c1",
+    "summary": "The Mongol Invasions of Japan (1274 and 1281 AD) were the two attempts by [[event:2229|Kublai Khan's]] Yuan Dynasty to conquer the Japanese archipelago, both of which failed dramatically, with the second and far larger invasion fleet being destroyed by typhoons that the Japanese called kamikaze ('divine winds') — a phrase that entered the Japanese national consciousness as evidence of divine protection and was later invoked by Japanese pilots in World War II. The first invasion (1274) landed in Kyushu with perhaps 23,000 troops, initially defeating Japanese forces unfamiliar with Mongol tactics (arrow storms, explosives, coordinated infantry), before withdrawing due to storm damage and tactical uncertainty.\n\nThe second invasion (1281) was the largest amphibious operation in history to that point — approximately 140,000 troops in two fleets from Korea and southern China. After weeks of fighting around Kyushu's northern coasts, a typhoon struck the invasion fleet in August, destroying an estimated 60–80% of the ships and most of the troops. The surviving Mongol and Chinese soldiers who reached shore were captured and killed. The near-miraculous repulse of the Mongol invasions had profound consequences for Japanese political and religious culture: the samurai class had defended Japan but at enormous cost (stone walls built along the Kyushu coast, years of defensive mobilization), while the government's promised rewards proved insufficient — fueling the discontent that contributed to the [[event:2278|Kamakura shogunate's]] eventual collapse. The kamikaze myth fostered an enduring sense of Japanese divine distinctiveness and imperial legitimacy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan",
+    "read_more_links": [
+        {
+            "title": "Kamikaze typhoon Mongol fleet destruction",
+            "url": "https://en.wikipedia.org/wiki/Kamikaze_(typhoon)"
+        },
+        {
+            "title": "Mongol Japan 1281 second invasion scale",
+            "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan#Second_invasion"
+        },
+        {
+            "title": "Mongol invasion aftermath Kamakura decline",
+            "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan#Aftermath"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/M%C5%8Dko_Sh%C5%ABrai_Ekotoba_Mongol_Invasion_Mitsui_Sukenaga.jpg/300px-M%C5%8Dko_Sh%C5%ABrai_Ekotoba_Mongol_Invasion_Mitsui_Sukenaga.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/M%C5%8Dko_Sh%C5%ABrai_Ekotoba_Mongol_Invasion_Mitsui_Sukenaga.jpg",
+            "caption": "The Battle of Bun'ei (at the Battle of Torikai-Gata, 1274), the samurai Mitsu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_anchor_of_a_Mongolian_army%282%29.JPG/300px-The_anchor_of_a_Mongolian_army%282%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_anchor_of_a_Mongolian_army%282%29.JPG",
+            "caption": "The anchor of a Mongolian army",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/KATSUSHIKA_Isai_NICHIREN_SH%C5%8CNIN_ICHIDAI_ZUE_1858_KAMIKAZE.jpg/300px-KATSUSHIKA_Isai_NICHIREN_SH%C5%8CNIN_ICHIDAI_ZUE_1858_KAMIKAZE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/KATSUSHIKA_Isai_NICHIREN_SH%C5%8CNIN_ICHIDAI_ZUE_1858_KAMIKAZE.jpg",
+            "caption": "This is one of the woodblock prints published on the book entitled\nNICHIREN S...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Iron_plaque_depicting_a_mounted_Samarai_battling_Mongol_foot_soldiers_-_RC129.tif/300px-Iron_plaque_depicting_a_mounted_Samarai_battling_Mongol_foot_soldiers_-_RC129.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Iron_plaque_depicting_a_mounted_Samarai_battling_Mongol_foot_soldiers_-_RC129.tif",
+            "caption": "\"Iron plaque by Komai of Kyoto decorated with a battle scene and signed “Kyot...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Go-Uda",
+            "summary": "Emperor of Japan from 1274 to 1287",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Emperor_Go-Uda.jpg/250px-Emperor_Go-Uda.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Uda"
+        },
+        {
+            "name": "Sō Sukekuni",
+            "summary": "Japanese Warrior and Ruler of Tsushima",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mongol_invasion_of_Tsushima%2C_ema_at_Sasuura.png/250px-Mongol_invasion_of_Tsushima%2C_ema_at_Sasuura.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/S%C5%8D_Sukekuni"
+        },
+        {
+            "name": "Kublai Khan",
+            "summary": "Emperor of Yuan China from 1271 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/250px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+        },
+        {
+            "name": "Minamoto no Yoriie",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1202 to 1203",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Minamoto_no_Yoriie.jpg/250px-Minamoto_no_Yoriie.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoriie"
+        },
+        {
+            "name": "Samurai",
+            "summary": "Japanese warrior class",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/250px-Samurai_on_horseback0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai"
+        },
+        {
+            "name": "Kikuchi Yōsai",
+            "summary": "Japanese painter (1788–1878)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kikuchi_Y%C5%8Dsai.jpg/250px-Kikuchi_Y%C5%8Dsai.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kikuchi_Y%C5%8Dsai"
+        }
+    ],
+    "territory_geojson": null
+}

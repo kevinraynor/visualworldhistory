@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1063,
+    "parent_id": 1054,
+    "granularity": "detailed",
+    "content_hash": "sha256:95fd75b12c70a37d36af0792c5eb806451382a65f28d3951c20d9667ff2429f2",
+    "summary": "The Siege of Saguntum (219 BC) was the immediate trigger of the [[event:1054|Second Punic War]], in which Hannibal's Carthaginian forces besieged and captured the Spanish city of Saguntum (modern Sagunto, near Valencia), a city that had treaty relations with Rome. The siege provoked Rome into issuing a declaration of war against Carthage.\n\nHannibal had been building Carthaginian power in Spain since taking command in 221 BC, extending Carthaginian territory systematically northward. Saguntum was the most prominent city in Spain outside Carthaginian control and served as both a Roman ally and a proxy for Roman influence on the peninsula. The siege lasted about eight months before the city's defenders, facing starvation and no Roman relief, destroyed their own valuables and committed mass suicide rather than surrender. Rome, which had failed to respond in time, formally demanded Carthage hand over Hannibal; when Carthage refused, Rome declared war. The fall of Saguntum illustrated the gap between Roman treaty obligations and Roman military reach in Spain.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Saguntum",
+    "read_more_links": [
+        {
+            "title": "Hannibal",
+            "url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "title": "Saguntum",
+            "url": "https://en.wikipedia.org/wiki/Saguntum"
+        },
+        {
+            "title": "Carthaginian Spain",
+            "url": "https://en.wikipedia.org/wiki/Carthaginian_Iberia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hannibal_Slodtz_Louvre_MR2093.png/300px-Hannibal_Slodtz_Louvre_MR2093.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hannibal_Slodtz_Louvre_MR2093.png",
+            "caption": "Hannibal Barca counting the rings of the Roman knights killed at the Battle o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Castillo02_Sagunto.JPG/300px-Castillo02_Sagunto.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Castillo02_Sagunto.JPG",
+            "caption": "Castillo02 Sagunto",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hannibal",
+            "summary": "Carthaginian general and statesman (247–183/181 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/250px-Hannibal_Barca_bust_from_Capua_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "name": "Hanno II the Great",
+            "summary": "3rd century BCE Carthaginian statesman and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Georges-Antoine_Rochegrosse_%26_Eug%C3%A8ne-Andr%C3%A9_Champollion_-_Salammb%C3%B4_-_L%27arm%C3%A9e_d%27Hannon.jpg/250px-Georges-Antoine_Rochegrosse_%26_Eug%C3%A8ne-Andr%C3%A9_Champollion_-_Salammb%C3%B4_-_L%27arm%C3%A9e_d%27Hannon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hanno_II_the_Great"
+        },
+        {
+            "name": "Silius Italicus",
+            "summary": "1st-century AD Roman senator, orator and poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Joseph_Wright_of_Derby_-_Virgil%27s_Tomb_by_Moonlight%2C_with_Silius_Italicus_-_Google_Art_Project.jpg/250px-Joseph_Wright_of_Derby_-_Virgil%27s_Tomb_by_Moonlight%2C_with_Silius_Italicus_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Silius_Italicus"
+        },
+        {
+            "name": "Philip Frowde",
+            "summary": "English poet and dramatist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Philip_Frowde_Faber.jpg/250px-Philip_Frowde_Faber.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_Frowde"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3456,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7c1748914de1e679bed5aac25db787626c72f28112bd84adfca8e18bd9009e16",
+    "summary": "The Second Sino-Japanese War began in July 1937 with the Marco Polo Bridge Incident near Beijing and continued until Japan's surrender in August 1945, making it the largest Asian war of the twentieth century. Japan had already occupied Manchuria since 1931 and sought to extend its control over China proper. The conflict claimed an estimated 15–20 million Chinese lives, civilian and military, through direct combat, massacres, and the deliberate destruction of food supplies and infrastructure.\n\nThe war unified the previously warring Nationalist and Communist Chinese factions into an uneasy Second United Front against Japan, though cooperation was often nominal and both sides maneuvered for postwar advantage. Japan captured most of coastal China and major cities including Shanghai, Nanjing — where the [[event:3455|Nanjing Massacre]] occurred — and Wuhan, but was unable to conquer the Chinese interior or force a decisive surrender. The Nationalist government relocated to Chongqing in the southwest and continued resistance.\n\nThe conflict merged into the broader [[event:112|World War II]] framework after Japan's attack on Pearl Harbor in December 1941, when China became part of the Allied coalition. Japan's defeat ended eight years of occupation and contributed directly to the shift in domestic Chinese politics that brought the Communists to power in 1949. The war's memory has remained central to Chinese national identity and to the complex and sometimes fraught relationship between China and Japan.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+    "read_more_links": [
+        {
+            "title": "Marco Polo Bridge Incident",
+            "url": "https://en.wikipedia.org/wiki/Marco_Polo_Bridge_Incident"
+        },
+        {
+            "title": "Second United Front",
+            "url": "https://en.wikipedia.org/wiki/Second_United_Front"
+        },
+        {
+            "title": "China in World War II",
+            "url": "https://en.wikipedia.org/wiki/China_during_World_War_II"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/American_soldier%2C_Republic_of_China_soldier_and_British_soldier_united_together_with_their_national_flags%2C_World_War_II_poster%2C_October_1943_%28cropped%29.jpg/300px-American_soldier%2C_Republic_of_China_soldier_and_British_soldier_united_together_with_their_national_flags%2C_World_War_II_poster%2C_October_1943_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/American_soldier%2C_Republic_of_China_soldier_and_British_soldier_united_together_with_their_national_flags%2C_World_War_II_poster%2C_October_1943_%28cropped%29.jpg",
+            "caption": "American, Chinese and British soldiers with flags of their countries",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bloody_Saturday%2C_Shanghai.jpg/300px-Bloody_Saturday%2C_Shanghai.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bloody_Saturday%2C_Shanghai.jpg",
+            "caption": "This terrified baby was one of the only human beings left alive in Shanghai's...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Chiang_Kai_Shek_and_wife_with_Lieutenant_General_Stilwell.jpg/300px-Chiang_Kai_Shek_and_wife_with_Lieutenant_General_Stilwell.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Chiang_Kai_Shek_and_wife_with_Lieutenant_General_Stilwell.jpg",
+            "caption": "Generalissimo and Madame Chiang Kai Shek and Lieutenant General Joseph W. Sti...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Casualties_of_a_mass_panic_-_Chungking%2C_China.jpg/300px-Casualties_of_a_mass_panic_-_Chungking%2C_China.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Casualties_of_a_mass_panic_-_Chungking%2C_China.jpg",
+            "caption": "Casualties of a Japanese air raid, in which 4,000 people were trampled or suf...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Chiang Kai-shek",
+            "summary": "Leader of the Republic of China from 1928 to 1975",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/250px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek"
+        },
+        {
+            "name": "Mao Zedong",
+            "summary": "Leader of China from 1949 to 1976",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg/250px-Mao_Zedong_1950_Portrait_%283x4_cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mao_Zedong"
+        },
+        {
+            "name": "He Yingqin",
+            "summary": "Chinese general and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%E4%BD%95%E6%87%89%E6%AC%BD%E9%99%A2%E9%95%B7.jpg/250px-%E4%BD%95%E6%87%89%E6%AC%BD%E9%99%A2%E9%95%B7.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/He_Yingqin"
+        },
+        {
+            "name": "Chen Cheng",
+            "summary": "Chinese politician and general (1898–1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Chen_Cheng_in_1940%27s.jpg/250px-Chen_Cheng_in_1940%27s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chen_Cheng"
+        },
+        {
+            "name": "Cheng Qian",
+            "summary": "Chinese army officer and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cheng_Qian1.jpg/250px-Cheng_Qian1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cheng_Qian"
+        },
+        {
+            "name": "Bai Chongxi",
+            "summary": "Chinese general (1893–1966)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Minister1.jpg/250px-Minister1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bai_Chongxi"
+        }
+    ],
+    "territory_geojson": null
+}

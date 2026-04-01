@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 70,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2be047c709e60877bd32555817b399448a634d4256584cd4633a0647fe287f6e",
+    "summary": "The Chavín culture (c. 900–200 BC) was an influential religious and artistic tradition centered on the ceremonial center of Chavín de Huántar in the Peruvian highlands, which served as a major pilgrimage site and cultural horizon that spread artistic motifs, religious practices, and possibly political influence across much of the central Andes. Named for this site, the Chavín 'horizon' represents one of the earliest pan-Andean cultural unification phenomena before the Inca.\n\nChavín de Huántar was an extraordinary architectural achievement: an elaborate stone temple complex with internal galleries, hidden passageways, and ventilation systems that produced echoing sounds to enhance ritual experience. The principal deity, depicted on carved stone monuments including the Lanzón (a 4.5-meter stone lance-like monolith), combined features of jaguar, caiman, serpent, and human — a composite supernatural figure that recurs across Chavín-influenced art across a wide geographic range. Chavín religious iconography spread through exchange of prestige goods (obsidian, spondylus shells, exotic feathers) and pilgrimages, creating a shared symbolic vocabulary across diverse Andean cultures. Its decline after 200 BC gave way to regional cultures that continued to elaborate on Andean religious and artistic traditions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chav%C3%ADn_culture",
+    "read_more_links": [
+        {
+            "title": "Chavín de Huántar site",
+            "url": "https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar"
+        },
+        {
+            "title": "Lanzón monolith",
+            "url": "https://en.wikipedia.org/wiki/Lanz%C3%B3n"
+        },
+        {
+            "title": "Andean horizon cultures",
+            "url": "https://en.wikipedia.org/wiki/Andean_civilizations"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Estela_Wachumero_en_Chavin.jpg/300px-Estela_Wachumero_en_Chavin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Estela_Wachumero_en_Chavin.jpg",
+            "caption": "Estela del Portador del Cactus San Pedro en la Plaza Circular de Chavín de Hu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chavin_-_Ao%C3%BBt_2007.jpg/300px-Chavin_-_Ao%C3%BBt_2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chavin_-_Ao%C3%BBt_2007.jpg",
+            "caption": "El Castillo, part of the Chavín de Huantar ruins",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/El_Lanz%C3%B3n.jpg/300px-El_Lanz%C3%B3n.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/El_Lanz%C3%B3n.jpg",
+            "caption": "Photo du monolithe \"El Lanzón\" représentant un dieux de la culture Chavín.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lima_Mus%C3%A9e_Rafael_Larco_Herrera_St%C3%A8le_de_Pacopampa_ML300025.jpg/300px-Lima_Mus%C3%A9e_Rafael_Larco_Herrera_St%C3%A8le_de_Pacopampa_ML300025.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lima_Mus%C3%A9e_Rafael_Larco_Herrera_St%C3%A8le_de_Pacopampa_ML300025.jpg",
+            "caption": "Lima Rafael Larco Herrera Museum Stele of Pacopampa ML300025",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Contour rivalry",
+            "summary": "Artistic technique used to create multiple possible visual interpretations of an image",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/A_detail_of_the_Raimondi_Stela.png/250px-A_detail_of_the_Raimondi_Stela.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Contour_rivalry"
+        },
+        {
+            "name": "Authority",
+            "summary": "Legitimate power to decide or authorize",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/AuthorityOfLaw.JPG/250px-AuthorityOfLaw.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Authority"
+        }
+    ],
+    "territory_geojson": null
+}

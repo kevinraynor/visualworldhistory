@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3017,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:638f5f078d776426b649168720fe3291211bd2788da087de3e6abc26625db329",
+    "summary": "The English Peasants' Revolt of 1381 (Wat Tyler's Rebellion) was the most significant popular uprising in medieval English history, triggered by a new poll tax imposed on the population to fund the [[event:2235|Hundred Years' War]] and rapidly expanding into a broad challenge to the feudal order itself, as rebels from Essex and Kent converged on London, occupied the Tower, killed the Archbishop of Canterbury and the Lord Treasurer, and extracted promises from the teenage King Richard II at Mile End and Smithfield — promises that were subsequently broken and the rebellion brutally suppressed.\n\nThe revolt's leadership included Wat Tyler (whose death at Smithfield — killed in the king's presence during negotiations — collapsed the rebels' morale) and the radical priest John Ball, whose famous sermon asked 'When Adam delved and Eve span, Who was then the gentleman?' — one of the earliest articulations in English of egalitarian social challenge. The rebels destroyed the Savoy Palace of the hated John of Gaunt, burned legal records symbolizing their servitude, released prisoners from the Fleet, and killed Flemish cloth merchants who they blamed for wage competition. Richard II's personal courage in confronting the rebels at Smithfield — riding forward after Tyler's killing and redirecting the rebel crowd with promises he had no intention of keeping — arguably saved the monarchy at that moment. The revolt failed in its immediate objectives, but the poll tax was abandoned, and the broader social forces it represented — post-[[event:95|Black Death]] labor confidence, anti-clerical sentiment, proto-nationalist grievance — continued to erode the feudal structures the rebels had challenged.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peasants%27_Revolt",
+    "read_more_links": [
+        {
+            "title": "Wat Tyler killing Smithfield revolt collapse",
+            "url": "https://en.wikipedia.org/wiki/Wat_Tyler"
+        },
+        {
+            "title": "John Ball egalitarian preaching 1381",
+            "url": "https://en.wikipedia.org/wiki/John_Ball_(priest)"
+        },
+        {
+            "title": "Poll tax 1381 causes Hundred Years War",
+            "url": "https://en.wikipedia.org/wiki/Peasants%27_Revolt#Causes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg/300px-Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg",
+            "caption": "Richard II meeting with the rebels of the Peasants' Revolt of 1381.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Towrlndn.JPG/300px-Towrlndn.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Towrlndn.JPG",
+            "caption": "A depiction of the imprisonment of Charles, Duke of Orléans, in the Tower of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Henry_le_Despenser_2.jpg/300px-Henry_le_Despenser_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Henry_le_Despenser_2.jpg",
+            "caption": "Part of a misericord in a Chancel stall in St. Margaret's Church, King's Lynn...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Back_of_the_Old_Court%2C_Corpus_Christi_College%2C_Cambridge.jpg/300px-Back_of_the_Old_Court%2C_Corpus_Christi_College%2C_Cambridge.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Back_of_the_Old_Court%2C_Corpus_Christi_College%2C_Cambridge.jpg",
+            "caption": "The back of the Old Court, seen from the Cavedish Lab",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Richard II of England",
+            "summary": "King of England from 1377 to 1399",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg/250px-The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_II_of_England"
+        },
+        {
+            "name": "Jean Froissart",
+            "summary": "French writer and historian (c. 1337–c. 1405)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Jean-Froissart.jpg/250px-Jean-Froissart.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Froissart"
+        },
+        {
+            "name": "Wat Tyler",
+            "summary": "Leader of the 1381 Peasants' Revolt (1341 or c. 1320 – 1381)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/DeathWatTyler.jpg/250px-DeathWatTyler.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wat_Tyler"
+        },
+        {
+            "name": "Simon Sudbury",
+            "summary": "Archbishop of Canterbury from 1375 to 1381",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Murder_of_Simon_Sudbury_-_Froissart%2C_Chroniques_de_France_et_d%27Angleterre%2C_Book_II_%28c.1460-1480%29%2C_f.172_-_BL_Royal_MS_18_E_I.jpg/250px-Murder_of_Simon_Sudbury_-_Froissart%2C_Chroniques_de_France_et_d%27Angleterre%2C_Book_II_%28c.1460-1480%29%2C_f.172_-_BL_Royal_MS_18_E_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_Sudbury"
+        },
+        {
+            "name": "Robert Hales (knight)",
+            "summary": "English admiral (1325–1381)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BL_Royal_MS_18_E_I_%28cropped%29.jpg/250px-BL_Royal_MS_18_E_I_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Hales_%28knight%29"
+        },
+        {
+            "name": "William Morris",
+            "summary": "English textile artist, author, and socialist (1834–1896)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/William_Morris_age_53.jpg/250px-William_Morris_age_53.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Morris"
+        }
+    ],
+    "territory_geojson": null
+}

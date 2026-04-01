@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 56,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b0e76f996dbd551da81f4e3a7a092cf7b61f0393a43750439612049ccdbdc5fc",
+    "summary": "The Olmec civilization, centered in the humid lowlands of the Gulf Coast of what is now Mexico, was the earliest complex society of Mesoamerica, flourishing from approximately 1500 to 400 BC. Often described as the mother culture of Mesoamerica, the Olmec established artistic conventions, religious symbols, and social institutions that were adopted and transformed by later civilizations including the Maya and Aztec.\n\nThe Olmec heartland comprised three major ceremonial centers in sequence: [[event:1853|San Lorenzo]] (c. 1500–1000 BC), La Venta (c. 1000–400 BC), and Tres Zapotes (c. 900–300 BC). These centers featured large earthen mounds, plazas, and elaborate drainage systems, serving as ritual and administrative hubs for surrounding agricultural populations. The construction of these centers required the mobilization of substantial labor, implying a hierarchical social structure with powerful rulers and an organized corvée system.\n\nOlmec artists produced some of the most distinctive sculpture of the ancient Americas. The [[event:1854|colossal stone heads]] — seventeen of which have been found, weighing up to forty metric tons and carved from basalt boulders transported from mountains tens of kilometers away — are thought to represent individual rulers. Olmec religious iconography featuring the so-called were-jaguar motif, combining feline and human features, appears throughout sculpture, ceramics, and jade carvings, and recurs across Mesoamerican cultures for centuries afterward.\n\nThe Olmec traded widely, obtaining jade from highland Guatemala, magnetite from Oaxaca, and obsidian from volcanic sources hundreds of kilometers distant. Whether the Olmec developed the earliest writing and calendar systems in Mesoamerica is debated, but certain symbols on Olmec objects may anticipate the later hieroglyphic traditions of the Maya. The civilization declined gradually, with San Lorenzo abandoned and its monuments deliberately defaced around 1000 BC in a transition whose causes remain unclear.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Olmecs",
+    "read_more_links": [
+        {
+            "title": "San Lorenzo Tenochtitlán",
+            "url": "https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n"
+        },
+        {
+            "title": "Olmec Colossal Heads",
+            "url": "https://en.wikipedia.org/wiki/Olmec_colossal_heads"
+        },
+        {
+            "title": "Olmec Civilization - Britannica",
+            "url": "https://www.britannica.com/topic/Olmec"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mesoamerica%2C_reportedly_the_Tepecoacuilco_River_Valley%2C_Guerrero%2C_Olmec_sty_-_Carved_Bowl_-_2013.29_-_Cleveland_Museum_of_Art.tif/300px-Mesoamerica%2C_reportedly_the_Tepecoacuilco_River_Valley%2C_Guerrero%2C_Olmec_sty_-_Carved_Bowl_-_2013.29_-_Cleveland_Museum_of_Art.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mesoamerica%2C_reportedly_the_Tepecoacuilco_River_Valley%2C_Guerrero%2C_Olmec_sty_-_Carved_Bowl_-_2013.29_-_Cleveland_Museum_of_Art.tif",
+            "caption": "Containers made of translucent white travertine, known among the later Aztecs...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Piezas_del_Conjunto_Escult%C3%B3rico_%22Los_Gemelos%22.jpg/300px-Piezas_del_Conjunto_Escult%C3%B3rico_%22Los_Gemelos%22.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Piezas_del_Conjunto_Escult%C3%B3rico_%22Los_Gemelos%22.jpg",
+            "caption": "This pieces were found along with the others in 1987 in a mound located in th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Se%C3%B1or_de_las_limas_2.jpg/300px-Se%C3%B1or_de_las_limas_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Se%C3%B1or_de_las_limas_2.jpg",
+            "caption": "The name is based in where it was found. Las Limas Veracruz, and is one of th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Spirit_axe%2C_Gulf_Coast_Olmec_culture%2C_Tabasco_state%2C_Middle_Formative_period%2C_c._900-500_BC%2C_stone_-_Dallas_Museum_of_Art_-_DSC04581.jpg/300px-Spirit_axe%2C_Gulf_Coast_Olmec_culture%2C_Tabasco_state%2C_Middle_Formative_period%2C_c._900-500_BC%2C_stone_-_Dallas_Museum_of_Art_-_DSC04581.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Spirit_axe%2C_Gulf_Coast_Olmec_culture%2C_Tabasco_state%2C_Middle_Formative_period%2C_c._900-500_BC%2C_stone_-_Dallas_Museum_of_Art_-_DSC04581.jpg",
+            "caption": "Exhibit in the Dallas Museum of Art, Dallas, Texas, USA.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Miguel Covarrubias",
+            "summary": "Mexican painter, caricaturist and art historian (1904–1957)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Miguel_Covarrubias._October_30%2C_1932.jpg/250px-Miguel_Covarrubias._October_30%2C_1932.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Miguel_Covarrubias"
+        }
+    ],
+    "territory_geojson": null
+}

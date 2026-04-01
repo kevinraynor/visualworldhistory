@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3594,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d4b5c564bf283ab8198bc381c413d234ed2839c2202ff844d02efd3a3e8e326c",
+    "summary": "Ziggurat construction in Mesopotamia, beginning in earnest approximately 2100–1500 BC and reaching its architectural peak with examples such as the [[event:1726|Great Ziggurat of Ur]], represents one of the defining architectural traditions of ancient Near Eastern civilisation. The ziggurat — a massive stepped pyramid of mud-brick with a shrine at its summit — served as the sacred mountain and cosmic centre of each Mesopotamian city, a physical connection between earth and heaven where the city's patron deity was believed to dwell.\n\nThe earliest precursors to the classic ziggurat form appear in the Early Dynastic period as raised temple platforms on raised terraces. By the [[event:1724|Third Dynasty of Ur]], the three-tiered stepped pyramid form was standardised, with the Great Ziggurat of Ur serving as the prototype for numerous examples subsequently built across Mesopotamia. Each major Sumerian, Akkadian, Babylonian, and Assyrian city maintained its own ziggurat dedicated to its patron deity; the god was believed to descend to the summit shrine from heaven to be tended by the temple's priests.\n\nThe labour and materials required for ziggurat construction were enormous. The cores were built from sun-dried mud-brick, while the exteriors were typically faced with fired brick and sealed with bitumen to resist weathering. Massive quantities of reeds were incorporated into the structure to prevent cracking and improve drainage. The visible staircases or ramps leading to the summit were ceremonial approaches for processions and priestly access to the divine presence. The ziggurat is likely the architectural inspiration behind the biblical Tower of Babel narrative, and it remains the most instantly recognisable symbol of Mesopotamian civilisation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ziggurat",
+    "read_more_links": [
+        {
+            "title": "Ziggurat of Ur",
+            "url": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur"
+        },
+        {
+            "title": "Tower of Babel",
+            "url": "https://en.wikipedia.org/wiki/Tower_of_Babel"
+        },
+        {
+            "title": "Mesopotamian architecture",
+            "url": "https://en.wikipedia.org/wiki/Architecture_of_Mesopotamia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Choqa_Zanbil_Darafsh_1_%2836%29.JPG/300px-Choqa_Zanbil_Darafsh_1_%2836%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Choqa_Zanbil_Darafsh_1_%2836%29.JPG",
+            "caption": "Chogha Zanbil (Dur Untash) in Iran",
+            "attribution": "Wikimedia Commons, GFDL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg/300px-Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg",
+            "caption": "Ancient ziggurat at Ali Air Base Iraq",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/White_Temple_%27E_at_Uruk%2C_3500-3000_BCE.jpg/300px-White_Temple_%27E_at_Uruk%2C_3500-3000_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/White_Temple_%27E_at_Uruk%2C_3500-3000_BCE.jpg",
+            "caption": "White Temple 'E at Uruk, 3500-3000 BCE",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/White_Temple_ziggurat_in_Uruk.jpg/300px-White_Temple_ziggurat_in_Uruk.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/White_Temple_ziggurat_in_Uruk.jpg",
+            "caption": "White Temple ziggurat in Uruk",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ur-Nammu",
+            "summary": "King of Ur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Ur-Nammu.jpg/250px-King_Ur-Nammu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Nammu"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Nebuchadnezzar II",
+            "summary": "King of Babylon from 605 to 562 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nebuchadnezzar_II_crop.png/250px-Nebuchadnezzar_II_crop.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_II"
+        },
+        {
+            "name": "Saqqara",
+            "summary": "Burial ground in Giza Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/250px-Saqqara_pyramid_ver_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara"
+        }
+    ],
+    "territory_geojson": null
+}

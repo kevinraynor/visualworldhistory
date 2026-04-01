@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1504,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9e2b797549ca71a64c09c8820d078045708b6ebddbad492d0cc3f6ccbb2d9a12",
+    "summary": "Fermentation — the controlled microbial transformation of organic materials — was one of the earliest and most consequential food technologies developed by human communities. Evidence from the Near East and neighboring regions dating to around 7000–6000 BCE includes residues of fermented grain, fruit, and dairy products in ceramic vessels. The development of pottery in this period facilitated fermentation by providing suitable containers for the process.\n\nFermented beverages and foods offered significant advantages to early agricultural communities: they preserved nutritional value, reduced pathogens, and provided caloric density. Beer-like grain ferments and early wine production appear to have had both nutritional and social significance, with fermented drinks likely playing roles in communal gatherings and ritual contexts from very early on. The mastery of fermentation represents an intersection of empirical knowledge, material technology, and social organization that marked a significant advance in early human food culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fermentation#History",
+    "read_more_links": [
+        {
+            "title": "Fermentation – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Fermentation"
+        },
+        {
+            "title": "History of Beer – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_beer"
+        },
+        {
+            "title": "History of Wine – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_wine"
+        },
+        {
+            "title": "Food Preservation – Britannica",
+            "url": "https://www.britannica.com/topic/food-preservation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_biochemical_pathways_of_fermentation_of_glucose.png/300px-The_biochemical_pathways_of_fermentation_of_glucose.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/The_biochemical_pathways_of_fermentation_of_glucose.png",
+            "caption": "The biochemical pathways of fermentation of glucose in poster format. Work by...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Phylogenetic_tree_of_bacteria_and_archaea%2C_highlighting_those_that_carry_out_fermentation.png/300px-Phylogenetic_tree_of_bacteria_and_archaea%2C_highlighting_those_that_carry_out_fermentation.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Phylogenetic_tree_of_bacteria_and_archaea%2C_highlighting_those_that_carry_out_fermentation.png",
+            "caption": "Phylogenetic tree of bacteria and archaea, highlighting those that carry out ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Overview_of_the_biochemical_pathways_for_fermentation_of_glucose.png/300px-Overview_of_the_biochemical_pathways_for_fermentation_of_glucose.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Overview_of_the_biochemical_pathways_for_fermentation_of_glucose.png",
+            "caption": "Overview of the biochemical pathways for fermentation of glucose. Work by aut...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_most_common_substrates_and_products_of_fermentation.png/300px-The_most_common_substrates_and_products_of_fermentation.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_most_common_substrates_and_products_of_fermentation.png",
+            "caption": "The most common substrates and products of fermentation. Work by author and o...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Samuel Morey",
+            "summary": "American inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Samuel_Morey.jpg/250px-Samuel_Morey.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Morey"
+        },
+        {
+            "name": "Rudolf Diesel",
+            "summary": "German inventor and engineer (1858–1913)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rudolf_Diesel2.jpg/250px-Rudolf_Diesel2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rudolf_Diesel"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2120,
+    "parent_id": 2119,
+    "granularity": "notable",
+    "content_hash": "sha256:3766ffbab1526806c596500a326767b9caa106611f9c86596aa4b8b6fcbd9b0a",
+    "summary": "The Hagia Sophia (completed 537 AD, Constantinople) is one of the greatest buildings ever constructed — a cathedral commissioned by Emperor [[event:2119|Justinian I]] that revolutionized architectural history with its enormous dome and remained the world's largest cathedral for nearly a thousand years (until Seville Cathedral in 1520). Built by the architects Isidore of Miletus and Anthemius of Tralles in just five years using 10,000 workers, the Hagia Sophia's central dome (31 meters diameter, rising 56 meters above the floor) appears to float on a ring of windows that flood the interior with light — an effect so astonishing that a contemporary account claimed the dome 'seems suspended from heaven by a golden chain.'\n\nThe engineering innovation behind the floating dome — pendentives (triangular curved sections) that transition from the square base to the circular dome — became one of the most important architectural forms in history, adopted by Byzantine, Islamic, and Renaissance architects worldwide. Justinian reportedly declared upon its dedication: 'Solomon, I have surpassed you.' The Hagia Sophia served as the cathedral of the Ecumenical Patriarch of Constantinople for nearly 900 years. After the Ottoman conquest of Constantinople in 1453, Sultan Mehmed II converted it to a mosque — adding four minarets — where it remained until Atatürk converted it to a museum in 1934. In 2020, the Turkish government reconverted it to a mosque, a politically charged act that generated international controversy. Its extraordinary mosaics (many hidden under Ottoman plaster for centuries) are among the greatest examples of Byzantine art.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+    "read_more_links": [
+        {
+            "title": "Hagia Sophia architecture dome",
+            "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#Architecture"
+        },
+        {
+            "title": "Hagia Sophia history uses",
+            "url": "https://en.wikipedia.org/wiki/Hagia_Sophia#History"
+        },
+        {
+            "title": "Pendentive architectural form",
+            "url": "https://en.wikipedia.org/wiki/Pendentive"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2._Seraph_angel._13th_century_CE._Ceiling_mosaics%2C_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg/300px-2._Seraph_angel._13th_century_CE._Ceiling_mosaics%2C_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/2._Seraph_angel._13th_century_CE._Ceiling_mosaics%2C_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg",
+            "caption": "Seraph angel. 13th century CE. Ceiling mosaics, Hagia Sophia, Istanbul, Turkey.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/3._Part_of_the_domes_of_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg/300px-3._Part_of_the_domes_of_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/3._Part_of_the_domes_of_Hagia_Sophia%2C_Istanbul%2C_Turkey.jpg",
+            "caption": "Part of the domes of Hagia Sophia, Istanbul, Turkey.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ayasofya_Manzaras%C4%B1.jpg/300px-Ayasofya_Manzaras%C4%B1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Ayasofya_Manzaras%C4%B1.jpg",
+            "caption": "İmparatorlukların kalbi, inancın ve sanatın yüzyıllara meydan okuyan mabedi: ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cat_at_Ayasofya.jpg/300px-Cat_at_Ayasofya.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cat_at_Ayasofya.jpg",
+            "caption": "Gli famous Hagia Sophia cat, 2014.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Isidore of Miletus",
+            "summary": "5th-century Byzantine Greek architect and mathematician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/AT_13763_Roof_figure%2C_Isidor_von_Milet_at_the_Kunsthistorisches_Museum%2C_Vienna-74-Bearbeitet.jpg/250px-AT_13763_Roof_figure%2C_Isidor_von_Milet_at_the_Kunsthistorisches_Museum%2C_Vienna-74-Bearbeitet.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isidore_of_Miletus"
+        },
+        {
+            "name": "Anthemius of Tralles",
+            "summary": "Byzantine architect and mathematician (c. 474 – 533–558)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Anthemius_Trallianus_%E2%80%93_Fragment_d%27un_ouvrage_grec_d%27Anth%C3%A8mius_sur_des_Paradoxes_de_m%C3%A8canique%2C_1777_%E2%80%93_BEIC_4780621.jpg/250px-Anthemius_Trallianus_%E2%80%93_Fragment_d%27un_ouvrage_grec_d%27Anth%C3%A8mius_sur_des_Paradoxes_de_m%C3%A8canique%2C_1777_%E2%80%93_BEIC_4780621.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anthemius_of_Tralles"
+        },
+    ],
+    "territory_geojson": null
+}

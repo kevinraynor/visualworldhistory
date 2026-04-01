@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1302,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d2fc53a9d44af8a245ceb1d16e27a335f373c6c5cc19744fcb7b3f1c82b45b68",
+    "summary": "The Gwion Gwion figures (also known as Bradshaw figures, though Aboriginal communities prefer the name Gwion Gwion) are a distinctive and ancient style of rock art found across the Kimberley region of Western Australia. These paintings depict elongated, graceful human figures with elaborate headdresses, tassels, and ornamentation engaged in what appear to be ceremonial or dance activities. The age of the Gwion Gwion paintings has been debated, but estimates based on the wasps' nests overlying the paintings and other indirect dating methods suggest they were created between approximately 12,000 and 17,000 years ago, placing them potentially within or preceding the period of this era.\n\nThe sophisticated and distinctive style of the Gwion Gwion paintings sets them apart from other Australian rock art traditions, leading to considerable debate about their cultural origins and relationship to present-day Aboriginal artistic traditions of the Kimberley. Some Aboriginal groups consider the Gwion Gwion to represent ancestral figures from the Dreaming, while others regard them as the work of an earlier, now-lost cultural tradition. The paintings provide evidence for the antiquity and sophistication of symbolic art in Australia, part of the broader picture of Aboriginal cultural achievement during the terminal Pleistocene and early Holocene, contemporaneous with similar artistic traditions in [[event:1301|Arnhem Land]] and other parts of the continent.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gwion_Gwion_rock_paintings",
+    "read_more_links": [
+        {
+            "title": "Kimberley Region - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kimberley_(Western_Australia)"
+        },
+        {
+            "title": "Australian Aboriginal Art - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Australian_Aboriginal_art"
+        },
+        {
+            "title": "Prehistoric Australian Rock Art - Britannica",
+            "url": "https://www.britannica.com/art/rock-art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wandjina_rock_art.jpg/300px-Wandjina_rock_art.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wandjina_rock_art.jpg",
+            "caption": "This is a photograph of some Indigenous Australian rock art in the wandjina s...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Drawing_of_Bradshaw_art.jpg/300px-Drawing_of_Bradshaw_art.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Drawing_of_Bradshaw_art.jpg",
+            "caption": "Bradshaw figures superimposed over a kangaroo and snake. Prince Regent River ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bradshaw_rock_paintings.jpg/300px-Bradshaw_rock_paintings.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bradshaw_rock_paintings.jpg",
+            "caption": "Gwion Gwion rock paintings in the Kimberley region of Western Australia, take...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bradshaw_rock_art_traditions.jpg/300px-Bradshaw_rock_art_traditions.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bradshaw_rock_art_traditions.jpg",
+            "caption": "Gwion Gwion rock paintings in the Kimberley region of Western Australia depic...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Rock art",
+            "summary": "Human-made markings on natural stone",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petroglyph_jqjacobs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_art"
+        },
+        {
+            "name": "Superimposition",
+            "summary": "Artistic technique",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cuevamanos4.JPG/250px-Cuevamanos4.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Superimposition"
+        },
+        {
+            "name": "George Grey",
+            "summary": "British soldier, explorer, colonial administrator and writer (1812–1898)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/GeorgeEdwardGrey01.jpg/250px-GeorgeEdwardGrey01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Grey"
+        }
+    ],
+    "territory_geojson": null
+}

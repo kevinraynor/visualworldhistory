@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1725,
+    "parent_id": 1724,
+    "granularity": "notable",
+    "content_hash": "sha256:c6226c31424c585a9e41e367d640c8e91d3b6c20d4e9626e87a83ad816b2f220",
+    "summary": "The Code of Ur-Nammu, composed around 2100–2050 BC by the founder of the [[event:1724|Third Dynasty of Ur]], is the oldest surviving law code in human history, predating the more widely known Code of Hammurabi by approximately three centuries. The code survives in fragmentary form on clay tablets and contains a prologue and a series of legal provisions covering matters such as bodily injury, marriage and divorce, property disputes, and the treatment of slaves and servants. Its existence reveals a sophisticated legal consciousness and a governing philosophy grounded in equity and the protection of the weak.\n\nThe prologue of the code is particularly significant for what it reveals about Mesopotamian political ideology. Ur-Nammu presents himself as an agent of the gods Nanna and Utu (the moon and sun deities respectively) who has been charged with establishing justice and order in the land. He claims to have abolished corruption, standardised weights and measures, and protected widows, orphans, and the poor from the powerful. This framing — the ruler as divinely mandated enforcer of justice — would become a central theme of Near Eastern royal ideology for millennia.\n\nThe legal provisions of the code differ in an important way from later Mesopotamian law codes such as Hammurabi's: most penalties involve monetary compensation rather than physical punishment. While this distinction should not be overstated (the code also prescribes death for murder and robbery), it suggests a legal tradition that in some areas preferred restitution over retribution. The Code of Ur-Nammu thus stands as a foundational document in the history of law and governance, demonstrating that systematic legal thinking emerged in the ancient Near East long before the more famous examples typically cited.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Code_of_Ur-Nammu",
+    "read_more_links": [
+        {
+            "title": "Ur-Nammu",
+            "url": "https://en.wikipedia.org/wiki/Ur-Nammu"
+        },
+        {
+            "title": "Code of Hammurabi",
+            "url": "https://en.wikipedia.org/wiki/Code_of_Hammurabi"
+        },
+        {
+            "title": "History of law",
+            "url": "https://en.wikipedia.org/wiki/History_of_law"
+        },
+        {
+            "title": "Third Dynasty of Ur",
+            "url": "https://en.wikipedia.org/wiki/Third_Dynasty_of_Ur"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sumerian_Cylinder_Seal_of_King_Ur-Nammu.jpg/300px-Sumerian_Cylinder_Seal_of_King_Ur-Nammu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sumerian_Cylinder_Seal_of_King_Ur-Nammu.jpg",
+            "caption": "Sumerian Cylinder Seal of King Ur-Nammu",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ur_Nammu_code_Istanbul.jpg/300px-Ur_Nammu_code_Istanbul.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Ur_Nammu_code_Istanbul.jpg",
+            "caption": "Ur Nammu code Istanbul",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ur-Nammu",
+            "summary": "King of Ur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Ur-Nammu.jpg/250px-King_Ur-Nammu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Nammu"
+        },
+        {
+            "name": "Shulgi",
+            "summary": "21st century BC Sumerian King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Shulgi_seal_%28drawing%29.jpg/250px-Shulgi_seal_%28drawing%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shulgi"
+        },
+        {
+            "name": "Lugal",
+            "summary": "Sumerian term for rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Detail_of_the_Sumerian_statue_of_Lugaldalu.JPG/250px-Detail_of_the_Sumerian_statue_of_Lugaldalu.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lugal"
+        }
+    ],
+    "territory_geojson": null
+}

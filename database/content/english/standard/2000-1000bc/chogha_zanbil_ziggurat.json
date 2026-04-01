@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1851,
+    "parent_id": 1850,
+    "granularity": "detailed",
+    "content_hash": "sha256:561d181f3780b5796af1b27e36014bf6716a0e3e9828073e1cf528cedabb0663",
+    "summary": "Chogha Zanbil is a monumental ziggurat complex located in the Khuzestan province of modern Iran, constructed under the Elamite king Untash-Napirisha around 1250 BC. It was built at a new city founded by the king, called Dur Untash, as a sacred precinct dedicated primarily to the Elamite gods Inshushinak and Napirisha. The ziggurat itself, originally rising in five stages to a height estimated at around 50 meters, remains the best-preserved ancient ziggurat anywhere in the world, with its lower stages still standing to a considerable height.\n\nThe complex represents one of the most significant surviving examples of [[event:1850|Elamite]] architecture and religious practice. Unlike Mesopotamian ziggurats, which had temples only at the summit, Chogha Zanbil had temples integrated within the structure at multiple levels, reflecting distinctively Elamite ritual concepts. The surrounding precinct contained additional temples to minor Elamite deities, royal tombs, and a palatial area, indicating that Dur Untash was intended as a major religious and political center. However, the city appears never to have been fully inhabited and was sacked by the Assyrian king Ashurbanipal around 640 BC.\n\nChogha Zanbil was designated a UNESCO World Heritage Site in 1979, the first site in Iran to receive this designation. Its exceptional state of preservation relative to other Bronze Age Near Eastern monuments makes it an invaluable resource for understanding Elamite religion, architecture, and material culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chogha_Zanbil",
+    "read_more_links": [
+        {
+            "title": "Chogha Zanbil - Britannica",
+            "url": "https://www.britannica.com/place/Chogha-Zanbil"
+        },
+        {
+            "title": "Ziggurat",
+            "url": "https://en.wikipedia.org/wiki/Ziggurat"
+        },
+        {
+            "title": "Elamite Religion",
+            "url": "https://en.wikipedia.org/wiki/Elamite_religion"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hezar_darb.jpg/300px-Hezar_darb.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hezar_darb.jpg",
+            "caption": "This is a photo of a monument in Iran identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tchogha_Zanbil.jpg/300px-Tchogha_Zanbil.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tchogha_Zanbil.jpg",
+            "caption": "Panoramic view of Dur Untash Napirisha, the elamite ziggurat of Tchogha zanbi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rostam_castle_1393.jpg/300px-Rostam_castle_1393.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rostam_castle_1393.jpg",
+            "caption": "This is a photo of a monument in Iran identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/West_Asia_non_political_with_water_system.jpg/300px-West_Asia_non_political_with_water_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/West_Asia_non_political_with_water_system.jpg",
+            "caption": "West Asia non political with water system",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Untash-Napirisha",
+            "summary": "King of Elam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Axe_Sb_3973.jpg/250px-Axe_Sb_3973.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Untash-Napirisha"
+        },
+        {
+            "name": "Ashurbanipal",
+            "summary": "Assyrian ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AshurbanipalKingOfAssyria.jpg/250px-AshurbanipalKingOfAssyria.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashurbanipal"
+        },
+        {
+            "name": "Step pyramid",
+            "summary": "Architectural structure that uses flat platforms or steps to form geometric pyramid",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg/250px-Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Step_pyramid"
+        },
+        {
+            "name": "Iranian architecture",
+            "summary": "Architectural styles associated with Iran and nearby regions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Azadi_Tower_%2829358497718%29.jpg/250px-Azadi_Tower_%2829358497718%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Iranian_architecture"
+        }
+    ],
+    "territory_geojson": null
+}

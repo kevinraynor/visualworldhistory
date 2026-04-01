@@ -1,0 +1,67 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1030,
+    "parent_id": 1027,
+    "granularity": "detailed",
+    "content_hash": "sha256:45b4dab47047ef0bd122bc350a4237ff50282802af20b0f1376fc11c69e920db",
+    "summary": "The League of Corinth (337–322 BC) was a Panhellenic alliance organized by [[event:1028|Philip II of Macedon]] after his victory at [[event:1029|Battle of Chaeronea]], providing a formal political framework for Macedonian leadership over the Greek world. The league ostensibly allowed Greek cities autonomy in domestic affairs while committing them to a common foreign policy under Macedonian hegemony, pledging to maintain existing governments and resolve disputes through arbitration rather than war.\n\nPhilip used the league to legitimize and organize what was in practice Macedonian dominance: the league declared war on Persia, giving a Panhellenic veneer to what was fundamentally a Macedonian conquest. When Philip was assassinated in 336 BC, Alexander rapidly confirmed his position as hegemon of the league and used it to assemble the expeditionary force for the Persian campaign. The league's usefulness was primarily in providing Greek manpower and ships for the invasion without the need for direct coercion. As [[event:75|Alexander the Great's Empire]] expanded far beyond Greece, the league became less relevant; it was eventually dissolved by Antipater in 322 BC after suppressing the Greek revolt that followed Alexander's death.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/League_of_Corinth",
+    "read_more_links": [
+        {
+            "title": "Philip II of Macedon",
+            "url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "title": "Alexander the Great",
+            "url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "title": "Lamian War",
+            "url": "https://en.wikipedia.org/wiki/Lamian_War"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Philip II of Macedon",
+            "summary": "King of Macedon from 359 to 336 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/250px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Demetrius I Poliorcetes",
+            "summary": "King of Macedon (294–288 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Demetrios_Poliorketes_MAN_Napoli_Inv6149.jpg/250px-Demetrios_Poliorketes_MAN_Napoli_Inv6149.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Demetrius_I_Poliorcetes"
+        },
+        {
+            "name": "Antigonus III Doson",
+            "summary": "King of Macedon from 229 to 221 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Antigonus_Doson.jpg/250px-Antigonus_Doson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antigonus_III_Doson"
+        },
+        {
+            "name": "Strategos",
+            "summary": "Greek military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Greek_strategist_Pio-Clementino_Inv306.jpg/250px-Greek_strategist_Pio-Clementino_Inv306.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strategos"
+        },
+        {
+            "name": "Isocrates",
+            "summary": "Greek rhetorician and writer (436–338 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Isocrates_pushkin.jpg/250px-Isocrates_pushkin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isocrates"
+        }
+    ],
+    "territory_geojson": null
+}

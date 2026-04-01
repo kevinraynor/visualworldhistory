@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2198,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e7d2e682598c28b75c1553fa57cdb306c33a9c960d8230469f62fe830fa2b42a",
+    "summary": "Beowulf (composed c. 700–1000 AD, surviving in a single manuscript c. 1000 AD) is the oldest surviving major work of English literature — a 3,182-line Old English (Anglo-Saxon) epic poem telling the story of the Geatish hero Beowulf's battles against the monster Grendel, Grendel's mother, and a dragon, set in the world of 6th-century Scandinavian Germanic warrior culture. The poem is simultaneously a heroic narrative celebrating warrior values (loyalty, courage, generosity) and an elegy for a passing way of life — the final dragon fight ends with Beowulf's death, leaving his people defenseless, and the poem ends with his funeral and premonitions of doom.\n\nBeowulf is remarkable for the light it casts on early Germanic culture: the mead-hall as the center of social life (Heorot, Hrothgar's hall), the gift economy of lord-warrior relationships, the ethos of wyrd (fate) and the weight of time, and the tension between pagan heroic values and the Christian framework within which the poem was preserved. The poem exists in a single manuscript, the Nowell Codex (now in the British Library), which barely survived a fire in 1731. Its scholarly rediscovery and publication in the early 19th century transformed understanding of early English literature; J.R.R. Tolkien's 1936 essay 'Beowulf: The Monsters and the Critics' revolutionized scholarly appreciation of the poem as a work of art rather than merely a historical document. Seamus Heaney's 1999 translation introduced the poem to a new generation of readers.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beowulf",
+    "read_more_links": [
+        {
+            "title": "Beowulf Nowell Codex manuscript",
+            "url": "https://en.wikipedia.org/wiki/Beowulf#Manuscript"
+        },
+        {
+            "title": "Tolkien Beowulf essay 1936",
+            "url": "https://en.wikipedia.org/wiki/Beowulf:_The_Monsters_and_the_Critics"
+        },
+        {
+            "title": "Old English poetry tradition",
+            "url": "https://en.wikipedia.org/wiki/Old_English_poetry"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg/300px-Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg",
+            "caption": "The first folio of the heroic epic poem Beowulf, written primarily in the Wes...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BLBeowulf.jpg/300px-BLBeowulf.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/BLBeowulf.jpg",
+            "caption": "Beowulf, British Library",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Beowulf_death.png/300px-Beowulf_death.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Beowulf_death.png",
+            "caption": "Death of Beowulf",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/A_minstrel_sings_of_famous_deeds_by_J._R._Skelton_c_1910.jpg/300px-A_minstrel_sings_of_famous_deeds_by_J._R._Skelton_c_1910.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/A_minstrel_sings_of_famous_deeds_by_J._R._Skelton_c_1910.jpg",
+            "caption": "Minstrel singing of the famous deeds of heroes. Illustration from English Lit...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hygelac",
+            "summary": "Legendary king of Geats",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bataille_entre_Francs_et_Danois_en_515.jpg/250px-Bataille_entre_Francs_et_Danois_en_515.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hygelac"
+        },
+        {
+            "name": "Hrothgar",
+            "summary": "Legendary Danish king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wealhtheow.PNG/250px-Wealhtheow.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hrothgar"
+        },
+        {
+            "name": "Hrólfr Kraki",
+            "summary": "Semi-legendary Danish king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hrolfr_Kraki_sows_the_seeds_of_the_fyris_wolds.jpg/250px-Hrolfr_Kraki_sows_the_seeds_of_the_fyris_wolds.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hr%C3%B3lfr_Kraki"
+        },
+        {
+            "name": "Germanic heroic legend",
+            "summary": "Heroic literary traditions of the Germanic-speaking peoples",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Siegfrieds_Tod.jpg/250px-Siegfrieds_Tod.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Germanic_heroic_legend"
+        },
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        },
+        {
+            "name": "Virgil",
+            "summary": "1st-century-BC Roman poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/250px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil"
+        }
+    ],
+    "territory_geojson": null
+}

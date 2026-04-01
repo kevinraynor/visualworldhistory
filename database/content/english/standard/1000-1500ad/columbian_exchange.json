@@ -1,0 +1,63 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "2.0",
+    "event_id": 2340,
+    "summary": "The Columbian Exchange was the unprecedented transfer of plants, animals, diseases, people, and culture between the Old World (Eurasia and Africa) and the New World (the Americas) that followed [[event:2288|Columbus's]] voyages from 1492 onward, constituting the most significant ecological event of the past 10,000 years and permanently altering the biosphere, human diet, disease environment, and demographic trajectories of both hemispheres. The exchange was profoundly asymmetric: the New World contributed crops (maize, potatoes, tomatoes, sweet potatoes, cassava, cacao, tobacco, peanuts, squash, peppers, vanilla) that transformed food systems worldwide — the potato alone enabled European population growth that fueled industrialization; maize fed millions in Africa and Asia — while the Old World contributed diseases (smallpox, measles, typhus, influenza, plague) that devastated Native American populations with no prior exposure or immunity.\n\nThe demographic catastrophe of Old World diseases in the Americas was perhaps the most consequential biological event in history: within a century of first European contact, the indigenous population of the Americas fell by an estimated 50–90%, killing tens of millions of people in waves of epidemic disease that preceded European colonizers into territories they had never physically reached. This demographic collapse made European conquest vastly easier than it might otherwise have been, freed enormous territories for European settlement, and — paradoxically — contributed to global cooling (the 'Little Ice Age') as millions of acres of cultivated land reverted to forest, absorbing atmospheric carbon. The Exchange also transferred horses and cattle to the Americas (transforming Plains Indian cultures), and rats, earthworms, and European grasses that reshaped New World ecosystems. The [[event:2341|Atlantic Slave Trade]] was itself partly a consequence of the Columbian Exchange: Old World diseases killed indigenous Caribbean laborers, creating demand for enslaved Africans.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Columbian_exchange",
+    "read_more_links": [
+        {
+            "title": "New World crops potato maize tomato Old World",
+            "url": "https://en.wikipedia.org/wiki/Columbian_exchange#Crops"
+        },
+        {
+            "title": "New World diseases demographic collapse indigenous",
+            "url": "https://en.wikipedia.org/wiki/Native_American_disease_and_epidemics"
+        },
+        {
+            "title": "Alfred Crosby Columbian Exchange ecological imperialism",
+            "url": "https://en.wikipedia.org/wiki/Alfred_W._Crosby"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Smallpox_virus_virions_TEM_PHIL_1849.JPG/300px-Smallpox_virus_virions_TEM_PHIL_1849.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Smallpox_virus_virions_TEM_PHIL_1849.JPG",
+            "caption": "This transmission electron micrograph (TEM) depicts a number of smallpox viru...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Florentine_Codex-_Maize.tif/300px-The_Florentine_Codex-_Maize.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Florentine_Codex-_Maize.tif",
+            "caption": "Image of maize from the Digital Edition of the Florentine Codex created by Ga...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Melissa_Askew_2015-08-08_%28Unsplash%29.jpg/300px-Melissa_Askew_2015-08-08_%28Unsplash%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Melissa_Askew_2015-08-08_%28Unsplash%29.jpg",
+            "caption": "approximately sixty heads of ripe wheat",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07_%28cropped%29.jpg/300px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07_%28cropped%29.jpg",
+            "caption": "A dual breed (beef and milk) cow near Oeschinen Lake, Switzerland at an altit...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        },
+        {
+            "name": "Bernardino de Sahagún",
+            "summary": "16th-century Franciscan friar and missionary in colonial Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bernardino_de_Sahag%C3%BAn_%282%29.jpg/250px-Bernardino_de_Sahag%C3%BAn_%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bernardino_de_Sahag%C3%BAn"
+        }
+    ]
+}

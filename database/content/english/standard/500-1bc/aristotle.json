@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3156,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e4e36bc37822cbfcd172084d734a0df186c670bba4afb02e75f1269194d347a3",
+    "summary": "Aristotle (384–322 BC) was the most systematically comprehensive thinker of the ancient world — a philosopher, scientist, and educator whose surviving works cover logic, metaphysics, ethics, politics, rhetoric, poetics, biology, physics, astronomy, psychology, and more. A student of Plato at the Academy for twenty years, he founded his own school, the Lyceum, in Athens (335 BC), and tutored the young Alexander the Great (343–340 BC) — giving him a direct connection to the man who would transform the world.\n\nAristotle's intellectual range was unmatched: his Organon established formal logic as a discipline; his Nicomachean Ethics defined virtue ethics and the concept of eudaimonia (flourishing) that remains central to moral philosophy; his Politics analyzed constitutions and articulated the vision of humans as political animals; his biological works — the first systematic comparative zoology — described hundreds of animal species through direct observation and dissection. His influence on medieval Islamic philosophy (through translations by Al-Kindi, Al-Farabi, and Avicenna) and then on medieval European scholasticism (through Thomas Aquinas's synthesis of Aristotle with Christian theology) made him 'The Philosopher' — a figure whose authority in university curricula was so dominant that the Scientific Revolution partly defined itself against him. Despite supersession in specific sciences, his logical and ethical frameworks remain foundational.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle",
+    "read_more_links": [
+        {
+            "title": "Aristotle's Lyceum school",
+            "url": "https://en.wikipedia.org/wiki/Lyceum_(classical)"
+        },
+        {
+            "title": "Nicomachean Ethics",
+            "url": "https://en.wikipedia.org/wiki/Nicomachean_Ethics"
+        },
+        {
+            "title": "Aristotle as tutor to Alexander",
+            "url": "https://en.wikipedia.org/wiki/Aristotle#Tutor_of_Alexander"
+        },
+        {
+            "title": "Aristotle's biology works",
+            "url": "https://en.wikipedia.org/wiki/Aristotle%27s_biology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%28Venice%29_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg/300px-%28Venice%29_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%28Venice%29_Aristotele_by_Francesco_Hayez_in_gallerie_Accademia_Venice.jpg",
+            "caption": "Aristotle by Francesco Hayez ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aristotle_by_Jusepe_de_Ribera.jpg/300px-Aristotle_by_Jusepe_de_Ribera.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Aristotle_by_Jusepe_de_Ribera.jpg",
+            "caption": "17th century Spanish painting of Aristotle as beggar philosopher",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Johann_Jakob_Dorner_d_%C3%84_%28attr%29_Aristoteles.jpg/300px-Johann_Jakob_Dorner_d_%C3%84_%28attr%29_Aristoteles.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Johann_Jakob_Dorner_d_%C3%84_%28attr%29_Aristoteles.jpg",
+            "caption": "Aristoteles. Öl auf Leinwand, seitlich links bezeichnet und monogrammiert. 45...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/B%C3%A9nigne_Gagneraux%2C_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg/300px-B%C3%A9nigne_Gagneraux%2C_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/B%C3%A9nigne_Gagneraux%2C_The_Blind_Oedipus_Commending_his_Children_to_the_Gods.jpg",
+            "caption": "The Blind Oedipus Commending his Children to the Gods.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Theophrastus",
+            "summary": "Greek philosopher (c. 371 – c. 287 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Teofrasto_Orto_botanico_detail.jpg/250px-Teofrasto_Orto_botanico_detail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theophrastus"
+        },
+        {
+            "name": "Aristoxenus",
+            "summary": "4th century BC Greek Peripatetic philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Aristosseno.jpg/250px-Aristosseno.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristoxenus"
+        },
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        }
+    ],
+    "territory_geojson": null
+}

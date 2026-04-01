@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2448,
+    "parent_id": 2368,
+    "granularity": "detailed",
+    "content_hash": "sha256:3a5104668cc4951d6ed4a342a80cd25c71eb6144e6f5f72059ed3783b70f5c7d",
+    "summary": "The Third Battle of Panipat (January 14, 1761 AD) was one of the largest battles of the 18th century and a decisive turning point in South Asian history, at which an Afghan Durrani army under Ahmad Shah Durrani decisively defeated the Maratha Confederacy's forces, killing an estimated 40,000–50,000 Maratha warriors and nobles — including most of the Confederacy's senior military leadership — and halting the Maratha domination of northern India, inadvertently opening the door to British expansion. The Marathas had been the dominant power in northern India for decades, effectively collecting tribute from Bengal to Punjab and holding the nominal Mughal emperor as a puppet in Delhi. Their campaign to expel the Afghan Durrani forces from the Punjab brought two equally ambitious powers into direct conflict on the historic battlefield of Panipat.\n\nThe battle was lost for the Marathas through a combination of supply failures (the Maratha army was unable to provision itself in the hostile Punjab, weakening it before the battle) and tactical miscalculation: the Maratha commander Viswasrao was killed early in the fighting, causing a collapse of morale. Ahmad Shah's Afghan cavalry proved superior in the decisive moments. The scale of losses — the Maratha forces lost not only combatants but an entire political generation, as nobles, administrators, and the Peshwa's heir all died — shocked the Confederacy into a period of internal conflict and weakness from which it never fully recovered. The British exploited the power vacuum: within 50 years of Panipat, three Anglo-Maratha wars had dismantled Maratha sovereignty entirely. At Panipat itself, the field where [[event:2380|Babur]] had founded the Mughal Empire 235 years earlier, the last attempt to create a unified Indian successor state to the Mughals was destroyed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Third_Battle_of_Panipat",
+    "read_more_links": [
+        {
+            "title": "Ahmad Shah Durrani Afghan Maratha third Panipat",
+            "url": "https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani"
+        },
+        {
+            "title": "Maratha Confederacy decline after Panipat 1761",
+            "url": "https://en.wikipedia.org/wiki/Maratha_Empire#Decline"
+        },
+        {
+            "title": "Third Panipat consequences British expansion India",
+            "url": "https://en.wikipedia.org/wiki/Third_Battle_of_Panipat#Aftermath"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Plan_of_the_Battle_of_Paniput%2C_1761.jpg/300px-Plan_of_the_Battle_of_Paniput%2C_1761.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Plan_of_the_Battle_of_Paniput%2C_1761.jpg",
+            "caption": "Plan of the Battle of Paniput, 1761.\nA- Paniput, with the Mahratta Camp\nB- Th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Third_battle_of_Panipat_13_January_1761.jpg/300px-The_Third_battle_of_Panipat_13_January_1761.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_Third_battle_of_Panipat_13_January_1761.jpg",
+            "caption": "A circa 1770date QS:P,+1770-00-00T00:00:00Z/9,P1480,Q5727902 Faizabad style d...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mahadaji_Sindhia.jpg/300px-Mahadaji_Sindhia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Mahadaji_Sindhia.jpg",
+            "caption": "Mahadaji Sindhia by James Wales",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France.jpg/300px-Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France.jpg",
+            "caption": "Portrait of Ahmad-Shah Durrani. Mughal miniature. ca. 1757, Bibliothèque nati...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Baroda State",
+            "summary": "Princely state of India (1721–1949)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Baroda_flag.svg/250px-Baroda_flag.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baroda_State"
+        },
+        {
+            "name": "Ahmad Shah Durrani",
+            "summary": "Founder of the Durrani Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France_%28cropped%29.jpg/250px-Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani"
+        },
+        {
+            "name": "Timur Shah Durrani",
+            "summary": "Second Durrani Emperor (r. 1772–1793)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Timur_Shah_Durrani.jpg/250px-Timur_Shah_Durrani.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Timur_Shah_Durrani"
+        },
+        {
+            "name": "Hafiz Rahmat Khan Barech",
+            "summary": "Regent of Rohilkhand from 1749 to 1774",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Third_battle_of_Panipat_13_January_1761.jpg/250px-The_Third_battle_of_Panipat_13_January_1761.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hafiz_Rahmat_Khan_Barech"
+        },
+        {
+            "name": "Saadullah Khan of Rohilkhand",
+            "summary": "Nawab Of Rohilkhand",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Third_battle_of_Panipat_13_January_1761.jpg/250px-The_Third_battle_of_Panipat_13_January_1761.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saadullah_Khan_of_Rohilkhand"
+        },
+        {
+            "name": "Zabita Khan",
+            "summary": "Rohilla chieftain",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zabita_Khan.jpg/250px-Zabita_Khan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zabita_Khan"
+        }
+    ],
+    "territory_geojson": null
+}

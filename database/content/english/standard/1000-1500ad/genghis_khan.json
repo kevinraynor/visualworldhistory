@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2225,
+    "parent_id": 91,
+    "granularity": "major",
+    "content_hash": "sha256:bf7bbedf4de746ef8907e2f2ac61d3ecf7a4d47343deaef7033c6f1ebed2e138",
+    "summary": "Genghis Khan (born Temüjin, c. 1162–1227 AD) was the founder and first Great Khan of the [[event:91|Mongol Empire]], whose unification of the Mongol tribes and subsequent conquests initiated the largest land empire in history and transformed the political, demographic, and cultural landscape of Eurasia in ways that shaped the modern world. Born into a minor noble family, Temüjin spent his early life in near-slavery and poverty after his father's murder, before building a confederation of followers through personal loyalty, military genius, and relentless political maneuvering that culminated in his proclamation as Genghis ('Universal Ruler') Khan at the great assembly (kurultai) of 1206.\n\nGenghis Khan's military system was revolutionary. He abolished the traditional tribal unit as the basis of his army, reorganizing his forces into decimal units (tens, hundreds, thousands, ten-thousands) cutting across tribal lines — creating loyalty to him personally rather than to any chief. He created a meritocratic officer corps where ability, not birth, determined promotion; employed sophisticated combined-arms tactics integrating cavalry, siege engineers, and psychological warfare; and developed intelligence networks and terror as strategic weapons, offering mercy to cities that surrendered and annihilation to those that resisted. The conquests of northern China, Central Asia (including the catastrophic destruction of the [[event:2973|Khwarazmian Empire]]), Persia, and the first raids into Russia and Eastern Europe all occurred under his personal leadership, killed tens of millions, and depopulated entire regions for generations.\n\nGenghis Khan's legacy is fiercely contested. By some measures he was the most destructive conqueror in history — modern DNA studies suggest that perhaps 8% of men in the former Mongol Empire area carry his Y-chromosome lineage, evidence of mass rape alongside mass slaughter. Yet his empire also created the Pax Mongolica, enabling unprecedented Eurasian connectivity and cultural exchange. His legal code (Yasa) established religious tolerance and protection for merchants and ambassadors. He remains a national hero in Mongolia and a symbol of the transformation that steppe nomadic societies could impose on settled civilizations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+    "read_more_links": [
+        {
+            "title": "Genghis Khan early life rise power",
+            "url": "https://en.wikipedia.org/wiki/Genghis_Khan#Early_life"
+        },
+        {
+            "title": "Mongol military organization decimal system",
+            "url": "https://en.wikipedia.org/wiki/Mongol_military_tactics_and_organization"
+        },
+        {
+            "title": "Genghis Khan Yasa law code tolerance",
+            "url": "https://en.wikipedia.org/wiki/Yassa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Fall_Of_Baghdad_%28Diez_Albums%29.jpg/300px-Fall_Of_Baghdad_%28Diez_Albums%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Fall_Of_Baghdad_%28Diez_Albums%29.jpg",
+            "caption": "Fall Of Baghdad (Diez Albums).\nDetail: a leading official's failed attempt to...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tem%C3%BCjin_proclaimed_as_Genghis_Khan_in_1206_Jami%27_al-tawarikh_manuscript.jpg/300px-Tem%C3%BCjin_proclaimed_as_Genghis_Khan_in_1206_Jami%27_al-tawarikh_manuscript.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tem%C3%BCjin_proclaimed_as_Genghis_Khan_in_1206_Jami%27_al-tawarikh_manuscript.jpg",
+            "caption": "Temüjin being proclaimed as Genghis Khan in 1206, as illustrated in a 15th-ce...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ChinggisOdon_GGR51980.jpg/300px-ChinggisOdon_GGR51980.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/ChinggisOdon_GGR51980.jpg",
+            "caption": "“Чингис хаан” тэргүүн зэргийн одонгийн тухай\n“Чингис хаан” одонг 2004 онд Мон...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jame%27_al-Tavarikh_%28Compendium_of_Chronicles%29_manuscript_by_Rashid_al-Din_Fazlullah%2C_Iran%2C_early_15th_century_AD%2C_ink%2C_watercolour%2C_and_gold_on_paper_-_Aga_Khan_Museum_-_Toronto%2C_Canada_-_DSC06735.jpg/300px-Jame%27_al-Tavarikh_%28Compendium_of_Chronicles%29_manuscript_by_Rashid_al-Din_Fazlullah%2C_Iran%2C_early_15th_century_AD%2C_ink%2C_watercolour%2C_and_gold_on_paper_-_Aga_Khan_Museum_-_Toronto%2C_Canada_-_DSC06735.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Jame%27_al-Tavarikh_%28Compendium_of_Chronicles%29_manuscript_by_Rashid_al-Din_Fazlullah%2C_Iran%2C_early_15th_century_AD%2C_ink%2C_watercolour%2C_and_gold_on_paper_-_Aga_Khan_Museum_-_Toronto%2C_Canada_-_DSC06735.jpg",
+            "caption": "Exhibit in the Aga Khan Museum - Toronto, Canada. This work is old enough so ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ögedei Khan",
+            "summary": "Khan of the Mongol Empire from 1229 to 1241",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg/250px-YuanEmperorAlbumOgedeiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan"
+        },
+        {
+            "name": "Jochi",
+            "summary": "Mongol prince and general (c. 1182 – c. 1225)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Juchi_Khan_%28cropped%29.JPG/250px-Juchi_Khan_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jochi"
+        },
+        {
+            "name": "Chagatai Khan",
+            "summary": "Second son of Genghis Khan and Börte (1183–1242)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chagatai_Khan_%28cropped%29.JPG/250px-Chagatai_Khan_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chagatai_Khan"
+        },
+        {
+            "name": "Borjigin",
+            "summary": "Member of Ghengis Khan's Mongol sub-clan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mongol_Empire_c.1207.png/250px-Mongol_Empire_c.1207.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Borjigin"
+        },
+        {
+            "name": "Hö'elün",
+            "summary": "Mother of Temüjin (Genghis Khan) (fl. 1162–1210)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Hoelun_Monument_to_Genghis_Khan%27s_Mother_at_the_Mother_Hoelun_Memorial_Complex_in_Tsonjin_Boldog_02.jpg/250px-The_Hoelun_Monument_to_Genghis_Khan%27s_Mother_at_the_Mother_Hoelun_Memorial_Complex_in_Tsonjin_Boldog_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/H%C3%B6%27el%C3%BCn"
+        },
+        {
+            "name": "Toghrul",
+            "summary": "Mongol chieftain, khan of the Keraites (c. 1130–1203)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/WangKhan.JPG/250px-WangKhan.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Toghrul"
+        }
+    ],
+    "territory_geojson": null
+}

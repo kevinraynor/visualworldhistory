@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1276,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:11119cd65a34493895fada73818d0f3550f22c7fed3560b61d4676582fece35d",
+    "summary": "Lepenski Vir was a Mesolithic and early Neolithic settlement located on the banks of the Danube River in the Iron Gates gorge, on the border of modern Serbia and Romania. Occupied from approximately 9500 to 6200 BCE, the site is remarkable for its well-preserved series of trapezoidal-plan buildings arranged in a planned settlement layout — among the earliest known examples of architecturally organized village planning in Europe.\n\nThe inhabitants of Lepenski Vir were primarily fisher-hunter-gatherers who exploited the exceptionally rich fish resources of the Iron Gates section of the Danube. Sturgeon, catfish, and carp provided a reliable and abundant food source that supported relatively large, sedentary communities without the need for agriculture — a pattern of complex settlement sustained by aquatic rather than agricultural productivity. The site is especially famous for its extraordinary sandstone sculptures: large carved boulders with stylized human and fish features placed in prominent positions within the buildings, representing some of the most sophisticated prehistoric figurative art in Europe.\n\nLepenski Vir occupied an intriguing position in the transition to farming in the Balkans. Genetic and isotopic evidence from skeletal remains shows that the later inhabitants of the site included both indigenous hunter-gatherers and incoming early farmers from Anatolia, with a period of interaction and mixing before the site was eventually abandoned as agricultural communities came to dominate the region. Lepenski Vir stands as a compelling example of how complex, culturally rich societies could develop and persist among European hunter-gatherers before and alongside the spread of Neolithic farming.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lepenski_Vir",
+    "read_more_links": [
+        {
+            "title": "Mesolithic Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/European_Mesolithic"
+        },
+        {
+            "title": "Iron Gates Gorge - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Iron_Gate_(Danube)"
+        },
+        {
+            "title": "Mesolithic Serbia - Britannica",
+            "url": "https://www.britannica.com/place/Serbia/History"
+        },
+        {
+            "title": "Hunter-Gatherer Complex Societies - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Complex_hunter-gatherers"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lepenski_vir_Praroditeljka_%28Foremother%2C_cca_7000_BCE%29.jpg/300px-Lepenski_vir_Praroditeljka_%28Foremother%2C_cca_7000_BCE%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Lepenski_vir_Praroditeljka_%28Foremother%2C_cca_7000_BCE%29.jpg",
+            "caption": "Scupture of a head of \"Foremother\", found at the archaeological site of Lepen...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Reliefkarte_Serbien.png/300px-Reliefkarte_Serbien.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Reliefkarte_Serbien.png",
+            "caption": "Reliefkarte Serbien\nTopographischer Hintergrund: NASA Shuttle Radar Topograph...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lepenski_Vir_%282%29.JPG/300px-Lepenski_Vir_%282%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lepenski_Vir_%282%29.JPG",
+            "caption": "Lepenski Vir",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%D0%9B%D0%B5%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D0%92%D0%B8%D1%80_02.jpg/300px-%D0%9B%D0%B5%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D0%92%D0%B8%D1%80_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/%D0%9B%D0%B5%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D0%92%D0%B8%D1%80_02.jpg",
+            "caption": "This is a photo of Cultural Heritage site of Serbia number АН 45",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tiberius",
+            "summary": "Roman emperor from AD 14 to 37",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg/250px-%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tiberius"
+        },
+        {
+            "name": "Predrag Ristić",
+            "summary": "Serbian architect and professor (1931–2019)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pedja_Ristic.jpg/250px-Pedja_Ristic.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Predrag_Risti%C4%87"
+        }
+    ],
+    "territory_geojson": null
+}

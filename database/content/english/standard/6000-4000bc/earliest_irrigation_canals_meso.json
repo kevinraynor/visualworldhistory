@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1579,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:cf01eb953358c1ffe7c5286f2c10b19591df20cf9dcfa063a89c210d377c1891",
+    "summary": "The development of large-scale irrigation canal systems in Mesopotamia from approximately 5500–4500 BCE was one of the foundational technological achievements enabling the rise of urban civilization in the ancient Near East. Southern Mesopotamia receives minimal annual rainfall — typically less than 200 millimeters — far below the threshold required for rain-fed agriculture. Without systematic irrigation from the Tigris and Euphrates rivers, the alluvial plain would have supported only marginal farming. Yet this same region became the most densely urbanized area in the ancient world, a transformation made possible by the development of canal irrigation infrastructure.\n\nEarly irrigation in Mesopotamia likely began as simple diversion channels redirecting floodwaters onto fields during the annual spring inundation. Over time, these ad hoc diversions evolved into planned canal networks that could move water from rivers to fields throughout the growing season, regardless of flood timing. The logistical and organizational demands of canal construction and maintenance — coordinating labor for digging, clearing sediment, and managing water allocation — were drivers of the administrative and political institutions that characterized Mesopotamian city-states.\n\nThe [[event:34|Mesopotamian city-states]] that emerged during the Uruk period (c. 4000–3100 BCE) were fundamentally hydraulic societies, in the sense that their agricultural productivity and social organization were shaped by the imperatives of managing irrigated farming at scale. Temple institutions maintained records of field allocations, water rights, and harvest outputs. The need to adjudicate disputes over water access and to organize collective labor for canal maintenance created institutional frameworks that were subsequently applied to broader administrative and legal functions.\n\nMesopotamian irrigation technology spread to neighboring regions, including the Susiana plain of southwestern Iran — home to [[event:1575|Susa]] — and eventually influenced agricultural development across the ancient Near East and Central Asia. The water management knowledge accumulated by Mesopotamian communities became embedded in the scribal and administrative traditions transmitted to successor civilizations, contributing to a long-term tradition of hydraulic engineering that extended through the Assyrian, Babylonian, and Achaemenid Persian empires.\n\nThe development of canal irrigation in Mesopotamia illustrates a fundamental dynamic of early civilizational development: the investment of collective labor in landscape transformation to increase agricultural productivity, followed by the creation of administrative institutions to manage that transformed landscape. The irrigation canals of ancient Mesopotamia are among the earliest and most consequential examples of large-scale human modification of the natural environment for agricultural purposes.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irrigation#Mesopotamia",
+    "read_more_links": [
+        {
+            "title": "History of irrigation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Irrigation#History"
+        },
+        {
+            "title": "Mesopotamian agriculture - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-Mesopotamia/Agriculture"
+        },
+        {
+            "title": "Water management in ancient Mesopotamia - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/790/irrigation-in-ancient-mesopotamia/"
+        },
+        {
+            "title": "Hydraulic civilization - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hydraulic_civilization"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bisse.jpg/300px-Bisse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bisse.jpg",
+            "caption": "Bisse d'Ayent, a notable example of bisse (or suone) in Valais, still in func...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Crop_sprinklers_Rio_Vista_California_15_Jul_2004-002.jpg/300px-Crop_sprinklers_Rio_Vista_California_15_Jul_2004-002.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Crop_sprinklers_Rio_Vista_California_15_Jul_2004-002.jpg",
+            "caption": "Aerial view of crop sprinklers near Rio Vista, California in the Sacramento-S...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fields_SW_from_Sevilla.jpg/300px-Fields_SW_from_Sevilla.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fields_SW_from_Sevilla.jpg",
+            "caption": "Fields SW from Sevilla.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sprinkler_Irrigation_-_Sprinkler_head.JPG/300px-Sprinkler_Irrigation_-_Sprinkler_head.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sprinkler_Irrigation_-_Sprinkler_head.JPG",
+            "caption": "Micro-sprinkler used for irrigation.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

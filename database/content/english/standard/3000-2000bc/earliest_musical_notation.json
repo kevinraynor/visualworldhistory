@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1786,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:30868f9906e388cb8b30260b56ea69d195780c0ce4a1f84eaac12ded3fc45627",
+    "summary": "The earliest evidence for musical notation and organised musical culture in Mesopotamia dates to approximately 2600–2400 BC, when cuneiform tablets from ancient Sumer include references to musical instruments, tuning systems, and the organisation of temple music. The physical evidence includes the exquisite lyres and harps discovered in the [[event:1727|Royal Cemetery of Ur]], decorated with gold bull's heads and inlaid with lapis lazuli, which were apparently played at royal feasts and funerary ceremonies.\n\nSumerian texts of this period name specific musical instruments, describe performance contexts, and contain what appear to be instructions related to musical tuning or arrangement. While these earliest references fall short of the detailed pitch-notation systems that would emerge in Mesopotamia in the second millennium BC (the Hurrian hymns around 1400 BC represent the earliest fully notated musical piece), they establish the beginnings of a written musical tradition in the ancient Near East.\n\nThe musical culture of ancient Mesopotamia was closely tied to temple ritual, royal ceremony, and elite entertainment. Professional musicians held formal positions in temple institutions, and temple liturgies included elaborate musical components. Instruments mentioned in early Sumerian sources include lyres (gis-za-mí), harps, drums, and wind instruments. The existence of named genres, performance traditions, and eventually notation reflects the extent to which music was treated as a structured, teachable, and culturally significant art form at the very beginning of literate civilisation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Music_of_Mesopotamia",
+    "read_more_links": [
+        {
+            "title": "Hurrian hymns – Earliest Notated Music",
+            "url": "https://en.wikipedia.org/wiki/Hurrian_hymns"
+        },
+        {
+            "title": "Lyre of Ur",
+            "url": "https://en.wikipedia.org/wiki/Lyres_of_Ur"
+        },
+        {
+            "title": "History of music",
+            "url": "https://en.wikipedia.org/wiki/History_of_music"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/The_Queen%27s_gold_lyre_from_the_Royal_Cemetery_at_Ur._C._2500_BCE._Iraq_Museum.jpg/300px-The_Queen%27s_gold_lyre_from_the_Royal_Cemetery_at_Ur._C._2500_BCE._Iraq_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Queen%27s_gold_lyre_from_the_Royal_Cemetery_at_Ur._C._2500_BCE._Iraq_Museum.jpg",
+            "caption": "Detail, the Queen's gold lyre from the Royal Cemetery at Ur. Early Dynastic p...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bas_relief_Ninive_musiciens_AO_19908.jpg/300px-Bas_relief_Ninive_musiciens_AO_19908.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bas_relief_Ninive_musiciens_AO_19908.jpg",
+            "caption": "Musicians of the Assyrian army. Around 645 BC. From Nineveh, Ashurbanipal pal...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/God_Ea%2C_also_Enki%2C_holding_a_cup_with_overflowing_water._From_Iraq._Pergamon_Museum.jpg/300px-God_Ea%2C_also_Enki%2C_holding_a_cup_with_overflowing_water._From_Iraq._Pergamon_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/God_Ea%2C_also_Enki%2C_holding_a_cup_with_overflowing_water._From_Iraq._Pergamon_Museum.jpg",
+            "caption": "Male deity wears a horned helmet and holds a cup from which water overflows; ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ur_lyre.jpg/300px-Ur_lyre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ur_lyre.jpg",
+            "caption": "Ur lyre",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Musical instrument",
+            "summary": "Device for making musical sounds",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Historical_instruments.jpg/250px-Historical_instruments.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Musical_instrument"
+        },
+        {
+            "name": "Stylus",
+            "summary": "Writing utensil or small tool for marking or shaping",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Table_with_was_and_stylus_Roman_times.jpg/250px-Table_with_was_and_stylus_Roman_times.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stylus"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

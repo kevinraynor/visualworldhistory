@@ -1,0 +1,87 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "2.0",
+    "event_id": 2701,
+    "summary": "Albert Einstein published his special theory of relativity in 1905 and his general theory of relativity in 1915, together constituting one of the most revolutionary intellectual achievements in human history. The special theory upended Newtonian mechanics by demonstrating that the laws of physics are the same for all non-accelerating observers and that the speed of light in a vacuum is constant regardless of the motion of the source or observer. From these two postulates, Einstein derived consequences that defied intuition: that time passes at different rates for observers in relative motion (time dilation), that moving objects contract in length, and that mass and energy are equivalent, expressed in the famous equation E=mc².\n\nThe general theory extended these principles to accelerating reference frames and gravitation. Einstein proposed that massive objects warp the fabric of spacetime, and that what we experience as gravitational attraction is actually the curvature of spacetime around massive bodies. This reconceptualization replaced Newton's instantaneous action-at-a-distance gravity with a geometric theory of spacetime curvature.\n\nThe theories were confirmed through several landmark observations. Arthur Eddington's 1919 measurements of light bending around the sun during a solar eclipse provided the first experimental confirmation of general relativity and made Einstein an international celebrity overnight. Subsequent confirmations have included the precession of Mercury's orbit, gravitational redshift, and most spectacularly the 2015 detection of gravitational waves by the LIGO collaboration.\n\nThe practical consequences of relativity permeate modern life. GPS satellites must account for relativistic time dilation to provide accurate positioning. Nuclear power and weapons derive from the mass-energy equivalence expressed in E=mc². Particle accelerators routinely operate in regimes where relativistic effects are essential to their design. Cosmology and our understanding of the universe's large-scale structure rest on general relativity.\n\nEinstein's theories also triggered profound philosophical debates about the nature of time, space, causality, and determinism that continue among physicists and philosophers to the present day. The development of quantum mechanics in subsequent decades created a framework that, while extraordinarily successful, remains fundamentally incompatible with general relativity, making the search for a unified theory of quantum gravity one of the central unsolved problems in physics.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+    "read_more_links": [
+        {
+            "title": "Special theory of relativity - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/science/special-relativity"
+        },
+        {
+            "title": "General theory of relativity - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/science/general-relativity"
+        },
+        {
+            "title": "Einstein's Miracle Year Papers - American Physical Society",
+            "url": "https://www.aps.org/publications/apsnews/200512/history.cfm"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einstein_Portrait.png/300px-Einstein_Portrait.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Einstein_Portrait.png",
+            "caption": "Albert Einstein, physicist, 1879 - 1955",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/300px-Earth-moon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg",
+            "caption": "This view of the rising Earth greeted the Apollo 8 astronauts as they came fr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Albert Einstein",
+            "summary": "German-born theoretical physicist (1879–1955)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/250px-Albert_Einstein_Head_cleaned.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+        },
+        {
+            "name": "Albert A. Michelson",
+            "summary": "American experimental physicist (1852–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Albert_Abraham_Michelson2.jpg/250px-Albert_Abraham_Michelson2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_A._Michelson"
+        },
+        {
+            "name": "Hendrik Lorentz",
+            "summary": "Dutch theoretical physicist (1853–1928)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg/250px-Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hendrik_Lorentz"
+        },
+        {
+            "name": "Henri Poincaré",
+            "summary": "French mathematician, physicist and engineer (1854–1912)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PSM_V82_D416_Henri_Poincare.png/250px-PSM_V82_D416_Henri_Poincare.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9"
+        },
+        {
+            "name": "Max Planck",
+            "summary": "German theoretical physicist (1858–1947)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/250px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Planck"
+        },
+        {
+            "name": "Hermann Minkowski",
+            "summary": "German mathematician and physicist (1864–1909)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/De_Raum_zeit_Minkowski_Bild_%28cropped%29.jpg/250px-De_Raum_zeit_Minkowski_Bild_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermann_Minkowski"
+        }
+    ]
+}

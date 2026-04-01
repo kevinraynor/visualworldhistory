@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2777,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2b9c02aee07c88e8e98ff66622275a1c010d7282039b91a76b547050be22d870",
+    "summary": "The Year 2000 problem, widely known as the Y2K bug or Millennium Bug, was a class of computer programming vulnerabilities related to the representation of dates. Early software developers, seeking to conserve storage, had stored four-digit years using only the last two digits — representing 1975 as 75 and 1985 as 85 — assuming the century prefix of 19 was implied. As the year 2000 approached, it became apparent that computers using this convention might interpret the year 2000 as 1900, potentially causing errors in date calculations affecting financial systems, utilities, aviation, and countless other systems.\n\nThe problem prompted an enormous and expensive global remediation effort throughout the late 1990s. Businesses, governments, and militaries worldwide audited and updated software systems at estimated total costs of between $300 billion and $600 billion. Programmers and analysts worked for years to identify and fix or replace affected code. Stockpiling of food and essential goods by citizens fearing infrastructure collapse was reported in some countries.\n\nWhen January 1, 2000, arrived, the anticipated catastrophe did not occur. Most critical systems functioned normally, and the failures that did occur were minor and quickly corrected. The smooth transition was widely attributed to the preparatory work that had been done, though some critics argued the problem had been significantly overstated. The Y2K episode remains a case study in managing systemic technological risk, collective action in response to potential infrastructure failure, and the dynamics of media-amplified public concern.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Year_2000_problem",
+    "read_more_links": [
+        {
+            "title": "Y2K Bug - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/Y2K-bug"
+        },
+        {
+            "title": "Y2K Preparations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Year_2000_problem#Preparations_and_responses"
+        },
+        {
+            "title": "Y2K Aftermath - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Year_2000_problem#Aftermath"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

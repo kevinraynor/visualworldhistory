@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2418,
+    "parent_id": 2336,
+    "granularity": "notable",
+    "content_hash": "sha256:89f9b69c02844ab4f4aea7087819ae4847b556aa1b05571d1819e7bc024edf26",
+    "summary": "Sakoku ('closed country') was the [[event:2336|Tokugawa Shogunate's]] policy of isolation from most foreign contact, implemented through a series of edicts from 1633 to 1639 and maintained for over two centuries, which expelled most European traders and missionaries, prohibited Japanese subjects from traveling abroad or returning from overseas, and restricted foreign trade to designated ports — creating an inward-looking civilization that developed in relative isolation from the global changes transforming the outside world. The policy developed in response to specific perceived threats: the [[event:2417|Shimabara Rebellion]] demonstrated the perceived danger of Christianity; the growing influence of Portuguese missionaries and traders raised fears of foreign political interference; and the Tokugawa regime's priority was internal stability, for which foreign contacts represented unpredictable variables.\n\nUnder Sakoku, Europeans were excluded except for the Dutch (who had demonstrated commercial rather than proselytizing motives): the VOC was confined to the artificial island of Dejima in Nagasaki harbor, where Dutch traders lived under strict supervision and were permitted to send one ship annually. Chinese merchants were allowed in a separate Nagasaki quarter. The Ryukyu Kingdom and Korea served as additional, officially supervised conduits for information about the outside world. The policy successfully preserved Tokugawa political control but at significant cost: when Commodore Perry's steam-powered warships arrived in Tokyo Bay in 1853 demanding trade, Japan's military technology had fallen catastrophically behind the industrializing West — a gap visible in a way that would have been incomprehensible in 1639. The shock of this technological gap drove the rapid Meiji Restoration (1868) and Japan's extraordinary modernization program, which compressed what had taken Europe centuries into four decades.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sakoku",
+    "read_more_links": [
+        {
+            "title": "Dejima Nagasaki Dutch VOC trade Japan restricted",
+            "url": "https://en.wikipedia.org/wiki/Dejima"
+        },
+        {
+            "title": "Perry Black Ships 1853 Japan isolation end",
+            "url": "https://en.wikipedia.org/wiki/Convention_of_Kanagawa"
+        },
+        {
+            "title": "Sakoku edicts 1633-1639 Japan isolation policy",
+            "url": "https://en.wikipedia.org/wiki/Sakoku#Sakoku_edicts"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/DejimaInNagasakiBay.jpg/300px-DejimaInNagasakiBay.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/DejimaInNagasakiBay.jpg",
+            "caption": "Painting of Japanese and Dutch trade on Dejima (in Nagasaki). The view includ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Napoleon_on_St_Helena_Japanese_woodcut.jpg/300px-Napoleon_on_St_Helena_Japanese_woodcut.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Napoleon_on_St_Helena_Japanese_woodcut.jpg",
+            "caption": "Early 19th century Japanese woodcut of Napoleon on St Helena",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Naval_expedition_to_Japan_under_Commodore_M._C._Perry.jpg/300px-Naval_expedition_to_Japan_under_Commodore_M._C._Perry.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Naval_expedition_to_Japan_under_Commodore_M._C._Perry.jpg",
+            "caption": "Naval expedition to Japan under Commodore M. C. Perry",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Taketomi_kusukumui.jpg/300px-Taketomi_kusukumui.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Taketomi_kusukumui.jpg",
+            "caption": "Kusukumui, Taketomi Island, Okinawa, Japan",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tokugawa Iemitsu",
+            "summary": "Japanese Samurai, Daimyo and Military leader of Japan from 1623 to 1651",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Iemitu.jpg/250px-Iemitu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Iemitsu"
+        },
+        {
+            "name": "Toyotomi Hideyoshi",
+            "summary": "Military ruler of Japan from 1585 to 1598",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png/250px-Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi"
+        },
+        {
+            "name": "Tozama daimyō",
+            "summary": "Class of daimyō (warlords) considered outsiders by the rulers of feudal Japan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Matsumae-Takahiro-1864.jpg/250px-Matsumae-Takahiro-1864.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tozama_daimy%C5%8D"
+        },
+        {
+            "name": "Tokugawa Hidetada",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1605 to 1623",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hidetada2.jpg/250px-Hidetada2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Hidetada"
+        },
+        {
+            "name": "Tokugawa Ieyasu",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1603 to 1605",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tokugawa_Ieyasu2.JPG/250px-Tokugawa_Ieyasu2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+        },
+        {
+            "name": "Empress Meishō",
+            "summary": "Emperor of Japan from 1629 to 1643",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Meisho_of_Japan.jpg/250px-Meisho_of_Japan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empress_Meish%C5%8D"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1370,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5f6856abf4e69f9e6dd75452807f6c7cc1a24d11de1465108428d0f0f866e9f8",
+    "summary": "Tell Halula is a large Neolithic and later prehistoric site on the upper Euphrates River in the Raqqa Governorate of Syria, with occupation beginning in the early Neolithic period and continuing into the Chalcolithic era. The site's early Neolithic levels date to approximately 7800–7000 BCE, placing them in the [[event:18|Pre-Pottery Neolithic B]] to early ceramic Neolithic transition — a period somewhat later than the primary era focus but with earlier antecedents.\n\nTell Halula is one of the largest known PPNB villages in the northern Levant, with a complex architectural sequence of rectangular mud-brick buildings arranged in blocks along shared walls. Its scale and planning suggest a well-organized community with substantial population and social complexity. The site has yielded evidence for the cultivation of emmer wheat, einkorn, lentils, and other crops alongside the herding of cattle, sheep, and goats. Tell Halula is important for understanding the large, complex farming villages that developed in the northern Levant and upper Euphrates region during the later PPNB period, representing a stage of social development between the small early Neolithic villages and the true proto-urban communities of the subsequent Chalcolithic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tell_Halula",
+    "read_more_links": [
+        {
+            "title": "Pre-Pottery Neolithic B - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_B"
+        },
+        {
+            "title": "Upper Euphrates Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Euphrates"
+        },
+        {
+            "title": "Syria Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Syria/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Raqqa Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Raqqa_Governorate_emblem.png/250px-Raqqa_Governorate_emblem.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raqqa_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

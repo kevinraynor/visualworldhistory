@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1233,
+    "parent_id": 1040,
+    "granularity": "detailed",
+    "content_hash": "sha256:34acadfbe117c6bc823671f167878e64c3b4ab4c2efaad07334cdbb0dc2b980c",
+    "summary": "The Ptolemaic dynasty (305–30 BC) made Alexandria, Egypt the intellectual capital of the Hellenistic world through deliberate royal patronage of scholarship. The Ptolemies founded or funded the Mouseion (the institution from which the word 'museum' derives) and the Great Library of Alexandria, which aimed to collect all the world's texts. Ptolemy I and II attracted leading scholars — Euclid, Archimedes (visiting), Eratosthenes, Callimachus, and Apollonius of Rhodes among them — transforming Alexandria into an unparalleled center of mathematics, astronomy, medicine, geography, and literary scholarship.\n\nAlexandrian science under Ptolemaic patronage achieved lasting results: [[event:1198|Euclid's Elements]] systematized geometry; [[event:1199|Eratosthenes Measures Earth]] produced an accurate measurement of Earth's circumference; [[event:1200|Aristarchus Heliocentric Model]] proposed heliocentrism; and Herophilus and Erasistratus conducted the first systematic human dissections, founding scientific anatomy. The Library's collection was used for critical textual scholarship — editors like Aristarchus of Samothrace produced standardized texts of Homer. This concentration of learning in a single institution under royal support was unprecedented and briefly concentrated more of the ancient world's written knowledge in one place than had ever existed before.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+    "read_more_links": [
+        {
+            "title": "Library of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria"
+        },
+        {
+            "title": "Mouseion of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Musaeum"
+        },
+        {
+            "title": "Herophilus anatomy",
+            "url": "https://en.wikipedia.org/wiki/Herophilus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kom_Ombo_Tempel_10.jpg/300px-Kom_Ombo_Tempel_10.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Kom_Ombo_Tempel_10.jpg",
+            "caption": "Relief im Tempel von Kom Ombo, Ägypten",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dendera_Tempel_Kleopatra_C%C3%A4sarion_04.jpg/300px-Dendera_Tempel_Kleopatra_C%C3%A4sarion_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dendera_Tempel_Kleopatra_C%C3%A4sarion_04.jpg",
+            "caption": "Relief mit Kleopatra VII. und ihrem Sohn Cäsarion an der Südseite des Hathor-...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ptolemaic_and_Roman_Egypt.jpg/300px-Ptolemaic_and_Roman_Egypt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ptolemaic_and_Roman_Egypt.jpg",
+            "caption": "Egypt. (Map of the Historical Atlas of Gustav Droysen, 1886)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/-0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG/300px--0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/-0035_Altes_Museum_Portrait_Kleopatra_VII_anagoria.JPG",
+            "caption": "Altes Museum\n  \n\n\n\n\n\nNative name\nAltes Museum\n\nParent institution\nStaatliche ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy I Soter",
+            "summary": "Pharaoh of Egypt from 305 to 282 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ptolemy_I_Soter_Louvre_Ma849_A.jpg/250px-Ptolemy_I_Soter_Louvre_Ma849_A.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+        },
+        {
+            "name": "Cleopatra",
+            "summary": "Pharaoh of Egypt from 51 to 30 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/250px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Death of Alexander the Great",
+            "summary": "Death of the Macedonian king in 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dying_Alexander.jpg/250px-Dying_Alexander.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        }
+    ],
+    "territory_geojson": null
+}

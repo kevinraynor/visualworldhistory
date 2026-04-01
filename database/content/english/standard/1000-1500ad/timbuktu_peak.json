@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2257,
+    "parent_id": 93,
+    "granularity": "notable",
+    "content_hash": "sha256:fc40107cb7135caf0e88574c2f094e45c70e776131df732c95f0ed23ad3eeee7",
+    "summary": "Timbuktu at its peak (c. 1400–1591 AD) was one of the most important cities in the medieval world — a major center of Islamic scholarship, trans-Saharan commerce, and cultural life that belies the modern Western use of 'Timbuktu' as a synonym for remoteness. Located at the junction of the Niger River and the Saharan trade routes in modern Mali, the city flourished first under the [[event:93|Mali Empire]] and then under the [[event:2259|Songhai Empire]], becoming the meeting point where gold and slaves from sub-Saharan Africa were exchanged for salt, copper, and luxury goods from North Africa and the Mediterranean world.\n\nAt its height in the late 15th to early 16th centuries, Timbuktu housed an estimated 100,000 inhabitants and three major universities — the Sankore Mosque, the Djinguereber Mosque (built by [[event:2256|Mansa Musa's]] architect al-Sahili), and the Sidi Yahia Mosque — collectively enrolling perhaps 25,000 students in Islamic theology, law, mathematics, astronomy, history, and literature. The city's private scholars accumulated libraries of hundreds of thousands of manuscripts — the 'Timbuktu Manuscripts' tradition — of which perhaps 700,000 survive in various states of preservation in modern Timbuktu's libraries and private homes. Timbuktu's golden age ended abruptly with the Moroccan invasion of 1591 under Sultan Ahmad al-Mansur, whose army crossed the Sahara with firearms and defeated the Songhai cavalry, sacking the city and deporting its leading scholars to Marrakech. The city never recovered its former prominence.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Timbuktu",
+    "read_more_links": [
+        {
+            "title": "Timbuktu manuscripts Islamic scholarship",
+            "url": "https://en.wikipedia.org/wiki/Timbuktu_manuscripts"
+        },
+        {
+            "title": "Sankore University Timbuktu Islamic learning",
+            "url": "https://en.wikipedia.org/wiki/Sankore_Madrasah"
+        },
+        {
+            "title": "Moroccan invasion 1591 Songhai collapse",
+            "url": "https://en.wikipedia.org/wiki/Moroccan_invasion_of_the_Songhai_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ASC_Leiden_-_van_Achterberg_Collection_-_04_-_61_-_Le_Touareg_Mohamed_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/300px-ASC_Leiden_-_van_Achterberg_Collection_-_04_-_61_-_Le_Touareg_Mohamed_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/ASC_Leiden_-_van_Achterberg_Collection_-_04_-_61_-_Le_Touareg_Mohamed_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+            "caption": "The Tuareg Mohamed is standing in a striped robe with a large white headscarf...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Timbuktu-139086.jpg/300px-Timbuktu-139086.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Timbuktu-139086.jpg",
+            "caption": "Reconstruction of the Ben Essayouti Library, Timbuktu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 igo"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Timbuktu-139085.jpg/300px-Timbuktu-139085.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Timbuktu-139085.jpg",
+            "caption": "Manuscripts of the Ahmed Baba Centre, Timbuktu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 igo"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Timbuktu_market_women_sellers.jpg/300px-Timbuktu_market_women_sellers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Timbuktu_market_women_sellers.jpg",
+            "caption": "This is an image of \"African people at work\" from",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mansa Musa",
+            "summary": "Ruler of Mali from c. 1312 to c. 1337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/250px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mansa_Musa"
+        },
+        {
+            "name": "Leo Africanus",
+            "summary": "Maghrebi author (c. 1494-c. 1554)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sebastiano_del_Piombo_Portrait_of_a_Humanist.jpg/250px-Sebastiano_del_Piombo_Portrait_of_a_Humanist.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_Africanus"
+        },
+        {
+            "name": "René Caillié",
+            "summary": "French explorer (1799–1838)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ren%C3%A9_Cailli%C3%A9.jpg/250px-Ren%C3%A9_Cailli%C3%A9.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9"
+        },
+        {
+            "name": "Heinrich Barth",
+            "summary": "German explorer (1821–1865)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Barth_Unterschrift.jpg/250px-Barth_Unterschrift.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Barth"
+        },
+        {
+            "name": "Scientific consensus",
+            "summary": "Collective judgment, position, and opinion of the community of scientists",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Climate_science_opinion_graph_3.svg/250px-Climate_science_opinion_graph_3.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scientific_consensus"
+        }
+    ],
+    "territory_geojson": null
+}

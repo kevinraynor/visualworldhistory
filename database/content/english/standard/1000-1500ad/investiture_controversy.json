@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3007,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3cc5b7b4e81739b6ce038ece9bb4293d05ae44d61b2a52109fbeaf4463d0f996",
+    "summary": "The Investiture Controversy (1076–1122 AD) was the most significant political-religious conflict of the medieval period, a half-century struggle between the papacy and the Holy Roman Empire over the right to appoint (invest) church officials — bishops and abbots who held enormous political and economic power as lords of territories granted by kings who used them as administrators. The controversy crystallized around Pope Gregory VII and Emperor Henry IV, whose clash produced one of the most dramatic incidents of medieval political theater: Henry IV's penance at Canossa (January 1077), when the emperor stood barefoot in the snow for three days before the castle where Gregory had taken refuge, seeking absolution from excommunication.\n\nThe controversy began when Gregory VII issued the Dictatus Papae (1075), asserting that the pope alone could appoint and depose bishops, excommunicate emperors, and hold ultimate authority in the Church — a direct challenge to the imperial system in which bishops were appointed by kings and served as royal administrators. Henry IV responded by declaring Gregory deposed; Gregory excommunicated Henry and released his subjects from their oaths of loyalty. The Canossa submission bought Henry time, but the conflict continued for decades through civil wars, rival popes and antipopes, and periodic crises. It was formally resolved by the Concordat of Worms (1122), which distinguished spiritual from temporal investiture — popes appointed bishops spiritually, emperors granted them their secular feudal lands separately. This compromise, while seeming technical, represented a fundamental shift: it established that clerical appointment was a religious matter outside secular control, drawing the boundary between Church and State that has defined Western political theory ever since.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Investiture_Controversy",
+    "read_more_links": [
+        {
+            "title": "Walk Canossa Henry IV papal submission",
+            "url": "https://en.wikipedia.org/wiki/Walk_to_Canossa"
+        },
+        {
+            "title": "Dictatus Papae Gregory VII papal claims",
+            "url": "https://en.wikipedia.org/wiki/Dictatus_papae"
+        },
+        {
+            "title": "Concordat Worms 1122 resolution church state",
+            "url": "https://en.wikipedia.org/wiki/Concordat_of_Worms"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Emailetafel_mit_Investiturdarstellung-WUS04477.jpg/300px-Emailetafel_mit_Investiturdarstellung-WUS04477.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Emailetafel_mit_Investiturdarstellung-WUS04477.jpg",
+            "caption": "Enamel panel figuring the investiture of a bishop",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Investiturewoodcut.png/300px-Investiturewoodcut.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Investiturewoodcut.png",
+            "caption": "Medieval king investing a bishop with the symbols of his episcopate (crozier ...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Wormser_Dom_Seitenansicht.jpg/300px-Wormser_Dom_Seitenansicht.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wormser_Dom_Seitenansicht.jpg",
+            "caption": "Worms Cathedral (Cathedral of St. Peter) from south",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fa%C3%A7ade_du_Palais_des_Papes.jpg/300px-Fa%C3%A7ade_du_Palais_des_Papes.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Fa%C3%A7ade_du_Palais_des_Papes.jpg",
+            "caption": "Front of Pope's Palace in Avignon.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 fr"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Holy Roman Emperor",
+            "summary": "Ruler of the Holy Roman Empire from 800 to 1806",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hans_Burgkmair_d._%C3%84._005.jpg/250px-Hans_Burgkmair_d._%C3%84._005.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor"
+        },
+        {
+            "name": "Pope Gregory VII",
+            "summary": "Head of the Catholic Church from 1073 to 1085",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gregorius_%28Vita_Gregorii_VII%29.jpg/250px-Gregorius_%28Vita_Gregorii_VII%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+        },
+        {
+            "name": "Henry IV, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1084 to 1105",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Heinrich_4_g.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_IV%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Pope Callixtus II",
+            "summary": "Head of the Catholic Church from 1119 to 1124",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Calixtus_II.jpg/250px-Calixtus_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Callixtus_II"
+        },
+        {
+            "name": "Henry V, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1111 to 1125",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Heinrich_V._Evangeliar_aus_St._Emmeram.JPG/250px-Heinrich_V._Evangeliar_aus_St._Emmeram.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_V%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Pope Paschal II",
+            "summary": "Head of the Catholic Church from 1099 to 1118",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Filip1Frr_%28cropped%29.jpg/250px-Filip1Frr_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Paschal_II"
+        }
+    ],
+    "territory_geojson": null
+}

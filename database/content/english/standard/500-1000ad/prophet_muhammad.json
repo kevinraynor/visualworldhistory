@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2124,
+    "parent_id": 86,
+    "granularity": "major",
+    "content_hash": "sha256:ceca5009684af200f1fcc02f6e08a0f180d1515a48df485ec642d35d4581e38e",
+    "summary": "Muhammad ibn Abdullah (c. 570–632 AD), the founder and prophet of Islam, is among the most historically influential individuals who ever lived — a merchant from Mecca who received revelations (beginning c. 610 AD in a cave on Mount Hira) that he understood as the word of God (Allah), delivered through the angel Gabriel. These revelations, compiled after his death as the Quran, formed the foundation of a new religion that would within a century become the faith of an empire stretching from Spain to Central Asia, and that today claims 1.9 billion adherents — nearly a quarter of humanity.\n\nMuhammad's life divides into the Meccan period (610–622 AD), during which he preached to a largely hostile Meccan elite who saw his monotheism as threatening the polytheistic shrine economy of the Kaaba; and the Medinan period, beginning with the [[event:2125|Hijra]] (622 AD), during which he became the political and religious leader of a growing community in Medina and conducted campaigns that eventually led to the conquest of Mecca in 630 AD. By his death in 632, most of the Arabian Peninsula had accepted Islam. Muhammad's personal life — his marriages, his military campaigns, his revelations, his treatment of Jews and Christians — has been intensively analyzed from Muslim and non-Muslim perspectives. In Islamic tradition, Muhammad is the 'Seal of the Prophets' — the last and greatest of a line including Abraham, Moses, and Jesus. The [[event:2126|Rashidun Caliphate]] that succeeded him carried Islam far beyond Arabia within decades.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad",
+    "read_more_links": [
+        {
+            "title": "Muhammad early revelations Mecca",
+            "url": "https://en.wikipedia.org/wiki/Muhammad#Early_life_and_marriage"
+        },
+        {
+            "title": "Muhammad Medina community",
+            "url": "https://en.wikipedia.org/wiki/Muhammad#Muhammad_in_Medina"
+        },
+        {
+            "title": "Quran compilation revelation",
+            "url": "https://en.wikipedia.org/wiki/Quran#Compilation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Paris%2C_BnF%2C_Suppl%C3%A9ment_Persan_1030_fol._305v-306r_Muhammad_and_Ali_lead_destruction_of_Meccan_idols.jpg/300px-Paris%2C_BnF%2C_Suppl%C3%A9ment_Persan_1030_fol._305v-306r_Muhammad_and_Ali_lead_destruction_of_Meccan_idols.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Paris%2C_BnF%2C_Suppl%C3%A9ment_Persan_1030_fol._305v-306r_Muhammad_and_Ali_lead_destruction_of_Meccan_idols.jpg",
+            "caption": "Islamic miniature of Muhammad and Ali (golden flames) leading the Muslim army...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mrs_Aisha_room.jpg/300px-Mrs_Aisha_room.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mrs_Aisha_room.jpg",
+            "caption": "Tomb of the Prophet Mohammed is in the Mrs Aisha room.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Prophet_Muhammad_and_the_Muslim_Army_at_the_Battle_of_Uhud%2C_from_the_Siyer-i_Nebi%2C_1595.jpg/300px-The_Prophet_Muhammad_and_the_Muslim_Army_at_the_Battle_of_Uhud%2C_from_the_Siyer-i_Nebi%2C_1595.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Prophet_Muhammad_and_the_Muslim_Army_at_the_Battle_of_Uhud%2C_from_the_Siyer-i_Nebi%2C_1595.jpg",
+            "caption": "The Prophet Muhammad and the Muslim Army at the Battle of Uhud, from the Siye...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Domeoftherock1.jpg/300px-Domeoftherock1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Domeoftherock1.jpg",
+            "caption": "Dome of the Rock in Jerusalem",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Green Dome",
+            "summary": "Dome in southeast corner of Prophet's Mosque, Medina",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Green_Dome%2C_Masjid_Nabawi%2C_Madina.jpg/250px-The_Green_Dome%2C_Masjid_Nabawi%2C_Madina.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Green_Dome"
+        },
+        {
+            "name": "Abd al-Muttalib",
+            "summary": "Chief Leader of the Quraysh and grandfather of Muhammad (c.481–578)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Siyer-i_Nebi_Amina_shows_Muhammad_her_father-in-law_Abd_al-Muttalib.jpg/250px-Siyer-i_Nebi_Amina_shows_Muhammad_her_father-in-law_Abd_al-Muttalib.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abd_al-Muttalib"
+        },
+        {
+            "name": "Adam in Islam",
+            "summary": "First man and Prophet in Islam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Adam_and_Hawwa_being_expelled_from_Paradise.jpg/250px-Adam_and_Hawwa_being_expelled_from_Paradise.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_in_Islam"
+        },
+        {
+            "name": "Noah in Islam",
+            "summary": "Prophet in Islam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noah%27s_Ark_by_Miskin.jpg/250px-Noah%27s_Ark_by_Miskin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Noah_in_Islam"
+        },
+        {
+            "name": "Moses in Islam",
+            "summary": "Islamic perspective on the prophet Moses",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Musa_winning_magic_battle.jpg/250px-Musa_winning_magic_battle.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Moses_in_Islam"
+        },
+        {
+            "name": "Jesus in Islam",
+            "summary": "Penultimate prophet in Islam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Spencer_Coll._Persian_MS._46_fol_152v_Isa_and_disciples_eat_food_from_heaven.jpg/250px-Spencer_Coll._Persian_MS._46_fol_152v_Isa_and_disciples_eat_food_from_heaven.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus_in_Islam"
+        }
+    ],
+    "territory_geojson": null
+}

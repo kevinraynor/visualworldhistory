@@ -1,0 +1,53 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1324,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:0f76f3e8d6662fcd2b8d4aadcfc8e20b2d265295c883a573cc2244c10184abf3",
+    "summary": "The production of lime plaster — made by burning limestone or other calcium carbonate rocks at high temperatures to produce quicklime, then slaking the quicklime with water to create a workable paste — was one of the significant technological achievements of the early Neolithic in the Near East. Evidence for lime plaster production appears at sites in the Levant and Anatolia as early as approximately 9000–8500 BCE, making it one of the earliest known pyrotechnologies.\n\nLime plaster was used in the early Neolithic for a variety of purposes: to seal and waterproof floors and storage containers, to construct and finish walls, and most dramatically for the production of the [[event:1323|plastered skulls]] characteristic of the PPNB period and for the plaster statuary at [[event:7|Ain Ghazal]]. The technology required controlled high-temperature burning (above 850°C) of large quantities of limestone, implying a significant investment of fuel and labor — evidence of organized technological effort by early farming communities.\n\nLime plaster production predates pottery by several thousand years in the Levantine Neolithic, demonstrating that early Neolithic communities were capable of sophisticated pyrotechnology well before ceramic firing. The use of lime plaster for flooring is documented at sites such as Ain Ghazal and various PPNB settlements throughout the Levant, and the technology spread westward with the expansion of Neolithic communities into Europe, where it appears in Neolithic village contexts from the Balkans to central Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lime_(material)#History",
+    "read_more_links": [
+        {
+            "title": "Lime Material History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lime_(material)"
+        },
+        {
+            "title": "Plaster - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Plaster"
+        },
+        {
+            "title": "Neolithic Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic"
+        },
+        {
+            "title": "Pyrotechnology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pyrotechnology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lime_residue_thermal_water_Katlanovo_spa_1.jpg/300px-Lime_residue_thermal_water_Katlanovo_spa_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lime_residue_thermal_water_Katlanovo_spa_1.jpg",
+            "caption": "Lime formed to piping bringing thermal water to Katlanovo spa, Petrovec, Nort...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Limestone_quarry.jpg/300px-Limestone_quarry.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Limestone_quarry.jpg",
+            "caption": "The limestone quarry at Akselberget, Brønnøy, Norway.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_lime_cycle.jpg/300px-The_lime_cycle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_lime_cycle.jpg",
+            "caption": "The diagram shows the cycle by which limestone is converted to quicklime by h...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

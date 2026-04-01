@@ -1,0 +1,60 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1318,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f4bacee5336b6664ad195d1a3e2481aefa91f77d054f5cec620890e9785cf9e5",
+    "summary": "Sundaland was a large continental landmass in Southeast Asia that was exposed during periods of low sea levels, most recently during the Last Glacial Maximum (approximately 26,500–20,000 BCE) when sea levels stood about 120 meters lower than today. Sundaland connected what are now the islands of Borneo, Sumatra, Java, Bali, and the Malay Peninsula into a single contiguous landmass roughly equivalent in size to modern India — a vast, ecologically diverse territory of tropical rainforests, savannas, and river valleys that hosted significant human populations.\n\nWith the [[event:1262|end of the last Ice Age]] and the subsequent rise in sea levels driven by melting ice sheets, Sundaland was progressively inundated. The flooding was not instantaneous but occurred in pulses over several thousand years, with the most rapid phase occurring approximately 14,000–8,000 BCE. By around 8,000–6,000 BCE, the broad continental shelf of Sundaland had been largely submerged, creating the island archipelago of modern Southeast Asia — separating Borneo, Sumatra, Java, and adjacent islands from mainland Southeast Asia and from each other.\n\nThe flooding of Sundaland had profound consequences for the human populations of the region. Communities living on the low-lying coastal plains and river valleys of the former landmass were displaced, pushing populations into the highlands of the remaining islands or onto the Malay Peninsula and Indochina mainland. An estimated several million square kilometers of formerly inhabited terrain was lost beneath the sea, taking with it the archaeological record of the Sundaland populations. The flooding of Sundaland has been proposed by some researchers as a possible origin for widespread mythological traditions of a great flood found across South and Southeast Asian cultures, though the scientific basis for this connection remains speculative.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sundaland",
+    "read_more_links": [
+        {
+            "title": "Sea Level Rise - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sea_level_rise"
+        },
+        {
+            "title": "Prehistoric Southeast Asia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Southeast_Asia"
+        },
+        {
+            "title": "Sunda Shelf - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sunda_Shelf"
+        },
+        {
+            "title": "Last Glacial Maximum - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Last_Glacial_Maximum"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sundaland-at-the-Last-Glacial-Maximum-showing-the-modern-distribution-of-land-in-dark.png/300px-Sundaland-at-the-Last-Glacial-Maximum-showing-the-modern-distribution-of-land-in-dark.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sundaland-at-the-Last-Glacial-Maximum-showing-the-modern-distribution-of-land-in-dark.png",
+            "caption": "מפת סונדאלנד בשיא תקופת עידן הקרח האחרון. השטחים באפור בהיר מציינים את האזורי...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        },
+        {
+            "name": "Gustaaf Adolf Frederik Molengraaff",
+            "summary": "Dutch geologist, biologist and explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/ZieglerMolengraaff.jpg/250px-ZieglerMolengraaff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gustaaf_Adolf_Frederik_Molengraaff"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1338,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:302829cafa2723e1a693f33e58d15e07ea28510473f13c72ec9b0bd41964317c",
+    "summary": "The Ahrensburg culture was a late Palaeolithic hunting culture of northern Europe — principally northern Germany, Denmark, and the adjacent lowlands of what is now [[event:1319|Doggerland]] and the southern North Sea region — dated to approximately 10,800–9,500 BCE. Named after finds from the Ahrensburg Valley in Schleswig-Holstein, Germany, the culture is defined primarily by its characteristic tanged (stemmed) arrowheads — Ahrensburg points — and by its specialization in hunting reindeer.\n\nAhrensburg communities were among the last reindeer-hunting groups to occupy the tundra and boreal forest environments of northwestern Europe as the climate warmed at the close of the [[event:1261|Younger Dryas]]. They followed the reindeer herds across the open landscape of the southern North Sea basin, which at that time was still largely dry land. With the continued warming of the early Holocene and the northward migration or decline of reindeer populations, the Ahrensburg reindeer-hunting economy became unviable and was replaced by the forest-adapted, broad-spectrum subsistence strategies of the Mesolithic cultures — notably the [[event:1282|Maglemosian]] — that followed. The Ahrensburg culture represents the final chapter of the late glacial hunting cultures of northern Europe before the full transformation of the postglacial landscape.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ahrensburg_culture",
+    "read_more_links": [
+        {
+            "title": "Late Glacial Northern Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/European_Mesolithic"
+        },
+        {
+            "title": "Doggerland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Doggerland"
+        },
+        {
+            "title": "Reindeer Hunting Cultures - Britannica",
+            "url": "https://www.britannica.com/topic/Mesolithic-Period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Insignia_from_Rusinow.jpg/300px-Insignia_from_Rusinow.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Insignia_from_Rusinow.jpg",
+            "caption": "Bogato ornamentowane insygnium z poroża łosia. Zabytek pokryty jest ornamente...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kultura_ahrensburska.jpg/300px-Kultura_ahrensburska.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kultura_ahrensburska.jpg",
+            "caption": "Range of the Ahrensburg culture",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

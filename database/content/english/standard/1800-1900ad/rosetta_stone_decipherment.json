@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3770,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:8cb64d32282fb47030ca1ceda5f6f724f25173a828434c8f40d8799284b66a20",
+    "summary": "The decipherment of Egyptian hieroglyphics, achieved principally by the French scholar Jean-François Champollion in 1822, was one of the great intellectual achievements of the nineteenth century and the founding moment of Egyptology as a modern discipline. The key was the Rosetta Stone — a granodiorite stele discovered by French soldiers near Rosetta (Rashid) in the Nile delta in 1799 during Napoleon's Egyptian campaign — which bore the same decree in three scripts: hieroglyphic, Demotic, and ancient Greek. Since Greek was well understood, the stone offered the possibility of using the known language to unlock the unknown ones.\n\nThe decipherment was a prolonged competition and collaboration. The British polymath Thomas Young made early progress in the 1810s, correctly identifying that the oval cartouches contained royal names written phonetically and isolating the values of several hieroglyphic signs. Champollion, working with a deeper knowledge of Coptic (the late form of the Egyptian language) and a broader corpus of texts, extended Young's insights into a complete system by September 1822, when he announced his breakthrough to the French Academy of Inscriptions. He demonstrated that hieroglyphics were neither purely symbolic nor purely alphabetic, but a complex mixed system combining phonetic signs, syllabic signs, and ideograms.\n\nThe consequences for historical knowledge were immense. Three thousand years of Egyptian civilization — its religious texts, administrative records, royal inscriptions, and literary works — became readable for the first time in over a millennium. Champollion himself led an expedition to Egypt in 1828–29 to read monuments and temple walls directly. The decipherment transformed Egyptology from antiquarianism into a rigorous historical discipline and opened the ancient Near East to systematic scholarly investigation, fundamentally deepening humanity's understanding of civilization's origins.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Decipherment_of_ancient_Egyptian_scripts",
+    "read_more_links": [
+        {
+            "title": "Rosetta Stone – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+        },
+        {
+            "title": "Jean-François Champollion – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion"
+        },
+        {
+            "title": "Hieroglyphics – Britannica",
+            "url": "https://www.britannica.com/topic/hieroglyph"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Grammaire_Egyptienne_by_Jean_Francois_Champollion%2C_1836_-_National_Cryptologic_Museum_-_DSC07733.JPG/300px-Grammaire_Egyptienne_by_Jean_Francois_Champollion%2C_1836_-_National_Cryptologic_Museum_-_DSC07733.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Grammaire_Egyptienne_by_Jean_Francois_Champollion%2C_1836_-_National_Cryptologic_Museum_-_DSC07733.JPG",
+            "caption": "Exhibit in the National Cryptologic Museum, Fort Meade, Maryland, USA. All it...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Paris%2C_Bnf_man_Arabe_6805_fol._92v-93v_Shawq_al-Mustaham_Attempted_translation_of_hieroglyphs.jpg/300px-Paris%2C_Bnf_man_Arabe_6805_fol._92v-93v_Shawq_al-Mustaham_Attempted_translation_of_hieroglyphs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Paris%2C_Bnf_man_Arabe_6805_fol._92v-93v_Shawq_al-Mustaham_Attempted_translation_of_hieroglyphs.jpg",
+            "caption": "Attempted translation of hieroglyphs from a 18th century manuscript of pseudo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kircher_Obeliscus_Pamphilius_page_444.jpg/300px-Kircher_Obeliscus_Pamphilius_page_444.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kircher_Obeliscus_Pamphilius_page_444.jpg",
+            "caption": "Page 444 of Obeliscus Pamphilius (1650) by Athanasius Kircher. The illustrati...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Portrait_de_Champollion_Le_Jeune_par_Madame_de_Rumilly_cropped.jpg/300px-Portrait_de_Champollion_Le_Jeune_par_Madame_de_Rumilly_cropped.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Portrait_de_Champollion_Le_Jeune_par_Madame_de_Rumilly_cropped.jpg",
+            "caption": "Portrait de Champollion Le Jeune par Madame de Rumilly cropped",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Johan David Åkerblad",
+            "summary": "Swedish diplomat and orientalist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Akerblad.jpg/250px-Akerblad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_David_%C3%85kerblad"
+        },
+        {
+            "name": "Emmanuel de Rougé",
+            "summary": "French politician, philologist, and egyptologist (1811–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Emmanuel_de_Roug%C3%A9_%28%C3%A9gyptologue%29.jpg/250px-Emmanuel_de_Roug%C3%A9_%28%C3%A9gyptologue%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emmanuel_de_Roug%C3%A9"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Clement of Alexandria",
+            "summary": "Christian theologian (c. 150 – c. 215)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Clement_alexandrin.jpg/250px-Clement_alexandrin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Clement_of_Alexandria"
+        }
+    ],
+    "territory_geojson": null
+}

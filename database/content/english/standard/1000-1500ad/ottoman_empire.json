@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 94,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:f52785e6e1dd6ec43537dafaa91f7ed5a73dc72841e0501da611f17b565ac038",
+    "summary": "The Ottoman Empire (c. 1299–1922 AD) was one of the longest-lived and most powerful empires in history, at its height controlling territory spanning three continents — from Morocco to Persia, from the Crimea to Yemen — and ruling over an extraordinarily diverse population of Muslims, Christians, and Jews for over six centuries. Founded by Osman I, a small Turkic principality in northwestern Anatolia that expanded through systematic conquest of Byzantine territory, the empire's rise was powered by the devshirme system (conscripting Christian boys as elite soldiers and administrators), efficient military organization, and the religious legitimacy of ghazi (holy warrior) ideology.\n\nThe empire's defining achievement in the 1000-1500 period was the [[event:2240|fall of Constantinople]] (1453), which ended the Byzantine Empire after over a millennium and established the Ottomans as the dominant power of the eastern Mediterranean and heirs to the Roman imperial tradition. Prior to this, the Ottoman [[event:2316|conquest of the Balkans]] had progressively dismantled Serbian, Bulgarian, and Byzantine power, reaching its symbolic climax at the [[event:2317|Battle of Kosovo]] (1389). The empire survived the near-catastrophic defeat by [[event:2276|Timur (Tamerlane)]] at the [[event:2277|Battle of Ankara]] (1402) through a remarkable recovery, consolidating control of Anatolia and resuming Balkan expansion under Mehmed II, who conquered Constantinople and began the transformation of the empire into a centralized gunpowder monarchy. By 1500 the Ottomans stood at the threshold of their classical period under Selim I and Suleiman the Magnificent, which would make them the dominant power from Central Europe to the Persian Gulf.\n\nThe Ottoman system of governance — the millet system allowing religious communities to govern their personal law, the devshirme meritocracy, the timar land-grant system for the cavalry — was sophisticated enough to maintain coherent control over enormous geographic and ethnic diversity for centuries. The empire's capital Constantinople (renamed Istanbul) became the largest city in Europe, a cosmopolitan center of commerce and culture that synthesized Byzantine, Persian, Arab, and Turkish traditions into a distinctive Ottoman civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+    "read_more_links": [
+        {
+            "title": "Ottoman Empire founding Osman I",
+            "url": "https://en.wikipedia.org/wiki/Osman_I"
+        },
+        {
+            "title": "Devshirme system Ottoman administration",
+            "url": "https://en.wikipedia.org/wiki/Devshirme"
+        },
+        {
+            "title": "Ottoman millet system religious communities",
+            "url": "https://en.wikipedia.org/wiki/Millet_(Ottoman_Empire)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/20180107_Safranbolu_1945_%2839101010504%29.jpg/300px-20180107_Safranbolu_1945_%2839101010504%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/20180107_Safranbolu_1945_%2839101010504%29.jpg",
+            "caption": "20180107_Safranbolu_1945",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Istanbul_asv2021-11_img03_Hemdat_Israel_Synagogue.jpg/300px-Istanbul_asv2021-11_img03_Hemdat_Israel_Synagogue.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Istanbul_asv2021-11_img03_Hemdat_Israel_Synagogue.jpg",
+            "caption": "Hemdat Israel Synagogue in Istanbul, Turkey",
+            "attribution": "Wikimedia Commons, FAL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Aerial_view_of_the_Galata_Bridge%2C_Istanbul_LCCN2003677084.jpg/300px-Aerial_view_of_the_Galata_Bridge%2C_Istanbul_LCCN2003677084.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Aerial_view_of_the_Galata_Bridge%2C_Istanbul_LCCN2003677084.jpg",
+            "caption": "Title: Aerial view of the Galata Bridge, Istanbul\nAbstract/medium: 1 photogra...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Istanbul_asv2021-10_img15_Y%C4%B1ld%C4%B1z_Hamidiye_Mosque.jpg/300px-Istanbul_asv2021-10_img15_Y%C4%B1ld%C4%B1z_Hamidiye_Mosque.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Istanbul_asv2021-10_img15_Y%C4%B1ld%C4%B1z_Hamidiye_Mosque.jpg",
+            "caption": "Yıldız Hamidiye Mosque in Istanbul, Turkey",
+            "attribution": "Wikimedia Commons, FAL"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Mehmed VI",
+            "summary": "Sultan of the Ottoman Empire from 1918 to 1922",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg/250px-Sultan_Mehmed_VI_of_the_Ottoman_Empire.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mehmed_VI"
+        },
+        {
+            "name": "Selim I",
+            "summary": "Sultan of the Ottoman Empire from 1512 to 1520",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nakka%C5%9F_Selim.jpg/250px-Nakka%C5%9F_Selim.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Selim_I"
+        },
+        {
+            "name": "Abdülmecid II",
+            "summary": "Ottoman caliph from 1922 to 1924",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Portrait_Caliph_Abdulmecid_II.jpg/250px-Portrait_Caliph_Abdulmecid_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abd%C3%BClmecid_II"
+        },
+        {
+            "name": "Orhan",
+            "summary": "Sultan of the Ottoman Empire from 1323/4 to 1362",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Metehanzade_orhangazi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Orhan"
+        },
+        {
+            "name": "Akçe",
+            "summary": "Chief monetary unit of the Ottoman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Orhan_Gazi_Ak%C3%A7e.jpg/250px-Orhan_Gazi_Ak%C3%A7e.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ak%C3%A7e"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3655,
+    "parent_id": 2684,
+    "granularity": "detailed",
+    "content_hash": "sha256:565dcb1244ef30dc976b781e50f2cd167eef4e7139a53f6b8e6a168ff3edaff4",
+    "summary": "The Soweto Uprising began on June 16, 1976, when approximately 20,000 Black South African high school students marched in protest against a government directive requiring that half of all subjects be taught in Afrikaans — a language associated with the apartheid establishment — rather than in English or indigenous languages. Police fired on the marchers, killing a number of students including 13-year-old Hector Pieterson, whose death was captured in a photograph that became one of the defining images of the anti-apartheid struggle.\n\nThe uprising spread rapidly beyond Soweto to townships across South Africa over the following months, with an estimated 700 or more killed in total. The uprising radicalized a generation of young South Africans, many of whom went into exile to join the ANC or other liberation movements. The Black Consciousness Movement, led by Steve Biko who was killed in police custody in 1977, provided much of the ideological framework for the student resistance. June 16 is now commemorated as Youth Day in South Africa, and the Soweto Uprising is recognized as a pivotal moment that intensified both internal resistance to [[event:2684|apartheid]] and international pressure on the South African government.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soweto_uprising",
+    "read_more_links": [
+        {
+            "title": "Hector Pieterson",
+            "url": "https://en.wikipedia.org/wiki/Hector_Pieterson"
+        },
+        {
+            "title": "Steve Biko",
+            "url": "https://en.wikipedia.org/wiki/Steve_Biko"
+        },
+        {
+            "title": "Black Consciousness Movement",
+            "url": "https://en.wikipedia.org/wiki/Black_Consciousness_Movement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/HectorPietersonMemorial1030632.JPG/300px-HectorPietersonMemorial1030632.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/HectorPietersonMemorial1030632.JPG",
+            "caption": "Hector Pieterson Memorial in Soweto",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Durban_Sign_1989_%283x4_cropped%29.jpg/300px-Durban_Sign_1989_%283x4_cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Durban_Sign_1989_%283x4_cropped%29.jpg",
+            "caption": "Sign in Durban that states the beach is for whites only under section 37 of t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Public holiday",
+            "summary": "General holiday established by law",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Frecce_Tricolori_2022.jpg/250px-Frecce_Tricolori_2022.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Public_holiday"
+        },
+        {
+            "name": "Desmond Tutu",
+            "summary": "South African bishop and anti-apartheid activist (1931–2021)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Archbishop-Tutu-medium.jpg/250px-Archbishop-Tutu-medium.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Desmond_Tutu"
+        },
+        {
+            "name": "Nelson Mandela",
+            "summary": "President of South Africa from 1994 to 1999",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/250px-Nelson_Mandela_1994.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nelson_Mandela"
+        },
+        {
+            "name": "Henry Kissinger",
+            "summary": "American diplomat and political scientist (1923–2023)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/250px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Kissinger"
+        },
+        {
+            "name": "Frank Chikane",
+            "summary": "South African activist and cleric (born 1951)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Frank_Chikane_%2814774389996%29.jpg/250px-Frank_Chikane_%2814774389996%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Chikane"
+        },
+        {
+            "name": "Hugh Masekela",
+            "summary": "South African musician and composer (1939–2018)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Womex2011_-_Crawfurd6468_%286299756789%29.jpg/250px-Womex2011_-_Crawfurd6468_%286299756789%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_Masekela"
+        }
+    ],
+    "territory_geojson": null
+}

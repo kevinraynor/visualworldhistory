@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1185,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9e76a49ba41a77b25c8d3eca4eb08454c4f5acc58e93bca93eecad1c39fef3a8",
+    "summary": "The Moche Proto-Culture (c. 200 BC – 1 AD) represents the early phase of development leading to the Moche civilization of northern coastal Peru — one of the most artistically sophisticated pre-Columbian cultures, whose ceramic portrait vessels, elaborate gold work, and ritual sacrifice practices would flourish from about 100 to 800 AD.\n\nThe foundations of the Moche culture were laid in the Chicama and Moche river valleys during the centuries before the Common Era, building on earlier cultural traditions of the north Peruvian coast. The Moche developed irrigation agriculture capable of supporting large populations in the coastal desert, using water from Andean rivers. Their ceramic tradition, already developing in this period, would reach extraordinary heights — producing portrait vessels with realistically rendered individual faces that are unparalleled in pre-Columbian art. The Huaca del Sol and Huaca de la Luna (temples of the Sun and Moon) near modern Trujillo represent the apex of Moche monumental architecture. Their iconography depicts complex ceremonial scenes including ritual sacrifice of prisoners; excavations of the Lord of Sipán tomb (discovered 1987) revealed that these scenes were enacted in reality, with elaborate gold and silver burial goods.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Moche_culture",
+    "read_more_links": [
+        {
+            "title": "Lord of Sipán",
+            "url": "https://en.wikipedia.org/wiki/Lord_of_Sip%C3%A1n"
+        },
+        {
+            "title": "Moche ceramics",
+            "url": "https://en.wikipedia.org/wiki/Moche_culture#Ceramics"
+        },
+        {
+            "title": "Huaca del Sol",
+            "url": "https://en.wikipedia.org/wiki/Huaca_del_Sol"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Central_Andes%2C_North_Coast%2C_Moche_people%2C_200-450_AD_-_Sea_Lion_Pup_Vessel_-_2014.375_-_Cleveland_Museum_of_Art.tif/300px-Central_Andes%2C_North_Coast%2C_Moche_people%2C_200-450_AD_-_Sea_Lion_Pup_Vessel_-_2014.375_-_Cleveland_Museum_of_Art.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Central_Andes%2C_North_Coast%2C_Moche_people%2C_200-450_AD_-_Sea_Lion_Pup_Vessel_-_2014.375_-_Cleveland_Museum_of_Art.tif",
+            "caption": "Sea lions commonly appear in Moche art as effigy vessels, like this appealing...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ear_ornaments_from_Peru.jpg/300px-Ear_ornaments_from_Peru.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ear_ornaments_from_Peru.jpg",
+            "caption": "A pair of ear ornaments from Peru (Moche), ca. AD 200-600\nGold; shell; stome ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Headdress_ornament_Moche_-_Peru.jpg/300px-Headdress_ornament_Moche_-_Peru.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Headdress_ornament_Moche_-_Peru.jpg",
+            "caption": "Headdress ornament\nMoche; AD 200-600\nPeru, North Coast\nGold\n\nThe Getty Center...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Moche_Burial_Mask%2C_Peru.jpg/300px-Moche_Burial_Mask%2C_Peru.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Moche_Burial_Mask%2C_Peru.jpg",
+            "caption": "Moche; AD 525-550\nPeru, Dos Cabezas, Tomb 2\nGilded copper, shell, stone, pigm...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Looting",
+            "summary": "Indiscriminate taking of goods by force",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pluenderung_der_Judengasse_1614.png/250px-Pluenderung_der_Judengasse_1614.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Looting"
+        },
+        {
+            "name": "Molding (process)",
+            "summary": "Shaping a liquid or plastic material by making it conform to a more rigid mold",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bronze_spearhead_mold.JPG/250px-Bronze_spearhead_mold.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Molding_%28process%29"
+        },
+        {
+            "name": "Metalworking",
+            "summary": "Process of making items from metal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dreher_an_einer_Drehbank.jpg/250px-Dreher_an_einer_Drehbank.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Metalworking"
+        }
+    ],
+    "territory_geojson": null
+}

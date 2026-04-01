@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1227,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:b658567568bca1ad157f83a8a27eee406970d1188a4cb9bf4a1e143f435ddd9e",
+    "summary": "The Tribune of the Plebs (tribuni plebis) was a Roman magistracy created around 494 BC during the First Secession of the Plebs, when plebeian soldiers withdrew from Rome to protest patrician domination. The tribunes were given the unique power of intercessio — the right to veto any action by a Roman magistrate that harmed a plebeian citizen — making them sacrosanct (inviolable) by religious law. The office became the cornerstone of plebeian political power during the Conflict of the Orders.\n\nOver the following two centuries, the tribunate evolved from a defensive institution into an offensive political weapon. Tribunes could convene the plebeian assembly (concilium plebis), which eventually gained the power to pass laws binding on all Romans (lex Hortensia, 287 BC). The office was central to the late Republican political conflicts: the Gracchi brothers used their tribunates to push through radical land reforms in the 130s–120s BC, while Sulla temporarily stripped tribunes of legislative power in 81 BC. Julius Caesar exploited the tribunate's sacrosanct status, and the emperor Augustus permanently held tribunicia potestas as the constitutional basis for imperial authority.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tribune_of_the_plebs",
+    "read_more_links": [
+        {
+            "title": "Conflict of the Orders",
+            "url": "https://en.wikipedia.org/wiki/Conflict_of_the_Orders"
+        },
+        {
+            "title": "Lex Hortensia",
+            "url": "https://en.wikipedia.org/wiki/Lex_Hortensia"
+        },
+        {
+            "title": "Tribunicia potestas",
+            "url": "https://en.wikipedia.org/wiki/Tribunicia_potestas"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Secessio_plebis.JPG/300px-Secessio_plebis.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Secessio_plebis.JPG",
+            "caption": "The Secession of the People to the Mons Sacer, engraved by B. Barloccini, 1849",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "King of Rome",
+            "summary": "Chief magistrate of the Roman Kingdom",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/250px-Lupa_Capitolina%2C_Rome.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/King_of_Rome"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Lucius Papirius Cursor",
+            "summary": "4th century BC Roman politician and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Gerard_de_Lairesse%2C_The_Clemency_of_Lucius_Papirius_Cursor%2C_1688%2C_The_Hague%2C_Binnenhof.jpg/250px-Gerard_de_Lairesse%2C_The_Clemency_of_Lucius_Papirius_Cursor%2C_1688%2C_The_Hague%2C_Binnenhof.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Papirius_Cursor"
+        },
+        {
+            "name": "Tiberius Gracchus",
+            "summary": "Roman politician and social reformer (163 – 133 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eugene_Guillaume_-_the_Gracchi_%28cropped%29.jpg/250px-Eugene_Guillaume_-_the_Gracchi_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tiberius_Gracchus"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        }
+    ],
+    "territory_geojson": null
+}

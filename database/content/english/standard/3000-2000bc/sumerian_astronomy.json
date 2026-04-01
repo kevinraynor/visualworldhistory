@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1739,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:4f694f80a799172d1eaec43049b6afcf40fb1e9ff92b5145b1187e79c86bc9c6",
+    "summary": "Systematic astronomical observation in Mesopotamia began among the Sumerians approximately 2800–2400 BC, driven by the practical needs of agriculture (seasonal timing of planting and harvest), religion (determining auspicious dates for rituals and royal activities), and administration (calendar regulation). Sumerian and later Babylonian astronomers observed the movements of the sun, moon, and visible planets with remarkable consistency, compiling records that formed the empirical foundation for later advances in mathematical astronomy.\n\nEarly Sumerian astronomical records tracked the rising and setting of the moon, the appearance of Venus (identified with the goddess Inanna/Ishtar), and the periodic regularities in the movements of celestial bodies. The temple ziggurats, with their elevated platforms, may have served partly as astronomical observation points. Sumerian administrators developed a lunisolar calendar that coordinated the cycles of the moon with the solar year, inserting intercalary months periodically to keep the calendar aligned with the seasons — a practical achievement requiring sustained astronomical attention.\n\nThe astronomical tradition established by the Sumerians was inherited and greatly extended by later Babylonian scholars, who by the first millennium BC had developed sophisticated mathematical models capable of predicting celestial events with considerable accuracy. This accumulated knowledge was eventually transmitted to Greek astronomers and became a foundational element of Western and Islamic science. The roots of that tradition lie in the patient record-keeping and sky-watching of Sumerian temple administrators in the third millennium BC.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Babylonian_astronomy",
+    "read_more_links": [
+        {
+            "title": "Sumerian calendar",
+            "url": "https://en.wikipedia.org/wiki/Sumerian_calendar"
+        },
+        {
+            "title": "History of astronomy",
+            "url": "https://en.wikipedia.org/wiki/History_of_astronomy"
+        },
+        {
+            "title": "Astronomical records in ancient Mesopotamia",
+            "url": "https://en.wikipedia.org/wiki/Enuma_Anu_Enlil"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MulApin-BritishMuseum.jpg/300px-MulApin-BritishMuseum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/MulApin-BritishMuseum.jpg",
+            "caption": "Asset number\n152339001\nDescription\nClay tablet with two columns of inscriptio...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Babylonian_tablet_recording_Halley%27s_comet.jpg/300px-Babylonian_tablet_recording_Halley%27s_comet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Babylonian_tablet_recording_Halley%27s_comet.jpg",
+            "caption": "A Babylonian tablet recording Halley's comet during an appearance in 164 BC. ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hammurabi",
+            "summary": "Sixth king of Babylon (r. 1792–1750 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg/250px-F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hammurabi"
+        },
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        },
+        {
+            "name": "Oxford Calculators",
+            "summary": "Group of 14th-century English mathematicians and philosophers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Swineshead%2C_Richard_%E2%80%93_Calculator%2C_1520_%E2%80%93_BEIC_143141.jpg/250px-Swineshead%2C_Richard_%E2%80%93_Calculator%2C_1520_%E2%80%93_BEIC_143141.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oxford_Calculators"
+        }
+    ],
+    "territory_geojson": null
+}

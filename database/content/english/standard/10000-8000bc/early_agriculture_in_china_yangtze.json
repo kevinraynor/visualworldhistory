@@ -1,0 +1,63 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 6,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:9c9eb4b00c836b1c4f4db329b46ba9b32b1a51242d9a73bec45e0dcae78117b1",
+    "summary": "The Yangtze River basin of central and southern China was one of the world's earliest and most significant independent centers of agricultural development. Evidence from sites including [[event:1273|Pengtoushan]] and [[event:1272|Nanzhuangtou]] indicates that rice cultivation began in this region by approximately 10,000–8,000 BCE, making the Yangtze valley one of the primary birthplaces of rice agriculture — a crop that today feeds more than half of humanity.\n\nThe wild ancestor of domesticated rice, Oryza rufipogon, grew naturally in the wetland margins of the Yangtze basin. Early human populations in the region appear to have intensively harvested wild rice before gradually beginning to manage its growth, select for favorable traits, and eventually cultivate it in deliberately prepared plots. The transition from harvesting wild rice to cultivating domesticated varieties was a gradual process spanning several millennia, with morphological evidence of full domestication — larger grains, reduced seed shattering — appearing more clearly by 7000–5000 BCE at sites such as Kuahuqiao and Hemudu.\n\nAlongside rice cultivation, early Yangtze basin communities also domesticated or managed other plant species including water chestnuts, lotus, and various aquatic tubers. The region's warm, wet climate, extensive wetlands, and rich aquatic resources supported dense hunter-gatherer populations that formed the demographic basis for agricultural intensification. Pottery production, including some of the world's earliest ceramics, accompanied this subsistence transition and is represented by the contemporaneous [[event:10|Jomon pottery tradition]] in Japan.\n\nThe development of wet rice cultivation in the Yangtze valley fundamentally shaped East and Southeast Asian civilization, supporting large populations, enabling intensive land use, and providing the economic foundation for the complex societies that would eventually emerge along China's river valleys.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_agriculture#East_Asia",
+    "read_more_links": [
+        {
+            "title": "History of Rice Cultivation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rice#History"
+        },
+        {
+            "title": "Yangtze River - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yangtze_River"
+        },
+        {
+            "title": "Pengtoushan Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pengtoushan_culture"
+        },
+        {
+            "title": "Origins of Agriculture in East Asia - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-agriculture"
+        },
+        {
+            "title": "Domestication of Rice - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Domestication_of_rice"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg/300px-Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg",
+            "caption": "Pieter Bruegel the Elder- The Harvesters - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Old_bull_cart.jpg/300px-Old_bull_cart.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Old_bull_cart.jpg",
+            "caption": "This is a photo of a monument in Pakistan identified as the",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Charles_Townshend%2C_2nd_Viscount_Townshend_by_Sir_Godfrey_Kneller%2C_Bt_%282%29.jpg/300px-Charles_Townshend%2C_2nd_Viscount_Townshend_by_Sir_Godfrey_Kneller%2C_Bt_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Charles_Townshend%2C_2nd_Viscount_Townshend_by_Sir_Godfrey_Kneller%2C_Bt_%282%29.jpg",
+            "caption": "Charles Townshend, 2nd Viscount Townshend by Sir Godfrey Kneller, Bt",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TONY_OWEN_ORGANIC_FARM_-_NARA_-_543017.jpg/300px-TONY_OWEN_ORGANIC_FARM_-_NARA_-_543017.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/TONY_OWEN_ORGANIC_FARM_-_NARA_-_543017.jpg",
+            "caption": "TONY OWEN ORGANIC FARM - NARA - 543017",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

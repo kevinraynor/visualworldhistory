@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3279,
+    "parent_id": 2332,
+    "granularity": "detailed",
+    "content_hash": "sha256:c7fa355b79a5077b1e0de8513f06ad365597251c12035c6254fecdda1f701b15",
+    "summary": "The Battle of Rossbach (November 5, 1757 AD) was one of [[event:2386|Frederick the Great's]] most celebrated victories — a tactical masterpiece in which a Prussian force of approximately 22,000 men destroyed a combined French and Imperial (Holy Roman Empire) army of 41,000 in a battle lasting less than 90 minutes with minimal Prussian casualties. Frederick, facing a potentially fatal encirclement by the coalition of France, Austria, Russia, and Sweden during the [[event:2332|Seven Years' War]], achieved the victory through superlative operational mobility: his army broke camp and marched across the enemy's front while they were still maneuvering to attack, then struck their flank and rear with devastating cavalry charges by General Seydlitz before deploying his infantry for the kill.\n\nRossbach had ramifications beyond its immediate military significance. French casualties were approximately 10,000 (killed, wounded, and captured) against Prussian losses of under 600 — a disparity that humiliated France and demonstrated that its army, considered the finest in Europe at the start of the war, had become bureaucratically sclerotic and tactically inferior. The battle accelerated French calls for military reform (fulfilled by the reforms of Saint-Germain after the Seven Years' War) and contributed to the public ridicule of French military competence that would shape attitudes toward the Army on the eve of the [[event:107|French Revolution]]. For Prussia, Rossbach — fought just five weeks before Frederick's even greater victory at Leuthen — confirmed the martial reputation that made Prussia synonymous with military excellence and provided the foundational myths that would inspire the Prussian reformers of the Napoleonic era.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Rossbach",
+    "read_more_links": [
+        {
+            "title": "Seydlitz cavalry charge Rossbach Prussia tactical victory",
+            "url": "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_von_Seydlitz"
+        },
+        {
+            "title": "Battle of Leuthen 1757 Frederick Prussia Austria victory",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Leuthen"
+        },
+        {
+            "title": "French military reform Saint-Germain Rossbach humiliation aftermath",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Rossbach#Aftermath"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_Imperial_German_Army_1890_-_1913_HU68455.jpg/300px-The_Imperial_German_Army_1890_-_1913_HU68455.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Imperial_German_Army_1890_-_1913_HU68455.jpg",
+            "caption": "The Imperial German Army 1890 - 1913\nThe Kaiser and staff review the IV Army ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Reichardtswerben_Schlacht_v._Rossbach_01.jpg/300px-Reichardtswerben_Schlacht_v._Rossbach_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Reichardtswerben_Schlacht_v._Rossbach_01.jpg",
+            "caption": "Denkmal zur Erinnerung an die Schlacht von Rossbach 1757 (auf der Flur von Re...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Panorama_Geiseltal1_-_panoramio.jpg/300px-Panorama_Geiseltal1_-_panoramio.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Panorama_Geiseltal1_-_panoramio.jpg",
+            "caption": "Panorama Geiseltal1",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ro%C3%9FbachSchlachtgedenkstein.JPG/300px-Ro%C3%9FbachSchlachtgedenkstein.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ro%C3%9FbachSchlachtgedenkstein.JPG",
+            "caption": "Memorial to the Battle of Rossbach in Rossbach (Braunsbedra, district: Saalek...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Frederick the Great",
+            "summary": "King of Prussia from 1740 to 1786",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg/250px-Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_the_Great"
+        },
+        {
+            "name": "Prince Joseph of Saxe-Hildburghausen",
+            "summary": "Prince of Saxe-Hildburghausen",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Prinz-von-Sachsen-Hildburghausen.jpg/250px-Prinz-von-Sachsen-Hildburghausen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Joseph_of_Saxe-Hildburghausen"
+        },
+        {
+            "name": "George II of Great Britain",
+            "summary": "King of Great Britain and Ireland from 1727 to 1760",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/George_II_by_Thomas_Hudson.jpg/250px-George_II_by_Thomas_Hudson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_II_of_Great_Britain"
+        },
+        {
+            "name": "Fred Anderson (historian)",
+            "summary": "American historian (born 1949)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/FredAnderson.jpg/250px-FredAnderson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fred_Anderson_%28historian%29"
+        },
+        {
+            "name": "Robert B. Asprey",
+            "summary": "American military historian and author",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Robert_B_Asprey.jpg/250px-Robert_B_Asprey.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_B._Asprey"
+        },
+        {
+            "name": "Prince Charles Alexander of Lorraine",
+            "summary": "Austrian army officer and governor of the Austrian Netherlands (1712–1780)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Martin_van_Meytens_007.jpg/250px-Martin_van_Meytens_007.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Charles_Alexander_of_Lorraine"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1563,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:62b0517fd81751de39530e1edc5dd75a5fe5b54fd3dc62eb4d69e44ee879ebc8",
+    "summary": "The Hamangia culture was a Neolithic culture of the Dobruja region (present-day southeastern Romania and northeastern Bulgaria, along the Black Sea coast), flourishing between approximately 5250 and 4500 BCE. Named after the site of Baia-Hamangia in Romania, the culture is known primarily from its distinctive clay figurines, most famously the remarkable pair known as the [[event:1564|Thinker of Hamangia]] and his seated companion — considered among the finest examples of prehistoric European sculpture.\n\nHamangia communities occupied the fertile coastal lowlands near the Black Sea, combining agriculture with fishing and collecting marine resources. Their settlements were relatively small villages whose occupants buried their dead in nearby cemeteries with the characteristic Hamangia pottery — which shows stylistic connections to Anatolian and Aegean Neolithic traditions — placed as grave goods. The Hamangia culture's proximity to the Black Sea coast may have facilitated maritime connections that explain its Aegean-related ceramic affinities.\n\nThe Hamangia culture was succeeded by and eventually absorbed into the [[event:1562|Gumelnița culture]] during the late fifth millennium BCE. Its brief cultural lifespan left a small but remarkable artistic legacy that represents some of the most psychologically sophisticated figurative sculpture of the European Neolithic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hamangia_culture",
+    "read_more_links": [
+        {
+            "title": "Thinker of Hamangia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Thinker_(Hamangia)"
+        },
+        {
+            "title": "Black Sea Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic#Balkans"
+        },
+        {
+            "title": "Romanian Neolithic - Britannica",
+            "url": "https://www.britannica.com/place/Romania/Prehistory"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Durankulak-Tell_Golemija_ostrov.JPG/300px-Durankulak-Tell_Golemija_ostrov.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Durankulak-Tell_Golemija_ostrov.JPG",
+            "caption": "Durankulak tell, Big Island (Golemia ostrov), Bulgaria.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Durankulak-Golemija_ostrov-Hamangia_IV_vessels.jpg/300px-Durankulak-Golemija_ostrov-Hamangia_IV_vessels.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Durankulak-Golemija_ostrov-Hamangia_IV_vessels.jpg",
+            "caption": "Ceramic vessels from the settlement mound “The Big Island” at Durankulak, Bui...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Durankulak-nekropola_Hamangia.tif/300px-Durankulak-nekropola_Hamangia.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Durankulak-nekropola_Hamangia.tif",
+            "caption": "Ceramic vessel with anthropomorphic lid, Hamangia III culture.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ceramic_bowl_from_the_5th_millennium_BC%2C_Durankulak.jpg/300px-Ceramic_bowl_from_the_5th_millennium_BC%2C_Durankulak.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ceramic_bowl_from_the_5th_millennium_BC%2C_Durankulak.jpg",
+            "caption": "Ceramic bowl from the 5th millennium BC, Durankulak, Bulgaria.",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cycladic art",
+            "summary": "Pre-Greek artistic tradition",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cycladic_idol_02.JPG/250px-Cycladic_idol_02.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cycladic_art"
+        }
+    ],
+    "territory_geojson": null
+}

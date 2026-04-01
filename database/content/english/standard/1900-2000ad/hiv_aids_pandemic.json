@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3388,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a262145c1ab7d0d2ba2b0e1bf8085835afb2d622cfea7fb761a4dcec34ab0719",
+    "summary": "The HIV/AIDS pandemic emerged as a defining global health crisis of the late twentieth century. The human immunodeficiency virus was first clinically recognized in the United States in 1981, when physicians in Los Angeles and New York reported unusual clusters of rare opportunistic infections in young gay men. The causative agent, HIV, was identified by French and American researchers in 1983–1984. The virus destroys immune system cells, eventually causing acquired immunodeficiency syndrome, which leaves the body unable to fight off infections and cancers that would be harmless in a healthy person.\n\nThe pandemic spread rapidly across the globe through the 1980s and 1990s, transmitted through sexual contact, blood transfusions, contaminated needles, and mother-to-child transmission. Sub-Saharan Africa was hit hardest, with entire communities and generations devastated in countries like Zimbabwe, Botswana, and South Africa. By 2000, an estimated 36 million people were living with HIV worldwide, and roughly 22 million had already died from AIDS-related illnesses.\n\nThe social and political dimensions of the epidemic were as significant as the medical crisis. In Western countries, HIV/AIDS was initially associated with gay men and intravenous drug users, leading to widespread stigma and delayed government responses. Activist organizations such as ACT UP in the United States pressured governments and pharmaceutical companies to accelerate treatment research and access. The development of antiretroviral therapy in the mid-1990s transformed HIV from a death sentence into a manageable chronic condition for those with access to treatment, though cost barriers kept these drugs out of reach for millions in the developing world throughout the century.\n\nThe pandemic reshaped public health policy, accelerated global health funding mechanisms, and forced societies to confront questions of sexual health, drug policy, and global inequality in medicine.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/HIV/AIDS",
+    "read_more_links": [
+        {
+            "title": "HIV/AIDS in Africa",
+            "url": "https://en.wikipedia.org/wiki/HIV/AIDS_in_Africa"
+        },
+        {
+            "title": "History of HIV/AIDS",
+            "url": "https://en.wikipedia.org/wiki/History_of_HIV/AIDS"
+        },
+        {
+            "title": "Antiretroviral therapy",
+            "url": "https://en.wikipedia.org/wiki/Antiretroviral_therapy"
+        },
+        {
+            "title": "ACT UP",
+            "url": "https://en.wikipedia.org/wiki/ACT_UP"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HIV_Rapid_Test_being_administered.jpg/300px-HIV_Rapid_Test_being_administered.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/HIV_Rapid_Test_being_administered.jpg",
+            "caption": "HIV Rapid Test being administered",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mmwr-aids-July1981-report-101.png/300px-Mmwr-aids-July1981-report-101.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mmwr-aids-July1981-report-101.png",
+            "caption": "cover page of MMWR of July 3, 1981. Considered to be the first major public i...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Deaths-and-new-cases-of-hiv.png/300px-Deaths-and-new-cases-of-hiv.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Deaths-and-new-cases-of-hiv.png",
+            "caption": "Prevalence, new cases and deaths from HIV/AIDS, World\nTo fit all three measur...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIV-budding-Color.jpg/300px-HIV-budding-Color.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HIV-budding-Color.jpg",
+            "caption": "Scanning electron micrograph of HIV-1 budding (in green) from cultured lympho...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

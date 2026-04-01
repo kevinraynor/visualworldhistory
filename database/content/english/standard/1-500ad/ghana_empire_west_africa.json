@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 90,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b179ad0d07f60ff5047b07e8b503ed6ab054570501f64a01658480e5c8673e75",
+    "summary": "The Ghana Empire (c. 300–1200 AD, with origins perhaps as early as 300 AD) was the first of the great West African Sahelian empires, centered in the upper Niger and Senegal river region of modern Mali and Mauritania. Called 'Ghana' (meaning 'war chief') by Arab geographers who described it in the 8th–11th centuries, the empire controlled the trans-Saharan gold and salt trade that linked the gold-producing regions of West Africa with the Mediterranean and Islamic worlds — becoming legendary for its wealth.\n\nGhana's power rested on its ability to tax the gold trade: gold from the Bambuk and Bure gold fields passed through Kumbi Saleh (the probable capital) on its way north, while Saharan salt moved southward. Arab accounts describe the Ghana ruler as commanding vast armies and receiving the merchants of many nations. The empire was not a unified centralized state but a network of trading towns and tributary relationships under Soninke king leadership. Its decline began with the Almoravid invasions from North Africa in the late 11th century and continued through the rise of the Mali Empire in the 13th century. The Ghana Empire's name was adopted by the modern nation of Ghana at independence in 1957 as a symbolic claim to the heritage of West African imperial civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghana_Empire",
+    "read_more_links": [
+        {
+            "title": "Kumbi Saleh capital",
+            "url": "https://en.wikipedia.org/wiki/Koumbi_Saleh"
+        },
+        {
+            "title": "Trans-Saharan gold salt trade",
+            "url": "https://en.wikipedia.org/wiki/Trans-Saharan_trade"
+        },
+        {
+            "title": "Soninke people founders",
+            "url": "https://en.wikipedia.org/wiki/Soninke_people"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ghana_empire_map.png/300px-Ghana_empire_map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ghana_empire_map.png",
+            "caption": "Map of the Ghana Empire. (German version)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Structural_diagram_of_burial.jpg/300px-Structural_diagram_of_burial.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Structural_diagram_of_burial.jpg",
+            "caption": "Structural diagram of the burial excavated in 1972, showing the over-pit syst...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Central_Mausoleum_of_the_Column_Tomb.jpg/300px-Central_Mausoleum_of_the_Column_Tomb.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Central_Mausoleum_of_the_Column_Tomb.jpg",
+            "caption": "The central mausoleum of the Column Tomb photographed in 1914: this is the on...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Plan_of_the_entire_funerary_complex_of_the_Column_Tomb.jpg/300px-Plan_of_the_entire_funerary_complex_of_the_Column_Tomb.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Plan_of_the_entire_funerary_complex_of_the_Column_Tomb.jpg",
+            "caption": "Plan of the entire funerary complex of the Column Tomb",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Kwame Nkrumah",
+            "summary": "Ghanaian politician (1909–1972)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg/250px-Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah"
+        },
+        {
+            "name": "Muhammad",
+            "summary": "Founder of Islam (c. 570–632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Al-Masjid_AL-Nabawi_Door.jpg/250px-Al-Masjid_AL-Nabawi_Door.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad"
+        },
+        {
+            "name": "Ali",
+            "summary": "1st Shia Imam and 4th Rashidun caliph (656–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG/250px-Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ali"
+        },
+        {
+            "name": "Al-Masudi",
+            "summary": "10th-century Arab historian and geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/NHM_Bellariastra%C3%9Fe_side_risalit_right_-_Al_Masudi_-_Emmerich_Alexius_Swoboda_3890.jpg/250px-NHM_Bellariastra%C3%9Fe_side_risalit_right_-_Al_Masudi_-_Emmerich_Alexius_Swoboda_3890.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Masudi"
+        },
+        {
+            "name": "Ibn Hawqal",
+            "summary": "10th century Arab writer and geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ibn_Howqal_World_map.jpg/250px-Ibn_Howqal_World_map.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ibn_Hawqal"
+        }
+    ],
+    "territory_geojson": null
+}

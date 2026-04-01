@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2576,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2d5b40692443b3269b29e7ebf9f932900e3c412fda0a1d69d41fcea9734260d2",
+    "summary": "The Panama Canal, connecting the Atlantic and Pacific oceans through the Isthmus of Panama, is one of the greatest engineering achievements in human history. Its construction spanned a French attempt from 1881 to 1889 that ended in catastrophic failure and an American-led effort from 1904 to 1914 that succeeded, creating a waterway that transformed global maritime commerce and reshaped the strategic geography of the Western Hemisphere.\n\nThe idea of a canal through Central America predated both construction attempts by centuries. After the success of the [[event:2549|Suez Canal]], Ferdinand de Lesseps — the French promoter who had built Suez — organized a French company and launched construction in Panama in 1881. The [[event:3763|French attempt failed]] for a combination of reasons: de Lesseps had insisted on a sea-level canal like Suez rather than a lock canal, which required far more excavation; tropical diseases, especially yellow fever and malaria, killed tens of thousands of workers; engineering miscalculations and financial mismanagement compounded the technical difficulties. The company collapsed in 1889 in a scandal that implicated hundreds of French politicians and officials.\n\nThe United States, which had acquired the French assets and negotiated rights with the new Republic of Panama (which it had helped detach from Colombia in 1903), took over construction in 1904. The American effort benefited from the accumulated French excavation, but its success depended primarily on Colonel William Gorgas's mosquito eradication program, which dramatically reduced yellow fever and malaria mortality, making the construction zone habitable. The decision to build a lock rather than sea-level canal, and the use of modern steam shovels and railway equipment, also proved crucial. The canal was completed in 1914 and opened to traffic just as the First World War began.\n\nThe canal reduced the voyage between New York and San Francisco from approximately 22,500 kilometers around Cape Horn to 9,500 kilometers through Panama. It was immediately of enormous strategic and commercial importance, allowing the rapid movement of naval vessels between the Atlantic and Pacific fleets. The United States controlled the Canal Zone until 1999, when the canal was transferred to Panamanian sovereignty under treaties negotiated in 1977.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panama_Canal",
+    "read_more_links": [
+        {
+            "title": "Panama Canal – Britannica",
+            "url": "https://www.britannica.com/topic/Panama-Canal"
+        },
+        {
+            "title": "History of the Panama Canal – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_Panama_Canal"
+        },
+        {
+            "title": "William C. Gorgas – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/William_C._Gorgas"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

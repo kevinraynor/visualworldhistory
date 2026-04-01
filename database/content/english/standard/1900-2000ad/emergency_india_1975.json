@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3657,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f3efdd01c0941a2554b6d299a590a712da2d2c6f10efb073b1477c9f3ae586ad",
+    "summary": "Prime Minister Indira Gandhi declared a state of emergency in India from June 1975 to March 1977, the most authoritarian period in the country's post-independence history. The emergency was precipitated by the Allahabad High Court's ruling in June 1975 invalidating her 1971 election victory on grounds of electoral malpractice, which would have required her to vacate her seat. Rather than resign, Gandhi persuaded President Fakhruddin Ali Ahmed to declare a national emergency under the constitution.\n\nDuring the 21-month emergency, fundamental rights were suspended, press censorship was imposed, political opponents were imprisoned without trial — including Jayaprakash Narayan, Morarji Desai, and virtually the entire leadership of opposition parties — and elections were postponed. Gandhi's son Sanjay Gandhi wielded enormous unofficial power and oversaw a controversial family planning program that included coercive sterilizations that generated widespread resentment. When Gandhi unexpectedly called elections in March 1977, confident of winning, she was defeated by the newly formed Janata coalition in India's first transfer of power between parties. The emergency damaged the legitimacy of the Congress Party and demonstrated both the fragility and ultimate resilience of Indian democratic institutions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Emergency_(India)",
+    "read_more_links": [
+        {
+            "title": "Indira Gandhi",
+            "url": "https://en.wikipedia.org/wiki/Indira_Gandhi"
+        },
+        {
+            "title": "Sanjay Gandhi",
+            "url": "https://en.wikipedia.org/wiki/Sanjay_Gandhi"
+        },
+        {
+            "title": "Janata Party",
+            "url": "https://en.wikipedia.org/wiki/Janata_Party"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Indira_Gandhi_1966.png/300px-Indira_Gandhi_1966.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Indira_Gandhi_1966.png",
+            "caption": "Indian Prime Minister Indira Gandhi at the Carlyle Hotel, New York City, Marc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jayaprakash_Narayan_2001_stamp_of_India.jpg/300px-Jayaprakash_Narayan_2001_stamp_of_India.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Jayaprakash_Narayan_2001_stamp_of_India.jpg",
+            "caption": "Jayaprakash Narayan",
+            "attribution": "Wikimedia Commons, GODL-India"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Indira Gandhi",
+            "summary": "Prime Minister of India (1966–1977; 1980–1984)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/IndiraGandhi.png/250px-IndiraGandhi.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Indira_Gandhi"
+        },
+        {
+            "name": "Fakhruddin Ali Ahmed",
+            "summary": "President of India from 1974 to 1977",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/President_Fakhruddin_Ali_Ahmed.jpg/250px-President_Fakhruddin_Ali_Ahmed.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fakhruddin_Ali_Ahmed"
+        },
+        {
+            "name": "Sanjay Gandhi",
+            "summary": "Indian politician (1946–1980)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sanjay-gandhi.jpg/250px-Sanjay-gandhi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sanjay_Gandhi"
+        },
+        {
+            "name": "Prime Minister's Office (India)",
+            "summary": "Office of the Prime minister of India",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PMO_India_Logo.svg/250px-PMO_India_Logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prime_Minister%27s_Office_%28India%29"
+        },
+        {
+            "name": "Ramachandra Guha",
+            "summary": "Indian historian and writer (born 1958)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ramachandra_Guha_at_the_Bangalore_Literature_Festival%2C_2024.jpg/250px-Ramachandra_Guha_at_the_Bangalore_Literature_Festival%2C_2024.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramachandra_Guha"
+        },
+        {
+            "name": "Lalit Narayan Mishra",
+            "summary": "Indian politician (1923–1975)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lalit_Narayan_Mishra_1976_stamp_of_India_%28cropped%29.jpg/250px-Lalit_Narayan_Mishra_1976_stamp_of_India_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lalit_Narayan_Mishra"
+        }
+    ],
+    "territory_geojson": null
+}

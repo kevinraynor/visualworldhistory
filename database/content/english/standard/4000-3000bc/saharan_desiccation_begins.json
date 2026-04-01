@@ -1,0 +1,63 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1687,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:c9069a8b9dfc094ff1e618c3dd304405517571f59f638c10b33e052aa83dc455",
+    "summary": "The desiccation of the Sahara — the transition from the relatively lush, lake-dotted landscape of the African Humid Period (Green Sahara) to the hyper-arid desert known today — accelerated dramatically between approximately 3500 and 2500 BCE, fundamentally altering the human geography of North Africa and likely contributing to major population movements that shaped the history of Egypt, the Nile Valley, and sub-Saharan Africa. This climatic transition is one of the most consequential environmental changes of the prehistoric era.\n\nDuring the African Humid Period (approximately 11,000 to 5,000 years ago), much of what is now the Sahara Desert received substantially more rainfall than today, supporting permanent lakes, rivers, grasslands, and even patches of woodland across regions that are now among the most arid on Earth. The central Sahara was populated by pastoralists, hunters, and fishers who left abundant evidence of their presence in the form of rock art, pottery, and skeletal remains at sites like the Acacus Mountains, the Fezzan, and the Ennedi plateau. Lake Chad was vastly larger than its modern extent, and a lake system occupied much of what is now Egypt's Western Desert.\n\nThe desiccation that began around 3500 BCE and accelerated through the following centuries was driven by precession-driven changes in Earth's orbital parameters that reduced the intensity of the African monsoon. As rainfall decreased and vegetation retreated, the positive feedback of reduced vegetative cover (which had helped maintain moisture) accelerated the process, causing a relatively rapid collapse of the African Humid Period environment. The transition appears to have been pulsed rather than perfectly gradual, with periods of rapid deterioration.\n\nThe consequences for human populations were profound. Communities that had lived across the Sahara for millennia were forced to migrate as water sources dried up. Archaeological and genetic evidence suggests that substantial northward and eastward migration — toward the Nile Valley and the Mediterranean coast — contributed to the population growth and agricultural intensification in the Nile Delta and Valley during exactly the period when [[event:1634|Egyptian predynastic]] cultures were developing. The Saharan refugees likely contributed both genetic diversity and knowledge of cattle pastoralism to the populations that would eventually coalesce into pharaonic Egypt. Meanwhile, southward migration contributed to the settlement and cultural development of sub-Saharan regions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sahara#History",
+    "read_more_links": [
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "Sahara - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sahara"
+        },
+        {
+            "title": "Green Sahara - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "Saharan Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Sahara"
+        },
+        {
+            "title": "Climate Change and Human Migration - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Climate_change_and_ecosystems"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sahara_satellite_hires.jpg/300px-Sahara_satellite_hires.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sahara_satellite_hires.jpg",
+            "caption": "Sahara desert from space.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Journal.pone.0076514.g004.png/300px-Journal.pone.0076514.g004.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Journal.pone.0076514.g004.png",
+            "caption": "and early en:Holocene climate and vegetation of Africa",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Niger%2C_Toubou_people_at_Koul%C3%A9l%C3%A9_%2811%29.jpg/300px-Niger%2C_Toubou_people_at_Koul%C3%A9l%C3%A9_%2811%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Niger%2C_Toubou_people_at_Koul%C3%A9l%C3%A9_%2811%29.jpg",
+            "caption": "Toubou men with camels attending an official ceremony, somewhere between Bedo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Village_Telly_in_Mali.jpg/300px-Village_Telly_in_Mali.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Village_Telly_in_Mali.jpg",
+            "caption": "Telly, one of the first villages in the Bandiagara escarpment in Mali.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1072,
+    "parent_id": 72,
+    "granularity": "notable",
+    "content_hash": "sha256:f1e1f55de381e372b2e259336aa27c1b32e2daff09f34338c32e63da7b511bd8",
+    "summary": "The Spartacus Revolt (73–71 BC), also called the Third Servile War, was the largest slave rebellion in Roman history and the only one to seriously threaten Italian security. Led by the Thracian gladiator Spartacus, the rebellion began at a gladiatorial training school in Capua and grew to an army of perhaps 70,000–120,000 runaway slaves and the desperate poor who defeated multiple Roman armies before being finally suppressed by Marcus Licinius Crassus.\n\nSpartacus was a formidable military commander who displayed tactical ability equal to Rome's best generals, defeating consular armies in the field and ranging across Italy. Ancient sources dispute his ultimate objectives: some suggest he wanted to lead his army out of Italy over the Alps; others that he sought to march on Rome; others that he hoped merely for freedom. The revolt exposed Rome's terrifying dependence on slave labor for its economy and agriculture — a dependence made possible by the slave influxes from Roman conquests including the [[event:1064|Roman Conquest of Greece]] and the [[event:1059|Destruction of Carthage]].\n\nCrassus ultimately trapped the rebel army in southern Italy and broke it in a series of battles in 71 BC. Spartacus was killed in battle (his body was never identified). Some 6,000 survivors were crucified along the Appian Way ([[event:1086|Via Appia Construction]]) from Capua to Rome — a brutal public display intended to deter future uprisings. Gnaeus Pompey returned from Spain in time to intercept and kill some 5,000 rebels trying to escape northward, then somewhat outrageously claimed credit for ending the rebellion, a theft of glory that infuriated Crassus. The revolt led to no slave emancipation or legal reforms; it remained traumatically present in Roman memory as the closest slaves ever came to threatening the system that sustained Roman civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Third_Servile_War",
+    "read_more_links": [
+        {
+            "title": "Spartacus",
+            "url": "https://en.wikipedia.org/wiki/Spartacus"
+        },
+        {
+            "title": "Marcus Licinius Crassus",
+            "url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        },
+        {
+            "title": "Roman Slavery",
+            "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Rome"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Spartacus_by_Sanesi.jpg/300px-Spartacus_by_Sanesi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Spartacus_by_Sanesi.jpg",
+            "caption": "Slave Revolt in the Final Battle Crassus Defeats the Slaves and Spartacus is ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spartacus_statue_by_Denis_Foyatier.jpg/300px-Spartacus_statue_by_Denis_Foyatier.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spartacus_statue_by_Denis_Foyatier.jpg",
+            "caption": "Spartacus statue by Denis Foyatier",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Borghese_villa_gladiator_mosaic.jpg/300px-Borghese_villa_gladiator_mosaic.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Borghese_villa_gladiator_mosaic.jpg",
+            "caption": "Mosaico galdiatorio depositado en la villa Borghese en roma, correspondiente ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Borghese_villa_gladiator_mosaic.jpg/300px-Borghese_villa_gladiator_mosaic.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Borghese_villa_gladiator_mosaic.jpg",
+            "caption": "Mosaico galdiatorio depositado en la villa Borghese en roma, correspondiente ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Crixus",
+            "summary": "Gallic gladiator and rebel leader (d. 72 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/R%C3%A9plica_de_murmillo.jpg/250px-R%C3%A9plica_de_murmillo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Crixus"
+        },
+        {
+            "name": "Marcus Licinius Crassus",
+            "summary": "Roman general and statesman (115–53 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bust_of_a_Roman%2C_Ny_Carlsberg_Glyptotek.jpg/250px-Bust_of_a_Roman%2C_Ny_Carlsberg_Glyptotek.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        },
+        {
+            "name": "Militia",
+            "summary": "Force of non-professional soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hempstead_Rifles.jpg/250px-Hempstead_Rifles.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Militia"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "name": "Appian",
+            "summary": "Greco-Roman historian (c. 95 – c. 165)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Appian_%28Latin%29%2C_Florence%2C_BML%2C_Plut._68.19.jpg/250px-Appian_%28Latin%29%2C_Florence%2C_BML%2C_Plut._68.19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Appian"
+        }
+    ],
+    "territory_geojson": null
+}

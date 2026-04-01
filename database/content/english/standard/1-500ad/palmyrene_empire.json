@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2855,
+    "parent_id": 2025,
+    "granularity": "detailed",
+    "content_hash": "sha256:79c7c315b0eefcf1bd613cfe343989e64ae475074a967a7675c0c5aefd0812bd",
+    "summary": "The Palmyrene Empire (263–273 AD) was a remarkable breakaway state centered on the desert city of Palmyra in modern Syria — one of the most dramatic episodes of the [[event:2025|Crisis of the Third Century]], in which the widow-regent Zenobia (ruling on behalf of her son Vaballathus) transformed what had been a Roman client state into an independent power that briefly controlled Egypt, Syria, Palestine, and much of Anatolia. Zenobia — described by ancient sources as extraordinarily intelligent, learned in Greek, Latin, Aramaic, and Egyptian, and a skilled military and political leader — claimed descent from Cleopatra and presented herself as a legitimate successor to the eastern Roman provinces.\n\nZenobia's empire arose from the power vacuum created by the Roman emperor [[event:2826|Valerian's]] capture by the Sassanids in 260 AD. Her general Zabdas conquered Egypt in 269, and her son was proclaimed co-emperor with the Roman emperor on Palmyrene coins — a direct challenge to Roman sovereignty. Emperor [[event:2854|Aurelian]] could not tolerate this fragmentation; he marched east in 272, defeated Zenobia's armies at Immae and Emesa, besieged Palmyra, and captured Zenobia when she attempted to flee to Persia. She was taken to Rome, reportedly displayed in golden chains in Aurelian's triumph, and later lived comfortably as a Roman matron near Tivoli. Palmyra itself was partially destroyed after a second revolt. The Palmyrene Empire's brief existence demonstrated both the depth of the 3rd-century crisis and the resilience of Roman power when effectively led.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Palmyrene_Empire",
+    "read_more_links": [
+        {
+            "title": "Zenobia queen of Palmyra",
+            "url": "https://en.wikipedia.org/wiki/Zenobia"
+        },
+        {
+            "title": "Palmyra desert city trade",
+            "url": "https://en.wikipedia.org/wiki/Palmyra"
+        },
+        {
+            "title": "Aurelian defeats Palmyrene Empire",
+            "url": "https://en.wikipedia.org/wiki/Palmyrene_Empire#Aurelian's_campaigns"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Empire_of_Palmyra.png/300px-Empire_of_Palmyra.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Empire_of_Palmyra.png",
+            "caption": "Map showing The Palmyrene Empire at its greatest extent in 271 AD, an improve...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/AurelianusPalmyra272.png/300px-AurelianusPalmyra272.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/AurelianusPalmyra272.png",
+            "caption": "Map of the Roman Emperor Aurelian's march to Palmyra AD 272.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/AURELIANUS_RIC_V_381-795833.jpg/300px-AURELIANUS_RIC_V_381-795833.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/AURELIANUS_RIC_V_381-795833.jpg",
+            "caption": "Aurelian, with Vaballathus. AD 270-275. \nAntoninianus (19mm, 3.68 g, 11h). An...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/ZENOBIA_-_RIC_V_2_-_80000750.jpg/300px-ZENOBIA_-_RIC_V_2_-_80000750.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ZENOBIA_-_RIC_V_2_-_80000750.jpg",
+            "caption": "Zenobia. Usurper, AD 268-272. \nAntoninianus (3.64 g, 6h). Antioch mint, 8th o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vaballathus",
+            "summary": "Emperor of Palmyra in 272",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Aurelian-with-vabalathus_%28reverse%29.jpg/250px-Aurelian-with-vabalathus_%28reverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vaballathus"
+        },
+        {
+            "name": "Zenobia",
+            "summary": "Empress of Palmyra in 272",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Antoninianus_of_Zenobia_%28obverse%29.png/250px-Antoninianus_of_Zenobia_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zenobia"
+        },
+        {
+            "name": "Aurelian",
+            "summary": "Roman emperor (c. 214 – 275)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg/250px-5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aurelian"
+        },
+        {
+            "name": "Valerian (emperor)",
+            "summary": "Roman emperor from 253 to 260",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg/250px-Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valerian_%28emperor%29"
+        },
+        {
+            "name": "Gallienus",
+            "summary": "Roman emperor from 253 to 268",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ritratto_di_gallieno_dalla_casa_delle_vestali.jpg/250px-Ritratto_di_gallieno_dalla_casa_delle_vestali.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gallienus"
+        },
+        {
+            "name": "Odaenathus",
+            "summary": "King of Palmyra from 260 to 267",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tessera_from_Palmyra.png/250px-Tessera_from_Palmyra.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Odaenathus"
+        }
+    ],
+    "territory_geojson": null
+}

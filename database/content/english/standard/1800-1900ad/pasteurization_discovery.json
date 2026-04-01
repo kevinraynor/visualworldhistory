@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2578,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e3901ed46ef68c732e14b2159bbd757e6700ab9aafbc85ebed639b4d1e6135e8",
+    "summary": "Pasteurization — the process of heating liquids such as wine, beer, and milk to a temperature sufficient to kill most harmful microorganisms without boiling — was developed by the French chemist and microbiologist Louis Pasteur in 1862. The technique was initially applied to wine and beer at the request of Emperor Napoleon III to prevent spoilage, but its most consequential application was to milk, dramatically reducing deaths from milk-borne diseases such as typhoid fever, tuberculosis, and scarlet fever.\n\nPasteur's development of pasteurization grew from his broader work disproving the theory of spontaneous generation — the ancient idea that microorganisms could arise spontaneously in organic matter — and establishing the [[event:2579|germ theory of disease]]. His elegant swan-neck flask experiments demonstrated conclusively that microorganisms came from the environment rather than arising spontaneously in sterile broth, providing the theoretical foundation for understanding how food spoilage and disease spread.\n\nThe adoption of pasteurization was not immediate, particularly for milk. Resistance from dairy industry interests and doubts about whether heating milk reduced its nutritional value slowed adoption in some countries for decades. However, as infant mortality statistics demonstrated the dramatic reductions that came with pasteurized milk — in New York City, infant mortality fell sharply after municipal milk pasteurization was introduced in the early twentieth century — opposition faded. Today pasteurization is mandated for milk in most countries and is applied to a wide range of food and beverage products, representing one of the most widely implemented public health interventions in history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pasteurization",
+    "read_more_links": [
+        {
+            "title": "Louis Pasteur – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+        },
+        {
+            "title": "Louis Pasteur – Britannica",
+            "url": "https://www.britannica.com/biography/Louis-Pasteur"
+        },
+        {
+            "title": "Germ Theory – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Industry_during_the_First_World_War-_Cheshire_Q28329.jpg/300px-Industry_during_the_First_World_War-_Cheshire_Q28329.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Industry_during_the_First_World_War-_Cheshire_Q28329.jpg",
+            "caption": "Industry during the First World War- Cheshire\nA female worker removes bottles...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Milk_001.JPG/300px-Milk_001.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Milk_001.JPG",
+            "caption": "Milk in a glass",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg/300px-Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg",
+            "caption": "A Chicago Department of Health poster explains to mothers how to make cows' m...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Milk_Vat.jpg/300px-Milk_Vat.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Milk_Vat.jpg",
+            "caption": "400lbs of Milk in cheese vat, undergoing pasteurization.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Nicolas Appert",
+            "summary": "French confectioner and inventor (1749–1841)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Appert_Nicolas.jpg/250px-Appert_Nicolas.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolas_Appert"
+        },
+        {
+            "name": "French franc",
+            "summary": "Currency of France from 1360 to 2002",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/French_franc_last_series_banknotes.png/250px-French_franc_last_series_banknotes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/French_franc"
+        }
+    ],
+    "territory_geojson": null
+}

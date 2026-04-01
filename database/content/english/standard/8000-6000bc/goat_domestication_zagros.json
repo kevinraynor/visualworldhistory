@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3755,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b45bae29b1958f7caf262465afa8efe7276d8ad67e049e0e57804ce8180ab1a1",
+    "summary": "Domestic goats (Capra hircus) were domesticated from the bezoar ibex (Capra aegagrus) in the Zagros Mountains of western Iran and eastern Iraq, with zooarchaeological evidence placing the domestication event around 8000–7000 BCE. The Zagros foothills provided an ideal environment for both wild ibex populations and the Neolithic farming communities that began managing them, and early sites such as Ali Kosh and Ganj Dareh have yielded goat bones showing the morphological changes — particularly reduced horn size — associated with domestication.\n\nGoats were among the first animals to be fully domesticated for food production, valued for their milk, meat, fiber (mohair and cashmere), and hides. Their hardiness and ability to thrive on rough terrain and sparse vegetation gave them a broader ecological range than cattle, making them important to pastoral economies in arid and mountainous regions. The domestication of the goat, alongside that of sheep, formed the foundation of the pastoral component of early Near Eastern mixed farming economies.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goat#History_of_domestication",
+    "read_more_links": [
+        {
+            "title": "Goat – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Goat"
+        },
+        {
+            "title": "Bezoar Ibex – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wild_goat"
+        },
+        {
+            "title": "Zagros Mountains Prehistory – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zagros_Mountains"
+        },
+        {
+            "title": "Animal Domestication – Britannica",
+            "url": "https://www.britannica.com/topic/livestock-farming"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goats_in_landscape_management_at_German_Highway_B_42._Spielvogel_2013.jpg/300px-Goats_in_landscape_management_at_German_Highway_B_42._Spielvogel_2013.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Goats_in_landscape_management_at_German_Highway_B_42._Spielvogel_2013.jpg",
+            "caption": "Goats in landscape management at German Highway B 42 near Bonn.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Capra_hircus_%26_Homo_sapiens_%2855026684731%29.jpg/300px-Capra_hircus_%26_Homo_sapiens_%2855026684731%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Capra_hircus_%26_Homo_sapiens_%2855026684731%29.jpg",
+            "caption": "Capra hircus and Homo sapiens at Copenhagen Zoo in Frederiksberg, Copenhagen....",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kleine_Ziegen_im_Tiergehege.jpg/300px-Kleine_Ziegen_im_Tiergehege.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kleine_Ziegen_im_Tiergehege.jpg",
+            "caption": "Zwergziegen im Tiergehege Frankenthal Pfalz im Sommer [1]",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/10.36_Ziegenherde_am_Tell.jpg/300px-10.36_Ziegenherde_am_Tell.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/10.36_Ziegenherde_am_Tell.jpg",
+            "caption": "Ziegenherde am Tell",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dominance hierarchy",
+            "summary": "Type of socially subordinate ranking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mandrillus_sphinx_%28alpha_male%29.jpg/250px-Mandrillus_sphinx_%28alpha_male%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dominance_hierarchy"
+        }
+    ],
+    "territory_geojson": null
+}

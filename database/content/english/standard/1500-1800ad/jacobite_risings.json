@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2384,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9dc3f1d46761ff250b3901f9b7ea7168c3e8f4d693bfec0cd264166fcaab29ef",
+    "summary": "The Jacobite Risings (1688–1746 AD) were a series of uprisings in Britain and Ireland supporting the claims of the exiled Catholic Stuart dynasty to the British throne — from the deposed James II and his son James Francis Edward Stuart ('the Old Pretender') to his grandson Charles Edward Stuart ('Bonnie Prince Charlie' or 'the Young Pretender') — driven by a combination of dynastic legitimism, Catholic-Anglican religious conflict, Scottish Highland clan loyalism, and opposition to the [[event:2365|Act of Union]] with England. The Jacobite cause drew its strongest support from the Scottish Highlands and Catholic Ireland, though it also attracted English non-jurors (Anglicans who refused to swear oaths to William III and subsequent monarchs).\n\nThe major risings were: the 1689–1691 uprising (the 'Glencoe Massacre' — the 1692 murder of MacDonald clansmen by government forces — became a symbol of anti-Jacobite brutality); the 1715 rising ('the Fifteen'), which was poorly managed and collapsed at the Battle of Sheriffmuir; and the 1745 rising ('the Forty-Five'), which came closest to success. Charles Edward Stuart landed in Scotland in July 1745, rallied Highland clans, and marched deep into England as far as Derby — within 125 miles of London — before his officers insisted on retreat due to lack of English Jacobite support. The Jacobite army fell back to Scotland and was decisively destroyed at the [[event:2385|Battle of Culloden]] (April 16, 1746), after which government forces systematically disarmed the Highlands and dismantled the clan system. Bonnie Prince Charlie escaped to France and eventually died in Rome in 1788, ending the Stuart cause.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jacobitism",
+    "read_more_links": [
+        {
+            "title": "1745 rising Bonnie Prince Charlie Highland campaign",
+            "url": "https://en.wikipedia.org/wiki/Jacobite_rising_of_1745"
+        },
+        {
+            "title": "Jacobite Battle Sheriffmuir 1715 uprising",
+            "url": "https://en.wikipedia.org/wiki/Jacobite_rising_of_1715"
+        },
+        {
+            "title": "Highland clan system Scotland Jacobite support",
+            "url": "https://en.wikipedia.org/wiki/Scottish_clan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg/300px-Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Anthony_van_Dyck_-_Charles_I_%281600-49%29_with_M._de_St_Antoine_-_Google_Art_Project.jpg",
+            "caption": "Portrait of Charles I, King of England, on horseback with his equerry St. Ant...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg/300px-Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg",
+            "caption": "Prince James Francis Edward Stuart by Alexis Simon Belle",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Henry_St_John%2C_1st_Viscount_Bolingbroke_%281678%29.jpg/300px-Henry_St_John%2C_1st_Viscount_Bolingbroke_%281678%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Henry_St_John%2C_1st_Viscount_Bolingbroke_%281678%29.jpg",
+            "caption": "This portrait of the famous Tory and later Jacobite politician shows him in P...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Monument_to_the_Stuarts_detail.JPG/300px-Monument_to_the_Stuarts_detail.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Monument_to_the_Stuarts_detail.JPG",
+            "caption": "Monument to the Stuarts detail, St. Peter's Basilica, Rome",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "James II of England",
+            "summary": "King of England, Scotland and Ireland from 1685 to 1688",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/James_II_by_Peter_Lely.jpg/250px-James_II_by_Peter_Lely.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_II_of_England"
+        },
+        {
+            "name": "Charles Edward Stuart",
+            "summary": "Jacobite leader (1720–1788)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lost_Portrait_of_Charles_Edward_Stuart.jpg/250px-Lost_Portrait_of_Charles_Edward_Stuart.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart"
+        },
+        {
+            "name": "George Murray (general)",
+            "summary": "Scottish Jacobite general (1694–1760)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lord_George_Murray.jpg/250px-Lord_George_Murray.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Murray_%28general%29"
+        },
+        {
+            "name": "William III of England",
+            "summary": "King of England, Scotland, and Ireland from 1689 to 1702",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg/250px-King_William_III_of_England%2C_%281650-1702%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_III_of_England"
+        },
+        {
+            "name": "James VI and I",
+            "summary": "King of Scotland from 1567 to 1625, King of England and Ireland from 1603 to 1625",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JamesIEngland.jpg/250px-JamesIEngland.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_VI_and_I"
+        },
+        {
+            "name": "Elizabeth I",
+            "summary": "Queen of England and Ireland from 1558 to 1603",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/250px-Darnley_stage_3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_I"
+        }
+    ],
+    "territory_geojson": null
+}

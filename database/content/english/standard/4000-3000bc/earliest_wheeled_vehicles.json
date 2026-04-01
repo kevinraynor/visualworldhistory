@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1691,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d255e842fcc12029a247e6f4921ee3d083412ec0de4726cf42d9ce51cc8ff2b8",
+    "summary": "The earliest known wheeled vehicles appear in the archaeological record of the Pontic-Caspian steppe and northern Mesopotamia between approximately 3500 and 3300 BCE, representing one of the most consequential technological innovations in human history. The invention of the wheel for transportation — as distinct from its application in [[event:1632|pottery production]] — fundamentally transformed the capacity of human societies to move goods, people, and resources across large distances, with cascading consequences for trade, warfare, and settlement patterns.\n\nThe earliest physical evidence for wheeled vehicles comes from wagon burials of the Yamnaya and related steppe cultures, where four-wheeled wagons (sometimes with the wheels still in place) were interred with high-status individuals. The famous Bronocice pot from Poland, dated to around 3500-3350 BCE, bears a schematic image interpreted as a four-wheeled wagon, while actual clay wagon models and wheel fragments from Sumerian and steppe contexts confirm that wheeled transport was developing independently or semi-independently in multiple regions around the same time.\n\nThe earliest wheels were solid wooden disks — tripartite constructions of planks doweled together — rather than spoked wheels, which appeared considerably later. These heavy solid wheels, combined with the axle technology required to mount them, placed significant engineering demands on early craftspeople. The innovation of fixing the axle to the wheel and allowing the wheel to rotate around a fixed axle (or fixing wheel and axle together to rotate in fixed bearings) required considerable experimentation.\n\nThe impact of wheeled vehicles on the [[event:1652|Yamnaya culture]] and related steppe pastoralists was particularly transformative. Wagons enabled entirely new patterns of pastoral mobility — whole family units with their household goods and provisions could now accompany herds across the steppe, extending the range and sustainability of nomadic pastoralism enormously. This contributed directly to the demographic expansion of steppe peoples that underlies the [[event:1653|Indo-European migrations]]. In Mesopotamia, wheeled carts and later chariots became military and economic assets of the first importance.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wheel#History_2",
+    "read_more_links": [
+        {
+            "title": "Wagon - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wagon"
+        },
+        {
+            "title": "Wheeled Vehicles in Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chariot#History"
+        },
+        {
+            "title": "History of Technology - Britannica",
+            "url": "https://www.britannica.com/technology/history-of-technology/The-Neolithic-Revolution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg/300px-Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg",
+            "caption": "Kelten: Vierrädriger Prunkwagen",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg/300px-Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg",
+            "caption": "Ljubljana Marshes Wheel with axle (oldest wooden wheel yet discovered)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BMW_tire.jpg/300px-BMW_tire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/BMW_tire.jpg",
+            "caption": "Driver's side front tire of a BMW parked near my house",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/India_-_Kanchipuram_-_023_-_chariot_unveiled_for_upcoming_festival_%282507526057%29.jpg/300px-India_-_Kanchipuram_-_023_-_chariot_unveiled_for_upcoming_festival_%282507526057%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/India_-_Kanchipuram_-_023_-_chariot_unveiled_for_upcoming_festival_%282507526057%29.jpg",
+            "caption": "Close-up of chariot, unveiled for upcoming festival in Kanchipuram, India",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

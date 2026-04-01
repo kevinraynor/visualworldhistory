@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1755,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1eb194888c4eea5ff1a01a255cad025032fd959d7ca1c7b4276506860da44c7e",
+    "summary": "The Bell Beaker culture, flourishing approximately 2800–2000 BC, was one of the most widespread cultural phenomena of Chalcolithic and Early Bronze Age Europe, extending from the British Isles and Iberia in the west to central Europe and Hungary in the east. The culture is defined archaeologically by a distinctive assemblage of grave goods — most notably the inverted bell-shaped ceramic drinking vessels (the 'beakers' that give the culture its name), along with copper daggers, arrowheads, wristguards, and gold ornaments — which appear in burials across a vast geographic range.\n\nThe origin and spread of the Bell Beaker phenomenon has been extensively debated. Ancient DNA studies published from around 2017 onward have provided remarkable new evidence: Bell Beaker expansion into Britain around 2450 BC was associated with a massive population replacement in which the previous Neolithic farming population was largely supplanted by newcomers of steppe ancestry from continental Europe. This genetic and cultural transformation fundamentally altered the population of Britain and is visible in the archaeological record as the transition from Neolithic communal monuments to individual burial with Bell Beaker grave goods.\n\nThe Bell Beaker package likely spread through a combination of migration, elite exchange, and the adoption of prestigious material culture markers. The beaker vessels themselves may have been associated with the consumption of mead, beer, or other beverages in social or ritual contexts, and their widespread adoption may reflect the diffusion of drinking practices and associated social ceremonies. The Bell Beaker network connected distant communities through shared symbolic vocabularies, prestige goods exchange, and probably the movement of skilled metallurgists who could work the newly available copper and bronze metals.\n\nThe Bell Beaker culture intersects with other major developments of this era, including the construction of [[event:43|Stonehenge]]'s sarsen phase (the most recognisable phase of Stonehenge was built by Bell Beaker people) and the spread of early Indo-European languages across Europe. Its legacy includes the formation of the Early Bronze Age warrior aristocracies that would define European society in the subsequent centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bell_Beaker_culture",
+    "read_more_links": [
+        {
+            "title": "Ancient DNA and Bell Beaker migrations",
+            "url": "https://en.wikipedia.org/wiki/Genetic_history_of_Europe"
+        },
+        {
+            "title": "Stonehenge",
+            "url": "https://en.wikipedia.org/wiki/Stonehenge"
+        },
+        {
+            "title": "European Bronze Age",
+            "url": "https://en.wikipedia.org/wiki/European_Bronze_Age"
+        },
+        {
+            "title": "Corded Ware culture",
+            "url": "https://en.wikipedia.org/wiki/Corded_Ware_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Anghelu_ruju-Tomba_XX_bis-DSC07795.jpg/300px-Anghelu_ruju-Tomba_XX_bis-DSC07795.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Anghelu_ruju-Tomba_XX_bis-DSC07795.jpg",
+            "caption": "Tomba XX bis, Anghelu Ruju",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Boerderijen_die_gebouwd_werden_in_de_ijzertijd_en_bronstijd_leken_veel_op_elkaar_Hunebedden_centrum_Borger.JPG/300px-Boerderijen_die_gebouwd_werden_in_de_ijzertijd_en_bronstijd_leken_veel_op_elkaar_Hunebedden_centrum_Borger.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Boerderijen_die_gebouwd_werden_in_de_ijzertijd_en_bronstijd_leken_veel_op_elkaar_Hunebedden_centrum_Borger.JPG",
+            "caption": "Farms that were built in the iron age and bronze age seemed much alike megali...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Campaniforme_M.A.N._04.JPG/300px-Campaniforme_M.A.N._04.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Campaniforme_M.A.N._04.JPG",
+            "caption": "Madrid, Museo Arqueológico Nacional. Recreación de un enterramiento de la cul...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Architectural_model_of_the_Castro_do_Zambujal%2C_Portugal.png/300px-Architectural_model_of_the_Castro_do_Zambujal%2C_Portugal.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Architectural_model_of_the_Castro_do_Zambujal%2C_Portugal.png",
+            "caption": "Architectural model of the Castro do Zambujal, Portugal, in the Leonel Trinda...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Beaker (archaeology)",
+            "summary": "Ceramic or metal drinking vessel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Beaker_Iranian.JPG/250px-Beaker_Iranian.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Beaker_%28archaeology%29"
+        }
+    ],
+    "territory_geojson": null
+}

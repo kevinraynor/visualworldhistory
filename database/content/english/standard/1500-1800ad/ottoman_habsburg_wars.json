@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2324,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:8853fc1f923a183df82606b68bb92cc9a2c73b161d8b6c8114df3e849e654398",
+    "summary": "The Ottoman-Habsburg Wars (c. 1526–1791) were a series of conflicts between the expanding Ottoman Empire and the Habsburg dynasty that controlled the Holy Roman Empire, Spain, and eventually Austria, fought primarily over the control of Hungary, the Balkans, and the Mediterranean, and constituting one of the defining geopolitical contests of early modern European history. The wars began with Ottoman expansion after the [[event:2402|Battle of Mohacs]] (1526) gave Suleiman the Magnificent control of most of Hungary, threatening the Habsburg heartland. The first Ottoman attempt on Vienna ([[event:2323|1529]]) failed, establishing a prolonged frontier conflict in which the Ottomans occupied the Hungarian plain while the Habsburgs retained a narrow strip of western Hungary (Royal Hungary) as a buffer.\n\nThe Mediterranean dimension of the conflict was equally significant: the [[event:2377|Battle of Lepanto]] (1571) was the greatest naval battle of the 16th century, in which a Christian coalition under Don John of Austria destroyed the Ottoman fleet, temporarily halting Ottoman naval expansion in the western Mediterranean. The wars continued intermittently — the Long Turkish War (1593–1606), settled by the [[event:3255|Treaty of Zsitvatorok]], was the first to acknowledge the Habsburg emperor as an equal of the Ottoman sultan. The climactic [[event:2415|Battle of Vienna]] (1683), where an Ottoman siege force of some 140,000 was destroyed by a relief army under Jan Sobieski of Poland, marked the decisive turning point. The subsequent Great Turkish War ([[event:3631|1683–1699]]) and Treaty of Karlowitz ([[event:2468|1699]]) forced the Ottomans to cede Hungary, Transylvania, and much of the Balkans to the Habsburgs, permanently reversing Ottoman expansion in Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars",
+    "read_more_links": [
+        {
+            "title": "Battle of Mohacs 1526 Hungary Ottoman conquest",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs"
+        },
+        {
+            "title": "Battle of Lepanto 1571 Mediterranean naval war",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Lepanto"
+        },
+        {
+            "title": "Treaty of Karlowitz 1699 Ottoman retreat Hungary",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Karlowitz"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Beleg_van_het_eiland_San_Michele_bij_Malta_L%27assedio_e_batteria_dell%27isola_di_S._Michele_a_di_XXVIII_di_giugno_%28titel_op_object%29_De_belegering_van_Malta_%28serietitel%29%2C_RP-P-OB-36.422.jpg/300px-Beleg_van_het_eiland_San_Michele_bij_Malta_L%27assedio_e_batteria_dell%27isola_di_S._Michele_a_di_XXVIII_di_giugno_%28titel_op_object%29_De_belegering_van_Malta_%28serietitel%29%2C_RP-P-OB-36.422.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Beleg_van_het_eiland_San_Michele_bij_Malta_L%27assedio_e_batteria_dell%27isola_di_S._Michele_a_di_XXVIII_di_giugno_%28titel_op_object%29_De_belegering_van_Malta_%28serietitel%29%2C_RP-P-OB-36.422.jpg",
+            "caption": "IdentificatieTitel(s): Beleg van het eiland San Michele bij Malta. L'assedio ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/1720_Huchtenburg_Eroberungs_Belgrads_1717_anagoria.JPG/300px-1720_Huchtenburg_Eroberungs_Belgrads_1717_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/1720_Huchtenburg_Eroberungs_Belgrads_1717_anagoria.JPG",
+            "caption": "1720 Huchtenburg Eroberungs Belgrads 1717 anagoria",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Battle_of_Mez%C5%91keresztes_1596.jpg/300px-Battle_of_Mez%C5%91keresztes_1596.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Battle_of_Mez%C5%91keresztes_1596.jpg",
+            "caption": "double size miniature",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bitka_pri_Sisku_1593-Valvasor.jpg/300px-Bitka_pri_Sisku_1593-Valvasor.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Bitka_pri_Sisku_1593-Valvasor.jpg",
+            "caption": "Bitka pri Sisku 1593-Valvasor",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Francis II Rákóczi",
+            "summary": "Hungarian revolutionary (1676–1735)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/II._R%C3%A1k%C3%B3czi_Ferenc_M%C3%A1nyoki.jpg/250px-II._R%C3%A1k%C3%B3czi_Ferenc_M%C3%A1nyoki.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_II_R%C3%A1k%C3%B3czi"
+        },
+        {
+            "name": "Papal States",
+            "summary": "Italian state ruled by the pope (756–1870)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Papal_States_%28pre_1808%29.svg/250px-Flag_of_the_Papal_States_%28pre_1808%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Papal_States"
+        },
+        {
+            "name": "Selim I",
+            "summary": "Sultan of the Ottoman Empire from 1512 to 1520",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nakka%C5%9F_Selim.jpg/250px-Nakka%C5%9F_Selim.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Selim_I"
+        }
+    ],
+    "territory_geojson": null
+}

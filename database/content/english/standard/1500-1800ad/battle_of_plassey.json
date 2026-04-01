@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2333,
+    "parent_id": 2332,
+    "granularity": "notable",
+    "content_hash": "sha256:37dec14d15b66f65e2100eb090f579bc5cd4122c68415252316064ad8df12b6e",
+    "summary": "The Battle of Plassey (June 23, 1757 AD) was a decisive engagement in the Bengal region of India at which the [[event:2358|British East India Company]] forces under Robert Clive defeated the Nawab of Bengal, Siraj ud-Daulah, through a combination of military action and treacherous political manipulation, effectively establishing British political control over Bengal — the richest province in India — and beginning the process of British conquest of the subcontinent. The battle followed the Nawab's capture of the Company's trading post at Calcutta in 1756 and his confinement of British prisoners in the notorious 'Black Hole of Calcutta.' Clive led a Company force of about 3,000 (largely sepoys — Indian soldiers trained in European military methods) against a Nawab's army of over 50,000, but had beforehand negotiated secretly with Mir Jafar, the Nawab's general, who agreed to betray his employer in exchange for being made Nawab himself.\n\nThe battle itself lasted only a few hours: when the conflict began, Mir Jafar held his forces back, the Nawab's artillery was incapacitated by a sudden rain shower (while the British protected their powder), and Clive's disciplined forces routed those sections of the Nawab's army that did fight. Siraj ud-Daulah fled and was captured and executed. Mir Jafar became Nawab as promised but effectively as a Company client. The Company extracted enormous wealth from Bengal: Clive personally received gifts (technically legal under Company practice) of around £234,000, and the Company gained the right to collect revenues across Bengal — tax farming at an imperial scale. Bengal's revenues funded the Company's subsequent military expansion across India. Plassey is therefore the pivotal moment in British imperial expansion: the step from trading company to territorial empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
+    "read_more_links": [
+        {
+            "title": "Robert Clive Bengal East India Company",
+            "url": "https://en.wikipedia.org/wiki/Robert_Clive"
+        },
+        {
+            "title": "Mir Jafar betrayal Bengal British client state",
+            "url": "https://en.wikipedia.org/wiki/Mir_Jafar"
+        },
+        {
+            "title": "British East India Company territorial empire India",
+            "url": "https://en.wikipedia.org/wiki/Company_rule_in_India"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plassey_Monument.jpg/300px-Plassey_Monument.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Plassey_Monument.jpg",
+            "caption": "Plassey Monument in the battlefield.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Three_Obelisks_of_Mirmadan%2C_Nabe_Singh_Hajari_and_Bahadur_Khan_near_Plassey.jpg/300px-Three_Obelisks_of_Mirmadan%2C_Nabe_Singh_Hajari_and_Bahadur_Khan_near_Plassey.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Three_Obelisks_of_Mirmadan%2C_Nabe_Singh_Hajari_and_Bahadur_Khan_near_Plassey.jpg",
+            "caption": "Obelisks of Mirmadan, Nabe singh Hajari & Bahadur Khan near palashi battlefie...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg/300px-Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Robert_Clive%2C_1st_Baron_Clive_by_Nathaniel_Dance%2C_%28later_Sir_Nathaniel_Dance-Holland%2C_Bt%29.jpg",
+            "caption": "Robert Clive, 1st Baron Clive, by Nathaniel Dance, (later Sir Nathaniel Dance...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Division_Of_West_Bangal_Map.jpg/300px-Division_Of_West_Bangal_Map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Division_Of_West_Bangal_Map.jpg",
+            "caption": "West Bengal Division Map",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Francis Hayman",
+            "summary": "English painter and illustrator (1708–1776)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/FrancisHayman.jpg/250px-FrancisHayman.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Hayman"
+        },
+        {
+            "name": "Eyre Coote (East India Company officer)",
+            "summary": "British army officer and politician (1726–1783)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Eyre_Coote.jpg/250px-Eyre_Coote.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eyre_Coote_%28East_India_Company_officer%29"
+        },
+        {
+            "name": "Omichund",
+            "summary": "Indian merchant and diplomat (died 1767)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/The_Ghost_of_Omichund_%28BM_1868%2C0808.10033%29.jpg/250px-The_Ghost_of_Omichund_%28BM_1868%2C0808.10033%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Omichund"
+        },
+        {
+            "name": "Mir Madan",
+            "summary": "Chief of the artillery of Nawab Siraj Ud Dowla",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mirmadan%27s_Tomb.jpg/250px-Mirmadan%27s_Tomb.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mir_Madan"
+        },
+        {
+            "name": "Sepoy",
+            "summary": "Designation given to a South Asian soldier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Knave_%28Hyder_Ali_from_Mysore%29_from_Court_Game_of_Geography_MET_DP862917.jpg/250px-Knave_%28Hyder_Ali_from_Mysore%29_from_Court_Game_of_Geography_MET_DP862917.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sepoy"
+        },
+        {
+            "name": "Ahmad Shah Durrani",
+            "summary": "Founder of the Durrani Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France_%28cropped%29.jpg/250px-Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani"
+        }
+    ],
+    "territory_geojson": null
+}

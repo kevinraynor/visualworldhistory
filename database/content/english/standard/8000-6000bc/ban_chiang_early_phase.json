@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1454,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6c3490f9f15df7811854427b66ee79636bd92b5896d689da487dc5188669ca4e",
+    "summary": "Ban Chiang is an archaeological site in Udon Thani Province of northeastern Thailand, designated a UNESCO World Heritage Site in 1992, that is best known for its spectacular painted pottery and for evidence of early bronze metallurgy in Southeast Asia. The site's main cultural florescence falls in later periods, but its earliest occupation levels — the early phase referenced here — date to approximately 7000 to 6000 BCE and reflect the initial human settlement of this particular location in the broader landscape of mainland Southeast Asian prehistory.\n\nThe earliest Ban Chiang occupants were hunter-gatherers or very early horticulturalists who lived in the rich environment of the Khorat Plateau in northeastern Thailand, a landscape of seasonal rivers, forests, and grasslands well suited to a mixed hunting and gathering strategy. The site's later (post-3000 BCE) cultural layers have attracted the most scholarly attention for their evidence of rice cultivation, bronze working, and elaborate mortuary practices, but the depth of occupation at the site reflects the long-term attractiveness of this location to human communities.\n\nThe early phase at Ban Chiang contributes to understanding the deep prehistory of mainland Southeast Asia, a region whose Neolithic and pre-Neolithic periods remain less well understood than those of East Asia or South Asia. The site's subsequent development into a center of bronze metallurgy and rice agriculture represents one trajectory of cultural evolution in a region now recognized as having had an independent and important role in the broader story of Asian prehistory.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ban_Chiang",
+    "read_more_links": [
+        {
+            "title": "Prehistoric Thailand - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Thailand"
+        },
+        {
+            "title": "Southeast Asian Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_Southeast_Asia"
+        },
+        {
+            "title": "Khorat Plateau - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Khorat_Plateau"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ban_Chiang_Museum_Excavation.JPG/300px-Ban_Chiang_Museum_Excavation.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ban_Chiang_Museum_Excavation.JPG",
+            "caption": "A mock up of the excavation at Ban Chaing Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ban_Chiang_Woman_making_pots.JPG/300px-Ban_Chiang_Woman_making_pots.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ban_Chiang_Woman_making_pots.JPG",
+            "caption": "This is a diorama of an ancient Ban Chiang lady painting pots at the Ban Chia...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Wat_Pho_Si_Nai_Archaeological_Site_Excavations.JPG/300px-Wat_Pho_Si_Nai_Archaeological_Site_Excavations.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Wat_Pho_Si_Nai_Archaeological_Site_Excavations.JPG",
+            "caption": "Wat Pho Si Nai is about a kilometer away from the Ban Chiang Museum - it is t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BlackCeramicBanChiangCultureThailand1200-800BCE.jpg/300px-BlackCeramicBanChiangCultureThailand1200-800BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/BlackCeramicBanChiangCultureThailand1200-800BCE.jpg",
+            "caption": "Black Ceramic Ban Chiang Culture vase. Thailand 1200-800 BCE.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Wilhelm Solheim",
+            "summary": "American anthropologist (1924–2014)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Wilhelm_Solheim_II%27s_statue.jpg/250px-Wilhelm_Solheim_II%27s_statue.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_Solheim"
+        },
+        {
+            "name": "Chumbhotbongs Paribatra",
+            "summary": "Prince of Nakhon Sawan II",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chumbhotbongs_Paribatra%2C_Prince_of_Nakhon_Sawan_II_%28crop%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chumbhotbongs_Paribatra"
+        }
+    ],
+    "territory_geojson": null
+}

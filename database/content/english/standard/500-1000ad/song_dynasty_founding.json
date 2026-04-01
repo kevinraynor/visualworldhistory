@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3784,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:83e2e25f4bd175e7f179345725220de8fb16bfe30057a467aeb2d0b622c11661",
+    "summary": "The founding of the [[event:2156|Song Dynasty]] (960 AD) by Zhao Kuangyin (Emperor Taizu) ended the fifty-year fragmentation of the [[event:2157|Five Dynasties and Ten Kingdoms period]] and reunified most of China under a single imperial administration. Zhao Kuangyin, a general of the Later Zhou dynasty, was declared emperor by his troops at Chenqiao in a coup (the 'Yellow Robe Incident') and subsequently unified the competing Chinese states through a combination of military campaigns and diplomatic persuasion, preferring bloodless annexations to costly wars.\n\nThe Song Dynasty's founding inaugurated one of the most remarkable periods of economic, technological, and cultural development in world history — what some historians call China's 'medieval economic revolution.' Song China developed the world's first paper currency, [[event:2217|paper money]], a commercialized market economy with sophisticated banking and credit instruments, explosive population growth (from about 60 million to 120 million during the dynasty), and technological innovation including [[event:2940|gunpowder weapons]], the [[event:2941|magnetic compass]], movable-type printing, and advanced ironworking that produced more iron annually than England would in the 18th century. The Song government was staffed almost entirely by examination graduates rather than hereditary aristocrats — the civil service examination system became truly meritocratic in this period — and the dynasty supported a flourishing culture of poetry, landscape painting, and Neo-Confucian philosophy. The Song's great weakness was military: unable to recover northern territories from the Khitan Liao and Jurchen Jin dynasties, and ultimately conquered by the Mongols in 1279, the Song nonetheless left a legacy of economic and cultural achievement that shaped all subsequent Chinese civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Song_dynasty",
+    "read_more_links": [
+        {
+            "title": "Zhao Kuangyin Yellow Robe Incident Song founding",
+            "url": "https://en.wikipedia.org/wiki/Zhao_Kuangyin"
+        },
+        {
+            "title": "Song Dynasty economic revolution commerce",
+            "url": "https://en.wikipedia.org/wiki/Economy_of_the_Song_dynasty"
+        },
+        {
+            "title": "Song civil service examination meritocracy",
+            "url": "https://en.wikipedia.org/wiki/Imperial_examination#Song_dynasty"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/300px-Song_Taizu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Song_Taizu.jpg",
+            "caption": "This depicts Song Taizu (宋太祖, 927-976, reigned 960-976), personal name Zhao K...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Taizong_of_Song.jpg/300px-Taizong_of_Song.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Taizong_of_Song.jpg",
+            "caption": "Contemporary painting of Emperor Taizong of the Song dynasty (太宗).\nHanging sc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg/300px-Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Beijing.China_printing_museum.Plate_of_Paper_money.Northern_Song_Dynasty.jpg",
+            "caption": "Banknote printing plate from Northern Song Dynasty (960 – 1127).",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kaifeng_Capital_of_Northern_Song_Dynasty_%2810340676846%29.jpg/300px-Kaifeng_Capital_of_Northern_Song_Dynasty_%2810340676846%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kaifeng_Capital_of_Northern_Song_Dynasty_%2810340676846%29.jpg",
+            "caption": "Song-Yuan Gallery, Henan Provincial Museum, Zhengzhou. Complete indexed photo...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Taizu of Song",
+            "summary": "Emperor of China from 960 to 976",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/250px-Song_Taizu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Taizu_of_Song"
+        },
+        {
+            "name": "Emperor Gaozong of Song",
+            "summary": "Emperor of China from 1127 to 1162",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Song_Gaozong.png/250px-Song_Gaozong.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Gaozong_of_Song"
+        },
+        {
+            "name": "Zhao Bing",
+            "summary": "Emperor of Song China from 1278 to 1279",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Song_Modi.jpg/250px-Song_Modi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhao_Bing"
+        },
+        {
+            "name": "Emperor Huizong of Song",
+            "summary": "Emperor of China from 1100 to 1126",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Seated_Portrait_of_Emperor_Song_Huizong.tif/lossy-page1-250px-Seated_Portrait_of_Emperor_Song_Huizong.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+        },
+        {
+            "name": "Möngke Khan",
+            "summary": "Khan of the Mongol Empire from 1251 to 1259",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/M%C3%B6ngke_Khan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan"
+        },
+        {
+            "name": "Kublai Khan",
+            "summary": "Emperor of Yuan China from 1271 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/250px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+        }
+    ],
+    "territory_geojson": null
+}

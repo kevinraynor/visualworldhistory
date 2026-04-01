@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2442,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d860ecdeee0738b55993aab558d325bae55b7f2d19c5dc2e1afab7b4bacdd4ca",
+    "summary": "The Development of the Steam Engine (c. 1698–1800 AD) was the central technological achievement of the early [[event:108|Industrial Revolution]], culminating in James Watt's improvements (patented 1769, commercially deployed from 1776) that created a practical, fuel-efficient engine capable of continuous rotary motion — a universal power source that could be applied to virtually any mechanical task and that drove the transformation of manufacturing, mining, transportation, and ultimately every aspect of the modern economy. The steam engine's development was cumulative: Thomas Savery's 'Miner's Friend' (1698) used steam pressure to pump water from mines; Thomas Newcomen's atmospheric engine (1712) used steam condensation to create a vacuum that drove a piston — effective but highly inefficient. Watt, a Scottish instrument maker at the University of Glasgow, was tasked with repairing a Newcomen engine and realized its fundamental inefficiency: the cylinder was alternately heated and cooled, wasting most of the fuel.\n\nWatt's key innovation was the separate condenser (1769): by condensing steam in a separate chamber rather than in the cylinder itself, the cylinder could remain permanently hot, dramatically improving fuel efficiency. His subsequent improvements — the sun-and-planet gear converting reciprocating to rotary motion (1781), the double-acting cylinder (1782), the governor (a centrifugal speed regulator, 1788) — created a versatile engine suitable not just for pumping but for driving mills, forges, and eventually locomotives. Watt's commercial partnership with Matthew Boulton ('I sell here, sir, what all the world desires to have — Power!') successfully deployed the engine across British industry. The steam engine freed manufacturing from dependence on water power (requiring river sites) and animal muscle (limited by biology), allowing factories to be located anywhere and operated at any scale — the essential precondition for the explosive industrial urbanization of the 19th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Steam_engine",
+    "read_more_links": [
+        {
+            "title": "James Watt steam engine improvements separate condenser",
+            "url": "https://en.wikipedia.org/wiki/James_Watt"
+        },
+        {
+            "title": "Newcomen atmospheric engine Watt improvement history",
+            "url": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+        },
+        {
+            "title": "Boulton Watt partnership industrial deployment engine",
+            "url": "https://en.wikipedia.org/wiki/Boulton_and_Watt"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/%CE%91%CE%B9%CE%BF%CE%BB%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B1_%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF_%CE%9A%CE%BF%CF%84%CF%83%CE%B1%CE%BD%CE%AC_%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CF%82_%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE%CF%82_%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82.jpg/300px-%CE%91%CE%B9%CE%BF%CE%BB%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B1_%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF_%CE%9A%CE%BF%CF%84%CF%83%CE%B1%CE%BD%CE%AC_%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CF%82_%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE%CF%82_%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%CE%91%CE%B9%CE%BF%CE%BB%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B1_%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF_%CE%9A%CE%BF%CF%84%CF%83%CE%B1%CE%BD%CE%AC_%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%B1%CF%82_%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE%CF%82_%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%CF%82.jpg",
+            "caption": "Reconstruction of aeolipile at Kotsanas Museum",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/52_8134_Hoentrop_2012-09-16.jpg/300px-52_8134_Hoentrop_2012-09-16.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/52_8134_Hoentrop_2012-09-16.jpg",
+            "caption": "This steam engine has been built in 1943, reconstructed to DR Class 52.80 in ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Steam_powered_road-locomotive_from_England.png/300px-Steam_powered_road-locomotive_from_England.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Steam_powered_road-locomotive_from_England.png",
+            "caption": "Steam powered road-locomotive from England",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Union_Pacific_844%2C_Painted_Rocks%2C_NV%2C_2009_%28crop%29.jpg/300px-Union_Pacific_844%2C_Painted_Rocks%2C_NV%2C_2009_%28crop%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Union_Pacific_844%2C_Painted_Rocks%2C_NV%2C_2009_%28crop%29.jpg",
+            "caption": "Union Pacific 844 at Painted Rocks, Nevada, on a run from Elko to Sparks, Nev...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hero of Alexandria",
+            "summary": "1st century AD Hellenistic mathematician and engineer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Heron_Alexandrie.jpg/250px-Heron_Alexandrie.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hero_of_Alexandria"
+        },
+        {
+            "name": "Jerónimo de Ayanz y Beaumont",
+            "summary": "Spanish inventor (1553–1613)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jer%C3%B3nimo_de_Ayanz_y_Beaumont_%28MUNCYT%2C_Eulogia_Merle%29.jpg/250px-Jer%C3%B3nimo_de_Ayanz_y_Beaumont_%28MUNCYT%2C_Eulogia_Merle%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jer%C3%B3nimo_de_Ayanz_y_Beaumont"
+        },
+        {
+            "name": "Thomas Newcomen",
+            "summary": "English inventor, preacher and ironmonger",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Newcomen_atmospheric_engine_animation.gif/250px-Newcomen_atmospheric_engine_animation.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Newcomen"
+        },
+        {
+            "name": "James Watt",
+            "summary": "Scottish inventor, engineer and chemist (1736–1819)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Watt_James_von_Breda.jpg/250px-Watt_James_von_Breda.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Watt"
+        },
+        {
+            "name": "Vitruvius",
+            "summary": "1st-century BC Roman architect and engineer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vitruvio_Pollione_portrait_%28cropped%29.jpg/250px-Vitruvio_Pollione_portrait_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vitruvius"
+        },
+        {
+            "name": "Denis Papin",
+            "summary": "French physicist, mathematician and inventor (1647–1713)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Denis_Papin.jpg/250px-Denis_Papin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Denis_Papin"
+        }
+    ],
+    "territory_geojson": null
+}

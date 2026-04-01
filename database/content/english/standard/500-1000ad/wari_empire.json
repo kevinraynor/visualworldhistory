@@ -1,0 +1,49 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2183,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3f7570d3466b2a6d0479e650c3b6d725431dd4bebe10b1cca84dde9f0c68bdee",
+    "summary": "The Wari Empire (c. 600–1100 AD), centered on the city of Huari (Wari) in the Ayacucho region of Peru, was the first pan-Andean empire — a political state that expanded through conquest, colonization, and the imposition of administrative infrastructure across much of the Andes from northern Peru to the southern tip of the highlands, predating the Inca Empire by several centuries and providing many of the administrative models the Incas would later adopt. The Wari were the contemporaries and probable rivals of [[event:2074|Tiwanaku]] in the southern Andes, though the exact relationship between the two expanding states remains debated.\n\nThe Wari state's characteristic feature was its system of planned administrative centers built in a distinctive orthogonal (grid) architectural style — garrison-like complexes that served as provincial capitals administering conquered territories, storing and redistributing goods through a state economic system. This 'imperial' model — building roads, establishing administrative centers in conquered territories, and redistributing goods from storage centers — closely anticipates the Inca system, and many scholars believe the Incas consciously adapted Wari institutional models. Wari art is most famous for its textiles and ceramics depicting the Front-Faced God (related to Tiwanaku's Gateway God) in abstract geometric forms, making Andean textile production more sophisticated than in any other pre-Columbian culture. The empire collapsed around 1100 AD due to drought and internal fragmentation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wari_Empire",
+    "read_more_links": [
+        {
+            "title": "Wari administrative centers",
+            "url": "https://en.wikipedia.org/wiki/Wari_Empire#Administration"
+        },
+        {
+            "title": "Wari Tiwanaku relationship",
+            "url": "https://en.wikipedia.org/wiki/Wari_Empire#Tiwanaku_and_Wari"
+        },
+        {
+            "title": "Wari textiles art",
+            "url": "https://en.wikipedia.org/wiki/Wari_Empire#Art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cerro_Ba%C3%BAl%2C_Torata%2C_Moquegua%2C_Per%C3%BA_-_panoramio.jpg/300px-Cerro_Ba%C3%BAl%2C_Torata%2C_Moquegua%2C_Per%C3%BA_-_panoramio.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cerro_Ba%C3%BAl%2C_Torata%2C_Moquegua%2C_Per%C3%BA_-_panoramio.jpg",
+            "caption": "Cerro Baúl, Torata, Moquegua, Perú",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Piquillacta_Archaeological_site_-_street.jpg/300px-Piquillacta_Archaeological_site_-_street.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Piquillacta_Archaeological_site_-_street.jpg",
+            "caption": "Piquillacta Archaeological site (street)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tomb_at_Wari_ruins_near_Ayacucho.jpg/300px-Tomb_at_Wari_ruins_near_Ayacucho.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tomb_at_Wari_ruins_near_Ayacucho.jpg",
+            "caption": "Tomb at the Wari Ruins near Ayacucho. This tomb actually goes down several la...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

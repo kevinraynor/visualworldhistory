@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1249,
+    "parent_id": 77,
+    "granularity": "detailed",
+    "content_hash": "sha256:469fa0c1f00f3db602d7dd1834d33864259a5719358daf388ab8f30095421dc5",
+    "summary": "The Han dynasty extensions of the Great Wall (c. 121–101 BC, under Emperor Wu) significantly expanded and strengthened the Qin-era walls that formed the original [[event:1121|Great Wall of China Qin]] construction, pushing the fortifications westward through the Hexi Corridor (Gansu) toward Central Asia. The Han extensions were built partly to protect the newly conquered western territories and to secure the [[event:1129|Silk Road Establishment]] trade route from Xiongnu raiders.\n\nHan wall construction differed from the Qin version in its use of locally available materials — in the Gobi Desert regions, walls were built from compressed layers of tamarisk branches, gravel, and sand rather than stone, traces of which still survive. The walls were integrated with a sophisticated signaling system of watchtowers (beacon towers) spaced so that fire or smoke signals could relay messages across hundreds of kilometers within hours. Garrison troops cultivated fields adjacent to the wall for supply self-sufficiency. Archaeological discoveries of Han-era wooden slips (documents) from these Gobi outposts have provided extraordinary information about daily military life, administrative procedures, and the practical realities of frontier defense on China's northwestern border.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Wall_of_China#Han_dynasty",
+    "read_more_links": [
+        {
+            "title": "Hexi Corridor Han expansion",
+            "url": "https://en.wikipedia.org/wiki/Hexi_Corridor"
+        },
+        {
+            "title": "Han dynasty wooden slips archaeology",
+            "url": "https://en.wikipedia.org/wiki/Juyan_Slips"
+        },
+        {
+            "title": "Great Wall beacon towers",
+            "url": "https://en.wikipedia.org/wiki/Great_Wall_of_China#Watchtowers"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MutianyuGreatWallWildSection.JPG/300px-MutianyuGreatWallWildSection.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/MutianyuGreatWallWildSection.JPG",
+            "caption": "Mutianyu Great Wall, China.  This is atop the wall on a section that has not ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Great_wall_-_by_Hao_Wei.jpg/300px-The_Great_wall_-_by_Hao_Wei.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/The_Great_wall_-_by_Hao_Wei.jpg",
+            "caption": "One of the greatest wonders of the world, the Great Wall winds up and down ac...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gubeikou_Gate.jpg/300px-Gubeikou_Gate.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gubeikou_Gate.jpg",
+            "caption": "Main gate of Gubeikou Fortress, Miyun.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/300px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+            "caption": "The Great Wall of China at Jinshanling",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Tan Daoji",
+            "summary": "Eastern Jin and Liu Song general (died 436)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E6%AA%80%E9%81%93%E6%BF%9F_%28Tan_Daoji%29.png/250px-%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A_%E6%AA%80%E9%81%93%E6%BF%9F_%28Tan_Daoji%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tan_Daoji"
+        },
+        {
+            "name": "Genghis Khan",
+            "summary": "Khan of the Mongol Empire from 1206 to 1227",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/250px-YuanEmperorAlbumGenghisPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Genghis_Khan"
+        },
+        {
+            "name": "Jurchen people",
+            "summary": "Tungusic-speaking people in East Asia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jin_%28Jurchen%29_flags_%2851168762691%29.png/250px-Jin_%28Jurchen%29_flags_%2851168762691%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jurchen_people"
+        }
+    ],
+    "territory_geojson": null
+}

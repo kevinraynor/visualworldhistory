@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1395,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fc091c6e9cbdead18393f2866dbd5173b877f7cef6f39e12f3de4a50e716a914",
+    "summary": "The chickpea (Cicer arietinum) was domesticated from wild Cicer reticulatum in southeastern Anatolia and the northern Levant, forming part of the package of founder crops of the Near Eastern Neolithic. Evidence for cultivated chickpeas appears at early Neolithic sites in the Levant and Anatolia by approximately 8500–7500 BCE, making it one of the earlier legume domestications in the Fertile Crescent.\n\nChickpeas are rich in protein, fiber, and essential nutrients, making them an important complement to the carbohydrate-heavy cereal crops in the early Neolithic diet. Like other legumes in the founder crop package — including [[event:1326|lentils]], peas, and bitter vetch — chickpeas contribute nitrogen fixation to agricultural soils when grown in rotation with cereals, a benefit early farmers would have observed empirically as improved yields in fields previously planted with legumes. The wild ancestor of chickpea has a very restricted natural range, found almost entirely in a small area of southeastern Turkey near the Syrian border, suggesting a single or very localized domestication event. Chickpeas subsequently spread widely across the Near East, Mediterranean, and South Asia, becoming one of the most important protein sources in the ancient and modern world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chickpea",
+    "read_more_links": [
+        {
+            "title": "Founder Crops - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Founder_crops"
+        },
+        {
+            "title": "Neolithic Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Revolution"
+        },
+        {
+            "title": "Legume Domestication History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Legume"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cicer_arietinum_noir_MHNT.BOT.2017.12.2.jpg/300px-Cicer_arietinum_noir_MHNT.BOT.2017.12.2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cicer_arietinum_noir_MHNT.BOT.2017.12.2.jpg",
+            "caption": "Cicer arietinum noir, chickpea \"black\", seeds",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Farinata_di_ceci_01.jpg/300px-Farinata_di_ceci_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Farinata_di_ceci_01.jpg",
+            "caption": "Farinata di ceci.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOOD_Doubles_2.jpg/300px-FOOD_Doubles_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FOOD_Doubles_2.jpg",
+            "caption": "Doubles. Food court in a mall in Frederick Street, Port of Spain, Trinidad.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cicers_farm.jpg/300px-Cicers_farm.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cicers_farm.jpg",
+            "caption": "Cicers farm in Jamthi Kh. Hingoli District,  Maharashtra on Deccan Plateau",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dal",
+            "summary": "Dried, split pulses used for cooking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/250px-3_types_of_lentil.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dal"
+        },
+        {
+            "name": "Theophrastus",
+            "summary": "Greek philosopher (c. 371 – c. 287 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Teofrasto_Orto_botanico_detail.jpg/250px-Teofrasto_Orto_botanico_detail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theophrastus"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        }
+    ],
+    "territory_geojson": null
+}

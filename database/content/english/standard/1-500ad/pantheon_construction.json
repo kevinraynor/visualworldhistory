@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2084,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:734dd06977f1bb4c1bdd53f7e4ddaf277c1ac36f4cab1cf4d95d33d2c0509220",
+    "summary": "The Pantheon (built c. 118–125 AD under Emperor Hadrian, on the site of earlier buildings by Agrippa) is the best-preserved ancient Roman building and one of the greatest architectural achievements in history. Its defining feature is a concrete dome 43.3 meters in diameter — the largest unreinforced concrete dome ever built, which was not surpassed in span for 1,300 years until the construction of Brunelleschi's dome in Florence. The dome's concrete mix, which varies from heavy basalt aggregate at the base to lighter pumice near the crown, demonstrates sophisticated Roman engineering understanding of structural load distribution.\n\nThe Pantheon's oculus — a circular opening 8.7 meters across at the dome's apex, open to the sky — is the building's only light source. The beam of light it admits moves around the interior over the course of the day in a sundial effect, and on April 21 (the traditional founding date of Rome) the light falls directly on the entrance, flooding it with sunlight. Built as a temple to all the gods of Rome, the Pantheon was converted to a Christian church in 609 AD (hence its remarkable preservation — churches were maintained while pagan temples fell to ruin). The building's mathematical elegance — a perfect sphere (diameter equal to height) fits exactly inside the rotunda — and its seamless fusion of engineering and aesthetic mastery have made it the single most influential building in Western architectural history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pantheon,_Rome",
+    "read_more_links": [
+        {
+            "title": "Pantheon dome engineering",
+            "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome#Structure"
+        },
+        {
+            "title": "Roman concrete opus caementicium",
+            "url": "https://en.wikipedia.org/wiki/Roman_concrete"
+        },
+        {
+            "title": "Pantheon influence on architecture",
+            "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome#Influence"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg/300px-Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon%2C_Rome_-_Google_Art_Project.jpg",
+            "caption": "Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Pantheon_0931_2013.jpg/300px-Pantheon_0931_2013.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pantheon_0931_2013.jpg",
+            "caption": "The Pantheon Rome Italy February 2013",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pantheon_0935_2013.jpg/300px-Pantheon_0935_2013.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Pantheon_0935_2013.jpg",
+            "caption": "The Pantheon Rome Italy February 2013",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Pantheon_%28J%29.jpg/300px-Pantheon_%28J%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pantheon_%28J%29.jpg",
+            "caption": "Pantheon during a stormy day",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Marcus Vipsanius Agrippa",
+            "summary": "Roman general and statesman (c. 63–12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agrippa_Gabii_Louvre_Ma1208.jpg/250px-Agrippa_Gabii_Louvre_Ma1208.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Hadrian",
+            "summary": "Roman emperor from 117 to 138",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg/250px-M%C3%BCnchen_SMAEK_2019-03-23n.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian"
+        },
+        {
+            "name": "Corinthian order",
+            "summary": "Order of classical architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Temple_of_Bacchus_at_Baalbek.jpg/250px-Temple_of_Bacchus_at_Baalbek.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Corinthian_order"
+        },
+        {
+            "name": "Pediment",
+            "summary": "Element in classical, neoclassical and baroque architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Illustrations_of_types_of_pediments.jpg/250px-Illustrations_of_types_of_pediments.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pediment"
+        },
+        {
+            "name": "Dome",
+            "summary": "Architectural element similar to the hollow upper half of a sphere; there are many types",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cupola_without_text.png/250px-Cupola_without_text.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dome"
+        }
+    ],
+    "territory_geojson": null
+}

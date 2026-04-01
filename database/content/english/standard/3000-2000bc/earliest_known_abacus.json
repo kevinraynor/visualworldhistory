@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1785,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:7c4962f02252e3ab7c74801c3172c1dd41a5392a873a22eb27d874a00d05bf5c",
+    "summary": "The earliest evidence for abacus-like counting devices in Mesopotamia dates to approximately 2700–2300 BC, representing the first known examples of a mechanical calculating aid. While the abacus in its familiar form — a frame with beads on rods — is a later development, ancient Mesopotamian counting boards using stones, pebbles, or tokens in grooved surfaces performed equivalent arithmetic functions and were in widespread use in the temple and palace economies of the Sumerian city-states.\n\nThe development of such counting aids was driven by the enormous scale and complexity of Mesopotamian administrative record-keeping. Temple institutions managed thousands of workers, massive grain stores, livestock herds, textile production, and trade transactions — all requiring accurate arithmetic. The sexagesimal number system used by Sumerian administrators, while well-suited to calculations involving fractions and large numbers, required considerable mental arithmetic for which physical counting devices provided practical assistance.\n\nThe abacus tradition from Mesopotamia contributed to the development of similar devices in ancient Greece, Rome, and China. The Roman hand abacus and the Chinese suanpan both reflect the long history of mechanical counting aids that begins with the earliest Mesopotamian examples. While digital computing has rendered the abacus obsolete in most contexts, it remains in use in parts of Asia and is still taught in some schools as a mental arithmetic training tool, making it one of the oldest continuously used computational devices in human history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abacus#Mesopotamian",
+    "read_more_links": [
+        {
+            "title": "Abacus",
+            "url": "https://en.wikipedia.org/wiki/Abacus"
+        },
+        {
+            "title": "Sexagesimal number system",
+            "url": "https://en.wikipedia.org/wiki/Sexagesimal"
+        },
+        {
+            "title": "History of mathematics",
+            "url": "https://en.wikipedia.org/wiki/History_of_mathematics"
+        },
+        {
+            "title": "Babylonian mathematics",
+            "url": "https://en.wikipedia.org/wiki/Babylonian_mathematics"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Houghton_Typ_520.03.736_-_Margarita_philosophica.jpg/300px-Houghton_Typ_520.03.736_-_Margarita_philosophica.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Houghton_Typ_520.03.736_-_Margarita_philosophica.jpg",
+            "caption": "Illustration from Margarita philosophica, 1503, by Gregor Reisch (d. 1525). T...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Telraam.JPG/300px-Telraam.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Telraam.JPG",
+            "caption": "Een telraam zoals dit gebruikt wordt op sommige scholen als hulpmiddel bij he...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 nl"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/300px-Abacus_%28PSF%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Abacus_%28PSF%29.png",
+            "caption": "Line art drawing of an abacus",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Kugleramme.jpg/300px-Kugleramme.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Kugleramme.jpg",
+            "caption": "Kugleramme",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Number",
+            "summary": "Used to count, measure, and label",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NumberSetinR2.svg/250px-NumberSetinR2.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Number"
+        },
+        {
+            "name": "Jacob Levy",
+            "summary": "Israeli historian and translator (1894–1956)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/JacobLevi1930Bulgaria.jpg/250px-JacobLevi1930Bulgaria.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Levy"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Demosthenes",
+            "summary": "Classical Athenian statesman and orator (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/250px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Demosthenes"
+        },
+        {
+            "name": "Diogenes",
+            "summary": "4th-century BC Greek Cynic philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg/250px-Diogenes_Mosaic_R%C3%B6misch-Germanisches_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diogenes"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        }
+    ],
+    "territory_geojson": null
+}

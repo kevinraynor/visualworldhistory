@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3870,
+    "parent_id": 98,
+    "granularity": "notable",
+    "content_hash": "sha256:6dda4f9c24a1db690eaa83389d88faa8901170e547872f111e9cf77b5e9625e2",
+    "summary": "The Aztec Empire (Triple Alliance) was formally founded in 1428 AD when three city-states in the Valley of Mexico — Tenochtitlan (the Mexica capital), Texcoco, and Tlacopan — formed a military alliance that overthrew the dominant Tepanec city of Azcapotzalco and began the rapid expansion that within a century made them the dominant power in Mesoamerica. The Mexica (Aztec) people, originally a wandering people from the mythical northern homeland Aztlan, had arrived in the Valley of Mexico in the 13th century as despised outsiders, settling on unpromising marshy islands in Lake Texcoco where, according to tradition, they saw the prophesied sign (an eagle perched on a cactus eating a serpent) and founded [[event:2261|Tenochtitlan]] in 1325. After a century as subordinates to the Tepanec empire, the Triple Alliance's victory in the Tepanec War launched Aztec imperial expansion.\n\nThe Aztec imperial system was extractive rather than directly administrative: conquered peoples were incorporated as tribute-paying vassals rather than governed directly, required to deliver regular quotas of food, luxury goods, slaves, and sacrificial victims to the Triple Alliance. At its height, the empire encompassed approximately 5–6 million people across 38 provinces from the Gulf Coast to the Pacific. The empire's religious ideology centered on the sun god Huitzilopochtli, who required continuous human sacrifice — primarily of war captives — to sustain the sun's daily journey across the sky; the scale of ritual sacrifice (estimates range widely from thousands to tens of thousands annually) drove the 'Flower Wars' (xochiyaoyotl), ritualized conflicts conducted specifically to take living captives for sacrifice. The Aztec capital Tenochtitlan, with a population of 200,000–400,000, was one of the world's largest cities when [[event:101|Spanish conquistadors]] under Hernán Cortés arrived in 1519.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aztec_Empire",
+    "read_more_links": [
+        {
+            "title": "Triple Alliance Tenochtitlan Texcoco Tlacopan founding",
+            "url": "https://en.wikipedia.org/wiki/Aztec_Empire#Formation"
+        },
+        {
+            "title": "Aztec tribute system provincial extraction",
+            "url": "https://en.wikipedia.org/wiki/Aztec_Empire#Economy_and_tribute"
+        },
+        {
+            "title": "Flower Wars human sacrifice Huitzilopochtli",
+            "url": "https://en.wikipedia.org/wiki/Flower_Wars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/National_Museum_of_Anthropology_-_Aztecs_%28JC%29_06.JPG/300px-National_Museum_of_Anthropology_-_Aztecs_%28JC%29_06.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/National_Museum_of_Anthropology_-_Aztecs_%28JC%29_06.JPG",
+            "caption": "National Museum of Anthropology - Aztecs",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Templo_Mayor_2015_001.jpg/300px-Templo_Mayor_2015_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Templo_Mayor_2015_001.jpg",
+            "caption": "Templo Mayor, Mexico City, Mexico.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Codex_azcatitlan222.jpg/300px-Codex_azcatitlan222.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Codex_azcatitlan222.jpg",
+            "caption": "Codex page.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aztec_Indians_Mexico_Tlaxcalan_Cortez.jpg/300px-Aztec_Indians_Mexico_Tlaxcalan_Cortez.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Aztec_Indians_Mexico_Tlaxcalan_Cortez.jpg",
+            "caption": "The Native people of Central America, i.e. Mexico as depicted in the Tlaxcala...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Conquistador",
+            "summary": "Spanish and Portuguese conquerors of the Age of Discovery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg/250px-Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conquistador"
+        },
+        {
+            "name": "Hernán Cortés",
+            "summary": "Spanish conquistador and explorer (1485–1547)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg/250px-Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s"
+        },
+        {
+            "name": "Mexica",
+            "summary": "Nahuatl-speaking Indigenous people of the Valley of Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aztec_drums%2C_Florentine_Codex..jpg/250px-Aztec_drums%2C_Florentine_Codex..jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mexica"
+        },
+        {
+            "name": "Tlatoani",
+            "summary": "Ruler of a Mesoamerican āltepētl (city-state)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nezahualpiltzintli.jpg/250px-Nezahualpiltzintli.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tlatoani"
+        },
+        {
+            "name": "Maxtla",
+            "summary": "King of Azcapotzalco and Coyoacán",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Maxtlatl.JPG/250px-Maxtlatl.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maxtla"
+        },
+        {
+            "name": "Jaguar warrior",
+            "summary": "Type of elite Aztec warrior",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jaguar_warrior.jpg/250px-Jaguar_warrior.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jaguar_warrior"
+        }
+    ],
+    "territory_geojson": null
+}

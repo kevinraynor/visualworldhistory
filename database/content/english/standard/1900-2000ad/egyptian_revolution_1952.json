@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3356,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:1a8f70b2cfd6c40ea6abea2df451a275b6fe6eedb9f228d7aca28123a6704510",
+    "summary": "The Egyptian Revolution of 1952 was a military coup on July 23, 1952, carried out by a group of army officers known as the Free Officers Movement, led by General Muhammad Naguib and the charismatic Colonel Gamal Abdel Nasser. The revolution overthrew King Farouk I, ending Egypt's constitutional monarchy and the political influence of the British-backed aristocracy. Farouk abdicated and went into exile within days.\n\nThe Free Officers were motivated by Egypt's defeat in the 1948 Arab-Israeli War, which they blamed on corrupt political leadership and continued British dominance of Egyptian affairs. They also resented the semi-colonial status Egypt retained despite nominal independence. The revolution abolished the monarchy in 1953, declared Egypt a republic, and progressively dismantled the political parties associated with the old regime. Naguib became president, but Nasser outmaneuvered him and became the dominant figure by 1954.\n\nUnder Nasser, Egypt nationalized the Suez Canal in 1956, precipitating the [[event:2672|Suez Crisis]], and became a leading voice of Arab nationalism and anti-colonialism. The Egyptian Revolution inspired similar military-nationalist movements across the Arab world, transforming the political landscape of the Middle East and North Africa throughout the 1950s and 1960s. Nasser's model of secular Arab nationalism became one of the defining political forces of the post-colonial world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952",
+    "read_more_links": [
+        {
+            "title": "Gamal Abdel Nasser - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser"
+        },
+        {
+            "title": "Arab Nationalism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Arab_nationalism"
+        },
+        {
+            "title": "Suez Crisis - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Suez-Crisis"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Muhammad_Naguib_%28cropped%29.jpg/300px-Muhammad_Naguib_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Muhammad_Naguib_%28cropped%29.jpg",
+            "caption": "Portrait of Muhammad Naguib (1904-1984), the first President of Egypt (1953-1...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Maher_and_Naguib.jpg/300px-Maher_and_Naguib.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Maher_and_Naguib.jpg",
+            "caption": "Prime minister Ali Maher and leader of the RCC Mohammad Naguib. 1952",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ModernEgypt%2C_Farouk_I_in_Parliament%2C_DHP13655-13-11_01.jpg/300px-ModernEgypt%2C_Farouk_I_in_Parliament%2C_DHP13655-13-11_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/ModernEgypt%2C_Farouk_I_in_Parliament%2C_DHP13655-13-11_01.jpg",
+            "caption": "King Farouk I of Egypt in Parliament listening to Mustafa el-Nahhas Pasha's s...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mohamed Naguib",
+            "summary": "President of Egypt from 1953 to 1954",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mohamed_Naguib1952.jpg/250px-Mohamed_Naguib1952.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mohamed_Naguib"
+        },
+        {
+            "name": "Gamal Abdel Nasser",
+            "summary": "President of Egypt from 1956 to 1970",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962.jpg/250px-Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser"
+        },
+        {
+            "name": "Farouk of Egypt",
+            "summary": "King of Egypt from 1936 to 1952",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Farouk-King-.jpg/250px-Farouk-King-.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Farouk_of_Egypt"
+        },
+        {
+            "name": "Ahmed Naguib el-Hilaly",
+            "summary": "Prime Minister of Egypt (1952)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ahmed_N._Al-Hilaly.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmed_Naguib_el-Hilaly"
+        },
+        {
+            "name": "Anwar Sadat",
+            "summary": "President of Egypt from 1970 to 1981",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Anwar_Sadat_cropped_%28cropped%29%282%29.jpg/250px-Anwar_Sadat_cropped_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anwar_Sadat"
+        },
+        {
+            "name": "Khaled Mohieddin",
+            "summary": "Egyptian politician (1922–2018)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Khalid_Muhyi_al-Din-1952-54.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Khaled_Mohieddin"
+        }
+    ],
+    "territory_geojson": null
+}

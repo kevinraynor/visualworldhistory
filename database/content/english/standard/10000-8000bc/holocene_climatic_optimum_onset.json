@@ -1,0 +1,47 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1320,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:4cb72d2704ac900178ac376e5bb15bcb85f27b194e20f742d10d704ced5f2f7a",
+    "summary": "The Holocene Climatic Optimum (HCO) was a period of generally warmer-than-present temperatures across much of the Northern Hemisphere, occurring approximately 9,000–5,000 BCE, following the close of the [[event:1261|Younger Dryas]] cold reversal and the final recession of the last glacial ice sheets. The onset of this warm interval, which began around 11,700 BCE and reached its thermal maximum between approximately 9,000 and 7,000 BCE in many regions, created the climatic backdrop against which the [[event:1|Neolithic Revolution]] unfolded.\n\nDuring the Holocene Climatic Optimum, temperatures in many parts of the Northern Hemisphere were 2–4 degrees Celsius warmer than today, and precipitation patterns shifted significantly. The most dramatic manifestation was the [[event:17|African Humid Period]] — the \"Green Sahara\" — when intensified monsoon circulation brought regular rains to the Sahara and Sahel, transforming these regions from desert to savanna and enabling human habitation across vastly larger areas of Africa. Similar changes expanded the habitable zone and the productivity of ecosystems across Europe, Asia, and North America.\n\nThe warm, moist, and stable conditions of the Holocene Climatic Optimum were an important enabling factor for agricultural intensification and population growth. The expansion of grasslands, wetlands, and diverse ecological zones provided the environmental context in which early farming communities could establish themselves, spread, and grow. The HCO also influenced sea levels — continued melting of residual glacial ice during this period contributed to the ongoing flooding of [[event:1318|Sundaland]], [[event:1319|Doggerland]], and other low-lying coastal regions, reshaping human geography across the globe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Holocene_climatic_optimum",
+    "read_more_links": [
+        {
+            "title": "Holocene - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Holocene"
+        },
+        {
+            "title": "Paleoclimatology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paleoclimatology"
+        },
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "Climate During Human Evolution - Smithsonian",
+            "url": "https://humanorigins.si.edu/research/climate-and-human-evolution/climate-effects-human-evolution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Journal.pone.0076514.g004.png/300px-Journal.pone.0076514.g004.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Journal.pone.0076514.g004.png",
+            "caption": "and early en:Holocene climate and vegetation of Africa",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Holocene_Temperature_Variations.png/300px-Holocene_Temperature_Variations.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Holocene_Temperature_Variations.png",
+            "caption": "Holocene Temperature Variations",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

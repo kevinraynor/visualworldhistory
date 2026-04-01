@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1461,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2f66c0b1f737b73903c0af753b347a8236e3e3849e4e9cd2c6d3196a4a24fd62",
+    "summary": "The development of purpose-built pottery kilns — enclosed firing structures that concentrate heat and allow higher and more controllable temperatures than open bonfires — represents an important technological refinement in ceramic production that occurred during the Neolithic period in the Near East. While the earliest pottery was likely fired in open fires or simple pit firings, the introduction of kilns in the seventh to sixth millennia BCE allowed potters to achieve more consistent results and attain higher temperatures, enabling the production of harder, more durable, and more finely decorated wares.\n\nEarly kilns in the Near East were typically updraft structures — simple domed chambers with a separate firebox below and holes in the floor to allow hot gases to rise through the pottery stacked above. Evidence for such kilns has been identified at Neolithic sites in northern Mesopotamia and the Levant, associated with the ceramic traditions of the [[event:1403|Hassuna]] and [[event:1404|Samarra]] cultures. The ability to control the firing atmosphere — whether oxidizing or reducing — became important for producing certain pottery effects and colors.\n\nThe kiln technology developed for pottery production was not only significant for ceramics but had cascading effects on the broader history of technology. Kiln expertise informed the development of higher-temperature metallurgical processes, contributing to the eventual emergence of [[event:15|copper smelting]] and, much later, glass production and other pyrotechnologies. The potter's kiln thus represents an important node in the technological web of the Neolithic Near East.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kiln#History",
+    "read_more_links": [
+        {
+            "title": "Kiln History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kiln"
+        },
+        {
+            "title": "Pottery - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "title": "Neolithic Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_technology"
+        },
+        {
+            "title": "Ceramic Art History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ceramic_art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/1._Alt_forn_del_Port_de_Sagunt_%28Pa%C3%ADs_Valenci%C3%A0%2C_1951%29.jpg/300px-1._Alt_forn_del_Port_de_Sagunt_%28Pa%C3%ADs_Valenci%C3%A0%2C_1951%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/1._Alt_forn_del_Port_de_Sagunt_%28Pa%C3%ADs_Valenci%C3%A0%2C_1951%29.jpg",
+            "caption": "* Data de la fotografia: 08-10-1951.\nA principis del segle xx es va desenvolu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/L3766_-_Belleek_Pottery%2C_County_Fermanagh.jpg/300px-L3766_-_Belleek_Pottery%2C_County_Fermanagh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/L3766_-_Belleek_Pottery%2C_County_Fermanagh.jpg",
+            "caption": "Belleek Pottery, County Fermanagh",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kiln_for_glass_bead_production_02.jpg/300px-Kiln_for_glass_bead_production_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kiln_for_glass_bead_production_02.jpg",
+            "caption": "Traditional glass bead making workshop, front view of empty kiln for heating ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kiln_yard.jpg/300px-Kiln_yard.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Kiln_yard.jpg",
+            "caption": "The yard for kilns and outdoor work at the BGSU Fine Arts Building.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Surrey",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Edge_of_the_North_Downs_-_geograph.org.uk_-_7610138.jpg/250px-Edge_of_the_North_Downs_-_geograph.org.uk_-_7610138.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Surrey"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

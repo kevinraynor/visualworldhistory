@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1173,
+    "parent_id": 80,
+    "granularity": "notable",
+    "content_hash": "sha256:9ff050c55d25c304275ced4b0bbe038ca9a18f162cd2fae3cec693b1e51183a2",
+    "summary": "The Greco-Bactrian Kingdom (256–125 BC) was a Hellenistic state in Central Asia (modern Afghanistan and parts of neighboring countries) that represented the farthest eastern outpost of Greek civilization, producing extraordinary coins and contributing to the cultural synthesis that later created the [[event:1104|Indo-Greek Kingdom]] and the distinctive [[event:1216|Gandhara Art]] tradition.\n\nFounded when the Seleucid satrap of Bactria, Diodotus, declared independence around 256 BC, the kingdom maintained Greek language, art, and political institutions in a region far from the Mediterranean. Its coins are considered among the finest in antiquity — large, beautifully struck with realistic royal portraits and precise inscriptions in Greek and later Kharosthi. At its height the Greco-Bactrian Kingdom controlled a territory extending from Central Asia into the Indus valley, and its rulers Demetrius I and Menander ([[event:1105|Menander I]]) pressed deep into India. The kingdom was eventually destroyed by the nomadic Yuezhi migration ([[event:1174|Yuezhi Migration]]) around 125 BC. Its cultural legacy was substantial: the Buddhist sculptural tradition of Gandhara — which produced the first human representations of the Buddha — drew directly on the Hellenistic artistic tradition left by the Greeks of Bactria.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom",
+    "read_more_links": [
+        {
+            "title": "Bactrian coins",
+            "url": "https://en.wikipedia.org/wiki/Greco-Bactrian_coinage"
+        },
+        {
+            "title": "Diodotus I",
+            "url": "https://en.wikipedia.org/wiki/Diodotus_I"
+        },
+        {
+            "title": "Yuezhi conquest of Bactria",
+            "url": "https://en.wikipedia.org/wiki/Yuezhi#Migration_into_Bactria"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg/300px-Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Monnaie_de_Bactriane%2C_Eucratide_I%2C_2_faces.jpg",
+            "caption": "Gold 20-stater of Eucratides, the largest known gold coin from antiquity. The...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Termez_Kampyr_Tepe_%28Alexandria_Oxiana%29_end_4th_cent_BCE-1st_cent_CE_Hellenistic_Port_model.jpg/300px-Termez_Kampyr_Tepe_%28Alexandria_Oxiana%29_end_4th_cent_BCE-1st_cent_CE_Hellenistic_Port_model.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Termez_Kampyr_Tepe_%28Alexandria_Oxiana%29_end_4th_cent_BCE-1st_cent_CE_Hellenistic_Port_model.jpg",
+            "caption": "Termez Kampyr Tepe (Alexandria Oxiana) end 4th cent BCE-1st cent CE Hellenist...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eucratide_1er_-_20_stat%C3%A8res.jpg/300px-Eucratide_1er_-_20_stat%C3%A8res.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Eucratide_1er_-_20_stat%C3%A8res.jpg",
+            "caption": "Gold 20-stater of Eucratides. The coin weighs 169.2 grams, and has a diameter...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/KineasInscriptionSharp.jpg/300px-KineasInscriptionSharp.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/KineasInscriptionSharp.jpg",
+            "caption": "Inscription of Kineas. Ai Khanoum 2nd century BCE. Musée Guimet. Personal pho...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diodotus I",
+            "summary": "First Greek king of Bactria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Diodotus_I_of_Bactria_wearing_the_diadem.jpg/250px-Diodotus_I_of_Bactria_wearing_the_diadem.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodotus_I"
+        },
+        {
+            "name": "Demetrius I of Bactria",
+            "summary": "2nd century BC Greco-Bactrian and Indo-Greek king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Demetrius_I_portrait.jpg/250px-Demetrius_I_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Demetrius_I_of_Bactria"
+        },
+        {
+            "name": "Heliocles I",
+            "summary": "Greco-Bactrian king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Baktria_-_king_Heliokles_I_-_145-130_BC_-_silver_tetradrachm_-_bust_of_Heliokles_I_-_Zeus_-_M%C3%BCnchen_SMS_01_Crop.jpg/250px-Baktria_-_king_Heliokles_I_-_145-130_BC_-_silver_tetradrachm_-_bust_of_Heliokles_I_-_Zeus_-_M%C3%BCnchen_SMS_01_Crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heliocles_I"
+        },
+        {
+            "name": "Eucratides I",
+            "summary": "Greco-Bactrian king from 172/171 BC to 145 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Eucratides_portrait.jpg/250px-Eucratides_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eucratides_I"
+        },
+        {
+            "name": "Hermaeus",
+            "summary": "Indo-Greek king (1st century BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hermaeus_profile.jpg/250px-Hermaeus_profile.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermaeus"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

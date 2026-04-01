@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1114,
+    "parent_id": 1112,
+    "granularity": "notable",
+    "content_hash": "sha256:9f4925fc63d6778b72e00339c108040e4cfc66e5162a98e4e89e566271b644d3",
+    "summary": "Daoism (Taoism, c. 400–200 BC) emerged as one of the foundational philosophical traditions of China during the [[event:1112|Hundred Schools of Thought]], offering a vision of harmony with the natural order of the universe (the Dao, or Way) as an alternative both to Confucian social moralism and [[event:1113|Legalist]] statecraft.\n\nThe classic texts of Daoism are the Tao Te Ching, attributed to the legendary sage Laozi, and the Zhuangzi, attributed to the philosopher Zhuangzi. The Tao Te Ching presents a vision of effortless action (wu wei) — achieving results by not forcing outcomes, governing by doing less rather than more. The Zhuangzi is more playful and philosophical, using stories and paradoxes to question conventional social values and celebrate natural spontaneity. Both texts responded to the violence and social breakdown of the [[event:1111|Warring States Period]], offering wisdom about how to navigate a chaotic world. Daoism later developed religious dimensions (Daoist religion, with deities, rituals, and immortality practices) distinct from the philosophical tradition, but the early philosophical Daoism of this period profoundly influenced all subsequent Chinese culture — including Chinese Buddhism, landscape painting, poetry, and political theory.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taoism",
+    "read_more_links": [
+        {
+            "title": "Tao Te Ching",
+            "url": "https://en.wikipedia.org/wiki/Tao_Te_Ching"
+        },
+        {
+            "title": "Zhuangzi",
+            "url": "https://en.wikipedia.org/wiki/Zhuangzi"
+        },
+        {
+            "title": "Laozi",
+            "url": "https://en.wikipedia.org/wiki/Laozi"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Daoyin_tu_-_chart_for_leading_and_guiding_people_in_exercise_Wellcome_L0036007.jpg/300px-Daoyin_tu_-_chart_for_leading_and_guiding_people_in_exercise_Wellcome_L0036007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Daoyin_tu_-_chart_for_leading_and_guiding_people_in_exercise_Wellcome_L0036007.jpg",
+            "caption": "Daoyin tu - chart for leading and guiding people in exercise for improving he...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Weaverville%2C_April_2020-2070.jpg/300px-Weaverville%2C_April_2020-2070.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Weaverville%2C_April_2020-2070.jpg",
+            "caption": "Joss House, a Taoist temple at Weaverville Joss House State Historic Park. Th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg/300px-Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hunyuan_Xuankong_Si_2013.08.30_09-02-11.jpg",
+            "caption": "The Hanging Temple (Hanging Monastery or Xuankong Temple) is a temple built i...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/PenglaiPavillion2.jpg/300px-PenglaiPavillion2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/PenglaiPavillion2.jpg",
+            "caption": "Penglai Pavilion, a fabled abode of immortals of China, in Yan Tai city in Sh...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Laozi",
+            "summary": "Semi-legendary Chinese philosopher, founder of Taoism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Laozi_%28Chinese_characters%29.svg/250px-Laozi_%28Chinese_characters%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Laozi"
+        },
+        {
+            "name": "James Legge",
+            "summary": "Scottish missionary and translator (1815–1897)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/James_Legge_China.jpg/250px-James_Legge_China.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Legge"
+        },
+        {
+            "name": "Zhang Lu (painter)",
+            "summary": "Chinese painter (1464–1538)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/250px-Zhang_Lu-Laozi_Riding_an_Ox.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhang_Lu_%28painter%29"
+        },
+        {
+            "name": "Han Fei",
+            "summary": "Chinese philosopher and statesman (280–233 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Statue_Of_Han_Fei.png/250px-Statue_Of_Han_Fei.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Han_Fei"
+        }
+    ],
+    "territory_geojson": null
+}

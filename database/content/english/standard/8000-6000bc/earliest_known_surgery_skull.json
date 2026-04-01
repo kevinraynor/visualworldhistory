@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1506,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:da01b1fbc408a7f1d9b636be58cf79cddb1833708af99eaae9d4fc8faac5425a",
+    "summary": "Trepanation — the surgical removal of a section of the skull — is among the oldest documented surgical procedures, with examples from Neolithic Europe and the Near East dating to approximately 7000–6000 BCE. Skulls from sites in France, Portugal, and central Europe bearing healed trepanation wounds indicate that patients survived the procedure, demonstrating that early surgeons possessed sufficient anatomical knowledge and technical skill to perform the operation successfully.\n\nThe motivations for Neolithic trepanation remain debated, with proposals including the treatment of head injuries, the relief of headaches or seizures, and ritual or shamanistic purposes. The evidence of bone healing around the surgical openings shows that many patients lived for months or years after the operation, arguing against purely ritual explanations. These early surgical interventions represent the beginning of a medical tradition that would continue across many cultures and millennia, making trepanation one of the most archaeologically documented surgical practices in human prehistory.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trepanning#History",
+    "read_more_links": [
+        {
+            "title": "Trepanning – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Trepanning"
+        },
+        {
+            "title": "History of Surgery – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_surgery"
+        },
+        {
+            "title": "Neolithic Medicine – Britannica",
+            "url": "https://www.britannica.com/topic/history-of-medicine/Ancient-medicine"
+        },
+        {
+            "title": "Prehistoric Medicine – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_medicine"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cr%C3%A2nes_tr%C3%A9panation_%C3%A2ge_du_bronze.jpg/300px-Cr%C3%A2nes_tr%C3%A9panation_%C3%A2ge_du_bronze.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cr%C3%A2nes_tr%C3%A9panation_%C3%A2ge_du_bronze.jpg",
+            "caption": "Crânes trépanés de l'âge du bronze, trouvés à Comps-sur-Artuby (83), France. ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Trepanated_skull_of_a_woman-P4140363-black.jpg/300px-Trepanated_skull_of_a_woman-P4140363-black.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Trepanated_skull_of_a_woman-P4140363-black.jpg",
+            "caption": "Trepanated skull of a subject who survived the process ",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1750_Trepanationsbesteck_anagoria.JPG/300px-1750_Trepanationsbesteck_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/1750_Trepanationsbesteck_anagoria.JPG",
+            "caption": "Trepanation instruments, 18th century; Germanic National Museum in Nuremberg",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hieronymus_Bosch_053_detail.jpg/300px-Hieronymus_Bosch_053_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Hieronymus_Bosch_053_detail.jpg",
+            "caption": "Hieronymus Bosch 053 detail",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hieronymus Bosch",
+            "summary": "Dutch painter (c. 1450–1516)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jheronimus_Bosch_%28cropped%29.jpg/250px-Jheronimus_Bosch_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hieronymus_Bosch"
+        },
+        {
+            "name": "Carl Sofus Lumholtz",
+            "summary": "Norwegian explorer and ethnographer (1851–1922)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Photo_of_Carl_Lumholtz.jpg/250px-Photo_of_Carl_Lumholtz.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Sofus_Lumholtz"
+        },
+        {
+            "name": "Xiaohe Cemetery",
+            "summary": "Cemetery in Ruoqiang County, China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Map_of_the_Tarim_Mummies_%28Tarim_detail%29.png/250px-Map_of_the_Tarim_Mummies_%28Tarim_detail%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xiaohe_Cemetery"
+        }
+    ],
+    "territory_geojson": null
+}

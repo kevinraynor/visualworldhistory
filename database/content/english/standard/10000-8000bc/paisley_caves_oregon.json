@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1378,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6fde7665f2566ffa561e9bdc30617a4c94007db13f03ac75ad59b48d778405c0",
+    "summary": "The Paisley Caves are a series of five caves in the Summer Lake Basin of south-central Oregon, USA, that have yielded some of the most compelling evidence for pre-Clovis human occupation in North America. The key evidence consists of human coprolites (fossil dung) recovered from sediment layers dated to approximately 12,300 BCE — older than the Clovis cultural horizon — that contain human mitochondrial DNA confirming their origin from anatomically modern Homo sapiens.\n\nIn addition to the pre-Clovis coprolites, the Paisley Caves contain a long sequence of archaeological deposits spanning from the late Pleistocene through more recent periods. The late Pleistocene and early Holocene layers (encompassing the period 10,000–8,000 BCE) document Paleo-Indian occupation of the Great Basin interior, with faunal remains including horse, camel, and pronghorn antelope alongside stone tools. The discovery of pre-Clovis human DNA at Paisley Caves — along with sites such as [[event:1286|Meadowcroft Rockshelter]] and [[event:1285|Monte Verde]] — has contributed significantly to the revision of the Clovis First model of American colonization, supporting earlier human presence in the Americas than previously accepted.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paisley_Caves",
+    "read_more_links": [
+        {
+            "title": "Pre-Clovis Cultures - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Clovis_cultures"
+        },
+        {
+            "title": "Great Basin Archaeology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Great_Basin_cultures"
+        },
+        {
+            "title": "Peopling of the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Abies_lasiocarpa_0775.JPG/300px-Abies_lasiocarpa_0775.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Abies_lasiocarpa_0775.JPG",
+            "caption": "Subalpine Fir forest; McClure Rock (left center, just above forested slopes; ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paisley_caves_-_Fossil_Cave5.jpg/300px-Paisley_caves_-_Fossil_Cave5.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Paisley_caves_-_Fossil_Cave5.jpg",
+            "caption": "Paisley Caves, above the Summer lake plain, Oregon. In these caves some of th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Human_Coprolite_from_the_Paisley_Caves.jpg/300px-Human_Coprolite_from_the_Paisley_Caves.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Human_Coprolite_from_the_Paisley_Caves.jpg",
+            "caption": "A coprolite found in the Paisley Caves dated to 12,300 BCE. If truly of human...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Summer Lake (Oregon)",
+            "summary": "Alkali lake in Lake County, Oregon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Summer_Lake_%28Oregon%29.jpg/250px-Summer_Lake_%28Oregon%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Summer_Lake_%28Oregon%29"
+        }
+    ],
+    "territory_geojson": null
+}

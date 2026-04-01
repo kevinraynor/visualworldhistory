@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1883,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6102d4688118849802a796813ada3966d7921960e0828ef6e08bcfae2f716a56",
+    "summary": "The Hurrian Songs are a collection of musical compositions inscribed on clay tablets discovered at the city of [[event:1833|Ugarit]] on the northern Levantine coast, dating to approximately 1400–1200 BC. Written in the Hurrian language — the language of the [[event:1831|Mitanni]] and related peoples — and using a cuneiform notation system, they represent the oldest known written music in the world. The collection comprises thirty-six tablets with musical notation of varying degrees of preservation, of which Hymn to Nikkal (also called Hurrian Hymn No. 6) is the most completely preserved and the only one scholars have been able to reconstruct into a playable melody.\n\nThe tablets contain both the text of the hymns, addressed to Hurrian deities, and instructions for instrumental accompaniment using a stringed instrument called the sammûm, which may be related to later harps or lutes. The notation system specifies intervals and string groupings on the instrument rather than individual notes, making transcription into modern musical notation a matter of ongoing scholarly debate. Several competing reconstructions of Hymn No. 6 exist, yielding notably different musical results depending on interpretive choices.\n\nBeyond their significance as the earliest surviving music, the Hurrian Songs provide evidence for the musical culture of the Late Bronze Age Near East and for the Hurrian language and religious traditions. Their discovery at Ugarit illustrates the cosmopolitan nature of that city's scribal culture, which preserved texts in Hurrian, Akkadian, Ugaritic, and other languages. The hymns demonstrate that sophisticated musical composition and notation systems existed in the ancient Near East well before the earliest Greek or other Western musical texts.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hurrian_songs",
+    "read_more_links": [
+        {
+            "title": "Oldest Known Music",
+            "url": "https://en.wikipedia.org/wiki/Hurrian_songs#Discovery_and_analysis"
+        },
+        {
+            "title": "History of Music",
+            "url": "https://en.wikipedia.org/wiki/History_of_music"
+        },
+        {
+            "title": "Hurrian Language",
+            "url": "https://en.wikipedia.org/wiki/Hurrian_language"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ugarit_Corbel.jpg/300px-Ugarit_Corbel.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Ugarit_Corbel.jpg",
+            "caption": "Ugarit Palace Entrance",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Duck_container_Louvre_AO14779.jpg/300px-Duck_container_Louvre_AO14779.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Duck_container_Louvre_AO14779.jpg",
+            "caption": "Duck container Louvre AO14779",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hurritische_hymne.gif/300px-Hurritische_hymne.gif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hurritische_hymne.gif",
+            "caption": "Hurrian hymn.  (Transcription: below double-scribed line, Lines 1-6: Line 1--...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ugarit_mapa.jpg/300px-Ugarit_mapa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ugarit_mapa.jpg",
+            "caption": "Map of the Syrian archaeological site of Ugarit (today's Ras Shamra). \nSoftwa...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Refrain",
+            "summary": "Repeated lines in music or poetry",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jingle_Bells_refrain_vector.svg/250px-Jingle_Bells_refrain_vector.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Refrain"
+        },
+        {
+            "name": "Malek Jandali",
+            "summary": "Syrian-American musical artist (born 1972)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Malek_Jandali_composer_and_pianist.JPG/250px-Malek_Jandali_composer_and_pianist.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Malek_Jandali"
+        },
+        {
+            "name": "Richard Dumbrill (musicologist)",
+            "summary": "French archaeomusicologist (born 1947)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Viber_image_2024-07-15_10-15-13-216.jpg/250px-Viber_image_2024-07-15_10-15-13-216.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Dumbrill_%28musicologist%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3210,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:717057851f42b00aada9a85cfe1c1140e64e911322ad4c7246fa4d4b8881eccd",
+    "summary": "Canaan, the coastal and inland region roughly corresponding to modern Israel, Palestine, Lebanon, and western Syria, was home to a network of city-states and tribal communities during the second millennium BC. Canaanite society was organized around walled urban centers such as [[event:1888|Megiddo]], [[event:1889|Jericho]], and [[event:1890|Hazor]], each ruled by a local king who maintained tributary relationships with the great empires of Egypt and Mesopotamia. The region's position at the crossroads of Africa, Asia, and the Mediterranean made it both prosperous and perpetually contested.\n\nCanaanite religion centered on a pantheon headed by the god El and his consort Asherah, with Baal as a prominent storm deity associated with agricultural fertility. Religious practice included temple sacrifice, ritual feasting, and extensive use of votive offerings. Canaanite material culture was sophisticated, producing fine ivory carvings, jewelry, and painted pottery that were traded widely throughout the eastern Mediterranean world.\n\nThe Canaanite civilization faced severe disruption during the upheavals of the [[event:1815|Bronze Age Collapse]] around 1200 BC, when many urban centers were destroyed or abandoned. In the aftermath, distinct successor cultures emerged: the [[event:58|Phoenician city-states]] along the northern coast preserved much of Canaanite culture and language, while the southern regions saw the emergence of Israelite, Philistine, and other Iron Age polities.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Canaan",
+    "read_more_links": [
+        {
+            "title": "Canaanite Religion - Britannica",
+            "url": "https://www.britannica.com/topic/Canaanite-religion"
+        },
+        {
+            "title": "Phoenicia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Phoenicia"
+        },
+        {
+            "title": "Late Bronze Age in Canaan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_in_Canaan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/A_map_of_Canaan_%288343807206%29.jpg/300px-A_map_of_Canaan_%288343807206%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/A_map_of_Canaan_%288343807206%29.jpg",
+            "caption": "Zoom into this map at maps.bpl.org.\nAuthor: Lea, Philip\nPublisher: Lea, Phili...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Basalt_Lion%2C_Holy_of_Holies%2C_Orthostat_Temple%2C_Hazor%2C_15th-13th_C._BC_%2843217868001%29.jpg/300px-Basalt_Lion%2C_Holy_of_Holies%2C_Orthostat_Temple%2C_Hazor%2C_15th-13th_C._BC_%2843217868001%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Basalt_Lion%2C_Holy_of_Holies%2C_Orthostat_Temple%2C_Hazor%2C_15th-13th_C._BC_%2843217868001%29.jpg",
+            "caption": "Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldH...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%D9%85%D9%88%D9%82%D8%B9_%D8%AA%D9%84_%D8%A7%D9%84%D8%B3%D9%83%D9%86_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A.jpg/300px-%D9%85%D9%88%D9%82%D8%B9_%D8%AA%D9%84_%D8%A7%D9%84%D8%B3%D9%83%D9%86_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%D9%85%D9%88%D9%82%D8%B9_%D8%AA%D9%84_%D8%A7%D9%84%D8%B3%D9%83%D9%86_%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A.jpg",
+            "caption": "Jean-Baptiste Humbert walking down one of Tell es-Sakan's slopes",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sarcophagus_of_Canaanites.jpg/300px-Sarcophagus_of_Canaanites.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sarcophagus_of_Canaanites.jpg",
+            "caption": "Sarcophagus of Canaanites, now at Israel Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mitanni",
+            "summary": "Ancient Hurrian-speaking state in northern Syria and southeast Anatolia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Carte_du_Mitanni-en.svg/250px-Carte_du_Mitanni-en.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mitanni"
+        },
+        {
+            "name": "Wilhelm Gesenius",
+            "summary": "German orientalist and theologian (1786–1842)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gesenius_Wilhelm.jpg/250px-Gesenius_Wilhelm.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_Gesenius"
+        }
+    ],
+    "territory_geojson": null
+}

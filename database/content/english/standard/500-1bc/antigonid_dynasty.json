@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1042,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:ed2ef340b28c142630d1c59ede906eeb4c5940adad0770cd6f12251b3f04b2fe",
+    "summary": "The Antigonid Dynasty (306–168 BC) was the Macedonian successor kingdom established by Antigonus I Monophthalmus ('One-Eye') and his descendants, which controlled Macedonia and, at various times, much of Greece. Of the three major successor kingdoms, the Antigonids had the smallest territory and resources but the prestige of controlling Alexander's homeland.\n\nAntigonus I was initially the most powerful of the Diadochi and came closest to reunifying Alexander's empire, but his defeat and death at the Battle of Ipsus in 301 BC ended that ambition. His son Demetrius Poliorcetes ('the Besieger') briefly captured Macedonia but was himself overthrown. The dynasty stabilized under Antigonus II Gonatas, who secured Macedonia and established lasting dynastic control. The Antigonids maintained influence over most Greek cities through garrisons and compliant governments, creating resentment that fueled anti-Macedonian leagues like the [[event:1203|Achaean League]]. The dynasty ended when Rome defeated Perseus at the [[event:1067|Battle of Pydna]] in 168 BC, after which Macedonia was organized as Roman provinces.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Antigonid_dynasty",
+    "read_more_links": [
+        {
+            "title": "Antigonus I Monophthalmus",
+            "url": "https://en.wikipedia.org/wiki/Antigonus_I_Monophthalmus"
+        },
+        {
+            "title": "Antigonus II Gonatas",
+            "url": "https://en.wikipedia.org/wiki/Antigonus_II_Gonatas"
+        },
+        {
+            "title": "Macedonian Wars",
+            "url": "https://en.wikipedia.org/wiki/Macedonian_Wars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Perseus_of_Macedon_BM.jpg/300px-Perseus_of_Macedon_BM.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Perseus_of_Macedon_BM.jpg",
+            "caption": "The obverse of a tetradrachm coin minted during the reign of Perseus of Maced...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Philip_V_of_Macedon_BM.jpg/300px-Philip_V_of_Macedon_BM.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Philip_V_of_Macedon_BM.jpg",
+            "caption": "Philip_V_of_Macedon",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Diadoch.png/300px-Diadoch.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Diadoch.png",
+            "caption": "Map of the successor Kingdoms before the battle of Ipsus.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Macedonia_and_the_Aegean_World_c.200.png/300px-Macedonia_and_the_Aegean_World_c.200.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png",
+            "caption": "Macedonia and the Aegean world c.200 B.C. This image is made by Raymond Palmer.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Perseus of Macedon",
+            "summary": "King of Macedonia from 179 to 168 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Perseus_of_Macedon_coin_cropped.png/250px-Perseus_of_Macedon_coin_cropped.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perseus_of_Macedon"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Cassander",
+            "summary": "King of Macedonia, Antipatrid dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kassander316BC.jpg/250px-Kassander316BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassander"
+        },
+        {
+            "name": "Demetrius of Phalerum",
+            "summary": "Greek statesman and philosopher (c.350–c.280 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Bust_of_Demetrius_Phalereus_at_Kunsthistorisches_Museum.jpg/250px-Bust_of_Demetrius_Phalereus_at_Kunsthistorisches_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Demetrius_of_Phalerum"
+        },
+        {
+            "name": "Antigonus II Gonatas",
+            "summary": "King of Macedonia from 277 BC to 239 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Monnaie_-_T%C3%A9tradrachme%2C_argent%2C_Pella%2C_Mac%C3%A9doine%2C_Antigone_II_Gonatas_-_btv1b8500006s_%281_of_2%29.jpg/250px-Monnaie_-_T%C3%A9tradrachme%2C_argent%2C_Pella%2C_Mac%C3%A9doine%2C_Antigone_II_Gonatas_-_btv1b8500006s_%281_of_2%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antigonus_II_Gonatas"
+        },
+        {
+            "name": "Antigonus III Doson",
+            "summary": "King of Macedon from 229 to 221 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Antigonus_Doson.jpg/250px-Antigonus_Doson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antigonus_III_Doson"
+        }
+    ],
+    "territory_geojson": null
+}

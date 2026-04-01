@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3324,
+    "parent_id": 110,
+    "granularity": "detailed",
+    "content_hash": "sha256:309dd633e120cf43f5fa45cda4ef34908e4f94e559d44ab59b75a02e2d20ec30",
+    "summary": "The Battle of Tannenberg, fought August 26–30, 1914, in East Prussia (present-day northeastern Poland), was the most decisive German victory of [[event:110|World War I]] on the Eastern Front. German forces under General Paul von Hindenburg and his chief of staff Erich Ludendorff encircled and destroyed the Russian Second Army under General Alexander Samsonov. Approximately 90,000 Russian soldiers were captured, and Samsonov committed suicide. Russian casualties totaled around 170,000 killed, wounded, and captured, against German losses of approximately 12,000.\n\nThe German victory was achieved through rapid movement by rail, effective use of intercepted Russian radio messages transmitted in clear text, and the exploitation of a gap between the advancing Russian armies. The battle demonstrated the vulnerability of the Russian military's organizational and communications deficiencies. Despite the magnitude of the defeat, Russia remained in the war and the Eastern Front continued for three more years.\n\nTannenberg had significant consequences for both sides. Hindenburg and Ludendorff became German national heroes and the dominant military leaders for the remainder of the war. The victory halted a Russian advance that had threatened to penetrate into the German heartland of East Prussia, stabilizing the Eastern Front temporarily. For Russia, the defeat presaged the military failures and supply shortages that would contribute to the collapse of 1917.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tannenberg",
+    "read_more_links": [
+        {
+            "title": "Battle of Tannenberg - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Tannenberg-1914"
+        },
+        {
+            "title": "Paul von Hindenburg - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
+        },
+        {
+            "title": "Eastern Front WWI - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vivat-bander_-_1914_-_Hindenburg_Tanenburg_by_E.D.d.j.jpg/300px-Vivat-bander_-_1914_-_Hindenburg_Tanenburg_by_E.D.d.j.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Vivat-bander_-_1914_-_Hindenburg_Tanenburg_by_E.D.d.j.jpg",
+            "caption": "World War I Vivat ribbon commemorating Battle of Tannenberg. Shows Wilhelm II...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tannenberg_001.jpg/300px-Tannenberg_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tannenberg_001.jpg",
+            "caption": "Gefangene russische Soldaten am Bahnhof vom Tilsit",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Paul_von_Hindenburg_%281914%29_von_Nicola_Perscheid_%28cropped%29.jpg/300px-Paul_von_Hindenburg_%281914%29_von_Nicola_Perscheid_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Paul_von_Hindenburg_%281914%29_von_Nicola_Perscheid_%28cropped%29.jpg",
+            "caption": "Reproduction (likely a en:photogravure) of a 1914 photograph of Paul von Hind...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tannenberg01.JPG/300px-Tannenberg01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tannenberg01.JPG",
+            "caption": "Original caption: Usdau 27 August 1914: Burning inn (or hotel)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Paul von Hindenburg",
+            "summary": "President of Germany from 1925 to 1934",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/250px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
+        },
+        {
+            "name": "Erich Ludendorff",
+            "summary": "German general and politician (1865–1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg/250px-Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Erich_Ludendorff"
+        },
+        {
+            "name": "Hermann von François",
+            "summary": "German army commander (1856–1933)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hermann-von-francois.jpg/250px-Hermann-von-francois.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermann_von_Fran%C3%A7ois"
+        },
+        {
+            "name": "Alexander Samsonov",
+            "summary": "Russian general (1859–1914)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_V._Samsonov.jpeg/250px-Alexander_V._Samsonov.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Samsonov"
+        },
+        {
+            "name": "Yakov Zhilinsky",
+            "summary": "Russian cavalry general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Yakov_G._Zhilinsky.jpeg/250px-Yakov_G._Zhilinsky.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yakov_Zhilinsky"
+        },
+        {
+            "name": "1st Army (Russian Empire)",
+            "summary": "Division of the Imperial Russian Army from 1914 to 1918",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Emblem_of_the_Ministry_of_the_Interior_of_the_Russian_Empire.svg/250px-Emblem_of_the_Ministry_of_the_Interior_of_the_Russian_Empire.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/1st_Army_%28Russian_Empire%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1228,
+    "parent_id": 1054,
+    "granularity": "detailed",
+    "content_hash": "sha256:9adf5479f079b06d063101a58f410d8a2f468273aa911b036a4f98d68ddc6950",
+    "summary": "Scipio Africanus (236–183 BC) was Rome's greatest general of the Second Punic War and the man who defeated [[event:1054|Hannibal's Invasion of Italy]]'s Hannibal at the Battle of Zama (202 BC), ending the war that had brought Rome to the edge of catastrophe. Appointed commander in Spain at age 25 after the deaths of his father and uncle, he revolutionized Roman tactics by adopting and improving on the flexible Hellenistic maniple system, introducing the use of cavalry as a decisive arm, and incorporating psychological warfare.\n\nHis conquest of New Carthage (Cartagena) in Spain in 209 BC in a single daring assault, and his victory at Ilipa (206 BC), drove Carthage from Spain. He then took the war to Africa, threatening Carthage itself and forcing the recall of Hannibal. At Zama, he neutralized Hannibal's elephant corps and used superior cavalry coordination to encircle the Carthaginian army — a reversal of Hannibal's own tactics at Cannae. Scipio's victory established Rome's Mediterranean supremacy, but his popularity made political enemies; he was prosecuted late in life by Cato the Elder and died in voluntary exile.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scipio_Africanus",
+    "read_more_links": [
+        {
+            "title": "Battle of Zama",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Zama"
+        },
+        {
+            "title": "Battle of Ilipa",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Ilipa"
+        },
+        {
+            "title": "Scipio Africanus trial",
+            "url": "https://en.wikipedia.org/wiki/Scipio_Africanus#Political_downfall"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg/300px-Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+            "caption": "Glyptothek - Munich - Germany",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Escipi%C3%B3n_africano.JPG/300px-Escipi%C3%B3n_africano.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Escipi%C3%B3n_africano.JPG",
+            "caption": "Bronze bust formerly identified as Scipio Africanus in the the Naples Nationa...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/FR_Carskie_Siolo%2C_Galeria_Camerona%2C_2013.08.10%2C_fot._I._Nowicka_%2811%29_corr2.jpg/300px-FR_Carskie_Siolo%2C_Galeria_Camerona%2C_2013.08.10%2C_fot._I._Nowicka_%2811%29_corr2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/FR_Carskie_Siolo%2C_Galeria_Camerona%2C_2013.08.10%2C_fot._I._Nowicka_%2811%29_corr2.jpg",
+            "caption": "The bust of Scipio Africanus (236/235–183 BC), Roman general and statesman, 1...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Continence_of_Scipio_mg_0095.jpg/300px-Continence_of_Scipio_mg_0095.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Continence_of_Scipio_mg_0095.jpg",
+            "caption": "Continence of Scipio, Nicolas-Guy Brenet, oil on canvas, 1788. Accession numb...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sulla",
+            "summary": "Roman general and dictator (138–78 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg/250px-Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sulla"
+        },
+        {
+            "name": "Hannibal",
+            "summary": "Carthaginian general and statesman (247–183/181 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/250px-Hannibal_Barca_bust_from_Capua_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "name": "Publius Cornelius Scipio (consul 218 BC)",
+            "summary": "Roman general and statesman (died 211 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elhafen_Battle_of_Hannibal_and_Scipio.jpg/250px-Elhafen_Battle_of_Hannibal_and_Scipio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Publius_Cornelius_Scipio_%28consul_218_BC%29"
+        },
+        {
+            "name": "Lucius Cornelius Scipio Asiaticus",
+            "summary": "Roman general and statesman (d. after 183 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marius_Glyptothek_Munich_319.jpg/250px-Marius_Glyptothek_Munich_319.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Scipio_Asiaticus"
+        },
+        {
+            "name": "Scipio Aemilianus",
+            "summary": "Roman politician and general (185–129 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg/250px-Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scipio_Aemilianus"
+        },
+        {
+            "name": "Tiberius Gracchus",
+            "summary": "Roman politician and social reformer (163 – 133 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eugene_Guillaume_-_the_Gracchi_%28cropped%29.jpg/250px-Eugene_Guillaume_-_the_Gracchi_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tiberius_Gracchus"
+        }
+    ],
+    "territory_geojson": null
+}

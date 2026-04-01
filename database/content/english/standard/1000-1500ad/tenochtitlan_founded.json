@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2261,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ee8bb46942ca86450362069785e6c73f9e2279bce0e64f09e5743aba9379da8d",
+    "summary": "The founding of Tenochtitlan (1325 AD) by the Mexica (Aztec) people on an island in Lake Texcoco in central Mexico's Valley of Mexico established what would become the capital of the [[event:98|Aztec Empire]] and one of the largest cities in the world — a remarkable urban achievement built on water that astonished the Spanish conquistadors who encountered it in 1519. According to Aztec legend, the god Huitzilopochtli had commanded the Mexica to establish their capital where they found an eagle perched on a cactus devouring a serpent; the founding myth that is depicted on the Mexican national flag to this day.\n\nTenochtitlan's engineering was extraordinary. Built on an island connected to the lakeshore by massive causeways, the city covered roughly 13 square kilometers and housed an estimated 200,000–300,000 people — larger than any contemporary European city — supported by the chinampas system of artificial floating gardens that dramatically expanded arable land. Fresh water was supplied by twin aqueducts from mainland springs. The ceremonial center — the Templo Mayor — rose 45 meters at the heart of a ritual precinct containing dozens of temples, a skull rack (tzompantli) displaying thousands of sacrificial skulls, schools, and astronomical observatories. The Spanish conquistadors arriving in 1519 compared the city to Venice and reported awestruck that nothing in Europe could match it. The conquest in 1521 destroyed the city; modern Mexico City is built directly over its ruins, and ongoing excavations of the Templo Mayor continue to reveal new aspects of Aztec civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tenochtitlan",
+    "read_more_links": [
+        {
+            "title": "Tenochtitlan chinampas water engineering",
+            "url": "https://en.wikipedia.org/wiki/Chinampa"
+        },
+        {
+            "title": "Templo Mayor Tenochtitlan ritual center",
+            "url": "https://en.wikipedia.org/wiki/Templo_Mayor"
+        },
+        {
+            "title": "Spanish conquest Tenochtitlan 1521",
+            "url": "https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/ASc131-Pomnik_nieopodal_Zocaio_Plac.jpg/300px-ASc131-Pomnik_nieopodal_Zocaio_Plac.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/ASc131-Pomnik_nieopodal_Zocaio_Plac.jpg",
+            "caption": "Mexico photographed by Wojciech Kocot",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Templo_Mayor_in_Mexico-Tenochtitlan_16th_century_%28illustration_1900%29.jpg/300px-Templo_Mayor_in_Mexico-Tenochtitlan_16th_century_%28illustration_1900%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Templo_Mayor_in_Mexico-Tenochtitlan_16th_century_%28illustration_1900%29.jpg",
+            "caption": "The illustration represents the ancient central square and the largest temple...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Centro_Historico_Mexico.jpg/300px-Centro_Historico_Mexico.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Centro_Historico_Mexico.jpg",
+            "caption": "Panoramic view of the Templo Mayor of Mexico City where archaeological remain...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Painting_of_Tenochtitlan-Tlatelolco_on_Lake_Texcoco_%289755215791%29.jpg/300px-Painting_of_Tenochtitlan-Tlatelolco_on_Lake_Texcoco_%289755215791%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Painting_of_Tenochtitlan-Tlatelolco_on_Lake_Texcoco_%289755215791%29.jpg",
+            "caption": "Aztec (Mexica) Gallery, INAH, National Museum of Anthropology, Mexico City. C...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mexica",
+            "summary": "Nahuatl-speaking Indigenous people of the Valley of Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aztec_drums%2C_Florentine_Codex..jpg/250px-Aztec_drums%2C_Florentine_Codex..jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mexica"
+        },
+        {
+            "name": "Tenoch",
+            "summary": "14th-century ruler of the Mexica",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tenoch.jpg/250px-Tenoch.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tenoch"
+        },
+        {
+            "name": "Hernán Cortés",
+            "summary": "Spanish conquistador and explorer (1485–1547)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg/250px-Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s"
+        },
+        {
+            "name": "Bernardino de Sahagún",
+            "summary": "16th-century Franciscan friar and missionary in colonial Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bernardino_de_Sahag%C3%BAn_%282%29.jpg/250px-Bernardino_de_Sahag%C3%BAn_%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bernardino_de_Sahag%C3%BAn"
+        }
+    ],
+    "territory_geojson": null
+}

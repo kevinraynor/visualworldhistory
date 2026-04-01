@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1087,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:54b51af3800dc2a33a4d71c2609c50740b7bd8c72a8872dca83ee07229f6cfb3",
+    "summary": "Roman Aqueducts (312–100 BC and beyond) were engineering systems that carried fresh water from distant springs and rivers to urban centers, enabling cities of previously impossible size and providing water for drinking, public baths, fountains, and industrial use. Rome's first aqueduct, the Aqua Appia (312 BC), was built by the same censor Appius Claudius who built the [[event:1086|Via Appia Construction]]. By the height of the Empire, Rome was served by eleven aqueducts delivering an estimated one million cubic meters of water daily — more per capita than many modern cities.\n\nRoman aqueduct engineering combined simple principles — water flows downhill — with sophisticated gradient calculation, tunneling through mountains, spanning valleys on stone arches, and distributing water through lead pipes across cities. The visible arched aqueduct bridges, some of which survive nearly complete (the Pont du Gard in France, the Segovia aqueduct in Spain), represent only the portions where the channel needed to be elevated; most of an aqueduct's length ran underground or at grade. The technology enabled the growth of cities like Rome to populations of a million or more, and its export to provinces transformed provincial urban life. The public bathhouses (thermae) that aqueducts supplied became one of the Roman Empire's most characteristic social institutions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_aqueduct",
+    "read_more_links": [
+        {
+            "title": "Roman Engineering",
+            "url": "https://en.wikipedia.org/wiki/Roman_engineering"
+        },
+        {
+            "title": "Pont du Gard",
+            "url": "https://en.wikipedia.org/wiki/Pont_du_Gard"
+        },
+        {
+            "title": "Roman Baths",
+            "url": "https://en.wikipedia.org/wiki/Thermae"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/300px-Pont_du_Gard_BLS.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Pont_du_Gard_BLS.jpg",
+            "caption": "Pont du Gard, in Vers-Pont-du-Gard, Gard department, South France. The Pont d...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Parco_degli_Acquedotti_Roma.jpg/300px-Parco_degli_Acquedotti_Roma.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Parco_degli_Acquedotti_Roma.jpg",
+            "caption": "parco degli Acquedotti",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Aquae_planlatium_2a.png/300px-Aquae_planlatium_2a.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Aquae_planlatium_2a.png",
+            "caption": "Carte du Latium antique sur lequel figure le tracé des aqueducs de Rome.\nD'ap...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aqua_Anio_Vetus%2C_Tivoli_-_51072576848.jpg/300px-Aqua_Anio_Vetus%2C_Tivoli_-_51072576848.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Aqua_Anio_Vetus%2C_Tivoli_-_51072576848.jpg",
+            "caption": "Aqua Anio Novus, Tivoli",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman brick",
+            "summary": "Style of brick used in Ancient Roman architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jewry_Wall_with_west_wall_of_St._Nicholas%2C_Leicester.jpg/250px-Jewry_Wall_with_west_wall_of_St._Nicholas%2C_Leicester.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_brick"
+        },
+        {
+            "name": "Fulling",
+            "summary": "Pre-industrial process in making wool fabric",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Waulking_18th_century_engraving.jpg/250px-Waulking_18th_century_engraving.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fulling"
+        },
+        {
+            "name": "Vitruvius",
+            "summary": "1st-century BC Roman architect and engineer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vitruvio_Pollione_portrait_%28cropped%29.jpg/250px-Vitruvio_Pollione_portrait_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vitruvius"
+        },
+        {
+            "name": "Dionysius of Halicarnassus",
+            "summary": "1st-century BC Greek historian and teacher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dionigi_di_Alicarnasso.jpg/250px-Dionigi_di_Alicarnasso.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus"
+        },
+        {
+            "name": "Appius Claudius Caecus",
+            "summary": "Roman statesman and writer (fl. c. 312–279 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Musei_vaticani%2C_braccio_chiaramonti%2C_busto_02.JPG/250px-Musei_vaticani%2C_braccio_chiaramonti%2C_busto_02.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Appius_Claudius_Caecus"
+        },
+        {
+            "name": "Pyrrhus of Epirus",
+            "summary": "King of Epirus from 297 to 272 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus"
+        }
+    ],
+    "territory_geojson": null
+}

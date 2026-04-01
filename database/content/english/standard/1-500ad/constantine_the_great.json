@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2027,
+    "parent_id": 81,
+    "granularity": "major",
+    "content_hash": "sha256:bf949b3421cdbcb92d00db9b04e02807dea7642a5c25b37e2e5a98eb23228b28",
+    "summary": "Constantine I (r. 306–337 AD) was the Roman emperor who issued the [[event:2028|Edict of Milan]] granting religious toleration (313 AD), convened the [[event:2029|Council of Nicaea]] to settle Christian doctrine (325 AD), founded Constantinople as the new imperial capital (see [[event:2030|Founding of Constantinople]]), and through his own [[event:2857|Constantine Conversion]] conversion effectively made Christianity the empire's favored religion — the most consequential transformation of the Roman state since Augustus. Whether Constantine's conversion was genuine or politically calculated remains debated by historians, but its effects were irreversible.\n\nConstantine seized sole power after defeating his rival Licinius in 324 AD, ending the Tetrarchy. His conversion (traditionally dated to the eve of the Battle of the Milvian Bridge, 312 AD, when he reportedly saw a vision and painted the chi-rho symbol on his soldiers' shields) transformed the church's material circumstances: imperial funds flowed to church construction, bishops received legal authority, Sunday was declared a public holiday, and anti-Christian laws were reversed. The [[event:2029|Council of Nicaea]] (325 AD) produced the Nicene Creed settling the Arian controversy about Christ's nature. Constantine was baptized only on his deathbed — a common practice allowing a deathbed cleansing of sins — which has led some historians to question the depth of his earlier commitment.\n\nConstantine's transformation of Roman religion created the Christian Roman Empire that would define European civilization for a millennium. His establishment of Constantinople as 'New Rome' on the Bosphorus proved prescient: while Rome fell in 476 AD, Constantinople would stand until 1453.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+    "read_more_links": [
+        {
+            "title": "Constantine conversion Milvian Bridge",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
+        },
+        {
+            "title": "Chi-rho Christian symbol",
+            "url": "https://en.wikipedia.org/wiki/Chi_Rho"
+        },
+        {
+            "title": "Nicene Creed outcome",
+            "url": "https://en.wikipedia.org/wiki/Nicene_Creed"
+        },
+        {
+            "title": "Constantine religious policy",
+            "url": "https://en.wikipedia.org/wiki/Constantine_the_Great_and_Christianity"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/0_Gaius_Flavius_Valerius_Constantinus%2C_Palatino.jpg/300px-0_Gaius_Flavius_Valerius_Constantinus%2C_Palatino.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/0_Gaius_Flavius_Valerius_Constantinus%2C_Palatino.jpg",
+            "caption": "Head of Emperor Constantine I, part of a colossal statue. Bronze, Roman artwo...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Colossus_of_Constantine_I_03.jpg/300px-Colossus_of_Constantine_I_03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Colossus_of_Constantine_I_03.jpg",
+            "caption": "Colossal statue of caesar Constantine I. the Great, reconstruction from 2022-...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Statue_Constantin_1er_York_13.jpg/300px-Statue_Constantin_1er_York_13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Statue_Constantin_1er_York_13.jpg",
+            "caption": "Statue of Constantin the Great in York, United Kingdom.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St._Constantine_and_St._Helen_%28Byzantine_and_Christian_Museum_of_Athens%2C_1-15-2023%29.jpg/300px-St._Constantine_and_St._Helen_%28Byzantine_and_Christian_Museum_of_Athens%2C_1-15-2023%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/St._Constantine_and_St._Helen_%28Byzantine_and_Christian_Museum_of_Athens%2C_1-15-2023%29.jpg",
+            "caption": "Icon with Saints Constantine and Helen. Painted by Viktor. Mid. 17th cent. Do...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Constantine II (emperor)",
+            "summary": "Roman emperor from 337 to 340",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Campidoglio%2C_Roma_-_Costantino_II_cesare_fronte.jpg/250px-Campidoglio%2C_Roma_-_Costantino_II_cesare_fronte.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_II_%28emperor%29"
+        },
+        {
+            "name": "Constantius II",
+            "summary": "Roman emperor from 337 to 361",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg/250px-Bust_of_Constantius_II_%28Mary_Harrsch%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantius_II"
+        },
+        {
+            "name": "Galerius",
+            "summary": "Roman emperor from 305 to 311",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Romuliana_Galerius_head.jpg/250px-Romuliana_Galerius_head.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Galerius"
+        },
+        {
+            "name": "Severus II",
+            "summary": "Roman emperor from 306 to 307",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gold_Aureus_of_Severus_II_%28MANTIS%29.jpg/250px-Gold_Aureus_of_Severus_II_%28MANTIS%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Severus_II"
+        },
+        {
+            "name": "Maxentius",
+            "summary": "Roman emperor from 306 to 312",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_03.jpg/250px-Portrait_of_Maxentius_%28SK_Dresden_Hm_406%29_03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maxentius"
+        }
+    ],
+    "territory_geojson": null
+}

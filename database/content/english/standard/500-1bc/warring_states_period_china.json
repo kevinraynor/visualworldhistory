@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3855,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:804504fe7d3dd42911c40860e9bcaea0e3bc6ed99ef7d34eb4b6b45f0ca3aebd",
+    "summary": "The Warring States Period (475–221 BC) was the final and most intense phase of Zhou dynasty fragmentation, when seven major states — Qin, Chu, Qi, Yan, Han, Wei, and Zhao — engaged in near-continuous warfare, military innovation, and political transformation that ultimately produced a unified Chinese empire. The period saw the mass armies of peasant conscripts replace the aristocratic chariot-based warfare of earlier eras, the development of iron weapons and cavalry, and the systematic development of military strategy recorded in texts like [[event:1115|Sun Tzu and Art of War]]'s The Art of War.\n\nThe period was simultaneously one of explosive intellectual creativity — the [[event:1112|Hundred Schools of Thought]] flowered as competing states patronized thinkers offering solutions to political survival and administrative efficiency. Confucian, Daoist, Legalist, Mohist, and other schools all emerged or developed in this period of crisis. States competed not just militarily but administratively: those that adopted the most efficient bureaucratic and taxation systems, like Qin under its Legalist reforms (Lord Shang's reforms), grew strongest. The period ended with Qin's final conquests (230–221 BC) under [[event:3141|Qin Shi Huang]], who unified all seven states into the first Chinese empire. The century-and-a-half of interstate competition produced both the trauma of massive warfare and the institutional and intellectual innovations that would define Chinese civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Warring_States_period",
+    "read_more_links": [
+        {
+            "title": "Seven Warring States",
+            "url": "https://en.wikipedia.org/wiki/Seven_Warring_States"
+        },
+        {
+            "title": "Lord Shang Qin reforms",
+            "url": "https://en.wikipedia.org/wiki/Shang_Yang"
+        },
+        {
+            "title": "Warring States military innovations",
+            "url": "https://en.wikipedia.org/wiki/Warring_States_period#Military"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/EN-WarringStatesAll260BCE.jpg/300px-EN-WarringStatesAll260BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/EN-WarringStatesAll260BCE.jpg",
+            "caption": "Political map of China during the Warring States period, circa 260 BCE",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eastern_Zhou_Bronze_Dagger%2C_7th-3rd_C._BC_01b.jpg/300px-Eastern_Zhou_Bronze_Dagger%2C_7th-3rd_C._BC_01b.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Eastern_Zhou_Bronze_Dagger%2C_7th-3rd_C._BC_01b.jpg",
+            "caption": "Bronze gallery, Palace Museum, Taipei, Taiwan. Complete indexed photo collect...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Horse_Armor%2C_Tomb_of_Marquis_Yi_of_Zeng_%2810170676483%29.jpg/300px-Horse_Armor%2C_Tomb_of_Marquis_Yi_of_Zeng_%2810170676483%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Horse_Armor%2C_Tomb_of_Marquis_Yi_of_Zeng_%2810170676483%29.jpg",
+            "caption": "Hubei Provincial Museum, Wuhan, Tomb of Marquis Yi of Zeng Gallery. Complete ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Warring_States_Bronze_Warriors_%289831196065%29.jpg/300px-Warring_States_Bronze_Warriors_%289831196065%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Warring_States_Bronze_Warriors_%289831196065%29.jpg",
+            "caption": "Zhao State, Shanxi, 1955. National Museum: China through the Ages, Exhibit 3....",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Confucius",
+            "summary": "Chinese philosopher (c. 551 – c. 479 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/250px-Confucius_Tang_Dynasty.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Confucius"
+        },
+        {
+            "name": "Skull cup",
+            "summary": "Type of bowl or drinking vessel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Skull_cup.jpg/250px-Skull_cup.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Skull_cup"
+        },
+        {
+            "name": "Marquess Wen of Wei",
+            "summary": "Ruler of Wei from 446 to 396 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/WeiWenHou%E9%AD%8F%E6%96%87%E4%BE%AF.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marquess_Wen_of_Wei"
+        },
+        {
+            "name": "King Hui of Wei",
+            "summary": "Chinese ruler of Wei from 369 to 319 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/%E9%AD%8F%E6%83%A0%E7%8E%8B.png/250px-%E9%AD%8F%E6%83%A0%E7%8E%8B.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/King_Hui_of_Wei"
+        },
+        {
+            "name": "Sun Bin",
+            "summary": "Chinese general and writer (d. 316 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sun_Bin.jpg/250px-Sun_Bin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Bin"
+        }
+    ],
+    "territory_geojson": null
+}

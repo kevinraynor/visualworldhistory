@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1180,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ec4989209d1ca01486baa2934c52d7f340424d4bec5947494e302fe8573fee9c",
+    "summary": "The Zapotec Civilization at Monte Albán (c. 500–200 BC) was the first true urban civilization of Mesoamerica, centered on the artificially leveled mountaintop city of Monte Albán in the Valley of Oaxaca — predating the Maya cities of the lowlands and establishing practices of writing, astronomy, ritual sacrifice, and urban planning that influenced subsequent Mesoamerican cultures.\n\nMonte Albán was deliberately founded around 500 BC on a mountain with no natural water supply — an engineering challenge the Zapotecs solved through cisterns and terracing — apparently as a neutral political center for the three competing valleys of Oaxaca. Its construction required massive organized labor to level the mountaintop and erect pyramids, plazas, and an unusual arrow-shaped building now interpreted as an astronomical observatory. The Zapotec [[event:3560|Zapotec Writing System]] is among the earliest writing in the Americas; they also developed a 260-day ritual calendar and 365-day solar calendar that were adopted by subsequent Mesoamerican civilizations. Building J's inscriptions show apparent lists of conquered towns — military victories commemorated in stone — and the Danzante gallery depicts bound and mutilated captives. Monte Albán reached its peak of 25,000 inhabitants around 200 AD and was abandoned around 700 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n",
+    "read_more_links": [
+        {
+            "title": "Zapotec people",
+            "url": "https://en.wikipedia.org/wiki/Zapotec_people"
+        },
+        {
+            "title": "Danzantes (Monte Albán)",
+            "url": "https://en.wikipedia.org/wiki/Danzantes_(Monte_Alb%C3%A1n)"
+        },
+        {
+            "title": "Mesoamerican writing systems",
+            "url": "https://en.wikipedia.org/wiki/Mesoamerican_writing_systems"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/300px-Monte_Alban_West_Side_Platform.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Monte_Alban_West_Side_Platform.jpg",
+            "caption": "The west side platform at the Monte Alban pyramid complex.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Borrala.JPG/300px-Borrala.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Borrala.JPG",
+            "caption": "Panoramic view that shows a section of the Northern Platform in the foregroun...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Panoramica_Monte_Alban.JPG/300px-Panoramica_Monte_Alban.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Panoramica_Monte_Alban.JPG",
+            "caption": "Se muestra una foto de paisaje de Monte Albán, en la cual se puede apreciar p...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Monte_Alban_2024.jpg/300px-Monte_Alban_2024.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Monte_Alban_2024.jpg",
+            "caption": "Panoramic view showing a section of Monte Alban, Oaxaca.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

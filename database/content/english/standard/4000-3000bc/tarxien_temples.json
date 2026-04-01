@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1668,
+    "parent_id": 1666,
+    "granularity": "detailed",
+    "content_hash": "sha256:6fb482f7797a98fa6b8eb88f0c3f30a4e6a32efb2873ab9e9525dab23045ec17",
+    "summary": "The Tarxien Temples are a cluster of four interconnected megalithic structures in the town of Tarxien, Malta, built during the [[event:1666|Maltese Temple Period]] between approximately 3150 and 2500 BCE. They represent the most architecturally elaborate of the Maltese temples, featuring carved stone reliefs of spiral motifs, animals, and a colossal seated deity statue whose lower portion survives. The temples appear to have been built and expanded in successive phases, with the southernmost structure distinguished by its refined stonework and extensive decorative carving.\n\nExcavations at Tarxien uncovered large quantities of animal bones and ashes concentrated at altar niches, interpreted as evidence of elaborate sacrificial ceremonies. Flint tools, pottery, and small figurines were also found throughout the complex. The Tarxien phase represents the apogee of the Maltese Temple culture before its abrupt end around 2500 BCE, after which the archipelago was settled by a new Bronze Age population. The temples are now a UNESCO World Heritage Site.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tarxien_Temples",
+    "read_more_links": [
+        {
+            "title": "Megalithic Temples of Malta - UNESCO",
+            "url": "https://whc.unesco.org/en/list/132"
+        },
+        {
+            "title": "Tarxien Temples - Heritage Malta",
+            "url": "https://heritagemalta.mt/tarxien-temples/"
+        },
+        {
+            "title": "Tarxien - Britannica",
+            "url": "https://www.britannica.com/place/Tarxien"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Malta_-_Tarxien_-_Triq_it-Tempji_Neolitici_-_Temples_26_ies.jpg/300px-Malta_-_Tarxien_-_Triq_it-Tempji_Neolitici_-_Temples_26_ies.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malta_-_Tarxien_-_Triq_it-Tempji_Neolitici_-_Temples_26_ies.jpg",
+            "caption": "Tarxien Temples, Triq it-Tempji Neolitici in Tarxien, Malta",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple%2C_Tarxien_Temples.jpg/300px-Entrance_to_apses_of_the_Central_Temple%2C_Tarxien_Temples.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Entrance_to_apses_of_the_Central_Temple%2C_Tarxien_Temples.jpg",
+            "caption": "The entrance to the two top apses of the Tarxien Temples in Malta. Spiral eng...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Altar_in_the_Southwestern_Tarxien_Temple.jpg/300px-Altar_in_the_Southwestern_Tarxien_Temple.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Altar_in_the_Southwestern_Tarxien_Temple.jpg",
+            "caption": "Altar in the southwestern Tarxien Temple, Malta. This altar features a blocke...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bowl_in_the_Central_Tarxien_Temple.jpg/300px-Bowl_in_the_Central_Tarxien_Temple.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bowl_in_the_Central_Tarxien_Temple.jpg",
+            "caption": "A bowl, perhaps for offerings, in the central Tarxien Temple, Malta.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

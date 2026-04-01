@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1222,
+    "parent_id": 1010,
+    "granularity": "detailed",
+    "content_hash": "sha256:a15976f750ae00ebdfb6d9e7dd2578314f5c41cdcb2e49fb01ae8f6c4a083643",
+    "summary": "Thucydides (c. 460–400 BC) was an Athenian general and historian who wrote the History of the Peloponnesian War — considered the first work of scientific history, which analyzed the [[event:1010|Peloponnesian War]] through psychological realism, emphasis on political causation over divine will, and speeches reconstructing the reasoning of historical actors — establishing the principles of political history that still influence historical writing.\n\nThucydides participated in the war as a general; his failure to relieve Amphipolis in 424 BC led to his exile, during which he gathered material from both sides of the conflict. His methodological statement in Book I — that he sought to establish facts carefully rather than accept flattering oral traditions — marks a decisive break from [[event:1190|Herodotus Father of History]]'s approach. His analysis of the war's underlying cause — Sparta's fear of growing Athenian power — established the concept of structural causation in international relations, still cited in modern international relations theory as 'Thucydides' Trap.' His speeches (explicitly presented as approximations of what was said rather than verbatim records) articulate the power politics, imperial logic, and democratic deliberation of the era with unmatched clarity. The Melian Dialogue — where Athenian representatives tell the island of Melos 'the strong do what they can and the weak suffer what they must' — remains the most famous expression of political realism in Western literature.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides",
+    "read_more_links": [
+        {
+            "title": "History of the Peloponnesian War",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_Peloponnesian_War"
+        },
+        {
+            "title": "Thucydides trap",
+            "url": "https://en.wikipedia.org/wiki/Thucydides_trap"
+        },
+        {
+            "title": "Melian Dialogue",
+            "url": "https://en.wikipedia.org/wiki/Melian_dialogue"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pericles_Pio-Clementino_Inv269_n3.jpg/300px-Pericles_Pio-Clementino_Inv269_n3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pericles_Pio-Clementino_Inv269_n3.jpg",
+            "caption": "Bust of Pericles bearing the inscription “Pericles, son of Xanthippus, Atheni...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Thucydides_Manuscript.jpg/300px-Thucydides_Manuscript.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Thucydides_Manuscript.jpg",
+            "caption": "Tenth-century minuscule Manuscript of Thucydides's History. From Edward Maund...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thucydides_Mosaic_from_Jerash%2C_Jordan%2C_Roman%2C_3rd_century_CE_at_the_Pergamon_Museum_in_Berlin.jpg/300px-Thucydides_Mosaic_from_Jerash%2C_Jordan%2C_Roman%2C_3rd_century_CE_at_the_Pergamon_Museum_in_Berlin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Thucydides_Mosaic_from_Jerash%2C_Jordan%2C_Roman%2C_3rd_century_CE_at_the_Pergamon_Museum_in_Berlin.jpg",
+            "caption": "Thucydides Mosaic from Jerash, Jordan, Roman, 3rd century CE at the Pergamon ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thucydides-bust-cutout_ROM.jpg/300px-Thucydides-bust-cutout_ROM.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Thucydides-bust-cutout_ROM.jpg",
+            "caption": "Thucydides-bust-cutout ROM",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Luciano Canfora",
+            "summary": "Italian classicist and historian (born 1942)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Luciano_Canfora.jpg/250px-Luciano_Canfora.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Luciano_Canfora"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "name": "Strategos",
+            "summary": "Greek military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Greek_strategist_Pio-Clementino_Inv306.jpg/250px-Greek_strategist_Pio-Clementino_Inv306.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strategos"
+        },
+        {
+            "name": "Brasidas",
+            "summary": "5th century BC Spartan general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/He_became_a_target_for_every_arrow_%28cropped%29.jpg/250px-He_became_a_target_for_every_arrow_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brasidas"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        }
+    ],
+    "territory_geojson": null
+}

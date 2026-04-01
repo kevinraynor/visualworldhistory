@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1144,
+    "parent_id": 1143,
+    "granularity": "notable",
+    "content_hash": "sha256:3a7a61198c07c28475e1ac6013b98a3afb8a5ade90028734419b4b47cf4eaf7d",
+    "summary": "The Battle of Carrhae (53 BC) was a catastrophic Roman defeat in which the Parthian general Surena annihilated the army of Marcus Licinius Crassus — the wealthiest man in Rome and a member of the [[event:1073|First Triumvirate]] — demonstrating the limits of Roman military dominance and the devastating effectiveness of Parthian combined arms tactics.\n\nCrassus invaded Parthia seeking military glory to match his triumviral partners [[event:3145|Julius Caesar]] and Pompey. His army of seven legions was lured onto the flat plains of Mesopotamia near Carrhae (modern Harran), where Parthian cavalry tactics could be used to maximum effect. Surena's horse archers surrounded the Roman infantry and maintained continuous arrow fire; when Roman forces attempted to advance, the Parthian cataphracts charged. When they attempted to retreat, the horse archers followed. The Romans' tight defensive formations offered no escape from missiles. Crassus's son Publius led a cavalry charge that was surrounded and destroyed; Crassus was killed during failed negotiations. Approximately 20,000 Romans died and 10,000 were captured — the survivors reportedly sent to guard Parthia's eastern frontier in Central Asia. The battle destroyed Crassus, removing one stabilizing element of the [[event:1073|First Triumvirate]] and accelerating the slide toward Caesar's [[event:1077|Caesar's Civil War]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Carrhae",
+    "read_more_links": [
+        {
+            "title": "Marcus Licinius Crassus",
+            "url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        },
+        {
+            "title": "Surena",
+            "url": "https://en.wikipedia.org/wiki/Surena"
+        },
+        {
+            "title": "Parthian cataphracts",
+            "url": "https://en.wikipedia.org/wiki/Cataphract"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Harran_%283%29.jpg/300px-Harran_%283%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Harran_%283%29.jpg",
+            "caption": "Harran",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bust_of_an_unknown_citizen_in_the_realist_republican_tradition_%28Louvre_MR_510%29.jpg/300px-Bust_of_an_unknown_citizen_in_the_realist_republican_tradition_%28Louvre_MR_510%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bust_of_an_unknown_citizen_in_the_realist_republican_tradition_%28Louvre_MR_510%29.jpg",
+            "caption": "A bust of an unknown citizen in the realist republican tradition.\nThe bust ha...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ParthianCataphract.JPG/300px-ParthianCataphract.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/ParthianCataphract.JPG",
+            "caption": "Parthian cataphract fighting a lion.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Marcus Licinius Crassus",
+            "summary": "Roman general and statesman (115–53 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bust_of_a_Roman%2C_Ny_Carlsberg_Glyptotek.jpg/250px-Bust_of_a_Roman%2C_Ny_Carlsberg_Glyptotek.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        },
+        {
+            "name": "Publius Licinius Crassus (son of triumvir)",
+            "summary": "First century BCE Roman soldier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Death_of_Crassus%27_son_at_the_hands_of_the_Parthians_%28silver%29_%28cropped%29.jpg/250px-Death_of_Crassus%27_son_at_the_hands_of_the_Parthians_%28silver%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Publius_Licinius_Crassus_%28son_of_triumvir%29"
+        },
+        {
+            "name": "Gaius Cassius Longinus",
+            "summary": "Roman senator and general (c.86 BC–42 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pseudo-Corbulo_Musei_Capitolini_MC561.jpg/250px-Pseudo-Corbulo_Musei_Capitolini_MC561.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus"
+        },
+        {
+            "name": "Heavy infantry",
+            "summary": "Heavily armed and armoured soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Greek_Phalanx.jpg/250px-Greek_Phalanx.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heavy_infantry"
+        },
+        {
+            "name": "Cavalry",
+            "summary": "Soldiers or warriors fighting from horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg/250px-Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalry"
+        },
+        {
+            "name": "Ovid",
+            "summary": "Roman poet (43 BC – AD 17/18)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ovid_by_an_anonymous_sculptor.jpg/250px-Ovid_by_an_anonymous_sculptor.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ovid"
+        }
+    ],
+    "territory_geojson": null
+}

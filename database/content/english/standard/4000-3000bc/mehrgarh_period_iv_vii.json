@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3694,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:744bfbac5f8af41ca1266f5a124ee80086415490d6e08b03f961188d2ec69e7b",
+    "summary": "Mehrgarh is one of the most important Neolithic and Chalcolithic sites in South Asia, located in the Kachi plain of present-day Balochistan, Pakistan, with occupation spanning approximately 7000–2500 BCE. Periods IV through VII (roughly 4000–2500 BCE) represent the site's later phases, during which Mehrgarh developed from an early farming village into a substantial town with craft specialization, monumental storage facilities, and sophisticated pottery traditions including wheel-thrown polychrome wares.\n\nDuring these later periods, Mehrgarh shows increasing evidence of specialized craft production in terracotta figurines, copper tools, and ornaments. The site's ceramic traditions during periods IV–VII are recognized as direct predecessors of the pottery styles that would characterize the mature [[event:1680|Indus Valley Civilization]], and Mehrgarh is therefore considered a foundational site in the cultural sequence leading to Harappan urbanism. Long-distance exchange of lapis lazuli, turquoise, and shell ornaments suggests Mehrgarh was integrated into broad regional trade networks during this period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mehrgarh",
+    "read_more_links": [
+        {
+            "title": "Mehrgarh - Britannica",
+            "url": "https://www.britannica.com/place/Mehrgarh"
+        },
+        {
+            "title": "Indus Valley Origins - Archaeological Survey of Pakistan",
+            "url": "https://en.wikipedia.org/wiki/Department_of_Archaeology_and_Museums_(Pakistan)"
+        },
+        {
+            "title": "South Asian Prehistory - Cambridge",
+            "url": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Site_Location_of_Mehrgarh.jpg/300px-Site_Location_of_Mehrgarh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Site_Location_of_Mehrgarh.jpg",
+            "caption": "This is a photo of a monument in Pakistan identified as the",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/South_Asia_non_political%2C_with_rivers.jpg/300px-South_Asia_non_political%2C_with_rivers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Asia_non_political%2C_with_rivers.jpg",
+            "caption": "South Asia non political, with rivers",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mehrgarh_ruins.jpg/300px-Mehrgarh_ruins.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mehrgarh_ruins.jpg",
+            "caption": "Mehrgarh ruins. Dated to 5500 BC per Dikshit, K.N. (2013)       Origin of Ear...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Seated_Mother_Goddess_%2C3000%E2%80%932500_B.C._Pakistan_%28Baluchistan%29_Mehrgarh_style.jpg/300px-Seated_Mother_Goddess_%2C3000%E2%80%932500_B.C._Pakistan_%28Baluchistan%29_Mehrgarh_style.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Seated_Mother_Goddess_%2C3000%E2%80%932500_B.C._Pakistan_%28Baluchistan%29_Mehrgarh_style.jpg",
+            "caption": "Seated Mother Goddess ,3000–2500 B.C. Pakistan (Baluchistan) Mehrgarh style",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ruins",
+            "summary": "Remains of human-made architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg/250px-Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruins"
+        },
+        {
+            "name": "Asko Parpola",
+            "summary": "Finnish Indologist (born 1941)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asko_Parpola.jpg/250px-Asko_Parpola.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Asko_Parpola"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Michael Wood (historian)",
+            "summary": "English historian and broadcaster (born 1948)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Michael_Wood_-_Ruins_of_Empire_%282013%29_%28cropped%29.jpg/250px-Michael_Wood_-_Ruins_of_Empire_%282013%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Wood_%28historian%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2426,
+    "parent_id": 101,
+    "granularity": "detailed",
+    "content_hash": "sha256:71e24fac7f1bb32c6a94b604e9766277ed3518f070e8737eac32bd77edc716f7",
+    "summary": "The Manila Galleon Trade (1565–1815 AD) was a transpacific commercial route connecting Acapulco in New Spain (Mexico) with Manila in the Philippines, the longest and most valuable trade route in the early modern world — a 250-year commercial monopoly through which New World silver flowed to Asia in exchange for Chinese silk, porcelain, and spices, integrating the economies of the Americas, Europe, and Asia into a genuinely global commercial system. The route was established by Andrés de Urdaneta's discovery (1565) of the return route from the Philippines to Mexico using the North Pacific Kuroshio current — sailing north to Japan's latitude before turning east, a counter-intuitive but ocean-current-enabled crossing that took 4–6 months.\n\nEach year one or two enormous galleons (among the largest ships of the era, some exceeding 2,000 tons) made the crossing. Westbound from Acapulco: primarily silver from the [[event:2425|Potosí]] mines, minted as pesos de ocho. Eastbound from Manila: Chinese silk (re-exported from China through Chinese merchants in Manila), porcelain, jade, lacquerware, and spices. The Chinese appetite for silver was insatiable — silver's purchasing power in China was roughly double its value in Europe due to the bimetal price differential — making the trade extraordinarily profitable. The route's cultural consequences were significant: Acapulco became a cosmopolitan port city; the term 'China poblana' (the traditional dress of Mexican women) reflects Asian textile influences; and the Philippines became a unique cultural fusion of Malay, Chinese, and Spanish elements. The trade ended in 1815 with Mexican independence and the liberalization of Spanish colonial trade.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manila_galleon",
+    "read_more_links": [
+        {
+            "title": "Urdaneta tornaviaje return route Pacific discovery",
+            "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_de_Urdaneta"
+        },
+        {
+            "title": "Chinese silver demand Philippines Manila trade",
+            "url": "https://en.wikipedia.org/wiki/Manila_galleon#Chinese_trade"
+        },
+        {
+            "title": "Global silver trade Americas Asia early modern",
+            "url": "https://en.wikipedia.org/wiki/Silver_trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Manilajf9742_16.JPG/300px-Manilajf9742_16.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Manilajf9742_16.JPG",
+            "caption": "The Manila-Acapulco Galleon [1] located inside the walls of Intramuros, Manil...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GoodsManilaGalleonSanDiego.JPG/300px-GoodsManilaGalleonSanDiego.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/GoodsManilaGalleonSanDiego.JPG",
+            "caption": "Samples of goods brought via the Manila Galleon on display at the San Diego F...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/16th_century_Portuguese_Spanish_trade_routes.png/300px-16th_century_Portuguese_Spanish_trade_routes.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/16th_century_Portuguese_Spanish_trade_routes.png",
+            "caption": "Map showing main Portuguese (blue) and Spanish (white) oceanic trade routes i...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selden_map.jpg/300px-Selden_map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Selden_map.jpg",
+            "caption": "The Selden Map of China, painted with watercolours and ink on Chinese paper, ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Augustinians",
+            "summary": "Members of religious orders that follow the Rule of Saint Augustine",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gerard_Seghers_%28attr%29_-_The_Four_Doctors_of_the_Western_Church%2C_Saint_Augustine_of_Hippo_%28354%E2%80%93430%29.jpg/250px-Gerard_Seghers_%28attr%29_-_The_Four_Doctors_of_the_Western_Church%2C_Saint_Augustine_of_Hippo_%28354%E2%80%93430%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustinians"
+        },
+        {
+            "name": "Cabin (ship)",
+            "summary": "Enclosed space generally on a ship",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Vasa-great_cabin-2.jpg/250px-Vasa-great_cabin-2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cabin_%28ship%29"
+        },
+        {
+            "name": "Ferdinand Magellan",
+            "summary": "Portuguese explorer (1480–1521)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ferdinand_Magellan.jpg/250px-Ferdinand_Magellan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Magellan"
+        },
+        {
+            "name": "Juan Rodríguez Cabrillo",
+            "summary": "16th-century Iberian maritime explorer of North America",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Juan_Rodr%C3%ADguez_Cabrillo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Rodr%C3%ADguez_Cabrillo"
+        },
+        {
+            "name": "Francis Xavier",
+            "summary": "Navarese Catholic saint and missionary (1506–1552)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Franciscus_de_Xabier.jpg/250px-Franciscus_de_Xabier.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Xavier"
+        },
+        {
+            "name": "Pedro de Alvarado",
+            "summary": "Spanish conquistador and governor of Guatemala",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Pedro_de_Alvarado_%28Tom%C3%A1s_Povedano%29.jpg/250px-Pedro_de_Alvarado_%28Tom%C3%A1s_Povedano%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_de_Alvarado"
+        }
+    ],
+    "territory_geojson": null
+}

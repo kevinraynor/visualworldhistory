@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2763,
+    "parent_id": 112,
+    "granularity": "detailed",
+    "content_hash": "sha256:1f73e31e7efc0462c9e22a01c8d89111264e6733211d05be2db97d17c05ffc96",
+    "summary": "The Battle of Iwo Jima was fought from February 19 to March 26, 1945, when United States Marine Corps and Navy forces assaulted and captured the heavily fortified volcanic island of Iwo Jima from its Japanese garrison. The island was strategically valuable as a base for fighter escorts for B-29 bombers attacking the Japanese home islands and as an emergency landing site for damaged aircraft. The Japanese defenders, approximately 21,000 men under Lieutenant General Tadamichi Kuribayashi, had constructed an elaborate network of underground tunnels and fortifications designed to exact maximum casualties.\n\nThe battle became one of the bloodiest engagements of the Pacific War. American forces ultimately prevailed but suffered approximately 6,800 killed and over 19,000 wounded. Nearly the entire Japanese garrison was killed; fewer than 1,100 survived as prisoners. The iconic photograph of Marines raising the American flag atop Mount Suribachi, taken by Joe Rosenthal on February 23, became one of the most reproduced images of the war and a symbol of American sacrifice and determination.\n\nThe ferocity of the fighting at Iwo Jima, and the equally costly battle for Okinawa that followed, contributed directly to American planning for Operation Downfall — the projected invasion of the Japanese home islands. Projected casualty estimates for a home islands invasion helped inform the American decision to use [[event:2765|atomic bombs]] against Japan.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima",
+    "read_more_links": [
+        {
+            "title": "Battle of Iwo Jima - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Iwo-Jima"
+        },
+        {
+            "title": "Pacific War - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pacific_War"
+        },
+        {
+            "title": "Flag Raising on Iwo Jima - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Raising_the_Flag_on_Iwo_Jima"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Richmond_K._Turner.jpg/300px-Richmond_K._Turner.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Richmond_K._Turner.jpg",
+            "caption": "Photo #80-G-309643. Vice Admiral Richmond K. Turner aboard the USS El Dorado ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ray_Spruance_%28cropped%29.jpg/300px-Ray_Spruance_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ray_Spruance_%28cropped%29.jpg",
+            "caption": "Informal portrait photograph of ADM Raymond A. Spruance, Commander, Central P...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Iwo_Jima_71st_Reunion_of_Honor_160319-M-JD520-158.jpg/300px-Iwo_Jima_71st_Reunion_of_Honor_160319-M-JD520-158.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Iwo_Jima_71st_Reunion_of_Honor_160319-M-JD520-158.jpg",
+            "caption": "A U.S. Marine Corps and Japanese soldier color guard stands at attention at t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Raymond A. Spruance",
+            "summary": "United States admiral (1886–1969)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ray_Spruance.jpg/250px-Ray_Spruance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raymond_A._Spruance"
+        },
+        {
+            "name": "Marc Mitscher",
+            "summary": "United States Navy admiral (1887–1947)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vice_Admiral_Marc_A._Mitscher_during_World_War_II_%2880-G-424169%29.jpg/250px-Vice_Admiral_Marc_A._Mitscher_during_World_War_II_%2880-G-424169%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Mitscher"
+        },
+        {
+            "name": "William H. P. Blandy",
+            "summary": "United States admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/L-38-07_ADM_William_H.P._Blandy.jpg/250px-L-38-07_ADM_William_H.P._Blandy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_H._P._Blandy"
+        },
+        {
+            "name": "Holland Smith",
+            "summary": "United States Marine Corps general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Holland_Smith.jpg/250px-Holland_Smith.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Holland_Smith"
+        },
+        {
+            "name": "Harry Schmidt (USMC)",
+            "summary": "United States Marine Corps general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Harry_Schmidt.jpg/250px-Harry_Schmidt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_Schmidt_%28USMC%29"
+        },
+        {
+            "name": "Graves B. Erskine",
+            "summary": "United States Marine Corps general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ErskineGB_Gen_USMC.jpg/250px-ErskineGB_Gen_USMC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Graves_B._Erskine"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1526,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3430ce06bfedc2f8289c38e857de1efb40f93dbd7d38389e8417ff6088fb77bd",
+    "summary": "The Hongshan culture flourished in Inner Mongolia and Liaoning province in northeastern China from approximately 4700 to 2900 BCE, developing one of the most sophisticated Neolithic cultures in East Asia. Named after the Hongshan (Red Hill) site near Chifeng in Inner Mongolia, this culture is distinguished by its remarkable jade craftsmanship, complex ceremonial architecture, and evidence of a socially stratified society with a developed religious tradition — features that set it apart from contemporaneous Neolithic cultures in the region.\n\nHongshan society was agricultural, cultivating millet in the hilly terrain of northeastern China, but hunting, fishing, and gathering also contributed significantly to subsistence. The culture's most striking legacy is its jade working tradition. Hongshan artisans produced distinctive jade objects including the iconic pig-dragon (or zhulong), a coiled C-shaped pendant representing a composite animal that may have had cosmological significance, as well as tortoises, birds, and other forms. The [[event:1605|Hongshan jade dragon]] and related pieces represent the earliest sophisticated jade carving tradition in China, anticipating the central role jade would play in Chinese culture for the following five thousand years.\n\nLarge ceremonial complexes with stone altars and what appear to be goddess temples have been excavated at sites such as Niuheliang, suggesting an organized religious system with specialist ritual practitioners. The Niuheliang goddess temple yielded fragments of life-sized clay female figurines, implying some form of female deity or ancestor worship. Burial evidence at Hongshan sites shows significant status differentiation, with elite individuals interred in stone-lined tombs with elaborate jade assemblages while most people were buried with minimal goods. This strongly suggests the existence of hereditary social hierarchy and possibly chiefly authority.\n\nThe Hongshan culture's geographic position in northeastern China gave it a distinctive character influenced by both the agricultural societies to its south and the hunting and pastoralist cultures of the northern steppe. It represents an independent trajectory of social and cultural complexity that does not fit neatly into the model of civilization derived from the agricultural heartlands of the Yellow River or Yangtze basins. Its jade traditions and mortuary practices influenced subsequent cultures across a broad area of northeastern Asia.\n\nThe Hongshan culture declined around 3000–2900 BCE, possibly due to climatic deterioration that reduced agricultural productivity in its relatively marginal environment. Its legacy, however, persisted in the jade traditions, cosmological motifs, and ritual practices of later Chinese cultures, earning it recognition as one of the earliest complex societies in East Asia and a significant contributor to the foundations of Chinese civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hongshan_culture",
+    "read_more_links": [
+        {
+            "title": "Hongshan jade artifacts - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/819/the-hongshan-culture/"
+        },
+        {
+            "title": "Niuheliang - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Niuheliang"
+        },
+        {
+            "title": "Chinese jade history - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chinese_jade"
+        },
+        {
+            "title": "Neolithic China - Britannica",
+            "url": "https://www.britannica.com/topic/Hongshan-culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hongshan_Culture_-_Jade_Ornament.jpg/300px-Hongshan_Culture_-_Jade_Ornament.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hongshan_Culture_-_Jade_Ornament.jpg",
+            "caption": "Jade gallery, Palace Museum, Taipei, Taiwan. Complete indexed photo collectio...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hongshan_Culture_Jade_Beast.jpg/300px-Hongshan_Culture_Jade_Beast.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hongshan_Culture_Jade_Beast.jpg",
+            "caption": "Jade Gallery, Aurora Museum, Pudong, Shanghai. Complete indexed photo collect...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hongshan_Culture_Jade_Humanoid_Figure.jpg/300px-Hongshan_Culture_Jade_Humanoid_Figure.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Hongshan_Culture_Jade_Humanoid_Figure.jpg",
+            "caption": "Jade Gallery, Aurora Museum, Pudong, Shanghai. Complete indexed photo collect...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hongshan_Culture_Painted_Pottery_%2819817345241%29.jpg/300px-Hongshan_Culture_Painted_Pottery_%2819817345241%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hongshan_Culture_Painted_Pottery_%2819817345241%29.jpg",
+            "caption": "Hongshan Culture Gallery, Inner Mongolia Museum, Hohhot, China. Complete inde...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hardstone carving",
+            "summary": "Artistic carving of semi-precious stones or gems",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dagger_horse_head_Louvre_OA7891.jpg/250px-Dagger_horse_head_Louvre_OA7891.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hardstone_carving"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

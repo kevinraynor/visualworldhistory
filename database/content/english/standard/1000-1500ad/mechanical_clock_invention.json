@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3051,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ca0bd6b6554baa9e091cc956371505efc2abe372f824bbcfb05d462609d007fc",
+    "summary": "The invention of the mechanical clock (c. 1280–1300 AD) in medieval Europe — the first mechanical device capable of measuring time automatically and reliably — was one of the most consequential technological developments in Western history, transforming the human relationship with time from a loose, natural, church-bell-defined experience to the precise, equal-hour, clock-governed experience that defines modern industrial and commercial society. The key innovation was the escapement mechanism — a device that allowed a weighted drive to release in controlled, equal increments rather than running continuously — which converted stored energy into regulated timekeeping.\n\nThe earliest mechanical clocks appeared in European monasteries and cathedral towers in the late 13th century, serving the monastic need for precise regulation of the seven canonical hours of daily prayer. Within decades, public striking clocks appeared on cathedral and city hall towers across Europe, announcing equal hours to urban populations for the first time. The consequences were revolutionary: equal hours (rather than variable sun-based hours) standardized the measurement of time; commercial activity could be scheduled and contracted with unprecedented precision; factory and agricultural work could be regulated by clock rather than daylight; and the idea of time as a quantifiable, equal, scarce resource — 'time is money' in Benjamin Franklin's formulation — began to shape Western economic culture. The clock's evolution from tower clock to personal watch (miniaturized by the 16th century) eventually made time consciousness an intimate personal experience. Lewis Mumford argued that the medieval clock was the foundational machine of the Industrial Revolution — more important than the steam engine — because it established the mechanical regulation of activity that all subsequent industrialization assumed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mechanical_clock",
+    "read_more_links": [
+        {
+            "title": "Mechanical clock escapement invention",
+            "url": "https://en.wikipedia.org/wiki/Mechanical_clock#History"
+        },
+        {
+            "title": "Equal hours clock urban life transformation",
+            "url": "https://en.wikipedia.org/wiki/History_of_timekeeping_devices"
+        },
+        {
+            "title": "Lewis Mumford clock Industrial Revolution argument",
+            "url": "https://en.wikipedia.org/wiki/Lewis_Mumford#Technics_and_Civilization"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

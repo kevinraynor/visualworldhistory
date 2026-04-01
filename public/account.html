@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account - World History</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <style>
+        body {
+            overflow: auto;
+            height: auto;
+        }
+        .account-page {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 80px 24px 60px;
+        }
+        .account-page h1 {
+            font-size: 28px;
+            margin-bottom: 32px;
+            letter-spacing: -0.5px;
+        }
+        .account-section {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            padding: 24px;
+            margin-bottom: 20px;
+        }
+        .account-section h2 {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+        }
+        .account-section p {
+            font-size: 13px;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+        }
+        .account-field {
+            margin-bottom: 12px;
+        }
+        .account-field label {
+            display: block;
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-secondary);
+            margin-bottom: 4px;
+        }
+        .account-field input {
+            width: 100%;
+            padding: 8px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius);
+            font-size: 14px;
+        }
+        .account-field input:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+        .btn-save {
+            background: var(--accent);
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: var(--radius);
+            font-size: 13px;
+            cursor: pointer;
+            margin-top: 8px;
+        }
+        .btn-save:hover {
+            background: var(--accent-hover);
+        }
+        .btn-danger {
+            background: var(--danger);
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: var(--radius);
+            font-size: 13px;
+            cursor: pointer;
+        }
+        .btn-danger:hover {
+            background: #c33;
+        }
+        .favorites-list {
+            list-style: none;
+        }
+        .favorites-list li {
+            padding: 10px 0;
+            border-bottom: 1px solid #f0f0f0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .favorites-list .fav-name {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        .favorites-list .fav-dates {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+        .fav-remove {
+            background: none;
+            border: none;
+            color: var(--text-muted);
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .fav-remove:hover {
+            color: var(--danger);
+        }
+        .msg { font-size: 13px; margin-top: 8px; }
+        .msg.success { color: var(--success); }
+        .msg.error { color: var(--danger); }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 16px;
+            font-size: 14px;
+            color: var(--accent);
+            text-decoration: none;
+        }
+        .not-logged-in {
+            text-align: center;
+            padding: 60px 0;
+            color: var(--text-muted);
+        }
+    </style>
+</head>
+<body>
+    <header id="top-bar">
+        <div class="top-bar-left">
+            <a href="/" style="text-decoration:none;"><h1 class="logo">World History</h1></a>
+            <a href="about.html" class="nav-link">About</a>
+        </div>
+        <div class="top-bar-right">
+            <a href="/" class="btn-donate" style="text-decoration:none;">Back to Map</a>
+        </div>
+    </header>
+
+    <main class="account-page" id="account-main">
+        <a href="/" class="back-link">&larr; Back to Map</a>
+        <h1>Account Settings</h1>
+
+        <div id="not-logged-in" class="not-logged-in" style="display:none;">
+            <p>You need to be signed in to access account settings.</p>
+            <p><a href="/">Return to the map</a> and sign in.</p>
+        </div>
+
+        <div id="account-content" style="display:none;">
+            <!-- Favorites -->
+            <div class="account-section">
+                <h2>Favorites</h2>
+                <ul id="favorites-list" class="favorites-list">
+                    <li><em style="color:var(--text-muted);font-size:13px;">Loading...</em></li>
+                </ul>
+            </div>
+
+            <!-- Change Password -->
+            <div class="account-section">
+                <h2>Change Password</h2>
+                <div class="account-field">
+                    <label>Current Password</label>
+                    <input type="password" id="current-password" />
+                </div>
+                <div class="account-field">
+                    <label>New Password (min 8 characters)</label>
+                    <input type="password" id="new-password" />
+                </div>
+                <div class="account-field">
+                    <label>Confirm New Password</label>
+                    <input type="password" id="confirm-password" />
+                </div>
+                <button class="btn-save" id="change-password-btn">Update Password</button>
+                <div id="password-msg" class="msg"></div>
+            </div>
+
+            <!-- Map Settings -->
+            <div class="account-section">
+                <h2>Map Preferences</h2>
+                <p>These settings will be applied when you open the map.</p>
+                <label style="display:flex;align-items:center;gap:8px;font-size:13px;color:var(--text-secondary);cursor:pointer;">
+                    <input type="checkbox" id="pref-borders" />
+                    Show modern country borders by default
+                </label>
+            </div>
+
+            <!-- Danger Zone -->
+            <div class="account-section" style="border-color: var(--danger);">
+                <h2 style="color: var(--danger);">Danger Zone</h2>
+                <p>Permanently delete your account and all associated data (favorites, comments, settings). This action cannot be undone.</p>
+                <button class="btn-danger" id="delete-account-btn">Delete Account</button>
+                <div id="delete-msg" class="msg"></div>
+            </div>
+        </div>
+    </main>
+
+    <script type="module">
+        import { apiGet, apiPost, apiPut, apiDelete, setCsrfToken } from './js/api.js';
+
+        async function init() {
+            // Check auth
+            try {
+                const auth = await apiGet('/api/auth/me');
+                if (!auth.user) {
+                    document.getElementById('not-logged-in').style.display = 'block';
+                    return;
+                }
+                if (auth.csrf_token) setCsrfToken(auth.csrf_token);
+                document.getElementById('account-content').style.display = 'block';
+                loadFavorites();
+                loadSettings();
+            } catch (e) {
+                document.getElementById('not-logged-in').style.display = 'block';
+            }
+
+            // Change password
+            document.getElementById('change-password-btn').addEventListener('click', changePassword);
+            // Delete account
+            document.getElementById('delete-account-btn').addEventListener('click', deleteAccount);
+            // Save border preference
+            document.getElementById('pref-borders').addEventListener('change', saveSettings);
+        }
+
+        async function loadFavorites() {
+            try {
+                const favorites = await apiGet('/api/favorites');
+                const list = document.getElementById('favorites-list');
+                if (favorites.length === 0) {
+                    list.innerHTML = '<li><em style="color:var(--text-muted);font-size:13px;">No favorites yet. Click the star on any event to save it.</em></li>';
+                    return;
+                }
+                list.innerHTML = '';
+                for (const fav of favorites) {
+                    const li = document.createElement('li');
+                    const yearStr = formatYear(fav.year_start) + ' \u2013 ' + formatYear(fav.year_end);
+                    li.innerHTML = `
+                        <div>
+                            <div class="fav-name">${escapeHtml(fav.name)}</div>
+                            <div class="fav-dates">${yearStr} &middot; ${fav.category}</div>
+                        </div>
+                        <button class="fav-remove" title="Remove favorite">&times;</button>
+                    `;
+                    li.querySelector('.fav-remove').addEventListener('click', async () => {
+                        await apiPost('/api/favorites', { event_id: fav.id });
+                        loadFavorites();
+                    });
+                    list.appendChild(li);
+                }
+            } catch (e) {
+                console.error('Failed to load favorites:', e);
+            }
+        }
+
+        async function loadSettings() {
+            try {
+                const settings = await apiGet('/api/settings');
+                document.getElementById('pref-borders').checked = !!settings.show_borders;
+            } catch (e) { /* ignore */ }
+        }
+
+        async function saveSettings() {
+            try {
+                await apiPut('/api/settings', {
+                    show_borders: document.getElementById('pref-borders').checked,
+                });
+            } catch (e) { /* ignore */ }
+        }
+
+        async function changePassword() {
+            const msg = document.getElementById('password-msg');
+            const current = document.getElementById('current-password').value;
+            const newPass = document.getElementById('new-password').value;
+            const confirm = document.getElementById('confirm-password').value;
+
+            if (newPass.length < 8) {
+                msg.textContent = 'New password must be at least 8 characters.';
+                msg.className = 'msg error';
+                return;
+            }
+            if (newPass !== confirm) {
+                msg.textContent = 'Passwords do not match.';
+                msg.className = 'msg error';
+                return;
+            }
+
+            try {
+                await apiPost('/api/auth/change-password', { current_password: current, new_password: newPass });
+                msg.textContent = 'Password updated successfully.';
+                msg.className = 'msg success';
+                document.getElementById('current-password').value = '';
+                document.getElementById('new-password').value = '';
+                document.getElementById('confirm-password').value = '';
+            } catch (e) {
+                msg.textContent = e.message;
+                msg.className = 'msg error';
+            }
+        }
+
+        async function deleteAccount() {
+            if (!confirm('Are you sure you want to permanently delete your account? This cannot be undone.')) return;
+            const msg = document.getElementById('delete-msg');
+            try {
+                await apiDelete('/api/auth/account');
+                msg.textContent = 'Account deleted. Redirecting...';
+                msg.className = 'msg success';
+                setTimeout(() => { window.location.href = '/'; }, 1500);
+            } catch (e) {
+                msg.textContent = e.message;
+                msg.className = 'msg error';
+            }
+        }
+
+        function formatYear(year) {
+            if (year < 0) return Math.abs(year) + ' BC';
+            if (year === 0) return '1 BC';
+            return year + ' AD';
+        }
+
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        init();
+    </script>
+</body>
+</html>

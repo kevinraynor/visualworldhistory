@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2975,
+    "parent_id": 2227,
+    "granularity": "detailed",
+    "content_hash": "sha256:28cb410bd2d66b5044945c68e811b70742634d051297ffb154835720c7358661",
+    "summary": "The Battle of Mohi (April 11, 1241 AD) was the decisive engagement of the [[event:2227|Mongol invasion of Europe]], in which the Mongol forces under Batu Khan and the general Subutai annihilated the Hungarian royal army of King Béla IV on the banks of the Sajó River in northeastern Hungary, opening the entire Hungarian kingdom to Mongol occupation and devastation. Hungary — unlike Poland, which the Mongols had raided simultaneously at the [[event:2976|Battle of Legnica]] — was the primary target of the European campaign, its flat Pannonian plain being ideal terrain for Mongol cavalry operations.\n\nThe battle demonstrated Subutai's operational genius: while Batu Khan engaged the Hungarian forces at the main river crossing, Subutai led a flanking force that secretly crossed the river several kilometers away and struck the Hungarian camp from behind at dawn. The Hungarian army, trapped between Mongol forces on both sides, was routed and pursued for days with enormous losses — King Béla barely escaped on horseback. The Mongols occupied Hungary for roughly a year, establishing camps in the Hungarian plain while raiding deep into Austria, Dalmatia, and Croatia. The sudden withdrawal in 1242 — coinciding with news of the Great Khan Ögedei's death — left Central Europe stunned and profoundly altered: Hungarian and Polish rulers dramatically accelerated castle-building programs, shifting from wooden to stone fortifications, in a military architectural revolution directly caused by the Mongol demonstration of what armies without fortifications could suffer.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Mohi",
+    "read_more_links": [
+        {
+            "title": "Subutai flanking maneuver Mohi tactics",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Mohi#Battle"
+        },
+        {
+            "title": "Hungary Mongol occupation devastation 1241",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Mohi#Aftermath"
+        },
+        {
+            "title": "European castle building Mongol response",
+            "url": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Europe#Aftermath"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Battle_of_Mohi_1241.PNG/300px-Battle_of_Mohi_1241.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Battle_of_Mohi_1241.PNG",
+            "caption": "Miniture from a copy of Hayton of Corycus's La Flor des estoires de la terre ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Batu Khan",
+            "summary": "Founder and first Khan of the Golden Horde (r. 1227–1255)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Batu_Khan_on_the_Throne_by_Rashid_al-Din_%28cropped%29.jpg/250px-Batu_Khan_on_the_Throne_by_Rashid_al-Din_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Batu_Khan"
+        },
+        {
+            "name": "Subutai",
+            "summary": "Mongol general under Genghis Khan and Ögedei Khan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Subudei.jpg/250px-Subudei.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Subutai"
+        },
+        {
+            "name": "Shiban",
+            "summary": "Khan of the Ulus of Jochi",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Battle_of_Mohi_1241.PNG/250px-Battle_of_Mohi_1241.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shiban"
+        },
+        {
+            "name": "Berke",
+            "summary": "Khan of the Golden Horde from 1257 to 1266",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Golden_Horde._Berke._AH_655-665_AD_1257-1267_Qrim_%28Crimea%29_mint._Struck_circa_AH_662-665_%28AD_1263-1267%29.jpg/250px-Golden_Horde._Berke._AH_655-665_AD_1257-1267_Qrim_%28Crimea%29_mint._Struck_circa_AH_662-665_%28AD_1263-1267%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Berke"
+        },
+        {
+            "name": "Béla IV of Hungary",
+            "summary": "King of Hungary and Croatia from 1235 to 1270",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/B%C3%A9la_IV_%28Chronica_Hungarorum%29.jpg/250px-B%C3%A9la_IV_%28Chronica_Hungarorum%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/B%C3%A9la_IV_of_Hungary"
+        },
+        {
+            "name": "Ugrin Csák (archbishop of Kalocsa)",
+            "summary": "Hungarian prelate and military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cs%C3%A1k_Ugrin_Kalocsa_Halassy.JPG/250px-Cs%C3%A1k_Ugrin_Kalocsa_Halassy.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ugrin_Cs%C3%A1k_%28archbishop_of_Kalocsa%29"
+        }
+    ],
+    "territory_geojson": null
+}

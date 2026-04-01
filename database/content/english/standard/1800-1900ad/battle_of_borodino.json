@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2525,
+    "parent_id": 2524,
+    "granularity": "detailed",
+    "content_hash": "sha256:a1355ba923d3e3b37e6205ccd4b009c63ac58c764da91fe28db99ddf43d2fd2e",
+    "summary": "The Battle of Borodino, fought on 7 September 1812 near the village of Borodino approximately 125 kilometers west of Moscow, was the bloodiest single day of [[event:2524|Napoleon's invasion of Russia]] and one of the deadliest battles of the entire Napoleonic era. Approximately 250,000 men were engaged on both sides, and casualties may have reached 70,000 to 80,000 in a single day of brutal frontal combat.\n\nThe Russian commander, General Mikhail Kutuzov, chose to make a stand at Borodino to defend Moscow, constructing a series of earthwork field fortifications — most notably the Great Redoubt and the Bagration Flèches — that anchored his defensive line. Napoleon attacked these positions frontally throughout the day, capturing them at enormous cost only to find the Russian army withdrawing in reasonably good order rather than collapsing. Napoleon famously refused to commit his Imperial Guard to deliver a knockout blow, perhaps fearing to risk his ultimate reserve so far from France.\n\nAlthough Napoleon claimed a technical victory by holding the battlefield, the battle failed to deliver the decisive destruction of the Russian army that he needed. Kutuzov retreated toward Moscow and then beyond it, preserving his forces to fight on. The campaign continued its disastrous trajectory, and the destruction of the Grande Armée ensued in the weeks that followed. Borodino stands as a symbol of Russian resistance and sacrifice and is commemorated in Russia as a national holiday.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Borodino",
+    "read_more_links": [
+        {
+            "title": "Battle of Borodino – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Borodino"
+        },
+        {
+            "title": "French Invasion of Russia – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Battle_of_Borodino.jpg/300px-Battle_of_Borodino.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Battle_of_Borodino.jpg",
+            "caption": "Battle of Borodino",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Battle_of_Borodino_panorama_-_detail_04.jpg/300px-Battle_of_Borodino_panorama_-_detail_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Battle_of_Borodino_panorama_-_detail_04.jpg",
+            "caption": "Музей \"Бородинская панорама\". Вид панорамы",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Battle_of_Borodino_panorama_-_detail_05.jpg/300px-Battle_of_Borodino_panorama_-_detail_05.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Battle_of_Borodino_panorama_-_detail_05.jpg",
+            "caption": "Battle of Borodino panorama - detail 05",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peter_von_Hess_002.jpg/300px-Peter_von_Hess_002.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Peter_von_Hess_002.jpg",
+            "caption": "Peter von Hess 002",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Louis-François Lejeune",
+            "summary": "French Army officer and painter (1775–1848)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Portraitdelouisfran%C3%A7oisbaronlejeune.jpg/250px-Portraitdelouisfran%C3%A7oisbaronlejeune.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis-Fran%C3%A7ois_Lejeune"
+        },
+        {
+            "name": "Louis-Nicolas Davout",
+            "summary": "French Marshal (1770–1823)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Louis_nicolas_davout.jpg/250px-Louis_nicolas_davout.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis-Nicolas_Davout"
+        },
+        {
+            "name": "Auguste-Jean-Gabriel de Caulaincourt",
+            "summary": "French cavalry commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/G%C3%A9n%C3%A9ral_Auguste_Jean_Gabriel_de_Caulaincourt.jpg/250px-G%C3%A9n%C3%A9ral_Auguste_Jean_Gabriel_de_Caulaincourt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Auguste-Jean-Gabriel_de_Caulaincourt"
+        },
+        {
+            "name": "Michel Ney",
+            "summary": "French military commander (1769–1815)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marechal_Ney.jpg/250px-Marechal_Ney.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michel_Ney"
+        },
+        {
+            "name": "Joachim Murat",
+            "summary": "French military officer and statesman (1767–1815)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Murat2.jpg/250px-Murat2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joachim_Murat"
+        },
+        {
+            "name": "Eugène de Beauharnais",
+            "summary": "French statesman and military officer (1781–1824)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EugeneBeau.jpg/250px-EugeneBeau.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_de_Beauharnais"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1003,
+    "parent_id": 1001,
+    "granularity": "notable",
+    "content_hash": "sha256:7ae1908cb8f73897a9fe79c66ec6a7160dface5cf453e25fe2a31ff0fbe41dcd",
+    "summary": "The Battle of Marathon (490 BC) was the climactic engagement of the first Persian invasion of Greece, in which an Athenian army supplemented by Plataean allies decisively defeated a Persian expeditionary force on the coastal plain northeast of Athens. The Persian expedition, commanded by Datis and Artaphernes, aimed to punish Athens and Eretria for supporting the [[event:1002|Ionian Revolt]] and to install the exiled Athenian tyrant Hippias as a Persian client ruler.\n\nThe Athenian assembly voted to march out and meet the Persians rather than shelter behind their walls, a decision driven partly by the Athenian general Miltiades, who had direct experience of Persian tactics from his time in Thrace. The Athenians deployed in a thin line matching the Persian front, deliberately weakening their center to strengthen the wings. When the two armies closed, the stronger Greek wings enveloped and routed the Persian flanks before turning inward on the center, a tactical encirclement that presaged later classical battle thinking.\n\nThe Persian fleet then sailed around Cape Sunion toward Athens, hoping to take the undefended city while the army was absent. The Athenian army made a remarkable forced march back to the city before the Persians could land, deterring a second engagement. The entire expedition withdrew to Asia. Athens lost approximately 192 men — their names were later commemorated in a burial mound still visible today — while Persian losses were far heavier.\n\nMarathon's psychological and political impact far exceeded its tactical scale. It proved that Greek hoplites, fighting in disciplined formation with heavy bronze armor, could defeat the Persian infantry that had conquered much of the known world. The victory elevated Athens's prestige enormously and set the stage for Athens's naval expansion under Themistocles, which would prove decisive in the second Persian invasion during the [[event:1004|Battle of Thermopylae]] and [[event:1005|Battle of Salamis]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Marathon",
+    "read_more_links": [
+        {
+            "title": "Miltiades",
+            "url": "https://en.wikipedia.org/wiki/Miltiades"
+        },
+        {
+            "title": "Datis",
+            "url": "https://en.wikipedia.org/wiki/Datis"
+        },
+        {
+            "title": "Athenian Army",
+            "url": "https://en.wikipedia.org/wiki/Athenian_army"
+        },
+        {
+            "title": "Themistocles",
+            "url": "https://en.wikipedia.org/wiki/Themistocles"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Armies_of_Darius_I.jpg/300px-Armies_of_Darius_I.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Armies_of_Darius_I.jpg",
+            "caption": "Armies of Darius I",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Marathon_Tomb_of_the_Athenians_2.jpg/300px-Marathon_Tomb_of_the_Athenians_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Marathon_Tomb_of_the_Athenians_2.jpg",
+            "caption": "Tomb of the Athenians, also known as Soros, Marathon (Marathonas), Attica, Gr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Marshlands_of_Marathon%2C_with_Pentelikon_mountains_in_the_background.jpg/300px-Marshlands_of_Marathon%2C_with_Pentelikon_mountains_in_the_background.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marshlands_of_Marathon%2C_with_Pentelikon_mountains_in_the_background.jpg",
+            "caption": "This is a a picture of a Natura 2000 protected area with ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Battle_of_Marathon_in_the_Stoa_Poikile_%28reconstitution%29.jpg/300px-Battle_of_Marathon_in_the_Stoa_Poikile_%28reconstitution%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Battle_of_Marathon_in_the_Stoa_Poikile_%28reconstitution%29.jpg",
+            "caption": "Battle of Marathon in the Stoa Poikile (reconstitution)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Miltiades",
+            "summary": "Athenian statesman and general (c. 550–489 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Miltiades_%28Roman_replica%29.jpg/250px-Miltiades_%28Roman_replica%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Miltiades"
+        },
+        {
+            "name": "Aristides",
+            "summary": "Athenian general and statesman (530–468 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Boston_%282019%29_-_194.jpg/250px-Boston_%282019%29_-_194.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristides"
+        },
+        {
+            "name": "Themistocles",
+            "summary": "Athenian politician and general (c. 524–459 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Illustrerad_Verldshistoria_band_I_Ill_116.png/250px-Illustrerad_Verldshistoria_band_I_Ill_116.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Themistocles"
+        },
+        {
+            "name": "Cynaegirus",
+            "summary": "Athenian general and brother of Aeschylus (died 490 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/The_Battle_of_Marathon.jpg/250px-The_Battle_of_Marathon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cynaegirus"
+        },
+        {
+            "name": "Datis",
+            "summary": "5th-century BC Median/Persian admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Datis_fighting_Kallimachos_at_the_Battle_of_Marathon_in_the_Stoa_Poikile_%28reconstitution%29.jpg/250px-Datis_fighting_Kallimachos_at_the_Battle_of_Marathon_in_the_Stoa_Poikile_%28reconstitution%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Datis"
+        }
+    ],
+    "territory_geojson": null
+}

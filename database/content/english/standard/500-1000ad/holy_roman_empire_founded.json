@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2187,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:dfae02e4ac68a48268efb7f70b81cb0a6aded1d9a23f08d95577de48fc3b42fb",
+    "summary": "The Holy Roman Empire (formally established 962 AD when [[event:2932|Otto I]] was crowned emperor, though traced to [[event:2139|Charlemagne's coronation]] in 800 AD) was the dominant political institution of medieval Central Europe for over 800 years — a complex, decentralized confederation of German, Italian, Bohemian, and Burgundian territories whose emperor claimed to be the secular ruler of Christendom in partnership with the papacy. Voltaire famously remarked that it was 'neither holy, nor Roman, nor an empire,' capturing the gap between the institution's universal pretensions and its fragmented political reality.\n\nThe Holy Roman Empire's constitutional structure was unique: rather than a hereditary monarchy, the emperor was elected by the 'prince-electors' (initially three ecclesiastical and four secular princes, later more), creating perpetual tension between imperial centralization and princely autonomy. This tension — which the Investiture Controversy (1076–1122 AD), the struggle between Emperor and Pope over who could appoint bishops, brought to crisis — prevented the Holy Roman Empire from developing into a centralized state as France and England did. The result was that Germany remained politically fragmented into hundreds of princely states until 1871, while the empire itself survived (in increasingly attenuated form) until Napoleon dissolved it in 1806. Despite its political weakness relative to later nation-states, the Holy Roman Empire was the institutional framework within which much of European civilization — Gothic architecture, the Hanseatic trade league, the Reformation, and the Habsburgs' dynastic empire — developed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+    "read_more_links": [
+        {
+            "title": "Holy Roman Empire constitution electors",
+            "url": "https://en.wikipedia.org/wiki/Holy_Roman_Empire#Constitution"
+        },
+        {
+            "title": "Investiture Controversy pope emperor",
+            "url": "https://en.wikipedia.org/wiki/Investiture_Controversy"
+        },
+        {
+            "title": "Holy Roman Empire dissolution 1806",
+            "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Holy_Roman_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/L%27Empire_d%27Allemagne_%28Holy_Roman_Empire_of_Germany%29_Nicolas_de_Fer_1710_Colored_Map.jpg/300px-L%27Empire_d%27Allemagne_%28Holy_Roman_Empire_of_Germany%29_Nicolas_de_Fer_1710_Colored_Map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/L%27Empire_d%27Allemagne_%28Holy_Roman_Empire_of_Germany%29_Nicolas_de_Fer_1710_Colored_Map.jpg",
+            "caption": "Colored map of the Holy Roman Empire (of the German Nation) by Nicolas De Fer...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heiliges_R%C3%B6misches_Reich_1000.jpg/300px-Heiliges_R%C3%B6misches_Reich_1000.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Heiliges_R%C3%B6misches_Reich_1000.jpg",
+            "caption": "map legend:\ncircle - small town\ncircle with a dot in the middle - big town\nci...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Atlas_Van_der_Hagen-KW1049B10_047-S._IMPERIUM_ROMANO-GERMANICUM_oder_DEUTSCHLAND_MIT_SEINEN_ANGR%C3%84NTZENDEN_K%C3%96NIGREICHEN_UND_PROVINCIEN_Neulich_entworffen_und_theils_gezeichnet_durch_IULIUM_REICHELT_Chur_Pfaltz.jpg/300px-Atlas_Van_der_Hagen-KW1049B10_047-S._IMPERIUM_ROMANO-GERMANICUM_oder_DEUTSCHLAND_MIT_SEINEN_ANGR%C3%84NTZENDEN_K%C3%96NIGREICHEN_UND_PROVINCIEN_Neulich_entworffen_und_theils_gezeichnet_durch_IULIUM_REICHELT_Chur_Pfaltz.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Atlas_Van_der_Hagen-KW1049B10_047-S._IMPERIUM_ROMANO-GERMANICUM_oder_DEUTSCHLAND_MIT_SEINEN_ANGR%C3%84NTZENDEN_K%C3%96NIGREICHEN_UND_PROVINCIEN_Neulich_entworffen_und_theils_gezeichnet_durch_IULIUM_REICHELT_Chur_Pfaltz.jpg",
+            "caption": "This map of the German Empire was designed by Julius Reichelt (1637-1717). Re...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Maximilian_I%2C_Holy_Roman_Emperor.jpg/300px-Maximilian_I%2C_Holy_Roman_Emperor.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Maximilian_I%2C_Holy_Roman_Emperor.jpg",
+            "caption": "Maximilian I, Holy Roman Emperor",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charlemagne",
+            "summary": "Carolingian emperor from 800 to 814",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/250px-Charlemagne_denier_Mayence_812_814.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charlemagne"
+        },
+        {
+            "name": "Otto the Great",
+            "summary": "Holy Roman Emperor from 962 to 973",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Siegel_Otto_I_Posse.JPG/250px-Siegel_Otto_I_Posse.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Otto_the_Great"
+        },
+        {
+            "name": "Pope Leo IX",
+            "summary": "Head of the Catholic Church from 1049 to 1054",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Leon_IX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Leo_IX"
+        },
+        {
+            "name": "Holy Roman Emperor",
+            "summary": "Ruler of the Holy Roman Empire from 800 to 1806",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hans_Burgkmair_d._%C3%84._005.jpg/250px-Hans_Burgkmair_d._%C3%84._005.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor"
+        },
+        {
+            "name": "Frederick III, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1452 to 1493",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hans_Burgkmair_d._%C3%84._005.jpg/250px-Hans_Burgkmair_d._%C3%84._005.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_III%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Charles V, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1519 to 1556",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg/250px-Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_V%2C_Holy_Roman_Emperor"
+        }
+    ],
+    "territory_geojson": null
+}

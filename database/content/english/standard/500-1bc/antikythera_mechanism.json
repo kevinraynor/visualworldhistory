@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1202,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:ef35d33b871b2b7c041f9bdd8369cf582966f94599453c7579bbccc47f09de93",
+    "summary": "The Antikythera Mechanism (c. 150–100 BC) is an ancient Greek analog computer recovered from a shipwreck near the island of Antikythera, which used an intricate system of bronze gears to predict astronomical positions and eclipses decades in advance — by far the most sophisticated technological artifact surviving from antiquity and evidence that ancient engineers had mastered gear technology of a complexity not seen again until medieval clockwork.\n\nDiscovered by sponge divers in 1900 in a Roman-era shipwreck, the mechanism consists of at least 30 (possibly 72 or more) interlocking bronze gears of varying sizes in a wooden case. X-ray and CT scanning in the 20th and 21st centuries have revealed its full complexity. The device tracked the Metonic cycle (235 lunar months = 19 solar years, used to predict when eclipses could occur), the Saros cycle (used to predict eclipse recurrence), the positions of the Sun and Moon against the zodiac, and possibly the positions of the five visible planets. Inscriptions identify Olympic Games cycles and other calendrical functions. The mechanism was almost certainly influenced by the astronomical theories of [[event:1201|Hipparchus Star Catalog]]'s Hipparchus. Its existence demonstrates that the [[event:80|Hellenistic Period]] had achieved a level of mechanical sophistication that ancient historical sources had not suggested.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "read_more_links": [
+        {
+            "title": "Antikythera shipwreck",
+            "url": "https://en.wikipedia.org/wiki/Antikythera_shipwreck"
+        },
+        {
+            "title": "Ancient Greek technology",
+            "url": "https://en.wikipedia.org/wiki/Greek_technology"
+        },
+        {
+            "title": "Antikythera mechanism research",
+            "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism#Research"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Antikythera_Fragment_B_%28Front%29.webp/300px-Antikythera_Fragment_B_%28Front%29.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Antikythera_Fragment_B_%28Front%29.webp",
+            "caption": "Fragment B of the Antikythera Mechanism. Part of the scale is visible, as wel...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2012-08-17_Hodometer_anagoria.JPG/300px-2012-08-17_Hodometer_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/2012-08-17_Hodometer_anagoria.JPG",
+            "caption": "Replica of a Roman distance measuring car (odometer). Special exhibition \"Bey...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hipparchus",
+            "summary": "Greek astronomer, geographer and mathematician (c. 190 – c. 120 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Head_of_Hipparchus_%28cropped%29.jpg/250px-Head_of_Hipparchus_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hipparchus"
+        },
+        {
+            "name": "Derek J. de Solla Price",
+            "summary": "Physicist and science historian (1922–1983)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DerekdeSollaPrice.jpg/250px-DerekdeSollaPrice.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price"
+        },
+        {
+            "name": "Archimedes",
+            "summary": "Greek mathematician and physicist (c. 287 – 212 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/250px-Domenico-Fetti_Archimedes_1620.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archimedes"
+        },
+        {
+            "name": "Jacques Cousteau",
+            "summary": "French oceanographer and author (1910–1997)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cousteau1972_%28cropped%29.jpg/250px-Cousteau1972_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cousteau"
+        },
+        {
+            "name": "Posidonius",
+            "summary": "Greek Stoic philosopher (c.135 – c.51 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Posidonio%2C_replica_augustea_%2823_ac.-14_dc_ca%29_da_originale_del_100-50_ac._ca._6142.JPG/250px-Posidonio%2C_replica_augustea_%2823_ac.-14_dc_ca%29_da_originale_del_100-50_ac._ca._6142.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Posidonius"
+        },
+        {
+            "name": "Richard of Wallingford",
+            "summary": "English mathematician and astrologer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Richard_of_Wallingford.jpg/250px-Richard_of_Wallingford.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_of_Wallingford"
+        }
+    ],
+    "territory_geojson": null
+}

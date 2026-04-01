@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2980,
+    "parent_id": 91,
+    "granularity": "notable",
+    "content_hash": "sha256:0ead177a75df32e92fac51b27c6a6ad0ef76dc255485ea368932362010b985b6",
+    "summary": "The Yuan Dynasty (1271–1368 AD), established by [[event:2229|Kublai Khan]] after his complete conquest of the [[event:3044|Southern Song Dynasty]], was the Mongol-ruled Chinese empire that represented the most complete fusion of Mongol political authority with Chinese civilization, adopting Chinese dynastic name, administrative apparatus, and much of the ceremonial of Chinese imperial government while maintaining a strict ethnic hierarchy that privileged Mongols and Central Asian allies (semu ren) over northern Chinese (han ren) and southern Chinese (nan ren). It was the first foreign dynasty to rule all of China.\n\nThe Yuan Dynasty's brief century of rule left complex legacies. Positively: it created the conditions for the Pax Mongolica's commercial and cultural connectivity that enabled [[event:2230|Marco Polo's]] travels; it reunified China after the century of Song-Jin division; it facilitated the spread of Chinese technologies (printing, papermaking, gunpowder, compass) along Mongol trade networks; and it patronized arts including the development of Chinese vernacular drama (Yuan drama, zaju) and landscape painting. Negatively: the Mongols were resented as foreign rulers who disrupted the Confucian examination-based meritocracy, over-issued paper currency causing inflation, exploited Chinese agricultural resources for Mongol military objectives, and maintained racial hierarchies that subordinated the majority population. The dynasty was overthrown by a massive peasant rebellion led by Zhu Yuanzhang, a former Buddhist monk and beggar of Han Chinese origin who founded the [[event:100|Ming Dynasty]] in 1368 — one of history's most dramatic rises from complete poverty to imperial power.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yuan_dynasty",
+    "read_more_links": [
+        {
+            "title": "Yuan Dynasty ethnic hierarchy Mongol Chinese",
+            "url": "https://en.wikipedia.org/wiki/Yuan_dynasty#Social_hierarchy"
+        },
+        {
+            "title": "Yuan Dynasty drama arts culture",
+            "url": "https://en.wikipedia.org/wiki/Yuan_dynasty#Culture"
+        },
+        {
+            "title": "Zhu Yuanzhang Ming founder Yuan overthrow",
+            "url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BW_Jar_FFD_RBG.jpg/300px-BW_Jar_FFD_RBG.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/BW_Jar_FFD_RBG.jpg",
+            "caption": "Blue-and-white Covered Jar with Fretwork Floral Design in Red and Blue Glaze",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pursuit_by_Mongol_Warriors_%28Diez_Albums%29.jpg/300px-Pursuit_by_Mongol_Warriors_%28Diez_Albums%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Pursuit_by_Mongol_Warriors_%28Diez_Albums%29.jpg",
+            "caption": "Early 14th-century work from the Diez Albums depicting Mongol warriors pursui...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yuan_Jade_15_Swan.jpg/300px-Yuan_Jade_15_Swan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Yuan_Jade_15_Swan.jpg",
+            "caption": "National Museum: Jade Gallery. Complete indexed photo collection at WorldHist...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Empire_of_the_Great_Khan_%28Catayo%29_according_to_the_Catalan_Atlas_%281375%29.jpg/300px-Empire_of_the_Great_Khan_%28Catayo%29_according_to_the_Catalan_Atlas_%281375%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Empire_of_the_Great_Khan_%28Catayo%29_according_to_the_Catalan_Atlas_%281375%29.jpg",
+            "caption": "Empire of the Great Khan (Catayo) according to the Catalan Atlas (1375)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Kublai Khan",
+            "summary": "Emperor of Yuan China from 1271 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/250px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+        },
+        {
+            "name": "Toghon Temür",
+            "summary": "Emperor of Yuan dynasty from 1333 to 1368",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/%E5%85%83%E9%A0%86%E5%B8%9D%E5%A6%A5%E6%AD%A1%E5%B8%96%E6%9C%A8%E5%85%92_Emperor_Shun_of_Yuan_Toghon_Tem%C3%BCr.png/250px-%E5%85%83%E9%A0%86%E5%B8%9D%E5%A6%A5%E6%AD%A1%E5%B8%96%E6%9C%A8%E5%85%92_Emperor_Shun_of_Yuan_Toghon_Tem%C3%BCr.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Toghon_Tem%C3%BCr"
+        },
+        {
+            "name": "Genghis Khan",
+            "summary": "Khan of the Mongol Empire from 1206 to 1227",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/250px-YuanEmperorAlbumGenghisPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Genghis_Khan"
+        },
+        {
+            "name": "Borjigin",
+            "summary": "Member of Ghengis Khan's Mongol sub-clan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mongol_Empire_c.1207.png/250px-Mongol_Empire_c.1207.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Borjigin"
+        },
+        {
+            "name": "Zhao Mengfu",
+            "summary": "Chinese calligrapher, painter and scholar",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%E8%B6%99%E9%AD%8F%E5%85%AC%E5%B0%8F%E5%83%8F.jpg/250px-%E8%B6%99%E9%AD%8F%E5%85%AC%E5%B0%8F%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhao_Mengfu"
+        },
+        {
+            "name": "Ögedei Khan",
+            "summary": "Khan of the Mongol Empire from 1229 to 1241",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg/250px-YuanEmperorAlbumOgedeiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%96gedei_Khan"
+        }
+    ],
+    "territory_geojson": null
+}

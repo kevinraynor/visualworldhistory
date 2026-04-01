@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3745,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d778170bd1da44a0b82982a903e2596ef36287e589c9f13759006ab409ff0f39",
+    "summary": "Lentils (Lens culinaris) were among the earliest legumes to be domesticated in the ancient Near East, with archaeological evidence for their cultivation in southeastern Anatolia and the northern Levant dating to approximately 8000–7000 BCE. Wild lentil progenitors grew naturally across this region, and the transition to deliberate cultivation left its mark in the archaeobotanical record through changes in seed size and the appearance of lentil seeds in contexts indicating storage and processing.\n\nLentils were nutritionally complementary to the cereal crops cultivated in the same region, providing protein and essential amino acids that cereals lacked. Their cultivation was part of the broader domestication of the founder crop complex of southwestern Asia, which included wheat, barley, and peas alongside lentils. As a nitrogen-fixing legume, lentils also benefited soil fertility when rotated with cereals, a practice that may have been empirically discovered by early farmers even if not understood in scientific terms.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lentil",
+    "read_more_links": [
+        {
+            "title": "Neolithic Founder Crops – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_founder_crops"
+        },
+        {
+            "title": "History of Agriculture – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture"
+        },
+        {
+            "title": "Fertile Crescent Agriculture – Britannica",
+            "url": "https://www.britannica.com/place/Fertile-Crescent"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Split_Red_Lentil.jpg/300px-Split_Red_Lentil.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Split_Red_Lentil.jpg",
+            "caption": "Picture of Split Red Lentil seeds. Size is approximately 6mm.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Llenties_maig.JPG/300px-Llenties_maig.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Llenties_maig.JPG",
+            "caption": "Lentil plants 75 days after emergence, Castelltallat, Catalonia",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/300px-3_types_of_lentil.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/3_types_of_lentil.png",
+            "caption": "3 lentils with transparent background.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Illustration_Lens_culinaris0.jpg/300px-Illustration_Lens_culinaris0.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Illustration_Lens_culinaris0.jpg",
+            "caption": "Illustration Lens culinaris0",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dal",
+            "summary": "Dried, split pulses used for cooking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/250px-3_types_of_lentil.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dal"
+        },
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        }
+    ],
+    "territory_geojson": null
+}

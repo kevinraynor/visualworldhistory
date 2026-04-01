@@ -1,0 +1,76 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1859,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:71cd9d4d68e6c0a25fa84db0c23d5955f773f6278a760734c07cab99167565dd",
+    "summary": "The spoked wheel and the light chariot it enabled represent one of the most transformative technological innovations of the second millennium BC. Earlier wheeled vehicles used solid or cross-bar wheels and were relatively heavy. The development of the spoked wheel, which replaced the rim and hub with a lightweight framework of radiating spokes, dramatically reduced the weight of the wheel while maintaining structural integrity under load. This innovation made possible the light, fast two-wheeled chariot pulled by horses — a vehicle that would revolutionize both warfare and long-distance communication across Eurasia.\n\nThe earliest evidence for spoked wheels and chariots comes from the [[event:1860|Sintashta culture]] of the Eurasian steppe, dated to approximately 2100–1800 BC, in the area of modern Russia and Kazakhstan. From these steppe origins, chariot technology spread rapidly across Eurasia and into the Middle East. By around 1700 BC, chariots were being used by the Hyksos in Egypt, and by the height of the Late Bronze Age around 1400–1200 BC, chariot forces formed the core of the armies of every major Near Eastern state — Egypt, the [[event:54|Hittite Kingdom]], [[event:1831|Mitanni]], and others. The [[event:1808|Battle of Kadesh]], fought between Egypt and the Hittites around 1274 BC, involved thousands of chariots and is one of the earliest battles for which detailed tactical descriptions survive.\n\nBeyond warfare, chariots served as symbols of elite status, as vehicles for royal display and ritual, and as the means by which elites demonstrated their command of horses and horsemanship. The spread of chariot culture was closely linked to the spread of [[event:1849|Indo-Aryan peoples]] into South Asia and the Near East, and chariot imagery and terminology appear in the earliest Sanskrit texts. The chariot remained militarily significant until cavalry tactics gradually supplanted it in the first millennium BC.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chariot#History",
+    "read_more_links": [
+        {
+            "title": "Chariot - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chariot"
+        },
+        {
+            "title": "Chariot - Britannica",
+            "url": "https://www.britannica.com/technology/chariot"
+        },
+        {
+            "title": "Spoked Wheel",
+            "url": "https://en.wikipedia.org/wiki/Wheel#Spoked_wheel"
+        },
+        {
+            "title": "Sintashta Culture",
+            "url": "https://en.wikipedia.org/wiki/Sintashta_culture"
+        },
+        {
+            "title": "Bronze Age Warfare",
+            "url": "https://en.wikipedia.org/wiki/Bronze_Age#Warfare"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shang_Chariot_Burial_04.jpg/300px-Shang_Chariot_Burial_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Shang_Chariot_Burial_04.jpg",
+            "caption": "Yin Ruins, Anyang, Henan, China. Complete indexed photo collection at WorldHi...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Han_Chariot_Model_%2811867134353%29.jpg/300px-Han_Chariot_Model_%2811867134353%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Han_Chariot_Model_%2811867134353%29.jpg",
+            "caption": "Mancheng Han Tombs Gallery, Hebei Museum, Shijiazhuang. Complete indexed phot...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warring_States_Chariot_Model_a.jpg/300px-Warring_States_Chariot_Model_a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Warring_States_Chariot_Model_a.jpg",
+            "caption": "Warring States Zhongshan State Gallery, Hebei Museum, Shijiazhuang. Complete ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Eastern_Han_Bronze_Cavalry_%26_Chariots_-_from_Gansu.jpg/300px-Eastern_Han_Bronze_Cavalry_%26_Chariots_-_from_Gansu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Eastern_Han_Bronze_Cavalry_%26_Chariots_-_from_Gansu.jpg",
+            "caption": "Eastern Han/Three Kingdoms special exhibit, Henan Provincial Museum, Zhengzho...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Light cavalry",
+            "summary": "Type of highly mobile soldier on horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Krell_Battle_of_Orsha_%28detail%29_31.jpg/250px-Krell_Battle_of_Orsha_%28detail%29_31.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Light_cavalry"
+        }
+    ],
+    "territory_geojson": null
+}

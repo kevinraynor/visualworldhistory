@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1201,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:4c7ce8054c9085dbdf93b7e88001a49e2e08d44d9b1443192876bd5141869407",
+    "summary": "Hipparchus of Nicaea (c. 190–120 BC) was the greatest astronomer of antiquity, who compiled the first systematic star catalog, discovered the precession of the equinoxes, developed trigonometry as a mathematical tool for astronomy, and established the magnitude scale for stellar brightness that is still used today.\n\nHipparchus observed from the island of Rhodes and Alexandria, systematically recording the positions of approximately 850 stars with unprecedented precision. By comparing his observations with older records, he discovered that the positions of stars relative to the equinoctial points had shifted — the first detection of the precession of the equinoxes (the slow 26,000-year wobble of Earth's rotational axis). He calculated a year length accurate to within 6.5 minutes and a lunar cycle accurate to within one second. To perform these astronomical calculations, Hipparchus developed plane trigonometry, including chord tables equivalent to modern sine tables. His stellar magnitude system (classifying stars from 1st magnitude brightest to 6th magnitude barely visible) was adopted by Ptolemy's Almagest and remains the basis of the modern system. Though most of his work survives only through Ptolemy's citations, his influence on subsequent astronomy — via the Ptolemaic tradition he substantially shaped — was enormous.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hipparchus",
+    "read_more_links": [
+        {
+            "title": "Precession of the equinoxes",
+            "url": "https://en.wikipedia.org/wiki/Axial_precession"
+        },
+        {
+            "title": "History of trigonometry",
+            "url": "https://en.wikipedia.org/wiki/History_of_trigonometry"
+        },
+        {
+            "title": "Stellar magnitude scale",
+            "url": "https://en.wikipedia.org/wiki/Apparent_magnitude#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/300px-Earth-moon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg",
+            "caption": "This view of the rising Earth greeted the Apollo 8 astronauts as they came fr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/School_of_Athens_Raphael_detail_03.jpg/300px-School_of_Athens_Raphael_detail_03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/School_of_Athens_Raphael_detail_03.jpg",
+            "caption": "Hipparchus and Ptolemy.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Astronomer",
+            "summary": "Scientist in the field of astronomy",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg/250px-IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Astronomer"
+        },
+        {
+            "name": "Aristarchus of Samos",
+            "summary": "Greek astronomer and mathematician (c. 310 – 230 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aristarchos_von_Samos_%28Denkmal%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristarchus_of_Samos"
+        },
+        {
+            "name": "Eratosthenes",
+            "summary": "Greek mathematician, geographer, and poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Portrait_of_Eratosthenes.png/250px-Portrait_of_Eratosthenes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eratosthenes"
+        },
+        {
+            "name": "Jean Baptiste Joseph Delambre",
+            "summary": "French mathematician and astronomer (1749–1822)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Delambre_Boilly_crop.jpg/250px-Delambre_Boilly_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Baptiste_Joseph_Delambre"
+        },
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        },
+        {
+            "name": "Aratus",
+            "summary": "Greek didactic poet (c. 315/310–240 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aratos_von_Soloi.jpg/250px-Aratos_von_Soloi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aratus"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3708,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:454e9e0f2b48e6354aff88e619ca6af161f4886a0bd94ef3939b4cc8fcd33ac2",
+    "summary": "The earliest accounting systems emerged in Mesopotamia during the [[event:1617|Uruk period]], approximately 3500–3000 BCE, driven by the administrative needs of large temple and palace institutions that managed agricultural surpluses, craft production, and labor. The earliest accounting tools were clay tokens of various shapes — spheres, cones, discs, cylinders — each representing a specific quantity of a specific commodity such as grain, livestock, or oil. These tokens were sometimes sealed within hollow clay balls (bullae) as a record of a transaction, with impressions of the tokens pressed on the outside of the bulla for reference.\n\nThe token system gradually gave way to flat clay tablets on which token shapes were impressed or incised to record inventories and transactions, and this transition is now recognized as a critical step in the [[event:1619|invention of writing]]. The [[event:1620|proto-cuneiform tablets]] from Uruk represent the direct documentary output of this accounting tradition. The invention of accounting systems thus represents not merely a bookkeeping innovation but a cognitive leap — the externalization of memory into a durable medium — that made possible the administrative complexity of the world's first cities and states.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_accounting",
+    "read_more_links": [
+        {
+            "title": "Clay Tokens and the Origin of Writing - Britannica",
+            "url": "https://www.britannica.com/topic/writing/The-development-of-writing"
+        },
+        {
+            "title": "Denise Schmandt-Besserat on Tokens - University of Texas",
+            "url": "https://liberalarts.utexas.edu/dss/"
+        },
+        {
+            "title": "Mesopotamian Administration - Metropolitan Museum",
+            "url": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Res_Gestae.jpg/300px-Res_Gestae.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Res_Gestae.jpg",
+            "caption": "Part of the Res gestae Divi Augusti from the Monumentum Ancyranum.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Accounting_in_Japan%2C_Taisho_era_-_Man_with_an_Abacus_and_an_Account_Book%2C_beside_Irori_%281914_by_Elstner_Hilton%29.jpg/300px-Accounting_in_Japan%2C_Taisho_era_-_Man_with_an_Abacus_and_an_Account_Book%2C_beside_Irori_%281914_by_Elstner_Hilton%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Accounting_in_Japan%2C_Taisho_era_-_Man_with_an_Abacus_and_an_Account_Book%2C_beside_Irori_%281914_by_Elstner_Hilton%29.jpg",
+            "caption": "This photo is from an album Elstner Hilton compiled in Japan between 1914 and...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Accountancy_clay_envelope_Louvre_Sb1932.jpg/300px-Accountancy_clay_envelope_Louvre_Sb1932.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Accountancy_clay_envelope_Louvre_Sb1932.jpg",
+            "caption": "Accountancy clay envelope Louvre Sb1932",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Forensic accounting",
+            "summary": "Branch of accounting which investigates financial misconduct and fraud",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Teerahertz_near-field_array_for_%CE%BCm-scale_surface_imaging_%28cropped%29.png/250px-Teerahertz_near-field_array_for_%CE%BCm-scale_surface_imaging_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Forensic_accounting"
+        },
+        {
+            "name": "Moses",
+            "summary": "Prophet in Abrahamic religions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg/250px-Rembrandt_Harmensz._van_Rijn_079.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Moses"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Res Gestae Divi Augusti",
+            "summary": "Funerary inscription of the first Roman emperor, Augustus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_%28%22Deeds_of_the_Divine_Augustus%22%29_inscribed_on_the_walls_of_the_cella%2C_Ancyra%2C_Ankara_%28Turkey%29_%2826028202241%29.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Res_Gestae_Divi_Augusti"
+        },
+        {
+            "name": "Suetonius",
+            "summary": "Roman historian (c. AD 69 – after AD 122)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Suetonius_etching_%28cropped%29.jpg/250px-Suetonius_etching_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suetonius"
+        },
+        {
+            "name": "Cassius Dio",
+            "summary": "Greco-Roman statesman and historian (c. 155–c. 235)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dio_Cassius.jpg/250px-Dio_Cassius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassius_Dio"
+        }
+    ],
+    "territory_geojson": null
+}

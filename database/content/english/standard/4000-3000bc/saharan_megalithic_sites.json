@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3704,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:644e9459c9624408d2a2f5961507b90f30f6e3b80dc04355436fd80150f2bcf9",
+    "summary": "During the period when the Sahara was undergoing gradual [[event:1687|desiccation]], prehistoric communities across North Africa erected stone monuments and circular stone structures that represent among the earliest megalithic traditions on the African continent. Sites such as Nabta Playa in southern Egypt, occupied from approximately 7000 BCE and featuring stone circles and alignments by around 4500–4000 BCE, demonstrate sophisticated astronomical knowledge and complex social organization among Saharan pastoralists.\n\nThe stone circles and alignments at Nabta Playa are interpreted as having calendrical functions, marking the summer solstice sunrise and enabling the tracking of the seasons — critical knowledge for pastoral communities dependent on predicting the onset of the brief summer monsoon rains. As the Sahara dried, many of these communities migrated toward the Nile Valley, and some researchers have proposed that the astronomical and ritual traditions of Saharan megalith builders contributed to the development of religious and calendrical institutions in predynastic Egypt. Saharan megalithic sites thus represent a critical but often overlooked dimension of the broader African cultural milieu from which Egyptian civilization emerged.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nabta_Playa",
+    "read_more_links": [
+        {
+            "title": "African Megaliths - Britannica",
+            "url": "https://www.britannica.com/place/Africa/History"
+        },
+        {
+            "title": "Saharan Prehistory - Cambridge",
+            "url": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal"
+        },
+        {
+            "title": "Astronomy in Prehistoric Africa - Journal of African Archaeology",
+            "url": "https://brill.com/view/journals/jaa/jaa-overview.xml"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Calendar_aswan.JPG/300px-Calendar_aswan.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Calendar_aswan.JPG",
+            "caption": "Nabta Playa Calendar Circle, reconstructed at Aswan Nubia museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nabta_Playa_artifacts_%28pottery%2C_ostrich_eggshells%2C_flint_implements%2C_arrowheads%29._Early_Neolithic_%287050-6100_BCE%29._British_Museum.jpg/300px-Nabta_Playa_artifacts_%28pottery%2C_ostrich_eggshells%2C_flint_implements%2C_arrowheads%29._Early_Neolithic_%287050-6100_BCE%29._British_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Nabta_Playa_artifacts_%28pottery%2C_ostrich_eggshells%2C_flint_implements%2C_arrowheads%29._Early_Neolithic_%287050-6100_BCE%29._British_Museum.jpg",
+            "caption": "Nabta Playa artifacts (pottery, ostrich eggshells, flint implements, arrowhea...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Nabta_Playa._Pottery_%28black-rimmed_or_with_rippled_surfaces%29%2C_ground_stone_axe%2C_arrowheads%2C_flint_knife._Late_Neolithic%2C_5400-4400_BCE._British_Museum.jpg/300px-Nabta_Playa._Pottery_%28black-rimmed_or_with_rippled_surfaces%29%2C_ground_stone_axe%2C_arrowheads%2C_flint_knife._Late_Neolithic%2C_5400-4400_BCE._British_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Nabta_Playa._Pottery_%28black-rimmed_or_with_rippled_surfaces%29%2C_ground_stone_axe%2C_arrowheads%2C_flint_knife._Late_Neolithic%2C_5400-4400_BCE._British_Museum.jpg",
+            "caption": "Nabta Playa. Pottery (black-rimmed or with rippled surfaces), ground stone ax...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Pottery%2C_bifacial_flint_blades_%28Near_Eastern_technique%29%2C_grinding_stone._Nabta_Playa%2C_Middle_Neolithic_%2C_6000-5500_BCE._British_Museum.jpg/300px-Pottery%2C_bifacial_flint_blades_%28Near_Eastern_technique%29%2C_grinding_stone._Nabta_Playa%2C_Middle_Neolithic_%2C_6000-5500_BCE._British_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pottery%2C_bifacial_flint_blades_%28Near_Eastern_technique%29%2C_grinding_stone._Nabta_Playa%2C_Middle_Neolithic_%2C_6000-5500_BCE._British_Museum.jpg",
+            "caption": "Pottery, bifacial flint blades (Near Eastern technique), grinding stone. Nabt...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "International Astronomical Union",
+            "summary": "Association of professional astronomers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/IAU_logo.svg/250px-IAU_logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/International_Astronomical_Union"
+        }
+    ],
+    "territory_geojson": null
+}

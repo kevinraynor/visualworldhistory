@@ -1,0 +1,49 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1928,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7996352e91c1096f02bedb9dacab9f8cbfc3064a8617fa74edf92c2071aaed0c",
+    "summary": "The Greek adoption of the Phoenician alphabet (c. 800–750 BC) was one of the most consequential acts of cultural borrowing in history — Greeks adapted the Semitic consonantal script by repurposing unused consonant signs as vowel letters, creating the first true alphabet (representing both consonants and vowels) and one that proved far more suitable for representing the sounds of Indo-European languages. This innovation transformed literacy from a specialized scribal skill into something potentially accessible to any citizen.\n\nThe new alphabet spread rapidly through the Greek world, though regional variants (epichoric alphabets) differed in letter forms until the Athenian alphabet was standardized across Greece in 403 BC. The Greek alphabet was the direct ancestor of the Latin, Cyrillic, Coptic, Gothic, and other alphabets that now collectively cover most of the world's writing systems. For Greece itself, the alphabet enabled the transcription of oral poetry (Homer), legal codes (the Twelve Tables tradition began in Greece), philosophical argumentation, and historical narrative — all the literary forms that define 'Western civilization.' The relationship between alphabetic literacy and democratic governance (citizens who could read laws could hold magistrates accountable) has been analyzed by scholars as a contributing factor to Greek political development.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greek_alphabet",
+    "read_more_links": [
+        {
+            "title": "Phoenician alphabet ancestor",
+            "url": "https://en.wikipedia.org/wiki/Phoenician_alphabet"
+        },
+        {
+            "title": "Greek alphabet vowel innovation",
+            "url": "https://en.wikipedia.org/wiki/Greek_alphabet#Development"
+        },
+        {
+            "title": "Alphabet family tree descendant scripts",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_alphabet"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dipylon_Inscription.JPG/300px-Dipylon_Inscription.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dipylon_Inscription.JPG",
+            "caption": "One of the four oldest known samples of the use of the Greek alphabet. It has...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Gospel_Estienne_1550.jpg/300px-Gospel_Estienne_1550.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gospel_Estienne_1550.jpg",
+            "caption": "Page from Robert Estienne's edition of the New Testament, Paris 1550, printed...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bankes_Homer_-_2nd_Century..JPG/300px-Bankes_Homer_-_2nd_Century..JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bankes_Homer_-_2nd_Century..JPG",
+            "caption": "Old greek papyrus (the Bankes Homer) showing Iliad book 24, lines 707-712.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

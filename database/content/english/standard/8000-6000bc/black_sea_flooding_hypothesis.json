@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1480,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d32743d2f50c3c413121b4121958030ea86a6a75dd78e22ec749ef05fa93c0b4",
+    "summary": "The Black Sea deluge hypothesis, proposed by geologists William Ryan and Walter Pitman in 1997, posits that the Black Sea basin was catastrophically flooded by waters from the Mediterranean Sea around 5600 BCE when rising post-glacial sea levels in the Mediterranean finally breached the natural land barrier at the Bosphorus strait. According to this hypothesis, the Black Sea at that time was a large but isolated freshwater lake lying well below Mediterranean sea level, and when the barrier was breached, Mediterranean saltwater poured into the basin in a catastrophic flood of great magnitude and duration.\n\nThe hypothesis has attracted both considerable scientific interest and significant controversy. Proponents point to submarine evidence of ancient shorelines and riverbeds far below the current Black Sea surface, elevated sedimentation rates, and the abrupt change from freshwater to marine fauna in core sediments as supporting evidence. Critics argue that the evidence for a catastrophic flood rather than a gradual inundation is weak, and that the chronology and magnitude of any transgression remain uncertain.\n\nRegardless of whether the flood was catastrophic or gradual, the inundation of the Black Sea lowlands during this period was real. The low-lying terrain around the ancient Black Sea lake would have supported farming communities during the agricultural expansion of the seventh millennium BCE, and whatever form the flooding took, it would have displaced significant human populations. Some scholars have suggested a connection between this event and ancient flood mythology, including the Mesopotamian and biblical flood narratives, though this connection remains speculative and controversial.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis",
+    "read_more_links": [
+        {
+            "title": "Black Sea - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Black_Sea"
+        },
+        {
+            "title": "Genesis Flood Narrative - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Genesis_flood_narrative"
+        },
+        {
+            "title": "Post-Glacial Sea Level Rise - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sea_level_rise"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Post-Glacial_Sea_Level.png/300px-Post-Glacial_Sea_Level.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Post-Glacial_Sea_Level.png",
+            "caption": "Expansion of the most recent 9 kyr\nThis figure shows sea level rise since the...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Black-sea-hist.png/300px-Black-sea-hist.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Black-sea-hist.png",
+            "caption": "Black Sea shape today & in 5600 BC.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Robert Ballard",
+            "summary": "Retired US Navy officer and professor of oceanography (born 1942)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dr._Ballard_visit_2023_%2852976464273%29_%28cropped%29.jpg/250px-Dr._Ballard_visit_2023_%2852976464273%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Ballard"
+        }
+    ],
+    "territory_geojson": null
+}

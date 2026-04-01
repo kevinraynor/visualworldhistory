@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1108,
+    "parent_id": 74,
+    "granularity": "detailed",
+    "content_hash": "sha256:691ef50c976919050c6043101a2110eb60f49f19c38ae21ca7e90d13ac7a3188",
+    "summary": "The Arthashastra (c. 300 BC) is an ancient Indian treatise on statecraft, economic policy, and military strategy attributed to Kautilya (also known as Chanakya), the chief minister of [[event:1097|Chandragupta Maurya]], and represents one of the most sophisticated political science texts of the ancient world.\n\nKautilya's work covers an astonishing range of topics: the duties of a king, the organization of government ministries, taxation, law, foreign policy, war, espionage, and even urban planning. Its realpolitik approach — advising rulers to use whatever means necessary to strengthen the state, including deception and assassination — has led to comparisons with Machiavelli. The text was lost for centuries and rediscovered in 1904, revealing that ancient India had developed systematic theories of governance independently of the Greek tradition. The Arthashastra's detailed descriptions of Mauryan bureaucracy and economy provide historians with invaluable evidence for reconstructing life in the world's first large-scale South Asian empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arthashastra",
+    "read_more_links": [
+        {
+            "title": "Chanakya",
+            "url": "https://en.wikipedia.org/wiki/Chanakya"
+        },
+        {
+            "title": "Maurya Empire administration",
+            "url": "https://en.wikipedia.org/wiki/Maurya_Empire#Government_and_administration"
+        },
+        {
+            "title": "Ancient Indian political thought",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Indian_philosophy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Map_of_the_Western_Satraps.png/300px-Map_of_the_Western_Satraps.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Map_of_the_Western_Satraps.png",
+            "caption": "Map of the Western Satraps. Reference: (1978)  A Historical atlas of South As...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Chanakya_artistic_depiction.jpg/300px-Chanakya_artistic_depiction.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Chanakya_artistic_depiction.jpg",
+            "caption": "Artistic depiction of Chanakya",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rediscovered_circa_16th_century_Arthashastra_manuscript_in_Grantha_script_from_the_Oriental_Research_Institute_%28ORI%29_which_was_found_in_1905_05.jpg/300px-Rediscovered_circa_16th_century_Arthashastra_manuscript_in_Grantha_script_from_the_Oriental_Research_Institute_%28ORI%29_which_was_found_in_1905_05.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Rediscovered_circa_16th_century_Arthashastra_manuscript_in_Grantha_script_from_the_Oriental_Research_Institute_%28ORI%29_which_was_found_in_1905_05.jpg",
+            "caption": "Rediscovered circa 16th century Arthashastra manuscript. The Arthashastra is ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rediscovered_circa_16th_century_Arthashastra_manuscript_in_Grantha_script_from_the_Oriental_Research_Institute_%28ORI%29_which_was_found_in_1905_03.jpg/300px-Rediscovered_circa_16th_century_Arthashastra_manuscript_in_Grantha_script_from_the_Oriental_Research_Institute_%28ORI%29_which_was_found_in_1905_03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rediscovered_circa_16th_century_Arthashastra_manuscript_in_Grantha_script_from_the_Oriental_Research_Institute_%28ORI%29_which_was_found_in_1905_03.jpg",
+            "caption": "Rediscovered circa 16th century Arthashastra manuscript. The Arthashastra is ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Chandragupta Maurya",
+            "summary": "Founder of the Maurya Empire (340–295 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Kalidasa",
+            "summary": "Classical Sanskrit poet, playwright and avatar of Brahma",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kalidasa_inditing_the_cloud_Messenger%2C_A.D._375.jpg/250px-Kalidasa_inditing_the_cloud_Messenger%2C_A.D._375.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kalidasa"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1124,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d7070c0bca854095b2bbcef22e42fe11cb33329cf5faa24df154313de1de5f70",
+    "summary": "The Chu-Han Contention (206–202 BC) was the civil war following the [[event:1123|Fall of the Qin Dynasty]] between two former rebel leaders — Xiang Yu of Chu, an aristocratic military genius, and Liu Bang of Han, a commoner of shrewd political judgment — that ended with Liu Bang's victory and the establishment of the [[event:77|Han Dynasty]].\n\nXiang Yu had the initial military advantage, defeating Qin's main armies and distributing the empire among his allies as king-makers. But his brutal treatment of conquered peoples (most infamously the massacre of 200,000 Qin soldiers who had surrendered) alienated potential supporters, while Liu Bang won loyalty through relatively lenient governance and skilled use of advisors including the strategist Zhang Liang and administrator Xiao He. The contention involved shifting alliances, dramatic sieges, and famous battles. At the final Battle of Gaixia (202 BC), Xiang Yu's army was surrounded and his troops demoralized by Liu Bang's forces singing Chu folk songs — implying their homeland had been captured. Xiang Yu made a last stand and committed suicide rather than flee to Chu. Liu Bang became [[event:1136|Emperor Gaozu of Han]], founding a dynasty that would rule China for over four centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chu%E2%80%93Han_Contention",
+    "read_more_links": [
+        {
+            "title": "Xiang Yu",
+            "url": "https://en.wikipedia.org/wiki/Xiang_Yu"
+        },
+        {
+            "title": "Liu Bang",
+            "url": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han"
+        },
+        {
+            "title": "Battle of Gaixia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Gaixia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg/300px-CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "caption": "Detail of a painted figure of a cavalryman.\nWestern Han Dynasty (206 B.C. -  ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chu-Han_Contention.png/300px-Chu-Han_Contention.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Chu-Han_Contention.png",
+            "caption": "Map of Chu-Han Contention between Qin and Han dynasties.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E4%BB%A3%E9%8E%A9_%2851581179747%29.png/300px-%E4%B8%AD%E5%9C%8B%E5%8F%A4%E4%BB%A3%E9%8E%A9_%2851581179747%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E4%BB%A3%E9%8E%A9_%2851581179747%29.png",
+            "caption": "中國古代鎩",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Han Xin",
+            "summary": "Chinese military general and politician (?–196 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%E6%B1%89%E6%B7%AE%E9%98%B4%E4%BE%AF%E9%9F%A9%E4%BF%A1.jpg/250px-%E6%B1%89%E6%B7%AE%E9%98%B4%E4%BE%AF%E9%9F%A9%E4%BF%A1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Han_Xin"
+        },
+        {
+            "name": "Ying Bu",
+            "summary": "Chinese king and warlord (died 196 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E8%8B%B1%E5%B8%83%29.jpg/250px-WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E8%8B%B1%E5%B8%83%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ying_Bu"
+        },
+        {
+            "name": "Peng Yue",
+            "summary": "King of Liang",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E5%BD%AD%E8%B6%8A%29.jpg/250px-WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E5%BD%AD%E8%B6%8A%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peng_Yue"
+        },
+        {
+            "name": "Qin Shi Huang's imperial tours",
+            "summary": "Trips taken by China's first emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Qin_tours.jpg/250px-Qin_tours.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang%27s_imperial_tours"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2217,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d6fe3ad1a6a1ccae9bca30444ac1cffc50c9a4ef27976cde57926a8368bcd84d",
+    "summary": "The invention of paper money in Tang and Song Dynasty China (7th–10th centuries AD) represented one of the most consequential financial innovations in human history, arising from the practical challenges of handling heavy copper cash in an increasingly commercialized economy. The immediate precursor was the 'flying money' (feiqian) system developed by Tang Dynasty merchants in the 8th century: traders depositing coins in one city would receive paper certificates redeemable for coin in another, effectively creating a private remittance and letter-of-credit system that dramatically reduced the cost and risk of long-distance commerce.\n\nThe Song Dynasty formalized this innovation into government-issued paper currency. The first official paper money — called 'jiaozi' — was issued in Sichuan province around 960–970 AD, initially by private merchants but quickly taken over by the Song government. Printed on special paper with intricate designs to prevent counterfeiting, backed by bronze coin reserves, and denominated in standard values, jiaozi represented true fiat paper currency issued by state authority. The system spread across the empire and was adopted with modifications by the Jin Dynasty and later, more extensively, by the Mongol Yuan Dynasty, whose paper money Marco Polo famously described in astonished detail in the 13th century. China's invention of paper money predated European experiments with bank notes by roughly seven centuries, though the chronic temptation to over-issue unbacked currency led to repeated inflationary crises throughout Chinese history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jiaozi_(currency)",
+    "read_more_links": [
+        {
+            "title": "Flying money Tang Dynasty remittance",
+            "url": "https://en.wikipedia.org/wiki/Fei-ch%27ien"
+        },
+        {
+            "title": "Song Dynasty paper currency history",
+            "url": "https://en.wikipedia.org/wiki/Song_dynasty#Economy"
+        },
+        {
+            "title": "Marco Polo paper money description",
+            "url": "https://en.wikipedia.org/wiki/Banknote#China"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/United_States_penny%2C_obverse%2C_2002.png/300px-United_States_penny%2C_obverse%2C_2002.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/United_States_penny%2C_obverse%2C_2002.png",
+            "caption": "United States penny, obverse, 2002",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hue-tzu_%28Song_Dynasty_government_issue%29%2C_1023_-_John_E._Sandrock.jpg/300px-Hue-tzu_%28Song_Dynasty_government_issue%29%2C_1023_-_John_E._Sandrock.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hue-tzu_%28Song_Dynasty_government_issue%29%2C_1023_-_John_E._Sandrock.jpg",
+            "caption": "An illustration of a Chinese banknote from a paper about the monetary history...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Huizong of Song",
+            "summary": "Emperor of China from 1100 to 1126",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Seated_Portrait_of_Emperor_Song_Huizong.tif/lossy-page1-250px-Seated_Portrait_of_Emperor_Song_Huizong.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Huizong_of_Song"
+        },
+        {
+            "name": "Emperor Guangzong of Song",
+            "summary": "Emperor of China from 1189 to 1194",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Guangzong.jpg/250px-Guangzong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Guangzong_of_Song"
+        }
+    ],
+    "territory_geojson": null
+}

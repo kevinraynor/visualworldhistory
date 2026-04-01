@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2483,
+    "parent_id": 2326,
+    "granularity": "detailed",
+    "content_hash": "sha256:95cc77f89abf8362b4f9d664cb005990c1da8866c253cd883ccc67c6e79f4870",
+    "summary": "The Dutch Cape Colony (founded 1652 AD) began as a modest victualing station for [[event:2357|Dutch East India Company]] (VOC) ships rounding the Cape of Good Hope en route to Asia, established by Jan van Riebeeck at Table Bay — but evolved over 150 years into a permanent settler colony that displaced the indigenous Khoikhoi and San peoples and established the racial and agricultural patterns that would shape South African history for centuries. The VOC initially intended only a small fort, vegetable garden, and hospital; within decades, however, company employees had been released as 'free burghers' to farm independently, and Huguenot refugees expelled from France after the revocation of the Edict of Nantes (1685) added to the settler population, beginning the formation of an Afrikaner identity distinct from the Netherlands.\n\nThe colony's expansion brought systematic dispossession of indigenous peoples. The Khoikhoi, deprived of their cattle-grazing lands, saw their pastoral economy destroyed; smallpox epidemics in 1713 and 1755 killed large proportions of the remaining Khoikhoi population. The VOC imported enslaved people from West Africa, Madagascar, India, and Southeast Asia to work the colony's farms and households — a practice that created the diverse 'Cape Malay' and 'Cape Coloured' communities of later South Africa. By the time Britain seized the Cape Colony in 1806 (during the Napoleonic Wars), approximately 26,000 European settlers, 30,000 enslaved people, and a rapidly declining indigenous population inhabited the territory — the foundation upon which the complex racial order of modern South Africa would be built.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Colony",
+    "read_more_links": [
+        {
+            "title": "Jan van Riebeeck Dutch East India Company Cape settlement",
+            "url": "https://en.wikipedia.org/wiki/Jan_van_Riebeeck"
+        },
+        {
+            "title": "Khoikhoi displacement Cape Colony smallpox Dutch expansion",
+            "url": "https://en.wikipedia.org/wiki/Khoikhoi#Disruption_by_European_colonization"
+        },
+        {
+            "title": "Huguenot settlers Cape Colony Afrikaner identity formation",
+            "url": "https://en.wikipedia.org/wiki/Cape_Malay#Huguenots"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/South_Africa_topo_continent.png/300px-South_Africa_topo_continent.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/South_Africa_topo_continent.png",
+            "caption": "Topographical map of South Africa, continent version",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lucas1861%2C_pg061_A_SKIRCMICH_IN_THE_OPEN.jpg/300px-Lucas1861%2C_pg061_A_SKIRCMICH_IN_THE_OPEN.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lucas1861%2C_pg061_A_SKIRCMICH_IN_THE_OPEN.jpg",
+            "caption": "Lucas1861, pg061 A SKIRCMICH IN THE OPEN",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Visite%2C_pg164_Mossel_Bay_on_the_Indian_Ocean.jpg/300px-Visite%2C_pg164_Mossel_Bay_on_the_Indian_Ocean.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Visite%2C_pg164_Mossel_Bay_on_the_Indian_Ocean.jpg",
+            "caption": "Visite, pg164 Mossel Bay on the Indian Ocean",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1850_Tallis_Map_of_the_Cape_Colony.png/300px-1850_Tallis_Map_of_the_Cape_Colony.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/1850_Tallis_Map_of_the_Cape_Colony.png",
+            "caption": "1850 Tallis Map of the Cape Colony",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "George III",
+            "summary": "King of Great Britain and Ireland from 1760 to 1820",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/250px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_III"
+        },
+        {
+            "name": "William IV",
+            "summary": "King of the United Kingdom from 1830 to 1837",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/William_IV_in_1833_by_Shee_cropped.jpg/250px-William_IV_in_1833_by_Shee_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_IV"
+        },
+        {
+            "name": "Queen Victoria",
+            "summary": "Queen of the United Kingdom from 1837 to 1901",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/250px-Queen_Victoria_by_Bassano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Victoria"
+        },
+        {
+            "name": "Edward VII",
+            "summary": "King of the United Kingdom from 1901 to 1910",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/King-Edward-VII_%28cropped%29_%28b%29.jpg/250px-King-Edward-VII_%28cropped%29_%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_VII"
+        },
+        {
+            "name": "George Macartney, 1st Earl Macartney",
+            "summary": "British diplomat, politician and colonial administrator (1737–1806)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/George_Macartney%2C_1st_Earl_Macartney_by_Lemuel_Francis_Abbott.jpg/250px-George_Macartney%2C_1st_Earl_Macartney_by_Lemuel_Francis_Abbott.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Macartney%2C_1st_Earl_Macartney"
+        },
+        {
+            "name": "Walter Hely-Hutchinson",
+            "summary": "British diplomat and colonial administrator (1849–1913)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SirWalterHelyHenderson.jpg/250px-SirWalterHelyHenderson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Hely-Hutchinson"
+        }
+    ],
+    "territory_geojson": null
+}

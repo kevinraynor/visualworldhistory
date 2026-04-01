@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1774,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:58e903ed186605f3625f00d8dfce36e2b30c48a8eb2f763abc730baeb355b3fb",
+    "summary": "The origins of trans-Saharan trade, approximately 2500–2000 BC, predate the later camel-based caravan networks that would transform this commerce in the first millennium BC. During the Bronze Age, the Sahara was significantly wetter than it is today — the 'African Humid Period' had only recently ended — and trade routes existed across this region connecting the Mediterranean and Nile Valley worlds to sub-Saharan Africa. These early routes carried gold, ivory, ostrich feathers, slaves, and exotic animals northward, while Egyptian and Mediterranean goods including copper tools and beads moved southward.\n\nThe principal early routes crossed the Sahara via the Fezzan region (modern Libya), the Ahaggar and Tibesti massifs, and the Nile corridor through Nubia. These were not yet the systematic caravan routes of later millennia but rather a series of intermittent contacts maintained by Berber-speaking pastoralists and Saharan communities that acted as intermediaries. The chariot-driving peoples depicted in Saharan rock art of this period may have played a role in facilitating exchange across the desert.\n\nThe significance of early trans-Saharan exchange lies in its demonstration that sub-Saharan Africa was connected to Mediterranean and Near Eastern trading networks thousands of years before the classical period. Gold from West Africa may have been reaching Egypt and the Mediterranean world through trans-Saharan routes in this early period, though the evidence is indirect. These ancient roots of trans-Saharan commerce laid the foundation for the much more intensive and better-documented trade networks that would develop in the first millennium BC and flourish through the Islamic medieval period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
+    "read_more_links": [
+        {
+            "title": "Saharan rock art",
+            "url": "https://en.wikipedia.org/wiki/Saharan_rock_art"
+        },
+        {
+            "title": "African Humid Period",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "Nubian trade routes",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Nubia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/French_language_map_of_Central_and_Eastern_Africa_1862.jpg/300px-French_language_map_of_Central_and_Eastern_Africa_1862.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/French_language_map_of_Central_and_Eastern_Africa_1862.jpg",
+            "caption": "CROPPED OUT MAT from ORIGINAL to SAVE PIXELS - original Scan produced French ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Oualata_02.jpg/300px-Oualata_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Oualata_02.jpg",
+            "caption": "Typical architecture of Oualata, Mauritania",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Algeria_N1%281991%29a.jpg/300px-Algeria_N1%281991%29a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Algeria_N1%281991%29a.jpg",
+            "caption": "Trans-Sahara highway (National Road N1) in Algeria (1991)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Caravane_hoggar1.jpg/300px-Caravane_hoggar1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Caravane_hoggar1.jpg",
+            "caption": "Caravane de chameaux dans le Hoggar",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Fernand Braudel",
+            "summary": "French historian and leader of the Annales School (1902–1985)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Photo_of_Fernand_Braudel_on_The_Identity_of_France_dustjacket.jpg/250px-Photo_of_Fernand_Braudel_on_The_Identity_of_France_dustjacket.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fernand_Braudel"
+        },
+        {
+            "name": "Senusret I",
+            "summary": "Pharaoh of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cairo%2C_Egyptian_Museum%2C_Antiquities%2C_photo_4_of_97_-_Archivio_fotografico_Museo_Egizio%2C_Turin_Album3_010_%28cropped%29.jpg/250px-Cairo%2C_Egyptian_Museum%2C_Antiquities%2C_photo_4_of_97_-_Archivio_fotografico_Museo_Egizio%2C_Turin_Album3_010_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Senusret_I"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Parfait-Louis Monteil",
+            "summary": "French explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Parfait-Louis_Monteil.png/250px-Parfait-Louis_Monteil.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Parfait-Louis_Monteil"
+        }
+    ],
+    "territory_geojson": null
+}

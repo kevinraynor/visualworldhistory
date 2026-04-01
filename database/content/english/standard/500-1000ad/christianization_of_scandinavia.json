@@ -1,0 +1,87 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "2.0",
+    "event_id": 2933,
+    "summary": "The Christianization of Scandinavia (c. 950–1100 AD) was a gradual, complex, and often violent transformation that converted the Norse peoples from their traditional polytheistic religion — the worship of Odin, Thor, Freyr and the rich mythological world of the Norse pantheon — to Christianity, fundamentally altering Scandinavian culture, politics, and its relationship with the rest of Europe. The process was driven by a combination of factors: the contacts Norse traders and warriors had developed with Christian England, France, and the Byzantine world; the pragmatic calculation of Scandinavian kings that Christianity offered administrative tools (literate clergy, a universal legal framework) and diplomatic legitimacy; and direct missionary activity from the German church.\n\nKey moments included the baptism of Danish King Harald Bluetooth (c. 960 AD), who famously commemorated his unification of Denmark and introduction of Christianity on the massive Jelling stones — the first written mention of Denmark and the last great monument of Viking Age pagan culture blending into the new Christian order. Norway's conversion was largely driven by forceful royal action: Olaf Tryggvason (reigned 995–1000) and Olaf Haraldsson (later Saint Olaf, reigned 1015–1028) used a combination of missionary zeal and violence to impose Christianity on Norwegian chieftains and farmers. Iceland converted by democratic vote at the Althing around 1000 AD — a uniquely Icelandic compromise where private paganism was tolerated while public Christian practice was mandated. Sweden was the last to convert, remaining officially pagan until the late 11th century. Christianization ended the [[event:2200|Norse religious tradition]] but also integrated Scandinavian kingdoms into the European cultural and diplomatic network, effectively ending the Viking Age as raiding was increasingly prohibited by the new moral framework.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Christianization_of_Scandinavia",
+    "read_more_links": [
+        {
+            "title": "Harald Bluetooth Jelling stones Denmark",
+            "url": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+        },
+        {
+            "title": "Iceland conversion Althing 1000 AD",
+            "url": "https://en.wikipedia.org/wiki/Christianization_of_Iceland"
+        },
+        {
+            "title": "Saint Olaf Norway forced conversion",
+            "url": "https://en.wikipedia.org/wiki/Olaf_II_of_Norway"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jellingsten.1..jpg/300px-Jellingsten.1..jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jellingsten.1..jpg",
+            "caption": "Jelling stone, Jelling, Denmark",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dalby_Heligkorskyrka.jpg/300px-Dalby_Heligkorskyrka.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dalby_Heligkorskyrka.jpg",
+            "caption": "Dalby Heligkorskyrka - Exterior from southeast.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Olav_Tryggvasons_saga_-_Haakon_jarl_2_-_C._Krohg.jpg/300px-Olav_Tryggvasons_saga_-_Haakon_jarl_2_-_C._Krohg.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Olav_Tryggvasons_saga_-_Haakon_jarl_2_-_C._Krohg.jpg",
+            "caption": "Christian Krogh: Illustration for Olav Tryggvasons saga, Heimskringla 1899-ed...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DR_290_S%C3%B6vestad_1.jpg/300px-DR_290_S%C3%B6vestad_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/DR_290_S%C3%B6vestad_1.jpg",
+            "caption": "Sövestad 1 runestone DR 290 (Krageholm)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Archbishop",
+            "summary": "Bishop of higher rank in many Christian denominations",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%C3%84rkebiskop_Martin_Mod%C3%A9us_konverserar_utanf%C3%B6r_Uppsala_domkyrka.jpg/250px-%C3%84rkebiskop_Martin_Mod%C3%A9us_konverserar_utanf%C3%B6r_Uppsala_domkyrka.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archbishop"
+        },
+        {
+            "name": "Ansgar",
+            "summary": "Christian saint, Archbishop, and missionary",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bendixen_Ansgar.jpg/250px-Bendixen_Ansgar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ansgar"
+        },
+        {
+            "name": "Harald Bluetooth",
+            "summary": "10th-century King of Denmark and Norway",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/1200_Harald_Bl%C3%A5tand_anagoria.jpg/250px-1200_Harald_Bl%C3%A5tand_anagoria.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harald_Bluetooth"
+        },
+        {
+            "name": "Anders Winroth",
+            "summary": "Swedish medieval historian (born 1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AWMargate-1.jpg/250px-AWMargate-1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anders_Winroth"
+        },
+        {
+            "name": "Sövestad Runestones",
+            "summary": "Two stones in Skåne County, Sweden",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/DR_290_S%C3%B6vestad_1.jpg/250px-DR_290_S%C3%B6vestad_1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%B6vestad_Runestones"
+        },
+        {
+            "name": "Willibrord",
+            "summary": "Anglo-Saxon monk, bishop and missionary (c.658–739)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Georg_Sturm%2C_Willibrordus_predikt_het_Christendom_aan_de_Friezen.jpg/250px-Georg_Sturm%2C_Willibrordus_predikt_het_Christendom_aan_de_Friezen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Willibrord"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1366,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:aeb13befd98bc47766532bfc8ea66d32a893489e2f06322eae0bc8da3661b3a2",
+    "summary": "The Pesse canoe is a dugout canoe discovered in 1955 during road construction near the village of Pesse in the Dutch province of Drenthe, now housed in the Drents Museum in Assen, Netherlands. Radiocarbon dated to approximately 8040–7510 BCE, it is widely cited as one of the oldest known boats in the world and the oldest confirmed seaworthy vessel. The canoe was made from the hollowed-out trunk of a Scots pine (Pinus sylvestris) using stone tools, measuring about 3 meters long and approximately 44 centimeters wide at the beam.\n\nThe Pesse canoe was made and used during the Mesolithic period, when the Netherlands was part of the broader northern European lowlands that included the submerging [[event:1319|Doggerland]] landmass to the west. The [[event:1282|Maglemosian]] cultural tradition, which was active in this region at the time, is known from other waterlogged sites to have had a rich tradition of woodworking and watercraft use. The Pesse canoe provides tangible physical evidence for the boatbuilding technology of early Holocene northwestern Europeans, confirming that dugout canoe construction — and thus waterborne travel on rivers, lakes, and coastal waters — was well established in northern Europe by 8,000 BCE, consistent with the broader picture of early maritime capability documented at sites such as [[event:1277|Franchthi Cave]] in Greece.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pesse_canoe",
+    "read_more_links": [
+        {
+            "title": "Dugout Canoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dugout_canoe"
+        },
+        {
+            "title": "Mesolithic Netherlands - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Netherlands#Prehistory"
+        },
+        {
+            "title": "Oldest Boats in the World - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_boats"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drents_Museum_prehistoric_8943.jpg/300px-Drents_Museum_prehistoric_8943.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Drents_Museum_prehistoric_8943.jpg",
+            "caption": "The prehistoric antiquites room in Drents Museum. Bottom right can be seen th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Boomstamkano_van_Pesse%2C_Drents_Museum%2C_1955-VIII-2.jpg/300px-Boomstamkano_van_Pesse%2C_Drents_Museum%2C_1955-VIII-2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Boomstamkano_van_Pesse%2C_Drents_Museum%2C_1955-VIII-2.jpg",
+            "caption": "The Pesse canoe is believed to be the world's oldest known boat.  It is made ...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Galley_-_Layard_-_Ninive_page_324_detail.png/300px-Galley_-_Layard_-_Ninive_page_324_detail.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Galley_-_Layard_-_Ninive_page_324_detail.png",
+            "caption": "Detail from wall relief in Niniveh, showing the evacuation of Tyre in 702 BC....",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

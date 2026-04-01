@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 45,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:0e1f185e7c781f9a2d9df0762af0da3fddd76865d679a084fc167b1eeed8d451",
+    "summary": "The Akkadian Empire, which flourished from approximately 2334 to 2154 BCE, is widely regarded as the world's first true empire — a centralized political entity that extended its authority over multiple previously independent peoples across a vast geographic expanse through deliberate military conquest and administrative integration. Founded by Sargon of Akkad, the empire stretched at its height from the Persian Gulf in the south to the upper reaches of the Tigris and Euphrates rivers in the north, encompassing much of what is today Iraq, Syria, and parts of Turkey and Iran.\n\nSargon rose to power as a cup-bearer to the king of Kish before overthrowing his master and establishing his new capital at Akkad, a city whose precise location remains unidentified despite extensive archaeological survey. His military campaigns against the Sumerian city-states were relentless and systematic; he claimed to have defeated Lugalzagesi of Uruk and paraded him in a neck-stock to the temple of Enlil at Nippur. By subduing the major cities of [[event:31|Sumerian civilization]] — including Ur, Lagash, and Nippur — Sargon unified Mesopotamia under a single authority for the first time, creating the conditions for a genuinely imperial administrative system.\n\nThe Akkadian administration replaced local rulers with royally appointed governors, many of them Sargon's own sons and daughters, while the Akkadian language — a Semitic tongue — was imposed as the language of administration alongside Sumerian. This bilingualism produced a rich written culture, and the reign of Sargon's daughter Enheduanna, appointed high priestess of the moon god Nanna at Ur, represents an especially remarkable moment: Enheduanna's hymns to the goddess Inanna are the earliest known authored literary works in human history, attributed to a named individual.\n\nSargon's grandson Naram-Sin extended the empire to its greatest territorial reach, campaigning as far as Anatolia and the Taurus Mountains and claiming the title \"King of the Four Quarters of the Universe\" — an assertion of universal sovereignty unprecedented in prior political thought. Naram-Sin also deified himself during his own lifetime, adopting the divine determinative before his name on royal inscriptions, a bold theological claim that distinguished the Akkadian monarchy from its Sumerian predecessors. His victory stele, depicting him triumphantly ascending a sacred mountain over his enemies, survives and is among the masterpieces of ancient Near Eastern art.\n\nThe empire maintained long-distance trade networks that brought timber from Lebanon, lapis lazuli from Afghanistan via intermediaries, silver from Anatolia, and tin from sources still debated by scholars. Akkadian merchants operated under royal patronage across a trade system linking Mesopotamia to the [[event:46|Indus Valley Civilization]] and the Persian Gulf littoral. Cylinder seals produced during this period show a florescence of artistic skill, with mythological scenes carved in miniature with exceptional technical refinement.\n\nThe collapse of the Akkadian Empire around 2154 BCE has been linked by recent paleoclimatic research to a prolonged drought — possibly one of the most severe arid events of the Holocene — that devastated agricultural production across the northern Fertile Crescent. This climatic disruption, combined with pressure from the Gutian peoples of the Zagros Mountains and internal administrative strain, fragmented the empire. The subsequent Ur III period saw [[event:31|Sumerian]] culture revive under the Third Dynasty of Ur, which itself produced a sophisticated bureaucratic state before its own eventual collapse. The Akkadian Empire's legacy persisted in its linguistic influence: Akkadian became the lingua franca of the ancient Near East for over a millennium, used in diplomacy and commerce from Egypt to Persia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+    "read_more_links": [
+        {
+            "title": "Sargon of Akkad - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
+        },
+        {
+            "title": "Naram-Sin of Akkad - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad"
+        },
+        {
+            "title": "Enheduanna - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Enheduanna"
+        },
+        {
+            "title": "Akkadian Empire - Britannica",
+            "url": "https://www.britannica.com/place/Akkadian-empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Statue_of_an_Akkadian_ruler_of_Assur_city._From_Assur%2C_Iraq%2C_c._2300_BCE._Pergamon_Museum.jpg/300px-Statue_of_an_Akkadian_ruler_of_Assur_city._From_Assur%2C_Iraq%2C_c._2300_BCE._Pergamon_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Statue_of_an_Akkadian_ruler_of_Assur_city._From_Assur%2C_Iraq%2C_c._2300_BCE._Pergamon_Museum.jpg",
+            "caption": "Statue of an Akkadian ruler of Assur city. From Assur, Iraq, c. 2300 BCE. Per...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Fragment_of_the_statue_of_a_devotee%2C_with_inscription_in_the_name_of_Naram-Sin.jpg/300px-Fragment_of_the_statue_of_a_devotee%2C_with_inscription_in_the_name_of_Naram-Sin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Fragment_of_the_statue_of_a_devotee%2C_with_inscription_in_the_name_of_Naram-Sin.jpg",
+            "caption": "Fragment of the statue of a devotee, with inscription in the name of Naram-Sin",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nasiriyah_Victory_Stele_of_Naram-Sin%2C_from_Mesopotamia%2C_Iraq%2C_c._2300_BCE._Iraq_Museum.jpg/300px-Nasiriyah_Victory_Stele_of_Naram-Sin%2C_from_Mesopotamia%2C_Iraq%2C_c._2300_BCE._Iraq_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nasiriyah_Victory_Stele_of_Naram-Sin%2C_from_Mesopotamia%2C_Iraq%2C_c._2300_BCE._Iraq_Museum.jpg",
+            "caption": "The so-called \"Nasiriyah Victory Stele of Naram Sin\". From southern Mesopotam...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bassetki_Statue%2C_Akkadian_period%2C_23rd_century_BCE%2C_from_Bassetki%2C_Iraq._Iraq_Museum.jpg/300px-Bassetki_Statue%2C_Akkadian_period%2C_23rd_century_BCE%2C_from_Bassetki%2C_Iraq._Iraq_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bassetki_Statue%2C_Akkadian_period%2C_23rd_century_BCE%2C_from_Bassetki%2C_Iraq._Iraq_Museum.jpg",
+            "caption": "The name of the Akkadian king Naram-Sin appears on the statue's base. The Bas...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Naram-Sin of Akkad",
+            "summary": "Ruler of the Akkadian Empire (c. 2254–2218 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stele_of_Naram-Sin_of_Akkad.jpg/250px-Stele_of_Naram-Sin_of_Akkad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad"
+        },
+        {
+            "name": "Sargon of Akkad",
+            "summary": "Founder of Akkadian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg/250px-Sargon_of_Akkad_on_his_victory_stele.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
+        },
+        {
+            "name": "Shu-turul",
+            "summary": "King of the Akkadian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shu-turul_name_inscription.jpg/250px-Shu-turul_name_inscription.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shu-turul"
+        },
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Lugal-zage-si",
+            "summary": "Sumerian King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prisoner_exiting_a_cage%2C_on_an_Akkadian_Empire_victory_stele_circa_2300_BCE%2C_Louvre_Museum.jpg/250px-Prisoner_exiting_a_cage%2C_on_an_Akkadian_Empire_victory_stele_circa_2300_BCE%2C_Louvre_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lugal-zage-si"
+        },
+        {
+            "name": "Rimush",
+            "summary": "King of Akkad",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jar_fragment_Rimush_Tell_Brak_127340.jpg/250px-Jar_fragment_Rimush_Tell_Brak_127340.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rimush"
+        }
+    ],
+    "territory_geojson": null
+}

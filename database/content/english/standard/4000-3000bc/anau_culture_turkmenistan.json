@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3700,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e28f22133e1b8fae3a17547a1127a2fd86b65db990f6569f1f9f19bb58df2cc7",
+    "summary": "Anau is an important Chalcolithic and Bronze Age site in the Kopet Dag piedmont region of present-day Turkmenistan, excavated by an American expedition under Raphael Pumpelly in 1904 and subsequently by Soviet archaeologists. Occupation at Anau spans approximately 6000–1000 BCE, and the site's Chalcolithic layers (roughly 4000–3000 BCE) reveal a farming community producing distinctive painted pottery and practicing mixed agriculture and animal husbandry on the fertile loess soils at the foot of the Kopet Dag mountains.\n\nAnau is part of the broader Namazga cultural tradition (see [[event:3701|Namazga culture]]) that characterized settled farming communities along the Iranian and Turkmenistan piedmont during the Chalcolithic and Bronze Age. These communities maintained cultural and trade connections with both the Iranian Plateau cultures to the south and the steppe cultures to the north, occupying a geographic and cultural corridor linking the Near East with Central Asia. The Anau-area cultures are important for understanding the spread of farming economies and craft traditions into Central Asia during the fourth and third millennia BCE.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anau,_Turkmenistan",
+    "read_more_links": [
+        {
+            "title": "Central Asian Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Central-Asia/History"
+        },
+        {
+            "title": "Namazga Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Namazga_culture"
+        },
+        {
+            "title": "Prehistoric Turkmenistan - Oxford Handbooks",
+            "url": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199589425.001.0001/oxfordhb-9780199589425"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Compartmented_seals_of_eagle%2C_monkey%2C_and_goddess%2C_Turkmenistan_or_northeast_Iran%2C_early_Bronze_Age%2C_c._2200-1800_BC%2C_bronze_-_Museum_of_Fine_Arts%2C_Boston_-_DSC02815.JPG/300px-Compartmented_seals_of_eagle%2C_monkey%2C_and_goddess%2C_Turkmenistan_or_northeast_Iran%2C_early_Bronze_Age%2C_c._2200-1800_BC%2C_bronze_-_Museum_of_Fine_Arts%2C_Boston_-_DSC02815.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Compartmented_seals_of_eagle%2C_monkey%2C_and_goddess%2C_Turkmenistan_or_northeast_Iran%2C_early_Bronze_Age%2C_c._2200-1800_BC%2C_bronze_-_Museum_of_Fine_Arts%2C_Boston_-_DSC02815.JPG",
+            "caption": "Compartmented seals of eagle, monkey, and goddess, Turkmenistan or northeast ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ruins_of_Se%C3%BDit_Jemaladdin_Mosque.jpg/300px-Ruins_of_Se%C3%BDit_Jemaladdin_Mosque.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ruins_of_Se%C3%BDit_Jemaladdin_Mosque.jpg",
+            "caption": "Ruins of Seýit Jemaladdin Mosque near Ashgabat, Turkmenistan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Anau_Mishin.jpg/300px-Anau_Mishin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Anau_Mishin.jpg",
+            "caption": "Anau Mosque",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "William Morris Davis",
+            "summary": "American geographer, geologist, geomorphologist and meteorologist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/William_Morris_Davis.jpg/250px-William_Morris_Davis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Morris_Davis"
+        }
+    ],
+    "territory_geojson": null
+}

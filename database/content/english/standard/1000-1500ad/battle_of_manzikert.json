@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2272,
+    "parent_id": 2271,
+    "granularity": "notable",
+    "content_hash": "sha256:17111bc890cf6ed343c1753d8404a77d1bf8abc3fc758a2b2b2bf312926bc3fd",
+    "summary": "The Battle of Manzikert (August 26, 1071 AD) was one of the most consequential military defeats in Byzantine history, in which the [[event:2271|Seljuk Sultan]] Alp Arslan decisively defeated and personally captured the Byzantine Emperor Romanos IV Diogenes, opening Anatolia to Turkish conquest and settlement and beginning the process that would transform Asia Minor from a Greek Christian heartland into the predominantly Turkish Muslim territory of modern Turkey. The battle was the result of a Byzantine attempt to recover Armenian border territories; Romanos led a large but poorly coordinated army that was outmaneuvered by Seljuk cavalry tactics.\n\nThe immediate military outcome was not catastrophic — Romanos was released after paying a ransom and agreeing to tributary terms — but the political consequences were devastating. Upon Romanos's return to Constantinople, he was deposed and blinded by political rivals, triggering a civil war that fatally distracted Byzantine military attention from Anatolia. With no Byzantine army in the field, Seljuk and Turkmen warriors flooded into the Anatolian plateau, occupying cities and establishing themselves as lords of territories that had been Byzantine for centuries. Within a decade, the Seljuks controlled most of Anatolia including Nicaea (Iznik), just across the Bosphorus from Constantinople. It was this sudden Byzantine loss of its Anatolian territory — the heartland of its military and economic power — that prompted Emperor Alexios I to appeal to Pope Urban II for military assistance in 1095, triggering the [[event:2220|First Crusade]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
+    "read_more_links": [
+        {
+            "title": "Alp Arslan Seljuk Byzantine defeat",
+            "url": "https://en.wikipedia.org/wiki/Alp_Arslan"
+        },
+        {
+            "title": "Anatolia Turkish settlement after Manzikert",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert#Aftermath"
+        },
+        {
+            "title": "Manzikert Crusades trigger Byzantine appeal",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Manzikert#Legacy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Camlica-2018-06-14.jpg/300px-Camlica-2018-06-14.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Camlica-2018-06-14.jpg",
+            "caption": "Çamlıca Republic Mosque as seen from the Bosporus.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/11_13th_century_Asia_Minor_Turkish_Invasions.png/300px-11_13th_century_Asia_Minor_Turkish_Invasions.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/11_13th_century_Asia_Minor_Turkish_Invasions.png",
+            "caption": "Asia Minor/Anatolia during the first waves of Turkish invasions (11th-13th ce...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Battle_of_Manzikert_%281071%29.webp/300px-Battle_of_Manzikert_%281071%29.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Battle_of_Manzikert_%281071%29.webp",
+            "caption": "Battle of Manzikert",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alp_Arslan_on_throne_Majma_al-Tawarikh_by_Hafiz_Abru_%28cropped%29.png/300px-Alp_Arslan_on_throne_Majma_al-Tawarikh_by_Hafiz_Abru_%28cropped%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Alp_Arslan_on_throne_Majma_al-Tawarikh_by_Hafiz_Abru_%28cropped%29.png",
+            "caption": "Miniature painted illustration from the Majma' al-Tawarikh of Hafiz 'Abru. De...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alp Arslan",
+            "summary": "Sultan of the Seljuk Empire from 1063 to 1072",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Alp_Arslan_on_throne_Majma_al-Tawarikh_by_Hafiz_Abru_%28cropped%29.png/250px-Alp_Arslan_on_throne_Majma_al-Tawarikh_by_Hafiz_Abru_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alp_Arslan"
+        },
+        {
+            "name": "Romanos IV Diogenes",
+            "summary": "Byzantine emperor from 1068 to 1071",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Romanus_IV_coin_crop.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romanos_IV_Diogenes"
+        },
+        {
+            "name": "Valerian (emperor)",
+            "summary": "Roman emperor from 253 to 260",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg/250px-Valerianus_Ny_Carlsberg_Glyptotek_IN3387.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valerian_%28emperor%29"
+        },
+        {
+            "name": "Constantine IX Monomachos",
+            "summary": "Byzantine emperor from 1042 to 1055",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Emperor_Constantine_IX.jpg/250px-Emperor_Constantine_IX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos"
+        },
+        {
+            "name": "Constantine X Doukas",
+            "summary": "Byzantine emperor from 1059 to 1067",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Constantine_X_full_portrait.jpg/250px-Constantine_X_full_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_X_Doukas"
+        },
+        {
+            "name": "Isaac I Komnenos",
+            "summary": "Byzantine emperor from 1057 to 1059",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/INC-3060-r_%D0%9D%D0%BE%D0%BC%D0%B8%D1%81%D0%BC%D0%B0_%D1%82%D0%B5%D1%82%D0%B0%D1%80%D1%82%D0%B5%D1%80%D0%BE%D0%BD._%D0%98%D1%81%D0%B0%D0%B0%D0%BA_I_%D0%9A%D0%BE%D0%BC%D0%BD%D0%B8%D0%BD._%D0%9E%D0%BA._1057%E2%80%941059_%D0%B3%D0%B3._%28%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81%29.png/250px-INC-3060-r_%D0%9D%D0%BE%D0%BC%D0%B8%D1%81%D0%BC%D0%B0_%D1%82%D0%B5%D1%82%D0%B0%D1%80%D1%82%D0%B5%D1%80%D0%BE%D0%BD._%D0%98%D1%81%D0%B0%D0%B0%D0%BA_I_%D0%9A%D0%BE%D0%BC%D0%BD%D0%B8%D0%BD._%D0%9E%D0%BA._1057%E2%80%941059_%D0%B3%D0%B3._%28%D1%80%D0%B5%D0%B2%D0%B5%D1%80%D1%81%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_I_Komnenos"
+        }
+    ],
+    "territory_geojson": null
+}

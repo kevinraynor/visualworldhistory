@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2476,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:4c462cdd2dcd387888a2885c9f29ba271ab6c76aaa74b8ab5e8d9e787fdae3cc",
+    "summary": "Gerardus Mercator's World Map of 1569 AD introduced the cylindrical projection that bears his name — a cartographic innovation of profound practical importance that allowed navigators to plot straight-line compass courses (rhumb lines) on a flat map, transforming oceanic navigation by making it possible to sail to a destination simply by maintaining a constant compass bearing. Mercator, a Flemish cartographer and geographer from the [[event:2326|Dutch Golden Age]] tradition of instrument-making and geographic learning, published his map with the explicit purpose of aiding navigation: the mathematical distortion that enlarges land areas near the poles was a deliberate geometric consequence of making compass courses appear as straight lines.\n\nThe Mercator projection became the dominant world map format for over four centuries, used in atlases, school classrooms, and navigation charts worldwide — with profound cultural consequences. The projection's exaggeration of high-latitude areas made Greenland appear as large as Africa (Greenland is roughly 1/14 Africa's actual size) and placed Europe and North America in visually dominant central positions, contributing to Eurocentric perceptions of world geography that have only recently been seriously challenged by alternative projections (the Peters/Gall-Peters projection, emphasizing equal area, gained attention as a political alternative in the 1970s–80s). Mercator also compiled the first collection of maps called an 'Atlas' (posthumously published by his son in 1595) — coining the term that remains universal. His work represented a mathematical and geographic sophistication that enabled the age of deep-ocean navigation and global trade.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mercator_projection",
+    "read_more_links": [
+        {
+            "title": "Gerardus Mercator cartographer biography projection",
+            "url": "https://en.wikipedia.org/wiki/Gerardus_Mercator"
+        },
+        {
+            "title": "Rhumb line constant compass bearing navigation",
+            "url": "https://en.wikipedia.org/wiki/Rhumb_line"
+        },
+        {
+            "title": "Peters projection equal area alternative world map debate",
+            "url": "https://en.wikipedia.org/wiki/Gall%E2%80%93Peters_projection"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

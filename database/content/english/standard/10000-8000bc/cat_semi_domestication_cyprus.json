@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1398,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:301864eb7f9e97b56c612eb7014ba82f9faf544520c9cef3cd69a94342c76037",
+    "summary": "The earliest known evidence for the close association of domestic cats with humans comes not from Egypt — long associated with cat domestication — but from Cyprus, where the deliberate burial of a wild cat (Felis silvestris lybica) alongside a human at the site of Shillourokambos dates to approximately 7500 BCE. The wild cat had been deliberately transported to Cyprus (there are no native cats on the island) and appears to have been kept by the early Neolithic settlers who colonized the island. This burial preceded Egyptian cat imagery by approximately 4,000 years.\n\nCat domestication occurred through a mutualistic process quite different from the intentional management of sheep, goats, or dogs. Wild cats were attracted to early agricultural settlements by the populations of mice, rats, and other rodents that accumulated around grain stores. Cats that tolerated human proximity would have had access to more reliable food from rodent populations living in and around granaries. Humans benefited from the cats' predation on grain-eating rodents and gradually came to value and keep the less-fearful individuals. This process of self-domestication through mutualistic attraction to human environments is supported by genetic evidence showing that domestic cats worldwide are descended primarily from the Near Eastern wildcat, consistent with the origin of the association in early agricultural communities of the [[event:1|Neolithic Fertile Crescent]] and Cyprus.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cat#History",
+    "read_more_links": [
+        {
+            "title": "Shillourokambos - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Shillourokambos"
+        },
+        {
+            "title": "Domestication of Cats - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Domestication_of_the_cat"
+        },
+        {
+            "title": "Neolithic Cyprus - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_Cyprus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Love_Potion.jpg/300px-The_Love_Potion.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/The_Love_Potion.jpg",
+            "caption": "The Love Potion",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mating_Cats_%28Domestic_cats%29_in_Kannur.jpg/300px-Mating_Cats_%28Domestic_cats%29_in_Kannur.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mating_Cats_%28Domestic_cats%29_in_Kannur.jpg",
+            "caption": "Mating cats",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Siamese_cat_of_Altai_shepherds.jpg/300px-Siamese_cat_of_Altai_shepherds.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Siamese_cat_of_Altai_shepherds.jpg",
+            "caption": "Altai shepherds in the yurt lives Siamese cat",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tabby_cat_with_visible_nictitating_membrane.jpg/300px-Tabby_cat_with_visible_nictitating_membrane.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tabby_cat_with_visible_nictitating_membrane.jpg",
+            "caption": "cat in Georgia",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

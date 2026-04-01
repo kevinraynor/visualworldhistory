@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3330,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:468aa599860170b1bb83638d169f746ae10a57092ca505b24fd538dc8eb2b52c",
+    "summary": "The Polish-Soviet War of 1919–1921 was fought between the newly independent Republic of Poland and Soviet Russia for control of the borderlands of the former Russian Empire following the end of World War I and the Russian Revolution. Polish forces under Józef Piłsudski captured Kiev in May 1920, seeking to establish a Polish-led federation of Eastern European states as a buffer against both Russia and Germany. Soviet forces under Marshal Mikhail Tukhachevsky counterattacked and advanced to the outskirts of Warsaw by August 1920.\n\nThe Battle of Warsaw in August 1920, sometimes called the Miracle on the Vistula, proved decisive. Polish forces, using intelligence derived from breaking Soviet radio codes, launched a counterattack that routed Tukhachevsky's overextended armies. The Polish victory had significant geopolitical consequences: it halted the westward spread of the Russian Revolution into Central Europe and established Poland's eastern border considerably further east than the Curzon Line proposed by the Western powers.\n\nThe Treaty of Riga in March 1921 ended the war, with Poland retaining substantial territories in present-day Ukraine and Belarus. The peace lasted until 1939, when Germany and the Soviet Union partitioned Poland under the Molotov-Ribbentrop Pact. The war remains significant in Polish historical memory as a demonstration of national resilience and military capability, and in Soviet/Russian historiography as a formative defeat.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War",
+    "read_more_links": [
+        {
+            "title": "Polish-Soviet War - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Polish-Soviet-War"
+        },
+        {
+            "title": "Battle of Warsaw 1920 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Warsaw_(1920)"
+        },
+        {
+            "title": "Józef Piłsudski - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mapa_rozsiedlenia_ludno%C5%9Bci_polskiej_z_uwzgl%C4%99dnieniem_spis%C3%B3w_z_1916_roku.jpg/300px-Mapa_rozsiedlenia_ludno%C5%9Bci_polskiej_z_uwzgl%C4%99dnieniem_spis%C3%B3w_z_1916_roku.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mapa_rozsiedlenia_ludno%C5%9Bci_polskiej_z_uwzgl%C4%99dnieniem_spis%C3%B3w_z_1916_roku.jpg",
+            "caption": "Map of Polish nationality resident population censuses including the German o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/No-nb_bldsa_1c100_Georgy_Chicherin_and_Maxim_Litvinov.jpg/300px-No-nb_bldsa_1c100_Georgy_Chicherin_and_Maxim_Litvinov.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/No-nb_bldsa_1c100_Georgy_Chicherin_and_Maxim_Litvinov.jpg",
+            "caption": "From the left, G. V. Tsjtsjerin, the Soviet Union's commissioner of foreign a...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polish-soviet_propaganda_poster_1920.jpg/300px-Polish-soviet_propaganda_poster_1920.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Polish-soviet_propaganda_poster_1920.jpg",
+            "caption": "Bolshevik poster of Polish-Soviet class war (1920). Texts in the picture:\nAbo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gayk_Bzhishkyan.jpg/300px-Gayk_Bzhishkyan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gayk_Bzhishkyan.jpg",
+            "caption": "Gayk Bzhishkyan",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Norman Davies",
+            "summary": "British historian (born 1939)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Norman_Davies_2018.jpg/250px-Norman_Davies_2018.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Norman_Davies"
+        },
+        {
+            "name": "Eastern Ukraine",
+            "summary": "Eastern, mostly Russian-speaking part of Ukraine",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eastern_Ukr.png/250px-Eastern_Ukr.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_Ukraine"
+        },
+        {
+            "name": "Vladimir Lenin",
+            "summary": "Leader of the Soviet Union from 1922 to 1924",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/250px-Lenin_in_1920_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+        },
+        {
+            "name": "Leon Trotsky",
+            "summary": "Soviet politician and revolutionary (1879–1940)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/250px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Trotsky"
+        },
+        {
+            "name": "Sergey Kamenev",
+            "summary": "Soviet military leader (1881–1936)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sergey_Sergeyevich_Kamenev.jpg/250px-Sergey_Sergeyevich_Kamenev.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sergey_Kamenev"
+        },
+        {
+            "name": "Joseph Stalin",
+            "summary": "Leader of the Soviet Union from 1924 to 1953",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg/250px-Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Stalin"
+        }
+    ],
+    "territory_geojson": null
+}

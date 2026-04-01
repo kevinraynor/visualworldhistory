@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3533,
+    "parent_id": 2233,
+    "granularity": "detailed",
+    "content_hash": "sha256:aabc1d1ed8ce93dc99f47546f458bae46afc743af3bdef60d87558d446b2e7b0",
+    "summary": "The Domesday Book (1086 AD) was a comprehensive survey of landholding, resources, and population in England commissioned by [[event:3532|William the Conqueror]], completed in a single year through an extraordinary administrative effort, and constituting the most detailed and systematic census of a medieval European kingdom ever undertaken. William ordered the survey — carried out by teams of royal commissioners who traveled to each county, assembled local juries, and recorded answers to standardized questions about landholders, their tenants, the size of their estates, the number of plowlands, villagers, freemen, slaves, mills, fishponds, and the taxable value of each holding — to establish definitively who held what land in England, settle disputes arising from the conquest, and maximize royal taxation. The survey's two volumes (Great Domesday and Little Domesday) recorded information on approximately 13,418 settlements.\n\nThe Domesday Book's name reflected its contemporary perception: like the Last Judgment (Domesday), its verdicts were final and unchallengeable. It was unprecedented not just in medieval England but in all of medieval Europe — no other government had the administrative capacity, political authority, and organizational drive to conduct a comparable survey until centuries later. Domesday reveals the scale of the [[event:2233|Norman Conquest's]] social revolution: virtually all major Anglo-Saxon landholders had been replaced by Norman-French tenants-in-chief within 20 years of Hastings. It also documents the consolidation of feudal tenure, with almost all English land held from the king through a hierarchy of lords. As a historical source, Domesday remains the richest single document for understanding 11th-century English society and economy, and it is still occasionally cited in English legal disputes over ancient rights and boundaries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Domesday_Book",
+    "read_more_links": [
+        {
+            "title": "Domesday survey methodology commissioners juries",
+            "url": "https://en.wikipedia.org/wiki/Domesday_Book#Process_of_compilation"
+        },
+        {
+            "title": "Domesday Book content landholding feudal tenure",
+            "url": "https://en.wikipedia.org/wiki/Domesday_Book#Content"
+        },
+        {
+            "title": "Great Domesday Little Domesday two volumes",
+            "url": "https://en.wikipedia.org/wiki/Domesday_Book#The_two_volumes"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/DomesdayCountyCircuitsMap.png/300px-DomesdayCountyCircuitsMap.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/DomesdayCountyCircuitsMap.png",
+            "caption": "Map of the English counties surveyed in Domesday Book. Showing Little and Gre...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Domesday_plaque.JPG/300px-Domesday_plaque.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Domesday_plaque.JPG",
+            "caption": "Domesday Book memorial plaque;not a logo of any registered entity, AFAICT.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Domesday_Croydon_Cheam.jpg/300px-Domesday_Croydon_Cheam.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Domesday_Croydon_Cheam.jpg",
+            "caption": "Domesday Book entries for Croydon and Cheam, Surrey, as published in 1783 by ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Domesday_binding.jpg/300px-Domesday_binding.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Domesday_binding.jpg",
+            "caption": "Engraving of Great Domesday Book in its (probably) Tudor binding.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "William the Conqueror",
+            "summary": "King of England from 1066 to 1087",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/250px-William_the_Conqueror_%28TFA%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+        },
+        {
+            "name": "Shire",
+            "summary": "Traditional British term for county",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Three_Shire.jpg/250px-Three_Shire.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shire"
+        },
+        {
+            "name": "Henry II of England",
+            "summary": "King of England from 1154 to 1189",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Henry_II_Illumination.jpg/250px-Henry_II_Illumination.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        },
+        {
+            "name": "John Stow",
+            "summary": "16th-century English historian and antiquarian (1524–1605)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/St_Andrew_Undershaft%2C_St_Mary_Axe%2C_EC2_-_Wall_monument_of_John_Stow_-_geograph.org.uk_-_1491412.jpg/250px-St_Andrew_Undershaft%2C_St_Mary_Axe%2C_EC2_-_Wall_monument_of_John_Stow_-_geograph.org.uk_-_1491412.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Stow"
+        },
+        {
+            "name": "Richard Baker (chronicler)",
+            "summary": "English politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Richard_Baker_%28page_113_crop%29.jpg/250px-Richard_Baker_%28page_113_crop%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Baker_%28chronicler%29"
+        },
+        {
+            "name": "Norfolk",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kings_Lynn_Guild_Hall_%28geograph_4626827%29.jpg/250px-Kings_Lynn_Guild_Hall_%28geograph_4626827%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Norfolk"
+        }
+    ],
+    "territory_geojson": null
+}

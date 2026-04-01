@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1151,
+    "parent_id": 1040,
+    "granularity": "detailed",
+    "content_hash": "sha256:188b27060acfd50f8f3086c1ab84d54f3642a27d13b990c8969ba8ec3a2c8bf7",
+    "summary": "The Septuagint (c. 300–200 BC) was the translation of the Hebrew scriptures into Greek, produced in Alexandria under [[event:1040|Ptolemaic Kingdom]] patronage, which made the Jewish scriptures accessible to the Greek-speaking world and became the primary scriptural text of early Christianity — one of the most consequential translation projects in history.\n\nThe name 'Septuagint' (from Latin for 'seventy') derives from the legend, recorded in the Letter of Aristeas, that seventy-two Jewish scholars translated the Torah in seventy-two days on the island of Pharos. Modern scholarship views this as legend, but the translation was real: the Jewish community of Alexandria, which spoke Greek rather than Hebrew, needed scriptures in their spoken language. The translation was done in stages, with the Torah (Pentateuch) translated first and the remaining books translated over the following two centuries. The Septuagint introduced into Greek vocabulary key religious terms — 'church' (ekklesia), 'angel' (angelos), 'messiah' (christos) — that would become central to Christian theological discourse. The New Testament authors quoted almost exclusively from the Septuagint rather than the Hebrew text, making this translation the scriptural foundation of Western Christianity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Septuagint",
+    "read_more_links": [
+        {
+            "title": "Letter of Aristeas",
+            "url": "https://en.wikipedia.org/wiki/Letter_of_Aristeas"
+        },
+        {
+            "title": "Hellenistic Judaism",
+            "url": "https://en.wikipedia.org/wiki/Hellenistic_Judaism"
+        },
+        {
+            "title": "Septuagint and New Testament",
+            "url": "https://en.wikipedia.org/wiki/Septuagint#New_Testament"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bible.malmesbury.arp.jpg/300px-Bible.malmesbury.arp.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bible.malmesbury.arp.jpg",
+            "caption": "A Bible handwritten in Latin, on display in Malmesbury Abbey, Wiltshire, Engl...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Codex_Vaticanus_%281_Esdras_1-55_to_2-5%29_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible%29.jpg/300px-Codex_Vaticanus_%281_Esdras_1-55_to_2-5%29_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Codex_Vaticanus_%281_Esdras_1-55_to_2-5%29_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible%29.jpg",
+            "caption": "A portion of the Greek Uncial MS. Codex Vaticanus, from the Vatican Library. ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Letter_of_Aristeas_%28Vat._gr._747_f._1r%29.jpg/300px-Letter_of_Aristeas_%28Vat._gr._747_f._1r%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Letter_of_Aristeas_%28Vat._gr._747_f._1r%29.jpg",
+            "caption": "Beginning of the Letter of Aristeas. Biblioteca Apostolica Vaticana, Vat. gr....",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy II Philadelphus",
+            "summary": "King of the Ptolemaic Kingdom, 284–246 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ptolemy_II_MAN_Napoli_Inv5600.jpg/250px-Ptolemy_II_MAN_Napoli_Inv5600.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"
+        },
+        {
+            "name": "Augustine of Hippo",
+            "summary": "Christian theologian and philosopher (354–430)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/250px-Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+        },
+        {
+            "name": "Philo",
+            "summary": "Hellenistic Jewish philosopher (c. 20 BCE – c. 50 CE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PhiloThevet.jpg/250px-PhiloThevet.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philo"
+        },
+        {
+            "name": "Josephus",
+            "summary": "Roman–Jewish historian and military leader (c. 37 – c. 100)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg/250px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Josephus"
+        },
+        {
+            "name": "Antiquities of the Jews",
+            "summary": "Historiographical work by historian Flavius Josephus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg/250px-Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiquities_of_the_Jews"
+        },
+        {
+            "name": "Moses",
+            "summary": "Prophet in Abrahamic religions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rembrandt_Harmensz._van_Rijn_079.jpg/250px-Rembrandt_Harmensz._van_Rijn_079.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Moses"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1803,
+    "parent_id": 1802,
+    "granularity": "notable",
+    "content_hash": "sha256:4abdd18ac16332df50a92a38550969f9f92455e0df2053d7e6f97b380b6a5acd",
+    "summary": "The Battle of Megiddo, fought around 1457 BC, was the decisive engagement of [[event:1802|Thutmose III]]'s first and most celebrated campaign in Canaan. A coalition of Canaanite and Syrian rulers, led by the king of Kadesh, had rebelled against Egyptian authority and massed at the strategic fortress city of Megiddo, which controlled the key pass through the Carmel ridge connecting Egypt to Syria.\n\nThutmose III made the bold and unexpected decision to advance through the narrow and dangerous Aruna pass rather than the safer northern or southern routes, a choice his officers cautioned against. His gamble succeeded — the Egyptian army emerged onto the plain behind the allied coalition's defensive positions, forcing them to redeploy hastily. The subsequent battle resulted in a rout of the allied forces and the siege of Megiddo, which surrendered after several months. The victory gave Egypt control of Canaan and opened the route to Syria.\n\nThe Battle of Megiddo is historically significant as the earliest battle recorded in sufficient detail to allow tactical reconstruction. The detailed account preserved in the Annals of Thutmose III at Karnak describes troop movements, the pharaoh's decisions, and the outcome in a manner more reminiscent of modern military history than typical ancient commemorative inscriptions. The site of Megiddo (Tel Megiddo in modern Israel) would see numerous battles over millennia, lending its name to the apocalyptic battle of Armageddon in the Book of Revelation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Megiddo_(15th_century_BC)",
+    "read_more_links": [
+        {
+            "title": "Megiddo (archaeological site)",
+            "url": "https://en.wikipedia.org/wiki/Megiddo,_Israel"
+        },
+        {
+            "title": "Thutmose III",
+            "url": "https://en.wikipedia.org/wiki/Thutmose_III"
+        },
+        {
+            "title": "Battle of Megiddo - Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Megiddo-1479-BCE"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karnak_Tempel_15.jpg/300px-Karnak_Tempel_15.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Karnak_Tempel_15.jpg",
+            "caption": "Relief in the Karnak Temple showing Thutmosis III slaying Canaanite captives ...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95.JPG/300px-%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/%D7%AA%D7%9C_%D7%9E%D7%92%D7%99%D7%93%D7%95.JPG",
+            "caption": "This is a photo of a place that is recognized as a heritage site by the Counc...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thutmose III",
+            "summary": "Pharaoh of Egypt from 1479 to 1425 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thutmosis_III-2_%28cropped%29.jpg/250px-Thutmosis_III-2_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thutmose_III"
+        },
+        {
+            "name": "Hatshepsut",
+            "summary": "Pharaoh of Egypt from 1479 to 1458 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg/250px-Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hatshepsut"
+        },
+        {
+            "name": "Mitanni",
+            "summary": "Ancient Hurrian-speaking state in northern Syria and southeast Anatolia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Carte_du_Mitanni-en.svg/250px-Carte_du_Mitanni-en.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mitanni"
+        },
+        {
+            "name": "Picket (military)",
+            "summary": "Soldier or small unit tasked with early warning and screening for larger forces",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/PicketGuardNCWyeth1922.png/250px-PicketGuardNCWyeth1922.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Picket_%28military%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1138,
+    "parent_id": 71,
+    "granularity": "detailed",
+    "content_hash": "sha256:89c7a5fa2754d742f71180e63ab1e9ab7318ba2e0d58d6bea8af61e887143a61",
+    "summary": "The Royal Road of Persia (c. 500–330 BC) was a 2,700-kilometer road system built and maintained by the Achaemenid Empire to facilitate rapid communication and military movement across the empire's vast territories — the ancient world's most effective postal network, which allowed royal messages to travel from Susa to Sardis in seven days.\n\nThe Greek historian Herodotus famously described the road and its system of royal messengers: 'Neither snow nor rain nor heat nor darkness of night prevents these couriers from completing their designated stages with utmost speed' — an inscription that inspired the unofficial motto of the U.S. Postal Service. The road ran from Susa (near the Persian Gulf) through Mesopotamia, Anatolia, and on to Sardis on the Aegean coast, with 111 relay stations equipped with fresh horses. Royal couriers could cover the full length in days rather than the three months required by ordinary travelers. The road also served as a military artery, enabling the rapid deployment of Persian armies. Its existence made the Achaemenid Empire's administration of its vast territories possible, and its routes were later followed by Alexander's armies during the [[event:75|Alexander the Great's Empire]] conquest.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Road",
+    "read_more_links": [
+        {
+            "title": "Achaemenid postal system",
+            "url": "https://en.wikipedia.org/wiki/Chapar_khaneh"
+        },
+        {
+            "title": "Persian Empire administration",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_Empire#Administration"
+        },
+        {
+            "title": "Ancient roads",
+            "url": "https://en.wikipedia.org/wiki/Ancient_road"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Achaemenid_Empire_at_its_greatest_extent_according_to_Oxford_Atlas_of_World_History_2002.jpg/300px-Achaemenid_Empire_at_its_greatest_extent_according_to_Oxford_Atlas_of_World_History_2002.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Achaemenid_Empire_at_its_greatest_extent_according_to_Oxford_Atlas_of_World_History_2002.jpg",
+            "caption": "Achaemenid Empire at its greatest extent according to Oxford Atlas of World H...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Euclid",
+            "summary": "Ancient Greek mathematician (fl. 300 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg/250px-Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Euclid"
+        },
+        {
+            "name": "Proclus",
+            "summary": "5th-century Greek Neoplatonist philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/In_primum_Euclidis_elementorum_librum_01.jpg/250px-In_primum_Euclidis_elementorum_librum_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Proclus"
+        },
+        {
+            "name": "Archimedes",
+            "summary": "Greek mathematician and physicist (c. 287 – 212 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/250px-Domenico-Fetti_Archimedes_1620.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archimedes"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Charles Sanders Peirce",
+            "summary": "American scientist (1839–1914)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Charles_Sanders_Peirce.png/250px-Charles_Sanders_Peirce.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce"
+        }
+    ],
+    "territory_geojson": null
+}

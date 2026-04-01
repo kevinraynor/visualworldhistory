@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3684,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f084a669bafce1d9ef9c01d3439d5cca0a811f568a7c5662339de8f9fd7cbade",
+    "summary": "The Montreal Protocol on Substances that Deplete the Ozone Layer, adopted on September 16, 1987, has been ratified by every nation on Earth — making it the only universally ratified treaty in UN history — and is widely regarded as the most successful international environmental agreement ever concluded. The protocol established binding schedules for the phase-out of chlorofluorocarbons (CFCs), halons, and other ozone-depleting substances following the [[event:3683|discovery of the ozone hole]] over Antarctica.\n\nThe treaty was strengthened through successive amendments — London (1990), Copenhagen (1992), Montreal (1997), and Beijing (1999) — that accelerated phase-out schedules and added additional controlled substances. Developed countries phased out CFC production by 1996; developing countries received additional time under the principle of common but differentiated responsibilities. The protocol's effectiveness has been demonstrated by the measurable recovery of the ozone layer: the Antarctic ozone hole began to stabilize and showed early signs of healing by the early twenty-first century, though full recovery is not expected until the mid-twenty-first century. Former UN Secretary-General Kofi Annan called it perhaps the single most successful international agreement to date.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+    "read_more_links": [
+        {
+            "title": "Vienna Convention for the Protection of the Ozone Layer",
+            "url": "https://en.wikipedia.org/wiki/Vienna_Convention_for_the_Protection_of_the_Ozone_Layer"
+        },
+        {
+            "title": "Ozone depletion",
+            "url": "https://en.wikipedia.org/wiki/Ozone_depletion"
+        },
+        {
+            "title": "Kigali Amendment",
+            "url": "https://en.wikipedia.org/wiki/Kigali_Amendment"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/300px-Earth_Day_Flag.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Earth_Day_Flag.png",
+            "caption": "Higher-quality PNG version of John McConnell's Earth Day flag, based on this ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ozone_Hole_2024_Update.webp/300px-Ozone_Hole_2024_Update.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ozone_Hole_2024_Update.webp",
+            "caption": "NASA and NOAA Ozone Hole Update of 2024",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Satellite_map_of_ozone_about_Antartica.png/300px-Satellite_map_of_ozone_about_Antartica.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Satellite_map_of_ozone_about_Antartica.png",
+            "caption": "This published satellite map shows the total ozone above the Antarctic region...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Kofi Annan",
+            "summary": "UN Secretary-General from 1997 to 2006",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Kofi_Annan_2012_%28cropped%29.jpg/250px-Kofi_Annan_2012_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kofi_Annan"
+        },
+        {
+            "name": "Jon Shanklin",
+            "summary": "British scientist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jonathan_Shanklin.jpg/250px-Jonathan_Shanklin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jon_Shanklin"
+        },
+        {
+            "name": "Mostafa Kamal Tolba",
+            "summary": "Egyptian scientist (1922–2016)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/DR_MOSTAFA_TOLBA.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mostafa_Kamal_Tolba"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2291,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:58b164964379fdc0734cafd002658f140e1b4f6b795e9c109eab4f550c18146b",
+    "summary": "The Great Schism of 1054 AD was the formal break between the Roman Catholic Church and the Eastern Orthodox Church, the most significant division in Christian history, which split the Christianity of the Roman Empire's western and eastern halves into two distinct communions that remain separate to this day. The Schism's immediate occasion was a dispute over papal authority and a theological controversy about the Holy Spirit (the filioque clause — whether the Spirit proceeds from the Father alone, as Eastern theology held, or from the Father 'and the Son,' as the Western church had added to the Nicene Creed). Pope Leo IX's legates placed a bull of excommunication on Patriarch Michael Cerularius of Constantinople; Cerularius excommunicated the legates in return.\n\nThe 1054 rupture was the culmination of centuries of growing divergence rather than a sudden break. The two halves of the Roman Empire had developed separately since the 4th century, speaking different languages (Latin vs. Greek), developing different theological emphases, liturgical styles, and ecclesiastical structures, and competing for religious authority over the Slavic and other newly Christianized peoples of Eastern Europe. The Schism was deepened irreparably by the [[event:2223|Fourth Crusade's]] sack of Constantinople (1204), which created a century of Latin occupation and mutual atrocities that made religious reconciliation practically impossible. The Roman Catholic and Eastern Orthodox Churches — encompassing together roughly 1.5 billion Christians today — have periodically sought rapprochement, with the mutual excommunications of 1054 formally lifted in 1964, but remain institutionally and theologically separate.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism",
+    "read_more_links": [
+        {
+            "title": "Filioque controversy theological division",
+            "url": "https://en.wikipedia.org/wiki/Filioque"
+        },
+        {
+            "title": "Great Schism 1054 mutual excommunications",
+            "url": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism#Events_of_1054"
+        },
+        {
+            "title": "Catholic Orthodox reconciliation modern",
+            "url": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism#Lifting_of_anathemas"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Santa_Sof%C3%ADa.jpg/300px-Santa_Sof%C3%ADa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Santa_Sof%C3%ADa.jpg",
+            "caption": "Hagia Sofia o Santa Sofía en Estambul, Turquía",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2240_x_3109_pixels_2.5_MB.jpg/300px-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2240_x_3109_pixels_2.5_MB.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2240_x_3109_pixels_2.5_MB.jpg",
+            "caption": "Detail of a marvelous mosaic of Christ from the Hagia Sophia in Instanbul. It...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Great_Schism_with_former_borders_%281054%29.png/300px-Great_Schism_with_former_borders_%281054%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Great_Schism_with_former_borders_%281054%29.png",
+            "caption": "The map of the eastern/western allegiances in 1054 with the former country bo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bible.malmesbury.arp.jpg/300px-Bible.malmesbury.arp.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bible.malmesbury.arp.jpg",
+            "caption": "A Bible handwritten in Latin, on display in Malmesbury Abbey, Wiltshire, Engl...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Michael I Cerularius",
+            "summary": "Ecumenical Patriarch of Constantinople from 1043 to 1058",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Keroularios.jpg/250px-Michael_Keroularios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_I_Cerularius"
+        },
+        {
+            "name": "Photios I of Constantinople",
+            "summary": "Ecumenical Patriarch of Constantinople from 858 to 867 and from 877 to 886",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Facial_Chronicle_-_b.13%2C_p.414_-_Photios_baptising_king_of_Bulgars.gif/250px-Facial_Chronicle_-_b.13%2C_p.414_-_Photios_baptising_king_of_Bulgars.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Photios_I_of_Constantinople"
+        },
+        {
+            "name": "Charlemagne",
+            "summary": "Carolingian emperor from 800 to 814",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/250px-Charlemagne_denier_Mayence_812_814.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charlemagne"
+        },
+        {
+            "name": "Holy Roman Emperor",
+            "summary": "Ruler of the Holy Roman Empire from 800 to 1806",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hans_Burgkmair_d._%C3%84._005.jpg/250px-Hans_Burgkmair_d._%C3%84._005.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor"
+        },
+        {
+            "name": "Papal legate",
+            "summary": "Personal representative of the Pope",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/K._Henry_2._Kissing_the_knee_of_the_Popes_Legate_comming_into_England.gif/250px-K._Henry_2._Kissing_the_knee_of_the_Popes_Legate_comming_into_England.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Papal_legate"
+        },
+        {
+            "name": "Constantine IX Monomachos",
+            "summary": "Byzantine emperor from 1042 to 1055",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Emperor_Constantine_IX.jpg/250px-Emperor_Constantine_IX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_IX_Monomachos"
+        }
+    ],
+    "territory_geojson": null
+}

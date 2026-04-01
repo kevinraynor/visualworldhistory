@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1662,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7978a455a322ee694f8af2aa7bf98ec51c5c7001b1152125660f4c2be8c7db50",
+    "summary": "Skara Brae, a Neolithic stone village on the Orkney Islands off the northern coast of Scotland, was occupied between approximately 3180 and 2500 BCE and is one of the best-preserved prehistoric villages in northern Europe. First exposed by a storm in 1850, the site consists of eight clustered stone-built houses connected by covered passages, all buried under a midden heap of ash and refuse that protected the structures from the harsh Orkney climate for five thousand years. Its remarkable state of preservation includes intact stone furniture — dressers, beds, hearths, and storage boxes — providing an unparalleled window into the domestic life of Neolithic communities.\n\nEach house at Skara Brae followed a remarkably standardized plan: a single rectangular room approximately 40 square meters in area, with a central hearth, a stone dresser facing the entrance, box beds on either side, and various small stone tanks set into the floor (possibly used for soaking shellfish or for storing water). The consistency of this plan across all eight houses suggests a strongly egalitarian or conventionally organized community, with no house significantly larger or more elaborately furnished than others. The inhabitants slept in the stone beds, likely filled with heather or animal skins for insulation against the cold.\n\nThe inhabitants of Skara Brae kept cattle, sheep, and pigs, and supplemented their diet with seafood and wild game. Artifacts recovered from the site include finely made pottery in the distinctive Grooved Ware style, bone pins and beads, and carved stone objects whose function remains debated — some of the elaborately decorated stone balls from Orkney are among the most intriguing prehistoric artifacts in Britain. The community appears to have been relatively prosperous and well-integrated into the broader Neolithic culture of Orkney, which also produced the Ring of Brodgar, the Stones of Stenness, and the passage tomb of Maeshowe during the same period.\n\nSkara Brae is part of the Heart of Neolithic Orkney UNESCO World Heritage Site and remains one of the most visited prehistoric monuments in Scotland, offering visitors an intimate encounter with the daily lives of people who lived five thousand years ago.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skara_Brae",
+    "read_more_links": [
+        {
+            "title": "Heart of Neolithic Orkney - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Heart_of_Neolithic_Orkney"
+        },
+        {
+            "title": "Neolithic Britain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Britain"
+        },
+        {
+            "title": "Skara Brae - Britannica",
+            "url": "https://www.britannica.com/topic/Skara-Brae"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Skara_Brae_ground_plan_1950.jpg/300px-Skara_Brae_ground_plan_1950.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Skara_Brae_ground_plan_1950.jpg",
+            "caption": "Skara Brae ground plan. From The official guide-book published by HMSO, Full ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2018_07_12_Schottland_%2894%29.jpg/300px-2018_07_12_Schottland_%2894%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/2018_07_12_Schottland_%2894%29.jpg",
+            "caption": "Skara Brae",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Skara_Brae_house_1_5.jpg/300px-Skara_Brae_house_1_5.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Skara_Brae_house_1_5.jpg",
+            "caption": "House 1 of Skara Brae.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Skara_Brae_house_7.jpg/300px-Skara_Brae_house_7.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Skara_Brae_house_7.jpg",
+            "caption": "Covered house 7 of Skara Brae.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Geologist",
+            "summary": "Scientist who studies geology",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Carl_Spitzweg_025.jpg/250px-Carl_Spitzweg_025.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Geologist"
+        },
+        {
+            "name": "Margaret Cole",
+            "summary": "English politician and poet (1893–1980)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Margaret_Cole_in_1944-45_by_Stella_Bowen_who_died_in_1947.jpg/250px-Margaret_Cole_in_1944-45_by_Stella_Bowen_who_died_in_1947.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_Cole"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

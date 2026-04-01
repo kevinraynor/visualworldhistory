@@ -1,0 +1,82 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1011,
+    "parent_id": 1010,
+    "granularity": "detailed",
+    "content_hash": "sha256:8f8bec493b2d4fdd9d19dca65ecf217b325d921136651682396c7753eb22608f",
+    "summary": "The Plague of Athens (430–426 BC) was a devastating epidemic that struck the city during the second year of the [[event:1010|Peloponnesian War]], killing an estimated quarter of the Athenian population over several years of recurrence. The plague arrived at Piraeus, Athens's port, likely brought by ship from Egypt or the Levant, and spread rapidly through the city whose population was swollen with rural refugees sheltering within the Long Walls from Spartan raids on Attica.\n\nThucydides described the symptoms in remarkable clinical detail — fever, red eyes, vomiting, diarrhea, pustules, and extreme thirst — and noted its indifference to whether victims were robust or frail, as well as the social breakdown it produced. People abandoned traditional burial rites; social restraints dissolved as individuals concluded that since death was inevitable, immediate pleasure was worth any transgression. The plague killed tens of thousands of Athenians, including the statesman Pericles in 429 BC, robbing Athens of its most capable leader precisely when the war required steady direction.\n\nThe disease's identity remains debated among modern scholars; proposals have included typhoid fever, smallpox, and Ebola-like hemorrhagic fever, among others. Whatever its biological nature, its historical impact is clear: it disrupted Athens's war strategy, demoralized the population, and accelerated the political fragmentation that would produce more reckless leadership and ultimately the disastrous [[event:1012|Sicilian Expedition]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plague_of_Athens",
+    "read_more_links": [
+        {
+            "title": "Pericles",
+            "url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "title": "Epidemic History",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_plague_of_Athens"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg/300px-Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Plague_in_an_Ancient_City_LACMA_AC1997.10.1_%281_of_2%29.jpg",
+            "caption": "Gift of The Ahmanson Foundation (AC1997.10.1)\nEuropean Painting\nCurrently on ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Myrtis_reconstruction.jpg/300px-Myrtis_reconstruction.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Myrtis_reconstruction.jpg",
+            "caption": "Myrtis' reconstructed appearance, National Archaeological Museum of Athens",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chifflart_P%C3%A9ricl%C3%A8s_au_lit_de_mort_de_son_fils.JPG/300px-Chifflart_P%C3%A9ricl%C3%A8s_au_lit_de_mort_de_son_fils.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Chifflart_P%C3%A9ricl%C3%A8s_au_lit_de_mort_de_son_fils.JPG",
+            "caption": "François Chifflart, Périclès au lit de mort de son fils, 1851, Paris, Ecole N...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Michiel Sweerts",
+            "summary": "Flemish painter and printmaker (1618–1664)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Michael_Sweerts_-_self_portrait_with_a_skull_c.1660.jpg/250px-Michael_Sweerts_-_self_portrait_with_a_skull_c.1660.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michiel_Sweerts"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Beth Shapiro",
+            "summary": "American evolutionary molecular biologist (born 1976)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Beth_Shapiro_-_PopTech_2010_-_Camden%2C_Maine_%285103086839%29_%28cropped%29.jpg/250px-Beth_Shapiro_-_PopTech_2010_-_Camden%2C_Maine_%285103086839%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Beth_Shapiro"
+        },
+        {
+            "name": "Empedocles",
+            "summary": "5th century BC Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Empedokles.jpeg/250px-Empedokles.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empedocles"
+        }
+    ],
+    "territory_geojson": null
+}

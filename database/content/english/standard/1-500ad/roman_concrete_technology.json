@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2087,
+    "parent_id": 81,
+    "granularity": "detailed",
+    "content_hash": "sha256:1df8b343323f0071c47e4fefaba40613ba6bf979734f79919b9508bbe55b24fb",
+    "summary": "Roman concrete technology (opus caementicium, developed c. 3rd century BC, perfected c. 1st–2nd century AD) was one of antiquity's most remarkable engineering innovations — a hydraulic cement made from volcanic ash (pozzolana), seawater, lime, and aggregate that could set underwater, was stronger than modern Portland cement, and has proven extraordinarily durable over two millennia. Roman engineers understood, through empirical practice, that the volcanic ash from the Pozzuoli region near Naples mixed with seawater and lime to produce a concrete that was not only waterproof but actually grew stronger over time through a chemical reaction between the ash, seawater, and lime that continues at the molecular level for centuries.\n\nRoman concrete enabled architectural forms impossible with earlier cut-stone or mud-brick construction: the vast domes of the [[event:2084|Pantheon]], the enormous vaulted halls of the public baths (thermae), harbor breakwaters, the foundations of the Colosseum, and the bridges, aqueducts, and warehouses of the empire. The Roman concrete formula was lost after the empire's fall, and modern concrete — made with Portland cement — is actually inferior in long-term durability, though superior in short-term strength. Modern materials scientists studying Roman harbor concrete have identified the specific crystalline structures (Al-tobermorite and phillipsite) responsible for its strengthening over time, and contemporary research is attempting to replicate or draw lessons from the Roman formula for more sustainable modern construction. The Pantheon's dome remains the world's largest unreinforced concrete dome after nearly 1,900 years.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_concrete",
+    "read_more_links": [
+        {
+            "title": "Opus caementicium technique",
+            "url": "https://en.wikipedia.org/wiki/Opus_caementicium"
+        },
+        {
+            "title": "Pozzolana volcanic ash concrete",
+            "url": "https://en.wikipedia.org/wiki/Pozzolana"
+        },
+        {
+            "title": "Roman concrete durability research",
+            "url": "https://en.wikipedia.org/wiki/Roman_concrete#Research_and_analysis"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Rome_%28Italy%2C_October_2019%29_-_275_%2850589571796%29.jpg/300px-Rome_%28Italy%2C_October_2019%29_-_275_%2850589571796%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Rome_%28Italy%2C_October_2019%29_-_275_%2850589571796%29.jpg",
+            "caption": "Rome (Italy, October 2019) - 275",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rome-Pantheon-Interieur1.jpg/300px-Rome-Pantheon-Interieur1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rome-Pantheon-Interieur1.jpg",
+            "caption": "Interior of the pantheon in Rome",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Baia-Tempio_di_Mercurio.jpg/300px-Baia-Tempio_di_Mercurio.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Baia-Tempio_di_Mercurio.jpg",
+            "caption": "Interior view of the dome of the so-called \"Merkur Temple\" in ancient Baiae, ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Caesarea_Concrete_Bath.jpg/300px-Caesarea_Concrete_Bath.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Caesarea_Concrete_Bath.jpg",
+            "caption": "Caesarea Roman Concrete bath ruins",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vitruvius",
+            "summary": "1st-century BC Roman architect and engineer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vitruvio_Pollione_portrait_%28cropped%29.jpg/250px-Vitruvio_Pollione_portrait_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vitruvius"
+        },
+        {
+            "name": "Nero",
+            "summary": "Roman emperor from AD 54 to 68",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/250px-Nero_Glyptothek_Munich_321.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nero"
+        }
+    ],
+    "territory_geojson": null
+}

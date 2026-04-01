@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3666,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9c18b7add12092bf3c66c9efc16f709ca870ca400ac01685ff07b2d5f3825ccd",
+    "summary": "The Eritrean-Ethiopian War of 1998–2000 was a border conflict between two countries that had only recently been allies in the struggle against the Derg military dictatorship. The immediate cause was a dispute over the small border town of Badme, seized by Eritrean forces in May 1998 less than a decade after the former comrades-in-arms had jointly brought the Derg down. The conflict rapidly escalated into a conventional military confrontation involving hundreds of thousands of troops on both sides.\n\nThe war was fought along static front lines reminiscent of World War I, with both sides launching massive infantry assaults across heavily mined terrain at enormous human cost. Casualties are estimated at between 80,000 and 150,000 dead on both sides, making it one of the deadliest conflicts of the post-Cold War era in Africa. Ethiopian forces ultimately prevailed militarily, capturing Badme and penetrating deep into Eritrean territory before a ceasefire brokered by the Organisation of African Unity in June 2000. The Algiers Agreement of December 2000 ended the war, and a boundary commission subsequently awarded Badme to Eritrea — which Ethiopia refused to implement — leaving a frozen conflict that persisted until the peace agreement of 2018 under Ethiopian Prime Minister Abiy Ahmed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_War",
+    "read_more_links": [
+        {
+            "title": "Algiers Agreement (2000)",
+            "url": "https://en.wikipedia.org/wiki/Algiers_Agreement_(2000)"
+        },
+        {
+            "title": "Eritrea-Ethiopia Boundary Commission",
+            "url": "https://en.wikipedia.org/wiki/Eritrea%E2%80%93Ethiopia_Boundary_Commission"
+        },
+        {
+            "title": "History of Eritrea",
+            "url": "https://en.wikipedia.org/wiki/History_of_Eritrea"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eritrean%E2%80%93Ethiopian_War_Map_1998.png/300px-Eritrean%E2%80%93Ethiopian_War_Map_1998.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Eritrean%E2%80%93Ethiopian_War_Map_1998.png",
+            "caption": "Eritrean–Ethiopian War Map 1998",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/VillageEritrea.jpg/300px-VillageEritrea.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/VillageEritrea.jpg",
+            "caption": "VillageEritrea.jpg",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sebhat Ephrem",
+            "summary": "Eritrean military officer and politician (born 1951)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sebhat_Ephrem.png/250px-Sebhat_Ephrem.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sebhat_Ephrem"
+        },
+        {
+            "name": "Meles Zenawi",
+            "summary": "Prime Minister of Ethiopia from 1995 to 2012",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meles_Zenawi_-_World_Economic_Forum_Annual_Meeting_2012.jpg/250px-Meles_Zenawi_-_World_Economic_Forum_Annual_Meeting_2012.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Meles_Zenawi"
+        },
+        {
+            "name": "Abiy Ahmed",
+            "summary": "Prime Minister of Ethiopia since 2018",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg/250px-Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abiy_Ahmed"
+        },
+        {
+            "name": "1974 Ethiopian coup d'état",
+            "summary": "Coup d'état against Ethiopian Emperor Haile Selassie by the Derg",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Haile_Selassie_Deposition.jpg/250px-Haile_Selassie_Deposition.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/1974_Ethiopian_coup_d%27%C3%A9tat"
+        },
+        {
+            "name": "Haile Selassie",
+            "summary": "Emperor of Ethiopia from 1930 to 1974",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg/250px-Haile_Selassie_in_full_dress_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Haile_Selassie"
+        },
+        {
+            "name": "Tigrayans",
+            "summary": "Semitic-speaking ethnic group in Ethiopia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ethiopie-Battage_du_teff_%289%29.jpg/250px-Ethiopie-Battage_du_teff_%289%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tigrayans"
+        }
+    ],
+    "territory_geojson": null
+}

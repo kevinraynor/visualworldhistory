@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1268,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e18f880535b3e409c6b600873ff5a7e3ddcd5a4315f4213d0715bcfd40e3845b",
+    "summary": "The Jomon culture was a prehistoric hunter-gatherer-fisher society of the Japanese archipelago, active from approximately 14,000 to 300 BCE, representing one of the world's longest-running and most sophisticated non-agricultural cultural traditions. By 10,000 BCE, Jomon communities were well established across Honshu, Kyushu, Shikoku, and Hokkaido, exploiting a remarkably diverse range of marine, riverine, and terrestrial food resources made available by Japan's varied and productive ecosystems.\n\nThe name Jomon — meaning \"cord-marked\" — derives from the distinctive decorative technique applied to pottery produced by these communities. The [[event:10|Jomon pottery tradition]] is among the oldest in the world, with the earliest examples dated to approximately 14,000–12,000 BCE. Pottery was used for boiling, storing, and processing food, demonstrating that ceramic technology was adopted by hunter-gatherers in resource-rich environments long before the advent of agriculture. The diversity of Jomon pottery forms across different regions and time periods reflects both cultural vitality and long-term technological development.\n\nJomon communities lived in small to medium-sized villages, often located near the coast or at the intersection of different ecological zones to maximize access to diverse food sources. Shellmounds — middens of accumulated shells from generations of seafood consumption — are among the most visible Jomon archaeological remains and preserve detailed information about diet, season of occupation, and environmental change. The Jomon people maintained active exchange networks linking different regions of the archipelago, passing obsidian, jade, and other valued materials over considerable distances.\n\nDespite the absence of agriculture, Jomon communities show evidence of plant management — the tending of nut-bearing trees and the transplantation of useful species — that blurs simple distinctions between foraging and cultivation. Population densities in Jomon Japan were unusually high for pre-agricultural societies, a product of Japan's exceptional ecological productivity during the Holocene climatic optimum.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period",
+    "read_more_links": [
+        {
+            "title": "Jomon Culture - Britannica",
+            "url": "https://www.britannica.com/topic/Jomon-culture"
+        },
+        {
+            "title": "Jomon Pottery - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_pottery"
+        },
+        {
+            "title": "Prehistoric Japan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Japan"
+        },
+        {
+            "title": "Shellmounds of Japan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Shell_midden"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/300px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg",
+            "caption": "Sannai-Maruyama_site in Aomori, Aomori prefecture, Japan.",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/140913_Sannai-Maruyama_site_Aomori_Japan10n.jpg/300px-140913_Sannai-Maruyama_site_Aomori_Japan10n.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/140913_Sannai-Maruyama_site_Aomori_Japan10n.jpg",
+            "caption": "Sannai-Maruyama_site in Aomori, Aomori prefecture, Japan.",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Azuki_Beans.jpg/300px-Azuki_Beans.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Azuki_Beans.jpg",
+            "caption": "Picture of Adzuki (Vigna angularis) beans. The ones shown here are from China...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jomon_people_Skull_and_Restoration_model_-_Niigata_Prefectural_Museum_of_History.jpg/300px-Jomon_people_Skull_and_Restoration_model_-_Niigata_Prefectural_Museum_of_History.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jomon_people_Skull_and_Restoration_model_-_Niigata_Prefectural_Museum_of_History.jpg",
+            "caption": "Skull of Jomon people with artificially mutilated teeth. Exhibit \"Exploring J...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

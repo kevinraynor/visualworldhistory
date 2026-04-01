@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1365,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3385319f5b06a93140dfbf894d43d33c7b4ff245b16113cd2e8aeb1668fec062",
+    "summary": "Sickle blades — flint or obsidian blades mounted in composite handles to create curved cutting tools for harvesting cereal grasses — are among the most diagnostic artifacts of the transition to agriculture in the ancient Near East. They are identifiable in the archaeological record by a characteristic \"sickle sheen\" or silica gloss — a polish formed on the edge of the blade when it cuts the silica-rich stems of grasses — that is visible under microscopic examination.\n\nThe earliest sickle blades in the Levant appear in [[event:4|Natufian culture]] contexts from approximately 14,000–11,500 BCE, before the adoption of agriculture, demonstrating that intensive harvesting of wild cereals preceded and likely contributed to the conditions for domestication. By the [[event:1304|Pre-Pottery Neolithic A]] period (9,500–8,500 BCE), sickle blades were ubiquitous at farming communities throughout the Levant, where they were used to harvest cultivated wheat, barley, and other crops. The development and widespread adoption of sickle technology represents both a technological response to and an enabler of grain agriculture, allowing efficient harvesting of large stands of grain that would otherwise be too labor-intensive to gather.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sickle",
+    "read_more_links": [
+        {
+            "title": "Sickle Sheen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sickle_sheen"
+        },
+        {
+            "title": "Natufian Culture Tools - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Natufian_culture"
+        },
+        {
+            "title": "Neolithic Tool Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lithic_technology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg/300px-Raising_a_flag_over_the_Reichstag_-_Restoration.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg",
+            "caption": "The iconic \"Raising a flag over the Reichstag\" photo by Yevgeny Khaldei. Publ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/A_Village_lady_holding_%27Hasiya%27_from_Shambhunath%2C_Nepal_-01.jpg/300px-A_Village_lady_holding_%27Hasiya%27_from_Shambhunath%2C_Nepal_-01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/A_Village_lady_holding_%27Hasiya%27_from_Shambhunath%2C_Nepal_-01.jpg",
+            "caption": "A Village lady  holding 'Hasiya' from Shambhunath, Nepal",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hasiya_in_khurpeto.jpg/300px-Hasiya_in_khurpeto.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hasiya_in_khurpeto.jpg",
+            "caption": "Ansi or Hasiya placed in Khurpeto",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sickle33.jpg/300px-Sickle33.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sickle33.jpg",
+            "caption": "Sickle",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Walter Hungerford, 1st Baron Hungerford",
+            "summary": "English politician (1378–1449)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Seal_WalterHungerford_1stBaronHungerford_KG_Died1449.png/250px-Seal_WalterHungerford_1stBaronHungerford_KG_Died1449.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Hungerford%2C_1st_Baron_Hungerford"
+        }
+    ],
+    "territory_geojson": null
+}

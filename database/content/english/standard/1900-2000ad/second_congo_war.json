@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3387,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f461e08eb19958fdc22aa38f2ef9846f57f271c54f670443e24f747ba5a93e52",
+    "summary": "The Second Congo War, also called Africa's World War, erupted in August 1998 in the Democratic Republic of the Congo and continued until 2003, though related violence persisted for years afterward. The conflict directly involved nine African nations and more than twenty armed groups, making it the deadliest conflict on the continent since World War II. Estimates of the death toll range from three to five million people, the majority dying from disease and famine rather than direct combat.\n\nThe war grew out of the instability that followed the [[event:2695|Rwandan Genocide]] and the subsequent First Congo War, which had toppled the Mobutu dictatorship in 1997. Rwanda and Uganda initially backed the rebellion against Laurent-Désiré Kabila's new government before turning against each other on Congolese soil. The vast mineral wealth of the DRC — including coltan, gold, and diamonds — drove much of the fighting and entangled numerous foreign actors in a war that devastated civilian populations across the country's eastern provinces.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Congo_War",
+    "read_more_links": [
+        {
+            "title": "First Congo War",
+            "url": "https://en.wikipedia.org/wiki/First_Congo_War"
+        },
+        {
+            "title": "Democratic Republic of the Congo",
+            "url": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+        },
+        {
+            "title": "Rwandan Genocide",
+            "url": "https://en.wikipedia.org/wiki/Rwandan_genocide"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Second_Congo_War_2001_map_en.png/300px-Second_Congo_War_2001_map_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Second_Congo_War_2001_map_en.png",
+            "caption": "Map of Second Congo War, 2001-2003. Sources:\nGerman article de:Zweiter Kongok...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/DRC_raped_women.jpg/300px-DRC_raped_women.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/DRC_raped_women.jpg",
+            "caption": "Original caption states, \"Dem. Rep. Congo: Meeting for Rape Victims Rape vict...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Congolese_soldier.jpg/300px-Congolese_soldier.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Congolese_soldier.jpg",
+            "caption": "Photo taken 2001 during the visit of US Rep. Frank Wolf.  Original caption st...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/DRC_Rwanda_line.jpg/300px-DRC_Rwanda_line.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/DRC_Rwanda_line.jpg",
+            "caption": "Rape has been used as a weapon of war in both the First Congo War and Second ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph Kabila",
+            "summary": "President of the DR Congo from 2001 to 2019",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Joseph_Kabila_April_2016.jpg/250px-Joseph_Kabila_April_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Kabila"
+        },
+        {
+            "name": "Sam Nujoma",
+            "summary": "President of Namibia from 1990 to 2005",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sam_Nujoma_%282004%29_cropped.jpg/250px-Sam_Nujoma_%282004%29_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sam_Nujoma"
+        },
+        {
+            "name": "Martin Shalli",
+            "summary": "Namibian Army general (born 1954)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Martin_Shalli_2017_%28cropped%29.jpg/250px-Martin_Shalli_2017_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Shalli"
+        },
+        {
+            "name": "Robert Mugabe",
+            "summary": "Leader of Zimbabwe from 1980 to 2017",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Robert_Mugabe_Official_Portrait_%284x5_cropped%29.jpg/250px-Robert_Mugabe_Official_Portrait_%284x5_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Mugabe"
+        },
+        {
+            "name": "Emmerson Mnangagwa",
+            "summary": "President of Zimbabwe since 2017",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Emmerson_Mnangagwa_at_US-Africa_Business_Summit%2C_2023_%283x4%29.jpg/250px-Emmerson_Mnangagwa_at_US-Africa_Business_Summit%2C_2023_%283x4%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emmerson_Mnangagwa"
+        },
+        {
+            "name": "José Eduardo dos Santos",
+            "summary": "President of Angola from 1979 to 2017",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%D0%96%D0%BE%D0%B7%D0%B5_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D1%83_%D0%B4%D1%83%D1%88_%D0%A1%D0%B0%D0%BD%D1%82%D1%83%D1%88_%28cropped%29.jpg/250px-%D0%96%D0%BE%D0%B7%D0%B5_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D1%83_%D0%B4%D1%83%D1%88_%D0%A1%D0%B0%D0%BD%D1%82%D1%83%D1%88_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Eduardo_dos_Santos"
+        }
+    ],
+    "territory_geojson": null
+}

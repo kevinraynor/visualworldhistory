@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2348,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:9424ca39e4a6f871e44227749bad189297fac9aa44b7ec730cdeb615037024a4",
+    "summary": "The Great Northern War (1700–1721 AD) was a major conflict in which a coalition led by Russia under [[event:2349|Peter the Great]] challenged and ultimately destroyed Swedish Baltic hegemony, transforming Russia from a peripheral power into a major European empire and permanently shifting the balance of power in northern and eastern Europe. Sweden, under the brilliant but reckless young King Charles XII, had been the dominant power in the Baltic region since the mid-17th century, controlling territories stretching from Finland to northern Germany. When Denmark, Saxony-Poland, and Russia formed an alliance to challenge Swedish dominance in 1700, Charles XII responded with extraordinary military energy: he knocked Denmark out of the war immediately, then turned east and at the Battle of Narva (November 1700) annihilated a Russian army three times his force's size with a surprise assault through a blizzard.\n\nDespite this stunning early victory, Charles XII made a fatal strategic error: instead of immediately finishing Russia, he spent years campaigning in Poland, installing a puppet king. Peter the Great used the time to completely reorganize the Russian army on Western European lines, build a Baltic fleet, and construct his new capital [[event:2389|St. Petersburg]] on conquered Swedish territory. When Charles finally invaded Russia in 1708–1709, his army was exhausted and ravaged by the brutal winter; at the [[event:3280|Battle of Poltava]] (July 1709), Peter's reformed army decisively destroyed the Swedish force. Charles XII fled to Ottoman territory; Sweden's German and Baltic possessions were overrun; Charles returned to Sweden and was killed in Norway in 1718. The Treaty of Nystad (1721) gave Russia Estonia, Livonia, Ingria, and Karelia, establishing Russia as the dominant Baltic power — a status Peter formalized by declaring himself Emperor of All Russia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Northern_War",
+    "read_more_links": [
+        {
+            "title": "Battle of Narva 1700 Charles XII victory Russia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Narva_(1700)"
+        },
+        {
+            "title": "Battle of Poltava 1709 Russian victory Sweden",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Poltava"
+        },
+        {
+            "title": "Treaty of Nystad 1721 Russian Baltic dominance",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Nystad"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bombardementet_af_K%C3%B8benhavn_1700.jpg/300px-Bombardementet_af_K%C3%B8benhavn_1700.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Bombardementet_af_K%C3%B8benhavn_1700.jpg",
+            "caption": "The bombardment of Copenhagen by the combined Swedish, English and Dutch flee...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Karl_XII_%281682-1718%29._Konung_av_Sverige%2C_pfalzgreve_av_Zweibr%C3%BCcken_%28Johan_David_Swartz%29_-_Nationalmuseum_-_129565.tif/300px-Karl_XII_%281682-1718%29._Konung_av_Sverige%2C_pfalzgreve_av_Zweibr%C3%BCcken_%28Johan_David_Swartz%29_-_Nationalmuseum_-_129565.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Karl_XII_%281682-1718%29._Konung_av_Sverige%2C_pfalzgreve_av_Zweibr%C3%BCcken_%28Johan_David_Swartz%29_-_Nationalmuseum_-_129565.tif",
+            "caption": "Karl XII (1682-1718). Konung av Sverige, pfalzgreve av Zweibrücken (Johan David Swartz) - Nationalmuseum - 129565",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/15-07-05-Schlo%C3%9F-Caputh-RalfR-N3S_1712.jpg/300px-15-07-05-Schlo%C3%9F-Caputh-RalfR-N3S_1712.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/15-07-05-Schlo%C3%9F-Caputh-RalfR-N3S_1712.jpg",
+            "caption": "Meeting of three kings in Potsdam, Caputh and Berlin, 1709.  Frederick I. in ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg/300px-King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/King_George_I_by_Sir_Godfrey_Kneller%2C_Bt_%283%29.jpg",
+            "caption": "This set of images was gathered by User:Dcoetzee from the National Portrait G...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Kexholm County",
+            "summary": "County of Sweden (1634–1721)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sw_BalticPr_17cen.jpg/250px-Sw_BalticPr_17cen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kexholm_County"
+        },
+        {
+            "name": "Charles XII of Sweden",
+            "summary": "King of Sweden from 1697 to 1718",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Copy_Charles_XII_-_Nationalmuseum_-_17886.png/250px-Copy_Charles_XII_-_Nationalmuseum_-_17886.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_XII_of_Sweden"
+        },
+        {
+            "name": "Ulrika Eleonora of Sweden",
+            "summary": "Queen of Sweden from 1718 to 1741",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ulrika_Eleonora%2C_Queen_of_Sweden_Georg_Desmar%C3%A9es.jpg/250px-Ulrika_Eleonora%2C_Queen_of_Sweden_Georg_Desmar%C3%A9es.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ulrika_Eleonora_of_Sweden"
+        },
+        {
+            "name": "Frederick I of Sweden",
+            "summary": "King of Sweden from 1720 to 1751",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Fredrik_av_Hessen.jpg/250px-Fredrik_av_Hessen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_I_of_Sweden"
+        },
+        {
+            "name": "Carl Gustav Rehnskiöld",
+            "summary": "Swedish field marshal (1651–1722)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Carl_Gustaf_Rehnski%C3%B6ld.PNG/250px-Carl_Gustaf_Rehnski%C3%B6ld.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Gustav_Rehnski%C3%B6ld"
+        },
+        {
+            "name": "Adam Ludwig Lewenhaupt",
+            "summary": "Swedish general (1659–1719)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Adam_Ludvig_Lewenhaupt_2.jpg/250px-Adam_Ludvig_Lewenhaupt_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt"
+        }
+    ],
+    "territory_geojson": null
+}

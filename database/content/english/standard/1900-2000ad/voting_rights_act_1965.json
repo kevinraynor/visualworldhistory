@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3365,
+    "parent_id": 2679,
+    "granularity": "detailed",
+    "content_hash": "sha256:2b24da8cf3a8f62a59101b0b383828bc0d98cf11cb5e3ac606578628dc07a2c0",
+    "summary": "The Voting Rights Act of 1965, signed by President Lyndon B. Johnson on August 6, 1965, prohibited discriminatory voting practices that had been used throughout the South to disenfranchise Black voters despite their constitutional right to vote guaranteed by the Fifteenth Amendment. The act specifically outlawed literacy tests and other devices used to disqualify voters, and provided for federal oversight of elections in states with histories of discrimination. It authorized federal examiners to register voters directly.\n\nThe act was directly inspired by the events of Bloody Sunday on March 7, 1965, when state troopers and a mounted posse attacked peaceful marchers attempting to cross the Edmund Pettus Bridge in Selma, Alabama. The televised violence shocked the nation. President Johnson addressed Congress and the nation eight days later, invoking the civil rights anthem by declaring \"we shall overcome.\" The Selma to Montgomery marches that followed generated irresistible political pressure for legislation.\n\nThe Voting Rights Act transformed American electoral politics. Black voter registration in the South increased dramatically within years of its passage. Black candidates were elected across Southern states that had been one-party white political systems for nearly a century. The act is considered one of the most effective pieces of civil rights legislation ever enacted, and its impact on American democracy is judged second only to the [[event:3364|Civil Rights Act of 1964]] in the legislation of the civil rights era.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Voting_Rights_Act_of_1965",
+    "read_more_links": [
+        {
+            "title": "Voting Rights Act - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Voting-Rights-Act"
+        },
+        {
+            "title": "Selma to Montgomery Marches - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches"
+        },
+        {
+            "title": "Civil Rights Movement - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Civil_rights_movement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fannie_Lou_Hamer_1964-08-22.jpg/300px-Fannie_Lou_Hamer_1964-08-22.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Fannie_Lou_Hamer_1964-08-22.jpg",
+            "caption": "Fannie Lou Hamer, American civil rights leader, at the Democratic National Co...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Voting_Rights_Act_-_last_page_%28hi-res%29.jpg/300px-Voting_Rights_Act_-_last_page_%28hi-res%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Voting_Rights_Act_-_last_page_%28hi-res%29.jpg",
+            "caption": "The last page of the Voting Rights Act.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Voting_Rights_Act_-_first_page_%28hi-res%29.jpg/300px-Voting_Rights_Act_-_first_page_%28hi-res%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Voting_Rights_Act_-_first_page_%28hi-res%29.jpg",
+            "caption": "The first page of the Voting Rights Act.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg/300px-Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lyndon_Johnson_and_Martin_Luther_King%2C_Jr._-_Voting_Rights_Act.jpg",
+            "caption": "President Lyndon B. Johnson meets with Martin Luther King, Jr., at the signin...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mike Mansfield",
+            "summary": "American politician and diplomat (1903–2001)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mike_Mansfield_1985_%28cropped_3x4%29.png/250px-Mike_Mansfield_1985_%28cropped_3x4%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mike_Mansfield"
+        },
+        {
+            "name": "Lyndon B. Johnson",
+            "summary": "President of the United States from 1963 to 1969",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%283%29.jpg/250px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%283%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+        }
+    ],
+    "territory_geojson": null
+}

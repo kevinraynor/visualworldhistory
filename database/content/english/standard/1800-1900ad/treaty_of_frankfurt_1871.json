@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3765,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3c212fd91c5a17b05a213dd4793738885d3c9b9ee4641a2e749dcda0d71656b8",
+    "summary": "The Treaty of Frankfurt, signed on 10 May 1871, formally ended the [[event:2535|Franco-Prussian War]] and imposed terms on France that reshaped European politics for the next four decades. The treaty required France to cede the provinces of Alsace and most of Lorraine to the newly proclaimed German Empire, pay a war indemnity of five billion francs, and endure German military occupation of northern France until the indemnity was paid. The loss of Alsace-Lorraine became the central grievance of French foreign policy and a source of the revanchiste nationalism that contributed to French willingness to fight in 1914.\n\nThe terms were harsh but not uniquely so by the standards of nineteenth-century victor's peace. The indemnity of five billion francs — an enormous sum — was nevertheless paid off by France within three years, partly funded by the Rothschild banking network in a feat of financial mobilization that surprised Bismarck, who had expected the debt to keep France diplomatically constrained for a generation. The early payment ended the German occupation ahead of schedule and freed France to rebuild its military and diplomatic position more rapidly than anticipated.\n\nThe cession of Alsace and Lorraine was the more lasting wound. The provinces were industrially valuable, particularly the iron ore deposits of Lorraine, but their psychological significance exceeded their economic worth. The populations of the provinces were culturally mixed, and many Alsatians chose to emigrate to France rather than remain under German rule. The issue poisoned Franco-German relations permanently: France could not formally renounce the provinces without political suicide at home, while Germany could not return them without appearing to repudiate its own founding moment. The 'blue line of the Vosges' — the visible border from the French side — became a symbol of the unfinished business of 1871.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Frankfurt_(1871)",
+    "read_more_links": [
+        {
+            "title": "Alsace-Lorraine – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alsace-Lorraine"
+        },
+        {
+            "title": "Franco-Prussian War – Britannica",
+            "url": "https://www.britannica.com/event/Franco-German-War"
+        },
+        {
+            "title": "Revanchism – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Revanchism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Treaty_of_Frankfurt.jpg/300px-Treaty_of_Frankfurt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Treaty_of_Frankfurt.jpg",
+            "caption": "Jules Favre putting his seal on the Treaty of Frankfurt.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Frieden_von_Frankfurt_am_Main.jpg/300px-Frieden_von_Frankfurt_am_Main.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Frieden_von_Frankfurt_am_Main.jpg",
+            "caption": "Der Vertrag und die Feder, mit der Bismarck den Vertrag unterschrieb",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Otto von Bismarck",
+            "summary": "Chancellor of Germany from 1871 to 1890",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg/250px-Otto_von_Bismarck_1885_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Otto_von_Bismarck"
+        },
+        {
+            "name": "Jules Favre",
+            "summary": "French statesman and lawyer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Jules_Favre_-_photo_Pierre_Petit.jpg/250px-Jules_Favre_-_photo_Pierre_Petit.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jules_Favre"
+        },
+        {
+            "name": "Woodrow Wilson",
+            "summary": "President of the United States from 1913 to 1921",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/250px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2127,
+    "parent_id": 2126,
+    "granularity": "notable",
+    "content_hash": "sha256:780da4bd5321cf78292eb25ec0da5e0d4cbdd1978728a56c870fb5415f04aab0",
+    "summary": "The Islamic Conquest of Persia (633–654 AD) was the destruction of the [[event:2059|Sassanid Empire]] by the armies of the [[event:2126|Rashidun Caliphate]] — one of the most consequential conquests in history, eliminating a state that had existed in various forms for over 400 years and transforming the heart of the ancient world. The decisive engagement was the Battle of al-Qadisiyyah (636 AD), where Arab Muslim forces under Sa'd ibn Abi Waqqas defeated the main Sassanid army; the subsequent fall of the Sassanid capital Ctesiphon and the death of the last Sassanid emperor Yazdegerd III (652 AD) completed the conquest.\n\nThe conquest of Persia was transformative for both civilizations. Persian culture, rather than being extinguished, profoundly shaped the emerging Islamic civilization: Persian administrative practices, court culture, literary traditions, and intellectual achievements were absorbed and became central to Abbasid Islamic civilization. The Persian language survived (unlike other conquered languages that were replaced by Arabic) and eventually became one of the major literary languages of the Islamic world, giving rise to a rich tradition of Persian Islamic poetry (Rumi, Hafez, Omar Khayyam). The Persian conversion to Islam was eventually nearly complete, but Persians maintained a distinct cultural identity within the Islamic world — one that would express itself through the Shia branch of Islam (which has been Iran's state religion since 1501) and through the continuous cultural tradition now called Iranian civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia",
+    "read_more_links": [
+        {
+            "title": "Battle of al-Qadisiyyah",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_al-Qadisiyyah"
+        },
+        {
+            "title": "Persian culture Islamic absorption",
+            "url": "https://en.wikipedia.org/wiki/Iranians_and_Islam"
+        },
+        {
+            "title": "Yazdegerd III last Sassanid",
+            "url": "https://en.wikipedia.org/wiki/Yazdegerd_III"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Head_horse_Kerman_Louvre_MAO132.jpg/300px-Head_horse_Kerman_Louvre_MAO132.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Head_horse_Kerman_Louvre_MAO132.jpg",
+            "caption": "Horse head, gilded silver, 4th century, Sasanian art, found in Kerman, Iran ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mohammad_adil-Khalid%27s_conquest_of_Iraq.PNG/300px-Mohammad_adil-Khalid%27s_conquest_of_Iraq.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mohammad_adil-Khalid%27s_conquest_of_Iraq.PNG",
+            "caption": "Map detailing the route of Khalid ibn Walid's conquest of Iraq.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sakastan_Sasanian_era.png/300px-Sakastan_Sasanian_era.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Sakastan_Sasanian_era.png",
+            "caption": "Map of Sakastan and its surroundings during the Sasanian era.\nMap taken from ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/IslamicConquestsIroon.png/300px-IslamicConquestsIroon.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/IslamicConquestsIroon.png",
+            "caption": "Map of the Sassanid, Byzantine and Muslim borders.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Abu Bakr",
+            "summary": "First caliph of Rashidun Caliphate from 632 to 634",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20131203_Istanbul_091.jpg/250px-20131203_Istanbul_091.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abu_Bakr"
+        },
+        {
+            "name": "Khalid ibn al-Walid",
+            "summary": "Arab Muslim general (died 642)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Khalid_ibn_al-Walid_Mosque.jpg/250px-Khalid_ibn_al-Walid_Mosque.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Khalid_ibn_al-Walid"
+        },
+        {
+            "name": "Yazdegerd III",
+            "summary": "Last Sasanian King from 632 to 651",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coin_of_the_Sasanian_king_Yazdegerd_III%2C_651_mint_%28Cropped%29.jpg/250px-Coin_of_the_Sasanian_king_Yazdegerd_III%2C_651_mint_%28Cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yazdegerd_III"
+        },
+        {
+            "name": "Rostam Farrokhzad",
+            "summary": "Sasanian military general (died 636)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rustam%2C_Yazdigird%27s_general%2C_slain_by_Sa%27d%2C_the_son_of_Vaqqas_the_Arab_-_The_New_York_Public_Library_Digital_Collections_%28cropped%29.jpg/250px-Rustam%2C_Yazdigird%27s_general%2C_slain_by_Sa%27d%2C_the_son_of_Vaqqas_the_Arab_-_The_New_York_Public_Library_Digital_Collections_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rostam_Farrokhzad"
+        }
+    ],
+    "territory_geojson": null
+}

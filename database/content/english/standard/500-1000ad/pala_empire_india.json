@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2170,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:991d030ed033d5b9d476abd19a923d32681a2b15a427b352e383f61ada617fb0",
+    "summary": "The Pala Empire (750–1174 AD) was a Buddhist dynasty that ruled Bengal and Bihar in northeastern India — the last major Buddhist empire in India and the patron of the great monastic universities that made northeastern India the intellectual center of Mahayana and Vajrayana Buddhism in the medieval world. Founded by Gopala (elected by local chieftains to end regional anarchy), the Pala dynasty patronized [[event:2055|Nalanda University]] and Vikramashila University, which under Pala patronage became the greatest centers of Buddhist learning in the world, attracting students from Tibet, China, Southeast Asia, and Central Asia.\n\nThe Pala period produced the distinctive Pala school of Buddhist art — its bronzes and illuminated manuscripts, with their elegant, detailed figural style, spread across Asia through the medium of texts and pilgrims and fundamentally shaped the Buddhist art of Tibet, Nepal, and Southeast Asia. The transmission of Buddhism to Tibet occurred largely through Pala-era masters: Padmasambhava (8th century) and Atisha (982–1054 AD) were key figures in establishing Tibetan Buddhism, and Pala monasteries provided the texts and teachers. The Pala Empire was weakened by the resurgent Hindu Sena dynasty in Bengal and devastated by the Ghaznavid and later Delhi Sultanate raids — Nalanda was destroyed by Bakhtiyar Khilji in 1193 AD, effectively ending Buddhist monasticism in India. The Pala period thus marks both the apex and the end of Buddhism as a major force in Indian cultural life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pala_Empire",
+    "read_more_links": [
+        {
+            "title": "Vikramashila university Pala",
+            "url": "https://en.wikipedia.org/wiki/Vikramashila"
+        },
+        {
+            "title": "Pala Buddhist art bronzes",
+            "url": "https://en.wikipedia.org/wiki/Pala_period_art"
+        },
+        {
+            "title": "Atisha Tibet Buddhism transmission",
+            "url": "https://en.wikipedia.org/wiki/Atisha"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0_22.jpg/300px-%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0_22.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%E0%A6%AA%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%AC%E0%A7%8C%E0%A6%A6%E0%A7%8D%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B0_22.jpg",
+            "caption": "This is a photo of a monument in Bangladesh identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Crowned_Buddha%2C_Bihar%2C_Pala_Empire%2C_10th-11th_century.jpg/300px-Crowned_Buddha%2C_Bihar%2C_Pala_Empire%2C_10th-11th_century.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Crowned_Buddha%2C_Bihar%2C_Pala_Empire%2C_10th-11th_century.jpg",
+            "caption": "Crowned Buddha, Bihar, Pala Empire, 10th-11th century",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Badal_Pillar_Inscription.jpg/300px-Badal_Pillar_Inscription.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Badal_Pillar_Inscription.jpg",
+            "caption": "Badal Pillar Inscription of Guravamishra, 10th century",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vishnu_Flanked_by_His_Personified_Attributes%2C_early_9th_century_CE%2C_Pala_period%2C_Bihar%2C_India.jpg/300px-Vishnu_Flanked_by_His_Personified_Attributes%2C_early_9th_century_CE%2C_Pala_period%2C_Bihar%2C_India.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vishnu_Flanked_by_His_Personified_Attributes%2C_early_9th_century_CE%2C_Pala_period%2C_Bihar%2C_India.jpg",
+            "caption": "Vishnu Flanked by His Personified Attributes, early 9th century CE, Pala peri...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Devapala of Bengal",
+            "summary": "Pala emperor of early 9th century",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carved_Conch.jpg/250px-Carved_Conch.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Devapala_of_Bengal"
+        },
+        {
+            "name": "Mahipala I",
+            "summary": "Pratihara emperor from 913 to 944",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carved_Conch.jpg/250px-Carved_Conch.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahipala_I"
+        },
+        {
+            "name": "Ramapala",
+            "summary": "Pala Emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carved_Conch.jpg/250px-Carved_Conch.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramapala"
+        },
+        {
+            "name": "Varendra rebellion",
+            "summary": "1070 CE revolt of Kaivarta chieftains against Pala rule in north Bengal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Varendri.png/250px-Varendri.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Varendra_rebellion"
+        },
+        {
+            "name": "Abbasid Caliphate",
+            "summary": "Third Islamic caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/250px-Abbasid_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+        }
+    ],
+    "territory_geojson": null
+}

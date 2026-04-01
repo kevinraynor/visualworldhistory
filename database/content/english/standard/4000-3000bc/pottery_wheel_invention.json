@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1632,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:297b6fb5dbe933ee8df64d0b3e4c523dfe46d7f0335e01d8af99453408cb2fc6",
+    "summary": "The potter's wheel was invented in Mesopotamia between approximately 4000 and 3500 BCE, fundamentally transforming ceramic production and providing one of the earliest examples of rotational mechanical technology in human history. Before the wheel, pottery was formed by hand — coiling, pinching, and smoothing clay into shape — a skilled but slow process that limited both the standardization and the output of ceramic goods. The wheel enabled potters to shape vessels with dramatically greater speed, consistency, and technical precision, making high-volume ceramic production possible for the first time.\n\nThe earliest pottery wheels were slow-turning turntables, likely wooden disks pivoted on a point, that a potter could rotate by hand while shaping clay. These evolved into faster-spinning kick wheels driven by foot, allowing the potter to maintain continuous rotation while both hands shaped the vessel. The centrifugal force of the spinning clay enabled the production of thin-walled, symmetrical vessels that were difficult or impossible to achieve by hand. The [[event:1633|beveled-rim bowl]] — a mass-produced standardized vessel found across Uruk Period sites in enormous quantities — is among the earliest examples of wheel-made ceramic production at scale.\n\nThe standardization enabled by the pottery wheel had significant economic implications. Temple institutions in the [[event:1617|Uruk Period]] could now produce uniform ceramic rations-containers — bowls of standardized capacity — in quantities adequate to serve large workforces. This contributed to the development of the redistributive economic systems that characterized early Mesopotamian cities, where labor was compensated with standardized food rations measured in consistent vessel-units.\n\nKnowledge of the pottery wheel diffused widely from its Mesopotamian origin, reaching the Indus Valley, Egypt, and eventually Europe and East Asia over subsequent millennia. Together with the wheel's application to transport — appearing in the form of wheeled vehicles around the same period — the potter's wheel represents a pivotal step in humanity's mastery of rotational mechanics.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Potter%27s_wheel#History",
+    "read_more_links": [
+        {
+            "title": "Potter's Wheel - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Potter%27s_wheel"
+        },
+        {
+            "title": "History of Pottery - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pottery#History"
+        },
+        {
+            "title": "Uruk Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Uruk_period"
+        },
+        {
+            "title": "Ancient Technology - Britannica",
+            "url": "https://www.britannica.com/technology/history-of-technology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Making_pottery_products_5.jpg/300px-Making_pottery_products_5.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Making_pottery_products_5.jpg",
+            "caption": "Making pottery products",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Conner-prairie-pottery.jpg/300px-Conner-prairie-pottery.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Conner-prairie-pottery.jpg",
+            "caption": "Conner-prairie-pottery",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pottery_wheel.JPG/300px-Pottery_wheel.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Pottery_wheel.JPG",
+            "caption": "WHeel for making pottery",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hand_positions_used_during_wheel-throwing_pottery.png/300px-Hand_positions_used_during_wheel-throwing_pottery.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hand_positions_used_during_wheel-throwing_pottery.png",
+            "caption": "Examples of hand positions used during wheel-throwing. The images were extrac...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Coiling (pottery)",
+            "summary": "Method of making pottery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Aufbaukeramik_Wulsttechnik_7.JPG/250px-Aufbaukeramik_Wulsttechnik_7.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coiling_%28pottery%29"
+        },
+        {
+            "name": "Molding (process)",
+            "summary": "Shaping a liquid or plastic material by making it conform to a more rigid mold",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bronze_spearhead_mold.JPG/250px-Bronze_spearhead_mold.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Molding_%28process%29"
+        },
+        {
+            "name": "Studio pottery",
+            "summary": "Modern hand-made artistic pottery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Ian_Sprague_spheroidal_stoneware_vase_St_Kilda_1-12-2015.jpg/250px-Ian_Sprague_spheroidal_stoneware_vase_St_Kilda_1-12-2015.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Studio_pottery"
+        }
+    ],
+    "territory_geojson": null
+}

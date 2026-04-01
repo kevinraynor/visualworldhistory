@@ -1,0 +1,67 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3269,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8d9a176224828c5b6b0e12253ad0ff709548691cf29ebda6e2963cceed0c6750",
+    "summary": "The Treaty of Kyakhta (1727 AD) was the agreement between the Russian Empire and the [[event:2337|Qing dynasty]] of China that demarcated the Sino-Russian border in the region of modern Mongolia and Siberia, established regulated trade through two border trading towns (Kyakhta on the Russian side and Maimachin on the Chinese side), and maintained peaceful relations between the two empires for nearly a century. The treaty built on the earlier [[event:2444|Treaty of Nerchinsk]] (1689), which had resolved the eastern Amur River boundary dispute; Kyakhta addressed the central and western sectors of the frontier left unsettled by Nerchinsk, negotiating through Jesuit intermediaries and establishing borders through surveying and negotiation rather than conflict.\n\nThe Kyakhta trade established under the treaty became one of the most significant commercial routes of the 18th century — the primary mechanism through which Russian furs reached Chinese markets (where they were highly prized) and Chinese tea reached Russia (where tea consumption was rapidly increasing). The town of Kyakhta, despite its remote steppe location, became one of the wealthiest trading centers in the Russian Empire, processing millions of rubles' worth of goods annually. The treaty also functioned as a framework for managing diplomatic relations, establishing procedures for handling border incidents, the extradition of criminals, and the treatment of merchants. The Kyakhta system represented a relatively successful example of Qing management of a powerful northern neighbor — though Russian pressure would eventually overwhelm the Kyakhta framework in the 19th century, leading to Russian acquisition of additional territory through the unequal treaties of 1858 and 1860.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Kyakhta_(1727)",
+    "read_more_links": [
+        {
+            "title": "Kyakhta trade town Russian furs Chinese tea commerce",
+            "url": "https://en.wikipedia.org/wiki/Kyakhta"
+        },
+        {
+            "title": "Sino-Russian border demarcation Nerchinsk Kyakhta treaties",
+            "url": "https://en.wikipedia.org/wiki/Sino-Russian_border_conflicts"
+        },
+        {
+            "title": "Qing dynasty Russia diplomacy northern frontier management",
+            "url": "https://en.wikipedia.org/wiki/Qing_dynasty#Relations_with_Russia"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Sava Vladislavich",
+            "summary": "Russian diplomat (1669–1738)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sava_Vladislavi%C4%87_2023_stamp_of_Serbia.jpg/250px-Sava_Vladislavi%C4%87_2023_stamp_of_Serbia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sava_Vladislavich"
+        },
+        {
+            "name": "Peter II of Russia",
+            "summary": "Emperor of Russia from 1727 to 1730",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_of_Emperor_Peter_II_Alexeyevich_-_Google_Cultural_Institute.jpg/250px-Portrait_of_Emperor_Peter_II_Alexeyevich_-_Google_Cultural_Institute.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_II_of_Russia"
+        },
+        {
+            "name": "Yongzheng Emperor",
+            "summary": "Emperor of China from 1722 to 1735",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E9%9B%8D%E6%AD%A3%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.jpg/250px-%E9%9B%8D%E6%AD%A3%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yongzheng_Emperor"
+        },
+        {
+            "name": "Kangxi Emperor",
+            "summary": "Emperor of China from 1661 to 1722",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F.jpg/250px-%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kangxi_Emperor"
+        },
+        {
+            "name": "Dominique Parrenin",
+            "summary": "French Jesuit missionary to China (1665-1741)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dominique_Parennin.png/250px-Dominique_Parennin.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dominique_Parrenin"
+        },
+        {
+            "name": "Amursana",
+            "summary": "Dzungar Leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Amursana.jpg/250px-Amursana.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amursana"
+        }
+    ],
+    "territory_geojson": null
+}

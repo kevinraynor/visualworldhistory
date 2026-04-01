@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1264,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2b096d4779b9fe65c987230ff14e2c32467eb12c5de2b78a2c7365380ca86d91",
+    "summary": "Tell Qaramel is a prehistoric site located in the Afrin River valley in northwestern Syria, excavated by a Polish-Syrian team since the early 2000s. The site preserves evidence of occupation beginning as early as 10,700 BCE, making it contemporary with the earliest phases of [[event:3|Gobekli Tepe]] in southeastern Anatolia. Most remarkably, Tell Qaramel contains the remains of five round stone towers — the earliest multi-storey stone towers discovered anywhere in the world, preceding even the tower at [[event:2|Jericho]] by several centuries according to some analyses.\n\nThe towers at Tell Qaramel, typically 4–5 meters in diameter and preserved to heights of around 3 meters, are constructed from basalt cobbles without the use of mortar. Their purpose remains uncertain — they may have served as storage, as watchtowers, as ritual structures, or as a combination of functions. The site's location in a fertile river valley with access to both agricultural land and grazing resources suggests it was an important early sedentary or semi-sedentary community. Tell Qaramel contributes to a growing body of evidence that monumental stone construction arose independently in multiple locations across the Near East during the Pre-Pottery Neolithic period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tell_Qaramel",
+    "read_more_links": [
+        {
+            "title": "Pre-Pottery Neolithic A - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A"
+        },
+        {
+            "title": "Syria Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Syria"
+        },
+        {
+            "title": "Early Stone Architecture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Architecture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tell_Qaramel_vue_a%C3%A9rienne.jpg/300px-Tell_Qaramel_vue_a%C3%A9rienne.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tell_Qaramel_vue_a%C3%A9rienne.jpg",
+            "caption": "Vue aérienne du site archéologique de Tell Qaramel près d'Alep en Syrie",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Aleppo Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleppo_in_Syria_2016.svg/250px-Aleppo_in_Syria_2016.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aleppo_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2600,
+    "parent_id": 109,
+    "granularity": "notable",
+    "content_hash": "sha256:56483702b0431b97d412d01df8223def0beb36bf35a09c505cb3477dd867c1d4",
+    "summary": "The Napoleonic Code (Code civil des Français), promulgated on 21 March 1804, was a comprehensive civil legal code that replaced the bewildering patchwork of local laws, feudal customs, and Roman law that had governed France before the Revolution. It was Napoleon's most enduring legacy — a systematic, rational legal framework that spread across Europe with French conquest and influence and became the model for civil codes in dozens of countries on every continent.\n\nThe Code was the product of years of consultation among leading French jurists and represented a synthesis of the principles of the [[event:107|French Revolution]] — equality before the law, property rights, freedom of contract, secular civil authority — with the practical needs of a stable bourgeois society. It guaranteed legal equality for all male citizens, codified property rights, regulated inheritance, established civil (non-religious) marriage and divorce, and created a uniform system of contract law applicable throughout France.\n\nThe Code was not without its reactionary elements from a contemporary perspective. Women were placed under the authority of their husbands in most legal matters, having fewer rights than they had briefly enjoyed in the revolutionary period. Illegitimate children had significantly fewer inheritance rights than legitimate ones. These limitations reflected the Code's fundamental purpose of organizing a stable, bourgeois, property-owning society.\n\nThe Code's influence spread wherever French power reached: to the Netherlands, Belgium, Spain, the Italian states, Poland (the Duchy of Warsaw), and eventually — through imperial and colonial channels — to Quebec, Louisiana, the Caribbean, Latin America, and parts of Africa. Countries that adopted or adapted it include France, Belgium, Luxembourg, Italy, Spain, Portugal, Romania, and many others. The state of Louisiana in the United States and the province of Quebec in Canada maintain civil law systems derived from the Napoleonic tradition. The Code remains the foundation of French civil law to the present day, modified but not replaced.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleonic_Code",
+    "read_more_links": [
+        {
+            "title": "Code Napoléon – Britannica",
+            "url": "https://www.britannica.com/topic/Code-Napoleon"
+        },
+        {
+            "title": "French Civil Law – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/French_law"
+        },
+        {
+            "title": "Napoleonic Wars – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Speyer%2C_Historical_Museum_of_the_Palatinate_-_Code_civil_des_Fran%C3%A7ais.jpg/300px-Speyer%2C_Historical_Museum_of_the_Palatinate_-_Code_civil_des_Fran%C3%A7ais.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Speyer%2C_Historical_Museum_of_the_Palatinate_-_Code_civil_des_Fran%C3%A7ais.jpg",
+            "caption": "Napoleonic Code on display in the Historical Museum of the Palatinate",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_%283x4_close_cropped%29.jpg/300px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_%283x4_close_cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_%283x4_close_cropped%29.jpg",
+            "caption": "Jacques-Louis David - The Emperor Napoleon in His Study at the Tuileries - Google Art Project (3x4 close cropped)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Napoleon",
+            "summary": "French general and emperor (1769–1821)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon"
+        },
+        {
+            "name": "Jean-Étienne-Marie Portalis",
+            "summary": "French lawyer and politician (1746–1807)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jean-%C3%89tienne-Marie_Portalis_by_Pierre_Gautherot.jpg/250px-Jean-%C3%89tienne-Marie_Portalis_by_Pierre_Gautherot.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-%C3%89tienne-Marie_Portalis"
+        },
+        {
+            "name": "Justinian I",
+            "summary": "Roman emperor from 527 to 565",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/250px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justinian_I"
+        },
+        {
+            "name": "Charter",
+            "summary": "Grant of authority or rights",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/250px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charter"
+        },
+        {
+            "name": "National Constituent Assembly (France)",
+            "summary": "Revolutionary legislature of France, 1789 to 1791",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Emblem_of_the_French_national_assembly_%281789-1792%29.svg/250px-Emblem_of_the_French_national_assembly_%281789-1792%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/National_Constituent_Assembly_%28France%29"
+        },
+        {
+            "name": "National Assembly (French Revolution)",
+            "summary": "Revolutionary assembly in France from June to July 1789",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Etats_G%C3%A9n%C3%A9raux_-_grav%C3%A9s_par_Lamotte.jpg/250px-Etats_G%C3%A9n%C3%A9raux_-_grav%C3%A9s_par_Lamotte.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/National_Assembly_%28French_Revolution%29"
+        }
+    ],
+    "territory_geojson": null
+}

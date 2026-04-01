@@ -1,0 +1,87 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "2.0",
+    "event_id": 2738,
+    "summary": "The Green Revolution refers to a series of research, development, and technology transfer initiatives between the 1940s and 1970s that dramatically increased agricultural production in developing countries, particularly in Asia. The revolution centered on the development of high-yielding varieties of staple crops — especially wheat and rice — combined with expanded use of irrigation, synthetic fertilizers, and pesticides. American agronomist Norman Borlaug, working at the International Maize and Wheat Improvement Center in Mexico, was the central figure, developing semi-dwarf wheat varieties that dramatically increased yields and earned him the Nobel Peace Prize in 1970.\n\nThe impact in Asia was transformative. India, which had been experiencing recurring famines and was heavily dependent on American food aid in the 1960s, became largely self-sufficient in food production by the 1970s following the adoption of high-yielding wheat varieties in Punjab and other states. The Philippines and other Asian countries achieved similar breakthroughs with new rice varieties developed at the International Rice Research Institute. Hundreds of millions of people were lifted out of the direct threat of starvation.\n\nThe Green Revolution also had significant negative consequences. Intensive use of fertilizers and pesticides damaged soil quality and water systems. The adoption of monocultures reduced agricultural biodiversity. The high capital costs of the new technologies often favored larger, wealthier farmers, exacerbating rural inequality in some regions. High-input farming increased dependency on fossil fuel-derived chemicals.\n\nThe revolution transformed global food security debates, demonstrating that technological innovation could dramatically expand food production. It shifted the dominant narrative from Malthusian pessimism about population and food supply toward confidence in the capacity of agricultural science to meet human needs, a debate that continues as the world faces new challenges of sustainability and climate change.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Green_Revolution",
+    "read_more_links": [
+        {
+            "title": "Green Revolution - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Green-Revolution"
+        },
+        {
+            "title": "Norman Borlaug - Nobel Prize Biography",
+            "url": "https://www.nobelprize.org/prizes/peace/1970/borlaug/biographical/"
+        },
+        {
+            "title": "International Rice Research Institute",
+            "url": "https://www.irri.org/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg/300px-Maler_der_Grabkammer_des_Sennudem_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg",
+            "caption": "Maler der Grabkammer des Sennudem 001",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cropduster_spraying_pesticides.jpg/300px-Cropduster_spraying_pesticides.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cropduster_spraying_pesticides.jpg",
+            "caption": "Spraying pesticide in California",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Irrigation1.jpg/300px-Irrigation1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Irrigation1.jpg",
+            "caption": "Irrigation.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Norman_Borlaug.jpg/300px-Norman_Borlaug.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Norman_Borlaug.jpg",
+            "caption": "Norman Borlaug",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mechanization",
+            "summary": "Process of changing from working by hand or with animals to work with machinery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Agricola1.jpg/250px-Agricola1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mechanization"
+        },
+        {
+            "name": "Mohammad Reza Pahlavi",
+            "summary": "Shah of Iran from 1941 to 1979",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mohammad_Reza_Pahlavi_1973_portrait_%284x5_cropped%29.jpg/250px-Mohammad_Reza_Pahlavi_1973_portrait_%284x5_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
+        },
+        {
+            "name": "Henry A. Wallace",
+            "summary": "Vice President of the United States from 1941 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Henry-A.-Wallace-Townsend_%28cropped%29.jpeg/250px-Henry-A.-Wallace-Townsend_%28cropped%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_A._Wallace"
+        },
+        {
+            "name": "Manuel Ávila Camacho",
+            "summary": "President of Mexico from 1940 to 1946",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manuel_%C3%81vila_Camacho%2C_Retrato_%28cropped%29%282%29.png/250px-Manuel_%C3%81vila_Camacho%2C_Retrato_%28cropped%29%282%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_%C3%81vila_Camacho"
+        },
+        {
+            "name": "Lázaro Cárdenas",
+            "summary": "President of Mexico from 1934 to 1940",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lazaro_cardenas2.jpg/250px-Lazaro_cardenas2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%A1zaro_C%C3%A1rdenas"
+        },
+        {
+            "name": "Carlos P. Garcia",
+            "summary": "President of the Philippines (1957–1961)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Carlos_P_Garcia_photo.jpg/250px-Carlos_P_Garcia_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_P._Garcia"
+        }
+    ]
+}

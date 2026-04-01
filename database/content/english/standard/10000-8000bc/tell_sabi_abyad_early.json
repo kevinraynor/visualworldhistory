@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1371,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:cbca9bcc64f55eee92eb78813c9ebe881d014bd9a1fff67eaa6c7049ab55cc33",
+    "summary": "Tell Sabi Abyad is a multi-period archaeological site in the Balikh River valley of northwestern Syria, with occupation extending from the early Neolithic through the Halaf period. The earliest levels of the site date to approximately 7900 BCE and belong to the late PPNB or early ceramic Neolithic, with subsequent levels continuing through the sixth millennium BCE. The site has been the focus of extensive Dutch archaeological excavations since the 1980s.\n\nThe late Neolithic and Halaf period levels at Tell Sabi Abyad are particularly well-studied, but the site's early Neolithic phase contributes to the picture of early farming villages in the upper Euphrates and Balikh valley region. The early inhabitants cultivated emmer wheat, einkorn, lentils, and flax, and herded sheep, goats, and cattle. The site eventually became one of the most intensively studied sequences in the Near East for understanding the development of social complexity, long-distance exchange networks (especially obsidian from Anatolia), and the emergence of administrative technologies (clay tokens and sealings) that preceded writing during the Halaf period. Tell Sabi Abyad's deep stratigraphic sequence provides a model for long-term cultural development in the northern Levant.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tell_Sabi_Abyad",
+    "read_more_links": [
+        {
+            "title": "Halaf Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Halaf_culture"
+        },
+        {
+            "title": "Balikh River - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Balikh_River"
+        },
+        {
+            "title": "Syria Neolithic - Britannica",
+            "url": "https://www.britannica.com/place/Syria/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Excavations_of_Tell_Sabi_Abyad.jpg/300px-Excavations_of_Tell_Sabi_Abyad.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Excavations_of_Tell_Sabi_Abyad.jpg",
+            "caption": "Excavations at Tell Sabi Abyad",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Skeletons_and_pottery_in_Tell_Sabi_Abyad.jpg/300px-Skeletons_and_pottery_in_Tell_Sabi_Abyad.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Skeletons_and_pottery_in_Tell_Sabi_Abyad.jpg",
+            "caption": "Skeletons and pottery in Tell Sabi Abyad",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Skeletons_and_pottery_in_Tell_Sabi_Abyad_%28detail%29.jpg/300px-Skeletons_and_pottery_in_Tell_Sabi_Abyad_%28detail%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Skeletons_and_pottery_in_Tell_Sabi_Abyad_%28detail%29.jpg",
+            "caption": "Skeletons and pottery in Tell Sabi Abyad (detail)",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Stone_palettes_in_Tell_Sabi_Abyad_%28detail%29.jpg/300px-Stone_palettes_in_Tell_Sabi_Abyad_%28detail%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Stone_palettes_in_Tell_Sabi_Abyad_%28detail%29.jpg",
+            "caption": "Excavations in Tell Sabi Abyad (detail). Stone plates, Tell Sabi Abyad",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

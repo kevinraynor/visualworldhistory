@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1709,
+    "parent_id": 41,
+    "granularity": "notable",
+    "content_hash": "sha256:139f215fc64f35de9d05a998dae07dedba6d584d022d0da3d08c165da92f3128",
+    "summary": "The Step Pyramid of Djoser at Saqqara, built around 2670–2650 BC, represents a decisive moment in architectural history — the transition from flat-topped mastaba tombs to the towering pyramid form that would define ancient Egyptian funerary architecture for centuries. Commissioned by Pharaoh Djoser of the Third Dynasty and designed by the polymath [[event:1719|Imhotep]], the pyramid rose through six successive steps to a height of approximately 62 metres, making it the first monumental stone structure in the world.\n\nBefore the Step Pyramid, Egyptian tombs had been constructed primarily from mudbrick. Imhotep's revolutionary decision to use limestone blocks and to stack mastaba-like tiers one atop another produced not only a new architectural form but also an entirely new kind of sacred landscape. The pyramid stood at the centre of a vast funerary complex enclosed by a limestone wall roughly 1.6 kilometres in perimeter, within which were courts, chapels, and structures intended for the king's eternal ritual activities.\n\nThe complex at Saqqara included a Heb-Sed court, where ceremonies renewing the pharaoh's power were intended to be conducted in the afterlife, and a series of dummy buildings — facades with no interiors — whose presence suggests the complex was conceived as a permanent setting for spiritual rites. Underground, an intricate system of shafts and galleries contained blue faience tiles imitating reed matting, and walls decorated with carved reliefs of Djoser performing ritual acts.\n\nThe Step Pyramid's construction had profound consequences for subsequent Egyptian kingship and religion. It established the pyramid as the dominant symbol of royal authority and divine aspiration, a form that reached its apogee in the monuments of the Fourth Dynasty, including [[event:1708|the Great Pyramid of Giza]]. The tradition of pyramid-building initiated here would endure for over a thousand years, spreading south to Nubia and deeply influencing how ancient Egyptians conceptualised the afterlife and sacred space.\n\nDjoser's pyramid complex is today considered one of the most important archaeological sites in Egypt. Extensive restoration work in the twentieth and early twenty-first centuries has sought to preserve its fragile limestone chambers and colonnaded courts. It was declared a UNESCO World Heritage Site as part of the Memphis necropolis, and it remains the oldest stone building complex in the world still substantially preserved.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pyramid_of_Djoser",
+    "read_more_links": [
+        {
+            "title": "Imhotep – Architect and Polymath",
+            "url": "https://en.wikipedia.org/wiki/Imhotep"
+        },
+        {
+            "title": "Third Dynasty of Egypt",
+            "url": "https://en.wikipedia.org/wiki/Third_Dynasty_of_Egypt"
+        },
+        {
+            "title": "Saqqara necropolis",
+            "url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "title": "Ancient Egyptian architecture",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_architecture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/26685-_elaborate_blue_faience_inlays_from_Djoser%27s_mortuary_complex.jpg/300px-26685-_elaborate_blue_faience_inlays_from_Djoser%27s_mortuary_complex.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/26685-_elaborate_blue_faience_inlays_from_Djoser%27s_mortuary_complex.jpg",
+            "caption": "Elaborate blue faience inlays from Djoser's mortuary complex at Saqqara",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Saqqara_BW_1.jpg/300px-Saqqara_BW_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Saqqara_BW_1.jpg",
+            "caption": "Saqqara, entrance to the funerary complex of Djoser",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Saqqara%2C_tempio_di_Djoser%2C_02.JPG/300px-Saqqara%2C_tempio_di_Djoser%2C_02.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Saqqara%2C_tempio_di_Djoser%2C_02.JPG",
+            "caption": "Step pyramid complex of Djoser",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Saqqara%2C_Ancient_Egypt.jpg/300px-Saqqara%2C_Ancient_Egypt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Saqqara%2C_Ancient_Egypt.jpg",
+            "caption": "Saqqara, ancient burial grounds of Egyptian royalty, the necropolis for the a...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Step pyramid",
+            "summary": "Architectural structure that uses flat platforms or steps to form geometric pyramid",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg/250px-Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Step_pyramid"
+        },
+        {
+            "name": "Saqqara",
+            "summary": "Burial ground in Giza Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/250px-Saqqara_pyramid_ver_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "name": "Djoser",
+            "summary": "Pharaoh of the third dynasty of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Djoser_cropped.jpg/250px-Djoser_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Djoser"
+        },
+        {
+            "name": "Anedjib",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Anedjib_Closeup.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anedjib"
+        },
+        {
+            "name": "Semerkhet",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PotterySherdWithNameOfSemerkhet-PetrieMuseum-August21-08.jpg/250px-PotterySherdWithNameOfSemerkhet-PetrieMuseum-August21-08.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Semerkhet"
+        },
+        {
+            "name": "Nynetjer",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Statue_of_Ninetjer_Rijksmuseum_van_Oudheden_03_%28cropped%29.jpg/250px-Statue_of_Ninetjer_Rijksmuseum_van_Oudheden_03_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nynetjer"
+        }
+    ],
+    "territory_geojson": null
+}

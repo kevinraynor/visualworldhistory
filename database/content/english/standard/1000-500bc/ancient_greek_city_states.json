@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 64,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1aba4461f4f980eefd42ee8418baf91ff28bd05637895334e8e5ad93aff51eb3",
+    "summary": "The Ancient Greek city-states (poleis, singular polis) were the defining political form of Greek civilization from roughly the 8th century BC through the Classical period — independent self-governing communities of citizens, each with its own laws, customs, government, and civic identity, unified by shared language, religion, and cultural practices but perpetually in rivalry and occasional alliance with one another. The estimated 1,000+ city-states ranged from Athens (population perhaps 300,000) to tiny communities of a few hundred.\n\nThe polis was more than a city — it was an entire political community defined by its citizens (free adult males), who collectively constituted the state. Citizenship conferred political rights and military obligations; the identity of 'Athenian' or 'Spartan' was fundamental to personal identity in a way that transcended modern national identification. The city-states developed wildly different constitutions — oligarchy, democracy, tyranny, the unique dual-king system of Sparta — and their competition produced continuous military innovation. Their collective defense repelled the Persian invasions ([[event:1001|Greco-Persian Wars]]), while their internecine warfare produced the [[event:1010|Peloponnesian War]] that permanently weakened them before Macedonian conquest. The polis as political form — government as the collective self-organization of citizens — became the foundational concept of Western political philosophy through Aristotle's analysis.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polis",
+    "read_more_links": [
+        {
+            "title": "Greek citizenship concept",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Greek_law#Citizenship"
+        },
+        {
+            "title": "City-states list ancient Greece",
+            "url": "https://en.wikipedia.org/wiki/List_of_ancient_Greek_cities"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/View_of_the_archaeological_site_of_the_Areopagus_from_its_fence_on_September_25%2C_2020.jpg/300px-View_of_the_archaeological_site_of_the_Areopagus_from_its_fence_on_September_25%2C_2020.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/View_of_the_archaeological_site_of_the_Areopagus_from_its_fence_on_September_25%2C_2020.jpg",
+            "caption": "View of the archaeological site of the Areopagus from its fence on September ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg/300px-Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+            "caption": "View from Philopappos Hill in Athens (Attica, Greece) — Acropolis of Athens",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Romulus_and_Remus_%E7%BE%85%E6%85%95%E7%9B%A7%E6%96%AF%E8%88%87%E7%91%9E%E6%91%A9%E6%96%AF_-_panoramio.jpg/300px-Romulus_and_Remus_%E7%BE%85%E6%85%95%E7%9B%A7%E6%96%AF%E8%88%87%E7%91%9E%E6%91%A9%E6%96%AF_-_panoramio.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Romulus_and_Remus_%E7%BE%85%E6%85%95%E7%9B%A7%E6%96%AF%E8%88%87%E7%91%9E%E6%91%A9%E6%96%AF_-_panoramio.jpg",
+            "caption": "Romulus and Remus  羅慕盧斯與瑞摩斯",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Massy_Plaque_Fustel_de_Coulanges.JPG/300px-Massy_Plaque_Fustel_de_Coulanges.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Massy_Plaque_Fustel_de_Coulanges.JPG",
+            "caption": "Plaque hommage à Fustel de Coulanges, à Massy, France",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Archon",
+            "summary": "Greek term for a ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fragmentary_inscription_bearing_the_names_of_6_city_archons_%28politarchs%29%2C_2nd_c._BC%2C_Archaeological_Museum%2C_Pella_%286929923448%29.jpg/250px-Fragmentary_inscription_bearing_the_names_of_6_city_archons_%28politarchs%29%2C_2nd_c._BC%2C_Archaeological_Museum%2C_Pella_%286929923448%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archon"
+        },
+        {
+            "name": "Dionysius of Halicarnassus",
+            "summary": "1st-century BC Greek historian and teacher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dionigi_di_Alicarnasso.jpg/250px-Dionigi_di_Alicarnasso.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus"
+        },
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Eric Voegelin",
+            "summary": "American philosopher (1901–1985)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/German_Conservatism_Flags_Symbol.svg/250px-German_Conservatism_Flags_Symbol.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Voegelin"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Romulus",
+            "summary": "King of Rome from 753 to 716 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg/250px-Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romulus"
+        }
+    ],
+    "territory_geojson": null
+}

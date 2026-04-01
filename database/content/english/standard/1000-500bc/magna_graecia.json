@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1987,
+    "parent_id": 1927,
+    "granularity": "notable",
+    "content_hash": "sha256:cbae54020ce0cf3effdc64062b1e0fd9a1285779785168909a9a9525c20cb7f6",
+    "summary": "Magna Graecia ('Great Greece,' c. 750–250 BC) was the region of southern Italy and Sicily colonized by Greek city-states during the Archaic period, which became one of the most culturally productive and economically prosperous parts of the ancient Mediterranean world. The region extended from Cumae (near Naples) and Posidonia (Paestum) in the north, through the 'instep' of Italy — Tarentum (Taranto), Croton, Sybaris, Locri — to the Strait of Messina and across to Sicily with its great cities Syracuse, Akragas (Agrigento), and Selinus.\n\nMagna Graecia was not merely a cultural extension of Greece but a zone of creative innovation. Pythagoras established his philosophical community at Croton; Parmenides and Zeno developed their logical paradoxes at Elea; the Italian Socratic tradition influenced Plato; Archimedes and Theocritus flourished at [[event:3817|Siege of Syracuse]]'s Syracuse. The region's agricultural prosperity (Sybaris became proverbially wealthy — hence 'sybarite') and its trade connections with the Etruscans and early Romans made it a critical conduit for Greek culture entering Italy. Greek contact with the Etruscans via Magna Graecia transmitted the alphabet, wine culture, architectural forms, and mythological imagery that shaped early Roman civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magna_Graecia",
+    "read_more_links": [
+        {
+            "title": "Sybaris wealthy city",
+            "url": "https://en.wikipedia.org/wiki/Sybaris"
+        },
+        {
+            "title": "Greek temples at Paestum",
+            "url": "https://en.wikipedia.org/wiki/Paestum"
+        },
+        {
+            "title": "Magna Graecia cultural transmission",
+            "url": "https://en.wikipedia.org/wiki/Magna_Graecia#Cultural_impact"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Archytas_of_Taras.jpg/300px-Archytas_of_Taras.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Archytas_of_Taras.jpg",
+            "caption": "Archytas of Taras",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg/300px-1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "caption": "Monin Carte d'Ancienne Italie Atlas Universel de Géographie Ancienne et Moderne",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%22582_v._Chr._wurde_die_Stadt_Akragas_%28Agrigent%29_von_Griechischen_Siedlern_gegr%C3%BCndet.%22_14.jpg/300px-%22582_v._Chr._wurde_die_Stadt_Akragas_%28Agrigent%29_von_Griechischen_Siedlern_gegr%C3%BCndet.%22_14.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%22582_v._Chr._wurde_die_Stadt_Akragas_%28Agrigent%29_von_Griechischen_Siedlern_gegr%C3%BCndet.%22_14.jpg",
+            "caption": "Walking tour of ancient Agrigento.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Siracusa%2C_Duomo.jpg/300px-Siracusa%2C_Duomo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Siracusa%2C_Duomo.jpg",
+            "caption": "Le massicce colonne doriche del tempio greco di Atena, risalenti al V a.C., i...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Pythagoras",
+            "summary": "Greek philosopher (c. 570 – c. 495 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/250px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pythagoras"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        }
+    ],
+    "territory_geojson": null
+}

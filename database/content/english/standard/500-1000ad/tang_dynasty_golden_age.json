@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2152,
+    "parent_id": 87,
+    "granularity": "notable",
+    "content_hash": "sha256:6df9d8971469b4c7caa1facc974d720b0feec32dcd057178d07893e43fb125d5",
+    "summary": "The Tang Dynasty Golden Age (c. 618–755 AD, particularly under Emperor Xuanzong, r. 712–756 AD) was the high point of Chinese imperial civilization — a period of extraordinary political stability, territorial expansion, economic prosperity, and cultural achievement during which the [[event:87|Tang Dynasty's]] capital Chang'an was the world's largest and most cosmopolitan city, housing perhaps one million inhabitants from across Eurasia. The golden age produced the greatest flowering of Chinese poetry: Li Bai (also known as Li Po), considered China's greatest lyric poet, and Du Fu, considered China's greatest moral poet, both wrote under Xuanzong's reign.\n\nThe golden age was characterized by openness to foreign cultures remarkable for any premodern state: Nestorian Christian, Zoroastrian, Manichaean, and Buddhist temples coexisted in Chang'an; Persian, Arab, Central Asian, Korean, and Japanese merchants and diplomats thronged its markets; foreign music, dance, and fashion were fashionable at court. The Tang examination system was refined to select officials on merit rather than birth, producing a more capable bureaucracy. Buddhism reached its peak of Chinese imperial patronage — though Empress Wu's promotion of Buddhism would eventually trigger a backlash. The golden age ended abruptly with the [[event:2153|An Lushan Rebellion]] (755 AD), which devastated the empire and permanently weakened the dynasty, though a partial recovery allowed the Tang to persist until 907 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tang_dynasty#Culture",
+    "read_more_links": [
+        {
+            "title": "Li Bai Du Fu Tang poetry",
+            "url": "https://en.wikipedia.org/wiki/Tang_poetry"
+        },
+        {
+            "title": "Xuanzong emperor reign",
+            "url": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+        },
+        {
+            "title": "Chang'an cosmopolitan capital",
+            "url": "https://en.wikipedia.org/wiki/Chang%27an#Tang_dynasty"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jingangjing.jpg/300px-Jingangjing.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jingangjing.jpg",
+            "caption": "Frontispiece, Diamond Sutra from Cave 17, Dunhuang, ink on paper.\nA page from...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Civilserviceexam1.jpg/300px-Civilserviceexam1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Civilserviceexam1.jpg",
+            "caption": "Civil service exam candidates gather around the wall where results had been p...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nanchan_Temple_1.JPG/300px-Nanchan_Temple_1.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Nanchan_Temple_1.JPG",
+            "caption": "The main hall of Nanchan Temple, near Wutaishan, Shanxi, China",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Li_Xian%27s_tomb%2C_palace_ladies.jpg/300px-Li_Xian%27s_tomb%2C_palace_ladies.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Li_Xian%27s_tomb%2C_palace_ladies.jpg",
+            "caption": "From Paludan's source: \"A group of palace ladies in the gardens while a hoopo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Gaozu of Tang",
+            "summary": "Founder and Emperor of Tang Dynasty of China (618 - 626)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/250px-TangGaozu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Tang"
+        },
+        {
+            "name": "Emperor Taizong of Tang",
+            "summary": "Emperor of China from 626 to 649",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/250px-TangTaizong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang"
+        },
+        {
+            "name": "Emperor Xuanzong of Tang",
+            "summary": "Emperor of the Tang dynasty from 713 to 756",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg/250px-%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+        },
+        {
+            "name": "Yan Zhenqing",
+            "summary": "Chinese calligrapher, military general, and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%E9%A2%9C%E9%B2%81%E5%85%AC.jpg/250px-%E9%A2%9C%E9%B2%81%E5%85%AC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yan_Zhenqing"
+        },
+        {
+            "name": "Wu Zetian",
+            "summary": "Empress of China from 690 to 705",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png/250px-%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wu_Zetian"
+        },
+        {
+            "name": "Jiedushi",
+            "summary": "Imperial Chinese regional military governors",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ten_Jiedushi_of_Tang.png/250px-Ten_Jiedushi_of_Tang.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jiedushi"
+        }
+    ],
+    "territory_geojson": null
+}

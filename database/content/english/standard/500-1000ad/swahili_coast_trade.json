@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2178,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e375afe217135ad5c49b20c4bef790251103887f5f8ca46ab39e2418ffd8267a",
+    "summary": "The Swahili Coast trade network (c. 8th–16th centuries AD) was the commercial system that made East Africa a prosperous participant in the Indian Ocean world economy — a chain of city-states along the coast of modern Kenya, Tanzania, and Mozambique (and on offshore islands like Zanzibar and Kilwa) that exported African gold, ivory, iron, and enslaved people in exchange for Indian textiles, Persian glass, Chinese ceramics, and other luxury goods. The Swahili culture that developed along this coast was a distinctive synthesis of African Bantu, Arab, and later Persian and Indian elements, producing the Swahili language (a Bantu language with significant Arabic vocabulary) and a mercantile civilization of stone-built cities.\n\nThe most significant Swahili city-state was Kilwa Kisiwani (on an island off modern Tanzania), which from the 10th–16th centuries was the most important trading port in the region, controlling the gold trade from the [[event:2177|Zimbabwe plateau]] through its network of inland partners. Ibn Battuta visited Kilwa in 1331 and described it as one of the most beautiful cities in the world. Chinese Ming dynasty treasure fleets under Zheng He visited Kilwa and other Swahili ports in the early 15th century, bringing giraffes back to China as gifts for the emperor — a vivid illustration of the East African coast's integration into the wider Indian Ocean world. The Portuguese arrival in 1498 (Vasco da Gama's fleet) disrupted and eventually subjugated the Swahili city-states, redirecting their trade wealth to European benefit.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Swahili_coast",
+    "read_more_links": [
+        {
+            "title": "Kilwa Kisiwani city-state",
+            "url": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani"
+        },
+        {
+            "title": "Swahili language culture synthesis",
+            "url": "https://en.wikipedia.org/wiki/Swahili_people"
+        },
+        {
+            "title": "Indian Ocean trade network Africa",
+            "url": "https://en.wikipedia.org/wiki/Indian_Ocean_trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/300px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png",
+            "caption": "Proto-historic and historic maritime trade network of the Austronesian people...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Slavery_in_Zanzibar_RMG_E9093.tiff/300px-Slavery_in_Zanzibar_RMG_E9093.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Slavery_in_Zanzibar_RMG_E9093.tiff",
+            "caption": "Slavery in Zanzibar\nThis extraordinary lantern slide is inscribed: ‘An Arab m...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zanzibar_from_sea.jpg/300px-Zanzibar_from_sea.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Zanzibar_from_sea.jpg",
+            "caption": "Zanzibar Stone Town.\n\nPhotograped by Brocken Inaglory",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zanzibar_Slave_Market%2C_1860_-_Stocqueler.JPG/300px-Zanzibar_Slave_Market%2C_1860_-_Stocqueler.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Zanzibar_Slave_Market%2C_1860_-_Stocqueler.JPG",
+            "caption": "Drawing of a slave market in Zanzibar in 1860",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Malindi",
+            "summary": "Municipality in Kilifi County, Kenya",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pillar_of_Vasco_da_Gama.jpg/250px-Pillar_of_Vasco_da_Gama.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Malindi"
+        },
+        {
+            "name": "Zanj",
+            "summary": "Name used by medieval Muslim geographers to refer to a portion of Southeast Africa",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Swahili_coast.png/250px-Swahili_coast.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zanj"
+        },
+        {
+            "name": "Kilwa Sultanate",
+            "summary": "Swahili sultanate (957–1513)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_used_in_the_east_coast_of_Tanzania_according_to_a_Portuguese_1576_map.svg/250px-Flag_used_in_the_east_coast_of_Tanzania_according_to_a_Portuguese_1576_map.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kilwa_Sultanate"
+        },
+        {
+            "name": "Vasco da Gama",
+            "summary": "Portuguese explorer (c. 1460s – 1524)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/250px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+        },
+        {
+            "name": "Francisco de Almeida",
+            "summary": "Portuguese nobleman and soldier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Retrato_de_D._Francisco_de_Almeida_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png/250px-Retrato_de_D._Francisco_de_Almeida_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_de_Almeida"
+        },
+        {
+            "name": "Afonso de Albuquerque",
+            "summary": "Portuguese general and conquistador (1453–1515)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Retrato_de_Afonso_de_Albuquerque_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png/250px-Retrato_de_Afonso_de_Albuquerque_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Afonso_de_Albuquerque"
+        }
+    ],
+    "territory_geojson": null
+}

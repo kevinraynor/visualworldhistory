@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2049,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:eff2981ec8fda8c18ef39264a1986df378755bb7278c8925d98f874986cee4da",
+    "summary": "The spread of Buddhism to China (c. 1st–5th centuries AD) was one of the most consequential cultural transmissions in world history — the introduction of a sophisticated Indian religious and philosophical tradition into China via the Silk Road, which would eventually transform Chinese civilization as profoundly as Christianity transformed Rome. Buddhism arrived gradually, with the first reliable Chinese records dating to the Han dynasty (around 65 AD). The Kushan Empire's control of the Silk Road corridor through Central Asia was critical to this transmission, as was the [[event:2050|Kushan Empire's]] patronage of Buddhism.\n\nThe real explosion of Buddhism in China came during the political chaos of the 3rd–5th centuries, when the [[event:2047|Jin dynasty's]] collapse and the [[event:2048|Northern and Southern Dynasties]] period created conditions where foreign ideas found ready audiences. Translation projects — especially by the monk Kumārajīva (344–413 AD), who arrived in Chang'an in 401 and translated dozens of key sutras into elegant Chinese — made Buddhist texts accessible and intellectually compelling to educated Chinese audiences. Northern Wei emperors became devoted Buddhist patrons, funding the spectacular cave temple complexes at Yungang and Longmen. By the 5th–6th centuries, Buddhism had been thoroughly naturalized into Chinese culture, blending with Daoist concepts and eventually producing distinctly Chinese forms like Chan (Zen) Buddhism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Buddhism_in_China",
+    "read_more_links": [
+        {
+            "title": "Silk Road Buddhist transmission",
+            "url": "https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism"
+        },
+        {
+            "title": "Kumarajiva translator monk",
+            "url": "https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva"
+        },
+        {
+            "title": "Chinese Buddhist cave temples",
+            "url": "https://en.wikipedia.org/wiki/Chinese_Buddhist_cave_temples"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/1_Seda_facing_south.jpg/300px-1_Seda_facing_south.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/1_Seda_facing_south.jpg",
+            "caption": "seda sertar garze tibetan autonomous prefecture sichuan larung gar buddhist i...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MengleDaFo.jpg/300px-MengleDaFo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/MengleDaFo.jpg",
+            "caption": "Maingate of the Temple, Jinghong, Xishuangbanna, Yunnan, China.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Leshan_Giant_Buddha_%281%29.jpg/300px-Leshan_Giant_Buddha_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Leshan_Giant_Buddha_%281%29.jpg",
+            "caption": "Leshan Giant Buddha",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lingyin_temple_18_armed_cundi.jpeg/300px-Lingyin_temple_18_armed_cundi.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Lingyin_temple_18_armed_cundi.jpeg",
+            "caption": "18-armed Cundi Buddha, a statue from Lingyin Temple in Hangzhou, Zhejiang Pro...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Wuzong of Tang",
+            "summary": "Emperor of China from 840 to 846",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tang_Wuzong.jpg/250px-Tang_Wuzong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Wuzong_of_Tang"
+        },
+        {
+            "name": "14th Dalai Lama",
+            "summary": "Spiritual leader of Tibet since 1940",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/250px-The_Dalai_Lama_in_2012.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
+        },
+        {
+            "name": "Sêrtar County",
+            "summary": "County in Sichuan, Tibet, China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Location_of_S%C3%AArtar_within_Sichuan_%28China%29.png/250px-Location_of_S%C3%AArtar_within_Sichuan_%28China%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%AArtar_County"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2008,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b62104c7277599c7ba92db7430d228d0a276c2dc65f956b9363b82a91acedd64",
+    "summary": "The Mesoamerican Long Count calendar (first attested c. 300 BC, but with probable Olmec-era origins) was a linear counting system used across Mesoamerican civilizations — most elaborately by the Maya — to record historical dates and astronomical cycles as positions in an unambiguous sequential count from a fixed starting point (conventionally equivalent to August 11 or September 6, 3114 BC in the Gregorian calendar). Unlike the cyclical 260-day ritual calendar (Tzolk'in) and 365-day solar calendar (Haab'), the Long Count could specify any date within a 5,125-year cycle without ambiguity.\n\nThe Long Count system counted in units of 20 days (uinal), 360 days (tun), 7,200 days (k'atun), and 144,000 days (b'ak'tun), allowing precise historical dating. Its invention represented a significant intellectual achievement — the concept of absolute linear time measured from a fixed origin is not obvious and required sophisticated mathematical and astronomical thinking. The system became the basis for Maya historical inscriptions recording the reigns of kings, battles, and astronomical observations with extraordinary precision. The completion of the 13th b'ak'tun (December 21, 2012 in the Gregorian calendar) attracted popular media attention as a 'Maya apocalypse' prediction, which represented a misunderstanding of the calendar's structure — it was simply a major cycle completion, not an endpoint.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar",
+    "read_more_links": [
+        {
+            "title": "Maya calendar systems",
+            "url": "https://en.wikipedia.org/wiki/Maya_calendar"
+        },
+        {
+            "title": "Long Count creation date",
+            "url": "https://en.wikipedia.org/wiki/Mesoamerican_Long_Count_calendar#The_creation_date"
+        },
+        {
+            "title": "2012 phenomenon debunked",
+            "url": "https://en.wikipedia.org/wiki/2012_phenomenon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/La_Mojarra_Estela_1_%28Escritura_superior%29.jpg/300px-La_Mojarra_Estela_1_%28Escritura_superior%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/La_Mojarra_Estela_1_%28Escritura_superior%29.jpg",
+            "caption": "Detalle de la escritura en la parte superior de la Estela 1 de La Mojarra.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estela_C_de_Tres_Zapotes.jpg/300px-Estela_C_de_Tres_Zapotes.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Estela_C_de_Tres_Zapotes.jpg",
+            "caption": "Estela C de Tres Zapotes (encontrada en el Cerro de las Mesas al oeste de las...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/East_side_of_stela_C%2C_Quirigua.PNG/300px-East_side_of_stela_C%2C_Quirigua.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/East_side_of_stela_C%2C_Quirigua.PNG",
+            "caption": "East side of stela C, Quirigua with mythical creation date in 13 (or 0) baktu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diego de Landa",
+            "summary": "16th-century Spanish Catholic bishop in colonial Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Diego_de_Landa.jpg/250px-Diego_de_Landa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_de_Landa"
+        },
+        {
+            "name": "Bernardino de Sahagún",
+            "summary": "16th-century Franciscan friar and missionary in colonial Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bernardino_de_Sahag%C3%BAn_%282%29.jpg/250px-Bernardino_de_Sahag%C3%BAn_%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bernardino_de_Sahag%C3%BAn"
+        },
+        {
+            "name": "Nicolaus Copernicus",
+            "summary": "Mathematician and astronomer (1473–1543)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/250px-Nikolaus_Kopernikus_MOT.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus"
+        },
+        {
+            "name": "Popol Vuh",
+            "summary": "Text recounting Maya mythology and history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Popol_vuh.jpg/250px-Popol_vuh.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Popol_Vuh"
+        }
+    ],
+    "territory_geojson": null
+}

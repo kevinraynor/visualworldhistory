@@ -1,0 +1,90 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 43,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:bd01cd27ea33c9c00cb6ff7c951662338beb554882207c984c933288879e2158",
+    "summary": "Stonehenge, located on Salisbury Plain in present-day Wiltshire, England, was constructed in multiple phases between approximately 3000 and 1500 BCE, with the most dramatic and recognizable work taking place during the period 2600 to 2000 BCE. The monument stands as one of the most studied and debated prehistoric sites in the world, a testament to the organizational capacity and astronomical knowledge of Neolithic and Early Bronze Age communities in northwestern Europe.\n\nThe earliest phase of the site involved the excavation of a circular ditch and bank enclosure, accompanied by a ring of pits known as the Aubrey Holes, which may have held standing timbers or bluestones. Around 2500 BCE, the monument entered its most ambitious phase: the transport and erection of the famous sarsen stones, each weighing up to 25 tonnes, sourced from the Marlborough Downs approximately 25 kilometers to the north. The distinctive trilithon arrangement — pairs of upright stones capped with horizontal lintels — required precise fitting techniques including mortise-and-tenon and tongue-and-groove joints, more commonly associated with carpentry than stonework.\n\nOf equal engineering significance is the presence of the bluestones — smaller igneous and volcanic rocks weighing up to 4 tonnes — which originated in the Preseli Hills of Wales, some 250 kilometers distant. The means by which these stones were transported has generated sustained scholarly debate, with proposed methods including overland sledging, river and coastal rafting, or some combination of both. Recent research has also raised the possibility that glacial transport moved the bluestones part of the way during an earlier ice age, though the deliberate final placement at Salisbury Plain remains clearly a human act.\n\nAstronomical alignment is central to Stonehenge's design. The axis of the monument is oriented toward the midsummer sunrise and, reciprocally, the midwinter sunset, suggesting the site served ritual purposes tied to the solar calendar. Whether this reflects a solar cult, agricultural ceremonial practice, or something else entirely remains uncertain. Archaeological evidence of cremated human remains deposited at the site over many centuries indicates Stonehenge also functioned as a burial ground, possibly one associated with ancestral veneration. Isotopic analysis of the remains has revealed that some individuals buried there came from distant regions, pointing to Stonehenge as a site of broad regional or even interregional significance.\n\nStonehenge was not built in isolation. It belongs to a wider ritual landscape that includes the Avebury stone circles, the West Kennet long barrow, Silbury Hill, and numerous barrow cemeteries, all situated within a few kilometers. This landscape speaks to a sustained investment in sacred geography by the communities of southern Britain across nearly two millennia. The construction of Stonehenge and related [[event:35|megalithic monuments across Western Europe]] reflects a broad tradition of large-scale communal labor and monumental architecture that predates urban civilization in this region by centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stonehenge",
+    "read_more_links": [
+        {
+            "title": "Stonehenge - Britannica",
+            "url": "https://www.britannica.com/topic/Stonehenge"
+        },
+        {
+            "title": "Megalith - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Megalith"
+        },
+        {
+            "title": "Avebury - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Avebury"
+        },
+        {
+            "title": "Prehistoric Britain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Britain"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Stonehenge_visitors_centre.png/300px-Stonehenge_visitors_centre.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Stonehenge_visitors_centre.png",
+            "caption": "The completed Visitors Centre at Stonehenge.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Stone_Plan.jpg/300px-Stone_Plan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stone_Plan.jpg",
+            "caption": "Plan of the central Stone Structure at Stonehenge as it survives today. Stone...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stone_Henge_1920_restoration_-_newspaperphoto.jpg/300px-Stone_Henge_1920_restoration_-_newspaperphoto.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Stone_Henge_1920_restoration_-_newspaperphoto.jpg",
+            "caption": "A depiction of the 1920 restoration work on Stonehenge from a newspaper.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stonehenge_Heel_Stone_-_panoramio_%282%29.jpg/300px-Stonehenge_Heel_Stone_-_panoramio_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Stonehenge_Heel_Stone_-_panoramio_%282%29.jpg",
+            "caption": "Stonehenge Heel Stone",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Wiltshire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bullocks_on_a_hillock%2C_Marlborough_Downs%2C_Wiltshire_-_geograph.org.uk_-_4609166.jpg/250px-Bullocks_on_a_hillock%2C_Marlborough_Downs%2C_Wiltshire_-_geograph.org.uk_-_4609166.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wiltshire"
+        },
+        {
+            "name": "Mortise and tenon",
+            "summary": "Woodworking joint",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mortise_and_tenon_joint.svg/250px-Mortise_and_tenon_joint.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mortise_and_tenon"
+        },
+        {
+            "name": "Lucas de Heere",
+            "summary": "Flemish painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lucas_de_Heere_-_Triple_profile_portrait.jpg/250px-Lucas_de_Heere_-_Triple_profile_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucas_de_Heere"
+        },
+        {
+            "name": "University of Buckingham",
+            "summary": "Private university in Buckinghamshire, England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/University_of_Buckingham_coat_of_arms.svg/250px-University_of_Buckingham_coat_of_arms.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Buckingham"
+        },
+        {
+            "name": "John Aubrey",
+            "summary": "English writer and antiquarian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/John_Aubrey.jpg/250px-John_Aubrey.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Aubrey"
+        }
+    ],
+    "territory_geojson": null
+}

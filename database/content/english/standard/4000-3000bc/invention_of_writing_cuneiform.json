@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1619,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:c20b9572be2a49238d950d47c8d08cde7592d1f8bed0f80138d3c08eaece3815",
+    "summary": "The invention of cuneiform writing, which developed in southern Mesopotamia between approximately 3400 and 3200 BCE, stands as one of the most consequential intellectual achievements in human history. For the first time, human language was encoded in a durable medium that could persist beyond the memory of any individual, allowing information to be stored, transmitted, and retrieved across time and space. This breakthrough irrevocably transformed the possibilities of social organization, economic administration, and cultural continuity.\n\nCuneiform emerged from the administrative needs of the great temple institutions of the [[event:1617|Uruk Period]], where managing the flow of grain, livestock, labor, and finished goods required tracking systems that went beyond human memory or simple tally marks. The earliest writing took the form of [[event:1620|proto-cuneiform tablets]] — clay tablets impressed with pictographic symbols using a reed stylus. Each symbol represented a commodity or a number, and the tablets functioned essentially as receipts, ledgers, and allocations rather than narrative or speech.\n\nOver the following centuries, the writing system underwent profound evolution. Pictograms were rotated 90 degrees and increasingly abstracted into combinations of wedge-shaped impressions (the Latin word cuneus, meaning wedge, gives cuneiform its modern name). This abstraction allowed the system to move beyond simple accountancy: signs came to represent syllables as well as objects, enabling scribes to write names, record transactions, and eventually compose literature, law codes, and religious hymns.\n\nThe impact of cuneiform on Mesopotamian civilization was total. It enabled the development of professional scribal classes, schools (called edubba in Sumerian), and a vast body of written knowledge that accumulated across millennia. Legal contracts could be enforced because terms were fixed in clay. Royal decrees could be disseminated and preserved. Mathematical procedures, astronomical observations, and medical recipes could be compiled and transmitted to future generations — forming humanity's first recorded scientific tradition.\n\nCuneiform spread far beyond its Mesopotamian origins. Adapted by the Elamites, Akkadians, Assyrians, Babylonians, Hittites, and many other peoples, it served as the primary writing system of the ancient Near East for over three thousand years. Diplomatic correspondence recovered from sites such as el-Amarna in Egypt shows that cuneiform functioned as the international language of diplomacy well into the second millennium BCE.\n\nThe decipherment of cuneiform in the nineteenth century CE, achieved through the painstaking work of scholars working on the trilingual Behistun inscription, opened an entirely new window onto ancient history. Hundreds of thousands of tablets have since been recovered from Mesopotamian sites, revealing the world's oldest literature including the Epic of Gilgamesh, the oldest law codes, and detailed astronomical diaries — a legacy that confirms the invention of cuneiform as a pivotal turning point in the human story.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cuneiform",
+    "read_more_links": [
+        {
+            "title": "History of Writing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_writing"
+        },
+        {
+            "title": "Cuneiform - Britannica",
+            "url": "https://www.britannica.com/topic/cuneiform"
+        },
+        {
+            "title": "Proto-Cuneiform - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Proto-cuneiform"
+        },
+        {
+            "title": "The Invention of Writing - The Oriental Institute",
+            "url": "https://oi.uchicago.edu/research/projects/cuneiform-digital-library-initiative"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rassam_cylinder_with_translation_of_the_First_Assyrian_Conquest_of_Egypt%2C_643_BCE.jpg/300px-Rassam_cylinder_with_translation_of_the_First_Assyrian_Conquest_of_Egypt%2C_643_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Rassam_cylinder_with_translation_of_the_First_Assyrian_Conquest_of_Egypt%2C_643_BCE.jpg",
+            "caption": "Rassam cylinder with translation of the First Assyrian Conquest of Egypt, 643...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cuneiform_Inscriptions_Geographical_Site_Index_v1.5_2022_11_30.jpg/300px-Cuneiform_Inscriptions_Geographical_Site_Index_v1.5_2022_11_30.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cuneiform_Inscriptions_Geographical_Site_Index_v1.5_2022_11_30.jpg",
+            "caption": "Cuneiform Inscriptions Geographical Site Index v1.5 2022 11 30",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure%2C_hunting_dogs%2C_and_boars_MET_DT847.jpg/300px-Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure%2C_hunting_dogs%2C_and_boars_MET_DT847.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure%2C_hunting_dogs%2C_and_boars_MET_DT847.jpg",
+            "caption": "Sumerian; Cuneiform tablet; Clay-Tablets-Inscribed-Seal Impressions",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cuneiform_sign_EN%2C_for_Lord_or_Master_%28evolution%29.jpg/300px-Cuneiform_sign_EN%2C_for_Lord_or_Master_%28evolution%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cuneiform_sign_EN%2C_for_Lord_or_Master_%28evolution%29.jpg",
+            "caption": "Cuneiform sign EN, for Lord or Master (evolution)",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Stylus",
+            "summary": "Writing utensil or small tool for marking or shaping",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Table_with_was_and_stylus_Roman_times.jpg/250px-Table_with_was_and_stylus_Roman_times.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stylus"
+        },
+        {
+            "name": "Enmebaragesi",
+            "summary": "Ancient Mesopotamian king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mebaragsi%2C_King_of_Kish_%28transcription_of_fragment%2C_original_in_Iraq_National_Museum%29.jpg/250px-Mebaragsi%2C_King_of_Kish_%28transcription_of_fragment%2C_original_in_Iraq_National_Museum%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Enmebaragesi"
+        },
+        {
+            "name": "Lugal-dalu",
+            "summary": "Ruler of Adab, Mesopotamia, c. 2500 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Lugaldalu%2C_King_of_Adab.jpg/250px-Lugaldalu%2C_King_of_Adab.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lugal-dalu"
+        },
+        {
+            "name": "Naram-Sin of Akkad",
+            "summary": "Ruler of the Akkadian Empire (c. 2254–2218 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stele_of_Naram-Sin_of_Akkad.jpg/250px-Stele_of_Naram-Sin_of_Akkad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3270,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:50efbaeeeb6717840dde59c8d1136b5cbda2db5262abdf08b6d896adbe4104cd",
+    "summary": "The First Great Awakening (c. 1730–1755 AD) was a wave of evangelical Protestant revivalism that swept the American colonies, transforming religious life by emphasizing personal spiritual experience over institutional religion and inadvertently contributing to the cultural foundations of American democracy. The movement was catalyzed by itinerant preachers — particularly the English Methodist George Whitefield, who made seven tours of the colonies and was arguably the first genuinely mass celebrity in American history, drawing crowds of thousands in open-air meetings from Georgia to Massachusetts — and local ministers like Jonathan Edwards, whose fire-and-brimstone sermon 'Sinners in the Hands of an Angry God' (1741) became the movement's literary emblem. The revivals crossed denominational and even racial lines, with enslaved African Americans attending meetings in significant numbers.\n\nThe Great Awakening's political implications were significant and complex. By insisting that every individual's direct personal relationship with God mattered more than church authority or social hierarchy, the revivals implicitly democratized spiritual life — suggesting that ordinary people could assess religious truth for themselves without deference to educated clergy. This religious individualism was not identical with political democracy, but historians have noted parallels: a culture that accepted the individual's right to judge their own salvation was culturally prepared to accept the individual's right to political judgment. The Awakening also created new denominations (New Light vs. Old Light splits in Congregationalism and Presbyterianism) and spurred the founding of new educational institutions (Princeton, Dartmouth, Brown) to train the new generation of evangelical ministers — contributing to the colony's growing educational infrastructure.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Great_Awakening",
+    "read_more_links": [
+        {
+            "title": "George Whitefield itinerant preacher mass revival colonies",
+            "url": "https://en.wikipedia.org/wiki/George_Whitefield"
+        },
+        {
+            "title": "Jonathan Edwards Sinners Hands Angry God sermon 1741",
+            "url": "https://en.wikipedia.org/wiki/Sinners_in_the_Hands_of_an_Angry_God"
+        },
+        {
+            "title": "Great Awakening democratic implications religious individualism",
+            "url": "https://en.wikipedia.org/wiki/First_Great_Awakening#Political_implications"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Methodistiaid_Seisnig.jpg/300px-Methodistiaid_Seisnig.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Methodistiaid_Seisnig.jpg",
+            "caption": "English Methodists who were active in Wales from the book \"Y Tadau Methodista...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arch_Street%2C_with_the_Second_Presbyterian_Church_%2819592935679%29.jpg/300px-Arch_Street%2C_with_the_Second_Presbyterian_Church_%2819592935679%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Arch_Street%2C_with_the_Second_Presbyterian_Church_%2819592935679%29.jpg",
+            "caption": "Street scene showing Arch Street between Third and Fourth Streets including t...",
+            "attribution": "Wikimedia Commons, No restrictions"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JE_Sinners_in_the_Hands_Monument.jpg/300px-JE_Sinners_in_the_Hands_Monument.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/JE_Sinners_in_the_Hands_Monument.jpg",
+            "caption": "A monument commemorating the location where Edward's famous w:Sinners in the ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg/300px-Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg",
+            "caption": "\"Sinners in the Hands of An Angry God, A Sermon Preached at Enfield, July 8, ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jonathan Edwards (theologian)",
+            "summary": "American preacher and philosopher (1703–1758)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jonathan_Edwards_%28Princeton_Portrait%29.jpg/250px-Jonathan_Edwards_%28Princeton_Portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jonathan_Edwards_%28theologian%29"
+        },
+        {
+            "name": "George Whitefield",
+            "summary": "English cleric and preacher (1714–1770)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Robert_Hunter_%28c.1715-1720-c.1803%29_%28possibly%29_-_Reverend_George_Whitefield_%281714%E2%80%931770%29%2C_MA_-_72_-_Mansfield_College.jpg/250px-Robert_Hunter_%28c.1715-1720-c.1803%29_%28possibly%29_-_Reverend_George_Whitefield_%281714%E2%80%931770%29%2C_MA_-_72_-_Mansfield_College.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Whitefield"
+        },
+        {
+            "name": "Nicolaus Zinzendorf",
+            "summary": "German protestant religious and social reformer, bishop of the Moravian Church",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nikolaus_Ludwig_von_Zinzendorf_%28portrait_by_Balthasar_Denner%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_Zinzendorf"
+        },
+        {
+            "name": "August Hermann Francke",
+            "summary": "German clergyman and theologian (1663–1727)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/August-Hermann-Francke.jpg/250px-August-Hermann-Francke.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/August_Hermann_Francke"
+        },
+        {
+            "name": "Charles Wesley",
+            "summary": "English Methodist and hymn writer (1707–1788)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Charles_Wesley.jpg/250px-Charles_Wesley.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Wesley"
+        },
+        {
+            "name": "Selina Hastings, Countess of Huntingdon",
+            "summary": "British countess and Methodist leader (1707–1791)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Selina_Hastings_Countess_of_Huntington_npg_4224.jpg/250px-Selina_Hastings_Countess_of_Huntington_npg_4224.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Selina_Hastings%2C_Countess_of_Huntingdon"
+        }
+    ],
+    "territory_geojson": null
+}

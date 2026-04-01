@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 92,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:582b31c8b7d797dfc28b21bade3238aebe46719e4833b01c8422801e68170f4d",
+    "summary": "The Crusades (1096–1291 AD) were a series of religiously motivated military campaigns launched primarily by Western European Christians to capture and hold the Holy Land — particularly Jerusalem — from Muslim rulers, representing one of the defining episodes of medieval civilization and a major point of interaction, conflict, and cultural exchange between the Christian and Islamic worlds. Proclaimed by Pope Urban II at the Council of Clermont (1095), the crusading movement channeled the military energies of the European nobility, genuine religious devotion, economic ambition, and papal political strategy into a two-century campaign that permanently altered the eastern Mediterranean world.\n\nThe [[event:2220|First Crusade]] (1096–1099) achieved its primary objective, capturing Jerusalem and establishing the [[event:2965|Crusader states]] across modern Israel, Lebanon, and parts of Syria. Subsequent crusades — including the [[event:2222|Third Crusade]] of Richard the Lionheart and the [[event:2223|disastrous Fourth Crusade]] that sacked Constantinople — had varying objectives and outcomes. The movement eventually exhausted itself against determined Islamic resistance under [[event:2273|Saladin]] and his successors, with the [[event:3531|fall of Acre in 1291]] ending the last Crusader foothold in the Levant. The Crusades left enduring legacies: accelerating Italian city-state commercial power through eastern Mediterranean trade; transmitting Islamic and Byzantine learning to Western Europe; hardening Christian-Muslim and Christian-Jewish antagonisms; and creating a romanticized mythology of holy war that shaped European identity for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crusades",
+    "read_more_links": [
+        {
+            "title": "Council of Clermont Crusade proclamation",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Clermont"
+        },
+        {
+            "title": "Crusader states Levant history",
+            "url": "https://en.wikipedia.org/wiki/Crusader_states"
+        },
+        {
+            "title": "Crusades legacy Christian Muslim relations",
+            "url": "https://en.wikipedia.org/wiki/Crusades#Legacy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Crusader_Graffiti_in_the_Church_of_the_holy_supulchure_Jerusalem_Victor_2011_-1-21.jpg/300px-Crusader_Graffiti_in_the_Church_of_the_holy_supulchure_Jerusalem_Victor_2011_-1-21.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Crusader_Graffiti_in_the_Church_of_the_holy_supulchure_Jerusalem_Victor_2011_-1-21.jpg",
+            "caption": "Crusader Graffiti in the Church of the Holy Sepulchre",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BattleOfInab.jpg/300px-BattleOfInab.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/BattleOfInab.jpg",
+            "caption": "The Battle of Inab (also named Ard al-Hatim). Below: The recovery of Raymond ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/La_Forbie.jpg/300px-La_Forbie.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/La_Forbie.jpg",
+            "caption": "Battle of La Forbie as depicted in the manuscript identified as Cambridge, Co...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg/300px-ConquestOfConstantinopleByTheCrusadersIn1204.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg",
+            "caption": "ConquestOf Constantinople By The Crusaders In 1204",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pope Urban II",
+            "summary": "Head of the Catholic Church from 1088 to 1099",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Urbano_II_in_consacrazione_de_l%27altare_del_monastero_di_Cluny_%28detail%29_%28crop%29.png/250px-Urbano_II_in_consacrazione_de_l%27altare_del_monastero_di_Cluny_%28detail%29_%28crop%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Urban_II"
+        },
+        {
+            "name": "Saladin",
+            "summary": "Founder of the Ayyubid dynasty (c. 1137–1193)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saladin"
+        },
+        {
+            "name": "Louis IX of France",
+            "summary": "King of France from 1226 to 1270",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Saintlouis_%28cropped%29.jpg/250px-Saintlouis_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+        },
+        {
+            "name": "Rashidun Caliphate",
+            "summary": "First Islamic caliphate (632–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG/250px-Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun_Caliphate"
+        },
+        {
+            "name": "Umar",
+            "summary": "2nd Rashidun caliph from 634 to 644",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hagia_Sopia_6163502494_%28cropped%29.jpg/250px-Hagia_Sopia_6163502494_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umar"
+        },
+        {
+            "name": "Muhammad",
+            "summary": "Founder of Islam (c. 570–632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Al-Masjid_AL-Nabawi_Door.jpg/250px-Al-Masjid_AL-Nabawi_Door.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad"
+        }
+    ],
+    "territory_geojson": null
+}

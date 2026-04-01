@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1868,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ae04186ee5c21ee2d25b763f7fe5086bb1ead3a975579cdf689beeac759024dc",
+    "summary": "The Nuragic civilization was the dominant culture of the island of Sardinia during the Bronze Age, roughly 1900–1000 BC, named after the nuraghe — a type of massive stone tower unique to the island. Nuraghi are truncated-cone structures built without mortar from enormous fitted basalt blocks, ranging from simple single towers to elaborate multi-tower complexes with surrounding walls and subsidiary structures. Over 7,000 nuraghi survive on Sardinia today, and estimates suggest that up to 10,000 originally existed, making them among the most numerous prehistoric monuments of any type in Europe.\n\nThe function of the nuraghe remains debated. They may have served as residences for local chiefs, as defensive strongholds, as centers of communal ritual activity, or as combinations of all three. The largest complexes, such as Nuraghe Barumini, show evidence of continued occupation and modification over many centuries, implying that these structures were central to local social and political organization for an extended period. Nuragic bronzesmiths produced a distinctive tradition of small bronze figurines depicting warriors, priests, animals, and models of nuraghi themselves, which provide the most direct evidence for Nuragic religious beliefs and social hierarchy.\n\nSardinia's position in the central Mediterranean gave the Nuragic people access to trade networks connecting the western Mediterranean with the Phoenician, Mycenaean, and later Cypriot worlds. Nuragic bronzes have been found at sites across the Mediterranean, confirming participation in long-distance exchange. The culture persisted in a modified form after the Phoenician colonization of Sardinia beginning around the ninth century BC, indicating considerable cultural resilience.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nuragic_civilization",
+    "read_more_links": [
+        {
+            "title": "Nuraghe - Britannica",
+            "url": "https://www.britannica.com/topic/nuraghe"
+        },
+        {
+            "title": "Sardinia - Prehistory",
+            "url": "https://en.wikipedia.org/wiki/History_of_Sardinia#Prehistory"
+        },
+        {
+            "title": "Nuraghe Barumini",
+            "url": "https://en.wikipedia.org/wiki/Su_Nuraxi_di_Barumini"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Nuraghi_Losa.jpg/300px-Nuraghi_Losa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nuraghi_Losa.jpg",
+            "caption": "Nuraghe Losa, Sardinia, Italy",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg/300px-1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "caption": "Monin Carte d'Ancienne Italie Atlas Universel de Géographie Ancienne et Moderne",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bitti_-_Complesso_nuragico_di_Romanzesu_%2805%29.JPG/300px-Bitti_-_Complesso_nuragico_di_Romanzesu_%2805%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Bitti_-_Complesso_nuragico_di_Romanzesu_%2805%29.JPG",
+            "caption": "Bitti - Complesso nuragico di Romanzesu",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Putifigari%2C_necropoli_di_Monte_Siseri_%2825%29.jpg/300px-Putifigari%2C_necropoli_di_Monte_Siseri_%2825%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Putifigari%2C_necropoli_di_Monte_Siseri_%2825%29.jpg",
+            "caption": "Putifigari, necropoli di Monte Siseri",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Step pyramid",
+            "summary": "Architectural structure that uses flat platforms or steps to form geometric pyramid",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg/250px-Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Step_pyramid"
+        }
+    ],
+    "territory_geojson": null
+}

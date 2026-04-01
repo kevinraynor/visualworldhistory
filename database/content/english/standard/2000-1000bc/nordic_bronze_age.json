@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1864,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f17d61e4e22e0dd61d88ac38ce66bb45e6c13c1666fb0ba9d14246296a3fc75d",
+    "summary": "The Nordic Bronze Age, spanning approximately 1700–1000 BC, was a period of significant cultural and material development across Scandinavia and adjacent northern European regions, including modern Denmark, southern Sweden, and northern Germany. Despite lacking local copper and tin deposits, the peoples of this region became accomplished metalworkers by importing bronze through long-distance trade networks that connected them with central Europe and ultimately with the Mediterranean world. In exchange they exported amber, furs, and possibly slaves.\n\nThe material culture of the Nordic Bronze Age is remarkable for its sophistication. Bronze objects produced in the region — including lurs (large ceremonial bronze horns), razors, jewelry, and weapons — display high technical skill and a distinctive local aesthetic. Rock carvings, known as petroglyphs or hällristningar, found across thousands of sites in Scandinavia, depict ships, warriors, animals, and ritual scenes that provide important insights into the beliefs and practices of Bronze Age Scandinavian societies. Ships feature prominently, consistent with archaeological evidence for developed seafaring capability.\n\nBurial practices of the period are well documented. Elite individuals were interred in large oak-log coffins placed within burial mounds, some of which have preserved clothing, tools, and even human remains in extraordinary condition thanks to the preservative properties of the oak. Famous finds such as the Egtved Girl and the Skrydstrup Woman from Denmark provide rare direct evidence of Bronze Age European appearance, clothing, and diet. The Nordic Bronze Age transitioned into the Pre-Roman Iron Age around 1000–500 BC, connected to the same broader shifts associated with the spread of [[event:69|Iron Age]] technology across Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nordic_Bronze_Age",
+    "read_more_links": [
+        {
+            "title": "Nordic Bronze Age - Britannica",
+            "url": "https://www.britannica.com/topic/Nordic-Bronze-Age"
+        },
+        {
+            "title": "Scandinavian Petroglyphs",
+            "url": "https://en.wikipedia.org/wiki/Petroglyphs_of_Scandinavia"
+        },
+        {
+            "title": "Egtved Girl",
+            "url": "https://en.wikipedia.org/wiki/Egtved_Girl"
+        },
+        {
+            "title": "European Bronze Age",
+            "url": "https://en.wikipedia.org/wiki/European_Bronze_Age"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/DO-10044-Figurer_Grevensv%C3%A6nge.jpg/300px-DO-10044-Figurer_Grevensv%C3%A6nge.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/DO-10044-Figurer_Grevensv%C3%A6nge.jpg",
+            "caption": "Bronze age statuettes from Grevensvænge",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bronze_sword_with_gold-decorated_hilt%2C_Nordic_Bronze_Age%2C_Egebjerg%2C_Ejsing_parish%2C_Denmark.png/300px-Bronze_sword_with_gold-decorated_hilt%2C_Nordic_Bronze_Age%2C_Egebjerg%2C_Ejsing_parish%2C_Denmark.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bronze_sword_with_gold-decorated_hilt%2C_Nordic_Bronze_Age%2C_Egebjerg%2C_Ejsing_parish%2C_Denmark.png",
+            "caption": "Bronze sword with gold-decorated hilt, Nordic Bronze Age, Egebjerg, Ejsing pa...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mariesminde_find.jpg/300px-Mariesminde_find.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mariesminde_find.jpg",
+            "caption": "Gold bowls and bronze amphora from Funen, Denmark, 1000-800 BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DO-4362.jpg/300px-DO-4362.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/DO-4362.jpg",
+            "caption": "Shield from Sørup, Denmark",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tutankhamun",
+            "summary": "Pharaoh of Egypt from 1333 to 1324 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/250px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tutankhamun"
+        }
+    ],
+    "territory_geojson": null
+}

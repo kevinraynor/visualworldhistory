@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2186,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:579018d4c7c57bcea907433dc53fec2e5bacd8d1f3949ed4dca10a987988abeb",
+    "summary": "The Ancestral Puebloan (Anasazi) culture (c. 100–1600 AD, with the Pueblo I and II periods spanning roughly 700–1100 AD) was the most architecturally sophisticated pre-Columbian culture of the American Southwest — a society of farmers, potters, and builders in the Four Corners region (modern Arizona, Utah, Colorado, and New Mexico) who constructed remarkable multi-story stone villages (pueblos), kiva (underground ceremonial chambers), and eventually the cliff dwellings that remain among the most dramatic architectural achievements in North America. 'Anasazi' (a Navajo term sometimes considered pejorative) has largely been replaced by 'Ancestral Puebloan' in scholarly use.\n\nChaco Canyon in New Mexico was the cultural and ceremonial center of the Ancestral Puebloan world from roughly 850–1150 AD — a planned complex of 'great houses' (massive multi-room, multi-story masonry buildings) connected by a regional road network (the Chaco Road system) extending hundreds of kilometers across the desert, suggesting a level of political organization and trade network unusual in North American pre-Columbian societies. Pueblo Bonito (c. 850–1150 AD), the largest of the Chaco great houses, contained over 650 rooms and rose four to five stories. The culture is also known for its fine black-on-white pottery and turquoise jewelry traded across the Southwest and into Mesoamerica. The Mesa Verde cliff dwellings (c. 1190–1280 AD, built when the population retreated to defensible cliff positions) are the most visually striking, built into natural cave overhangs in canyon walls.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ancestral_Puebloans",
+    "read_more_links": [
+        {
+            "title": "Chaco Canyon great houses",
+            "url": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park"
+        },
+        {
+            "title": "Mesa Verde cliff dwellings",
+            "url": "https://en.wikipedia.org/wiki/Cliff_Palace"
+        },
+        {
+            "title": "Pueblo Bonito largest great house",
+            "url": "https://en.wikipedia.org/wiki/Pueblo_Bonito"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cliff_Palace%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2836%29.jpg/300px-Cliff_Palace%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2836%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cliff_Palace%2C_Mesa_Verde_Park%2C_Colorado%2C_US_%2836%29.jpg",
+            "caption": "Cliff Palace in Mesa Verde National Park, Colorado, U.S.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hovenweep_in_snow.jpg/300px-Hovenweep_in_snow.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hovenweep_in_snow.jpg",
+            "caption": "Old Pueblo Ruins. Horseshoe tower, I'm pretty sure.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandelier_multi-story_dwelling.jpg/300px-Bandelier_multi-story_dwelling.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bandelier_multi-story_dwelling.jpg",
+            "caption": "Remains of multistory dwellings constructed into the side of the canyon wall ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Prehistoric-Roads.jpg/300px-Prehistoric-Roads.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Prehistoric-Roads.jpg",
+            "caption": "Prehistoric roads and great houses in the San Juan Basin.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Montezuma County, Colorado",
+            "summary": "County in Colorado, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Montezuma_County_Combined_Courts.JPG/250px-Montezuma_County_Combined_Courts.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Montezuma_County%2C_Colorado"
+        },
+        {
+            "name": "Apache County, Arizona",
+            "summary": "County in Arizona, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Navajo_Nation_Council_Chambers_6809.jpg/250px-Navajo_Nation_Council_Chambers_6809.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Apache_County%2C_Arizona"
+        },
+        {
+            "name": "Rock art",
+            "summary": "Human-made markings on natural stone",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petroglyph_jqjacobs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_art"
+        },
+        {
+            "name": "Horseshoe Canyon (Utah)",
+            "summary": "Canyon in Emery and Wayne counties in Utah, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Holy_Ghost_Panel%2C_Great_Gallery.jpg/250px-Holy_Ghost_Panel%2C_Great_Gallery.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Horseshoe_Canyon_%28Utah%29"
+        }
+    ],
+    "territory_geojson": null
+}

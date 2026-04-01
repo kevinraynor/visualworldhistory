@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1583,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:331fd76918b1e13856751d5fd14fe75d580de9a9a0ac95c089c0309885907519",
+    "summary": "The Talheim Death Pit (Massaker von Talheim) is an archaeological site near Heilbronn in Baden-Württemberg, Germany, where the skeletal remains of 34 individuals — men, women, and children — were found in 1983 deposited in a mass grave dating to approximately 5000 BCE, associated with the [[event:1551|Linear Pottery culture]]. The individuals showed clear evidence of violent death: many skulls exhibited blunt-force trauma from stone adzes, and several had arrow wounds. The skeletal distribution — with bodies apparently thrown into the pit rather than carefully buried — indicates that the dead were victims of an attack rather than respectfully interred community members.\n\nThe Talheim Death Pit provides stark evidence that violent intergroup conflict — warfare or massacre — was part of the social reality of Neolithic Europe. Combined with the similar [[event:1584|Asparn-Schletz massacre]] site in Austria, it demonstrates that the scale of prehistoric violence could extend to the killing of entire communities, including women and children. The nature of the weapon trauma and the composition of the victim group suggest a raid rather than a battle — an attack on a settled community, not a clash between organized fighting forces.\n\nThe discovery of sites like Talheim has fundamentally revised simplistic notions of a peaceful Neolithic Europe and contributed to an ongoing scholarly reassessment of violence, warfare, and social conflict in prehistoric societies. They reveal that competition over territory, resources, and social dominance among early farming communities could escalate to lethal collective violence on a significant scale.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Talheim_Death_Pit",
+    "read_more_links": [
+        {
+            "title": "Prehistoric warfare - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_warfare"
+        },
+        {
+            "title": "Asparn-Schletz massacre - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Schletz"
+        },
+        {
+            "title": "Neolithic violence - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/535/the-evidence-for-neolithic-violence/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Talheim_in_HN.png/300px-Talheim_in_HN.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Talheim_in_HN.png",
+            "caption": "Talheim in HN",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

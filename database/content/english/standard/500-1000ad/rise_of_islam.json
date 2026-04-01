@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 86,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:1a3fbad6ea0ed555165c079476a29f6e63406644e7c295b4b466fa2e50b97dab",
+    "summary": "The rise of Islam in the 7th century AD was one of the most consequential events in world history — the emergence of a new monotheistic religion founded by the [[event:2124|Prophet Muhammad]] in the Arabian Peninsula that within a century of his death had produced an empire stretching from Spain to Central Asia, permanently reshaping the political, cultural, and religious landscape of three continents. Islam arose in the context of a deeply divided world: the Byzantine and Sassanid empires had exhausted each other in decades of warfare, leaving a power vacuum into which the new faith's energized followers rapidly expanded.\n\nThe religion Muhammad proclaimed drew on Jewish and Christian traditions while claiming to restore the pure monotheism of Abraham, offering a comprehensive framework for personal piety, community organization, and political order. The Quran — revealed to Muhammad over 23 years and compiled into written form after his death — became the central text of Islamic civilization, with its Arabic language spreading across the conquered territories. The [[event:2126|Rashidun Caliphate]] under Muhammad's first successors conquered Persia ([[event:2127|Islamic Conquest of Persia]]), Egypt ([[event:2908|Islamic Conquest of Egypt]]), Syria, and Palestine in a generation — arguably the most rapid military expansion in history.\n\nIslam's political unity did not long survive Muhammad's death — the dispute over succession split Islam into Sunni and Shia branches that persist to the present — but its cultural and intellectual unity proved more durable. The [[event:2133|Abbasid Caliphate's]] [[event:2135|Islamic Golden Age]] produced advances in mathematics, medicine, astronomy, and philosophy that preserved and extended classical knowledge through Europe's early medieval period, making Islam the custodian of much of the ancient world's intellectual heritage.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Early_Muslim_conquests",
+    "read_more_links": [
+        {
+            "title": "Origins of Islam",
+            "url": "https://en.wikipedia.org/wiki/Islam#Origin"
+        },
+        {
+            "title": "Arabian Peninsula pre-Islamic",
+            "url": "https://en.wikipedia.org/wiki/Pre-Islamic_Arabia"
+        },
+        {
+            "title": "Islamic world historical overview",
+            "url": "https://en.wikipedia.org/wiki/History_of_Islam"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/PERF_558%2C_recto.jpg/300px-PERF_558%2C_recto.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/PERF_558%2C_recto.jpg",
+            "caption": "PERF 558, recto  from the Katalog der Papyrussammlung, Österreichische Nation...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WLA_metmuseum_Sword_and_scabbard_Iran_7th_century.jpg/300px-WLA_metmuseum_Sword_and_scabbard_Iran_7th_century.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/WLA_metmuseum_Sword_and_scabbard_Iran_7th_century.jpg",
+            "caption": "Sword and scabbard, A.D. 7th century\nIran\nBlade: iron; scabbard and hilt: gol...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/300px-Greekfire-madridskylitzes1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Greekfire-madridskylitzes1.jpg",
+            "caption": "Image from an illuminated manuscript, the Madrid Skylitzes, showing Greek fir...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Arabischer_Mosaizist_um_735_001.jpg/300px-Arabischer_Mosaizist_um_735_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Arabischer_Mosaizist_um_735_001.jpg",
+            "caption": "Arabischer Mosaizist um 735 001",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Muhammad",
+            "summary": "Founder of Islam (c. 570–632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Al-Masjid_AL-Nabawi_Door.jpg/250px-Al-Masjid_AL-Nabawi_Door.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad"
+        },
+        {
+            "name": "Rashidun",
+            "summary": "First four caliphs following the death of Muhammad",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Turkish_miniature_paintings_depicting_Muhammad_and_the_first_four_Caliphs_of_Islam_%28Abu_Bakr%2C_Umar%2C_Uthman%2C_and_Ali%29_surrounding_him%2C_circa_16th_century.jpg/250px-Turkish_miniature_paintings_depicting_Muhammad_and_the_first_four_Caliphs_of_Islam_%28Abu_Bakr%2C_Umar%2C_Uthman%2C_and_Ali%29_surrounding_him%2C_circa_16th_century.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun"
+        },
+        {
+            "name": "Rashidun Caliphate",
+            "summary": "First Islamic caliphate (632–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG/250px-Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun_Caliphate"
+        },
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        },
+        {
+            "name": "Heraclius",
+            "summary": "Byzantine emperor from 610 to 641",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Heraclius_solidus.jpg/250px-Heraclius_solidus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heraclius"
+        },
+        {
+            "name": "Abu Bakr",
+            "summary": "First caliph of Rashidun Caliphate from 632 to 634",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20131203_Istanbul_091.jpg/250px-20131203_Istanbul_091.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abu_Bakr"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3049,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:dc8a66389817944f4cf92416af3d51d7e0d8ec90a10453cc611b6bc7120adf80",
+    "summary": "The Alhambra (Arabic: Al-Qal'a al-Hamra, 'The Red Fortress'), constructed primarily in the 13th and 14th centuries as the palace-fortress of the Nasrid emirs of Granada, is the supreme surviving masterpiece of Moorish architecture and one of the most beautiful buildings ever created — a complex of palaces, gardens, and fortifications that translated the Islamic aesthetic vision of paradise into architectural form with unprecedented refinement. Situated on a hilltop overlooking the city of Granada in southern Spain, the Alhambra was constructed during the final flourishing of Islamic civilization in Iberia, when the Nasrid emirate was the last Muslim state on the peninsula.\n\nThe Alhambra's interior spaces — particularly the Nasrid Palaces — achieve an ethereal delicacy through the systematic application of stucco carving, geometric tilework (azulejos), and muqarnas (stalactite) vaulting that transforms walls and ceilings into surfaces of infinite geometric and calligraphic intricacy. The Court of the Lions, with its famous fountain surrounded by twelve marble lions and its slender columns supporting delicate arcades, is one of the most iconic architectural spaces in the world. Water — flowing through channels in floors, tinkling in fountains, reflecting sky in pools — was integral to the design, cooling the space and evoking the Quranic description of paradise. The Alhambra was surrendered to Ferdinand and Isabella at the [[event:2999|fall of Granada]] (1492) and subsequently modified by Spanish rulers, but enough of the Nasrid palace survives to constitute the most complete surviving example of Andalusian Islamic court architecture. Washington Irving's 'Tales of the Alhambra' (1832) romanticized the complex for 19th-century European audiences, creating the legend that endures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alhambra",
+    "read_more_links": [
+        {
+            "title": "Court Lions Alhambra Nasrid palace",
+            "url": "https://en.wikipedia.org/wiki/Court_of_the_Lions"
+        },
+        {
+            "title": "Muqarnas geometric stucco Islamic decoration",
+            "url": "https://en.wikipedia.org/wiki/Muqarnas"
+        },
+        {
+            "title": "Washington Irving Tales Alhambra romantic",
+            "url": "https://en.wikipedia.org/wiki/Tales_of_the_Alhambra"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Granada._Alhambra._Palacio_Carlos_V_LCCN2017660754.jpg/300px-Granada._Alhambra._Palacio_Carlos_V_LCCN2017660754.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Granada._Alhambra._Palacio_Carlos_V_LCCN2017660754.jpg",
+            "caption": "Title: Granada. Alhambra. Palacio Carlos V\nAbstract/medium: 1 print : color p...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Patio_de_Armas_y_Alcazaba_de_la_Alhambra_II.jpg/300px-Patio_de_Armas_y_Alcazaba_de_la_Alhambra_II.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Patio_de_Armas_y_Alcazaba_de_la_Alhambra_II.jpg",
+            "caption": "Patio de Armas y Alcazaba de la Alhambra",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Night_view_of_Alhambra%2C_Granada_from_Mirador_de_San_Nicolas.jpg/300px-Night_view_of_Alhambra%2C_Granada_from_Mirador_de_San_Nicolas.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Night_view_of_Alhambra%2C_Granada_from_Mirador_de_San_Nicolas.jpg",
+            "caption": "Night view of Alhambra, Granada from Mirador de San Nicolas. Taken at a clear...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg/300px-Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg",
+            "caption": "Evening panorama of Alhambra from Mirador de San Nicolás, Granada, Spain.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Islamic architecture",
+            "summary": "Architectural styles of buildings associated with Islam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jerusalem_DomeoftheRock_J65.JPG/250px-Jerusalem_DomeoftheRock_J65.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Islamic_architecture"
+        },
+        {
+            "name": "Renaissance architecture",
+            "summary": "15th–16th-century European architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tempietto_di_Bramante02783.jpg/250px-Tempietto_di_Bramante02783.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Renaissance_architecture"
+        },
+        {
+            "name": "Muhammad I of Granada",
+            "summary": "First ruler of the Emirate of Granada from c. 1232 to 1273",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Muhammad_I_Granada_cropped_CSM_185_%28187%29_2.jpg/250px-Muhammad_I_Granada_cropped_CSM_185_%28187%29_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_I_of_Granada"
+        },
+        {
+            "name": "Yusuf I of Granada",
+            "summary": "Sultan of Granada from 1333 to 1354",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Yusuf_I_Nasrid_gold_coin.jpg/250px-Yusuf_I_Nasrid_gold_coin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yusuf_I_of_Granada"
+        },
+        {
+            "name": "Muhammad V of Granada",
+            "summary": "Sultan of Granada (1354–1359, 1362–1391)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Muhammad_V_Nasrid_gold_coin.jpg/250px-Muhammad_V_Nasrid_gold_coin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_V_of_Granada"
+        },
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        }
+    ],
+    "territory_geojson": null
+}

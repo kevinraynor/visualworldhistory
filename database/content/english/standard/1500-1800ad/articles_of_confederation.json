@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3313,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2f9bba824964e3615b1a79d7b9ffd4ac292299dc8593f7cecd1b0b1bfb5736ac",
+    "summary": "The Articles of Confederation (1777–1789 AD) were the first constitution of the United States — a framework for national government that deliberately minimized central authority, reflecting the colonial experience of oppressive British power, and creating a league of sovereign states rather than a national government. Ratified in 1781 after years of drafting and debate, the Articles created a unicameral Congress where each state had one vote regardless of size or population, required unanimous consent for amendments, could not tax or regulate commerce directly (only request funds from states), and had no executive or judicial branch. The achievements under the Articles included conducting the [[event:106|Revolutionary War]] to victory and passing the [[event:2478|Northwest Ordinance]] (1787), which organized western territories.\n\nThe Articles' weaknesses became increasingly apparent in peacetime. Without taxing power, Congress could not pay war debts or fund a standing military. Without commerce regulation, states imposed tariffs on each other's goods, creating economic dysfunction. Shays' Rebellion (1786–87) — an uprising of Massachusetts farmers unable to pay their debts — demonstrated that the Confederation government could not maintain domestic order. These failures created the political will to convene the Constitutional Convention (1787), which exceeded its mandate of 'revising' the Articles by drafting an entirely new constitution. The [[event:2396|US Constitution]] that replaced the Articles created a substantially stronger national government, with a president, independent judiciary, and Congressional taxing and commerce powers — while retaining the federal structure that the Articles had established. The Articles thus served as the necessary experiment that taught the founding generation what didn't work.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Articles_of_Confederation",
+    "read_more_links": [
+        {
+            "title": "Articles Confederation weaknesses taxes debt national government",
+            "url": "https://en.wikipedia.org/wiki/Articles_of_Confederation#Weaknesses"
+        },
+        {
+            "title": "Shays Rebellion Massachusetts 1786 Articles failure catalyst",
+            "url": "https://en.wikipedia.org/wiki/Shays%27_Rebellion"
+        },
+        {
+            "title": "Constitutional Convention 1787 Articles replacement constitution",
+            "url": "https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Articles_page1.jpg/300px-Articles_page1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Articles_page1.jpg",
+            "caption": "The Articles of Confederation, ratified in 1781. This was the format for the ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Independence_Hall_belltower.jpg/300px-Independence_Hall_belltower.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Independence_Hall_belltower.jpg",
+            "caption": "The belltower atop Independence Hall in Philadelphia, Pennsylvania on a cloud...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Articles_of_Confederation_5-6.jpg/300px-Articles_of_Confederation_5-6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Articles_of_Confederation_5-6.jpg",
+            "caption": "Articles of Confederation and Perpetual Union, Article V, ¶2 through Article VI.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Articles_of_Confederation_9-13.jpg/300px-Articles_of_Confederation_9-13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Articles_of_Confederation_9-13.jpg",
+            "caption": "Articles of Confederation and Perpetual Union, Article IX, ¶5 through Article...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Congress of the Confederation",
+            "summary": "Governing body of the United States from 1781 to 1789",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Great_Seal_of_the_United_States_of_America_%281782%29.svg/250px-Great_Seal_of_the_United_States_of_America_%281782%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Congress_of_the_Confederation"
+        },
+        {
+            "name": "Thomas Paine",
+            "summary": "American philosopher and author (1737–1809)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Laurent_Dabos_%E2%80%93_Thomas_Paine_%E2%80%93_Google_Art_Project.jpg/250px-Laurent_Dabos_%E2%80%93_Thomas_Paine_%E2%80%93_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Paine"
+        },
+        {
+            "name": "Richard Henry Lee",
+            "summary": "American statesman and Founding Father (1732–1794)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Charles_Willson_Peale_-_Richard_Henry_Lee_-_NPG.74.5_-_National_Portrait_Gallery_%28cropped%29.jpg/250px-Charles_Willson_Peale_-_Richard_Henry_Lee_-_NPG.74.5_-_National_Portrait_Gallery_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Henry_Lee"
+        },
+        {
+            "name": "Button Gwinnett",
+            "summary": "American Founding Father and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Button_Gwinnett_Portrait.png/250px-Button_Gwinnett_Portrait.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Button_Gwinnett"
+        },
+        {
+            "name": "Joseph Hewes",
+            "summary": "American Founding Father and politician (1730–1779)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Joseph_Hewes.png/250px-Joseph_Hewes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Hewes"
+        },
+        {
+            "name": "Thomas McKean",
+            "summary": "American Founding Father and politician (1734–1817)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ThomasMcKean7.jpg/250px-ThomasMcKean7.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_McKean"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1649,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:6f30d0d70720958d39ff404d4626d293023a2767ac8ec7744b728d51b7a06566",
+    "summary": "The Early Minoan I period, beginning around 3100 BCE, marks the transition on Crete from Neolithic village life to the earliest recognizable phases of what archaeologists classify as Minoan civilization. Although the great palaces of Knossos, Phaistos, Malia, and Zakros lay still a millennium in the future, the Early Minoan period saw significant population growth, the spread of settlements across Crete, the introduction of bronze metallurgy, and the development of distinctive ceramic and artistic traditions that would form the foundation of the later palatial culture.\n\nDuring Early Minoan I, Crete's population was organized into small villages and hamlets distributed across the island's diverse ecological zones — coastal plains, river valleys, and mountainous interior regions. Burial practices centered on communal ossuary chambers (tholoi in the Mesara plain, rock shelters in the north and east) where multiple generations of the dead were interred together, suggesting societies organized around extended kinship groups rather than individual aristocratic lineages.\n\nArtistic production during the Early Minoan period is already distinctive. Ceramic styles show considerable regional variation across the island, with characteristic painted and burnished wares. The earliest Minoan seal-stones — carved with geometric patterns and eventually with figural imagery — appear in this period, foreshadowing the extraordinarily refined glyptic art of the later periods. Metal objects, including copper tools and occasional gold and silver ornaments found in tombs, demonstrate participation in the broader Aegean Bronze Age exchange network.\n\nCrete's geographic position continued to be its most important asset. Located at the crossroads of the eastern Mediterranean, the island maintained connections with the [[event:40|Early Minoan civilization]] traditions already developing, the [[event:49|Cycladic civilization]] to the north, Egypt to the south, and the Levantine coast to the east. These connections would intensify through the Early Minoan period and ultimately give rise to the sophisticated palace civilization that made Crete famous.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Minoan_civilization",
+    "read_more_links": [
+        {
+            "title": "Early Minoan Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Minoan_civilization#Early_Minoan_period"
+        },
+        {
+            "title": "Crete - Britannica",
+            "url": "https://www.britannica.com/place/Crete"
+        },
+        {
+            "title": "Bronze Age Aegean - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aegean_civilization"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akrotiri_Spring_Fresco_room.jpg/300px-Akrotiri_Spring_Fresco_room.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Akrotiri_Spring_Fresco_room.jpg",
+            "caption": "Akrotiri Spring Fresco room ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/300px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "caption": "Greece, Archipelago and part of Anadoli. Published for Willm. Faden, Geograph...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Knossos_bull_leaping_fresco.jpg/300px-Knossos_bull_leaping_fresco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Knossos_bull_leaping_fresco.jpg",
+            "caption": "Knossos bull leaping fresco ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Knossos_women_fresco.jpg/300px-Knossos_women_fresco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Knossos_women_fresco.jpg",
+            "caption": "Knossos women fresco ",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Michael Ventris",
+            "summary": "English architect who deciphered Linear B (1922–1956)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Michael_Ventris_obituary_photo.jpg/250px-Michael_Ventris_obituary_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Ventris"
+        },
+        {
+            "name": "Minos",
+            "summary": "Mythological king of Crete",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Inferno_Canto_5_line_4_Minos.jpg/250px-Inferno_Canto_5_line_4_Minos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Minos"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

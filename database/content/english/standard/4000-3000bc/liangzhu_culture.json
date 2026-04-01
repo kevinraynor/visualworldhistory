@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1674,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2f5bf4136054794e0b494225856d76ad0826beac1b3f1b81cf1bb6f41802ed4f",
+    "summary": "The Liangzhu culture, centered on the lower Yangtze River delta in what is now Zhejiang and Jiangsu provinces of China, flourished between approximately 3400 and 2300 BCE and represents one of the most sophisticated Neolithic cultures of East Asia. Famous above all for its extraordinary jade craftsmanship, Liangzhu society achieved levels of social stratification, craft specialization, hydraulic engineering, and ritual elaboration that place it on the threshold of early state formation — a development now recognized as a significant chapter in the deep prehistory of Chinese civilization.\n\nThe most remarkable characteristic of Liangzhu culture is its jade industry. Liangzhu artisans worked nephrite jade with stone tools (jade-working with metal tools was not available) to produce objects of extraordinary precision and refinement. The two signature Liangzhu jade forms are the cong — a tubular object with a circular interior and rectangular exterior, sometimes over 60 centimeters tall — and the bi, a large flat perforated disk. Both types appear in elite burials alongside arrays of other jade objects including axes (yue), bracelets, pendants, and beads. The [[event:1675|Liangzhu jade artifacts]] carry carved imagery of a masked deity or ancestor figure that appears consistently across the culture's geographic range, suggesting a shared ritual ideology.\n\nThe Liangzhu city site at Mojiaoshan, excavated from the 1980s onward and designated a UNESCO World Heritage Site in 2019, reveals a walled urban center covering approximately 300 hectares with an elaborate surrounding hydraulic system. The water management infrastructure — comprising a complex of dams, reservoirs, canals, and flood-control earthworks stretching over an area of approximately 100 square kilometers — represents the most extensive Neolithic hydraulic system yet identified in China. The engineering required to plan and construct this network implies a level of social coordination and institutional authority comparable to early state societies.\n\nLiangzhu society was clearly hierarchical: elite burials contain hundreds of jade objects and large quantities of fine pottery, while commoner graves contain little or nothing. This sharp material differentiation across burials, combined with the scale of public works projects, suggests the emergence of a ruling elite capable of mobilizing substantial labor forces. Liangzhu disappeared abruptly around 2300 BCE, possibly due to catastrophic flooding associated with a climatic event, leaving its jade traditions to be absorbed and transformed by successor cultures across China.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Liangzhu_culture",
+    "read_more_links": [
+        {
+            "title": "Liangzhu Archaeological Site - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Liangzhu_Archaeological_Site"
+        },
+        {
+            "title": "Chinese Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_China"
+        },
+        {
+            "title": "Jade in Chinese Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nephrite"
+        },
+        {
+            "title": "Liangzhu - Britannica",
+            "url": "https://www.britannica.com/topic/Liangzhu-culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jade_Cong_King%2C_2018-06-09_01.jpg/300px-Jade_Cong_King%2C_2018-06-09_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jade_Cong_King%2C_2018-06-09_01.jpg",
+            "caption": "​良渚玉琮王",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zhejiang_Sheng_Bowuguan_2014.09.28_15-27-39.jpg/300px-Zhejiang_Sheng_Bowuguan_2014.09.28_15-27-39.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Zhejiang_Sheng_Bowuguan_2014.09.28_15-27-39.jpg",
+            "caption": "​浙江省博物馆武林馆区——玉梳背，余杭良渚反山出土（良渚文化)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Model_of_Liangzhu_Ancient_City_01_2013-10.JPG/300px-Model_of_Liangzhu_Ancient_City_01_2013-10.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Model_of_Liangzhu_Ancient_City_01_2013-10.JPG",
+            "caption": "​良渚古城模型，陈列于良渚博物院。",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1248,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:c03ef879f61ca7f6d498b07ade2492293435e9181cee2bd7ebb049feb0e762df",
+    "summary": "Titus Lucretius Carus (c. 99–55 BC) was a Roman poet and philosopher whose De Rerum Natura (On the Nature of Things) is one of the most ambitious and remarkable works of Latin literature — a didactic epic in six books that presents the entire Epicurean philosophical and physical system in hexameter verse. Drawing on [[event:1196|Epicureanism]]'s Epicurus and Democritus's atomic theory, Lucretius argued that all matter consists of atoms in void, the soul is material and mortal, the gods do not intervene in human affairs, and therefore death should hold no terror.\n\nThe work is notable for its vivid scientific imagination — Lucretius describes atoms, the nature of light and sound, the origins of life and civilization, and the plague of Athens with striking descriptive power — and for its philosophical purpose: to free humanity from the fear of death and divine punishment. The text was largely unknown through the Middle Ages until the humanist Poggio Bracciolini rediscovered a manuscript in a German monastery in 1417. Its recovery proved explosively influential: its materialist, anti-providential worldview contributed to the Scientific Revolution and Enlightenment atomism; historians have argued it helped reshape modernity. Stephen Greenblatt's The Swerve (2011) dramatized this recovery and its cultural impact.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lucretius",
+    "read_more_links": [
+        {
+            "title": "De Rerum Natura full text",
+            "url": "https://en.wikipedia.org/wiki/De_rerum_natura"
+        },
+        {
+            "title": "Poggio Bracciolini rediscovery",
+            "url": "https://en.wikipedia.org/wiki/Poggio_Bracciolini"
+        },
+        {
+            "title": "Epicurean atomism",
+            "url": "https://en.wikipedia.org/wiki/Epicurean_atomism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Carus-1.jpg/300px-Carus-1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Carus-1.jpg",
+            "caption": "1683 copy of \"\"Lucretius Carus the Epicurean Philosopher, His Six books De Na...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Carus-3.jpg/300px-Carus-3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Carus-3.jpg",
+            "caption": "1754 copy of \"De Rerum Natura.\" Copy is located in the Niels Bohr Library & A...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/T._Lucretii_Cari_De_rerum_natura.tif/300px-T._Lucretii_Cari_De_rerum_natura.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/T._Lucretii_Cari_De_rerum_natura.tif",
+            "caption": "De rerum natura",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Carus-4.jpg/300px-Carus-4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Carus-4.jpg",
+            "caption": "Frontispiece of a 1754 copy of \"De Rerum Natura.\" Copy is located in the Niel...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Virgil",
+            "summary": "1st-century-BC Roman poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/250px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil"
+        },
+        {
+            "name": "Horace",
+            "summary": "Roman lyric poet (65–8 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg/250px-%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Horace"
+        },
+        {
+            "name": "Poggio Bracciolini",
+            "summary": "Italian scholar, writer and humanist (1380–1459)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gianfrancesco_Poggio_Bracciolini_-_Imagines_philologorum.jpg/250px-Gianfrancesco_Poggio_Bracciolini_-_Imagines_philologorum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Poggio_Bracciolini"
+        },
+        {
+            "name": "Pierre Gassendi",
+            "summary": "French priest, astronomer, and mathematician (1592–1655)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PierreGassendi.jpg/250px-PierreGassendi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Gassendi"
+        },
+        {
+            "name": "Jerome",
+            "summary": "Priest and theologian (c. 342/347–420)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/MatthiasStom-SaintJerome-Nantes.jpg/250px-MatthiasStom-SaintJerome-Nantes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jerome"
+        },
+        {
+            "name": "Suetonius",
+            "summary": "Roman historian (c. AD 69 – after AD 122)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Suetonius_etching_%28cropped%29.jpg/250px-Suetonius_etching_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suetonius"
+        }
+    ],
+    "territory_geojson": null
+}

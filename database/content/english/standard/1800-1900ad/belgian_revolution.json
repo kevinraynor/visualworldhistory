@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2605,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:551b61430860eb7d1d2df8a23bf18c8e236362d923d9e4ccabfa0c2d9319bb69",
+    "summary": "The Belgian Revolution of 1830–31 resulted in the separation of the predominantly Catholic and French-speaking southern Netherlands from the Protestant, Dutch-speaking north and the establishment of the independent Kingdom of Belgium. It was one of the consequences of the nationalist and liberal ferment unleashed by the [[event:107|French Revolution]] and the first successful separatist national revolution in post-Napoleonic Europe.\n\nThe northern and southern Netherlands had been united as the United Kingdom of the Netherlands at the [[event:2523|Congress of Vienna]] in 1815. The union was always uneasy: religious differences (Catholic south, Protestant north), linguistic differences (French and Flemish in the south, Dutch in the north), and economic and political grievances generated persistent southern resentment. The revolution in Paris in July 1830 (which overthrew Charles X and placed Louis-Philippe on the French throne) triggered an uprising in Brussels in August, which spread rapidly.\n\nDespite Dutch military attempts to suppress the revolution, the southern provinces established a provisional government and declared independence in October 1830. Britain, France, Prussia, Austria, and Russia — the great powers — negotiated at the London Conference and recognized Belgian independence in January 1831, choosing Prince Leopold of Saxe-Coburg-Saalfeld as the first King of the Belgians. The Dutch finally formally recognized Belgian independence in 1839 under the Treaty of London, which also guaranteed Belgium's perpetual neutrality — a guarantee whose violation by Germany in 1914 triggered British entry into the First World War.\n\nBelgium quickly industrialized, becoming one of the early leaders of industrial development outside Britain, and grew into a significant colonial power through [[event:2599|Leopold II's Congo Free State]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Belgian_Revolution",
+    "read_more_links": [
+        {
+            "title": "Belgian Revolution – Britannica",
+            "url": "https://www.britannica.com/event/Belgian-Revolution"
+        },
+        {
+            "title": "Kingdom of Belgium – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Belgium"
+        },
+        {
+            "title": "Leopold I of Belgium – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Leopold_I_of_Belgium"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_I_of_the_Netherlands.jpg/300px-William_I_of_the_Netherlands.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/William_I_of_the_Netherlands.jpg",
+            "caption": "Portrait of William I (1772–1843) as King of the United Kingdom of the Nether...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Anvers_1832_horace_vernet.jpg/300px-Anvers_1832_horace_vernet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Anvers_1832_horace_vernet.jpg",
+            "caption": "\"Siège de la citadelle d’Anvers, 22 décembre 1832\". Au centre de la toile, le...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gustave_Wappers_-_%C3%89pisode_des_Journ%C3%A9es_de_septembre_1830_sur_la_place_de_l%27H%C3%B4tel_de_Ville_de_Bruxelles.jpg/300px-Gustave_Wappers_-_%C3%89pisode_des_Journ%C3%A9es_de_septembre_1830_sur_la_place_de_l%27H%C3%B4tel_de_Ville_de_Bruxelles.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Gustave_Wappers_-_%C3%89pisode_des_Journ%C3%A9es_de_septembre_1830_sur_la_place_de_l%27H%C3%B4tel_de_Ville_de_Bruxelles.jpg",
+            "caption": "Men and women form a mound around a post in the streets of a city on the righ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aftocht_Hollandse_Cavalerie_1830.jpg/300px-Aftocht_Hollandse_Cavalerie_1830.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aftocht_Hollandse_Cavalerie_1830.jpg",
+            "caption": "Retreat of the Dutch cavalry on the Vlaamsesteenweg in 1830",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leopold I of Belgium",
+            "summary": "King of the Belgians from 1831 to 1865",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NICAISE_Leopold_ANV.jpg/250px-NICAISE_Leopold_ANV.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leopold_I_of_Belgium"
+        },
+        {
+            "name": "Charles Rogier",
+            "summary": "Belgian journalist, statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Charles_Rogier_par_Gh%C3%A9mar.jpg/250px-Charles_Rogier_par_Gh%C3%A9mar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Rogier"
+        },
+        {
+            "name": "Étienne Maurice Gérard",
+            "summary": "French general and statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/David_Etienne_Maurice_Gerard.jpg/250px-David_Etienne_Maurice_Gerard.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89tienne_Maurice_G%C3%A9rard"
+        },
+        {
+            "name": "William I of the Netherlands",
+            "summary": "King of the Netherlands from 1815 to 1840",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_I_of_the_Netherlands.jpg/250px-William_I_of_the_Netherlands.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_I_of_the_Netherlands"
+        },
+        {
+            "name": "William II of the Netherlands",
+            "summary": "King of the Netherlands from 1840 to 1849",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/King_Willem_II.jpg/250px-King_Willem_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_II_of_the_Netherlands"
+        },
+        {
+            "name": "Prince Frederick of the Netherlands",
+            "summary": "Dutch prince (1797–1881)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Willem_Frederik_Karel_van_Oranje-Nassau_%281797-1881%29%2C_by_Maurits_Verveer.jpg/250px-Willem_Frederik_Karel_van_Oranje-Nassau_%281797-1881%29%2C_by_Maurits_Verveer.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Frederick_of_the_Netherlands"
+        }
+    ],
+    "territory_geojson": null
+}

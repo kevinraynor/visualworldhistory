@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3391,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:48fbc8dcd4bb73a38c37821cd7042e6ffb5527e946ce972a14c1be1cbab37de3",
+    "summary": "The first handheld mobile telephone call was made by Motorola engineer Martin Cooper in New York City in April 1973, inaugurating the era of personal cellular communication. Commercial cellular networks launched in the early 1980s — in Japan in 1979, Scandinavia in 1981, and the United States in 1983 — initially serving business users who could afford the expensive handsets and call charges. Through the late 1980s and 1990s, successive generations of network technology and manufacturing efficiencies rapidly reduced costs.\n\nThe 1990s witnessed explosive growth in mobile phone adoption across the world, particularly with the introduction of the digital GSM standard. By 2000, there were approximately 740 million mobile phone subscribers globally, with penetration especially high in Scandinavia, East Asia, and Western Europe. In many developing countries, mobile networks leapfrogged fixed-line infrastructure entirely. The mobile phone also became a conduit for SMS text messaging, a communication mode that would reshape social interaction, and laid the technological and commercial foundation for the smartphone revolution of the following decade.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mobile_phone",
+    "read_more_links": [
+        {
+            "title": "History of mobile phones",
+            "url": "https://en.wikipedia.org/wiki/History_of_mobile_phones"
+        },
+        {
+            "title": "GSM",
+            "url": "https://en.wikipedia.org/wiki/GSM"
+        },
+        {
+            "title": "Martin Cooper (inventor)",
+            "url": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Attendees_by_Christian_Ursilva.jpg/300px-Attendees_by_Christian_Ursilva.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Attendees_by_Christian_Ursilva.jpg",
+            "caption": "Attendees at the 2025 Bogforum book conference at Bella Center in the Ørestad...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mobile_Phone_Evolution_1992_-_2014.jpg/300px-Mobile_Phone_Evolution_1992_-_2014.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Mobile_Phone_Evolution_1992_-_2014.jpg",
+            "caption": "Evolution of mobile phone. 1992 - 2014.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Android_phones.jpg/300px-Android_phones.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Android_phones.jpg",
+            "caption": "*SAMSUNG Galaxy Note10\nSAMSUNG Galaxy Note10+\nSAMSUNG Galaxy Note10 Lite",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/IPhone_Text_Message_Amber_Alert_1882467856_o.jpg/300px-IPhone_Text_Message_Amber_Alert_1882467856_o.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/IPhone_Text_Message_Amber_Alert_1882467856_o.jpg",
+            "caption": "A text message (SMS) Amber Alert is displayed on a first-generation Apple iPh...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Martin Cooper (inventor)",
+            "summary": "American engineer (born 1928)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Martin_Cooper%2C_Two_Antennas%2C_October_2010.jpg/250px-Martin_Cooper%2C_Two_Antennas%2C_October_2010.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Cooper_%28inventor%29"
+        },
+        {
+            "name": "Eric Tigerstedt",
+            "summary": "Finnish inventor (1887–1925)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eric_Magnus_Tigerstedt.jpg/250px-Eric_Magnus_Tigerstedt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Tigerstedt"
+        }
+    ],
+    "territory_geojson": null
+}

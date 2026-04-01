@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2236,
+    "parent_id": 2235,
+    "granularity": "notable",
+    "content_hash": "sha256:8a1e73bb8098f9b1eb97ffa93806f689d1aae970c7c0fd5c0d3751ebb2bd75c1",
+    "summary": "Joan of Arc (c. 1412–1431 AD) was a peasant girl from Lorraine who, claiming divine visions commanding her to drive the English from France, emerged as the charismatic military leader who turned the tide of the [[event:2235|Hundred Years' War]] and secured the coronation of Charles VII at Reims — one of the most extraordinary careers in medieval history and one of the most remarkable individual interventions in any major war. At seventeen, she persuaded the Dauphin Charles to give her command of French forces, raised the English siege of Orléans (May 1429), and led a series of rapid military victories that created the conditions for Charles's coronation, which legitimized his kingship in French eyes.\n\nJoan's subsequent campaign was less successful, and she was captured by Burgundian forces in 1430 and sold to the English. Tried for heresy and witchcraft in a Church court controlled by English-aligned ecclesiastics in Rouen, she was condemned for refusing to recant her claim to divine guidance and burned at the stake on May 30, 1431 — at approximately nineteen years of age. A posthumous retrial in 1456 overturned the conviction, declaring the proceedings irregular. The Roman Catholic Church canonized her in 1920. Joan's life and death became a central element of French national mythology: the peasant girl who embodied France, martyred by England and treachery, victorious in God's cause. Her military contribution was real — her raising of the Orléans siege was a genuine strategic turning point — but her lasting significance was the symbolic and psychological inspiration she provided to French resistance at its lowest point.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+    "read_more_links": [
+        {
+            "title": "Siege Orléans Joan Arc 1429 relief",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Orl%C3%A9ans"
+        },
+        {
+            "title": "Trial Joan Arc heresy condemnation",
+            "url": "https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc"
+        },
+        {
+            "title": "Joan Arc canonization French mythology",
+            "url": "https://en.wikipedia.org/wiki/Joan_of_Arc#Cultural_impact"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Capture_de_Jeanne_d%27Arc_-_Jules_Eug%C3%A8ne_Lenepveu.jpg/300px-Capture_de_Jeanne_d%27Arc_-_Jules_Eug%C3%A8ne_Lenepveu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Capture_de_Jeanne_d%27Arc_-_Jules_Eug%C3%A8ne_Lenepveu.jpg",
+            "caption": "Jeanne d'Arc faite prisonnière à Compiègne. Fresque relatant la vie de Jeanne...",
+            "attribution": "Wikimedia Commons, Licence Ouverte"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Statue_Jeanne_Arc_place_Pyramides_Paris_4_%28cropped%29.jpg/300px-Statue_Jeanne_Arc_place_Pyramides_Paris_4_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Statue_Jeanne_Arc_place_Pyramides_Paris_4_%28cropped%29.jpg",
+            "caption": "Statue de Jeanne d'Arc sur la place des Pyramides, Paris.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KarlVII.jpg/300px-KarlVII.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/KarlVII.jpg",
+            "caption": "Charles VII of France ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Monument_comm%C3%A9moratif_de_la_r%C3%A9habilitation_de_Jeanne_d%E2%80%99Arc.jpg/300px-Monument_comm%C3%A9moratif_de_la_r%C3%A9habilitation_de_Jeanne_d%E2%80%99Arc.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Monument_comm%C3%A9moratif_de_la_r%C3%A9habilitation_de_Jeanne_d%E2%80%99Arc.jpg",
+            "caption": "Monument commemorating the rehabilitation of Joan of Arc in Noyon, Notre-Dame...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Virgin (title)",
+            "summary": "Honorific title bestowed on female saints and blesseds in Christianity",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Meister_von_San_Apollinare_Nuovo_in_Ravenna_002.jpg/250px-Meister_von_San_Apollinare_Nuovo_in_Ravenna_002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Virgin_%28title%29"
+        },
+        {
+            "name": "Patron saint",
+            "summary": "Saint regarded as a heavenly advocate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nicolas_R%C3%A9gnier_-_Saint_Matthew_and_the_Angel.jpg/250px-Nicolas_R%C3%A9gnier_-_Saint_Matthew_and_the_Angel.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Patron_saint"
+        },
+        {
+            "name": "Charles VII of France",
+            "summary": "King of France from 1422 to 1461",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KarlVII.jpg/250px-KarlVII.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_VII_of_France"
+        },
+        {
+            "name": "Margaret the Virgin",
+            "summary": "Saint (275–304) usually shown with a dragon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Margaret_the_Virgin.jpg/250px-Margaret_the_Virgin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_the_Virgin"
+        },
+        {
+            "name": "Trial of Joan of Arc",
+            "summary": "1431 trial and execution of French saint",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Joan_of_arc_interrogation.jpg/250px-Joan_of_arc_interrogation.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trial_of_Joan_of_Arc"
+        },
+        {
+            "name": "Pierre Cauchon",
+            "summary": "15th-century Catholic bishop of Beauvais, France",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tombeau_de_Pierre_Cauchon_%28cropped%29.jpg/250px-Tombeau_de_Pierre_Cauchon_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Cauchon"
+        }
+    ],
+    "territory_geojson": null
+}

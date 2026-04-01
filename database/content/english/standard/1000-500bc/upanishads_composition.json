@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1962,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1e2cf6377f23d3e5781c31790e8a657ce0f91e00ccee4ff2a45067ba4c1eea79",
+    "summary": "The Upanishads (c. 800–300 BC, with the earliest composed c. 800–600 BC) are the concluding portions of the Vedas — a collection of approximately 200 philosophical and mystical texts that form the theoretical basis of Vedanta, one of the six classical schools of Hindu philosophy. The word 'Upanishad' means 'sitting near' — suggesting the intimate guru-student transmission of secret teachings. The principal Upanishads (Brihadaranyaka, Chandogya, Taittiriya, Aitareya, Kena, and others) explore the nature of Brahman (ultimate reality) and its relationship to Atman (the individual soul).\n\nThe central philosophical insight of the Upanishads — Tat tvam asi ('That thou art') and Aham Brahmasmi ('I am Brahman') — is that the individual self and ultimate reality are identical, that liberation (moksha) consists in the direct experiential recognition of this identity. This monistic vision (Advaita Vedanta, developed later by Adi Shankaracharya) was a radical departure from earlier Vedic religion's focus on ritual sacrifice and cosmic ordering. The Upanishads were translated into Persian in the 17th century at Mughal emperor Dara Shikoh's order, and these translations reached European philosophers through Anquetil-Duperron's Latin version (1801–1802), profoundly influencing Schopenhauer and other Western thinkers who found in them philosophical kinship with their own concerns.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Upanishads",
+    "read_more_links": [
+        {
+            "title": "Vedanta philosophical school",
+            "url": "https://en.wikipedia.org/wiki/Vedanta"
+        },
+        {
+            "title": "Brahman-Atman identity",
+            "url": "https://en.wikipedia.org/wiki/Brahman"
+        },
+        {
+            "title": "Upanishads Western influence Schopenhauer",
+            "url": "https://en.wikipedia.org/wiki/Upanishads#Influence_on_Western_philosophy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Raja_Ravi_Varma_-_Sankaracharya.jpg/300px-Raja_Ravi_Varma_-_Sankaracharya.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Raja_Ravi_Varma_-_Sankaracharya.jpg",
+            "caption": "Adi Shankara with disciples.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Guru_and_DiscipleI.jpg/300px-Guru_and_DiscipleI.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Guru_and_DiscipleI.jpg",
+            "caption": "An encounter between an aged ascetic and his young disciple within an ashram ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Wassertropfen.jpg/300px-Wassertropfen.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wassertropfen.jpg",
+            "caption": "A waterdrop",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vajrasuchi_Upanishad_sample_i%2C_Samaveda%2C_Sanskrit%2C_Devanagari_script%2C_1728_CE_manuscript.jpg/300px-Vajrasuchi_Upanishad_sample_i%2C_Samaveda%2C_Sanskrit%2C_Devanagari_script%2C_1728_CE_manuscript.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vajrasuchi_Upanishad_sample_i%2C_Samaveda%2C_Sanskrit%2C_Devanagari_script%2C_1728_CE_manuscript.jpg",
+            "caption": "The minor Upanishads (Upanisad, Upanisat) are Hindu texts. Variously dated by...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Arthur Schopenhauer",
+            "summary": "German philosopher (1788–1860)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/250px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Schopenhauer"
+        },
+        {
+            "name": "Paul Deussen",
+            "summary": "German Indologist and philosopher (1845–1919)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Paul_Deussen_%281914%29_%28cropped%29.jpg/250px-Paul_Deussen_%281914%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Deussen"
+        },
+        {
+            "name": "Yajnavalkya",
+            "summary": "8th century BCE Indian sage and philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yajnavalkya_and_Janaka.jpg/250px-Yajnavalkya_and_Janaka.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yajnavalkya"
+        }
+    ],
+    "territory_geojson": null
+}

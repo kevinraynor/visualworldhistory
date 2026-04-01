@@ -1,0 +1,87 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "2.0",
+    "event_id": 2814,
+    "summary": "The Year of the Four Emperors (69 AD) was a year of civil war and political chaos in the [[event:81|Roman Empire]] following the suicide of Emperor Nero in 68 AD — during which four different men held the title of emperor in rapid succession (Galba, Otho, Vitellius, and Vespasian), exposing for the first time the fundamental secret of the Principate: that emperors could be made elsewhere than Rome, and that military loyalty rather than dynastic legitimacy was the ultimate source of imperial power. This 'secret of empire' (as Tacitus called it) would destabilize Roman politics repeatedly in subsequent centuries.\n\nThe succession crisis began when the Spanish legions refused to accept Nero's chosen successor and proclaimed their own governor Galba. Galba quickly alienated the Praetorian Guard and the German legions; Otho had Galba murdered and was proclaimed emperor, only to be defeated at the First Battle of Bedriacum by the Rhine legions supporting Vitellius. Otho committed suicide; Vitellius entered Rome but proved incompetent and brutal. The eastern legions, under their capable commander Vespasian (who had been conducting the Jewish War), declared for Vespasian, who defeated and killed Vitellius. Vespasian's accession founded the Flavian dynasty (69–96 AD) and restored stability — his reign and those of his sons Titus and Domitian produced the [[event:2019|eruption of Vesuvius]] disaster and the [[event:2020|Colosseum]]. The Year of Four Emperors became a template for future Roman political crisis.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors",
+    "read_more_links": [
+        {
+            "title": "Vespasian Flavian dynasty",
+            "url": "https://en.wikipedia.org/wiki/Vespasian"
+        },
+        {
+            "title": "Galba Otho Vitellius succession",
+            "url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors#Succession_crisis"
+        },
+        {
+            "title": "Tacitus secret of empire",
+            "url": "https://en.wikipedia.org/wiki/Tacitus#Works"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nero_1.JPG/300px-Nero_1.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nero_1.JPG",
+            "caption": "Bust of Nero at the Capitoline Museum, Rome, restored in the 17th century[1]",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aulus_Vitellius_%28MRABASF_Matritum%29_01.jpg/300px-Aulus_Vitellius_%28MRABASF_Matritum%29_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Aulus_Vitellius_%28MRABASF_Matritum%29_01.jpg",
+            "caption": "Depicted person:  Aulus Vitellius.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Stockholm_-_Antikengalerie_4_-_B%C3%BCste_Kaiser_Galba.jpg/300px-Stockholm_-_Antikengalerie_4_-_B%C3%BCste_Kaiser_Galba.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Stockholm_-_Antikengalerie_4_-_B%C3%BCste_Kaiser_Galba.jpg",
+            "caption": "Antiques Museum in the Royal Palace, Stockholm. Bust of Roman emperor Galba.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vespasianus01_pushkin_edit.png/300px-Vespasianus01_pushkin_edit.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Vespasianus01_pushkin_edit.png",
+            "caption": "Vespasianus. Plaster cast in Pushkin museum after original in Louvre (L 1261)...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Galba",
+            "summary": "Roman emperor from AD 68 to 69",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gold_Aureus_of_Galba_%28MANTIS%29.jpg/250px-Gold_Aureus_of_Galba_%28MANTIS%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Galba"
+        },
+        {
+            "name": "Otho",
+            "summary": "Roman emperor in AD 69",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Statue_of_the_emperor_Otho%2C_Ma_1215_%28cropped1%29.jpg/250px-Statue_of_the_emperor_Otho%2C_Ma_1215_%28cropped1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Otho"
+        },
+        {
+            "name": "Vitellius",
+            "summary": "Roman emperor in AD 69",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gold_Aureus_of_Vitellius_%28MANTIS%29.jpg/250px-Gold_Aureus_of_Vitellius_%28MANTIS%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vitellius"
+        },
+        {
+            "name": "Vespasian",
+            "summary": "Roman emperor from AD 69 to 79",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg/250px-Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian"
+        },
+        {
+            "name": "Nero",
+            "summary": "Roman emperor from AD 54 to 68",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/250px-Nero_Glyptothek_Munich_321.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nero"
+        },
+        {
+            "name": "Lucius Clodius Macer",
+            "summary": "1st century Roman politician and soldier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Denarius-Macer-RIC_0039.jpg/250px-Denarius-Macer-RIC_0039.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Clodius_Macer"
+        }
+    ]
+}

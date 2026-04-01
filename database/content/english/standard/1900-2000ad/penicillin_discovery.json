@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2703,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f9ce6a2722829c1f08492466fdb2848f1a8a067455e1f1d9162ba28acc0841de",
+    "summary": "In September 1928, Scottish bacteriologist Alexander Fleming observed that a mold contaminating one of his petri dishes — later identified as Penicillium notatum — was producing a substance that killed the surrounding Staphylococcus bacteria. Fleming named this substance penicillin and published his findings in 1929, though he was unable to isolate and stabilize it in sufficient quantities for clinical use.\n\nThe practical development of penicillin as an antibiotic took over a decade. In 1939, Howard Florey and Ernst Boris Chain at Oxford University began work on isolating and purifying penicillin. By 1941 they had conducted the first clinical trials, and with wartime urgency — particularly the pressing need to treat battlefield infections — American and British pharmaceutical companies scaled up production rapidly. By D-Day in 1944, enough penicillin existed to treat all Allied casualties. Fleming, Florey, and Chain shared the 1945 Nobel Prize in Physiology or Medicine.\n\nPenicillin and the antibiotic era it inaugurated transformed medicine more profoundly than almost any other discovery of the twentieth century. Bacterial infections that had been death sentences — pneumonia, syphilis, meningitis, scarlet fever, and infected wounds — became routinely treatable. Surgical procedures and procedures such as organ transplantation became far safer. Child mortality fell dramatically in countries where antibiotics became widely available.\n\nThe discovery also created a long-term public health challenge. Widespread and sometimes inappropriate use of antibiotics has driven the evolution of antibiotic-resistant bacteria, a growing crisis that threatens to undermine the medical gains of the antibiotic era and which public health authorities now recognize as one of the major challenges of the twenty-first century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Penicillin",
+    "read_more_links": [
+        {
+            "title": "Discovery of Penicillin - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/penicillin"
+        },
+        {
+            "title": "Alexander Fleming - Nobel Prize Biography",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/"
+        },
+        {
+            "title": "Penicillin: the first miracle drug - Science Museum London",
+            "url": "https://www.sciencemuseum.org.uk/objects-and-stories/medicine/penicillin-first-miracle-drug"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%22Every_Minute_Lost_on_this_Job_may_Mean..%22_-_NARA_-_514228_%28edited%29.jpg/300px-%22Every_Minute_Lost_on_this_Job_may_Mean..%22_-_NARA_-_514228_%28edited%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%22Every_Minute_Lost_on_this_Job_may_Mean..%22_-_NARA_-_514228_%28edited%29.jpg",
+            "caption": "\"Every Minute Lost on this Job may Mean..\" - NARA - 514228 (edited)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg/300px-Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg",
+            "caption": "Sample of penicillin mould presented by Alexander Fleming to Douglas Macleod,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Penicillin_poster_5.40.tif/300px-Penicillin_poster_5.40.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Penicillin_poster_5.40.tif",
+            "caption": "United States Federal Government World War II poster, showing a man sitting u...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Penicillin-G_3D.png/300px-Penicillin-G_3D.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Penicillin-G_3D.png",
+            "caption": "Chemical structure of Penicillin G. High-resolution .PNG made with Chem3D and...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Intravenous therapy",
+            "summary": "Medication administered into a vein",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/ICU_IV_1.jpg/250px-ICU_IV_1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Intravenous_therapy"
+        }
+    ],
+    "territory_geojson": null
+}

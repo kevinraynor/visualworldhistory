@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1296,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:52bf14f24c3fddc0c2e4412df06d6b9b00f71d45f7fe73152ce5c47d7b0369c6",
+    "summary": "Ounjougou is an archaeological complex in the Dogon region of Mali, West Africa, situated on the Bandiagara escarpment, that has yielded evidence of some of the earliest pottery production in Africa and possibly the world. Ceramic fragments from Ounjougou have been dated to approximately 11,400–9,400 BCE by optically stimulated luminescence (OSL), placing them among the earliest fired ceramics known from sub-Saharan Africa and broadly contemporary with early pottery in East Asia and slightly later than the oldest Japanese ceramics.\n\nThe early pottery at Ounjougou is associated with hunter-gatherer communities who inhabited this part of the Sahel/savanna zone during the early Holocene. The ceramics are simple in form, typically open vessels with impressed decoration, and were likely used for food processing and storage. The site has a long sequence of occupation and cultural change spanning from the Early Stone Age to historical times, making it one of the most important multi-period archaeological sites in West Africa. Early African pottery such as that from Ounjougou contributes to understanding the multiple independent origins of ceramic technology across different parts of the world — a pattern that challenges simple diffusionist models of a single center of invention.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ounjougou",
+    "read_more_links": [
+        {
+            "title": "Pottery Origins - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pottery#History"
+        },
+        {
+            "title": "West African Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_West_Africa"
+        },
+        {
+            "title": "Dogon Country - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dogon_country"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ounjougou_confluence.JPG/300px-Ounjougou_confluence.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ounjougou_confluence.JPG",
+            "caption": "Partial view of the Ounjougou archaeological sites complex, in the Yamé valle...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

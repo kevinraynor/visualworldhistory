@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1006,
+    "parent_id": 1001,
+    "granularity": "detailed",
+    "content_hash": "sha256:edecffa0ef99b481503ef65c58583611e6aa076f2e3cff7286c5758be6226392",
+    "summary": "The Battle of Plataea (479 BC) was the final major land engagement of the second Persian invasion of Greece, resulting in a decisive Greek victory that ended Persian ambitions of conquest on the European mainland. A combined Greek army under the Spartan regent Pausanias — the largest Greek force ever assembled — met the Persian army under Mardonius near the city of Plataea in Boeotia.\n\nMardonius had wintered in Thessaly after [[event:1005|Battle of Salamis]] and invaded Attica again in spring, forcing the Athenians to once more evacuate their city. The Greek alliance finally mustered a force of around 40,000 heavily armed hoplites plus a larger number of light troops and helots. After days of maneuvering and supply-line harassment, a confused night withdrawal by the Greeks turned into a disorganized rout that Mardonius exploited by ordering a charge. The Spartan contingent held firm, cut down Mardonius in personal combat, and the Persian army collapsed and fled to their fortified camp, which was subsequently stormed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Plataea",
+    "read_more_links": [
+        {
+            "title": "Pausanias (general)",
+            "url": "https://en.wikipedia.org/wiki/Pausanias_(general)"
+        },
+        {
+            "title": "Mardonius",
+            "url": "https://en.wikipedia.org/wiki/Mardonius"
+        },
+        {
+            "title": "Battle of Mycale",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Mycale"
+        },
+        {
+            "title": "Greco-Persian Wars",
+            "url": "https://en.wikipedia.org/wiki/Greco-Persian_Wars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classic_view_of_Acropolis.jpg/300px-Classic_view_of_Acropolis.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Classic_view_of_Acropolis.jpg",
+            "caption": "Classic view of Acropolis of Athens",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Stoa_of_Zeus.jpg/300px-Stoa_of_Zeus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Stoa_of_Zeus.jpg",
+            "caption": "Stoa of Zeus. Ancient Agora of Athens, Greece.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Plataea_battlefield.jpg/300px-Plataea_battlefield.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Plataea_battlefield.jpg",
+            "caption": "Plataea battlefield",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Coraza_griega_arcaica_MAN_Madrid_01_noBG.jpg/300px-Coraza_griega_arcaica_MAN_Madrid_01_noBG.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Coraza_griega_arcaica_MAN_Madrid_01_noBG.jpg",
+            "caption": "Ancient Greek bronze CUIRASS, at the National Archaeological Museum of Spain,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pausanias the Regent",
+            "summary": "Spartan general and regent (died c. 477 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pausanias_in_the_Capitoline_Museums%2C_Rome.jpg/250px-Pausanias_in_the_Capitoline_Museums%2C_Rome.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_the_Regent"
+        },
+        {
+            "name": "Aristodemus (died 479 BC)",
+            "summary": "Spartan soldier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/250px-Helmed_Hoplite_Sparta.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristodemus_%28died_479_BC%29"
+        },
+        {
+            "name": "Aristides",
+            "summary": "Athenian general and statesman (530–468 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Boston_%282019%29_-_194.jpg/250px-Boston_%282019%29_-_194.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristides"
+        },
+        {
+            "name": "Olympiodorus (military leader)",
+            "summary": "5th-century BC Athenian military commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Olympiodoros_Greek_Military_Leader_in_280_B.C.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Olympiodorus_%28military_leader%29"
+        },
+        {
+            "name": "Masistius",
+            "summary": "Persian cavalry leader at Plataea",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Death_of_Masistius.jpg/250px-Death_of_Masistius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Masistius"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        }
+    ],
+    "territory_geojson": null
+}

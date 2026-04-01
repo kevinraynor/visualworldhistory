@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3444,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:708b372b405c775a4f77598f9fa88c66565479891e336f105b2c44cb0b2bb974",
+    "summary": "The Balkan Wars of 1912–1913 were two successive conflicts that dramatically reshaped the political map of southeastern Europe and contributed directly to the conditions leading to [[event:110|World War I]]. The First Balkan War (October 1912 – May 1913) united Bulgaria, Serbia, Greece, and Montenegro — the Balkan League — against the Ottoman Empire, which had ruled much of the peninsula for centuries. The allied states rapidly overran most of the empire's remaining European territories, including Macedonia, Thrace, and Albania.\n\nThe Second Balkan War (June–August 1913) erupted almost immediately when Bulgaria, dissatisfied with the territorial division, attacked its former allies Serbia and Greece. Romania and the Ottoman Empire joined the assault on Bulgaria, which suffered a swift and comprehensive defeat. The Treaty of Bucharest redrew borders again, leaving Bulgaria diminished and aggrieved. The wars effectively ended Ottoman rule in Europe outside a small zone around Istanbul, but the settlements left a volatile legacy: Serbia emerged greatly enlarged and ambitious, Austria-Hungary felt threatened by Serbian power, and the assassination of Archduke Franz Ferdinand in Sarajevo the following year ignited the larger European conflagration.\n\nThe Balkan Wars also foreshadowed later twentieth-century patterns of ethnic nationalism, population displacement, and atrocity. Hundreds of thousands of civilians were displaced, and numerous massacres of civilian populations were documented by international commissions, including one established by the Carnegie Endowment for International Peace.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Balkan_Wars",
+    "read_more_links": [
+        {
+            "title": "First Balkan War",
+            "url": "https://en.wikipedia.org/wiki/First_Balkan_War"
+        },
+        {
+            "title": "Second Balkan War",
+            "url": "https://en.wikipedia.org/wiki/Second_Balkan_War"
+        },
+        {
+            "title": "Treaty of Bucharest (1913)",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Bucharest_(1913)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/King_George_I_of_Greece_and_Tsar_Ferdinand_of_Bulgaria_at_Thessaloniki.jpg/300px-King_George_I_of_Greece_and_Tsar_Ferdinand_of_Bulgaria_at_Thessaloniki.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/King_George_I_of_Greece_and_Tsar_Ferdinand_of_Bulgaria_at_Thessaloniki.jpg",
+            "caption": "King George I of Greece visits the Bulgarian Tsar Ferdinand in the headquarte...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ligne_de_Partage_d%27apr%C3%A8s_la_carte_annex%C3%A9e_au_Trait%C3%A9_d%27Alliance.jpg/300px-Ligne_de_Partage_d%27apr%C3%A8s_la_carte_annex%C3%A9e_au_Trait%C3%A9_d%27Alliance.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Ligne_de_Partage_d%27apr%C3%A8s_la_carte_annex%C3%A9e_au_Trait%C3%A9_d%27Alliance.jpg",
+            "caption": "'The Map of the \"Disputed Teritory\" (1912)'\nDisputed between Sebia and Bulgar...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Turkish_volunteers_join_the_army_in_the_Balkan_Wars%2C_1912.jpg/300px-Turkish_volunteers_join_the_army_in_the_Balkan_Wars%2C_1912.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Turkish_volunteers_join_the_army_in_the_Balkan_Wars%2C_1912.jpg",
+            "caption": "Balkan Savaşlarına katılmak için yola çıkan Türk gönüllüler, 1912",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bulgarian_army_adrinople.jpg/300px-Bulgarian_army_adrinople.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bulgarian_army_adrinople.jpg",
+            "caption": "Balkan Wars. Bulgarian forces waiting to commence their assault on Adrinople",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mehmed V",
+            "summary": "Sultan of the Ottoman Empire from 1909 to 1918",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sultan_Muhammed_Chan_V.%2C_Kaiser_der_Osmanen_1915_C._Pietzner.jpg/250px-Sultan_Muhammed_Chan_V.%2C_Kaiser_der_Osmanen_1915_C._Pietzner.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mehmed_V"
+        },
+        {
+            "name": "Enver Pasha",
+            "summary": "Turkish general and politician (1881–1922)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Enver_Pasha_1911.jpg/250px-Enver_Pasha_1911.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Enver_Pasha"
+        },
+        {
+            "name": "Zeki Pasha",
+            "summary": "Field marshal (Müşir) of the Ottoman Army",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zeki_Pasha.jpg/250px-Zeki_Pasha.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeki_Pasha"
+        },
+        {
+            "name": "Abdul Kerim Pasha",
+            "summary": "Ottoman commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Abdlkerim_Pasha.jpg/250px-Abdlkerim_Pasha.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abdul_Kerim_Pasha"
+        },
+        {
+            "name": "Rauf Orbay",
+            "summary": "Turkish naval officer and diplomat (1881–1964)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rauf_orbay2.jpg/250px-Rauf_orbay2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rauf_Orbay"
+        },
+        {
+            "name": "Mihail Savov",
+            "summary": "Bulgarian general (1857–1928)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mihail_Savov.jpg/250px-Mihail_Savov.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mihail_Savov"
+        }
+    ],
+    "territory_geojson": null
+}

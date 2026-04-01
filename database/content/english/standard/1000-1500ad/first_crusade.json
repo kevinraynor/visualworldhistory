@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2220,
+    "parent_id": 92,
+    "granularity": "notable",
+    "content_hash": "sha256:ea86a87911f87cdf036e3eae286785d97769dbdd86e42c664d754d869b7199a0",
+    "summary": "The First Crusade (1096–1099 AD) was the most militarily successful of the [[event:92|Crusades]], a massive armed pilgrimage of Western European nobility and commoners that captured Jerusalem and established a series of Crusader states in the Levant against all expectations. Proclaimed by Pope Urban II at the Council of Clermont (1095) in response to Byzantine Emperor Alexios I's appeal for mercenary help against the [[event:2271|Seljuk Turks]], the crusade attracted an enormous force — estimates range from 60,000 to 100,000 participants at various stages — drawn by religious devotion, the promise of plenary indulgence, and opportunities for wealth and glory.\n\nThe People's Crusade (1096), a disorganized popular mass movement led by Peter the Hermit, preceded the main army and was massacred by the Turks in Anatolia. The main Crusade force — led by Godfrey of Bouillon, Raymond of Toulouse, Bohemond of Taranto, and other great lords — fought its way through Anatolia, besieged Antioch in an epic seven-month siege (1097–1098), and finally captured Jerusalem on July 15, 1099, in a massacre of its Muslim and Jewish inhabitants that shocked even contemporaries. The First Crusade established the [[event:2965|Kingdom of Jerusalem]] and the Crusader states of Antioch, Edessa, and Tripoli — a chain of Latin Christian principalities in the Muslim world that survived, with varying fortunes, for nearly two centuries until the fall of the last Crusader stronghold at [[event:3531|Acre]] in 1291.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Crusade",
+    "read_more_links": [
+        {
+            "title": "Council Clermont 1095 Crusade proclamation",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Clermont"
+        },
+        {
+            "title": "Siege Jerusalem 1099 massacre",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)"
+        },
+        {
+            "title": "Crusader states establishment Levant",
+            "url": "https://en.wikipedia.org/wiki/Crusader_states"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Crusader_Graffiti_in_the_Church_of_the_holy_supulchure_Jerusalem_Victor_2011_-1-21.jpg/300px-Crusader_Graffiti_in_the_Church_of_the_holy_supulchure_Jerusalem_Victor_2011_-1-21.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Crusader_Graffiti_in_the_Church_of_the_holy_supulchure_Jerusalem_Victor_2011_-1-21.jpg",
+            "caption": "Crusader Graffiti in the Church of the Holy Sepulchre",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Passages_d%27outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg/300px-Passages_d%27outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Passages_d%27outremer_Fr5594%2C_fol._19r%2C_Concile_de_Clermont.jpg",
+            "caption": "Miniature: Pope Urban II preaching at the Council of Clermont. Sébastien Mame...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Map_of_First_Crusade.png/300px-Map_of_First_Crusade.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Map_of_First_Crusade.png",
+            "caption": "Map of First Crusade (1096–1099)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Siege_de_Nic%C3%A9e_%281097%29.jpg/300px-Siege_de_Nic%C3%A9e_%281097%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Siege_de_Nic%C3%A9e_%281097%29.jpg",
+            "caption": "Siège de Nicée (1097)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Peter the Hermit",
+            "summary": "French leader of the People's Crusade (1050–1115/31)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_the_Hermit_Preaching_the_First_Crusade.jpg/250px-Peter_the_Hermit_Preaching_the_First_Crusade.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_the_Hermit"
+        },
+        {
+            "name": "Fatimid Caliphate",
+            "summary": "Fourth Islamic caliphate (909–1171)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Fatimid_Caliphate.PNG/250px-Fatimid_Caliphate.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_Caliphate"
+        },
+        {
+            "name": "Adhemar of Le Puy",
+            "summary": "11th-century French bishop and crusader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Adh%C3%A9mar_de_Monteil_%C3%A0_Antioche.jpeg/250px-Adh%C3%A9mar_de_Monteil_%C3%A0_Antioche.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adhemar_of_Le_Puy"
+        },
+        {
+            "name": "Godfrey of Bouillon",
+            "summary": "Ruler of Jerusalem from 1099 to 1100",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Godfrey_of_Bouillon_%28cropped%29.jpg/250px-Godfrey_of_Bouillon_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Godfrey_of_Bouillon"
+        },
+        {
+            "name": "Baldwin I of Jerusalem",
+            "summary": "King of Jerusalem from 1100 to 1118",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Baldwin_1_of_Jerusalem.jpg/250px-Baldwin_1_of_Jerusalem.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baldwin_I_of_Jerusalem"
+        },
+        {
+            "name": "Robert II, Count of Flanders",
+            "summary": "Count of Flanders from 1093 to 1111",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Rober_iunior.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_II%2C_Count_of_Flanders"
+        }
+    ],
+    "territory_geojson": null
+}

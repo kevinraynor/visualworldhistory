@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 41,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:09539ee51ec33b0647f6b199a960bfcdf3e6349f207beac8f2c1ef3d4ca95593",
+    "summary": "The Old Kingdom of Egypt, spanning roughly 2686 to 2181 BCE, represents one of the most remarkable periods in human history — an era in which the Nile Valley civilization consolidated royal authority, perfected monumental architecture, and established administrative systems that would endure for millennia. This era encompasses the Third through Sixth Dynasties and is often called the Age of the Pyramids, as it produced the greatest concentration of pyramid construction the ancient world would ever see. The pharaoh was understood not merely as a political ruler but as a living god, the earthly embodiment of Horus, whose divine authority made possible the massive coordinated labor that raised the pyramid complexes at Saqqara, Dahshur, and Giza.\n\nThe Fourth Dynasty (c. 2613–2494 BCE) stands as the architectural apex of the Old Kingdom. Pharaoh Khufu commissioned the Great Pyramid at Giza — the largest single structure ever built in the ancient world — followed by the pyramids of Khafre and Menkaure. These monuments were not mere tombs but cosmological statements, their precise alignment with cardinal directions and stellar positions reflecting a sophisticated understanding of astronomy and a theology in which the dead king ascended to join the circumpolar stars. The logistics involved were staggering: tens of thousands of workers, a permanent skilled labor force, vast bakeries and breweries, and a supply chain stretching the length of Egypt. Recent archaeological evidence has overturned older assumptions about slave labor, demonstrating instead that these workers were fed, housed, and cared for as state employees.\n\nBeyond architecture, the Old Kingdom was a period of profound administrative innovation. The vizier served as chief minister, overseeing a layered bureaucracy of scribes, tax collectors, and provincial governors known as nomarchs. The development of hieroglyphic writing — building on earlier [[event:32|Predynastic Egyptian]] traditions — reached new levels of sophistication, enabling the recording of legal documents, religious texts, and biographical inscriptions in elite tombs known as mastabas. These autobiographical tomb texts, particularly prominent in the Fifth and Sixth Dynasties, offer the earliest substantial body of personal narrative writing in human history.\n\nThe Old Kingdom maintained active trade relationships with neighboring regions. Expeditions to the Sinai quarried turquoise and copper; fleets sailed to Byblos on the Levantine coast for cedar timber unavailable in Egypt; and caravans reached Nubia for gold, ivory, and incense. The Nile itself functioned as Egypt's central highway, allowing grain and stone to move efficiently across the kingdom. This economic integration supported a population that may have reached several million people, sustained by the annual inundation that deposited fertile silt across the floodplain.\n\nReligious life during the Old Kingdom centered on the solar theology of Re, the sun god of Heliopolis, whose cult gained increasing prominence through the Fifth Dynasty. Pharaohs of this period constructed elaborate sun temples in addition to their pyramid complexes, and the Pyramid Texts — carved inside the burial chambers of Fifth and Sixth Dynasty rulers — constitute the oldest known corpus of religious literature. These spells were designed to ensure the king's successful navigation of the afterlife and his eternal union with Re, laying conceptual foundations that would persist through the later Coffin Texts and Book of the Dead.\n\nThe Old Kingdom collapsed around 2181 BCE in the First Intermediate Period, a breakdown attributed to a combination of factors: a prolonged drought linked to a weakening of the Nile flood cycle (supported by paleoclimatic evidence), the decentralization of power as nomarchs accumulated hereditary authority at the expense of the crown, and possible internal fiscal strain from decades of monumental building. The resulting fragmentation lasted roughly a century and a half before reunification under the [[event:51|Egyptian Middle Kingdom]]. The Old Kingdom's achievements in architecture, administration, and theology nevertheless set the template for all subsequent Egyptian civilization, and its pyramids remain among the most recognizable structures ever created by human hands.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+    "read_more_links": [
+        {
+            "title": "Great Pyramid of Giza - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+        },
+        {
+            "title": "Ancient Egypt - Britannica",
+            "url": "https://www.britannica.com/place/ancient-Egypt"
+        },
+        {
+            "title": "Pyramid Texts - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pyramid_Texts"
+        },
+        {
+            "title": "Egyptian Pyramids - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Egyptian_pyramids"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Extended_Data_Fig._2_Facial_reconstruction_and_depiction_created_from_the_Nuwayrat_individual_skull.jpg/300px-Extended_Data_Fig._2_Facial_reconstruction_and_depiction_created_from_the_Nuwayrat_individual_skull.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Extended_Data_Fig._2_Facial_reconstruction_and_depiction_created_from_the_Nuwayrat_individual_skull.jpg",
+            "caption": "Extended Data Fig. 2 Facial reconstruction and depiction created from the Nuw...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Limestone_head_of_a_king._Thought_by_Petrie_to_be_Narmer._Bought_by_Petrie_in_Cairo%2C_Egypt._1st_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/300px-Limestone_head_of_a_king._Thought_by_Petrie_to_be_Narmer._Bought_by_Petrie_in_Cairo%2C_Egypt._1st_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Limestone_head_of_a_king._Thought_by_Petrie_to_be_Narmer._Bought_by_Petrie_in_Cairo%2C_Egypt._1st_Dynasty._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "caption": "Limestone head of a man. Thought by Petrie to be Narmer. Bought by Petrie in ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/%C3%84gyptisches_Museum_Kairo_2016-03-29_Rahotep_Nofret_01.jpg/300px-%C3%84gyptisches_Museum_Kairo_2016-03-29_Rahotep_Nofret_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/%C3%84gyptisches_Museum_Kairo_2016-03-29_Rahotep_Nofret_01.jpg",
+            "caption": "en:Egyptian Museum Cairo: en:Prince Rahotep and his wife en:Nofret, tomb stat...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Djoser",
+            "summary": "Pharaoh of the third dynasty of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Djoser_cropped.jpg/250px-Djoser_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Djoser"
+        },
+        {
+            "name": "Neferirkare",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Abydos_KL_07-17_n56.jpg/250px-Abydos_KL_07-17_n56.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neferirkare"
+        },
+        {
+            "name": "Christian Charles Josias von Bunsen",
+            "summary": "German diplomat and scholar (1791–1860)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Christian_karl_josias_von_bunsen.jpg/250px-Christian_karl_josias_von_bunsen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Charles_Josias_von_Bunsen"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Saqqara",
+            "summary": "Burial ground in Giza Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/250px-Saqqara_pyramid_ver_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "name": "Step pyramid",
+            "summary": "Architectural structure that uses flat platforms or steps to form geometric pyramid",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg/250px-Vista_desde_la_Pir%C3%A1mide_de_la_Luna_-_Teotihuacan_-_MX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Step_pyramid"
+        }
+    ],
+    "territory_geojson": null
+}

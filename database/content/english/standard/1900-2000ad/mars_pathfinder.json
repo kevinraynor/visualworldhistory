@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3685,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c9e88c0ffe0682bb431f5bb166b0df8c199b89eeb575b0f7f1725f24ba77c4b6",
+    "summary": "NASA's Mars Pathfinder mission landed on Mars on July 4, 1997, deploying the Sojourner rover — the first wheeled vehicle to operate on another planet — in a boulder-strewn ancient flood plain called Ares Vallis. The lander and rover returned over 2.3 billion bits of data, including 16,500 images from the lander camera and 550 images from Sojourner's cameras, as well as measurements of Martian soil and atmospheric conditions. The mission operated for three months before contact was lost, far exceeding its designed 30-day lifespan.\n\nMars Pathfinder demonstrated two key technologies that would define subsequent Mars exploration: a novel airbag landing system and an autonomous surface rover. The mission was also notable as a demonstration of NASA's faster, better, cheaper philosophy for planetary exploration, costing $265 million compared to the billion-dollar Viking missions of the 1970s. The mission generated enormous public interest, particularly through live website coverage that made it one of the first major internet media events, with NASA's website receiving over 47 million hits in its first four days — unprecedented for the era and reflecting the new media landscape created by the [[event:2692|Internet Revolution]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mars_Pathfinder",
+    "read_more_links": [
+        {
+            "title": "Sojourner (rover)",
+            "url": "https://en.wikipedia.org/wiki/Sojourner_(rover)"
+        },
+        {
+            "title": "Exploration of Mars",
+            "url": "https://en.wikipedia.org/wiki/Exploration_of_Mars"
+        },
+        {
+            "title": "Mars rover",
+            "url": "https://en.wikipedia.org/wiki/Mars_rover"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2001_mars_odyssey_wizja.jpg/300px-2001_mars_odyssey_wizja.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2001_mars_odyssey_wizja.jpg",
+            "caption": "Artist's concept of 2001 Mars Odyssey spacecraft over Syrtis Major Planum.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MPT_Hardware_on_the_Surface_MRO_picture.jpg/300px-MPT_Hardware_on_the_Surface_MRO_picture.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/MPT_Hardware_on_the_Surface_MRO_picture.jpg",
+            "caption": "This image shows the Pathfinder lander on the surface. Zooming in, one can di...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/PIA01466.jpg/300px-PIA01466.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/PIA01466.jpg",
+            "caption": "PIA01466",
+            "attribution": "Wikimedia Commons"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Daniel Goldin",
+            "summary": "American engineer and former head of NASA (born 1940)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Daniel_Goldin%2C_official_NASA_photo.jpg/250px-Daniel_Goldin%2C_official_NASA_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Goldin"
+        },
+        {
+            "name": "Carl Sagan",
+            "summary": "American scientist and science communicator (1934–1996)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Carl_Sagan_Planetary_Society.JPG/250px-Carl_Sagan_Planetary_Society.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Sagan"
+        },
+        {
+            "name": "Astronomer",
+            "summary": "Scientist in the field of astronomy",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg/250px-IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Astronomer"
+        },
+        {
+            "name": "Timekeeping on Mars",
+            "summary": "Proposed approaches to tracking date and time on the planet Mars",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mars_earth_orbit.svg/250px-Mars_earth_orbit.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Timekeeping_on_Mars"
+        }
+    ],
+    "territory_geojson": null
+}

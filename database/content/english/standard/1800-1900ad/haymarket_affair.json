@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2632,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:7d9fe1ed9b94cc98711e77cb97eb323968cd0cee7dbbd236100fbffe81d68dab",
+    "summary": "The Haymarket affair (4 May 1886) began as a peaceful labor rally in Chicago's Haymarket Square called to protest police violence against striking workers the previous day, and became one of the most significant events in American labor history when an unknown person threw a bomb at police who were dispersing the crowd, killing one officer immediately and wounding dozens. The subsequent trial and executions of eight anarchist labor organizers — despite no evidence that any of them had thrown the bomb — became a cause célèbre of the international [[event:2584|labor movement]].\n\nThe rally was held in the context of the nationwide general strike for the eight-hour workday that had begun on 1 May 1886, a date now commemorated internationally as International Workers' Day or May Day. Chicago's labor movement was particularly active, and the anarchist speakers at the Haymarket rally had given fiery but not incendiary speeches. When police moved to disperse the crowd, the bomb was thrown, triggering gunfire in which seven more officers and an unknown number of protesters were killed.\n\nThe Chicago police arrested and charged eight anarchist leaders. The trial was a travesty of legal procedure: the jury was packed with men hostile to labor, the evidence was largely circumstantial, and the state argued essentially that the defendants were guilty of advocating violent revolution regardless of their connection to the actual bomb. Four men were hanged, one committed suicide in prison, and three were eventually pardoned by Governor John Peter Altgeld in 1893 on grounds that the trial had been fundamentally unjust.\n\nThe Haymarket affair set back the eight-hour workday campaign in the United States for years and fed a wave of anti-labor, anti-immigrant, and anti-anarchist sentiment. Internationally, however, the executed men became martyrs of the labor movement, and 1 May became established as International Labor Day in their commemoration.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haymarket_affair",
+    "read_more_links": [
+        {
+            "title": "Haymarket Affair – Britannica",
+            "url": "https://www.britannica.com/event/Haymarket-Riot"
+        },
+        {
+            "title": "Eight-Hour Day – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eight-hour_day"
+        },
+        {
+            "title": "Labour Movement – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Labour_movement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Haymarket_jail_Harpers_Weekly_scan_01.tif/300px-Haymarket_jail_Harpers_Weekly_scan_01.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Haymarket_jail_Harpers_Weekly_scan_01.tif",
+            "caption": "Haymarket jail Harpers Weekly scan",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Bosses_of_the_Senate_by_Joseph_Keppler_%28cropped%29.jpg/300px-The_Bosses_of_the_Senate_by_Joseph_Keppler_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/The_Bosses_of_the_Senate_by_Joseph_Keppler_%28cropped%29.jpg",
+            "caption": "The Bosses of the Senate, a cartoon by Joseph Keppler. First published in Puc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Altgeld.JPG/300px-Altgeld.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Altgeld.JPG",
+            "caption": "Statue of John Peter Altgeld (1847-1902) by Gutzon Borglum in Lincoln Park, C...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Haymarket_Affair_map_Chicago_Tribune_may_5%2C_1886.jpg/300px-Haymarket_Affair_map_Chicago_Tribune_may_5%2C_1886.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Haymarket_Affair_map_Chicago_Tribune_may_5%2C_1886.jpg",
+            "caption": "Haymarket Affair map Chicago Tribune may 5, 1886",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Carter Harrison III",
+            "summary": "American politician (1825–1893)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Carter_Harrison%2C_Sr._-_Brady-Handy.jpg/250px-Carter_Harrison%2C_Sr._-_Brady-Handy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carter_Harrison_III"
+        },
+        {
+            "name": "Richard J. Oglesby",
+            "summary": "Illinois politician and Union Army general (1824–1899)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Richard_James_Oglesby_-_Brady-Handy.jpg/250px-Richard_James_Oglesby_-_Brady-Handy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_J._Oglesby"
+        },
+        {
+            "name": "John Peter Altgeld",
+            "summary": "Governor of Illinois from 1893 to 1897",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/John_Peter_Altgeld_1893.webp/250px-John_Peter_Altgeld_1893.webp.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Peter_Altgeld"
+        }
+    ],
+    "territory_geojson": null
+}

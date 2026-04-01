@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1364,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:4cf0e9fbbd05d17846f2220fe172640af3799d4788d7c471aebec30b5b5da403",
+    "summary": "The post-glacial sea level rise that accompanied the [[event:1262|end of the last Ice Age]] was one of the most transformative geographic processes in human prehistory, raising global sea levels by approximately 120–130 meters between roughly 19,000 BCE and 3,000 BCE, reshaping the world's coastlines and submerging vast areas of formerly inhabited land. This rise was not constant: the rate was rapid during the meltwater pulses when large ice sheets collapsed, potentially reaching several meters per century, and slower during intervening periods.\n\nThe consequences for human populations were enormous. The flooding of [[event:1319|Doggerland]] severed Britain from continental Europe. The inundation of [[event:1318|Sundaland]] separated the islands of Southeast Asia. Beringia, the land bridge connecting Asia to North America, was submerged by approximately 11,000 BCE. The Persian Gulf — which had been a river valley in the glacial maximum — was flooded. The Black Sea, according to some hypotheses, experienced a catastrophic influx of Mediterranean waters around 5600 BCE. Coastal lowlands around the world — which typically supported the most productive hunter-gatherer habitats, with their access to diverse marine, riverine, and terrestrial resources — were progressively lost.\n\nThe post-glacial sea level rise has been reconstructed from coral reefs, sediment cores, and archaeological evidence on submerged coastlines, and is one of the best-documented examples of natural climate-driven geographic change. It provides context for understanding modern sea level rise driven by anthropogenic climate change, though the rates and mechanisms differ significantly.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sea_level_rise",
+    "read_more_links": [
+        {
+            "title": "Post-Glacial Rebound - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Post-glacial_rebound"
+        },
+        {
+            "title": "Meltwater Pulse - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Meltwater_pulse_1A"
+        },
+        {
+            "title": "Holocene Sea Level Change - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Holocene_sea_level_change"
+        },
+        {
+            "title": "Deglaciation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Deglaciation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami%2C_4.34_MLLW_high_tide_am.jpg/300px-October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami%2C_4.34_MLLW_high_tide_am.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/October_17_2016_sunny_day_tidal_flooding_at_Brickell_Bay_Drive_and_12_Street_downtown_Miami%2C_4.34_MLLW_high_tide_am.jpg",
+            "caption": "Sunny day high tide nuisance flooding in en:Brickell, downtown Miami Florida....",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Mal%C3%A9.jpg/300px-Mal%C3%A9.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mal%C3%A9.jpg",
+            "caption": "Aerial view of the Malé viewed from the west",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/ANKOMAH_20221122-009.jpg/300px-ANKOMAH_20221122-009.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/ANKOMAH_20221122-009.jpg",
+            "caption": "A man sits in front of a dilapidated house in Chorkor, a suburb of Accra, sho...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Greg Holland",
+            "summary": "American baseball player (born 1985)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Greg_Holland_on_May_25%2C_2015.jpg/250px-Greg_Holland_on_May_25%2C_2015.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Greg_Holland"
+        }
+    ],
+    "territory_geojson": null
+}

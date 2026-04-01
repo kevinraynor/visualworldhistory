@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1891,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ebad07bb9f82e38483f6c10e14e302e2a876020c1292af7ffad4975b412640d4",
+    "summary": "Aleppo, known in antiquity as Halab, was one of the major urban centers of the ancient Near East during the Bronze Age, roughly 2000–1200 BC, located in the northern Levant in what is now northwestern Syria. Its strategic position at the junction of trade routes connecting Mesopotamia, Anatolia, and the Mediterranean coast made it a wealthy and contested city. The ancient citadel mound of Aleppo, still occupied by the medieval citadel visible today, was the center of a city-state that wielded significant regional influence during the Middle Bronze Age.\n\nIn the eighteenth century BC Aleppo was the capital of the kingdom of Yamhad, one of the most powerful states in the ancient Near East at the time and a rival of Babylon under Hammurabi. The archives from the contemporaneous city of Mari in Mesopotamia provide considerable information about Yamhad and its relations with neighboring powers, including its eventual conquest by the [[event:54|Hittites]] in the seventeenth century BC. Hittite control over Halab was contested multiple times, reflecting the city's enduring importance.\n\nDuring the Late Bronze Age, Aleppo remained a significant city under Hittite suzerainty, associated with the important cult of the storm god Hadad (also known as Teshub in the Hittite tradition), who was worshipped at a major temple on the citadel mound. When the Hittite Empire fell during the [[event:1815|Bronze Age Collapse]] around 1180 BC, Aleppo continued as a center of Aramean settlement and maintained its importance as a commercial and religious center through the Iron Age and beyond, making it one of the oldest continuously inhabited cities in the world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aleppo#Ancient_history",
+    "read_more_links": [
+        {
+            "title": "Aleppo - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aleppo"
+        },
+        {
+            "title": "Yamhad",
+            "url": "https://en.wikipedia.org/wiki/Yamhad"
+        },
+        {
+            "title": "Ancient Aleppo - Britannica",
+            "url": "https://www.britannica.com/place/Aleppo"
+        },
+        {
+            "title": "Mari Archives",
+            "url": "https://en.wikipedia.org/wiki/Mari,_Syria"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Baron_hotel_at_night.jpg/300px-Baron_hotel_at_night.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Baron_hotel_at_night.jpg",
+            "caption": "Baron hotel in Aleppo at night",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aleppo_citadel_Museum_laz.jpg/300px-Aleppo_citadel_Museum_laz.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Aleppo_citadel_Museum_laz.jpg",
+            "caption": "Aleppo citadel Museum",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aleppo_city_hall_laz.jpg/300px-Aleppo_city_hall_laz.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Aleppo_city_hall_laz.jpg",
+            "caption": "Aleppo city hall",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aleppo_Al-Sultaniyah_Madrasa_0052.jpg/300px-Aleppo_Al-Sultaniyah_Madrasa_0052.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Aleppo_Al-Sultaniyah_Madrasa_0052.jpg",
+            "caption": "The courtyard and minaret. Governor (Sultan) al-Aziz had this completed in 12...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Aleppo Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleppo_in_Syria_2016.svg/250px-Aleppo_in_Syria_2016.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aleppo_Governorate"
+        },
+        {
+            "name": "Amorites",
+            "summary": "Ancient Semitic-speaking people from the Levant",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cuneiform_Clay_Tablets_from_Amorite_Kingdom_of_Mari%2C_1st_Half_of_2nd_Mill._BC.jpg/250px-Cuneiform_Clay_Tablets_from_Amorite_Kingdom_of_Mari%2C_1st_Half_of_2nd_Mill._BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amorites"
+        },
+        {
+            "name": "Marco Polo",
+            "summary": "Venetian merchant, explorer, and writer (1254–1324)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Marco_Polo_-_costume_tartare.jpg/250px-Marco_Polo_-_costume_tartare.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Polo"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2179,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:4b471784ffa56d84afd8bc18502e905a46208ebbfb05da84377dcae79b161e4c",
+    "summary": "The collapse of Teotihuacan (c. 550–650 AD) was one of the most significant events in pre-Columbian history — the sudden abandonment and partial burning of the largest city in the Americas, a metropolis of 100,000–200,000 people whose fall created a power vacuum that restructured political and cultural life across Mesoamerica for centuries. Teotihuacan had dominated central Mexico and exercised enormous influence over distant societies including the [[event:2070|Maya]] for 600 years; its collapse was felt across the region. The [[event:2071|Maya city of Tikal]] lost its powerful Teotihuacan-linked dynasty around the same time.\n\nThe cause of Teotihuacan's collapse remains debated. Archaeological evidence shows that the city's ceremonial core was deliberately burned around 550–650 AD — not by external invaders (there is little evidence of military defeat) but apparently by internal revolt. The civic buildings, temples, and elite residences were targeted while residential neighborhoods were largely spared, suggesting popular uprising against a ruling class. Environmental stress (drought, deforestation and soil erosion from the intensive agriculture needed to feed the city), political fragmentation as regional elites grew autonomous, and possibly epidemic disease may have contributed. After the collapse, Teotihuacan's population dispersed across central Mexico; some settled areas became the nucleus of new political centers, including the later Toltec state at Tula. The legacy of Teotihuacan — its religious iconography, its pyramid forms, its feathered serpent deity Quetzalcoatl — was claimed by subsequent Mesoamerican civilizations as a prestigious ancestral heritage.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teotihuacan#Collapse",
+    "read_more_links": [
+        {
+            "title": "Teotihuacan burning internal revolt",
+            "url": "https://en.wikipedia.org/wiki/Teotihuacan#Fall"
+        },
+        {
+            "title": "Teotihuacan influence Maya Tikal",
+            "url": "https://en.wikipedia.org/wiki/Teotihuacan#Influence_on_other_cultures"
+        },
+        {
+            "title": "Quetzalcoatl feathered serpent legacy",
+            "url": "https://en.wikipedia.org/wiki/Quetzalcoatl"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2013-12-23_Procesi%C3%B3n_de_aves_verdes%2C_Templo_de_los_Caracoles_Emplumados%2C_Teotihuacan_01_anagoria.JPG/300px-2013-12-23_Procesi%C3%B3n_de_aves_verdes%2C_Templo_de_los_Caracoles_Emplumados%2C_Teotihuacan_01_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2013-12-23_Procesi%C3%B3n_de_aves_verdes%2C_Templo_de_los_Caracoles_Emplumados%2C_Teotihuacan_01_anagoria.JPG",
+            "caption": "Teotihuacan: Temple of Feathered Seashells, Green Harpy Eagles Procession",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dr_o_fru_Linn%C3%A9_tv%C3%A4ttar_kruksk%C3%A4rvor_-_SMVK_-_0307.a.0053.tif/300px-Dr_o_fru_Linn%C3%A9_tv%C3%A4ttar_kruksk%C3%A4rvor_-_SMVK_-_0307.a.0053.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Dr_o_fru_Linn%C3%A9_tv%C3%A4ttar_kruksk%C3%A4rvor_-_SMVK_-_0307.a.0053.tif",
+            "caption": "Images from the 1932 Sigvald Linné archeological expedition at Teotihuacán, M...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG/300px-Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG",
+            "caption": "Avenue of the Dead, Teotihuacán, Mexico",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AvenueoftheDeadTeotihuacan.jpg/300px-AvenueoftheDeadTeotihuacan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/AvenueoftheDeadTeotihuacan.jpg",
+            "caption": "Panorama of the Avenue of the Dead from the Pyramid of the Sun",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Talud-tablero",
+            "summary": "Pre-Columbian Mesoamerican architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TableroTalud.jpg/250px-TableroTalud.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Talud-tablero"
+        },
+        {
+            "name": "Mexica",
+            "summary": "Nahuatl-speaking Indigenous people of the Valley of Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aztec_drums%2C_Florentine_Codex..jpg/250px-Aztec_drums%2C_Florentine_Codex..jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mexica"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2699,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:38c4f1cc4b8455d5cba1838f9aafa4d650cf76e8afdcf4ccc148b7a7f47ffd40",
+    "summary": "On 26 April 1986, Reactor No. 4 at the Chernobyl Nuclear Power Plant near Pripyat, in Soviet Ukraine, exploded during a safety test. The explosion and subsequent fire released large quantities of radioactive particles into the atmosphere, which spread over much of the western USSR and Europe. It remains the worst nuclear accident in history by cost and casualty estimates.\n\nThe immediate explosion killed two workers, and a further 28 people died from acute radiation syndrome in the weeks following the disaster. Approximately 350,000 people were evacuated from the surrounding area, including the entire city of Pripyat, which has remained largely uninhabited. A 30-kilometer exclusion zone was established around the plant and remains in force today.\n\nThe Soviet government's initial response was marked by secrecy and delay. It took 36 hours to begin the evacuation of Pripyat, and foreign governments and the public were initially given no warning despite the spread of radioactive fallout across international borders. The disaster seriously damaged public confidence in Soviet institutions and is considered one of the factors that accelerated the political changes associated with [[event:2726|Glasnost and Perestroika]].\n\nThe long-term health consequences remain a subject of scientific debate. The World Health Organization has attributed thousands of eventual cancer deaths to the accident, while some studies suggest far higher figures. The disaster fundamentally changed global attitudes toward nuclear power and prompted a reevaluation of nuclear safety standards worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+    "read_more_links": [
+        {
+            "title": "Chernobyl Accident - World Nuclear Association",
+            "url": "https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx"
+        },
+        {
+            "title": "Chernobyl - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Chernobyl-disaster"
+        },
+        {
+            "title": "UNSCEAR Chernobyl Report",
+            "url": "https://www.unscear.org/unscear/en/chernobyl.html"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chernobyl_BW_2019_G28.jpg/300px-Chernobyl_BW_2019_G28.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Chernobyl_BW_2019_G28.jpg",
+            "caption": "Ruins of abandoned home in Chernobyl after the 1986 nuclear accident.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ukrainian_National_Chornobyl_Museum_resembling_the_reactor_that_suffered_the_catastrophic_failure_%28reactor_core_surrounded_by_blue%29_%288601829126%29.jpg/300px-Ukrainian_National_Chornobyl_Museum_resembling_the_reactor_that_suffered_the_catastrophic_failure_%28reactor_core_surrounded_by_blue%29_%288601829126%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ukrainian_National_Chornobyl_Museum_resembling_the_reactor_that_suffered_the_catastrophic_failure_%28reactor_core_surrounded_by_blue%29_%288601829126%29.jpg",
+            "caption": "The Ukrainian National Chornobyl Museum is a history museum in Kiev, Ukraine,...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Chernobyl_-_power_plant_-_reactor_4_02.jpg/300px-Chernobyl_-_power_plant_-_reactor_4_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chernobyl_-_power_plant_-_reactor_4_02.jpg",
+            "caption": "Reactor 4 in Chernobyl Nuclear Power Plant",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kiev-UkrainianNationalChernobylMuseum_15.jpg/300px-Kiev-UkrainianNationalChernobylMuseum_15.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kiev-UkrainianNationalChernobylMuseum_15.jpg",
+            "caption": "Piglet with dipygus - Kyiv - Ukrainian National Chernobyl Museum. \"Коліцво по...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

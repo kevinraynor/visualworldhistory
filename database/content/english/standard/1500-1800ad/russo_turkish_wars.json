@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2445,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:64e3435412ec1f9fbe87baa5ba1f7fef4fb2c70554e2456231c48417d2fc7d6b",
+    "summary": "The Russo-Turkish Wars (1676–1878, with major conflicts in 1676–81, 1686–99, 1710–11, 1735–39, 1768–74, 1787–92, 1806–12, 1828–29, and 1877–78) were a series of conflicts between the Russian Empire and the Ottoman Empire over control of the Black Sea coast, the Caucasus, and the Balkans, constituting one of history's longest-running interstate rivalries and the primary mechanism through which Russia expanded to the Black Sea and the Ottoman Empire retreated from southeastern Europe. Russia's strategic goal was consistent across two centuries: access to warm-water ports on the Black Sea (essential for year-round commerce and naval power) and protection of Orthodox Christian populations in the Balkans — a rationale that mixed genuine religious solidarity with political imperialism.\n\nThe wars' progression marked Russia's rise from a secondary to a great power. The 1768–1774 war, fought during [[event:2367|Catherine the Great's]] reign, ended with the Treaty of Küçük Kaynarca — giving Russia the right to protect Orthodox Christians in the Ottoman Empire (a claim that Russia exploited expansively in the 19th century) and opening the Black Sea to Russian shipping. The annexation of Crimea (1783) followed. The 1877–1878 war, triggered by Ottoman atrocities against Bulgarian Christians ('Bulgarian Horrors'), ended with Russian forces reaching the outskirts of Istanbul before British diplomatic pressure forced a settlement (Treaty of San Stefano, modified at the Congress of Berlin) that created or expanded several Balkan states. The wars destroyed Ottoman power in southeastern Europe and created the Eastern Question — how to manage the Ottoman Empire's dissolution without triggering a great-power conflict — that remained a central diplomatic problem until World War I.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Russo-Turkish_wars",
+    "read_more_links": [
+        {
+            "title": "Treaty Küçük Kaynarca 1774 Russia Black Sea",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_K%C3%BC%C3%A7%C3%BCk_Kaynarca"
+        },
+        {
+            "title": "Eastern Question Ottoman decline Balkan nationalism",
+            "url": "https://en.wikipedia.org/wiki/Eastern_question"
+        },
+        {
+            "title": "Catherine Great Crimea annexation Ottoman wars",
+            "url": "https://en.wikipedia.org/wiki/Annexation_of_Crimea_(1783)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Russo-Ottoman_wars.jpg/300px-Russo-Ottoman_wars.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Russo-Ottoman_wars.jpg",
+            "caption": "Siege of Ochakov 1737\nSiege of Izmail 1790\nSiege of Sevastopol 1854-1855\nSieg...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Treaty_of_San_Stefano.jpg/300px-Treaty_of_San_Stefano.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Treaty_of_San_Stefano.jpg",
+            "caption": "The signing of the Treaty of San Stefano.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Europe_1748-1766_en.png/300px-Europe_1748-1766_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Europe_1748-1766_en.png",
+            "caption": "This map shows Europe in the years after the Treaty of Aix-la-Chapelle 1748 a...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Chesmabattle.jpg/300px-Chesmabattle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chesmabattle.jpg",
+            "caption": "Chesme battle in the night of June 25-26, 1770",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Imperial Russian Navy",
+            "summary": "Navy of Tsarist Russia from 1696 to 1917",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/%D0%97%D0%BD%D0%B0%D0%BA_%D0%BD%D0%B0_%D0%BA%D0%B8%D0%B2%D0%B5%D1%80%D0%B0_%D0%93%D0%B2%D0%B0%D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8D%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6%D0%B0.jpg/250px-%D0%97%D0%BD%D0%B0%D0%BA_%D0%BD%D0%B0_%D0%BA%D0%B8%D0%B2%D0%B5%D1%80%D0%B0_%D0%93%D0%B2%D0%B0%D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BB%D0%BE%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8D%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6%D0%B0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Imperial_Russian_Navy"
+        },
+        {
+            "name": "Peter the Great",
+            "summary": "Tsar of Russia from 1682 to 1725",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/250px-Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_the_Great"
+        },
+        {
+            "name": "Astrakhan",
+            "summary": "Administrative centre of Astrakhan Oblast, Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Astrakhan_-_Russia.jpg/250px-Astrakhan_-_Russia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Astrakhan"
+        },
+        {
+            "name": "Ivan the Terrible",
+            "summary": "Tsar of Russia from 1547 to 1584",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IoannIV_reconstruction_by_Gerasimov02.jpg/250px-IoannIV_reconstruction_by_Gerasimov02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_the_Terrible"
+        },
+        {
+            "name": "Selim II",
+            "summary": "Sultan of the Ottoman Empire from 1566 to 1574",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_Selim_II_by_Nakka%C5%9F_Osman%2C_%C5%9Eem%C3%A2%27iln%C3%A2me%2C_1579%2C_Istanbul%2C_Topkap%C4%B1_Saray%C4%B1_M%C3%BCzesi%2C_%D0%9D._1563.jpg/250px-Portrait_of_Selim_II_by_Nakka%C5%9F_Osman%2C_%C5%9Eem%C3%A2%27iln%C3%A2me%2C_1579%2C_Istanbul%2C_Topkap%C4%B1_Saray%C4%B1_M%C3%BCzesi%2C_%D0%9D._1563.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Selim_II"
+        },
+        {
+            "name": "Fire of Moscow (1571)",
+            "summary": "Crimean Khan's action in Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Facial_Chronicle_-_b.22%2C_p._202.gif/250px-Facial_Chronicle_-_b.22%2C_p._202.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fire_of_Moscow_%281571%29"
+        }
+    ],
+    "territory_geojson": null
+}

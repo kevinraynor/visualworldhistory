@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1973,
+    "parent_id": 1158,
+    "granularity": "detailed",
+    "content_hash": "sha256:1f0b1068b9bf8245f88f6d6d864b2f2b4990ab5c4c3ed1eb5f3c5bd48347546d",
+    "summary": "The Nok terracotta sculptures (c. 1000 BC–300 AD, with the main tradition c. 500 BC–200 AD) are the oldest known sculptural tradition in sub-Saharan Africa — hollow ceramic figures produced by the Nok culture of central Nigeria featuring sophisticated stylized representations of human figures with triangular or pellet eyes, elaborate hairstyles, and distinctive geometric facial features. Their technical sophistication — the terracottas were hollow-built to survive firing without cracking — suggests considerable artistic skill and accumulated tradition.\n\nNok figures range from life-sized heads to small figurines, depicting humans, animals, and figures combining both. Their original context is debated: they may have been associated with funerary rituals, ancestor veneration, or protective functions. The Nok culture's association with early iron-working in West Africa makes these sculptures particularly significant — they appear to represent a complex society with social hierarchies, specialized crafts, and organized communities. Many Nok figures were looted from their archaeological contexts before scientific excavation could establish their exact find circumstances, hampering interpretation. The tradition's stylistic influence on later West African sculpture, including Ife bronzes and Yoruba artistic traditions, has been proposed by art historians.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nok_culture",
+    "read_more_links": [
+        {
+            "title": "Nok terracotta figures",
+            "url": "https://en.wikipedia.org/wiki/Nok_terracotta"
+        },
+        {
+            "title": "West African iron age",
+            "url": "https://en.wikipedia.org/wiki/Nok_culture#Iron_smelting"
+        },
+        {
+            "title": "Nok culture archaeology looting",
+            "url": "https://en.wikipedia.org/wiki/Nok_culture#Archaeological_context"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sculpture_nok-Nigeria_%281%29.jpg/300px-Sculpture_nok-Nigeria_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sculpture_nok-Nigeria_%281%29.jpg",
+            "caption": "Sculpture de la culture Nok, terre cuite, VIe siècle avant JC-VIe siècle aprè...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/East-Hem_400bc.jpg/300px-East-Hem_400bc.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/East-Hem_400bc.jpg",
+            "caption": "Eastern Hemisphere in 400 BC.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Africa_Nok_Male_Figure_Kimbell.jpg/300px-Africa_Nok_Male_Figure_Kimbell.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Africa_Nok_Male_Figure_Kimbell.jpg",
+            "caption": "Africa Nok Male Figure Kimbell",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Africa_Nok_Head_Kimbell.jpg/300px-Africa_Nok_Head_Kimbell.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Africa_Nok_Head_Kimbell.jpg",
+            "caption": "Africa Nok Head Kimbell",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

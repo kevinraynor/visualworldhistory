@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 34,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e3a8a4790dd13c17d07efa7d04507b78f36df688e4a27825939d752824c7d05f",
+    "summary": "The emergence of city-states in Mesopotamia between roughly 5400 and 3500 BCE represents one of the foundational transitions in human history — the shift from agricultural villages to complex, stratified urban societies. In the alluvial plains of southern Mesopotamia, where the Tigris and Euphrates rivers converged and deposited rich silt, a series of urban centers developed into politically independent entities, each governed by its own ruler and protected by its own patron deity.\n\nThe Ubaid period (c. 6500–3800 BCE) provided the cultural and economic foundations for Mesopotamian urbanism. During this phase, [[event:1518|Eridu]] — traditionally regarded as the first city — and other settlements grew into substantial communities supported by intensive irrigated agriculture. Ubaid-period temples atop raised platforms demonstrate organized communal labor and the beginning of monumental architecture. The widespread distribution of Ubaid pottery across the entire region, including coastal Arabia, suggests these early communities were engaged in long-distance exchange networks.\n\nBy the early Uruk period (c. 4000–3500 BCE), Mesopotamian settlements had grown dramatically in size and complexity. Craft specialization intensified, administrative technologies such as clay tokens and seal impressions were developed to track goods and transactions, and a clear hierarchy of settlement sizes — cities, towns, and villages — had emerged. Each city was conceived as the earthly estate of a deity, managed on the god's behalf by priests and later by kings. The temple institution served simultaneously as religious center, storage facility, and redistributive economic hub.\n\nPolitical organization in early Mesopotamian city-states was initially theocratic, with priests controlling the city's economic resources. Over time, a separate secular military leadership — the lugal, or king — emerged, initially as a war leader called upon in times of external threat. The competition between temple and palace for political authority is a recurring theme throughout Mesopotamian history. By the mid-third millennium BCE, dynastic kingship was firmly established, and city-states such as [[event:31|Sumer's]] major urban centers engaged in continuous warfare for dominance over agricultural land and trade routes.\n\nThe city-state model shaped Mesopotamian political culture for millennia. Even after successive empires unified the region under single rulers, the city remained the fundamental unit of political and cultural identity. The intellectual, artistic, and administrative innovations generated within these urban environments — writing, codified law, astronomy, literature, monumental sculpture — radiated outward to shape civilizations across the ancient world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/City-state#Mesopotamia",
+    "read_more_links": [
+        {
+            "title": "Ubaid period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ubaid_period"
+        },
+        {
+            "title": "Ancient Mesopotamia - Britannica",
+            "url": "https://www.britannica.com/place/ancient-Mesopotamia"
+        },
+        {
+            "title": "Sumerian city-states - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/177/the-ancient-city-of-eridu/"
+        },
+        {
+            "title": "Eridu - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eridu"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg/300px-Hong_Kong_Harbour_Night_2019-06-11.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Hong_Kong_Harbour_Night_2019-06-11.jpg",
+            "caption": "50 mpix panorama of Hong Kong's harbour and skyline, as seen from Victoria Pe...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Panorama_von_Monaco-La_Turbie.jpg/300px-Panorama_von_Monaco-La_Turbie.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Panorama_von_Monaco-La_Turbie.jpg",
+            "caption": "panoramic view of Monaco from a viewpoint near the observatory which is situa...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Monaco_Monte_Carlo_1.jpg/300px-Monaco_Monte_Carlo_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Monaco_Monte_Carlo_1.jpg",
+            "caption": "Port Hercule, Monaco, Monte Carlo",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Middle_Bridge%2C_Basel%2C_Switzerland.JPG/300px-Middle_Bridge%2C_Basel%2C_Switzerland.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Middle_Bridge%2C_Basel%2C_Switzerland.JPG",
+            "caption": "In 1225–1226 the Middle Bridge over the Rhine was constructed by Bishop Heinr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vikings",
+            "summary": "Norse seafarers, merchants and raiders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg/250px-Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vikings"
+        },
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        }
+    ],
+    "territory_geojson": null
+}

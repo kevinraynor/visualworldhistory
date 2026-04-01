@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1131,
+    "parent_id": 77,
+    "granularity": "notable",
+    "content_hash": "sha256:be0883d28a07811cdacc17eba34591d5d6c5adf9ba534a571f0ca4d147cb96ae",
+    "summary": "The Establishment of Confucianism as State Ideology (136 BC) under [[event:1127|Emperor Wu of Han]] made Confucian texts the basis of government education and official recruitment, a decision that would shape Chinese civilization for over two millennia — making Confucianism not merely a philosophical school but the ideological foundation of the imperial state.\n\nEmperor Wu accepted the advice of his scholar-official Dong Zhongshu, who argued that Confucianism provided the best framework for harmonious government through its emphasis on hierarchical relationships, ritual propriety, and moral cultivation. The emperor established a Grand Academy (Taixue) where students mastered the Five Classics — the core Confucian texts — and officials began to be recruited on the basis of this learning. This created an examination-based bureaucracy whose members shared a common intellectual formation. The immediate impact was the displacement of other philosophical schools, especially [[event:1113|Legalism]], from official favor, though practical governance remained eclectic. The long-term impact was the creation of a scholar-gentry class that would serve as China's administrative elite for most of the next two thousand years, bound together by shared mastery of the Confucian canon.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Confucianism#Han_dynasty",
+    "read_more_links": [
+        {
+            "title": "Dong Zhongshu",
+            "url": "https://en.wikipedia.org/wiki/Dong_Zhongshu"
+        },
+        {
+            "title": "Imperial examination origins",
+            "url": "https://en.wikipedia.org/wiki/Imperial_examination"
+        },
+        {
+            "title": "Five Classics",
+            "url": "https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%E5%AD%94%E5%BA%99_%E7%A5%AD%E5%AD%94%E5%A4%A7%E5%85%B8_2.jpg/300px-%E5%AD%94%E5%BA%99_%E7%A5%AD%E5%AD%94%E5%A4%A7%E5%85%B8_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%E5%AD%94%E5%BA%99_%E7%A5%AD%E5%AD%94%E5%A4%A7%E5%85%B8_2.jpg",
+            "caption": "Confucius rites",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/%E7%A6%AE%E4%BF%97%E4%B8%8D%E5%8F%AF%E5%BB%A2.jpg/300px-%E7%A6%AE%E4%BF%97%E4%B8%8D%E5%8F%AF%E5%BB%A2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E7%A6%AE%E4%BF%97%E4%B8%8D%E5%8F%AF%E5%BB%A2.jpg",
+            "caption": "​教師節重現祭孔大典",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Temple_rooftop_dragon_in_Taiwan_%281%29.jpg/300px-Temple_rooftop_dragon_in_Taiwan_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Temple_rooftop_dragon_in_Taiwan_%281%29.jpg",
+            "caption": "Temple rooftop dragon statue in Taiwan.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Datong_Wenmiao_2013.08.29_11-33-25.jpg/300px-Datong_Wenmiao_2013.08.29_11-33-25.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Datong_Wenmiao_2013.08.29_11-33-25.jpg",
+            "caption": "Datongfu Confucian Temple--\nLattice gate",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Temple of Confucius",
+            "summary": "Temple to venerate Confucius and Confucian sages and philosophers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Confucius_temple_1912.jpg/250px-Confucius_temple_1912.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Temple_of_Confucius"
+        },
+        {
+            "name": "Confucius",
+            "summary": "Chinese philosopher (c. 551 – c. 479 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/250px-Confucius_Tang_Dynasty.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Confucius"
+        },
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        },
+        {
+            "name": "Kang Youwei",
+            "summary": "Chinese political thinker and reformer (1858–1927)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kang_Yu-wei_cph.3a36142.jpg/250px-Kang_Yu-wei_cph.3a36142.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kang_Youwei"
+        },
+        {
+            "name": "Hu Shih",
+            "summary": "Chinese academic, writer and politician (1891–1962)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hu_Shih_1960_color_%28cropped%29.jpg/250px-Hu_Shih_1960_color_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hu_Shih"
+        },
+        {
+            "name": "Zhou Youguang",
+            "summary": "Chinese linguist and author (1906–2017)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Zhou_Youguang_1920s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhou_Youguang"
+        }
+    ],
+    "territory_geojson": null
+}

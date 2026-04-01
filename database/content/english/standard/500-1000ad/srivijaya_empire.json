@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2167,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:bdb89eefde89e22593523cb26dd664df2c49a71e58d866c79a1d556d8d7eb7f6",
+    "summary": "The Srivijaya Empire (c. 650–1377 AD) was the dominant maritime power of Southeast Asia for over six centuries — a thalassocratic (sea-based) empire centered on Palembang in southern Sumatra that controlled the Strait of Malacca, the crucial chokepoint through which virtually all trade between China and India passed. By taxing this trade, Srivijaya accumulated enormous wealth without relying on agricultural surplus, becoming one of the greatest commercial empires of the medieval world. At its peak (c. 8th–10th centuries), Srivijaya's influence extended from the Malay Peninsula to Java, Borneo, and the Philippines.\n\nSrivijaya was also a major center of Buddhist learning — the Chinese pilgrim I Jing (671 AD) stayed there for years studying Sanskrit and Buddhist texts before continuing to India, and described Srivijaya as having over 1,000 Buddhist monks. The empire patronized Mahayana and Vajrayana Buddhism and sent missions to China and India. The Srivijayan bodhisattva statues, combining Indian iconographic traditions with Southeast Asian artistic sensibility, represent the highest achievement of classical Indonesian Buddhist art. Srivijaya's commercial dominance was eventually undermined by the rise of the [[event:2171|Chola Dynasty]] (which raided Srivijayan ports in 1025 AD), the growth of competing Javanese states, and the eventual shift of global maritime trade to routes that bypassed the Strait of Malacca. The empire left no great stone monuments (building in perishable materials), making archaeological reconstruction of its history difficult.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Srivijaya",
+    "read_more_links": [
+        {
+            "title": "Srivijaya maritime trade Malacca",
+            "url": "https://en.wikipedia.org/wiki/Srivijaya#Economy"
+        },
+        {
+            "title": "I Jing pilgrimage Srivijaya",
+            "url": "https://en.wikipedia.org/wiki/Yijing_(monk)"
+        },
+        {
+            "title": "Chola raid Srivijaya 1025",
+            "url": "https://en.wikipedia.org/wiki/Chola%E2%80%93Srivijaya_relations"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carte_des_Royaumes_de_Siam%2C_Tunquin%2C_Pegu_%28Kingdoms_Map%29_1770_Bellin_Schley.jpg/300px-Carte_des_Royaumes_de_Siam%2C_Tunquin%2C_Pegu_%28Kingdoms_Map%29_1770_Bellin_Schley.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Carte_des_Royaumes_de_Siam%2C_Tunquin%2C_Pegu_%28Kingdoms_Map%29_1770_Bellin_Schley.jpg",
+            "caption": "Full color edition by Jakob van der Schley of Jacques Nicolas Bellin's map of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Candi_Muaro_Jambi_dengan_langit_biru.jpg/300px-Candi_Muaro_Jambi_dengan_langit_biru.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Candi_Muaro_Jambi_dengan_langit_biru.jpg",
+            "caption": "Candi Muaro Jambi adalah sebuah kompleks percandian agama Hindu-Buddha terlua...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/123_Dwarapala_%2839095909642%29.jpg/300px-123_Dwarapala_%2839095909642%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/123_Dwarapala_%2839095909642%29.jpg",
+            "caption": "123 Dwarapala, Muara Jambi, Sumatra",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%28139_of_160%29_%28cropped%29.jpg/300px-%28139_of_160%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%28139_of_160%29_%28cropped%29.jpg",
+            "caption": "Sujet : Asie\nCouverture : Monde\nLangue : français\n\nfrançais",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Samaratungga",
+            "summary": "Emperor of the Sailendra dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Borobudur_Northwest_View.jpg/250px-Borobudur_Northwest_View.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samaratungga"
+        },
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Bhikkhu",
+            "summary": "Buddhist monk",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Phutthamonthon_Buddha.JPG/250px-Phutthamonthon_Buddha.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bhikkhu"
+        },
+        {
+            "name": "Yijing (monk)",
+            "summary": "Chinese Buddhist monk (635–713 CE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yi_Jing.JPG/250px-Yi_Jing.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yijing_%28monk%29"
+        },
+        {
+            "name": "George Cœdès",
+            "summary": "French historian (1886–1969)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/George_Coed%C3%A8s.jpg/250px-George_Coed%C3%A8s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_C%C5%93d%C3%A8s"
+        },
+        {
+            "name": "Sanjaya of Mataram",
+            "summary": "King of Mataram",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canggal_inscription.jpg/250px-Canggal_inscription.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sanjaya_of_Mataram"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1457,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f428be94febaba90e7a779b7d6a2369589beb5c40ff24119fe4527668b79031c",
+    "summary": "The domestication of the banana (Musa acuminata and related species) from wild Musa populations in New Guinea and the surrounding island region is believed to have begun approximately 8000 to 6500 years ago, making Papua New Guinea and nearby island Southeast Asia one of the world's early centers of plant domestication. Wild bananas, which are filled with hard seeds and provide little edible flesh, were transformed through selective cultivation into the seedless, starchy, or sweet fruits that became one of the most important food crops of the tropical world.\n\nThe earliest stages of banana cultivation probably involved the management of wild stands for their fruit, flowers, and leaves, with selection for larger, more palatable fruits gradually producing domesticated varieties over many generations. The process of banana domestication is linked to the broader pattern of agricultural development in highland New Guinea documented at sites such as [[event:1456|Kuk Swamp]], where wetland management and horticulture were being practiced around the same period. Bananas and plantains would have complemented root crops like taro in the early New Guinean agricultural system.\n\nFrom their New Guinean and island Southeast Asian origins, domesticated bananas spread westward through Southeast Asia and eventually to South Asia, Africa, and beyond in antiquity, becoming a staple food in tropical regions worldwide. The modern global banana trade — in which a single sterile cultivar, the Cavendish, dominates commercial production — represents a greatly simplified descendant of the extraordinarily diverse array of banana and plantain varieties developed over thousands of years by farmers across the tropical Old World.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Banana#Early_cultivation",
+    "read_more_links": [
+        {
+            "title": "Banana History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Banana"
+        },
+        {
+            "title": "Kuk Swamp - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kuk_Swamp"
+        },
+        {
+            "title": "History of Agriculture in Oceania - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Agriculture_in_Papua_New_Guinea"
+        },
+        {
+            "title": "Papua New Guinea Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea#Prehistory"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chhat_Puja_Worship_Material.jpg/300px-Chhat_Puja_Worship_Material.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Chhat_Puja_Worship_Material.jpg",
+            "caption": "Chhat Puja Worship Material",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/300px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png",
+            "caption": "Chronological dispersal of Austronesian people across the Pacific (per Benton et al, 2012, adapted from Bellwood, 2011)",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/ITC_cold_room.jpg/300px-ITC_cold_room.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/ITC_cold_room.jpg",
+            "caption": "the cold storage room for the banana collection at Bioversity's International...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2018_06_TropicalIslands_IMG_2170.jpg/300px-2018_06_TropicalIslands_IMG_2170.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/2018_06_TropicalIslands_IMG_2170.jpg",
+            "caption": "Bananengewächs",
+            "attribution": "Wikimedia Commons, GFDL 1.2"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cooking banana",
+            "summary": "Banana commonly used in cooking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mega_racimos_de_guineos.jpg/250px-Mega_racimos_de_guineos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cooking_banana"
+        }
+    ],
+    "territory_geojson": null
+}

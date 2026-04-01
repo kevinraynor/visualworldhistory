@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1889,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:18f2f2827f77a1664236161df628b5e3bd4d75d66c2c7043326b7ebf108725ab",
+    "summary": "Jericho, located in the Jordan Valley near the Dead Sea, is one of the oldest continuously occupied urban sites in the world, with settlement history extending back to approximately 9000 BC. During the Bronze Age, roughly 1900–1400 BC, Jericho — known archaeologically as Tell es-Sultan — was a Canaanite town of modest size but considerable local importance, located near a major freshwater spring and on trade routes connecting the Transjordanian plateau with the Levantine coast. It was surrounded by mudbrick defensive walls that have been subject to intensive archaeological investigation.\n\nJericho is most widely known through its biblical narrative: the Book of Joshua describes the miraculous collapse of Jericho's walls before the invading Israelites following the [[event:1836|Exodus]], after the priests circled the city seven times bearing the Ark of the Covenant and the people shouted. This narrative, if it has a historical basis, would correspond to the end of the Late Bronze Age. Archaeological excavation by Kathleen Kenyon in the 1950s demonstrated that Jericho was largely abandoned or only sparsely occupied in the thirteenth century BC — the period traditionally assigned to the Exodus and Conquest — which is taken by many scholars to complicate or contradict a literal reading of the biblical account.\n\nDespite the absence of walls from the supposed period of conquest, Jericho's historical importance is secure as one of the world's earliest towns, demonstrating that settled urban life began in the Jordan Valley at an extraordinarily early date. The site illustrates both the deep roots of Levantine urbanization and the complex interplay between archaeology and biblical tradition.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jericho#Bronze_Age",
+    "read_more_links": [
+        {
+            "title": "Jericho - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jericho"
+        },
+        {
+            "title": "Jericho - Britannica",
+            "url": "https://www.britannica.com/place/Jericho"
+        },
+        {
+            "title": "Tell es-Sultan",
+            "url": "https://en.wikipedia.org/wiki/Tell_es-Sultan"
+        },
+        {
+            "title": "Kathleen Kenyon",
+            "url": "https://en.wikipedia.org/wiki/Kathleen_Kenyon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg/300px-Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Palestine_with_the_Hauran_and_the_adjacent_districts%2C_William_Hughes_1843.jpg",
+            "caption": "Palestine with the Hauran and the adjacent districts By W. Hughes, Prof. Geog...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tree_of_Zacchaeus%2C_2019_%2802%29.jpg/300px-Tree_of_Zacchaeus%2C_2019_%2802%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tree_of_Zacchaeus%2C_2019_%2802%29.jpg",
+            "caption": "View of the Tree of Zacchaeus, in the grounds of the Russian Museum, Jericho,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jericho-Hishams-Palace-K-153.jpg/300px-Jericho-Hishams-Palace-K-153.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jericho-Hishams-Palace-K-153.jpg",
+            "caption": "Khirbet al-Mafjar, Jericho, West Bank.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fresco_depicting_vine_scrolls%2C_from_Jericho%2C_Goliath_family_tomb%2C_1st_century_AD_-_1st_century_BC%2C_Israel_Museum%2C_Jerusalem_%2815472626687%29.jpg/300px-Fresco_depicting_vine_scrolls%2C_from_Jericho%2C_Goliath_family_tomb%2C_1st_century_AD_-_1st_century_BC%2C_Israel_Museum%2C_Jerusalem_%2815472626687%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Fresco_depicting_vine_scrolls%2C_from_Jericho%2C_Goliath_family_tomb%2C_1st_century_AD_-_1st_century_BC%2C_Israel_Museum%2C_Jerusalem_%2815472626687%29.jpg",
+            "caption": "Fresco depicting vine scrolls, from Jericho, Goliath family tomb, 1st century...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jericho Governorate",
+            "summary": "Governorate of Palestine",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jericho1.jpg/250px-Jericho1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jericho_Governorate"
+        },
+        {
+            "name": "Portrait",
+            "summary": "Artistic representation of one or more persons",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Achaemenid_Satrap_Asia_Minor_end_of_6th_century_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Portrait"
+        }
+    ],
+    "territory_geojson": null
+}

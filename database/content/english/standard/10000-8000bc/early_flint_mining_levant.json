@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1306,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6928518b7894001c889ee597f7005b0c208126dfcddebdc102406e619b57c804",
+    "summary": "The systematic extraction of flint from underground sources — a practice far more demanding than the opportunistic collection of surface flints — is attested in the Levant by at least 10,000–8,000 BCE, when communities in the region were creating the early Neolithic settlements and tool industries that would characterize the Pre-Pottery Neolithic period. Flint, an exceptionally hard and fracture-predictable form of silica, remained the primary material for cutting tools, projectile points, and sickle blades throughout the Neolithic and well into the Bronze Age in much of the Old World.\n\nEarly flint mining operations in the Levant involved digging pits and trenches into outcrops of chalk and limestone to access seams of high-quality nodular flint. The scale of some Neolithic flint-mining complexes — such as those at sites in the Negev Desert and the Judean Hills — demonstrates that flint procurement was a planned and organized activity, sometimes involving specialized workers and supporting trade and exchange. Flint from favored sources was widely distributed across the Levantine landscape, appearing in sites far from the outcrops, indicating organized exchange networks that complemented the contemporaneous [[event:8|obsidian trade networks of Anatolia]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flint_mining",
+    "read_more_links": [
+        {
+            "title": "Flint - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Flint"
+        },
+        {
+            "title": "Neolithic Flint Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lithic_technology"
+        },
+        {
+            "title": "Prehistoric Mining - Britannica",
+            "url": "https://www.britannica.com/technology/mining"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Devon",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dartmoor_ponies_by_the_B3212_-_geograph.org.uk_-_4546147.jpg/250px-Dartmoor_ponies_by_the_B3212_-_geograph.org.uk_-_4546147.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Devon"
+        },
+        {
+            "name": "Norfolk",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kings_Lynn_Guild_Hall_%28geograph_4626827%29.jpg/250px-Kings_Lynn_Guild_Hall_%28geograph_4626827%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Norfolk"
+        },
+        {
+            "name": "Suffolk",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Orford_Ness_2016-08-27-2_%28cropped%2C_edited%29.jpg/250px-Orford_Ness_2016-08-27-2_%28cropped%2C_edited%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suffolk"
+        },
+        {
+            "name": "Conwy County Borough",
+            "summary": "County borough in Wales",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pen_y_Gogarth_%28Great_Orme%29%2C_Llandudno%2C_Sir_Conwy_county_Cymru_13.jpg/250px-Pen_y_Gogarth_%28Great_Orme%29%2C_Llandudno%2C_Sir_Conwy_county_Cymru_13.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conwy_County_Borough"
+        }
+    ],
+    "territory_geojson": null
+}

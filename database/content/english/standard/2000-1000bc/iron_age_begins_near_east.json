@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 69,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:52be2db8a0ceeaada73800ad1dcae4abb837e3d794044fecc4736d8811fb05f5",
+    "summary": "The Iron Age in the Near East is conventionally dated to begin around 1200 BC, following the [[event:1815|Bronze Age Collapse]], though iron smelting technology had been developing for centuries beforehand. The transition from bronze to iron as the primary metal for tools and weapons was one of the most significant technological transformations in ancient history, fundamentally altering military capacity, agricultural productivity, and the distribution of economic power.\n\nIron ore is far more widely distributed than the tin and copper needed to make bronze, which were obtained through long-distance trade networks that became vulnerable during the Bronze Age Collapse. [[event:1857|Hittite iron smelting]] expertise was an early development, with the Hittites apparently maintaining some monopoly or advantage in iron production during the late Bronze Age. When the Hittite Empire collapsed around 1178 BC, knowledge of iron smelting spread more widely across the Near East and Mediterranean.\n\nThe transition to iron was gradual rather than sudden. Early iron objects were often prestige items or ceremonial in character, as iron was more difficult to work than bronze in the initial stages of adoption. Smiths learned over time to carburize iron — introducing carbon to create steel — dramatically improving hardness and edge retention. By around 1000 BC, iron tools and weapons were becoming common across the Near East and eastern Mediterranean, reshaping agriculture (iron plows and axes) and warfare (iron-tipped spears and iron swords).\n\nThe Iron Age is significant not only technologically but socially, as the wider availability of iron democratized access to effective tools and weapons in ways bronze never could. Small-scale farmers could now afford iron implements, and the military advantages of controlling bronze sources diminished. This contributed to the rise of new political formations — including the Israelite monarchy, the Phoenician city-states, and the Assyrian professional army — that characterized the early first millennium BC.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_Age",
+    "read_more_links": [
+        {
+            "title": "Ironworking in the Ancient Near East",
+            "url": "https://en.wikipedia.org/wiki/Ferrous_metallurgy"
+        },
+        {
+            "title": "Bronze Age Collapse",
+            "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+        },
+        {
+            "title": "Iron Age - Britannica",
+            "url": "https://www.britannica.com/topic/Iron-Age"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/300px-Krieger_von_Hirschlanden.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Krieger_von_Hirschlanden.jpg",
+            "caption": "The Warrior of Hirschlanden, the oldest known life-size anthropomorphic statu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Willamette_Meteorite_AMNH.jpg/300px-Willamette_Meteorite_AMNH.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Willamette_Meteorite_AMNH.jpg",
+            "caption": "The Willamette Meteorite on display at the American Museum of Natural History...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/African_bloomery_furnace_types.png/300px-African_bloomery_furnace_types.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/African_bloomery_furnace_types.png",
+            "caption": "Examples of African bloomery furnace types. Redrawn after Junod (1927), David...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Typical_bloomery_iron_production_operational_sequence.webp/300px-Typical_bloomery_iron_production_operational_sequence.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Typical_bloomery_iron_production_operational_sequence.webp",
+            "caption": "Typical bloomery iron production operational sequence starting with acquiring...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ashoka",
+            "summary": "Mauryan emperor from 269 to 232 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/250px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        }
+    ],
+    "territory_geojson": null
+}

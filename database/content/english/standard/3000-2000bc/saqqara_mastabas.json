@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3737,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f32cda90d98f2fa19d6561a9ecbe6950148c0d644c6d637281c6daed03b8186e",
+    "summary": "Saqqara, located on the western bank of the Nile approximately 30 kilometers south of Cairo, served as the principal necropolis for the ancient Egyptian capital of Memphis from the early Dynastic period onward. During the third millennium BC, Saqqara was dominated by mastaba tombs — flat-roofed, rectangular stone or mud-brick structures with sloping sides — built for high officials, nobles, and members of the royal family. These mastabas, some of which are elaborately decorated with painted reliefs and inscriptions, provide a wealth of information about the social hierarchy, religious beliefs, and daily life of the Old Kingdom elite.\n\nThe mastaba form itself represents an architectural precursor to the pyramid. The [[event:1709|Step Pyramid of Djoser]], constructed at Saqqara around 2670 BC by the architect [[event:1719|Imhotep]], is believed to have evolved directly from the mastaba tradition, stacking successively smaller platforms to create a stepped superstructure. The Saqqara necropolis thus preserves a crucial record of the evolution of Egyptian funerary architecture, from simple flat-topped burial mounds to the towering pyramid complexes that followed. Ongoing excavations at Saqqara continue to yield new discoveries, including previously unknown tombs and artifacts, underscoring the site's exceptional archaeological richness.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mastaba",
+    "read_more_links": [
+        {
+            "title": "Saqqara - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "title": "Saqqara - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/saqqara/"
+        },
+        {
+            "title": "Old Kingdom Egypt - Britannica",
+            "url": "https://www.britannica.com/place/Old-Kingdom"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Mastaba-faraoun-3.jpg/300px-Mastaba-faraoun-3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mastaba-faraoun-3.jpg",
+            "caption": "Northwest corner of mastaba Faraoun in Saqqarah",
+            "attribution": "Wikimedia Commons, Copyrighted free use"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Saqqara",
+            "summary": "Burial ground in Giza Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/250px-Saqqara_pyramid_ver_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "name": "False door",
+            "summary": "Architectural pattern in Ancient Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Louvres-antiquites-egyptiennes-img_2947_cropped.jpg/250px-Louvres-antiquites-egyptiennes-img_2947_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/False_door"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        }
+    ],
+    "territory_geojson": null
+}

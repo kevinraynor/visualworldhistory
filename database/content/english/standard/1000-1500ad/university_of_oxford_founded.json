@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2267,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:77165052f500b5fc224d2a27cc14fcbf610328c09e74ff19f315596199148b80",
+    "summary": "The University of Oxford (c. 1096–1167 AD, formally organized) developed as an institution of higher learning in the English town of Oxford through a gradual accumulation of masters and scholars teaching there from the late 11th century, crystallizing into a recognized studium generale around 1167 when King Henry II banned English scholars from attending the [[event:2266|University of Paris]] — driving a concentration of academic talent to Oxford. The university became the oldest English-speaking university and the model for British higher education, including Cambridge (founded 1209 by masters fleeing a dispute at Oxford).\n\nOxford's institutional model — the university of masters rather than students, organized around residential colleges that combined living, dining, and teaching — differed from the Bologna model and became the pattern for English and later American elite education. The colleges (beginning with Merton, Balliol, and University colleges in the 1240s–1260s) created self-governing scholarly communities with their own endowments, chapels, and academic cultures. Oxford became an early center of natural philosophy and empirical inquiry: [[event:3618|Roger Bacon]] studied and taught there in the 13th century, and the 'Oxford Calculators' of Merton College in the 14th century developed early mathematical treatments of motion and change that anticipated Galileo's kinematics. Oxford's theological controversies — including the teachings of John Wycliffe (c. 1330–1384), whose followers were the Lollards and who produced the first complete English Bible — made it a center of the intellectual ferment that preceded the Protestant Reformation. Today Oxford and Cambridge together represent one of the most influential educational models in world history, their graduates disproportionately shaping British and global intellectual, political, and cultural life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oxford",
+    "read_more_links": [
+        {
+            "title": "Oxford University history medieval",
+            "url": "https://en.wikipedia.org/wiki/University_of_Oxford#History"
+        },
+        {
+            "title": "Oxford Merton College Oxford Calculators",
+            "url": "https://en.wikipedia.org/wiki/Oxford_Calculators"
+        },
+        {
+            "title": "John Wycliffe Lollards Oxford theology",
+            "url": "https://en.wikipedia.org/wiki/John_Wycliffe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1_oxford_aerial_panorama_2016.jpg/300px-1_oxford_aerial_panorama_2016.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/1_oxford_aerial_panorama_2016.jpg",
+            "caption": "aerial panorama of Oxford",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Clarendon_Building%2C_Oxford%2C_England_-_May_2010.jpg/300px-Clarendon_Building%2C_Oxford%2C_England_-_May_2010.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Clarendon_Building%2C_Oxford%2C_England_-_May_2010.jpg",
+            "caption": "A perspective corrected view of the South face of the Clarendon Building in O...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Christ_Church_Great_Hall%2C_July_25%2C_2023.jpg/300px-Christ_Church_Great_Hall%2C_July_25%2C_2023.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christ_Church_Great_Hall%2C_July_25%2C_2023.jpg",
+            "caption": "Photograph of Christ Church Great Hall",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1_christ_church_hall_2012.jpg/300px-1_christ_church_hall_2012.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/1_christ_church_hall_2012.jpg",
+            "caption": "Christ Church hall oxford university 2012",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Irene Tracey",
+            "summary": "British neuroscientist (born 1966)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Oxford_Vice-Chancellor_Professor_Irene_Tracey_%28cropped%29.jpg/250px-Oxford_Vice-Chancellor_Professor_Irene_Tracey_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Irene_Tracey"
+        },
+        {
+            "name": "Henry II of England",
+            "summary": "King of England from 1154 to 1189",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Henry_II_Illumination.jpg/250px-Henry_II_Illumination.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        },
+        {
+            "name": "Theobald of Étampes",
+            "summary": "French schoolmaster and theologian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Postcard-Oxford-1907-TheobaldusStampensis-12thcentury.jpg/250px-Postcard-Oxford-1907-TheobaldusStampensis-12thcentury.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theobald_of_%C3%89tampes"
+        },
+        {
+            "name": "Alfred the Great",
+            "summary": "King of Wessex (871 – c. 886); King of the Anglo-Saxons (c. 886 – 899)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alfred_the_Great%2C_silver_penny%3B_struck_875%E2%80%93880_%28obverse%29.png/250px-Alfred_the_Great%2C_silver_penny%3B_struck_875%E2%80%93880_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_the_Great"
+        },
+        {
+            "name": "Henry II of France",
+            "summary": "King of France from 1547 to 1559",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Henry_II_of_France-Fran%C3%A7ois_Clouet_%28altered%29.jpg/250px-Henry_II_of_France-Fran%C3%A7ois_Clouet_%28altered%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_II_of_France"
+        },
+        {
+            "name": "Gerald of Wales",
+            "summary": "Welsh clergyman and writer (c. 1146–1223)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St.David%27s_Cathedral_-_Dreieinigkeitskapelle_5_Giraldus_Cambrensis.jpg/250px-St.David%27s_Cathedral_-_Dreieinigkeitskapelle_5_Giraldus_Cambrensis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gerald_of_Wales"
+        }
+    ],
+    "territory_geojson": null
+}

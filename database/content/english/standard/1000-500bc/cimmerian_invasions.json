@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1967,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ce8acd3c0d64a378d76671ba1e33949ab1db9031d7dabe6df295620217469e84",
+    "summary": "The Cimmerian invasions (c. 720–620 BC) were a series of devastating raids by nomadic horsemen from the Pontic steppe — pushed westward by Scythian pressure — that swept through Anatolia and the Near East, destroying several major kingdoms and leaving a trail of destruction across the ancient world. The Cimmerians destroyed the [[event:1951|Phrygian Kingdom]] around 696–695 BC (killing or forcing the suicide of King Midas), raided Lydia (killing King Gyges around 644 BC), and sacked several Ionian Greek coastal cities.\n\nThe Cimmerian invasions represent one of the most destructive episodes of nomadic pressure on the settled civilizations of the ancient Near East. Assyrian texts from the reign of Sargon II and Esarhaddon describe desperate diplomatic efforts to counter the Cimmerian threat, including divination rituals seeking divine guidance. The Cimmerians were eventually repelled and absorbed, primarily through Lydian military pressure (King Alyattes of Lydia finally defeated them c. 620–610 BC). Their cultural legacy is mostly archaeological — their warrior burials show advanced horsemanship equipment — but they permanently disrupted the political map of Anatolia, contributing to the decline of Urartu and Phrygia. The biblical Gomer is identified with the Cimmerians by ancient and modern scholars.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cimmerians",
+    "read_more_links": [
+        {
+            "title": "Cimmerian Phrygian invasion",
+            "url": "https://en.wikipedia.org/wiki/Cimmerians#Invasion_of_Asia_Minor"
+        },
+        {
+            "title": "Alyattes defeats Cimmerians",
+            "url": "https://en.wikipedia.org/wiki/Alyattes_of_Lydia"
+        },
+        {
+            "title": "Scythian displacement of Cimmerians",
+            "url": "https://en.wikipedia.org/wiki/Cimmerians#Origins_and_displacement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sargon_II_and_a_crown_prince%2C_possibly_Sennacherib%2C_from_Khorsabad%2C_Iraq._The_British_Museum.jpg/300px-Sargon_II_and_a_crown_prince%2C_possibly_Sennacherib%2C_from_Khorsabad%2C_Iraq._The_British_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Sargon_II_and_a_crown_prince%2C_possibly_Sennacherib%2C_from_Khorsabad%2C_Iraq._The_British_Museum.jpg",
+            "caption": "Sargon II and a crown prince, possibly Sennacherib. From the Royal Palace at ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Sozopol_Archaeological_Museum_IMG_4219.JPG/300px-Sozopol_Archaeological_Museum_IMG_4219.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Sozopol_Archaeological_Museum_IMG_4219.JPG",
+            "caption": "Archeological Artefacts in Sozopol Museum",
+            "attribution": "Wikimedia Commons, GFDL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Britishmuseumbintepehorserelief.jpg/300px-Britishmuseumbintepehorserelief.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Britishmuseumbintepehorserelief.jpg",
+            "caption": "Tomb relief from Bin Tepe, Lydia, Turkey. Exhibit tag states: \"Panels from to...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cimmerian_Migrations.jpg/300px-Cimmerian_Migrations.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cimmerian_Migrations.jpg",
+            "caption": "Map of the Cimmerian migrations",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mace (bludgeon)",
+            "summary": "Blunt striking weapon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Various_Indo-Persian_maces.jpg/250px-Various_Indo-Persian_maces.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mace_%28bludgeon%29"
+        },
+        {
+            "name": "Sargon II",
+            "summary": "King of the Neo-Assyrian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sargon_II%2C_Iraq_Museum_in_Baghdad.jpg/250px-Sargon_II%2C_Iraq_Museum_in_Baghdad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sargon_II"
+        },
+        {
+            "name": "Sennacherib",
+            "summary": "King of Assyria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sanherib-tr-4271.jpg/250px-Sanherib-tr-4271.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sennacherib"
+        },
+        {
+            "name": "Ḫiyawa",
+            "summary": "Luwian-speaking Neo-Hittite state",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/NeoHittiteStates.gif/250px-NeoHittiteStates.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%E1%B8%AAiyawa"
+        }
+    ],
+    "territory_geojson": null
+}

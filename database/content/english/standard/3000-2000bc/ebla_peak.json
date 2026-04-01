@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1734,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:4a367f6e8baac2f0c269a9e690ed5df391b2f4ac454b4f98a77cc6281996c0cf",
+    "summary": "Ebla, located in modern northwestern Syria near the town of Tell Mardikh, was a major Bronze Age urban centre that reached its peak power and influence approximately 2600–2240 BC. At its height, Ebla was one of the most important cities in the ancient Near East, controlling a network of trade routes connecting Mesopotamia to the Mediterranean coast and commanding a substantial agricultural and pastoral hinterland. The city was governed by a combination of monarchy and council of elders, and its economy was dominated by the production and trade of textiles, particularly fine woollen cloth.\n\nThe [[event:1735|Ebla Tablets]] discovered by Italian archaeologists in the 1970s transformed understanding of the ancient Near East. The archive of approximately 17,000 clay tablets, inscribed in both Sumerian and an early form of Semitic language now called Eblaite, revealed the extent of Ebla's commercial and diplomatic networks. Letters, treaties, administrative records, and lexical lists demonstrate contacts with cities from Mesopotamia to the Anatolian plateau, and the city maintained diplomatic relationships with Ur, Kish, and other major centres. The [[event:3726|palace library at Ebla]] is one of the oldest known libraries in the world.\n\nEbla was destroyed and rebuilt multiple times. Its first major destruction, around 2300 BC, is attributed in the Ebla Tablets themselves to Sargon or Naram-Sin of the [[event:45|Akkadian Empire]]. The city was subsequently rebuilt and continued as a significant regional centre until its final destruction around 1600 BC. Ebla's significance lies in its demonstration that sophisticated urban civilisation in the Bronze Age was not confined to Mesopotamia and Egypt but existed across a broad arc of the Fertile Crescent, and that commercial networks of considerable complexity connected these distant centres.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ebla",
+    "read_more_links": [
+        {
+            "title": "Ebla tablets",
+            "url": "https://en.wikipedia.org/wiki/Ebla_tablets"
+        },
+        {
+            "title": "Eblaite language",
+            "url": "https://en.wikipedia.org/wiki/Eblaite_language"
+        },
+        {
+            "title": "Bronze Age Syria",
+            "url": "https://en.wikipedia.org/wiki/Syria_in_the_Bronze_Age"
+        },
+        {
+            "title": "Ancient Near Eastern trade",
+            "url": "https://en.wikipedia.org/wiki/Trade_in_ancient_Mesopotamia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ebla_-_DecArch_-_2-126.jpg/300px-Ebla_-_DecArch_-_2-126.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ebla_-_DecArch_-_2-126.jpg",
+            "caption": "Ebla, 1993",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG/300px-Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG",
+            "caption": "South-west gate, Ebla in 2004",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ebla_main_sites.jpg/300px-Ebla_main_sites.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ebla_main_sites.jpg",
+            "caption": "sites and buildings of Ebla.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HPIM3077.JPG/300px-HPIM3077.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/HPIM3077.JPG",
+            "caption": "Rovine del palazzo meridionale, a Ebla",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Idlib Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Idlib%2C_Syria%2C_Dead_Cities%2C_Al-Bara_2.jpg/250px-Idlib%2C_Syria%2C_Dead_Cities%2C_Al-Bara_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Idlib_Governorate"
+        },
+        {
+            "name": "Amorites",
+            "summary": "Ancient Semitic-speaking people from the Levant",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cuneiform_Clay_Tablets_from_Amorite_Kingdom_of_Mari%2C_1st_Half_of_2nd_Mill._BC.jpg/250px-Cuneiform_Clay_Tablets_from_Amorite_Kingdom_of_Mari%2C_1st_Half_of_2nd_Mill._BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amorites"
+        },
+        {
+            "name": "Igrish-Halam",
+            "summary": "King of Ebla",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/First_Eblaite_Empire.png/250px-First_Eblaite_Empire.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Igrish-Halam"
+        },
+        {
+            "name": "Naram-Sin of Akkad",
+            "summary": "Ruler of the Akkadian Empire (c. 2254–2218 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stele_of_Naram-Sin_of_Akkad.jpg/250px-Stele_of_Naram-Sin_of_Akkad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad"
+        },
+        {
+            "name": "Ur-Nanshe",
+            "summary": "King of Lagash",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ur-Nanshe.jpg/250px-Ur-Nanshe.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Nanshe"
+        },
+        {
+            "name": "Eannatum",
+            "summary": "King of Lagash",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG/250px-P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eannatum"
+        }
+    ],
+    "territory_geojson": null
+}

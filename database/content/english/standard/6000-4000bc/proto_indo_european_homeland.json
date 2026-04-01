@@ -1,0 +1,54 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1544,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:45634b1c084a060ce9b3c94ac2c87b73f0f7d8b8742b5eaa557040136d81a962",
+    "summary": "The Proto-Indo-European (PIE) homeland refers to the region where linguists believe the ancestral language of the vast Indo-European family was spoken, and from which its speakers subsequently dispersed across Eurasia. The most widely accepted scholarly hypothesis — the Kurgan hypothesis developed by Marija Gimbutas and refined by David Anthony — places this homeland in the Pontic-Caspian steppe, the grasslands extending from the northern shores of the Black Sea eastward to the Caspian Sea, roughly corresponding to parts of present-day Ukraine and Russia. The relevant period spans approximately 4500 to 3500 BCE.\n\nThe speakers of Proto-Indo-European were mobile pastoralists who herded cattle, sheep, and horses across the open steppe. The domestication and riding of horses gave them an enormous strategic advantage in mobility, fundamentally reshaping the social and political landscape of Eurasia. Archaeological cultures associated with the PIE homeland include the [[event:1538|Pontic-Caspian steppe cultures]], the [[event:1542|Khvalynsk culture]], and especially the Yamnaya culture that emerged around 3300 BCE and spread westward into Europe and eastward toward Central Asia with remarkable speed.\n\nProto-Indo-European has been reconstructed by comparative linguists by systematically comparing shared vocabulary and grammatical structures across its daughter languages, which include Sanskrit, Ancient Greek, Latin, Germanic, Celtic, Slavic, Baltic, Iranian, Armenian, and many others. The reconstructed vocabulary reveals much about PIE society: they had words for wheel and axle (confirming wheeled transport), domesticated animals including the horse, hierarchical social structures, and a pantheon of sky-deity worship. The wheel and wagon — critical innovations of this era — appear to have been closely associated with PIE-speaking communities.\n\nThe nature and mechanism of Indo-European expansion remains debated. The Anatolian hypothesis, championed by Colin Renfrew, argues for an earlier origin tied to the spread of agriculture from Anatolia around 7000 BCE. More recent ancient DNA evidence has strongly supported a significant steppe ancestry component in Bronze Age European populations, lending considerable support to the Kurgan model. The expansion likely combined episodes of migration, elite cultural diffusion, and intermarriage with existing populations rather than a single wave of conquest.\n\nThe cultural and demographic impact of PIE dispersal was immense. Today, approximately 3.2 billion people speak languages descended from Proto-Indo-European, making it arguably the most consequential linguistic ancestor in human history. The steppe pastoralist descendants of the PIE homeland introduced not only their languages but also aspects of their material culture — including corded ware pottery, animal husbandry practices, and early bronze metallurgy — into Europe and South Asia. [[event:1541|Botai culture]] in the Kazakh steppe, associated with early horse domestication, represents a related but distinct strand of steppe culture that contributed to these transformations.\n\nThe legacy of the Proto-Indo-European homeland extends far beyond linguistics. The social structures, religious concepts, and technological innovations carried by PIE-speaking migrants shaped the Bronze Age civilizations of Europe, Persia, and the Indian subcontinent. The Indo-Iranian branch eventually produced the Vedic and Avestan traditions, foundations of Hinduism and Zoroastrianism respectively. The European branches gave rise to Greek, Roman, and Germanic civilizations. Understanding the PIE homeland thus illuminates the deep roots of much of world history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Proto-Indo-European_homeland",
+    "read_more_links": [
+        {
+            "title": "Proto-Indo-European language - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Proto-Indo-European_language"
+        },
+        {
+            "title": "Kurgan hypothesis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kurgan_hypothesis"
+        },
+        {
+            "title": "Yamnaya culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yamnaya_culture"
+        },
+        {
+            "title": "Indo-European migrations - Britannica",
+            "url": "https://www.britannica.com/topic/Indo-European-languages"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Indo-European_migrations.gif/300px-Indo-European_migrations.gif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Indo-European_migrations.gif",
+            "caption": "Animated map of Indo-European migrations. Sources:\nJ.P. Mallory (1999) \"In Se...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Nikolai Trubetzkoy",
+            "summary": "Russian linguist and historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nikolai_Trubetzkoy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nikolai_Trubetzkoy"
+        },
+        {
+            "name": "Asko Parpola",
+            "summary": "Finnish Indologist (born 1941)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asko_Parpola.jpg/250px-Asko_Parpola.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Asko_Parpola"
+        }
+    ],
+    "territory_geojson": null
+}

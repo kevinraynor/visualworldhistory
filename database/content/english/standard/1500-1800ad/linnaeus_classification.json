@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2460,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2fd4aacfe6c8a06a51bd4b4a83063c64ee98a000eb93b988eb43fb378fb9d69a",
+    "summary": "Carl Linnaeus's Binomial Classification System (introduced in Systema Naturae, 1735; fully developed in Species Plantarum, 1753 and the 10th edition of Systema Naturae, 1758) was the founding achievement of modern biological taxonomy — the creation of a universal, standardized system for naming and classifying all living organisms using two-part Latin names (genus and species) that revolutionized natural history and made the [[event:104|Scientific Revolution's]] ambitions applicable to the living world. Linnaeus, a Swedish physician and botanist who became arguably the 18th century's most celebrated scientist, identified the need for a systematic, stable nomenclature: prior to his system, the same plant or animal might be known by dozens of different names in different languages and countries, making scientific communication about living things nearly impossible.\n\nLinnaeus's hierarchical classification system — grouping species into genera, genera into orders, orders into classes, and classes into kingdoms — provided a logical scaffold for organizing the exploding inventory of new species being collected by explorers worldwide (including from [[event:2388|Cook's voyages]]). His decision to include humans (Homo sapiens — the first use of the modern name, meaning 'wise man') in the order Primates alongside apes created immediate controversy, as it appeared to challenge human uniqueness. His binomial nomenclature (the two-name system: genus species, as in Homo sapiens or Felis catus) remains in universal scientific use today — every scientifically described species carries a Linnaean binomial. His system was pre-Darwinian and based on morphological similarity rather than evolutionary relationship, but it provided the organizational framework within which Darwin's theory of evolution could be understood and communicated. The Linnaean system is one of the most durable scientific frameworks in history, in continuous use for over 250 years.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+    "read_more_links": [
+        {
+            "title": "Systema Naturae Linnaeus taxonomy 1735 classification",
+            "url": "https://en.wikipedia.org/wiki/Systema_Naturae"
+        },
+        {
+            "title": "Binomial nomenclature species naming system",
+            "url": "https://en.wikipedia.org/wiki/Binomial_nomenclature"
+        },
+        {
+            "title": "Linnaeus Homo sapiens primates controversy humans",
+            "url": "https://en.wikipedia.org/wiki/Carl_Linnaeus#Classification_of_humans"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

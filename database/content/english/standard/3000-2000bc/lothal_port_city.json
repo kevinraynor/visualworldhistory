@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1744,
+    "parent_id": 46,
+    "granularity": "notable",
+    "content_hash": "sha256:bd8502284fa3c7fb0532954a4698a779ed48726d2ae54f89977f48827d3dcf2b",
+    "summary": "Lothal, located in the present-day Indian state of Gujarat near the Gulf of Khambhat (Cambay), was a major port city and trading centre of the [[event:46|Indus Valley Civilisation]], occupied approximately 2400–2000 BC. The site is best known for its dockyard — a large, brick-lined basin that scholars have interpreted as an artificial dock or tidal basin capable of accommodating seagoing vessels — which, if correctly identified, would make it one of the world's earliest purpose-built maritime facilities.\n\nLothal's economy was oriented toward maritime trade. Archaeological finds from the site include Persian Gulf seals, beads and artefacts of materials originating in Mesopotamia, and evidence of bead-making workshops producing goods for export. The site's warehouse, constructed near the dock, contained standardised weights and tools, indicating systematic regulation of trade. Mesopotamian clay tablets from this period mention trade with a region called Meluhha, which many scholars identify as the Indus Valley — the goods exchanged included cotton textiles, carnelian beads, ivory, and copper.\n\nLothal provides important evidence for the maritime dimension of Indus Valley commerce and the city's role within the [[event:1746|broader Indus-Mesopotamia trade network]]. The site's bead factory was among the most productive in the Indus world, and its geometric, micro-drilled carnelian beads have been found in archaeological sites as far distant as Mesopotamia, the Arabian Peninsula, and Egypt. Lothal thus illustrates how Indus Valley cities participated in a remarkably wide-ranging Bronze Age trading system, connecting the subcontinent to the rest of the ancient world through seaborne commerce.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lothal",
+    "read_more_links": [
+        {
+            "title": "Indus Valley Civilisation",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        },
+        {
+            "title": "Indus–Mesopotamia relations",
+            "url": "https://en.wikipedia.org/wiki/Indus%E2%80%93Mesopotamia_relations"
+        },
+        {
+            "title": "Meluhha",
+            "url": "https://en.wikipedia.org/wiki/Meluhha"
+        },
+        {
+            "title": "Ancient maritime trade",
+            "url": "https://en.wikipedia.org/wiki/Ancient_maritime_history"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lothal_-_ancient_well.jpg/300px-Lothal_-_ancient_well.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Lothal_-_ancient_well.jpg",
+            "caption": "An ancient well, and the city drainage canals, in the upper town of the site ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lothal_-_bathroom_structure.jpg/300px-Lothal_-_bathroom_structure.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lothal_-_bathroom_structure.jpg",
+            "caption": "The bathroom-toilet structure of houses in Lothal, India",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lothal_-_lower_town.jpg/300px-Lothal_-_lower_town.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Lothal_-_lower_town.jpg",
+            "caption": "Ruins of the lower town in the site of Lothal, India",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lothal_-_water_well.jpg/300px-Lothal_-_water_well.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lothal_-_water_well.jpg",
+            "caption": "Ancient water well in the site of Lothal, India",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

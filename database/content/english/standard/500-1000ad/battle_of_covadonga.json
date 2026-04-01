@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3520,
+    "parent_id": 2209,
+    "granularity": "detailed",
+    "content_hash": "sha256:077a9b3652a9741371cb8666af12664f1874457d4a9e190232adb7b6c9384b99",
+    "summary": "The Battle of Covadonga (c. 722 AD) is the legendary founding event of the [[event:2209|Reconquista]] — the Christian reconquest of the Iberian Peninsula from Muslim rule — in which a Visigothic noble named Pelayo (or Pelagius) and a small force of Asturian warriors defeated an Umayyad military expedition in a mountain valley of the Asturias in northwestern Spain. The battle's historical details are obscured by later legend and Christian hagiography, but its symbolic importance as the starting point of Christian resistance to Islamic rule in Iberia is immense: Pelayo established the Kingdom of Asturias in the aftermath, the first Christian political entity in the conquered peninsula.\n\nThe medieval Christian tradition portrayed Covadonga as a miraculous victory — Pelayo's fighters sheltered in a cave sacred to the Virgin Mary, and according to the Chronicle of Alfonso III, enemy spears turned back on their throwers and a section of mountain fell on the Umayyad forces. Modern historians assess the battle more prosaically: Pelayo likely commanded a few hundred men who ambushed an Umayyad punitive expedition in terrain where cavalry was useless, and the Umayyad command probably did not consider the Asturian mountains strategically significant enough to mount a major campaign. The Umayyad state at this point was focused on its far more ambitious — and ultimately failed — northward push into France that would be stopped at the [[event:2132|Battle of Tours]] (732 AD). Regardless of its actual scale, Covadonga was later transformed by Asturian and then Spanish royal mythology into the foundational moment of Spanish national identity, and the site became one of the most important pilgrimage destinations in medieval Spain.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Covadonga",
+    "read_more_links": [
+        {
+            "title": "Pelayo Asturias Kingdom founder Covadonga",
+            "url": "https://en.wikipedia.org/wiki/Pelagius_of_Asturias"
+        },
+        {
+            "title": "Kingdom Asturias Reconquista nucleus",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Asturias"
+        },
+        {
+            "title": "Covadonga cave shrine pilgrimage Spain",
+            "url": "https://en.wikipedia.org/wiki/Covadonga"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        },
+        {
+            "name": "Pelagius of Asturias",
+            "summary": "King of Asturias (c. 685–737)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pelayo_en_la_batalla_de_Covadonga_BNE_Mss_2805_f_23r.jpg/250px-Pelayo_en_la_batalla_de_Covadonga_BNE_Mss_2805_f_23r.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pelagius_of_Asturias"
+        },
+        {
+            "name": "Egica",
+            "summary": "Visigoth King of Hispania and Septimania from 687 to ~702 AD",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Reyes_visigodos_Codex_Vigilanus_-_%C3%89gica.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Egica"
+        },
+        {
+            "name": "Rosamond McKitterick",
+            "summary": "English medieval historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rosamond_McKitterick_Aufnahme_von_Werner_Maleczek.jpg/250px-Rosamond_McKitterick_Aufnahme_von_Werner_Maleczek.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rosamond_McKitterick"
+        }
+    ],
+    "territory_geojson": null
+}

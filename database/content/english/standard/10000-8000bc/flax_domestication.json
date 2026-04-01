@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1327,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:76c7837a1f68a78cd5a4480fec1cdf850d39c7a6613f684abc96dfc0cc71d9e8",
+    "summary": "Flax (Linum usitatissimum) was domesticated from its wild ancestor Linum bienne in the Fertile Crescent, as one of the founding crops of Near Eastern Neolithic agriculture. Evidence for cultivated flax appears at early Neolithic sites in the Levant and Anatolia from approximately 9000–8000 BCE, making it one of the earliest known domesticated plant species alongside the founder cereals and legumes.\n\nFlax was a uniquely multipurpose crop: its seeds provided dietary oil and protein, while the long fibers in its stems could be processed (through retting, hackling, and spinning) into linen thread and fabric. Linen was the principal plant-based textile fiber of the ancient Near East and Mediterranean world for thousands of years, before cotton cultivation spread from South Asia in the first millennium BCE. The [[event:1331|earliest known woven textiles]] may include linen fibers, reflecting how quickly fiber processing followed domestication. Flax cultivation also produces linseed oil, which was used as a food oil and drying oil for various craft purposes. Its dual utility as both a food and fiber crop made flax one of the most versatile and valuable plants domesticated during the Neolithic Revolution, and it spread rapidly with Neolithic farming communities into Europe, where it became the dominant textile fiber until the modern era.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flax",
+    "read_more_links": [
+        {
+            "title": "Linen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Linen"
+        },
+        {
+            "title": "Founder Crops - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Founder_crops"
+        },
+        {
+            "title": "Textile History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_clothing_and_textiles"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hatchel_of_the_Bugg_Family.jpg/300px-Hatchel_of_the_Bugg_Family.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hatchel_of_the_Bugg_Family.jpg",
+            "caption": "Hatchel used by the Bugg family. This piece was purchased by Ralph and Lois W...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ground_Golden_Flax_Seeds_%288594315026%29.jpg/300px-Ground_Golden_Flax_Seeds_%288594315026%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ground_Golden_Flax_Seeds_%288594315026%29.jpg",
+            "caption": "Ground Golden Flax Seeds",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flax_Plants.jpg/300px-Flax_Plants.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flax_Plants.jpg",
+            "caption": "Flax Plants",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg/300px-K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/K%C3%B6hler%27s_Medizinal-Pflanzen_in_naturgetreuen_Abbildungen_mit_kurz_erl%C3%A4uterndem_Texte_%28Plate_16%29_BHL303594.jpg",
+            "caption": "Köhler's Medizinal-Pflanzen in naturgetreuen Abbildungen mit kurz erläuternde...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charlemagne",
+            "summary": "Carolingian emperor from 800 to 814",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlemagne_denier_Mayence_812_814.jpg/250px-Charlemagne_denier_Mayence_812_814.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charlemagne"
+        },
+        {
+            "name": "Emile Claus",
+            "summary": "Belgian painter (1849–1924)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Emilme_Claus.Portret.jpg/250px-Emilme_Claus.Portret.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emile_Claus"
+        }
+    ],
+    "territory_geojson": null
+}

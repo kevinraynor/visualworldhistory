@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2283,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:0b8db06ea37b6e10e1e6f47ab67849deec2f1bf3da70799935bd81ca425f0a3f",
+    "summary": "The Joseon Dynasty (1392–1897 AD) was founded by General Yi Seonggye, who overthrew the [[event:2212|Goryeo Dynasty]] and established a new state named Joseon (Great Joseon), which endured for over five centuries as one of the longest-lived dynastic states in East Asian history. Yi Seonggye, who became King Taejo, built his new kingdom on Neo-Confucian principles — replacing Goryeo's Buddhist-dominated court culture with a rigorously Confucian administrative system that shaped Korean society, governance, and values to an extraordinary degree.\n\nThe Joseon Dynasty's most remarkable cultural achievement was the creation of [[event:2284|Hangul]] — a phonetic alphabet specifically designed for the Korean language under King Sejong the Great (reigned 1418–1450) — which democratized literacy by providing a writing system far simpler than the Classical Chinese that had served as Korea's written language. Joseon Korea created a sophisticated civil examination system, bureaucracy, and legal code modeled on Chinese Tang and Song institutions while adapting them to Korean conditions. The dynasty survived two devastating Japanese invasions (the Imjin War, 1592–1598, led by Toyotomi Hideyoshi) and Manchu invasions (1627 and 1636–1637) that forced Korea to accept Chinese Qing suzerainty, while maintaining cultural and political continuity through remarkable institutional resilience. Joseon's Neo-Confucian value system — emphasizing hierarchy, loyalty, filial piety, and education — remains influential in Korean culture to the present day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Joseon",
+    "read_more_links": [
+        {
+            "title": "Yi Seonggye Joseon dynasty founder",
+            "url": "https://en.wikipedia.org/wiki/Taejo_of_Joseon"
+        },
+        {
+            "title": "Joseon Neo-Confucian administration system",
+            "url": "https://en.wikipedia.org/wiki/Joseon#Politics_and_government"
+        },
+        {
+            "title": "King Sejong Joseon golden age",
+            "url": "https://en.wikipedia.org/wiki/Sejong_the_Great"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/%E6%9C%9D%E9%B2%9C%E4%BC%A0%E7%BB%9F%E4%B8%A7%E6%9C%8D%E6%96%B9%E7%AC%A0.jpg/300px-%E6%9C%9D%E9%B2%9C%E4%BC%A0%E7%BB%9F%E4%B8%A7%E6%9C%8D%E6%96%B9%E7%AC%A0.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/%E6%9C%9D%E9%B2%9C%E4%BC%A0%E7%BB%9F%E4%B8%A7%E6%9C%8D%E6%96%B9%E7%AC%A0.jpg",
+            "caption": "​朝鲜传统丧服和方笠（丧笠）。朝鲜时代后期，韩国国立民俗博物馆藏。",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EC%98%B9%EC%B2%9C.jpg/300px-%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EC%98%B9%EC%B2%9C.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/%EA%B9%80%ED%99%8D%EB%8F%84_%EA%B8%88%EA%B0%95%EC%82%AC%EA%B5%B0%EC%B2%A9_-_%EC%98%B9%EC%B2%9C.jpg",
+            "caption": "Album of landscapes around Mt. Geumgangsan",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Korea-Tongyeong_Port-Turtle_ship_replica-02.jpg/300px-Korea-Tongyeong_Port-Turtle_ship_replica-02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Korea-Tongyeong_Port-Turtle_ship_replica-02.jpg",
+            "caption": "View of Hallyeo National Marine Park in Tongyeong, South Gyeongsang province,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Korea-Tongyeong_Port-Turtle_ship_replica-Inside-02.jpg/300px-Korea-Tongyeong_Port-Turtle_ship_replica-Inside-02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Korea-Tongyeong_Port-Turtle_ship_replica-Inside-02.jpg",
+            "caption": "View of Hallyeo National Marine Park in Tongyeong, South Gyeongsang province,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Taejo of Joseon",
+            "summary": "King of Joseon from 1392 to 1398",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/King_Taejo_Yi_02.jpg/250px-King_Taejo_Yi_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taejo_of_Joseon"
+        },
+        {
+            "name": "Jurchen people",
+            "summary": "Tungusic-speaking people in East Asia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jin_%28Jurchen%29_flags_%2851168762691%29.png/250px-Jin_%28Jurchen%29_flags_%2851168762691%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jurchen_people"
+        },
+        {
+            "name": "Ch'oe Yŏng",
+            "summary": "Korean general (1316–1388)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/General_Choe_Yeong.jpg/250px-General_Choe_Yeong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ch%27oe_Y%C5%8Fng"
+        },
+        {
+            "name": "Taejong of Joseon",
+            "summary": "King of Joseon from 1400 to 1418",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Taejong.JPG/250px-Taejong.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taejong_of_Joseon"
+        }
+    ],
+    "territory_geojson": null
+}

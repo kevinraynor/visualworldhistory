@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3377,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9faa9682a8b21c46ec708706b3512d319794bd356dfe64c93631e650d6d9d6e1",
+    "summary": "The dot-com bubble was a speculative stock market bubble in technology shares that grew rapidly from 1997 and peaked in March 2000 before collapsing. The NASDAQ composite index rose from around 1,000 in 1995 to over 5,000 in March 2000, driven by massive investor enthusiasm for internet companies. Venture capital flooded into startups with minimal business models, and companies without revenues or clear paths to profitability achieved billion-dollar valuations. Extravagant spending, high burn rates, and the maxim that internet businesses could grow now and profit later characterized the era.\n\nThe collapse began in March 2000 and was swift and devastating. By October 2002, the NASDAQ had lost nearly 80 percent of its peak value. Hundreds of internet companies — Pets.com, Webvan, Boo.com — burned through their capital and closed. Trillions of dollars in market value evaporated. The crash triggered a recession and destroyed the wealth of millions of investors who had poured savings into technology stocks during the boom.\n\nDespite the spectacular collapse of most dot-com companies, the internet infrastructure built during the boom — fiber optic cables, server capacity, software — remained and provided the foundation for the next wave of internet development. Companies including Amazon, Google, and eBay survived the crash and went on to dominate global commerce and information. The dot-com bubble is studied as a classic speculative mania, illustrating how genuine technological transformation can generate irrational exuberance far in advance of sustainable commercial value.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+    "read_more_links": [
+        {
+            "title": "Dot-com Bubble - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/dot-com-bubble"
+        },
+        {
+            "title": "NASDAQ - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nasdaq"
+        },
+        {
+            "title": "Internet History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/US_VC_funding.png/300px-US_VC_funding.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/US_VC_funding.png",
+            "caption": "Quarterly U.S. Venture Capital Investments 1995-2017",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pets.com_sockpuppet.jpg/300px-Pets.com_sockpuppet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pets.com_sockpuppet.jpg",
+            "caption": "The Pets.com sockpuppetPodcast maskot",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EC1835_C_cut.jpg/300px-EC1835_C_cut.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/EC1835_C_cut.jpg",
+            "caption": "Robotron Personalcomputer EC 1835 Prototype (1990), recorded in \"Industriemus...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Blue_iPod_Nano.jpg/300px-Blue_iPod_Nano.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Blue_iPod_Nano.jpg",
+            "caption": "Blue iPod Nano",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alan Greenspan",
+            "summary": "American economist and financial advisor (born 1926)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alan_Greenspan_color_photo_portrait.jpg/250px-Alan_Greenspan_color_photo_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alan_Greenspan"
+        },
+        {
+            "name": "Public company",
+            "summary": "Company that offers its securities for sale to the general public",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/250px-New_York_Stock_Exchange_Facade_2015.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Public_company"
+        },
+        {
+            "name": "Mark Cuban",
+            "summary": "American businessman (born 1958)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/MarkCuban2023.jpg/250px-MarkCuban2023.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Cuban"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1308,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:30aa8bd3e4b7d490a6a19b58cb9c6147082b348931bd1a559451b4cd77f4aebc",
+    "summary": "The Sultanian culture is a local facies of the [[event:1304|Pre-Pottery Neolithic A (PPNA)]] identified specifically in the Jordan Valley and lower Jordan River basin, primarily centered on the site of [[event:2|Jericho]] (Tell es-Sultan). The name derives from Kathleen Kenyon's excavations at Jericho in the 1950s, where the distinctive assemblage was defined. The Sultanian is characterized by a particular suite of stone tools including Sultanian lunates, sickle blades, and grinding equipment indicative of cereal processing, as well as the distinctive architectural tradition of round to oval mud-brick structures.\n\nThe Sultanian facies at Jericho is associated with the construction of the famous Jericho tower and the substantial encircling wall during the PPNA period. The Sultanian communities cultivated emmer wheat and barley and managed gazelle herds, representing one of the earliest and most developed instances of the transition to agriculture in the southern Levant. The Sultanian is the earliest named cultural subdivision of the PPNA and represents the beginning of a long sequence of occupation at Jericho that continued through the Bronze Age and into historical times — one of the longest continuously occupied human settlements ever identified.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A",
+    "read_more_links": [
+        {
+            "title": "Jericho - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jericho"
+        },
+        {
+            "title": "Kathleen Kenyon - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kathleen_Kenyon"
+        },
+        {
+            "title": "Jordan Valley Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jordan_Valley"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg/300px-G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/G%C3%B6bekli_Tepe%2C_Urfa.jpg",
+            "caption": "Göbekli Tepe, Şanlıurfa",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ziko.jpg/300px-Ziko.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ziko.jpg",
+            "caption": "Tel Essultan site",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Reliefs_of_animals%2C_G%C3%B6bekli_Tepe_Layer_III%2C_circa_9000_BCE.jpg/300px-Reliefs_of_animals%2C_G%C3%B6bekli_Tepe_Layer_III%2C_circa_9000_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Reliefs_of_animals%2C_G%C3%B6bekli_Tepe_Layer_III%2C_circa_9000_BCE.jpg",
+            "caption": "Göbekli Tepe reliefs of animals",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Urfa_man.jpg/300px-Urfa_man.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Urfa_man.jpg",
+            "caption": "Urfa man, also known as the \"Balikligöl Statue\", Pre-Pottery Neolithic.\nhttps...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

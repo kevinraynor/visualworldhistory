@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2332,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:ecf39370cf45399ad3a026ec27f25c5761e36b33b97058d5559cfe305c923e96",
+    "summary": "The Seven Years' War (1756–1763 AD) was the first truly global war in history, fought across five continents simultaneously — Europe, North America, South America, West Africa, India, and the Philippines — and resulting in a comprehensive British imperial triumph that established British dominance in North America and India and made Britain the undisputed world maritime and colonial power for the following century. Called by Winston Churchill 'the real first world war,' it involved all the major European powers: Britain and Prussia on one side against France, Austria, Russia, Sweden, and Spain on the other, in a conflict that grew from the overlap of the [[event:2456|French and Indian War]] in North America (where it began in 1754) and the Austrian-Prussian conflict over Silesia in Europe.\n\nIn North America, British victories expelled France from Canada (the siege of Quebec, 1759, where both commanding generals Wolfe and Montcalm died) and most of the eastern continent. In India, the [[event:2333|Battle of Plassey]] (1757) gave the East India Company control of Bengal. The [[event:3279|Battle of Rossbach]] (1757) demonstrated Frederick the Great's tactical genius as Prussian forces defeated a much larger Franco-Imperial army. The [[event:2393|Treaty of Paris]] (1763) confirmed British gains: France ceded Canada, most of its North American territories, and Indian interests. The war's long-term consequences were paradoxical: British victory proved costly, as the effort to tax the colonies to pay war debts triggered the [[event:106|American Revolution]] (1776); French defeat proved destabilizing, as war costs contributed to the fiscal crisis that eventually triggered the [[event:107|French Revolution]] (1789). The Seven Years' War thus set in motion the sequence of revolutions that would transform the Atlantic world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+    "read_more_links": [
+        {
+            "title": "Siege of Quebec 1759 Wolfe Montcalm Canada",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"
+        },
+        {
+            "title": "Treaty of Paris 1763 British imperial gains",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Battle_of_Quiberon_Bay%2C_20_November_1759_RMG_BHC0397.tiff/300px-The_Battle_of_Quiberon_Bay%2C_20_November_1759_RMG_BHC0397.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Battle_of_Quiberon_Bay%2C_20_November_1759_RMG_BHC0397.tiff",
+            "caption": "The Battle of Quiberon Bay, 20 November 1759\nThe Battle of Quiberon Bay, on 2...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1754_French_and_Indian_War.png/300px-1754_French_and_Indian_War.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/1754_French_and_Indian_War.png",
+            "caption": "The Extent of both French and British Territories in North America in 1754.\nB...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Burnt_Church%2C_c._1768.jpg/300px-Burnt_Church%2C_c._1768.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Burnt_Church%2C_c._1768.jpg",
+            "caption": "A view of Miramichi, a French settlement in the Gulf of St. Laurence, destroy...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Europe_1748-1766_en.png/300px-Europe_1748-1766_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Europe_1748-1766_en.png",
+            "caption": "This map shows Europe in the years after the Treaty of Aix-la-Chapelle 1748 a...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "George II of Great Britain",
+            "summary": "King of Great Britain and Ireland from 1727 to 1760",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/George_II_by_Thomas_Hudson.jpg/250px-George_II_by_Thomas_Hudson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_II_of_Great_Britain"
+        },
+        {
+            "name": "George III",
+            "summary": "King of Great Britain and Ireland from 1760 to 1820",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/250px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_III"
+        },
+        {
+            "name": "William Pitt, 1st Earl of Chatham",
+            "summary": "Prime Minister of Great Britain from 1766 to 1768",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/William_Pitt%2C_1st_Earl_of_Chatham_by_William_Hoare.jpg/250px-William_Pitt%2C_1st_Earl_of_Chatham_by_William_Hoare.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Pitt%2C_1st_Earl_of_Chatham"
+        },
+        {
+            "name": "Thomas Pelham-Holles, 1st Duke of Newcastle",
+            "summary": "Prime Minister of Great Britain (1754–1756; 1757–1762)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/1stDukeOfNewcastleOld.jpg/250px-1stDukeOfNewcastleOld.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Pelham-Holles%2C_1st_Duke_of_Newcastle"
+        },
+        {
+            "name": "William Cavendish, 4th Duke of Devonshire",
+            "summary": "Prime Minister of Great Britain from 1756 to 1757",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/4th_Duke_of_Devonshire_after_Hudson.jpg/250px-4th_Duke_of_Devonshire_after_Hudson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Cavendish%2C_4th_Duke_of_Devonshire"
+        },
+        {
+            "name": "John Stuart, 3rd Earl of Bute",
+            "summary": "Prime Minister of Great Britain from 1762 to 1763",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/John_Stuart%2C_3rd_Earl_of_Bute%2C_by_Joshua_Reynolds.jpg/250px-John_Stuart%2C_3rd_Earl_of_Bute%2C_by_Joshua_Reynolds.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Stuart%2C_3rd_Earl_of_Bute"
+        }
+    ],
+    "territory_geojson": null
+}

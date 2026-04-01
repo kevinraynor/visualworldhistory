@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1623,
+    "parent_id": 1618,
+    "granularity": "detailed",
+    "content_hash": "sha256:e0c4bc241ca020e5178c7283b9799b4ff3d390b28d2c245885bc5cb38bcdb4e1",
+    "summary": "The Eanna precinct in [[event:1618|Uruk]] was the sacred district dedicated to the goddess Inanna, the Sumerian deity of love, fertility, and war, and served as the administrative and religious heart of the world's first city during the fourth millennium BCE. The Eanna (meaning House of Heaven in Sumerian) underwent continuous construction and rebuilding throughout the [[event:1617|Uruk Period]], producing a succession of monumental mudbrick buildings of unprecedented scale and sophistication. Excavations by German archaeologists from the early twentieth century onward have revealed the outlines of several large hall-and-courtyard complexes built one atop another across successive centuries.\n\nThe Eanna precinct is also where the world's earliest written documents were recovered — thousands of [[event:1620|proto-cuneiform tablets]] recording the economic transactions of the temple institution. The temple at Uruk functioned as a redistributive economic center, receiving grain, livestock, fish, and manufactured goods from dependent villages and urban workshops, and disbursing standardized rations to the workforce of craftspeople, laborers, and administrators who served the institution. Writing was invented here precisely to track the scale and complexity of these transactions.\n\nThe architectural forms of the Eanna precinct — including its use of cone mosaics (walls decorated with thousands of small painted clay cones pressed into plaster to create geometric patterns), its monumental gateways, and its large columned halls — established the architectural vocabulary of Sumerian sacred architecture that would persist for millennia. The scale of the buildings, requiring the coordination of large labor forces and the production of millions of standardized mudbricks, testifies to the institutional capacity of the Uruk temple economy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eanna",
+    "read_more_links": [
+        {
+            "title": "Uruk - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Uruk"
+        },
+        {
+            "title": "Inanna - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Inanna"
+        },
+        {
+            "title": "Sumerian Architecture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Architecture_of_Mesopotamia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg/300px-Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Part_of_front_of_Inanna_temple_of_Kara_Indasch_from_Uruk_Vorderasiatisches_Museum_Berlin.jpg",
+            "caption": "Part the front of the Inanna temple of the Kara Indasch from Uruk.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Muthanna Governorate",
+            "summary": "Governorate of Iraq",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Al-Muthanna_in_Iraq.svg/250px-Al-Muthanna_in_Iraq.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muthanna_Governorate"
+        },
+        {
+            "name": "Ruins",
+            "summary": "Remains of human-made architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg/250px-Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruins"
+        },
+        {
+            "name": "Lugal",
+            "summary": "Sumerian term for rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Detail_of_the_Sumerian_statue_of_Lugaldalu.JPG/250px-Detail_of_the_Sumerian_statue_of_Lugaldalu.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lugal"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1693,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d9b0fefefbe78006cf9f09f213939a89f6eb53e2488bdfa9471b5b96f6b21867",
+    "summary": "The dam at Jawa, located in the Black Desert of northeastern Jordan, is considered the earliest known large dam in the world, constructed around 3200–3000 BCE. The structure was part of a sophisticated water management system designed to collect and divert rainfall runoff for a settled community of several thousand people in an otherwise arid environment. The dam was built from basalt stone and earthen embankments, incorporating sluice gates and a series of reservoirs connected by channels.\n\nThe Jawa settlement itself covered approximately ten hectares and was enclosed by a defensive wall, making it one of the largest late Chalcolithic communities in the southern Levant. The community's survival in an area receiving less than 200 millimeters of rainfall annually depended entirely on this engineered water system. Jawa was abandoned after only a few generations, possibly due to drought, but the dam's design principles — including the division of a catchment basin among multiple storage pools — anticipate hydraulic engineering solutions that would be redeveloped independently across the ancient world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jawa,_Jordan",
+    "read_more_links": [
+        {
+            "title": "Ancient Dams - International Commission on Large Dams",
+            "url": "https://www.icold-cigb.org/"
+        },
+        {
+            "title": "Water in the Ancient Near East - Britannica",
+            "url": "https://www.britannica.com/topic/water-supply-system/The-ancient-world"
+        },
+        {
+            "title": "Jordan's Prehistoric Sites - UNESCO",
+            "url": "https://whc.unesco.org/en/statesparties/jo"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Jawa%2C_eastern_Jordan.jpg/300px-Jawa%2C_eastern_Jordan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jawa%2C_eastern_Jordan.jpg",
+            "caption": "Photograph of the ruins of Jawa, a Bronze Age city in the Black Desert, easte...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Reliefkarte_Jordanien.png/300px-Reliefkarte_Jordanien.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Reliefkarte_Jordanien.png",
+            "caption": "Relief map of Jordan",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Jawa_%28Ruins%29.jpg/300px-Jawa_%28Ruins%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Jawa_%28Ruins%29.jpg",
+            "caption": "Jawa (Ruins)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mafraq Governorate",
+            "summary": "Governorate of Jordan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mafraq_in_Jordan.svg/250px-Mafraq_in_Jordan.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mafraq_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

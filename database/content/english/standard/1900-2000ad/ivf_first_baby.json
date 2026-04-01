@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3392,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a17a12d80a8b86769ae8ef39385f31bf551c0af810d53e27970f66969cb635fe",
+    "summary": "Louise Brown, born on July 25, 1978, at Oldham General Hospital in England, became the world's first baby conceived through in vitro fertilization (IVF). Her birth was the result of years of research by British physiologist Robert Edwards and gynecologist Patrick Steptoe, who developed techniques for retrieving human eggs, fertilizing them outside the body in a laboratory dish, and transferring the resulting embryo to the uterus. The achievement opened a new era in reproductive medicine.\n\nIVF rapidly became a treatment of choice for various forms of infertility and spread to clinics worldwide through the 1980s and 1990s. The technology also raised profound ethical questions about the status of human embryos, genetic selection, and the commodification of reproduction. Robert Edwards was awarded the Nobel Prize in Physiology or Medicine in 2010 for the development of IVF. By the end of the twentieth century, an estimated one million children had been born through the technique, a number that would grow to several million in subsequent decades.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Louise_Brown",
+    "read_more_links": [
+        {
+            "title": "In vitro fertilisation",
+            "url": "https://en.wikipedia.org/wiki/In_vitro_fertilisation"
+        },
+        {
+            "title": "Robert Edwards (physiologist)",
+            "url": "https://en.wikipedia.org/wiki/Robert_Edwards_(physiologist)"
+        },
+        {
+            "title": "Patrick Steptoe",
+            "url": "https://en.wikipedia.org/wiki/Patrick_Steptoe"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Greater Manchester",
+            "summary": "Ceremonial county in North West England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg/250px-Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Greater_Manchester"
+        },
+        {
+            "name": "Patriarch of Venice",
+            "summary": "Italian Catholic bishop",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Moraglia_Mira_1.JPG/250px-Moraglia_Mira_1.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Patriarch_of_Venice"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,34 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2694,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:2bbfbc259806a58535fa4cd74b17aa0939890452058ab8243357e9d7750bb755",
+    "summary": "On February 28, 1953, British molecular biologists James Watson and Francis Crick announced their discovery of the double helix structure of deoxyribonucleic acid (DNA) at the Cavendish Laboratory, Cambridge University. Published in the journal Nature on April 25, 1953, their model revealed how DNA stores and transmits genetic information: two complementary strands of nucleotides wound around each other, with the sequence of base pairs encoding the genetic instructions for all living organisms. The discovery is widely considered the most important scientific finding of the twentieth century, opening the era of molecular biology and biotechnology.\n\nThe discovery was the culmination of a competitive race involving multiple research groups. Watson and Crick's model was built partly on X-ray crystallography data produced by Rosalind Franklin and Raymond Gosling at King's College London, particularly the famous \"Photo 51\" image that revealed the helical structure. Franklin's crucial contribution was not acknowledged by Watson, Crick, and Maurice Wilkins when they received the 1962 Nobel Prize in Physiology or Medicine — Franklin had died of cancer in 1958, and the Nobel is not awarded posthumously. The ethical dimensions of how her work was used without her knowledge or permission have been extensively discussed by historians of science.\n\nThe elucidation of DNA's structure immediately suggested its mechanism of replication: each strand could serve as a template for producing a complementary strand, explaining how genetic information is copied during cell division. The structure also suggested how mutations arise and how they can be inherited. Over the following decades, deciphering the genetic code — determining which sequences of bases correspond to which amino acids in proteins — opened the door to understanding gene function at the molecular level.\n\nThe practical applications of Watson and Crick's discovery proved transformative. Genetic engineering became possible once scientists could read, copy, and manipulate DNA sequences. The biotechnology industry grew from the ability to insert genes from one organism into another, producing medicines including insulin and human growth hormone. DNA fingerprinting, developed in 1984, revolutionized forensic science and paternity testing. The [[event:2739|Human Genome Project]], completed in 2003, mapped all of human DNA. Gene therapy, cloning, CRISPR gene editing — all trace directly to the foundational insight of the double helix.\n\nThe discovery of DNA structure also raised profound philosophical questions about the relationship between genes and identity, free will and determinism, and the ethics of genetic manipulation. As biotechnology advanced in the late twentieth and early twenty-first centuries, debates about cloning, genetic modification of organisms, and genetic screening became central ethical and political controversies. Watson and Crick's 1953 discovery set in motion a scientific revolution whose full implications continue to unfold.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids",
+    "read_more_links": [
+        {
+            "title": "DNA – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/science/DNA"
+        },
+        {
+            "title": "Rosalind Franklin and DNA – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+        },
+        {
+            "title": "Watson and Crick Nobel Lecture – NobelPrize.org",
+            "url": "https://www.nobelprize.org/prizes/medicine/1962/crick/lecture/"
+        },
+        {
+            "title": "Human Genome Project – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Human_Genome_Project"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

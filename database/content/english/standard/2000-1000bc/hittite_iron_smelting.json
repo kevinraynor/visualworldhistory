@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1857,
+    "parent_id": 54,
+    "granularity": "notable",
+    "content_hash": "sha256:56c30d0f2275cd2713c56b85ef2bd178b9bcdeeb71a6c1540853a6540cd633ad",
+    "summary": "The [[event:54|Hittites]] of Anatolia are widely credited with early expertise in iron smelting and the production of iron objects, active from roughly 1400–1200 BC, although the nature and extent of their monopoly has been revised by modern scholarship. Early interpretations of the historical record suggested the Hittites maintained a deliberate state secret over ironworking technology, giving them a decisive military advantage. Contemporary understanding is more nuanced: the Hittites did possess iron-working skills and iron was a prestige material associated with royalty, but evidence for a systematic military monopoly is limited.\n\nIron metallurgy during the Bronze Age was practiced at multiple sites across the Near East and the eastern Mediterranean, and the Hittites appear to have been among the most sophisticated practitioners. Hittite royal correspondence includes letters discussing the scarcity and value of iron objects, and iron daggers, spearheads, and other artifacts have been found in elite Hittite contexts. The production of workable iron required temperatures and technical knowledge significantly different from bronze casting, and the Hittites developed furnace technologies and carburization techniques — the addition of carbon to produce steel — that made iron weapons harder and more durable than bronze.\n\nAfter the [[event:1819|fall of the Hittite Empire]] around 1178 BC, iron-working knowledge disseminated more broadly across the Near East and eastern Mediterranean, contributing to the transition to the [[event:69|Iron Age]]. The post-Hittite spread of iron technology was not a deliberate transfer but rather a consequence of the disruption of centralized Bronze Age states, which forced regional communities to develop local metal-working traditions as long-distance bronze trade networks collapsed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_Age#Near_East",
+    "read_more_links": [
+        {
+            "title": "History of Ferrous Metallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_ferrous_metallurgy"
+        },
+        {
+            "title": "Hittites - Britannica",
+            "url": "https://www.britannica.com/topic/Hittite"
+        },
+        {
+            "title": "Iron Age",
+            "url": "https://en.wikipedia.org/wiki/Iron_Age"
+        },
+        {
+            "title": "Hittites",
+            "url": "https://en.wikipedia.org/wiki/Hittites"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krieger_von_Hirschlanden.jpg/300px-Krieger_von_Hirschlanden.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Krieger_von_Hirschlanden.jpg",
+            "caption": "The Warrior of Hirschlanden, the oldest known life-size anthropomorphic statu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Willamette_Meteorite_AMNH.jpg/300px-Willamette_Meteorite_AMNH.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Willamette_Meteorite_AMNH.jpg",
+            "caption": "The Willamette Meteorite on display at the American Museum of Natural History...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/African_bloomery_furnace_types.png/300px-African_bloomery_furnace_types.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/African_bloomery_furnace_types.png",
+            "caption": "Examples of African bloomery furnace types. Redrawn after Junod (1927), David...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Typical_bloomery_iron_production_operational_sequence.webp/300px-Typical_bloomery_iron_production_operational_sequence.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Typical_bloomery_iron_production_operational_sequence.webp",
+            "caption": "Typical bloomery iron production operational sequence starting with acquiring...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ashoka",
+            "summary": "Mauryan emperor from 269 to 232 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/250px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        }
+    ],
+    "territory_geojson": null
+}

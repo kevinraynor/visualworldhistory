@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3686,
+    "parent_id": 2692,
+    "granularity": "detailed",
+    "content_hash": "sha256:47cdaefb7d55c0a36d46008f0883519f9dc46d64e4b94a37a1b10ca2bbec9a2f",
+    "summary": "Wi-Fi, the wireless local area networking technology that allows devices to connect to the internet without physical cables, was commercially standardized in 1997 under the IEEE 802.11 specification and gained widespread consumer adoption following the formation of the Wi-Fi Alliance in 1999. The underlying radio frequency technology was developed through research at CSIRO Australia in the early 1990s, for which CSIRO later received substantial royalty payments. The name Wi-Fi was created as a catchy brand name by a marketing company hired by the Wi-Fi Alliance.\n\nThe introduction of Wi-Fi transformed the relationship between people and the [[event:2692|Internet Revolution]] by untethering internet connectivity from fixed locations. Coffee shops, airports, homes, and offices gradually became wireless network zones, enabling a new mobility of computing. The technology also enabled the proliferation of portable devices — laptops, and later smartphones and tablets — that could access the internet from virtually anywhere a Wi-Fi network existed. Combined with mobile cellular networks, Wi-Fi became one of the foundational technologies of twenty-first century connected life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wi-Fi",
+    "read_more_links": [
+        {
+            "title": "IEEE 802.11",
+            "url": "https://en.wikipedia.org/wiki/IEEE_802.11"
+        },
+        {
+            "title": "Wi-Fi Alliance",
+            "url": "https://en.wikipedia.org/wiki/Wi-Fi_Alliance"
+        },
+        {
+            "title": "History of Wi-Fi",
+            "url": "https://en.wikipedia.org/wiki/History_of_Wi-Fi"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

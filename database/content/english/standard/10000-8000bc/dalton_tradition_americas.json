@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1342,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:dee082aed5e296fecb02ac3a4e9b79e6a745ee7840bf919c1e530aa495b467cf",
+    "summary": "The Dalton tradition was a Late Paleo-Indian / Early Archaic cultural tradition of the mid-continent and southeastern regions of North America, dated to approximately 10,500–9,500 BCE. Named after Judge S. P. Dalton who first collected characteristic artifacts in Missouri, the tradition is defined by the distinctive Dalton point — a bifacially flaked, lanceolate to slightly notched projectile point with a concave base and sometimes beveled resharpening edges that give many Dalton points a distinctive asymmetrical appearance from repeated use and reworking.\n\nDalton communities inhabited the transitional forest-grassland environments of the mid-continent as Paleo-Indian adaptations diversified following the [[event:1289|extinction of Pleistocene megafauna]]. Unlike the Plains-focused Plano and Folsom traditions, Dalton peoples occupied the woodlands and riverine environments of the midcontinent, exploiting a diverse range of resources including deer, smaller mammals, fish, and plant foods. The Dalton tradition is significant as a bridge between the Paleo-Indian big-game hunting traditions and the more diversified, forest-adapted Early Archaic cultures that followed, representing the beginning of the long process of regional cultural diversification in North America that characterized the Archaic period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dalton_tradition",
+    "read_more_links": [
+        {
+            "title": "Early Archaic Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archaic_period_(North_America)"
+        },
+        {
+            "title": "Paleo-Indians - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paleo-Indians"
+        },
+        {
+            "title": "Southeastern US Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_the_Americas"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Hampson_effigypot_HRoe_2006.jpg/300px-Hampson_effigypot_HRoe_2006.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hampson_effigypot_HRoe_2006.jpg",
+            "caption": "A photo of a human head effigy pot from the Mississippian culture, on display...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dalton_points.jpg/300px-Dalton_points.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dalton_points.jpg",
+            "caption": "different types of en:Projectile points, from the palaeoindian period in the ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1710,
+    "parent_id": 41,
+    "granularity": "notable",
+    "content_hash": "sha256:974963068266bba7f5949bed8357299e4c57c1fe76217f7e6133e1139669c477",
+    "summary": "The Great Sphinx of Giza, carved from a single mass of limestone bedrock on the Giza plateau around 2558–2532 BC, is the largest monolithic statue in the world and one of the most iconic monuments of the ancient world. Most Egyptologists attribute its construction to Pharaoh Khafre of the Fourth Dynasty, based on its proximity to his pyramid complex and stylistic comparisons with known Khafre portraiture. The Sphinx measures approximately 73 metres in length and 20 metres in height, depicting a recumbent lion with a human head wearing the royal nemes headdress.\n\nThe Sphinx was carved from an existing rocky outcrop that workers had previously quarried for pyramid construction materials. Its face, thought to represent Khafre in his role as the solar deity Horemakhet (Horus on the Horizon), is oriented precisely eastward toward the rising sun. The monument formed the centrepiece of Khafre's mortuary complex, positioned at the end of the causeway linking his valley temple to his pyramid, and it functioned as a guardian of the sacred necropolis.\n\nOver the millennia the Sphinx was buried up to its neck in windblown sand on multiple occasions. Thutmose IV of the Eighteenth Dynasty famously erected the Dream Stele between its paws, recounting a vision in which the Sphinx promised him the throne in exchange for clearing the sand. The nose of the Sphinx was broken off at some point in the medieval period, though contrary to popular legend, there is no reliable historical evidence connecting this damage to Napoleon's artillery.\n\nThe Sphinx is inseparable from the broader funerary landscape of the Giza plateau, which also includes [[event:1708|the Great Pyramid of Giza]] and the associated pyramid complexes of Khufu and Menkaure. Together these monuments reflect the religious and political ambitions of the Fourth Dynasty rulers, who marshalled enormous state resources to construct enduring monuments to divine kingship. The Sphinx remains one of the most studied and debated monuments in world archaeology, and questions about its precise date and original appearance continue to attract scholarly attention.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza",
+    "read_more_links": [
+        {
+            "title": "Khafre – Builder of the Sphinx",
+            "url": "https://en.wikipedia.org/wiki/Khafre"
+        },
+        {
+            "title": "Fourth Dynasty of Egypt",
+            "url": "https://en.wikipedia.org/wiki/Fourth_Dynasty_of_Egypt"
+        },
+        {
+            "title": "Giza pyramid complex",
+            "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+        },
+        {
+            "title": "Dream Stele of Thutmose IV",
+            "url": "https://en.wikipedia.org/wiki/Dream_Stele"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Profile_and_elevation_of_rump_passage_of_the_Sphinx.tif/300px-Profile_and_elevation_of_rump_passage_of_the_Sphinx.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Profile_and_elevation_of_rump_passage_of_the_Sphinx.tif",
+            "caption": "Profile and elevation of the passage near the rump of the Sphinx.  Section 37...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/101-black-and-white-photo-02557.tif/300px-101-black-and-white-photo-02557.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/101-black-and-white-photo-02557.tif",
+            "caption": "Upper part of the rump passage of the Great Sphinx of Giza, looking down from...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rump_passage%2C_upper_part%2C_chamber_1.tif/300px-Rump_passage%2C_upper_part%2C_chamber_1.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Rump_passage%2C_upper_part%2C_chamber_1.tif",
+            "caption": "Upper part of the rump passage of the Great Sphinx of Giza, looking up. Ceili...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rump_passage%2C_lower_part_after_excavation.tif/300px-Rump_passage%2C_lower_part_after_excavation.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rump_passage%2C_lower_part_after_excavation.tif",
+            "caption": "Lower part of the rump passage of the Great Sphinx of Giza before excavation....",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Napoleon",
+            "summary": "French general and emperor (1769–1821)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon"
+        },
+        {
+            "name": "Thutmose IV",
+            "summary": "Egyptian Pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Thutmosis_IV.jpg/250px-Thutmosis_IV.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thutmose_IV"
+        },
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Nero",
+            "summary": "Roman emperor from AD 54 to 68",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/250px-Nero_Glyptothek_Munich_321.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nero"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Septimius Severus",
+            "summary": "Roman emperor from 193 to 211",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg/250px-Septimius_Severus_busto-Musei_Capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Septimius_Severus"
+        }
+    ],
+    "territory_geojson": null
+}

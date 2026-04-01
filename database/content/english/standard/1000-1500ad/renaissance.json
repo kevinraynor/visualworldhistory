@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 96,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:01ad260abfdbe93ef37399f6845178bc54189d0792714140af2d27cba7e06b5d",
+    "summary": "The Renaissance (c. 1300–1600 AD) was the transformative intellectual, artistic, and cultural movement that originated in the Italian city-states and spread across Europe, marking the transition from the medieval to the modern world through a profound reengagement with classical Greek and Roman learning, a new emphasis on human dignity and individual achievement (humanism), and revolutionary innovations in art, literature, science, and political thought. The movement's origins were rooted in the unique conditions of late medieval Italy: wealthy commercial city-states with literate merchant classes, access to Byzantine Greek scholarship (accelerated by the [[event:2240|fall of Constantinople]]), and the physical presence of Roman antiquity in every landscape.\n\nThe [[event:2238|Italian Renaissance]] produced an extraordinary concentration of artistic and intellectual genius — [[event:2298|Leonardo da Vinci]], [[event:3620|Michelangelo]], Raphael, Botticelli, Donatello — whose works transformed European art through the application of mathematical perspective, anatomical precision, and classical idealism. The [[event:2299|Medici family of Florence]] exemplified the Renaissance patron, funding art and scholarship as instruments of political prestige and personal legacy. Humanist scholars like Petrarch, Erasmus, and Pico della Mirandola reoriented intellectual life toward human dignity, classical languages, and critical examination of texts. Politically, Machiavelli's 'The Prince' founded modern political science. In natural philosophy, the Renaissance created the intellectual conditions for the Scientific Revolution.\n\nThe [[event:2239|Gutenberg printing press]] (c. 1440) transformed the Renaissance from an Italian elite phenomenon into a European mass movement by enabling the rapid, cheap reproduction and dissemination of texts — the Bible, classical works, humanist essays, scientific discoveries — at a scale impossible with manuscript copying. The combination of Renaissance intellectual ferment, printing technology, and the disruption of ecclesiastical authority set the stage for the Protestant Reformation and the Scientific Revolution that would define the early modern period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Renaissance",
+    "read_more_links": [
+        {
+            "title": "Italian Renaissance origins humanism",
+            "url": "https://en.wikipedia.org/wiki/Italian_Renaissance"
+        },
+        {
+            "title": "Renaissance humanism classical learning",
+            "url": "https://en.wikipedia.org/wiki/Renaissance_humanism"
+        },
+        {
+            "title": "Renaissance art perspective anatomy",
+            "url": "https://en.wikipedia.org/wiki/Renaissance_art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cantino_planisphere_%281502%29.jpg/300px-Cantino_planisphere_%281502%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cantino_planisphere_%281502%29.jpg",
+            "caption": "The Cantino planisphere, completed by an unknown Portuguese cartographer in 1...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Maximilian_I%2C_Holy_Roman_Emperor.jpg/300px-Maximilian_I%2C_Holy_Roman_Emperor.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Maximilian_I%2C_Holy_Roman_Emperor.jpg",
+            "caption": "Maximilian I, Holy Roman Emperor",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_%28Portrait_of_Simonetta_Vespucci_as_Nymph%29_-_Google_Art_Project.jpg/300px-Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_%28Portrait_of_Simonetta_Vespucci_as_Nymph%29_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sandro_Botticelli_-_Idealized_Portrait_of_a_Lady_%28Portrait_of_Simonetta_Vespucci_as_Nymph%29_-_Google_Art_Project.jpg",
+            "caption": "Sandro Botticelli - Idealized Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph) - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monasterio_de_El_Escorial_en_Madrid.jpg/300px-Monasterio_de_El_Escorial_en_Madrid.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Monasterio_de_El_Escorial_en_Madrid.jpg",
+            "caption": "Historical residence of the King of Spain, in the town of San Lorenzo de El E...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Renaissance architecture",
+            "summary": "15th–16th-century European architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tempietto_di_Bramante02783.jpg/250px-Tempietto_di_Bramante02783.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Renaissance_architecture"
+        },
+        {
+            "name": "Giorgio Vasari",
+            "summary": "Italian painter, architect, writer, and historian (1511–1574)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Zucchi%2C_Jacopo_-_Vasari%2C_Giorgio_-_Uffizi_ICCD.jpg/250px-Zucchi%2C_Jacopo_-_Vasari%2C_Giorgio_-_Uffizi_ICCD.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giorgio_Vasari"
+        },
+        {
+            "name": "Protagoras",
+            "summary": "Pre-Socratic Greek philosopher (c.490–c.420 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ribera_-_Protagoras%2C_1637.jpg/250px-Ribera_-_Protagoras%2C_1637.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Protagoras"
+        },
+        {
+            "name": "Giotto",
+            "summary": "Italian painter and architect (c. 1267–1337)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Five_Famous_Men_of_the_Florentine_Renaissance%2C_Giotto_%28cropped%29.jpg/250px-Five_Famous_Men_of_the_Florentine_Renaissance%2C_Giotto_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giotto"
+        },
+        {
+            "name": "Petrarch",
+            "summary": "Italian scholar and poet (1304–1374)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg/250px-Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Petrarch"
+        },
+        {
+            "name": "Michelangelo",
+            "summary": "Italian artist and architect (1475–1564)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/250px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michelangelo"
+        }
+    ],
+    "territory_geojson": null
+}

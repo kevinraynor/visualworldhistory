@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1938,
+    "parent_id": 1937,
+    "granularity": "detailed",
+    "content_hash": "sha256:0646b7293a6be028fbab26ceae105bc3ec8eee6780d98c5af7a3b30aee841d63",
+    "summary": "Thales of Miletus (c. 624–546 BC) is traditionally identified as the first philosopher — the first person to offer a non-mythological, rational explanation for the natural world, proposing that water is the fundamental substance underlying all things. While this specific claim was quickly superseded, what matters historically is the move: Thales asked 'what is nature made of?' as a question answerable by observation and reason, not divine narrative.\n\nAncient sources also credited Thales with practical achievements: predicting a solar eclipse (traditionally 585 BC, though the accuracy of this account is debated), surveying the height of Egyptian pyramids using shadow measurement, and advising the Ionian cities to federate politically. He reportedly left no writings — our knowledge of his views comes entirely from later sources. Aristotle's account in the Metaphysics is our primary source. Thales was included in the traditional list of Seven Sages of Greece, men celebrated for both wisdom and practical judgment. His significance lies not in the specific answer he gave but in establishing the project of natural philosophy — systematic rational inquiry into the structure of nature — that became science.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thales_of_Miletus",
+    "read_more_links": [
+        {
+            "title": "Thales solar eclipse prediction",
+            "url": "https://en.wikipedia.org/wiki/Thales%27_eclipse"
+        },
+        {
+            "title": "Seven Sages of Greece",
+            "url": "https://en.wikipedia.org/wiki/Seven_Sages_of_Greece"
+        },
+        {
+            "title": "Thales water cosmology",
+            "url": "https://en.wikipedia.org/wiki/Thales_of_Miletus#Philosophy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/K%C4%B1z%C4%B1l%C4%B1rmak_River_from_Kap%C4%B1kaya_K%C3%B6y%C3%BC.jpg/300px-K%C4%B1z%C4%B1l%C4%B1rmak_River_from_Kap%C4%B1kaya_K%C3%B6y%C3%BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/K%C4%B1z%C4%B1l%C4%B1rmak_River_from_Kap%C4%B1kaya_K%C3%B6y%C3%BC.jpg",
+            "caption": "Kızılırmak",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solar_eclipse_1999_4.jpg/300px-Solar_eclipse_1999_4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Solar_eclipse_1999_4.jpg",
+            "caption": "Total Solar eclipse in France.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Capernaum_roman_olive_press_by_David_Shankbone.jpg/300px-Capernaum_roman_olive_press_by_David_Shankbone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Capernaum_roman_olive_press_by_David_Shankbone.jpg",
+            "caption": "w:Capernaum Roman-era olive mill in the ruins of the town.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        },
+        {
+            "name": "Seven Sages of Greece",
+            "summary": "Group of philosophers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NMBSevenSagesMosaicBaalbekRectified.jpg/250px-NMBSevenSagesMosaicBaalbekRectified.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seven_Sages_of_Greece"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Duris of Samos",
+            "summary": "4th-century BC Greek historian and tyrant of Samos",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ACMA_1333_Samian_decree_2.JPG/250px-ACMA_1333_Samian_decree_2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Duris_of_Samos"
+        },
+        {
+            "name": "Democritus",
+            "summary": "Greek philosopher (c. 460–c. 370 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Unknown_greek_pushkin.jpg/250px-Unknown_greek_pushkin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Democritus"
+        }
+    ],
+    "territory_geojson": null
+}

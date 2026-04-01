@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1660,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:436dbad29bab5d088d7c88abf54e4d7c48885f5fddff8389c5659fde57e3c9ca",
+    "summary": "Knowth is a Neolithic passage tomb and the largest of the great mounds in the Boyne Valley complex of County Meath, Ireland, constructed between approximately 3300 and 3100 BCE. As a companion monument to [[event:1659|Newgrange]], which lies approximately one kilometer to the east, Knowth is remarkable for its scale, its extraordinary concentration of megalithic art, and its unusual plan of two passage tombs opening from opposite sides of the same mound, one aligned to the rising equinox sun and the other to the setting equinox sun.\n\nThe main mound at Knowth is approximately 67 meters in diameter and 10 meters tall, surrounded by 18 smaller satellite tombs. The site contains the largest concentration of megalithic art in western Europe: approximately one third of all known European megalithic art is concentrated at Knowth, with over 200 decorated stones bearing spirals, zigzags, lozenges, arcs, and other geometric designs. The two inner passages, each over 30 meters long, terminate in burial chambers where cremated human remains were deposited. The western passage is notable for possessing an elaborately decorated stone basin and a carved sundial-like stone that researchers have interpreted as a lunar calendar.\n\nKnowth was built during the same cultural florescence that produced [[event:1659|Newgrange]] and [[event:1661|Dowth]], all within a few generations of one another, indicating a sustained communal effort and considerable social organization within the farming communities of the Irish Boyne Valley. The three monuments together form the core of the UNESCO World Heritage Site known as Brú na Bóinne (the Palace of the Boyne), which remains one of Europe's most important prehistoric sacred landscapes.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knowth",
+    "read_more_links": [
+        {
+            "title": "Brú na Bóinne - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Br%C3%BA_na_B%C3%B3inne"
+        },
+        {
+            "title": "Megalithic Art - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Megalithic_art"
+        },
+        {
+            "title": "Neolithic Ireland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Ireland"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Knowth_-_48051057503.jpg/300px-Knowth_-_48051057503.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Knowth_-_48051057503.jpg",
+            "caption": "Knowth",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dowth_Passage_Tomb_3.JPG/300px-Dowth_Passage_Tomb_3.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dowth_Passage_Tomb_3.JPG",
+            "caption": "Knowth Passage Tomb Cemetery",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/181_Knowth%2C_Coutny_Meath.jpg/300px-181_Knowth%2C_Coutny_Meath.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/181_Knowth%2C_Coutny_Meath.jpg",
+            "caption": "Ireland",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Knowth_046.jpg/300px-Knowth_046.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Knowth_046.jpg",
+            "caption": "Knowth",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Megalithic art",
+            "summary": "Use of large stones as an artistic medium",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Newgrange_Entrance_Stone.jpg/250px-Newgrange_Entrance_Stone.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Megalithic_art"
+        },
+        {
+            "name": "Newgrange",
+            "summary": "Neolithic monument in County Meath, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/250px-Irelands_history.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Newgrange"
+        },
+        {
+            "name": "Dowth",
+            "summary": "Neolithic passage tomb located in the Boyne Valley, County Meath, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Dowth.jpg/250px-Dowth.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dowth"
+        },
+        {
+            "name": "Dunmore Cave",
+            "summary": "Limestone cave in County Kilkenny, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Entrance_to_Dunmore_Cave.jpg/250px-Entrance_to_Dunmore_Cave.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dunmore_Cave"
+        }
+    ],
+    "territory_geojson": null
+}

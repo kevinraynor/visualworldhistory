@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1381,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ecb71e64811dbccd3b4cf0b3187cc13c21fe3b63581f02a3554c1d60e72805f7",
+    "summary": "Tasmania was connected to mainland Australia during the last glacial maximum via a land bridge across the Bass Strait, when sea levels were approximately 120 meters below today's level. As sea levels rose with the [[event:1262|end of the Ice Age]], the Bass Strait was progressively flooded, and Tasmania was finally isolated from mainland Australia as an island by approximately 12,000–10,000 BCE.\n\nAt the moment of isolation, Tasmania was inhabited by Aboriginal peoples who had migrated from mainland Australia tens of thousands of years earlier. The flooding of the Bass Strait effectively cut off the Tasmanian population from contact with mainland Australian communities and from subsequent cultural and technological developments on the mainland. Over the following ten thousand years, the Tasmanian Aboriginal population — numbering perhaps 3,000–15,000 at European contact — maintained a distinctive culture but, due to their isolation, did not adopt several technologies that developed on the mainland, including the hafted microlithic tools, the dingo, and various plant and animal food preparation techniques. The isolation of Tasmania by post-glacial sea level rise provides a natural experiment of great interest to anthropologists studying the effects of isolation on cultural and technological change in small populations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tasmania#History",
+    "read_more_links": [
+        {
+            "title": "Tasmanian Aboriginal People - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tasmanian_Aboriginal_people"
+        },
+        {
+            "title": "Bass Strait - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bass_Strait"
+        },
+        {
+            "title": "Post-Glacial Sea Level Rise - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sea_level_rise"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lake_Pedder_From_Mt_Eliza.jpg/300px-Lake_Pedder_From_Mt_Eliza.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Lake_Pedder_From_Mt_Eliza.jpg",
+            "caption": "Lake Pedder from Mt Eliza, Southwest National Park, Tasmanian Wilderness Worl...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Port_Arthur_Panorama.jpg/300px-Port_Arthur_Panorama.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Port_Arthur_Panorama.jpg",
+            "caption": "Panorama of the Port Arthur penal colony",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Derwent_Valley_%2822645573102%29.jpg/300px-Derwent_Valley_%2822645573102%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Derwent_Valley_%2822645573102%29.jpg",
+            "caption": "Bushy Park is just north of New Norfolk and famous for the hop barns. \nThis s...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mixed_forest%2C_the_Styx_River%2C_Tasmania.JPG/300px-Mixed_forest%2C_the_Styx_River%2C_Tasmania.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mixed_forest%2C_the_Styx_River%2C_Tasmania.JPG",
+            "caption": "Mature mixed forest. Rainforest species beneath a canopy of E. regnans. The S...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Abel Tasman",
+            "summary": "Dutch seafarer, explorer and merchant (1603–1659)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abel_Tasman_-_Cuyp_%28cropped%29_%28adjusted%29.jpg/250px-Abel_Tasman_-_Cuyp_%28cropped%29_%28adjusted%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abel_Tasman"
+        },
+        {
+            "name": "Barbara Baker",
+            "summary": "Governor of Tasmania since 2021",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Barbara_Baker_2022.jpg/250px-Barbara_Baker_2022.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Barbara_Baker"
+        },
+        {
+            "name": "Jeremy Rockliff",
+            "summary": "Australian politician (born 1970)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TasPremierRockliff2024.png/250px-TasPremierRockliff2024.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jeremy_Rockliff"
+        },
+        {
+            "name": "Anthony van Diemen",
+            "summary": "Dutch colonial governor (1593–1645)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Anthony_van_Diemen.jpg/250px-Anthony_van_Diemen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anthony_van_Diemen"
+        }
+    ],
+    "territory_geojson": null
+}

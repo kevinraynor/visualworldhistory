@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1581,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8687549c5463c61c286e58d6d8d23f0e91feb147e9fb54c6788edbbc359fa7d5",
+    "summary": "The lost-wax casting technique (also called cire perdue) is one of the most sophisticated metalworking methods in the ancient world, enabling craftspeople to produce complex three-dimensional metal objects of a type impossible to achieve by simple hammering or open-mold casting. In the process, a detailed object is modeled in beeswax, encased in clay, heated to melt and remove the wax, and then used as a mold into which molten metal is poured. After cooling, the clay mold is broken away to reveal the finished cast object. The earliest unambiguous evidence for lost-wax casting comes from the [[event:1572|Nahal Mishmar hoard]] of the Chalcolithic Levant (c. 3500 BCE) and from Chalcolithic sites in the Balkans.\n\nThe technique requires knowledge of wax modeling, refractory clay preparation, metal smelting, and careful process control. Its development represents a major advance over simpler open-mold casting techniques and dramatically expanded the range of forms that could be created in metal. Lost-wax casting was later independently developed or adopted in multiple other regions of the world, including ancient India, China, West Africa, and pre-Columbian America, suggesting that it represents a natural solution to the problem of producing complex metal forms that different metallurgical traditions have discovered independently.\n\nThe spread of lost-wax casting was intimately tied to the development of Chalcolithic and Bronze Age metallurgy across the Old World. The technique remains in use today for artistic bronze casting and precision industrial casting, demonstrating the enduring relevance of this ancient innovation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lost-wax_casting#History",
+    "read_more_links": [
+        {
+            "title": "Lost-wax casting - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lost-wax_casting"
+        },
+        {
+            "title": "History of metallurgy - Britannica",
+            "url": "https://www.britannica.com/technology/metallurgy/History"
+        },
+        {
+            "title": "Nahal Mishmar hoard - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nahal_Mishmar"
+        },
+        {
+            "title": "Ancient metalworking techniques - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/1343/copper-age/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg/300px-Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sculpture_Staendehausbrunnen_Emil_Cimiotti_Karmarschstrasse_Hanover_Germany_01.jpg",
+            "caption": "Sculpture \"Staendehausbrunnen\" by Emil Cimiotti (*1927) located at Karmarschs...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Purple_Reigns.jpg/300px-Purple_Reigns.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Purple_Reigns.jpg",
+            "caption": "\"Purple Reigns\" is a lost-wax casting sculpture by Carol Milne.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HugoRheinholdApeWithSkull.DarwinMonkey.1.jpg/300px-HugoRheinholdApeWithSkull.DarwinMonkey.1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/HugoRheinholdApeWithSkull.DarwinMonkey.1.jpg",
+            "caption": "Hugo Rheinhold's Affe mit Schädel (by Darwin Monkey)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bronze_Zeus_or_Poseidon_NAMA_X_15161_Athens_Greece.jpg/300px-Bronze_Zeus_or_Poseidon_NAMA_X_15161_Athens_Greece.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bronze_Zeus_or_Poseidon_NAMA_X_15161_Athens_Greece.jpg",
+            "caption": "Zeus (or Poseidon). Bronze. 209 cm high. Found in the sea at Cape Artemision,...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Molding (process)",
+            "summary": "Shaping a liquid or plastic material by making it conform to a more rigid mold",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bronze_spearhead_mold.JPG/250px-Bronze_spearhead_mold.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Molding_%28process%29"
+        },
+        {
+            "name": "Hermitage Museum",
+            "summary": "Museum in Saint Petersburg, Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/5174-3._St._Petersburg._Greater_Hermitage.jpg/250px-5174-3._St._Petersburg._Greater_Hermitage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermitage_Museum"
+        },
+        {
+            "name": "Carol Milne",
+            "summary": "Canadian American sculptor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Carol_Milne_knitting_glass.jpg/250px-Carol_Milne_knitting_glass.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carol_Milne"
+        }
+    ],
+    "territory_geojson": null
+}

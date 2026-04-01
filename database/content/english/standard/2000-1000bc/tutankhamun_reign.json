@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1806,
+    "parent_id": 60,
+    "granularity": "notable",
+    "content_hash": "sha256:789293eab234f0f3769d4b8582d392284afed2b26b501a6ce575a376b097cba9",
+    "summary": "Tutankhamun reigned as pharaoh of Egypt from approximately 1332 to 1323 BC, ascending the throne as a child of about nine years and dying at approximately eighteen years of age. He is now the most famous of all Egyptian pharaohs, not because of any achievement during his brief reign, but because his tomb in the [[event:1811|Valley of the Kings]] was discovered virtually intact in 1922 by the British archaeologist Howard Carter, providing an unparalleled window into royal burial customs and material culture of the [[event:60|New Kingdom]].\n\nTutankhamun's reign was politically dominated by advisors, principally the general Horemheb and the official Ay, who guided the reversal of the religious reforms of [[event:1805|Akhenaten]]. Tutankhamun restored the traditional cults, reopened the temples, reinstated the priesthood of Amun, moved the capital back to Memphis and Thebes, and changed his name from Tutankhaten (\"living image of the Aten\") to Tutankhamun (\"living image of Amun\"). These restorations effectively ended the [[event:1804|Amarna Period]] and its legacy.\n\nThe treasures found in Tutankhamun's tomb — including his golden death mask, elaborate canopic shrine, royal chariots, gilded furniture, and thousands of ritual objects — represent the richest intact royal burial assemblage ever recovered from ancient Egypt. They have made Tutankhamun a global cultural icon and provided scholars with crucial evidence about New Kingdom royal burial practices, material culture, and religious belief. Debate continues about the cause of his early death, with theories ranging from genetic disease and infection to chariot accident.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tutankhamun",
+    "read_more_links": [
+        {
+            "title": "Discovery of Tutankhamun's Tomb",
+            "url": "https://en.wikipedia.org/wiki/KV62"
+        },
+        {
+            "title": "Tutankhamun - Britannica",
+            "url": "https://www.britannica.com/biography/Tutankhamun"
+        },
+        {
+            "title": "Howard Carter",
+            "url": "https://en.wikipedia.org/wiki/Howard_Carter"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tutankhamun_Los_Angeles_2018.jpg/300px-Tutankhamun_Los_Angeles_2018.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tutankhamun_Los_Angeles_2018.jpg",
+            "caption": "Tutankhamun Los Angeles 2018",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tumba_de_Tutankam%C3%B3n%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_75.jpg/300px-Tumba_de_Tutankam%C3%B3n%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_75.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tumba_de_Tutankam%C3%B3n%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_75.jpg",
+            "caption": "Tomb of Tutankhamun, Valley of the Kings, Luxor, Egypt",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/King_Tut_charging_enemies%2C_18th_dynasty.jpg/300px-King_Tut_charging_enemies%2C_18th_dynasty.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/King_Tut_charging_enemies%2C_18th_dynasty.jpg",
+            "caption": "King Tut charging enemies, 18th dynasty",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg/300px-Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg",
+            "caption": "Neues Museum - Berlin - Germany",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mask of Tutankhamun",
+            "summary": "Gold mask of Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/250px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mask_of_Tutankhamun"
+        },
+        {
+            "name": "Neferneferuaten",
+            "summary": "Ancient Egyptian female ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Golden_Nut_Pectoral_Carter_no._261p1_%28cropped%29.jpg/250px-Golden_Nut_Pectoral_Carter_no._261p1_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neferneferuaten"
+        },
+        {
+            "name": "Smenkhkare",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Relief_of_a_young_pharaoh_and_a_queen_holding_flowers_02.jpg/250px-Relief_of_a_young_pharaoh_and_a_queen_holding_flowers_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Smenkhkare"
+        },
+        {
+            "name": "317a and 317b mummies",
+            "summary": "Daughters of Egyptian pharaoh Tutankhamun",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%E8%83%8E%E5%85%90317a%E3%81%A8317b%2C_%E3%83%84%E3%82%BF%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%A1%E3%83%B3%E3%81%AE%E5%AD%90%E4%BE%9B.jpg/250px-%E8%83%8E%E5%85%90317a%E3%81%A8317b%2C_%E3%83%84%E3%82%BF%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%A1%E3%83%B3%E3%81%AE%E5%AD%90%E4%BE%9B.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/317a_and_317b_mummies"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Mitanni",
+            "summary": "Ancient Hurrian-speaking state in northern Syria and southeast Anatolia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Carte_du_Mitanni-en.svg/250px-Carte_du_Mitanni-en.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mitanni"
+        }
+    ],
+    "territory_geojson": null
+}

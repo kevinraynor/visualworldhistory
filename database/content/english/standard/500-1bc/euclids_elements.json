@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1198,
+    "parent_id": 1040,
+    "granularity": "detailed",
+    "content_hash": "sha256:886d2a35815a11473ddd9fa6680476768755f806003e4eaeb5933568d5144785",
+    "summary": "Euclid's Elements (c. 300 BC) is a mathematical treatise in thirteen books that systematically organized the geometry and number theory known in the ancient world through rigorous logical deduction from a small set of axioms — becoming the most successful and influential textbook in the history of mathematics, used as the primary geometry text in schools for over two thousand years.\n\nEuclid of Alexandria, working in the newly founded [[event:1034|Foundation of Alexandria]]'s Library of Alexandria, synthesized the mathematical work of his predecessors (including [[event:1192|Pythagoras and Mathematics]]'s Pythagoreans and earlier geometers) into a unified, logically structured system. Starting from twenty-three definitions, five postulates, and five common notions, Euclid derived over 460 propositions in geometry, number theory, and irrationality. The method — axiomatic-deductive proof — became the model for rigorous reasoning in mathematics and philosophy. His fifth postulate (the parallel postulate), which states that parallel lines never meet, seemed less obvious than the others; attempts to prove it from the first four led, in the 19th century, to the discovery of non-Euclidean geometries and a revolution in understanding of mathematical foundations. The Elements remained so authoritative that Abraham Lincoln reportedly carried it in his saddlebag to practice rigorous reasoning.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Euclid%27s_Elements",
+    "read_more_links": [
+        {
+            "title": "Euclid",
+            "url": "https://en.wikipedia.org/wiki/Euclid"
+        },
+        {
+            "title": "Parallel postulate",
+            "url": "https://en.wikipedia.org/wiki/Parallel_postulate"
+        },
+        {
+            "title": "Non-Euclidean geometry",
+            "url": "https://en.wikipedia.org/wiki/Non-Euclidean_geometry"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

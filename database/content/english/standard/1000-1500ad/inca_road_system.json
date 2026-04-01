@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3513,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:311670b58f5493d39b3a62f603db206e0903469f0bc32b491eaa0ba6170eb41e",
+    "summary": "The Inca Road System (Qhapaq Ñan, meaning 'Great Inca Road') was the most extensive and sophisticated road network in pre-Columbian America, stretching approximately 40,000 kilometers (25,000 miles) through the Andes Mountains and along the Pacific coast, connecting the vast [[event:99|Inca Empire]] from modern-day Colombia and Ecuador in the north to Chile and Argentina in the south. Constructed primarily during the 15th century under the Inca emperors — particularly Pachacuti and his successors — the road system was a feat of engineering that rivaled the Roman road network in scale and organization. The roads included two main longitudinal routes (one along the coast, one through the highlands) connected by transverse roads, all maintained by the state and used exclusively for official imperial purposes: military movements, administrative communication, and the redistribution of goods.\n\nThe engineering achievements of the Qhapaq Ñan were remarkable given the terrain. Roads crossed deserts, ascended vertical mountain faces via switchbacks and stone stairways, spanned rivers via suspension bridges woven from plant fibers (some spanning over 60 meters), and were paved with stone through marshy lowlands. The system was serviced by a network of tambos (way stations providing food, lodging, and supplies at regular intervals) and operated by chasquis — trained relay runners who could carry messages and small goods across the length of the empire within days, achieving communication speeds that would not be matched in the region until the telegraph. The roads were the physical spine of Inca imperial control, enabling the rapid movement of armies, the delivery of mit'a labor tribute, and the transport of goods from the state's vast storehouses. UNESCO designated the Qhapaq Ñan a World Heritage Site in 2014.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_road_system",
+    "read_more_links": [
+        {
+            "title": "Qhapaq Ñan Inca road engineering Andes",
+            "url": "https://en.wikipedia.org/wiki/Qhapaq_%C3%91an"
+        },
+        {
+            "title": "Chasqui relay runners Inca communication",
+            "url": "https://en.wikipedia.org/wiki/Chasqui"
+        },
+        {
+            "title": "Inca suspension bridges fiber engineering",
+            "url": "https://en.wikipedia.org/wiki/Inca_rope_bridge"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Inca_road_system.jpg/300px-Inca_road_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Inca_road_system.jpg",
+            "caption": "This map shows the Inca Road System through South America",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ingapirca_Inca_Road_segment.jpg/300px-Ingapirca_Inca_Road_segment.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ingapirca_Inca_Road_segment.jpg",
+            "caption": "The segment of the Inca Road, Ingapirca, Cañar, Ecuador",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Part_of_the_Inca_Trail.jpg/300px-Part_of_the_Inca_Trail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Part_of_the_Inca_Trail.jpg",
+            "caption": "Part of the Inca Trail to Machu Picchu, paved with stones.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bridge_guardian.jpg/300px-Bridge_guardian.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bridge_guardian.jpg",
+            "caption": "A bridge guardian in the Inca empire. Drawing by Felipe Guamán Poma de Ayala ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Frank Zappa",
+            "summary": "American musician (1940–1993)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Zappa_16011977_01_300.jpg/250px-Zappa_16011977_01_300.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Zappa"
+        },
+        {
+            "name": "Inca Garcilaso de la Vega",
+            "summary": "Writer, soldier, Spanish noble of Inca descent",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Inca_Garcilaso_1879.jpg/250px-Inca_Garcilaso_1879.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_Garcilaso_de_la_Vega"
+        },
+        {
+            "name": "Pack animal",
+            "summary": "Individual or type of working animal used by humans",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pack_Horse_2.jpg/250px-Pack_Horse_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pack_animal"
+        }
+    ],
+    "territory_geojson": null
+}

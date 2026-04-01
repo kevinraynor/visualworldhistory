@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1404,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3e2c6a233160a7f4731655579c1930fbc0fc5e57da827cc54bb06d3b32aba9b2",
+    "summary": "The Samarra culture, dating to approximately 6500 to 6000 BCE and named after finds from Tell es-Sawwan near the modern city of Samarra in Iraq, represents one of the most artistically accomplished early Neolithic cultures of northern Mesopotamia. Distinguished primarily by its exceptional painted pottery — featuring stylized human and animal figures, geometric swirling patterns, and fish motifs rendered in a distinctive and highly sophisticated style — the Samarra culture stands as one of the earliest Mesopotamian traditions to demonstrate clearly the social importance of elaborate ceramic art.\n\nBeyond its pottery, the Samarra culture is archaeologically significant for evidence of [[event:24|early irrigation agriculture]]. Tell es-Sawwan, the best-excavated Samarra site, is located near the Tigris River in a zone where rainfall is insufficient for dry farming, indicating that these communities were actively managing water resources to cultivate their fields. This early irrigation represents a crucial step toward the hydraulic agriculture that would make the Mesopotamian alluvial plains so productive in subsequent millennia. The site also features a defensive enclosure — a wall or ditch surrounding the settlement — suggesting social tensions or conflict at an early date.\n\nThe Samarra culture participated in exchange networks that extended across a wide area of the Near East, with Samarra-style painted pottery found far from its core distribution area in northern Mesopotamia. This wide distribution of distinctive ceramic forms reflects either direct trade, elite gift exchange, or the movement of potters, and indicates that even these early Neolithic communities were embedded in networks of interaction spanning hundreds of kilometers. The Samarra culture's influence on subsequent Mesopotamian cultural development, particularly on the [[event:1405|Halaf culture]] that succeeded it in the north, is widely recognized.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samarra_culture",
+    "read_more_links": [
+        {
+            "title": "Tell es-Sawwan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tell_es-Sawwan"
+        },
+        {
+            "title": "Hassuna Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hassuna_culture"
+        },
+        {
+            "title": "Halaf Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Halaf_culture"
+        },
+        {
+            "title": "Prehistoric Mesopotamia - Britannica",
+            "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Samarra_pottery_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06931.JPG/300px-Samarra_pottery_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06931.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Samarra_pottery_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06931.JPG",
+            "caption": "Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Ill...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vorderasiatisches_Museum_Berlin_096.jpg/300px-Vorderasiatisches_Museum_Berlin_096.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Vorderasiatisches_Museum_Berlin_096.jpg",
+            "caption": "Samarra period fine ware, c. 6200-5700 BC, Vorderasiatisches Museum (Near Eas...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mesopotamian_Prehistorical_cultures.jpg/300px-Mesopotamian_Prehistorical_cultures.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mesopotamian_Prehistorical_cultures.jpg",
+            "caption": "Mesopotamian Prehistorical cultures",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Samarra_bowl.jpg/300px-Samarra_bowl.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Samarra_bowl.jpg",
+            "caption": "The Samarra bowl (ca. 4000 BC) at on exhibit at the Vorderasiatisches Museum,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2528,
+    "parent_id": 2526,
+    "granularity": "notable",
+    "content_hash": "sha256:4d6c1cf9c76c034f9869cb1b0d5528ce5345da83ded256c9edc8c7f7d8abd334",
+    "summary": "The Mexican War of Independence, fought from 1810 to 1821, was the armed conflict that separated New Spain from the Spanish Crown and established the independent nation of Mexico. Unlike independence movements in South America that were primarily led by Creole elites, Mexico's struggle began as a mass popular uprising that drew together indigenous peasants, mestizos, and the rural poor under charismatic clerical leaders.\n\nThe movement began on 16 September 1810 — celebrated today as Mexican Independence Day — when Father Miguel Hidalgo y Costilla rang the church bell in the town of Dolores and delivered his famous Grito de Dolores, calling his parishioners to rebel against the Spanish colonial government. Hidalgo's army rapidly grew into a large but poorly armed force that captured several cities before being defeated militarily. Hidalgo was captured and executed in 1811. His successor, Father José María Morelos, proved a more effective military commander and organized the Congress of Chilpancingo in 1813, which issued the first formal declaration of independence and articulated a vision of social reform including abolition of slavery and racial equality. Morelos was also captured and executed in 1815.\n\nThe independence cause seemed near collapse by 1820, kept alive only by guerrilla warfare. The situation changed dramatically when a liberal revolution in Spain threatened the privileges of the Mexican Catholic Church and the Creole elite. Conservative Creole officer Agustín de Iturbide, who had previously fought against the insurgency, switched sides and negotiated the Plan of Iguala in 1821 — a compromise that united conservatives and liberals behind independence while guaranteeing the Church's position, equal rights for Spaniards born in America, and a constitutional monarchy. The remaining royalist forces capitulated and Iturbide entered Mexico City on 27 September 1821.\n\nIturbide briefly declared himself Emperor Agustín I in 1822, but he was overthrown in 1823 and the republic was established. The legacy of the independence movement was complicated: the social reforms envisioned by Hidalgo and Morelos were largely unrealized, and Mexico's new republic was dominated by the same elites who had resisted change under the colonial system. Nevertheless, the 1810 uprising and its popular, multiracial character gave Mexican national identity a foundational mythology distinct from the predominantly Creole independence movements elsewhere in the region.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mexican_War_of_Independence",
+    "read_more_links": [
+        {
+            "title": "Miguel Hidalgo y Costilla – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla"
+        },
+        {
+            "title": "Mexican War of Independence – Britannica",
+            "url": "https://www.britannica.com/topic/Mexican-War-of-Independence"
+        },
+        {
+            "title": "Agustín de Iturbide – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Durango_8R.jpg/300px-Durango_8R.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Durango_8R.jpg",
+            "caption": "Royalist issue Durango 8 Reales in a private collection",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Abrazo_de_Acatempan.JPG/300px-Abrazo_de_Acatempan.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Abrazo_de_Acatempan.JPG",
+            "caption": "Abrazo de Acatempan. Óleo sobre tela de 1870, Román Sagredo, Museo Nacional d...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Agustin_I_of_Mexico.jpg/300px-Agustin_I_of_Mexico.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Agustin_I_of_Mexico.jpg",
+            "caption": "Portrait of Agustín I of Mexico",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vicente_Guerrero.png/300px-Vicente_Guerrero.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vicente_Guerrero.png",
+            "caption": "Seen from the front and in three-quarter profile, dressed in military clothin...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Miguel Hidalgo y Costilla",
+            "summary": "Mexican Catholic preacher (1753–1811)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png/250px-General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla"
+        },
+        {
+            "name": "Vicente Guerrero",
+            "summary": "President of Mexico in 1829",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vicente_Guerrero.png/250px-Vicente_Guerrero.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vicente_Guerrero"
+        },
+        {
+            "name": "Ignacio Allende",
+            "summary": "Mexican independence leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ignacio_Allende.jpg/250px-Ignacio_Allende.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ignacio_Allende"
+        },
+        {
+            "name": "Ignacio López Rayón",
+            "summary": "Mexican revolutionary (1773–1832)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/General_Ignacio_L%C3%B3pez_Ray%C3%B3n.png/250px-General_Ignacio_L%C3%B3pez_Ray%C3%B3n.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ignacio_L%C3%B3pez_Ray%C3%B3n"
+        },
+        {
+            "name": "Guadalupe Victoria",
+            "summary": "President of Mexico from 1824 to 1829",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Guadalupe_Victoria_-_02.jpg/250px-Guadalupe_Victoria_-_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guadalupe_Victoria"
+        },
+        {
+            "name": "Agustín de Iturbide",
+            "summary": "Mexican army general and politician, 1st emperor of Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Agustin_I_of_Mexico.jpg/250px-Agustin_I_of_Mexico.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_de_Iturbide"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2678,
+    "parent_id": 2676,
+    "granularity": "notable",
+    "content_hash": "sha256:2217d6826e237a721697a876148806288be47a9fe3597e7d30d5bb255898df2e",
+    "summary": "Sputnik 1, the world's first artificial Earth satellite, was launched by the Soviet Union on October 4, 1957, at the Baikonur Cosmodrome in Kazakhstan. The polished metal sphere, 58 centimeters in diameter and weighing 83.6 kilograms, orbited the Earth every 96 minutes at altitudes between 215 and 939 kilometers, transmitting radio pulses detectable by amateur radio operators worldwide. Its beeping signal, broadcast on frequencies accessible to any shortwave radio, was simultaneously a technological triumph and a deliberate provocation — the Soviet Union had demonstrated that it could place objects in orbit above any point on Earth, including every American city.\n\nThe psychological impact in the United States was profound and immediate. The Sputnik crisis, as it became known, shattered American complacency about technological superiority and triggered intense political recrimination about the state of American science and education. President Eisenhower, briefed in advance that the Soviets were preparing a satellite launch, was caught unprepared for the public reaction. Congressional hearings examined why the United States had fallen behind, and the National Defense Education Act of 1958 poured unprecedented federal funding into science, mathematics, and foreign language education.\n\nThe military implications were unmistakable: the R-7 rocket that launched Sputnik was also the world's first intercontinental ballistic missile, capable of delivering a nuclear warhead to American territory. The satellite demonstrated the rocket's range and reliability in ways that no other test could. The Soviet achievement thus transformed both the [[event:2676|Space Race]] and the [[event:113|Cold War]] strategic balance simultaneously.\n\nThe United States responded with the creation of NASA in July 1958, centralizing the previously fragmented American space program under civilian authority. The first successful American satellite, Explorer 1, was launched on January 31, 1958. Sputnik thus catalyzed one of history's most significant technological competitions, ultimately culminating in the American [[event:2677|Moon landing]] of 1969.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sputnik_1",
+    "read_more_links": [
+        {
+            "title": "Sputnik and the Dawn of the Space Age – NASA",
+            "url": "https://history.nasa.gov/sputnik/"
+        },
+        {
+            "title": "Sputnik – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Sputnik"
+        },
+        {
+            "title": "National Defense Education Act – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act"
+        },
+        {
+            "title": "Sputnik Crisis – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sputnik_crisis"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1967_CPA_3496.jpg/300px-1967_CPA_3496.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/1967_CPA_3496.jpg",
+            "caption": "Satellites in Earth orbit. Solar Galaxy",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sputnik_1_Exploded_View_3F9A6199_%2836924864550%29_modified.png/300px-Sputnik_1_Exploded_View_3F9A6199_%2836924864550%29_modified.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sputnik_1_Exploded_View_3F9A6199_%2836924864550%29_modified.png",
+            "caption": "Exploded view of Sputnik",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Russian_Embassy_in_Madrid_%28Spain%29_03.jpg/300px-Russian_Embassy_in_Madrid_%28Spain%29_03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Russian_Embassy_in_Madrid_%28Spain%29_03.jpg",
+            "caption": "Real-size replica of Sputnik-1 beside Russian Embassy in Madrid (Spain). Unve...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%22BEEP_..._BEEP_..._To_Bob%27s%22_%22SURE_WISH_I_HAD_A_BIG_BOY_HAMBURGER%22_The_Big_T_1958_%28page_198_crop%29.jpg/300px-%22BEEP_..._BEEP_..._To_Bob%27s%22_%22SURE_WISH_I_HAD_A_BIG_BOY_HAMBURGER%22_The_Big_T_1958_%28page_198_crop%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%22BEEP_..._BEEP_..._To_Bob%27s%22_%22SURE_WISH_I_HAD_A_BIG_BOY_HAMBURGER%22_The_Big_T_1958_%28page_198_crop%29.jpg",
+            "caption": "The Big T, the yearbook of the California Institute of Technology",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dwight D. Eisenhower",
+            "summary": "President of the United States from 1953 to 1961",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/250px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+        },
+        {
+            "name": "Politburo of the Communist Party of the Soviet Union",
+            "summary": "Supreme political authority in Soviet Union",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%D0%9A%D0%9F%D0%A1%D0%A1.svg/250px-%D0%9A%D0%9F%D0%A1%D0%A1.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Politburo_of_the_Communist_Party_of_the_Soviet_Union"
+        },
+        {
+            "name": "Central Committee of the Communist Party of the Soviet Union",
+            "summary": "Former party political authority",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/%D0%9A%D0%9F%D0%A1%D0%A1.svg/250px-%D0%9A%D0%9F%D0%A1%D0%A1.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Central_Committee_of_the_Communist_Party_of_the_Soviet_Union"
+        },
+        {
+            "name": "Arithmometer",
+            "summary": "19th-century mechanical calculator patented by French inventor Thomas de Colmar",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arithmometre_%28cropped%29.jpg/250px-Arithmometre_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arithmometer"
+        }
+    ],
+    "territory_geojson": null
+}

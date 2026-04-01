@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3266,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a63841c59e2a15329279864e2c6da828067f221e4b53dca7d22c342b3f93f719",
+    "summary": "The Wabanaki Confederacy (c. 1680s–present) was an alliance of Algonquian-speaking peoples of northeastern North America — the Abenaki, Mi'kmaq, Maliseet, Passamaquoddy, and Penobscot nations — who formed a political and military alliance to resist English colonial expansion into their territories in New England and Acadia. The Confederacy emerged in the context of the colonial wars of the late 17th century, particularly after [[event:3267|King Philip's War]] (1675–1676), which had decimated the Wampanoag and allied peoples to the south and demonstrated the catastrophic cost of individual resistance to English expansion. By forming a broader coalition, the Wabanaki were able to sustain resistance through multiple conflicts — Dummer's War (1722–1725), King George's War (1744–1748), and the French and Indian War (1754–1763).\n\nThe Wabanaki's political effectiveness was enhanced by their alliance with New France — French missionaries had established deep relationships with Wabanaki communities, and the Wabanaki raided English settlements repeatedly during the various colonial wars, often in coordination with French strategic objectives. The fate of the Confederacy was determined by the outcome of the broader imperial struggle: the French defeat in the [[event:2456|French and Indian War]] and the subsequent British control of Canada removed the French alliance that had sustained Wabanaki resistance. Land cession treaties through the late 18th and early 19th centuries reduced Wabanaki territories to reservations in Maine, New Brunswick, and Nova Scotia, though Wabanaki nations maintained legal personality and negotiated the Maine Indian Claims Settlement Act (1980) — one of the largest Indigenous land settlements in US history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wabanaki_Confederacy",
+    "read_more_links": [
+        {
+            "title": "Abenaki Mi'kmaq Maliseet Wabanaki alliance Northeast",
+            "url": "https://en.wikipedia.org/wiki/Wabanaki_people"
+        },
+        {
+            "title": "Dummer's War Wabanaki English colonial conflict 1722",
+            "url": "https://en.wikipedia.org/wiki/Father_Rale%27s_War"
+        },
+        {
+            "title": "Maine Indian Claims Settlement Act 1980 land rights",
+            "url": "https://en.wikipedia.org/wiki/Maine_Indian_Claims_Settlement_Act"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Carte_espagnole_fleuve_Saint_Laurent.jpg/300px-Carte_espagnole_fleuve_Saint_Laurent.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Carte_espagnole_fleuve_Saint_Laurent.jpg",
+            "caption": "Map of the Saint Lawrence river region (in today's Canada) made in Spain in t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Mi%27kmaq.png/300px-The_Mi%27kmaq.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/The_Mi%27kmaq.png",
+            "caption": "Former settlement areas of the seven Mi'kmaq branches",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wabanaki_Wampum_Alliance_Belt.png/300px-Wabanaki_Wampum_Alliance_Belt.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Wabanaki_Wampum_Alliance_Belt.png",
+            "caption": "The Wabanaki Confederacy did not seem to have a flag, but they did have tradi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Wohngebiet_Oestlicheabenaki.png/300px-Wohngebiet_Oestlicheabenaki.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Wohngebiet_Oestlicheabenaki.png",
+            "caption": "Wohngebiet Oestlicheabenaki",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gaspar Corte-Real",
+            "summary": "Portuguese explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gaspar_Corte-Real.jpg/250px-Gaspar_Corte-Real.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaspar_Corte-Real"
+        },
+        {
+            "name": "Inter caetera",
+            "summary": "1493 papal bull issued by Pope Alexander VI",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/S%C3%BCdamerika1650.png/250px-S%C3%BCdamerika1650.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Inter_caetera"
+        },
+        {
+            "name": "João Álvares Fagundes",
+            "summary": "Portuguese explorer and shipowner",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Est%C3%A1tua_de_Jo%C3%A3o_%C3%81lvares_Fagundes_-_Viana_do_Castelo_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853637421829%29.jpg/250px-Est%C3%A1tua_de_Jo%C3%A3o_%C3%81lvares_Fagundes_-_Viana_do_Castelo_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_%2853637421829%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_%C3%81lvares_Fagundes"
+        },
+        {
+            "name": "Estêvão Gomes",
+            "summary": "Portuguese explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Map_of_America-Ribero_%281529%29.jpeg/250px-Map_of_America-Ribero_%281529%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Gomes"
+        },
+        {
+            "name": "Giovanni da Verrazzano",
+            "summary": "Florentine explorer of North America for France (1485–1528)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Giovanni_da_Verrazano.jpg/250px-Giovanni_da_Verrazano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano"
+        },
+        {
+            "name": "Jacques Cartier",
+            "summary": "French maritime explorer of North America (1491–1557)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jacques_Cartier_1851-1852.jpg/250px-Jacques_Cartier_1851-1852.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cartier"
+        }
+    ],
+    "territory_geojson": null
+}

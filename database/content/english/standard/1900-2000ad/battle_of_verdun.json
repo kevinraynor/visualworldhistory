@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2642,
+    "parent_id": 110,
+    "granularity": "notable",
+    "content_hash": "sha256:fb0986816559efb0cdf4b49a568434feff2a50406f7989f24cac07fc15f981c7",
+    "summary": "The Battle of Verdun, fought from February to December 1916, was the longest single battle of [[event:110|World War I]] and became a symbol of French national endurance and the catastrophic futility of attritional warfare. German Chief of Staff Erich von Falkenhayn conceived the offensive with the explicit intention of bleeding France white — attacking a sector of such symbolic importance to France that it would feel compelled to defend it at any cost, regardless of military logic. Verdun, with its ring of forts and deep patriotic significance, was chosen precisely because it was a place France could not afford to lose.\n\nThe German assault, launched on 21 February 1916, began with the most concentrated artillery bombardment seen to that point in the war. The fighting that followed was characterized by an almost incomprehensible density of firepower packed into a small area. At peak intensity, the battlefield around Verdun received an estimated six million shells per month. Soldiers on both sides described a landscape reduced to a lunar wilderness of craters, mud, and fragments of the dead. The French rotational system of sending virtually every division through Verdun meant that nearly three-quarters of the entire French Army eventually saw action there.\n\nBy the time the battle ended in December 1916, total casualties on both sides approached 700,000, with roughly equal losses for France and Germany. The German objective of breaking French morale was not achieved — France held Verdun — but the battle permanently marked the generation that survived it. The French phrase \"Il ne passeront pas\" (They shall not pass) became a rallying cry. The town and surrounding forts remain a major commemorative site, and the battlefield, with its still-contaminated soil and vast ossuary at Douaumont, stands as one of the most solemn memorials to the First World War.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Verdun",
+    "read_more_links": [
+        {
+            "title": "Battle of Verdun – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Verdun"
+        },
+        {
+            "title": "Ossuaire de Douaumont – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Douaumont_Ossuary"
+        },
+        {
+            "title": "Attrition warfare – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Attrition_warfare"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/18-9-27%2C_inauguration_de_l%27ossuaire_de_Douaumont%2C_cercueils_des_soldats_anonymes.jpg/300px-18-9-27%2C_inauguration_de_l%27ossuaire_de_Douaumont%2C_cercueils_des_soldats_anonymes.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/18-9-27%2C_inauguration_de_l%27ossuaire_de_Douaumont%2C_cercueils_des_soldats_anonymes.jpg",
+            "caption": "18/9/27, inauguration de l'ossuaire de Douaumont [cercueils des soldats anony...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nieuport_N.16_C.1_with_Le_Prieur_rockets.jpg/300px-Nieuport_N.16_C.1_with_Le_Prieur_rockets.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Nieuport_N.16_C.1_with_Le_Prieur_rockets.jpg",
+            "caption": "Nieuport N.16 C.1 with Le Prieur rockets",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Memorial_de_Verdun.jpg/300px-Memorial_de_Verdun.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Memorial_de_Verdun.jpg",
+            "caption": "Verdun War memorial",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Panorama_de_Verdun%2C_vue_prise_du_Fort_de_la_Chaume%2C_1917.jpg/300px-Panorama_de_Verdun%2C_vue_prise_du_Fort_de_la_Chaume%2C_1917.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Panorama_de_Verdun%2C_vue_prise_du_Fort_de_la_Chaume%2C_1917.jpg",
+            "caption": "Panorama of Verdun, filmed from the Fort de la Chaume, 1917",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Erich von Falkenhayn",
+            "summary": "German general (1861–1922)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erich_von_Falkenhayn-retouched.jpg/250px-Erich_von_Falkenhayn-retouched.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Erich_von_Falkenhayn"
+        },
+        {
+            "name": "Paul von Hindenburg",
+            "summary": "President of Germany from 1925 to 1934",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/250px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
+        },
+        {
+            "name": "Erich Ludendorff",
+            "summary": "German general and politician (1865–1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg/250px-Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Erich_Ludendorff"
+        },
+        {
+            "name": "Ewald von Lochow",
+            "summary": "German general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Ewald_von_Lochow.jpg/250px-Ewald_von_Lochow.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ewald_von_Lochow"
+        },
+        {
+            "name": "Joseph Joffre",
+            "summary": "French general (1852–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Portrait_de_Joseph_Joffre_%28cropped%29%28b%29.jpg/250px-Portrait_de_Joseph_Joffre_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Joffre"
+        },
+        {
+            "name": "Noël Édouard, vicomte de Curières de Castelnau",
+            "summary": "French general (1851–1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gen._Castelneau_%28i.e.%2C_Castelnau%29_LCCN2014703495.jpg/250px-Gen._Castelneau_%28i.e.%2C_Castelnau%29_LCCN2014703495.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/No%C3%ABl_%C3%89douard%2C_vicomte_de_Curi%C3%A8res_de_Castelnau"
+        }
+    ],
+    "territory_geojson": null
+}

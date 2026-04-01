@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2556,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:6fde91598dbc239968b94540863fcc416b389dda1545ca650064facc800a6613",
+    "summary": "The invention of the telephone in 1876 by Alexander Graham Bell represented a further revolution in communication, extending the telegraph's achievement of instantaneous long-distance message transmission to the human voice itself. The telephone would ultimately prove more transformative than the telegraph it built upon, becoming the foundation of a global voice communication network whose successors — mobile phones, the internet — shape nearly every aspect of contemporary life.\n\nBell, a Scottish-American inventor and teacher of the deaf, filed his patent for an 'apparatus for transmitting vocal or other sounds telegraphically' on 14 February 1876 — just hours before a competing application by Elisha Gray reached the patent office, a coincidence that led to years of litigation. Bell's first successful telephone call took place on 10 March 1876, when he transmitted his famous message to his assistant Thomas Watson: 'Mr. Watson, come here — I want to see you.'\n\nThe telephone's commercialization was rapid. The Bell Telephone Company was established in 1877, and by 1880 there were over 30,000 telephone subscribers in the United States. Early telephone networks were simple point-to-point connections, but the invention of the telephone exchange — enabling any subscriber to be connected to any other — created the networked system that made mass telephony possible. By 1900 there were nearly 1.4 million telephone subscribers in the United States alone.\n\nThe telephone transformed business communication, enabling complex commercial relationships to be managed over distances that had previously required messengers or written correspondence. It changed domestic social life, enabling people to maintain close contact with family and friends regardless of geography. Along with the [[event:2555|telegraph]] and the [[event:2615|radio]], the telephone was part of a revolution in communication technology during the second half of the nineteenth century that progressively collapsed the role of physical distance in human interaction.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Telephone",
+    "read_more_links": [
+        {
+            "title": "Alexander Graham Bell – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+        },
+        {
+            "title": "History of the Telephone – Britannica",
+            "url": "https://www.britannica.com/technology/telephone"
+        },
+        {
+            "title": "Bell Telephone Company – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bell_Telephone_Company"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Alexander_Graham_Bell_by_E._J._Holmes%2C_1892%2C_albumen_silver_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_2010_28GrahamBell-000001_%28cropped%29.jpg/300px-Alexander_Graham_Bell_by_E._J._Holmes%2C_1892%2C_albumen_silver_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_2010_28GrahamBell-000001_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Alexander_Graham_Bell_by_E._J._Holmes%2C_1892%2C_albumen_silver_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_2010_28GrahamBell-000001_%28cropped%29.jpg",
+            "caption": "Alexander Graham Bell by E. J. Holmes, 1892, albumen silver print, from the N...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wall_Hanging_Telephone_with_Detachable_Earpiece_-_Communication_Gallery_-_BITM_-_Calcutta_2000_211.JPG/300px-Wall_Hanging_Telephone_with_Detachable_Earpiece_-_Communication_Gallery_-_BITM_-_Calcutta_2000_211.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Wall_Hanging_Telephone_with_Detachable_Earpiece_-_Communication_Gallery_-_BITM_-_Calcutta_2000_211.JPG",
+            "caption": "This photograph was taken at the Communication gallery, Birla Industrial & Te...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Iridium_Satellite_Phone.jpg/300px-Iridium_Satellite_Phone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Iridium_Satellite_Phone.jpg",
+            "caption": "This phone is an integral part of a space-based system called Iridium, which ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mobile_Phone_Evolution_1992_-_2014.jpg/300px-Mobile_Phone_Evolution_1992_-_2014.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Mobile_Phone_Evolution_1992_-_2014.jpg",
+            "caption": "Evolution of mobile phone. 1992 - 2014.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alexander Graham Bell",
+            "summary": "Inventor of the telephone (1847–1922)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/250px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+        },
+        {
+            "name": "Antonio Meucci",
+            "summary": "Italian inventor (1808–1889)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Antonio_Meucci.jpg/250px-Antonio_Meucci.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Meucci"
+        },
+        {
+            "name": "Claude Chappe",
+            "summary": "Late 18th-century French inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/AduC_175_Chappe_%28Claude%2C_1765-1828%29.JPG/250px-AduC_175_Chappe_%28Claude%2C_1765-1828%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Chappe"
+        },
+        {
+            "name": "Air horn",
+            "summary": "Noisemaking device",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Supertanker_Steam_whistle%2C_Merseyside_Maritime_Museum.jpg/250px-Supertanker_Steam_whistle%2C_Merseyside_Maritime_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Air_horn"
+        },
+        {
+            "name": "Johann Philipp Reis",
+            "summary": "German scientist and inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/JPReis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Philipp_Reis"
+        },
+        {
+            "name": "Charles Bourseul",
+            "summary": "French inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Charles-bourseul-l-enfant-de-douai-qui-1690515.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Bourseul"
+        }
+    ],
+    "territory_geojson": null
+}

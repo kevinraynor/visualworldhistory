@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1129,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:50f776e92f1f640bfa299b44112d55e2e5a5cfb781ed17a6cf124f0431f29713",
+    "summary": "The Silk Road (c. 130 BC onward) was the network of overland and maritime trade routes connecting China, Central Asia, the Middle East, and the Mediterranean world, enabling not only the exchange of goods — silk, spices, precious metals, glassware — but the transmission of religions, technologies, diseases, and ideas across Eurasia on a scale unprecedented in human history.\n\nThe term 'Silk Road' was coined by German geographer Ferdinand von Richthofen in 1877; in ancient times there was no single road but a shifting network of routes passing through oases, mountain passes, and river valleys. The overland routes ran from Chang'an (Xi'an) through Central Asia's Tarim Basin, across Parthia to Syria and Rome; maritime branches connected India's coasts with Arabia and East Africa. The [[event:1128|Zhang Qian's Western Missions]] opened the Han court's systematic engagement with these routes, and [[event:1127|Emperor Wu of Han]]'s campaigns against the [[event:1133|Xiongnu]] secured the corridor through which Chinese silk flowed westward in exchange for horses, glassware, and Roman gold.\n\nThe Silk Road's cultural impact exceeded its commercial significance. Buddhism traveled from India to Central Asia and China along these routes. Christianity and Islam later spread similarly. The Bubonic Plague that devastated 14th-century Europe may have traveled Silk Road networks. Technologies including papermaking, printing, gunpowder, and the stirrup flowed between civilizations. The Silk Road remained important until the development of reliable maritime routes in the 15th century, but its legacy — as a model for the connected, interdependent world — endures as one of history's most powerful concepts.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Silk_Road",
+    "read_more_links": [
+        {
+            "title": "Central Asian oasis cities",
+            "url": "https://en.wikipedia.org/wiki/Oasis_city"
+        },
+        {
+            "title": "Silk Road trade goods",
+            "url": "https://en.wikipedia.org/wiki/Silk_Road#Goods_and_trade"
+        },
+        {
+            "title": "Spread of Buddhism via Silk Road",
+            "url": "https://en.wikipedia.org/wiki/Buddhism_along_the_Silk_Road"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Major_powers_in_Eurasia_around_555AD.png/300px-Major_powers_in_Eurasia_around_555AD.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Major_powers_in_Eurasia_around_555AD.png",
+            "caption": "Map showing the Major Powers in Eurasia in 555.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chinese_celadon_vase_Branly_71.1886.89.1.jpg/300px-Chinese_celadon_vase_Branly_71.1886.89.1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chinese_celadon_vase_Branly_71.1886.89.1.jpg",
+            "caption": "Chinese celadon vase Branly 71.1886.89.1",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lions%2C_soie_polychrome_sogdienne%2C_Asie_centrale.jpg/300px-Lions%2C_soie_polychrome_sogdienne%2C_Asie_centrale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lions%2C_soie_polychrome_sogdienne%2C_Asie_centrale.jpg",
+            "caption": "Lions, Sogdian polychrome silk, Central Asia. Probably from Bukhara, Uzbekist...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Cernuschi_Museum_20060812_150.jpg/300px-Cernuschi_Museum_20060812_150.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Cernuschi_Museum_20060812_150.jpg",
+            "caption": "A foreigner depicted as a camel driver; Chinese terracotta sculpture from the...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Marco Polo",
+            "summary": "Venetian merchant, explorer, and writer (1254–1324)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Marco_Polo_-_costume_tartare.jpg/250px-Marco_Polo_-_costume_tartare.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Polo"
+        },
+        {
+            "name": "Ferdinand von Richthofen",
+            "summary": "German explorer and scientist (1833–1905)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Ferdinand_von_Richthofen%29_-_Ernst_%28...%29Milster_Ernst_btv1b84510245_%28cropped%29.jpg/250px-%28Ferdinand_von_Richthofen%29_-_Ernst_%28...%29Milster_Ernst_btv1b84510245_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_von_Richthofen"
+        },
+        {
+            "name": "Sven Hedin",
+            "summary": "Swedish geographer, explorer, photographer, and illustrator (1865–1952)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sven_Hedin_from_Hildebrand_Sveriges_historia.jpg/250px-Sven_Hedin_from_Hildebrand_Sveriges_historia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sven_Hedin"
+        },
+        {
+            "name": "Edward Gibbon",
+            "summary": "British essayist, historian and politician (1737–1794)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_Emily_Gibbon.jpg/250px-Edward_Emily_Gibbon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Gibbon"
+        },
+        {
+            "name": "William Dalrymple",
+            "summary": "British historian and writer (born 1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/William_Dalrymple_%28sq_cropped%29.png/250px-William_Dalrymple_%28sq_cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Dalrymple"
+        }
+    ],
+    "territory_geojson": null
+}

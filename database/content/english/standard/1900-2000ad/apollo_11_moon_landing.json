@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3837,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:f943f08997258325965a75e9878ed03b53e998ee785cad6defc3324e532fd977",
+    "summary": "The Apollo 11 mission, which landed astronauts Neil Armstrong and Buzz Aldrin on the Moon on July 20, 1969, while Michael Collins orbited above, stands as one of the greatest achievements in human history and the culmination of the [[event:2676|Space Race]] between the United States and the Soviet Union. Armstrong's first words as he set foot on the lunar surface — describing one small step for man, one giant leap for mankind — were heard by an estimated 600 million people watching on television, the largest single audience in the medium's history at that time.\n\nThe achievement fulfilled the commitment made by President John F. Kennedy before Congress in May 1961 to land a man on the Moon and return him safely before the decade's end. The Apollo program had cost $25 billion — equivalent to over $150 billion in contemporary terms — and employed at its peak over 400,000 workers. It represented an unprecedented mobilization of scientific, engineering, and industrial resources in peacetime, demonstrating what sustained national commitment could accomplish.\n\nThe astronauts spent approximately 21 hours on the lunar surface, collecting 21.5 kilograms of lunar rocks and soil, deploying scientific instruments, and planting the American flag. The mission returned safely to Earth on July 24, 1969. Five more Apollo missions subsequently landed on the Moon, the last in December 1972. The lunar samples collected continue to yield scientific insights, and the Apollo guidance computer, though primitive by modern standards, drove advances in integrated circuit miniaturization.\n\nThe Moon landing transformed humanity's understanding of its place in the cosmos and demonstrated the exploratory reach of human technology. It also coincided with the invention of color television broadcasting, creating indelible images that shaped subsequent generations' sense of possibility. The achievement is frequently cited as the most significant technological accomplishment of the twentieth century and remains a touchstone of what collective human effort can achieve.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_11",
+    "read_more_links": [
+        {
+            "title": "Apollo program",
+            "url": "https://en.wikipedia.org/wiki/Apollo_program"
+        },
+        {
+            "title": "Neil Armstrong",
+            "url": "https://en.wikipedia.org/wiki/Neil_Armstrong"
+        },
+        {
+            "title": "Space Race",
+            "url": "https://en.wikipedia.org/wiki/Space_Race"
+        },
+        {
+            "title": "Moon landing",
+            "url": "https://en.wikipedia.org/wiki/Moon_landing"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/300px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+            "caption": "Apollo 11 Hasselblad image from film magazine 40/S - EVA. The image of astron...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg/300px-Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg",
+            "caption": "Apollo 11 Hasselblad image from film magazine 40/S - EVA\nThe NASA Special Pub...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NASM-NASM2013-02663.jpg/300px-NASM-NASM2013-02663.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NASM-NASM2013-02663.jpg",
+            "caption": "View of the interior of Apollo 11 Command Module \"Columbia\" (A19700102000).  ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Apollo_11_insignia.png/300px-Apollo_11_insignia.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Apollo_11_insignia.png",
+            "caption": "Apollo 11 Patch",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Buzz Aldrin",
+            "summary": "American astronaut (born 1930)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/250px-Buzz_Aldrin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Buzz_Aldrin"
+        },
+        {
+            "name": "Richard Nixon",
+            "summary": "President of the United States from 1969 to 1974",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/250px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+        },
+        {
+            "name": "John F. Kennedy",
+            "summary": "President of the United States from 1961 to 1963",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/250px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+        },
+        {
+            "name": "Dwight D. Eisenhower",
+            "summary": "President of the United States from 1953 to 1961",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/250px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+        },
+        {
+            "name": "Norbert Wiener",
+            "summary": "American mathematician and philosopher (1894–1964)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Norbert_Wiener.png/250px-Norbert_Wiener.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Norbert_Wiener"
+        },
+        {
+            "name": "Nikita Khrushchev",
+            "summary": "Leader of the Soviet Union from 1953 to 1964",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg/250px-1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
+        }
+    ],
+    "territory_geojson": null
+}

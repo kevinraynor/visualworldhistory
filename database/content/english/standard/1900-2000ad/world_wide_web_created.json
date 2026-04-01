@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2693,
+    "parent_id": 2692,
+    "granularity": "notable",
+    "content_hash": "sha256:dfaf8635e7cfe0653b0ce1e297318de5f0002161121bf4087c7ad787759098ab",
+    "summary": "The World Wide Web was invented by British computer scientist Tim Berners-Lee while working at CERN, the European particle physics laboratory near Geneva, Switzerland. In 1989 he submitted a proposal for a system of interlinked hypertext documents accessible via the Internet, and by December 1990 had created the first web browser and server and written the foundational protocols — HTML, HTTP, and URL — that defined the Web's operation. The world's first website went live in August 1991. Berners-Lee chose not to patent his invention but made it freely available, enabling its rapid worldwide adoption.\n\nThe Web's genius lay in combining several existing technologies — the Internet, hypertext, and the computer — in a way that created an intuitive, navigable information space. Rather than requiring specialized technical knowledge, the Web allowed anyone with a browser to access and create content through point-and-click navigation between linked documents. The Mosaic browser, released in 1993 by Marc Andreessen and Eric Bina at the National Center for Supercomputing Applications, made the Web accessible to a general audience and triggered explosive growth.\n\nThe Web transformed the [[event:2692|Internet Revolution]] from a communications tool into a universal information and commerce platform. By enabling the creation of websites by anyone with modest technical skills, it democratized publishing and information access in ways previously unimaginable. E-commerce, online journalism, social networking, digital media distribution, and search engines all depended on the Web's architecture. Berners-Lee's decision to make the underlying protocols freely available rather than proprietary ensured that no single company could control the Web's development.\n\nBerners-Lee continued to advocate for an open, neutral Web through the World Wide Web Consortium (W3C), which he founded in 1994 to develop and maintain Web standards. He was awarded the Turing Award in 2016 and knighted in 2004 for his contribution to the global development of the Internet. The World Wide Web represents one of the most transformative individual technological contributions in history, fundamentally altering how humanity accesses, creates, and shares information.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/World_Wide_Web",
+    "read_more_links": [
+        {
+            "title": "Tim Berners-Lee – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+        },
+        {
+            "title": "History of the World Wide Web – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web"
+        },
+        {
+            "title": "World Wide Web – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/World-Wide-Web"
+        },
+        {
+            "title": "CERN and the Web – CERN Official Website",
+            "url": "https://home.cern/science/computing/birth-web"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Inside_and_Rear_of_Webserver.jpg/300px-Inside_and_Rear_of_Webserver.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Inside_and_Rear_of_Webserver.jpg",
+            "caption": "A picture of a Dell PowerEdge 850 web server.",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/United_States_Antarctic_Program_website_from_2018_02_22.png/300px-United_States_Antarctic_Program_website_from_2018_02_22.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/United_States_Antarctic_Program_website_from_2018_02_22.png",
+            "caption": "United States Antarctic Program website from 2018 02 22",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/First_Web_Server.jpg/300px-First_Web_Server.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/First_Web_Server.jpg",
+            "caption": "* This NeXT workstation (a NeXTcube, monitor Cern 57503) was used by Tim Bern...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tim Berners-Lee",
+            "summary": "English computer scientist (born 1955)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/LS3_4919_%28cropped%29.jpg/250px-LS3_4919_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
+        },
+        {
+            "name": "Ted Nelson",
+            "summary": "American pioneer of information technology, philosopher, and sociologist (born 1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ted_Nelson_cropped.jpg/250px-Ted_Nelson_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ted_Nelson"
+        },
+        {
+            "name": "Marc Andreessen",
+            "summary": "American businessman (born 1971)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Marc_Andreessen-9_%28cropped%29.jpg/250px-Marc_Andreessen-9_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Andreessen"
+        },
+        {
+            "name": "James H. Clark",
+            "summary": "American computer scientist and entrepreneur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/James_H._Clark.jpg/250px-James_H._Clark.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_H._Clark"
+        }
+    ],
+    "territory_geojson": null
+}

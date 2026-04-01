@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2596,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b8f926bd90680095707ef5307c88e91a8836cce48a208537eb5be7a9e9dcb30e",
+    "summary": "The Mahdist War in Sudan (1881–1899) was a conflict between the forces of Muhammad Ahmad, who declared himself the Mahdi ('Expected Redeemer') of Islam in 1881, and the Egyptian and British forces attempting to maintain control of Sudan. The war demonstrated the power of religious nationalism and anti-colonial resistance and established the Mahdist State as an independent theocratic power for over a decade before its final defeat.\n\nMuhammad Ahmad declared his Mahdiyya — his divinely ordained mission to purify Islam and liberate Sudan from foreign rule — in June 1881. His movement attracted massive support among Sudanese peoples resentful of Egyptian-Ottoman rule and its heavy taxation and slave-trade suppression policies. The Mahdist forces proved far more effective than expected, annihilating several Egyptian military expeditions. The defeat and death of the British colonel William Hicks with an Egyptian force of 10,000 men in November 1883 dramatically demonstrated Mahdist military power.\n\nBritain sent General Charles Gordon to Khartoum to supervise the evacuation of the Egyptian garrison, but Gordon exceeded his orders and attempted to hold the city. The [[event:2597|fall of Khartoum]] in January 1885 — with Gordon's death two days before a British relief expedition arrived — became one of the most sensational events of Victorian imperialism, transforming Gordon into a martyr and generating enormous political controversy in Britain. The Mahdi himself died in June 1885, and his successor the Khalifa Abdallahi maintained the Mahdist state until its final overthrow by Kitchener at the Battle of Omdurman in September 1898.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mahdist_War",
+    "read_more_links": [
+        {
+            "title": "Muhammad Ahmad – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Muhammad_Ahmad"
+        },
+        {
+            "title": "Battle of Omdurman – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Omdurman"
+        },
+        {
+            "title": "Sudan History – Britannica",
+            "url": "https://www.britannica.com/place/Sudan/The-Mahdiyya"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mahdist_War_Collage.png/300px-Mahdist_War_Collage.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mahdist_War_Collage.png",
+            "caption": "A collage of major battles in the Mahdist/Sudan War",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Banner%2C_declaration_of_faith_and_allegiance_to_Allah._Sudanese_Mahdist_Army%2C_Omdurman%2C_1889._The_Kelvingrove_Art_Gallery_and_Museum._Given_by_Miss_Victoria_MacBean.jpg/300px-Banner%2C_declaration_of_faith_and_allegiance_to_Allah._Sudanese_Mahdist_Army%2C_Omdurman%2C_1889._The_Kelvingrove_Art_Gallery_and_Museum._Given_by_Miss_Victoria_MacBean.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Banner%2C_declaration_of_faith_and_allegiance_to_Allah._Sudanese_Mahdist_Army%2C_Omdurman%2C_1889._The_Kelvingrove_Art_Gallery_and_Museum._Given_by_Miss_Victoria_MacBean.jpg",
+            "caption": "This banner is a declaration of faith and allegiance into Allah, and was carr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/MahdistsvsEthiopians.png/300px-MahdistsvsEthiopians.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/MahdistsvsEthiopians.png",
+            "caption": "The battle of Gallabat between Emperor Yohannes against the Mahdists",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tucruf.jpg/300px-Tucruf.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tucruf.jpg",
+            "caption": "Combat de Tucruf 1896. Gravure parue dans le journal Illustrazione italiana.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles George Gordon",
+            "summary": "British general (1833–1885)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Charles_George_Gordon_by_Freres.jpg/250px-Charles_George_Gordon_by_Freres.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_George_Gordon"
+        },
+        {
+            "name": "Tewfik Pasha",
+            "summary": "Khedive of Egypt and Sudan from 1879 to 1892",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tewfik_Pasha.jpg/250px-Tewfik_Pasha.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tewfik_Pasha"
+        },
+        {
+            "name": "Muhammad Rauf Pasha",
+            "summary": "Egyptian soldier and colonial administrator (c. 1832–1888)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rauf_Pascha_%28cropped%29.jpg/250px-Rauf_Pascha_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Rauf_Pasha"
+        },
+        {
+            "name": "Hassan Ismail Pasha",
+            "summary": "Egyptian prince (1855–1888)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Prince_Hassan_Ismail_Pasha.jpg/250px-Prince_Hassan_Ismail_Pasha.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hassan_Ismail_Pasha"
+        },
+        {
+            "name": "Yohannes IV",
+            "summary": "Emperor of Ethiopia from 1871 to 1889",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yohannes_IV_-_4.jpg/250px-Yohannes_IV_-_4.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yohannes_IV"
+        },
+        {
+            "name": "Ras Alula",
+            "summary": "Ethiopian general and politician (1827–1897)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Alula_Engida.jpg/250px-Alula_Engida.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ras_Alula"
+        }
+    ],
+    "territory_geojson": null
+}

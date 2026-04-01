@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1009,
+    "parent_id": 64,
+    "granularity": "notable",
+    "content_hash": "sha256:732f95290a6f73f05b9c5132e68280af5c42ddd060c9d4d49161c480b1a75dd7",
+    "summary": "The Delian League (478–404 BC) was a naval alliance of Greek city-states led by Athens, formed in the aftermath of the [[event:1001|Greco-Persian Wars]] to continue the offensive against Persia and defend against future Persian aggression. The league took its name from the sacred island of Delos, where the treasury was originally kept and where member states met for deliberations. At its height, the league comprised several hundred member states across the Aegean world.\n\nMember states contributed either ships or silver tribute to the common treasury. Over time, most smaller states found it easier to pay silver than maintain expensive warships, and Athens increasingly used this tribute to build and man its own fleet. The transformation was gradual but decisive: by the mid-fifth century, the Delian League had effectively become an Athenian empire, with Athens directing policy, trying cases in Athenian courts, and punishing states that sought to withdraw. The treasury was moved from Delos to Athens in 454 BC, symbolizing this transformation.\n\nThe league's revenues funded the construction of the Parthenon and the other monuments of the Acropolis during the Age of Pericles, making Athenian cultural achievement literally built on allied tribute. This imperial character fueled resentment among member states and contributed to the conditions that produced the [[event:1010|Peloponnesian War]], in which Sparta led a coalition against Athenian power. The league was dissolved when Athens was defeated in 404 BC, its walls demolished and fleet reduced.\n\nThe Delian League represents a pivotal episode in the history of empire and alliance, illustrating how quickly a defensive coalition can transform into a hegemonic system when one member overwhelmingly dominates the others in military and economic power.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Delian_League",
+    "read_more_links": [
+        {
+            "title": "Pericles",
+            "url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "title": "Athenian Empire",
+            "url": "https://en.wikipedia.org/wiki/Athenian_Empire"
+        },
+        {
+            "title": "Parthenon",
+            "url": "https://en.wikipedia.org/wiki/Parthenon"
+        },
+        {
+            "title": "Peloponnesian War",
+            "url": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Before_Peloponnesian_War.png/300px-Before_Peloponnesian_War.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Before_Peloponnesian_War.png",
+            "caption": "Greece at the beginning of the Peloponnesian War",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/300px-Parthenon_from_west.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
+            "caption": "Parthenon from west",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Athenian_Empire_in_445_BC_according_to_the_Tribute_Lists.jpg/300px-Athenian_Empire_in_445_BC_according_to_the_Tribute_Lists.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Athenian_Empire_in_445_BC_according_to_the_Tribute_Lists.jpg",
+            "caption": "Athenian Empire in 445 BC according to the Tribute Lists",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Athenian_empire_atheight_450_shepherd1923.png/300px-Athenian_empire_atheight_450_shepherd1923.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Athenian_empire_atheight_450_shepherd1923.png",
+            "caption": "Scan from \"Historical Atlas\" by William R. Shepherd, New York, Henry Holt and...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "name": "Lysander",
+            "summary": "Spartan military and political leader (died 395 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg/250px-Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lysander"
+        },
+        {
+            "name": "Cyrus the Great",
+            "summary": "Founder of the Achaemenid Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/250px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+        },
+        {
+            "name": "Tyrant",
+            "summary": "Absolute ruler unrestrained by law or constitution",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%A4%8F%E6%A1%80%E5%83%8F.png/250px-%E5%A4%8F%E6%A1%80%E5%83%8F.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tyrant"
+        },
+        {
+            "name": "Darius the Great",
+            "summary": "Persian ruler from 522 to 486 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Darius_I.jpg/250px-Darius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_the_Great"
+        },
+        {
+            "name": "Xerxes I",
+            "summary": "King of Kings of the Achaemenid Empire from 486 to 465 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_%28785%29.JPG/250px-National_Museum_of_Iran_Darafsh_%28785%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        }
+    ],
+    "territory_geojson": null
+}

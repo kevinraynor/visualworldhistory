@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1182,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f10a7a1362a3b88e6f29ae1d83bdc167eccb2cd6235c09314c0a0bcb945db989",
+    "summary": "The Nazca Culture Origins (c. 200 BC – 1 AD) mark the early phase of the Nazca civilization of coastal Peru, successors to the [[event:1183|Paracas Culture]], who would later create the famous Nazca Lines — enormous geoglyphs etched into the desert floor that have fascinated archaeologists and captured popular imagination as one of antiquity's greatest mysteries.\n\nThe Nazca heartland was the Ica and Nazca river valleys of the southern Peruvian coast, an exceptionally arid environment where rivers flowing from the Andes reach the Pacific. The early Nazca culture developed sophisticated polychrome pottery with a distinctive style, built religious centers including Cahuachi (the largest known adobe structure in the ancient Americas), and began creating the geoglyphs for which they are most famous. The Nazca Lines — straight lines, geometric figures, and animal shapes (hummingbirds, spiders, condors, monkeys) visible only from the air — were created by removing reddish surface stones to reveal lighter ground beneath, apparently for ritual purposes related to water and fertility worship. The geoglyphs were partly visible in early aerial photography in the 1920s and systematically documented by German mathematician Maria Reiche from the 1940s.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nazca_culture",
+    "read_more_links": [
+        {
+            "title": "Nazca Lines",
+            "url": "https://en.wikipedia.org/wiki/Nazca_Lines"
+        },
+        {
+            "title": "Cahuachi",
+            "url": "https://en.wikipedia.org/wiki/Cahuachi"
+        },
+        {
+            "title": "Nazca Lines theories",
+            "url": "https://en.wikipedia.org/wiki/Nazca_Lines#Theories"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nazca-chauchilla-c03.jpg/300px-Nazca-chauchilla-c03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nazca-chauchilla-c03.jpg",
+            "caption": "Nazca-chauchilla-c03",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5 es"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/BLW_Nazca_Bowl_with_fish.jpg/300px-BLW_Nazca_Bowl_with_fish.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/BLW_Nazca_Bowl_with_fish.jpg",
+            "caption": "Bowl with fish and cup with warrior's head\nPeru, Nasca culture\n\n300-600",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 uk"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Krieger_mit_Troph%C3%A4enkopf_Peru_Nazca_Slg_Ebn%C3%B6ther.jpg/300px-Krieger_mit_Troph%C3%A4enkopf_Peru_Nazca_Slg_Ebn%C3%B6ther.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Krieger_mit_Troph%C3%A4enkopf_Peru_Nazca_Slg_Ebn%C3%B6ther.jpg",
+            "caption": "Schaffhausen, Museum zu Allerheiligen, Sammlung Ebnöther, (Abteilung \"Krieger...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nazca-lineas-perro-c01.jpg/300px-Nazca-lineas-perro-c01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nazca-lineas-perro-c01.jpg",
+            "caption": "Nazca-lineas-perro-c01",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5 es"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

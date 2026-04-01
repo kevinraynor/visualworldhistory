@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1199,
+    "parent_id": 1040,
+    "granularity": "detailed",
+    "content_hash": "sha256:bf5accc1678f611c7982d3a43a60fc703ba40c813fd8c7b9b787195a3aaa7d31",
+    "summary": "Eratosthenes Measures the Earth (c. 240 BC) was a landmark achievement of ancient science in which the head of the [[event:1044|Library of Alexandria]] used geometric reasoning and the angle of the sun's shadow to calculate Earth's circumference with remarkable accuracy — a demonstration that ancient science could yield quantitative knowledge of the natural world through systematic observation and mathematics.\n\nEratosthenes of Cyrene, scholar-librarian at Alexandria, knew that at noon on the summer solstice at Syene (Aswan), the sun was directly overhead (it shone straight down a well without shadow). At Alexandria, simultaneously, the sun cast a shadow at an angle of about 7.2 degrees (1/50th of a circle). Knowing the approximate distance from Alexandria to Syene, Eratosthenes multiplied by 50 to get Earth's circumference — approximately 40,000 km, remarkably close to the modern value of 40,075 km. He also calculated the tilt of Earth's axis, the distance to the Sun and Moon, and made a remarkably accurate map of the known world. His method — using two data points, simple geometry, and proportional reasoning — exemplifies Greek scientific thinking at its best. He coined the term 'geography' and founded the discipline, producing work that influenced cartographers until the Renaissance.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Eratosthenes",
+    "read_more_links": [
+        {
+            "title": "Measurement of Earth's circumference",
+            "url": "https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_the_Earth%27s_circumference"
+        },
+        {
+            "title": "Ancient Greek geography",
+            "url": "https://en.wikipedia.org/wiki/Geography_(Ptolemy)"
+        },
+        {
+            "title": "Library of Alexandria scholars",
+            "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria#Scholars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mappa_di_Eratostene.jpg/300px-Mappa_di_Eratostene.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mappa_di_Eratostene.jpg",
+            "caption": "19th century reconstruction of Eratosthenes' map of the known world, c. 194 BC.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Eratosthenes_profile.png/300px-Eratosthenes_profile.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Eratosthenes_profile.png",
+            "caption": "Greek scholar Eratosthenes",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/300px-Parthenon_from_west.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
+            "caption": "Parthenon from west",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Zeno of Citium",
+            "summary": "Hellenistic philosopher, founder of Stoicism (c. 334–c. 262 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg/250px-Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeno_of_Citium"
+        },
+        {
+            "name": "Princeton University Press",
+            "summary": "Independent publisher associated with Princeton University",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Princeton_University_Press_logo.svg/250px-Princeton_University_Press_logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princeton_University_Press"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Ptolemy I Soter",
+            "summary": "Pharaoh of Egypt from 305 to 282 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ptolemy_I_Soter_Louvre_Ma849_A.jpg/250px-Ptolemy_I_Soter_Louvre_Ma849_A.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+        },
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        }
+    ],
+    "territory_geojson": null
+}

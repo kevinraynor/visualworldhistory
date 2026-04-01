@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1195,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:319fd907fac3cca1ce2834f0dc69f90c3e1bedd172003cdb3d7af23922d71f05",
+    "summary": "Stoicism (founded c. 300 BC) was a philosophical school established by Zeno of Citium in Athens, which taught that virtue is the only true good, that reason is the divine principle governing the universe, and that human flourishing consists in living according to nature and reason — a philosophy of remarkable practical wisdom that remained influential from ancient Greece through the Roman Empire to the present day.\n\nZeno began teaching in the Stoa Poikile (Painted Porch) in Athens, giving the school its name. His successors Cleanthes and especially Chrysippus developed Stoicism into a comprehensive philosophical system covering logic, physics, and ethics. The Stoic ethical core — that external things (health, wealth, reputation) are 'preferred indifferents' while virtue alone is truly good — was a response to the uncertainty and cosmopolitan dislocation of the [[event:80|Hellenistic Period]]. Stoicism proved especially influential among Romans: [[event:1073|First Triumvirate]]'s era figures like Cicero drew on it; the later Stoics Seneca, Epictetus, and the emperor Marcus Aurelius wrote the school's most widely read texts. Modern cognitive behavioral therapy has acknowledged its debt to Stoic exercises. The Stoic concept of the cosmopolis — a universal community of rational beings transcending political boundaries — was a revolutionary idea that influenced concepts of natural law, human rights, and Roman legal universalism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stoicism",
+    "read_more_links": [
+        {
+            "title": "Zeno of Citium",
+            "url": "https://en.wikipedia.org/wiki/Zeno_of_Citium"
+        },
+        {
+            "title": "Chrysippus",
+            "url": "https://en.wikipedia.org/wiki/Chrysippus"
+        },
+        {
+            "title": "Stoicism and modern thought",
+            "url": "https://en.wikipedia.org/wiki/Stoicism#Modern_stoicism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Lupa_Capitolina%2C_Rome.jpg/300px-Lupa_Capitolina%2C_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lupa_Capitolina%2C_Rome.jpg",
+            "caption": "Lupa Capitolina: she-wolf with Romulus and Remus. Bronze, 12th century AD[1],...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Detail._Marble_bust_of_Chrysippus._Roman_copy_%281st_century_CE%29_of_an_original_%28c._200_BCE%29._Altes_Museum%2C_Berlin%2C_Germany.jpg/300px-Detail._Marble_bust_of_Chrysippus._Roman_copy_%281st_century_CE%29_of_an_original_%28c._200_BCE%29._Altes_Museum%2C_Berlin%2C_Germany.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Detail._Marble_bust_of_Chrysippus._Roman_copy_%281st_century_CE%29_of_an_original_%28c._200_BCE%29._Altes_Museum%2C_Berlin%2C_Germany.jpg",
+            "caption": "Marble bust of Chrysippus (head of the Stoic school of philosophy). Roman cop...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Marcus_Aurelius_Louvre_MR561_n01.jpg/300px-Marcus_Aurelius_Louvre_MR561_n01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Marcus_Aurelius_Louvre_MR561_n01.jpg",
+            "caption": "Marcus Aurelius Louvre MR561 n01",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/300px-Parthenon_from_west.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
+            "caption": "Parthenon from west",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Zeno of Citium",
+            "summary": "Hellenistic philosopher, founder of Stoicism (c. 334–c. 262 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg/250px-Paolo_Monti_-_Servizio_fotografico_%28Napoli%2C_1969%29_-_BEIC_6353768.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeno_of_Citium"
+        },
+        {
+            "name": "Marcus Aurelius",
+            "summary": "Roman emperor from 161 to 180",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/250px-MSR-ra-61-b-1-DM.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+        },
+        {
+            "name": "Chrysippus",
+            "summary": "Greek Stoic philosopher (c.279–c.206 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Chrysippos_BM_1846.jpg/250px-Chrysippos_BM_1846.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chrysippus"
+        },
+        {
+            "name": "Princeton University Press",
+            "summary": "Independent publisher associated with Princeton University",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Princeton_University_Press_logo.svg/250px-Princeton_University_Press_logo.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princeton_University_Press"
+        },
+        {
+            "name": "Seneca the Younger",
+            "summary": "Roman Stoic philosopher, statesman and dramatist (c. 4 BC–AD 65)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg/250px-Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+        },
+        {
+            "name": "Epictetus",
+            "summary": "Greek Stoic philosopher (c. 50 – c. 135)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg/250px-Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Epictetus"
+        }
+    ],
+    "territory_geojson": null
+}

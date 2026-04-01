@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2193,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e5fd47c7ce736d368daeb39b279f0a2ff8e0a560915d4ced64637a88e5a83737",
+    "summary": "The Great Mosque of Cordoba (Mezquita-Catedral de Córdoba, begun 785 AD, expanded through the 10th century) is one of the most magnificent buildings in the world and the supreme achievement of Umayyad architecture in the west — a mosque built on the site of a Visigothic church that was expanded four times over two centuries to create a forest of 856 columns in alternating jasper, onyx, marble, and granite, with double arches in red brick and white stone creating a mesmerizing visual rhythm unique in world architecture. The [[event:2208|Umayyad Emirate's]] Abd al-Rahman I commissioned the original mosque in 785 AD; his successors expanded it until it became the second largest mosque in the world after the Great Mosque of Mecca.\n\nThe Mezquita's architectural innovations — the double-tiered horseshoe arches, the alternating voussoirs, the later elaborated mihrab with Byzantine-style mosaics (sent as a gift by the Byzantine emperor along with craftsmen to install them) — influenced Islamic architecture across the Mediterranean world and were so distinct that the style is sometimes called 'Cordoban' or 'Andalusian'. After the Christian reconquest of Cordoba in 1236, the Mezquita became a cathedral; in the 16th century, a full Renaissance cathedral nave was inserted into the mosque's center — a jarring but historically instructive juxtaposition. King Charles V, who authorized the insertion, reportedly regretted it upon seeing the result: 'You have destroyed something unique to build something ordinary.' The building is a UNESCO World Heritage Site.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+    "read_more_links": [
+        {
+            "title": "Mezquita architecture columns arches",
+            "url": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba#Architecture"
+        },
+        {
+            "title": "Mihrab Byzantine mosaics",
+            "url": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba#Mihrab"
+        },
+        {
+            "title": "Cathedral insertion controversy",
+            "url": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba#Cathedral_of_Our_Lady_of_the_Assumption"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/C%C3%B3rdoba_2015_10_23_2733_%2825613751954%29.jpg/300px-C%C3%B3rdoba_2015_10_23_2733_%2825613751954%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/C%C3%B3rdoba_2015_10_23_2733_%2825613751954%29.jpg",
+            "caption": "In 1236, Córdoba was conquered by King Ferdinand III of Castile, and the mosq...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/C%C3%B3rdoba_2015_10_23_2737_%2825613740144%29.jpg/300px-C%C3%B3rdoba_2015_10_23_2737_%2825613740144%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/C%C3%B3rdoba_2015_10_23_2737_%2825613740144%29.jpg",
+            "caption": "In 1236, Córdoba was conquered by King Ferdinand III of Castile, and the mosq...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mezquita-catedral_de_C%C3%B3rdoba_interior_13.jpg/300px-Mezquita-catedral_de_C%C3%B3rdoba_interior_13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mezquita-catedral_de_C%C3%B3rdoba_interior_13.jpg",
+            "caption": "The main altar and the nave of the cruciform core of the Mosque–Cathedral of ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_07.jpg/300px-C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_07.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/C%C3%B3rdoba_-_Mezquita-Catedral_-_Interior_-_07.jpg",
+            "caption": "Córdoba (Andalusia, Spain) - Mosque-Cathedral - Choir stalls",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

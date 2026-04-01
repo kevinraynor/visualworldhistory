@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2698,
+    "parent_id": 113,
+    "granularity": "notable",
+    "content_hash": "sha256:a09ea3ca089f1b6d15d56b9b62bb3ff9eb5a2ba023f4e13ae20db893fe3d9d46",
+    "summary": "The Soviet-Afghan War lasted from December 1979 to February 1989, as Soviet forces intervened to support the Afghan communist government against a growing Islamic insurgency and ultimately found themselves trapped in an unwinnable counterinsurgency that contributed significantly to the erosion of Soviet power and the eventual [[event:2682|dissolution of the Soviet Union]]. The war killed approximately one million Afghans, created five million refugees, and cost the Soviet Union enormous military, financial, and prestige losses, earning Afghanistan the epithet \"the Soviet Union's Vietnam.\"\n\nThe Soviet intervention was prompted by the instability of the Afghan communist government, which had seized power in 1978 but was fracturing into factional violence. The December 1979 invasion replaced one faction's leader with another (killing the incumbent in the process) and sought to stabilize the country. Instead, Soviet forces found themselves fighting a decentralized [[event:3670|mujahideen]] insurgency across Afghanistan's rugged mountains, valleys, and villages — terrain ideally suited to guerrilla warfare and extremely difficult for conventional forces.\n\nThe United States, under Presidents Carter and Reagan, secretly supported the mujahideen through Operation Cyclone, the CIA's largest covert operation to that point. Pakistan's Inter-Services Intelligence (ISI) channeled American, Saudi, and Chinese weapons and funding to resistance groups. The introduction of American-supplied Stinger shoulder-fired surface-to-air missiles in 1986 degraded the Soviet military's previously dominant air power and significantly increased Soviet casualties. The war was explicitly framed in Washington as an opportunity to impose on the Soviets the same costs Vietnam had imposed on the United States.\n\nGorbachev concluded by 1986 that the war was unwinnable and began a withdrawal process. Soviet forces completed their withdrawal by February 1989 under the Geneva Accords. The Afghan communist government survived until 1992, when the mujahideen factions captured Kabul. The subsequent civil war among competing mujahideen factions created the conditions that allowed the [[event:3485|Taliban]] to emerge and take power in 1996.\n\nThe war's long-term consequences proved catastrophic for Afghanistan and significant for global security. The mujahideen networks created and armed with American support during the 1980s included Arab volunteers who later formed the core of al-Qaeda under Osama bin Laden. The weapons and fighters trained during the Soviet war dispersed across the Islamic world after it ended. The pattern of American support for anti-Soviet insurgents who later became adversaries became a cautionary tale about the unintended consequences of covert intervention.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War",
+    "read_more_links": [
+        {
+            "title": "Soviet-Afghan War – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Soviet-invasion-of-Afghanistan"
+        },
+        {
+            "title": "Operation Cyclone – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Operation_Cyclone"
+        },
+        {
+            "title": "Mujahideen – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mujahideen"
+        },
+        {
+            "title": "Geneva Accords 1988 – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Geneva_Accords_(1988)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Afghanistan-Pakistan_-_northern_border._LOC_2010594050.jpg/300px-Afghanistan-Pakistan_-_northern_border._LOC_2010594050.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Afghanistan-Pakistan_-_northern_border._LOC_2010594050.jpg",
+            "caption": "Relief shown by shading and spot heights. Includes inset showing coverage. \"8...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Afghan_Army_shoulder_patch_1980.png/300px-Afghan_Army_shoulder_patch_1980.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Afghan_Army_shoulder_patch_1980.png",
+            "caption": "The shoulder patch worn by Afghan Army troops under the Democratic Republic o...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Afgan30mmAutoMinomet.jpg/300px-Afgan30mmAutoMinomet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Afgan30mmAutoMinomet.jpg",
+            "caption": "Soviet troops in Afghanistan. Highlands near Kabul, 1986. Officer of 40 Army ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Afgan_prisoners_in_Vardak_1987.jpg/300px-Afgan_prisoners_in_Vardak_1987.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Afgan_prisoners_in_Vardak_1987.jpg",
+            "caption": "Soviet Army in Afgan, Vardak, 1987. Afgans Prisoners. Mount.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leonid Brezhnev",
+            "summary": "Leader of the Soviet Union from 1964 to 1982",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg/250px-Leonid_Brezhnev%2C_Staatshoofden%2C_portretten%2C_Bestanddeelnr_925-6564_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leonid_Brezhnev"
+        },
+        {
+            "name": "Yuri Andropov",
+            "summary": "Leader of the Soviet Union from 1982 to 1984",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Yuri_Andropov_%28cropped%29.jpg/250px-Yuri_Andropov_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yuri_Andropov"
+        },
+        {
+            "name": "Konstantin Chernenko",
+            "summary": "Leader of the Soviet Union from 1984 to 1985",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_%2828-05-1984%29_%28cropped%29%28b%29.jpg/250px-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE_%2828-05-1984%29_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Konstantin_Chernenko"
+        },
+        {
+            "name": "Mikhail Gorbachev",
+            "summary": "Leader of the Soviet Union from 1985 to 1991",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/250px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+        },
+        {
+            "name": "Dmitry Ustinov",
+            "summary": "Soviet politician (1908–1984)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dmitry_Ustinov_%28colorized%2C_full%29_%28cropped%29%28b%29%282%29.jpg/250px-Dmitry_Ustinov_%28colorized%2C_full%29_%28cropped%29%28b%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dmitry_Ustinov"
+        },
+        {
+            "name": "Andrei Gromyko",
+            "summary": "Soviet diplomat (1909–1989)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Andrei_Gromyko_1972_%283x4_cropped%29.jpg/250px-Andrei_Gromyko_1972_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrei_Gromyko"
+        }
+    ],
+    "territory_geojson": null
+}

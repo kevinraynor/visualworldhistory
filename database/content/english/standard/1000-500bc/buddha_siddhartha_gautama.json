@@ -1,0 +1,41 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1960,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:d08f0cafd5503e9f6a96af03ddddfb063df84a4f2d2705818566c737e3283887",
+    "summary": "Siddhartha Gautama (c. 563–483 BC or c. 480–400 BC, by different scholarly reckonings) — the historical Buddha — was the prince of the Shakya clan in the foothills of the Himalayas (modern Nepal/northern India) who renounced his privileged life to seek the end of suffering, achieved enlightenment at Bodh Gaya under the Bodhi tree, and spent approximately 45 years teaching, founding a monastic community (sangha) and a philosophical-religious path that became one of the world's major religions. The word 'Buddha' means 'awakened one' or 'enlightened one.'\n\nThe narrative of Siddhartha's life has become one of humanity's great spiritual stories: the sheltered prince confronting old age, sickness, and death for the first time; his departure from the palace; years of extreme asceticism that he eventually rejected; the meditative breakthrough at Bodh Gaya; the 'turning of the wheel of Dharma' (first sermon) at Deer Park, Sarnath; and decades of wandering teaching across the Gangetic plain. The core teachings — the Four Noble Truths and Eightfold Path — offered a practical program for ending suffering through ethical living, meditative practice, and wisdom, accessible to all regardless of caste. The Buddha explicitly challenged the Brahmin caste system and the efficacy of Vedic sacrifice, offering a path to liberation through personal effort rather than ritual performance. His sangha welcomed women and low-caste members — radical departures for the time.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+    "read_more_links": [
+        {
+            "title": "Buddha life narrative",
+            "url": "https://en.wikipedia.org/wiki/Gautama_Buddha#Life"
+        },
+        {
+            "title": "Four Noble Truths first sermon",
+            "url": "https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta"
+        },
+        {
+            "title": "Bodh Gaya enlightenment site",
+            "url": "https://en.wikipedia.org/wiki/Bodh_Gaya"
+        },
+        {
+            "title": "Buddhist sangha monastic community",
+            "url": "https://en.wikipedia.org/wiki/Sangha"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "The Buddha",
+            "summary": "Founder of Buddhism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/250px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/The_Buddha"
+        }
+    ],
+    "territory_geojson": null
+}

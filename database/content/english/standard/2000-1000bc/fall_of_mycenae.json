@@ -1,0 +1,64 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1825,
+    "parent_id": 57,
+    "granularity": "detailed",
+    "content_hash": "sha256:70d897e5138e3326fa9d57fcee5d40759a17b390ae61c93357cf4f98eaa76414",
+    "summary": "The fall of Mycenae between approximately 1100 and 1050 BC marked the end of the dominant power center of [[event:57|Mycenaean Greece]] and contributed to the onset of the [[event:1826|Greek Dark Ages]]. Archaeological evidence shows a destruction layer at Mycenae followed by much reduced occupation, with the elaborate palace bureaucracy, [[event:1823|Linear B]] administrative system, and long-distance trade networks ceasing to function.\n\nThe causes of Mycenae's collapse remain debated. The [[event:1815|Bronze Age Collapse]] that destroyed other palatial civilizations across the eastern Mediterranean around 1200 BC reached the Greek mainland with some delay, but the same combination of factors — the [[event:1814|Sea Peoples]], climate disruption, internal upheaval, and systems collapse — is generally invoked. The later tradition of a \"Dorian invasion\" — migration by a new Greek-speaking group from the north — was once considered a primary explanation but is now viewed with skepticism by most archaeologists, who find limited evidence for a new population intrusion.\n\nAfter the collapse, the site of Mycenae was never reoccupied at the palatial scale, though a small Iron Age village occupied part of the site. The massive Cyclopean walls, the [[event:1896|Lion Gate]], and the Treasury of Atreus tholos tomb remained visible throughout antiquity, inspiring Greek myths of the superhuman Mycenae as a city built by giants.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mycenaean_Greece#Collapse",
+    "read_more_links": [
+        {
+            "title": "Greek Dark Ages",
+            "url": "https://en.wikipedia.org/wiki/Greek_Dark_Ages"
+        },
+        {
+            "title": "Mycenae",
+            "url": "https://en.wikipedia.org/wiki/Mycenae"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/300px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "caption": "Greece, Archipelago and part of Anadoli. Published for Willm. Faden, Geograph...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/%CE%A0%CE%B1%CE%BD%CE%BF%CF%80%CE%BB%CE%AF%CE%B1_%CF%84%CF%89%CE%BD_%CE%94%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD_8005.jpg/300px-%CE%A0%CE%B1%CE%BD%CE%BF%CF%80%CE%BB%CE%AF%CE%B1_%CF%84%CF%89%CE%BD_%CE%94%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD_8005.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%CE%A0%CE%B1%CE%BD%CE%BF%CF%80%CE%BB%CE%AF%CE%B1_%CF%84%CF%89%CE%BD_%CE%94%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD_8005.jpg",
+            "caption": "Πανοπλία των Δέντρων 8005",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/DK_1608_046013.jpg/300px-DK_1608_046013.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/DK_1608_046013.jpg",
+            "caption": "The Treasury of Atreus (Tomb of Agamemnon)\nVisitors standing in the Tomb.\n\nMy...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Boars%27s_tusk_helmet_NAMA6568_Athens_Greece1.jpg/300px-Boars%27s_tusk_helmet_NAMA6568_Athens_Greece1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Boars%27s_tusk_helmet_NAMA6568_Athens_Greece1.jpg",
+            "caption": "Boar’s tusk helmet with cheek-guards and a double bone hook on top.\nMycenae, ...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Bernard Sergent",
+            "summary": "French historian and comparative mythologist (born 1946)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bernard_Sergent_-_Rencontres_de_l%E2%80%99imaginaire_de_Broc%C3%A9liande_2014.JPG/250px-Bernard_Sergent_-_Rencontres_de_l%E2%80%99imaginaire_de_Broc%C3%A9liande_2014.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bernard_Sergent"
+        }
+    ],
+    "territory_geojson": null
+}

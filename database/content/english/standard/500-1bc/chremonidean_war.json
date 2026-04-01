@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1206,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:1157c504200887f89a45ca0fdf4f586834b1498f6b7daeeca0e07c3ba3953459",
+    "summary": "The Chremonidean War (267–261 BC) was a Greek attempt, sponsored by Ptolemaic Egypt, to resist Macedonian domination of Greece, named after the Athenian politician Chremonides who proposed the alliance — but the venture failed when Macedon blockaded Athens and Sparta into submission, confirming Antigonid dominance over Greece.\n\nChremonides proposed an alliance of Athens, Sparta, and other Peloponnesian states, supported by [[event:1040|Ptolemaic Kingdom]]'s Ptolemy II of Egypt, who was engaged in his own rivalry with Macedon. The Egyptian fleet was supposed to provide naval support. However, the alliance failed to coordinate effectively: Macedon under Antigonus II Gonatas blockaded Athens by land while the Spartan relief force was defeated. Ptolemy's promised naval intervention was limited. Athens surrendered in 261 BC; Sparta capitulated as well. The defeat ended Athens's last serious attempt at independent foreign policy and confirmed Macedonian hegemony over mainland Greece. Antigonus II's subsequent defeat of the Ptolemaic fleet at the Battle of Cos completed his mastery of the Aegean, establishing the [[event:1042|Antigonid Dynasty]]'s dominance over the Greek world for the next century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chremonidean_War",
+    "read_more_links": [
+        {
+            "title": "Chremonides decree",
+            "url": "https://en.wikipedia.org/wiki/Chremonidean_War#The_Chremonides_decree"
+        },
+        {
+            "title": "Antigonus II Gonatas",
+            "url": "https://en.wikipedia.org/wiki/Antigonus_II_Gonatas"
+        },
+        {
+            "title": "Athens under Macedon",
+            "url": "https://en.wikipedia.org/wiki/Athens#Hellenistic_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Parthenon_%2830276156187%29.jpg/300px-Parthenon_%2830276156187%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Parthenon_%2830276156187%29.jpg",
+            "caption": "Parthenon",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chremonidean_War_-_First_Stage_%28267-265_BC%29.tif/300px-Chremonidean_War_-_First_Stage_%28267-265_BC%29.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chremonidean_War_-_First_Stage_%28267-265_BC%29.tif",
+            "caption": "Map of the first stage of the Chremonidean War (267-265 BC)\nScholars disagree...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Antigonus II Gonatas",
+            "summary": "King of Macedonia from 277 BC to 239 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Monnaie_-_T%C3%A9tradrachme%2C_argent%2C_Pella%2C_Mac%C3%A9doine%2C_Antigone_II_Gonatas_-_btv1b8500006s_%281_of_2%29.jpg/250px-Monnaie_-_T%C3%A9tradrachme%2C_argent%2C_Pella%2C_Mac%C3%A9doine%2C_Antigone_II_Gonatas_-_btv1b8500006s_%281_of_2%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antigonus_II_Gonatas"
+        },
+        {
+            "name": "Areus I",
+            "summary": "King of Sparta from 309 to 265",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Areus_I%2C_tetradrachm%2C_265_BC%2C_HGC-606.jpg/250px-Areus_I%2C_tetradrachm%2C_265_BC%2C_HGC-606.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Areus_I"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        },
+        {
+            "name": "Justin (historian)",
+            "summary": "Roman historian, 2nd century",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iustinus_-_ita%2C_negli_anni_dil_signore_MCCCCLXXVII_ali_giorni_X_semptembris_-_913806_Scan00008.jpg/250px-Iustinus_-_ita%2C_negli_anni_dil_signore_MCCCCLXXVII_ali_giorni_X_semptembris_-_913806_Scan00008.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_%28historian%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2119,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:8f52dd625c0bdc374465764e147ba84e0b3fed8b38450e53641f5ecb18e85d23",
+    "summary": "Emperor Justinian I (r. 527–565 AD) was the most ambitious and consequential ruler of the Byzantine Empire — a Macedonian-born emperor who dreamed of restoring the full Roman Empire, came closer to achieving it than anyone since Theodosius I, and left behind a legal, architectural, and theological legacy that shaped Europe for a millennium. Justinian's reign saw the reconquest of North Africa from the Vandals (533 AD), Italy from the Ostrogoths (535–554 AD, [[event:2903|Justinian's Reconquest]]), and southern Spain from the Visigoths — briefly reuniting much of the old western empire under Constantinople's control. The price was devastating: the reconquest of Italy destroyed it, triggering decades of war and population collapse.\n\nJustinian's greatest lasting achievement was the [[event:2121|Corpus Juris Civilis]] (529–534 AD) — a comprehensive codification of Roman law that became the foundation of legal systems across continental Europe. The [[event:2120|Hagia Sophia]] (completed 537 AD) remains one of the greatest architectural achievements in history. His reign was also marked by the devastating [[event:2122|Plague of Justinian]] (541 AD onward), the first documented pandemic of bubonic plague, which killed perhaps a third of the Mediterranean world's population and fatally undermined his reconquest projects. The theological controversies of his reign — particularly his attempts to resolve the Monophysite dispute — produced endless strife. His complex relationship with his wife Empress Theodora (who came from a circus background and proved a formidable political partner) shaped Byzantine court politics throughout the reign.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Justinian_I",
+    "read_more_links": [
+        {
+            "title": "Justinian reconquest campaigns",
+            "url": "https://en.wikipedia.org/wiki/Justinian_I#Reconquest_of_the_West"
+        },
+        {
+            "title": "Empress Theodora partner",
+            "url": "https://en.wikipedia.org/wiki/Theodora_(6th_century)"
+        },
+        {
+            "title": "Justinian theological controversies",
+            "url": "https://en.wikipedia.org/wiki/Justinian_I#Religious_policy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sanvitale03.jpg/300px-Sanvitale03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sanvitale03.jpg",
+            "caption": "Court of Emperor Justinian with Archbishop Maximian of Ravenna and three othe...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sergius_and_Bacchus_Church_February_2011.JPG/300px-Sergius_and_Bacchus_Church_February_2011.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sergius_and_Bacchus_Church_February_2011.JPG",
+            "caption": "Little Hagia Sophia",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Katharinenkloster_Sinai_BW_2.jpg/300px-Katharinenkloster_Sinai_BW_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Katharinenkloster_Sinai_BW_2.jpg",
+            "caption": "Saint Catherine's Monastery, Sinai, Egypt",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg/300px-Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hagia_Irene%2C_Istanbul_%2852112279404%29_%28cropped%29.jpg",
+            "caption": "Eastern Orthodox church located in the outer courtyard of Topkapı Palace. \n\nT...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Justin I",
+            "summary": "Roman emperor from 518 to 527",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Solidus_of_Justin_I_%28obverse%29.jpg/250px-Solidus_of_Justin_I_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_I"
+        },
+        {
+            "name": "Justin II",
+            "summary": "Roman emperor from 565 to 578",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Solidus_of_Justin_II_%28obverse%29.jpg/250px-Solidus_of_Justin_II_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justin_II"
+        },
+        {
+            "name": "J. B. Bury",
+            "summary": "Anglo-Irish historian and classical scholar (1861–1927)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/JBagnellBury.png/250px-JBagnellBury.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J._B._Bury"
+        },
+        {
+            "name": "Theodora (wife of Justinian I)",
+            "summary": "Roman empress from 527 to 548",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Theodora_mosaic_-_Basilica_San_Vitale_%28Ravenna%29_v2.jpg/250px-Theodora_mosaic_-_Basilica_San_Vitale_%28Ravenna%29_v2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodora_%28wife_of_Justinian_I%29"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Belisarius",
+            "summary": "6th-century Byzantine general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Belisarius_mosaic.jpg/250px-Belisarius_mosaic.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Belisarius"
+        }
+    ],
+    "territory_geojson": null
+}

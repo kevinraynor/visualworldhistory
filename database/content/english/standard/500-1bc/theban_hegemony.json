@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1021,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:ba5e61d95add00d82df23b51206a71a46ae9958c406387f667aa88be43256171",
+    "summary": "The Theban Hegemony (371–362 BC) was a brief period of Theban dominance over Greece following the stunning victory at [[event:1020|Battle of Leuctra]], during which Thebes under Epaminondas and Pelopidas became the leading Greek military power. The hegemony demonstrated that Thebes could project power but also exposed the limits of any single polis's ability to impose lasting order on the fractious Greek world.\n\nEpaminondas led multiple campaigns into the Peloponnese, liberating Messenia from Spartan control and founding the city of Megalopolis as a bulwark against Spartan recovery. These acts effectively ended Sparta's ability to field its traditional armies, which depended on helot labor freed by Messenian liberation. Thebes also intervened in Macedonia, taking the young Philip II as a hostage — where he observed Epaminondas's innovative tactics at close range, lessons he would later apply in building his own army. The [[event:1022|Sacred Band of Thebes]] remained undefeated throughout. The hegemony ended at the Battle of Mantinea in 362 BC, where Epaminondas was killed in the moment of victory, depriving Thebes of its indispensable commander and leaving Greece without a clear hegemon.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Theban_hegemony",
+    "read_more_links": [
+        {
+            "title": "Epaminondas",
+            "url": "https://en.wikipedia.org/wiki/Epaminondas"
+        },
+        {
+            "title": "Battle of Mantinea (362 BC)",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Mantinea_(362_BC)"
+        },
+        {
+            "title": "Messenia",
+            "url": "https://en.wikipedia.org/wiki/Messenia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/362BCThebanHegemony.png/300px-362BCThebanHegemony.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/362BCThebanHegemony.png",
+            "caption": "The Theban Hegemony, 371 BC - 362 BC,\nOwn work,data from \n\nThe Theban hegemon...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Thebes%2C_Stater%2C_c.364-362_BC%2C_HGC_1333.jpg/300px-Thebes%2C_Stater%2C_c.364-362_BC%2C_HGC_1333.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Thebes%2C_Stater%2C_c.364-362_BC%2C_HGC_1333.jpg",
+            "caption": "BOEOTIA, Thebes. Circa 364-362 BC. AR Stater (23.5mm, 12.26 g). Epami(nondas)...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Epaminondas",
+            "summary": "Theban general and statesman (419/411–362 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Epaminondas_-_Temple_of_Ancient_Virtue%2C_Stowe_-_Buckinghamshire%2C_England_-_DSC07376_%28cropped%29.jpg/250px-Epaminondas_-_Temple_of_Ancient_Virtue%2C_Stowe_-_Buckinghamshire%2C_England_-_DSC07376_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Epaminondas"
+        },
+        {
+            "name": "Pelopidas",
+            "summary": "4th century BC Theban statesman and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ivanov%2C_Andrey_-_Pelopidas%27s_death_-_1805-1806.jpg/250px-Ivanov%2C_Andrey_-_Pelopidas%27s_death_-_1805-1806.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pelopidas"
+        },
+        {
+            "name": "Philip II of Macedon",
+            "summary": "King of Macedon from 359 to 336 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/250px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        }
+    ],
+    "territory_geojson": null
+}

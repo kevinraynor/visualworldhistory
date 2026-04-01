@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 10,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:c46ba837e3dd37bcd371573163caf1cef89e5adb6753440706698e5337d33671",
+    "summary": "The Jomon culture of the Japanese archipelago produced some of the world's oldest known fired pottery, with radiocarbon-dated examples from sites in Kyushu and Honshu pushing ceramic origins in Japan back to approximately 14,000–12,000 BCE, and widespread production firmly established by 10,000 BCE. The term \"Jomon\" itself means \"cord-marked\" in Japanese, referring to the distinctive decorative technique of pressing twisted cords into wet clay before firing.\n\nThis pottery tradition emerged among a hunter-gatherer-fisher population who had no need of ceramic containers for grain storage — the conventional explanation for pottery origins in agricultural societies. Instead, Jomon pottery was associated primarily with food preparation and cooking, particularly the boiling of shellfish, nuts, and other gathered foods in a resource-rich maritime and forest environment. The Japanese archipelago's abundant natural resources — including rich coastal fisheries, dense nut-bearing forests, and varied game — supported relatively large and settled populations without agriculture, creating unusual conditions for ceramic innovation among non-farming peoples.\n\nJomon pottery underwent continuous stylistic and technical development over thousands of years, eventually producing highly elaborate vessel forms with complex surface decoration. The [[event:1268|Jomon culture]] itself persisted in various forms until approximately 300 BCE, making it one of the longest-lived prehistoric cultural traditions known anywhere in the world. The early emergence of Jomon pottery in Japan challenges simplistic models linking ceramic technology exclusively to agricultural economies.\n\nSimilar early pottery traditions appeared in East Asian mainland contexts, including in China's [[event:6|Yangtze River basin]], suggesting that the advent of fired ceramics was a broad East Asian phenomenon tied to changing subsistence strategies at the end of the Pleistocene rather than a single isolated invention.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_pottery",
+    "read_more_links": [
+        {
+            "title": "Jomon Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period"
+        },
+        {
+            "title": "Jomon Culture - Britannica",
+            "url": "https://www.britannica.com/topic/Jomon-culture"
+        },
+        {
+            "title": "Origins of Pottery - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pottery#History"
+        },
+        {
+            "title": "Prehistoric Japan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Japan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jomon_Flame_Style_Pottery%2C_3000_BC.jpg/300px-Jomon_Flame_Style_Pottery%2C_3000_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Jomon_Flame_Style_Pottery%2C_3000_BC.jpg",
+            "caption": "Jomon flame-style pottery, 3,000 BC, excavated at the Iwanohara site, Niigata...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jomon_Vessel_with_Flame-like_Ornamentation%2C_attributed_provenance_Umataka%2C_Nagaoka-shi%2C_Niigata%2C_Jomon_period%2C_3000-2000_BC_-_Tokyo_National_Museum_-_DSC05620.JPG/300px-Jomon_Vessel_with_Flame-like_Ornamentation%2C_attributed_provenance_Umataka%2C_Nagaoka-shi%2C_Niigata%2C_Jomon_period%2C_3000-2000_BC_-_Tokyo_National_Museum_-_DSC05620.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jomon_Vessel_with_Flame-like_Ornamentation%2C_attributed_provenance_Umataka%2C_Nagaoka-shi%2C_Niigata%2C_Jomon_period%2C_3000-2000_BC_-_Tokyo_National_Museum_-_DSC05620.JPG",
+            "caption": "Exhibit in the Tokyo National Museum, Tokyo, Japan. This artwork is old enoug...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JapaneseJomonPottery_SprayStyle.jpg/300px-JapaneseJomonPottery_SprayStyle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/JapaneseJomonPottery_SprayStyle.jpg",
+            "caption": "Water smokeware used in the Jomon period in Japan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hon%27ami_Koetsu_Fujisan_1.jpg/300px-Hon%27ami_Koetsu_Fujisan_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hon%27ami_Koetsu_Fujisan_1.jpg",
+            "caption": "Hon'ami Koetsu Fujisan 1",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

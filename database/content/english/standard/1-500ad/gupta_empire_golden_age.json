@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3859,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2f38ad7514c5b9b7642a75aff3b8826b918dbd0889d3198d732bf5ff8e655ff5",
+    "summary": "The Gupta Empire Golden Age (c. 320–550 AD) — closely related to [[event:83|gupta_empire_india]] and [[event:2053|indian_golden_age]] — is recorded here as a distinct entry capturing the empire's peak cultural and intellectual achievements during the reigns of Samudragupta (r. 335–375 AD) and Chandragupta II Vikramaditya (r. 375–415 AD). Samudragupta's military campaigns, recorded in his Allahabad Pillar inscription, nearly unified the Indian subcontinent through conquest and suzerainty, while maintaining a sophisticated court culture. His own coins depict him playing the vina, suggesting a ruler who combined military prowess with artistic refinement.\n\nChandragupta II's court at Pataliputra became the greatest center of Sanskrit culture in history — the poet Kālidāsa, the playwright Shudraka, and the physician Sushruta all flourished under his patronage. The Panchatantra fable collection, source of many world folk tale traditions, was compiled in this era. The Nine Gems (Navaratna) — nine exceptional scholars at Chandragupta II's court — represented the ideal of royal patronage of learning. [[event:3552|Gupta mathematics]], [[event:2054|Aryabhata's astronomy]], and [[event:2055|Nalanda University]] were all products of this golden age. The period saw Indian trade networks reaching Southeast Asia, China, and the Roman Empire, spreading Indian cultural influence across much of the ancient world. The [[event:2100|Hephthalite invasions]] after 455 AD progressively undermined Gupta power, and the empire fragmented in the 6th century, but its cultural legacy defined Indian civilization for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gupta_Empire",
+    "read_more_links": [
+        {
+            "title": "Samudragupta Allahabad inscription",
+            "url": "https://en.wikipedia.org/wiki/Allahabad_Pillar"
+        },
+        {
+            "title": "Chandragupta II Vikramaditya",
+            "url": "https://en.wikipedia.org/wiki/Chandragupta_II"
+        },
+        {
+            "title": "Nine Gems Gupta court scholars",
+            "url": "https://en.wikipedia.org/wiki/Navaratna#Historical_context"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gupt_kalin_mandir_bhitargaon.jpg/300px-Gupt_kalin_mandir_bhitargaon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gupt_kalin_mandir_bhitargaon.jpg",
+            "caption": "This is Ancient brick temple (Gupt kalin mandir) in bhitargaon Kanpur.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/KITLV_87946_-_Unknown_-_Pataini_temple_in_British_India_-_1897.tif/300px-KITLV_87946_-_Unknown_-_Pataini_temple_in_British_India_-_1897.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/KITLV_87946_-_Unknown_-_Pataini_temple_in_British_India_-_1897.tif",
+            "caption": "Pataini temple in British India. Entrance and general view of the Jain Temple...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hariti%2C_unfired_clay%2C_remains_of_polychromy_and_gilding%2C_Pakistan_or_Afghanistan%2C_2nd_to_4th_century%2C_Linden-Museum_Stuttgart%2C_Germany%2C_inventory_number_SA_00864_L.jpg/300px-Hariti%2C_unfired_clay%2C_remains_of_polychromy_and_gilding%2C_Pakistan_or_Afghanistan%2C_2nd_to_4th_century%2C_Linden-Museum_Stuttgart%2C_Germany%2C_inventory_number_SA_00864_L.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Hariti%2C_unfired_clay%2C_remains_of_polychromy_and_gilding%2C_Pakistan_or_Afghanistan%2C_2nd_to_4th_century%2C_Linden-Museum_Stuttgart%2C_Germany%2C_inventory_number_SA_00864_L.jpg",
+            "caption": "Hariti, unfired clay, remains of polychromy and gilding, Pakistan or Afghanis...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Standing_Buddha_Installed_by_Buddist_Monk_Yasadinna_-_Circa_5th_Century_CE_-_Jamalpur_Mound_-_ACCN_00-A-5_-_Government_Museum_Mathura_Golden_background.jpg/300px-Standing_Buddha_Installed_by_Buddist_Monk_Yasadinna_-_Circa_5th_Century_CE_-_Jamalpur_Mound_-_ACCN_00-A-5_-_Government_Museum_Mathura_Golden_background.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Standing_Buddha_Installed_by_Buddist_Monk_Yasadinna_-_Circa_5th_Century_CE_-_Jamalpur_Mound_-_ACCN_00-A-5_-_Government_Museum_Mathura_Golden_background.jpg",
+            "caption": "Standing Buddha Installed by Buddist Monk Yasadinna - Circa 5th Century CE - Jamalpur Mound - ACCN 00-A-5 - Government Museum Mathura Golden background",
+            "attribution": "Wikimedia Commons"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Vishnugupta (Gupta Empire)",
+            "summary": "King of the Gupta Dynasty in India",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vishnugupta_Candraditya_Circa_540-550_CE.jpg/250px-Vishnugupta_Candraditya_Circa_540-550_CE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vishnugupta_%28Gupta_Empire%29"
+        },
+        {
+            "name": "D. N. Jha",
+            "summary": "Indian historian (1940–2021)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jha_dn.jpg/250px-Jha_dn.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/D._N._Jha"
+        },
+        {
+            "name": "Chandragupta II",
+            "summary": "Ruler of Indian Empire, c. 375 – c. 415",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ChandraguptaIIOnHorse.jpg/250px-ChandraguptaIIOnHorse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_II"
+        },
+        {
+            "name": "Kalidasa",
+            "summary": "Classical Sanskrit poet, playwright and avatar of Brahma",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kalidasa_inditing_the_cloud_Messenger%2C_A.D._375.jpg/250px-Kalidasa_inditing_the_cloud_Messenger%2C_A.D._375.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kalidasa"
+        },
+        {
+            "name": "Aryabhata",
+            "summary": "Indian mathematician-astronomer (476–550)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aryabhatta_of_Bihar.jpg/250px-Aryabhatta_of_Bihar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aryabhata"
+        }
+    ],
+    "territory_geojson": null
+}

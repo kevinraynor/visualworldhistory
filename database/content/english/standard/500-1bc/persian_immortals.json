@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1239,
+    "parent_id": 71,
+    "granularity": "detailed",
+    "content_hash": "sha256:25dda54cdd8c3284e177aec81eec40f1ecf758d2765e5dc6ce5835a99b025f12",
+    "summary": "The Immortals (Athanatoi in Greek) were the elite infantry corps of the Achaemenid Persian army, a standing force of exactly 10,000 men maintained at permanent strength — whenever a member died or became incapacitated, he was immediately replaced, so the force never appeared to diminish, giving rise to their Greek name. They served as both the personal bodyguard of the Persian king and as the shock infantry of the imperial army.\n\nThe Immortals were primarily Persian and Median in composition, armed with spears, bows, and wicker shields, and wore elaborate robes embroidered with pomegranate or apple motifs. Their appearance at Thermopylae during Xerxes' invasion of Greece, where they were repulsed by the Spartan-led Greek forces before their flanking maneuver succeeded, is their most famous historical appearance. The concept of a maintained elite force of fixed, symbolically significant number influenced later military organizations, and the Immortals' reputation was sufficient that Greek writers described them with a mixture of admiration and fear. Their actual combat effectiveness in the Persian Wars proved somewhat disappointing relative to their prestige.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Immortals_(Achaemenid_Empire)",
+    "read_more_links": [
+        {
+            "title": "Immortals at Thermopylae",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae#Persian_forces"
+        },
+        {
+            "title": "Achaemenid army composition",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_army"
+        },
+        {
+            "title": "Persian military equipment",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_army#Equipment"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Persian_warriors_from_Berlin_Museum.jpg/300px-Persian_warriors_from_Berlin_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Persian_warriors_from_Berlin_Museum.jpg",
+            "caption": "Persian warriors. Pergamon Museum/Vorderasiatisches Museum.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Persepolis_Apadana_noerdliche_Treppe_Detail.jpg/300px-Persepolis_Apadana_noerdliche_Treppe_Detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Persepolis_Apadana_noerdliche_Treppe_Detail.jpg",
+            "caption": "Northern gates, Hall of hundred columns, Persepolis (Iran)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/AchaemenidSoldiers.jpg/300px-AchaemenidSoldiers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/AchaemenidSoldiers.jpg",
+            "caption": "Achaemenid soldiers from the video game, Rome 2 using player created mods.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Heavy infantry",
+            "summary": "Heavily armed and armoured soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Greek_Phalanx.jpg/250px-Greek_Phalanx.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heavy_infantry"
+        },
+        {
+            "name": "Standing army",
+            "summary": "Permanent army composed of full-time career soldiers or conscripts",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/250px-Gari-Melchers-War-Highsmith.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Standing_army"
+        },
+        {
+            "name": "Xenophon",
+            "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/250px-Bust_of_Xenophon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xenophon"
+        },
+        {
+            "name": "Cyrus the Great",
+            "summary": "Founder of the Achaemenid Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/250px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+        },
+        {
+            "name": "Satrap",
+            "summary": "Ruler of a province in ancient Persia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Achaemenid_Satrap_Asia_Minor_end_of_6th_century_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Satrap"
+        }
+    ],
+    "territory_geojson": null
+}

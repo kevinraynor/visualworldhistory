@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2054,
+    "parent_id": 83,
+    "granularity": "detailed",
+    "content_hash": "sha256:a5f1a89b73ef6c63f4947c3ce6f3fddbcc64f4fcb4ee9318710213665047b8c5",
+    "summary": "Aryabhata (476–c. 550 AD) was the greatest mathematician and astronomer of the Gupta period and arguably the most important scientist in the ancient world after Archimedes and Hipparchus. Working in Kusumapura (modern Patna), he produced the Aryabhatiya at age 23 — a concise Sanskrit treatise covering arithmetic, algebra, plane and spherical trigonometry, and astronomy that was so influential it spawned a tradition of commentaries for over a thousand years. His mathematical innovations included a place-value system, approximation of pi as 3.1416 (accurate to four decimal places), trigonometric functions (sine tables), and solutions to indeterminate equations.\n\nAryabhata's astronomical insights were equally revolutionary and remarkably modern in several respects. He correctly proposed that the apparent rotation of the heavens is caused by the Earth rotating on its own axis — a heliocentric intuition that ran counter to the prevailing geocentric model. He calculated the sidereal rotation of the Earth (23 hours, 56 minutes, 4 seconds — accurate to within a few seconds of the modern value), gave reasonably accurate values for the size and distance of the Moon, and developed a sophisticated model of planetary motions with epicycles. His explanation of eclipses as shadows — rather than demons swallowing the sun — represented a demythologization of natural phenomena. The Aryabhatiya was translated into Arabic in the 9th century, and Aryabhata's mathematical system profoundly influenced Islamic and eventually European mathematics.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aryabhata",
+    "read_more_links": [
+        {
+            "title": "Aryabhatiya text",
+            "url": "https://en.wikipedia.org/wiki/Aryabhatiya"
+        },
+        {
+            "title": "Aryabhata heliocentric model",
+            "url": "https://en.wikipedia.org/wiki/Aryabhata#Heliocentrism"
+        },
+        {
+            "title": "Indian mathematics history",
+            "url": "https://en.wikipedia.org/wiki/Indian_mathematics"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Aryabhatta_of_Bihar.jpg/300px-Aryabhatta_of_Bihar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Aryabhatta_of_Bihar.jpg",
+            "caption": "Aryabhatta.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aryabhata_Satellite.jpg/300px-Aryabhata_Satellite.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Aryabhata_Satellite.jpg",
+            "caption": "Aryabhata was India's first satellite and was designed for studies of X-ray a...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Aryabhata.jpeg/300px-Aryabhata.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Aryabhata.jpeg",
+            "caption": "Aryabhata",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Astronomer",
+            "summary": "Scientist in the field of astronomy",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg/250px-IAU_2006_General_Assembly-_Result_of_the_IAU_Resolution_Votes_%28iau0603g%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Astronomer"
+        }
+    ],
+    "territory_geojson": null
+}

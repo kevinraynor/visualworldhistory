@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1620,
+    "parent_id": 1619,
+    "granularity": "notable",
+    "content_hash": "sha256:6c6f0419ad6cdbed7e313a7d2ddfc7519e59abbed49eaa5f8939c595a1da874e",
+    "summary": "Proto-cuneiform tablets, produced between approximately 3500 and 3200 BCE in the city of [[event:1618|Uruk]] and a handful of related sites, constitute the world's oldest known written documents. These small clay tablets, impressed with a stylus before being dried or occasionally fired, bear pictographic signs representing commodities, numbers, and administrative categories. They represent the crucial transition point between prehistoric accounting methods (such as clay tokens and notched bones) and the fully developed [[event:1619|cuneiform writing]] system that would follow.\n\nOver five thousand proto-cuneiform tablets have been recovered primarily from the Eanna precinct at Uruk. The tablets are overwhelmingly administrative in content — records of grain distributions, animal inventories, lists of workers and their rations, and allocations of commodities such as beer, cloth, and metal. There are no narrative texts, no religious literature, and no royal decrees among the proto-cuneiform corpus: the system was invented purely to manage the economic activities of the temple institutions that dominated Uruk's urban economy.\n\nThe signs on proto-cuneiform tablets are largely pictographic — a fish is represented by a fish shape, a head by a human head, an ox by a bovine head. However, even at this early stage, some degree of abstraction and conventionalization is visible, and certain signs appear to represent spoken words rather than objects, suggesting the beginnings of phonetic extension. The numerical systems embedded in the tablets were surprisingly sophisticated, using different notation systems for different commodity types (one system for discrete objects like animals, another for capacity measures of grain).\n\nProto-cuneiform represents a stage of writing that was functional but incomplete — it could record what, how many, and from whom, but could not yet represent full grammatical sentences or proper narratives. The transition to fully phonetic writing over the following centuries freed writing from this administrative constraint and enabled the explosion of literary, legal, and theological texts that characterize mature Sumerian and Akkadian civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Proto-cuneiform",
+    "read_more_links": [
+        {
+            "title": "Cuneiform Digital Library Initiative",
+            "url": "https://cdli.mpiwg-berlin.mpg.de/"
+        },
+        {
+            "title": "History of Writing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_writing"
+        },
+        {
+            "title": "Uruk Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Uruk_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jetons_de_formes_diverses_Suse.jpg/300px-Jetons_de_formes_diverses_Suse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Jetons_de_formes_diverses_Suse.jpg",
+            "caption": "Jetons de comptabilité de formes diverses : jarre, tête de bélier, pain et ob...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure%2C_hunting_dogs%2C_and_boars_MET_DT847.jpg/300px-Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure%2C_hunting_dogs%2C_and_boars_MET_DT847.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cuneiform_tablet-_administrative_account_of_barley_distribution_with_cylinder_seal_impression_of_a_male_figure%2C_hunting_dogs%2C_and_boars_MET_DT847.jpg",
+            "caption": "Sumerian; Cuneiform tablet; Clay-Tablets-Inscribed-Seal Impressions",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Clay_tablet%2C_beer_for_the_workers._Temples_issued_workers_with_daily_rations_of_barely_beer%2C_the_staple_drink_of_Mesopotamia._Late_Uruk_period%2C_3000-3100_BCE._Purchased_via_Christie%27s_in_1989.jpg/300px-Clay_tablet%2C_beer_for_the_workers._Temples_issued_workers_with_daily_rations_of_barely_beer%2C_the_staple_drink_of_Mesopotamia._Late_Uruk_period%2C_3000-3100_BCE._Purchased_via_Christie%27s_in_1989.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Clay_tablet%2C_beer_for_the_workers._Temples_issued_workers_with_daily_rations_of_barely_beer%2C_the_staple_drink_of_Mesopotamia._Late_Uruk_period%2C_3000-3100_BCE._Purchased_via_Christie%27s_in_1989.jpg",
+            "caption": "Clay tablet, beer for the workers, proto-cuneiform. Temples issued workers wi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Clay_tablet._A_five-day_ration_list._Each_line_of_cunieform_text_mentions_rations_for_one_day._The_sign_for_%22day%22_and_the_numbers_1-5_are_easily_identifiable._Probably_from_Jemdet-Nasr%2C_Iraq._Circa_3000_BCE.jpg/300px-Clay_tablet._A_five-day_ration_list._Each_line_of_cunieform_text_mentions_rations_for_one_day._The_sign_for_%22day%22_and_the_numbers_1-5_are_easily_identifiable._Probably_from_Jemdet-Nasr%2C_Iraq._Circa_3000_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Clay_tablet._A_five-day_ration_list._Each_line_of_cunieform_text_mentions_rations_for_one_day._The_sign_for_%22day%22_and_the_numbers_1-5_are_easily_identifiable._Probably_from_Jemdet-Nasr%2C_Iraq._Circa_3000_BCE.jpg",
+            "caption": "Clay tablet. A five-day ration list. Each line of proto-cuneiform text mentio...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sumerian King List",
+            "summary": "Ancient text listing Sumerian Kingships",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg/250px-Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sumerian_King_List"
+        },
+        {
+            "name": "Number",
+            "summary": "Used to count, measure, and label",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NumberSetinR2.svg/250px-NumberSetinR2.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Number"
+        },
+        {
+            "name": "Jack Goody",
+            "summary": "English social anthropologist (1919–2015)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sir_John_Rankine_Goody_%282009%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Goody"
+        }
+    ],
+    "territory_geojson": null
+}

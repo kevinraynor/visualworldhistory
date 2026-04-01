@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 29,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8d677a08140a8e178e8473437b49d56d115a9d849457e1677ec019b93dc272d0",
+    "summary": "Prehistoric pile-dwelling settlements, popularly known as lake dwellings or stilt houses, were established along the shores and shallow waters of Alpine lakes in Switzerland, southern Germany, Austria, northern Italy, France, and Slovenia from around 5000 BCE, with some evidence of earlier precursor activity. These communities built their structures on wooden platforms elevated above the water's edge or directly over shallow lake margins, using thousands of wooden piles driven into the lake bed. The waterlogged conditions that resulted from this construction have preserved organic materials — wood, textiles, plant remains, leather, and even food — to a remarkable degree, providing exceptionally detailed evidence of prehistoric daily life.\n\nThe Alpine lake dwellings are now recognized as a UNESCO World Heritage Site (inscribed 2011) due to their extraordinary archaeological significance. Excavations and underwater surveys at sites such as Hornstaad-Hörnle, Zurich-Mozartstrasse, and numerous others in the Circum-Alpine region have yielded some of the best-preserved evidence of Neolithic and Bronze Age material culture in Europe. The assemblages include sophisticated wooden tools and furniture, elaborate textiles, basketry, cultivated grain, fruit, and nuts, providing a three-dimensional reconstruction of prehistoric life that open-air sites rarely permit.\n\nThe communities that built these lake dwellings were primarily farming villages relying on the cultivation of emmer wheat, einkorn, millet, and other crops alongside the herding of cattle, sheep, goats, and pigs. Fishing supplemented the diet significantly, taking advantage of the rich aquatic resources of Alpine lakes. The repeated rebuilding of settlements following fires or deterioration produced archaeological layers of considerable depth at some sites, enabling detailed chronological reconstruction of community history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prehistoric_pile_dwellings_around_the_Alps",
+    "read_more_links": [
+        {
+            "title": "Lake Dwellings - Britannica",
+            "url": "https://www.britannica.com/topic/lake-dwelling"
+        },
+        {
+            "title": "Neolithic Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        },
+        {
+            "title": "Swiss Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Switzerland"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pfahlbaumuseum_Unteruhldingen-07.jpg/300px-Pfahlbaumuseum_Unteruhldingen-07.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Pfahlbaumuseum_Unteruhldingen-07.jpg",
+            "caption": "Pfahlbaumuseum Unteruhldingen, Freilichtmuseum am Bodensee, in der Gemeinde U...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Italien%2C_Molina_di_Ledro_by_Niederkasseler_-_panoramio.jpg/300px-Italien%2C_Molina_di_Ledro_by_Niederkasseler_-_panoramio.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Italien%2C_Molina_di_Ledro_by_Niederkasseler_-_panoramio.jpg",
+            "caption": "Italien, Molina di Ledro by Niederkasseler",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Modell_Pfyn_Breitenloo_P1020773.jpg/300px-Modell_Pfyn_Breitenloo_P1020773.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Modell_Pfyn_Breitenloo_P1020773.jpg",
+            "caption": "Breitenloo (prähistorische Seeufersiedlung) Siedlungsmodell von Christoph Mül...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Swiss_prehistoric_lake_dwellings._Wellcome_M0015374.jpg/300px-Swiss_prehistoric_lake_dwellings._Wellcome_M0015374.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Swiss_prehistoric_lake_dwellings._Wellcome_M0015374.jpg",
+            "caption": "Swiss prehistoric lake dwellings. as pictorially restored by A. de Mortillet....",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

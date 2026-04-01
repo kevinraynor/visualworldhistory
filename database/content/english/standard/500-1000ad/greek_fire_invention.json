@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2205,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:cb853c2b56ffa65f90a6a66f971232bb3fce4b70aadc0c59bfc0e63a010abd3b",
+    "summary": "Greek fire (developed c. 672 AD, reputedly by Callinicus of Heliopolis, a refugee engineer from Syria) was the most feared weapon of medieval warfare — a liquid incendiary that could burn on water, was extremely difficult to extinguish, and was projected from siphon tubes fitted to Byzantine warships, creating what contemporary sources described as 'liquid fire' flowing across the sea surface. The precise formula was a Byzantine state secret guarded so closely that it was lost after the empire's weakening (and possibly deliberately destroyed), and remains unknown today — modern scholars debate whether it was based on naphtha, quicklime, saltpeter, or some combination.\n\nGreek fire was decisively employed in the defense of Constantinople: it destroyed Arab fleets at the [[event:2954|first siege]] (674–678 AD) and the [[event:2203|second siege]] (717–718 AD), making the Bosphorus nearly impassable for enemy ships. Byzantine sources describe the weapon with an almost religious awe — it could not be extinguished by water (which may have actually accelerated it) but only by vinegar, old urine, or sand. The weapon's deterrent effect may have been as important as its physical application: awareness that Constantinople possessed this secret weapon made naval assaults extremely costly. The formula's secret was one of Byzantium's most carefully guarded state secrets; emperors were instructed never to reveal it to foreigners, and it was never successfully copied by enemies during the Byzantine period. The loss of the secret with Byzantine decline is a rare case of a powerful technology being permanently lost.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greek_fire",
+    "read_more_links": [
+        {
+            "title": "Greek fire formula debate",
+            "url": "https://en.wikipedia.org/wiki/Greek_fire#Composition"
+        },
+        {
+            "title": "Callinicus inventor Greek fire",
+            "url": "https://en.wikipedia.org/wiki/Kallinikos_of_Heliopolis"
+        },
+        {
+            "title": "Greek fire naval warfare use",
+            "url": "https://en.wikipedia.org/wiki/Greek_fire#Usage"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/300px-Greekfire-madridskylitzes1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Greekfire-madridskylitzes1.jpg",
+            "caption": "Image from an illuminated manuscript, the Madrid Skylitzes, showing Greek fir...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Liquid_fire_granades_Chania.jpg/300px-Liquid_fire_granades_Chania.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Liquid_fire_granades_Chania.jpg",
+            "caption": "Grenades that were filled with liquid fire (Υγρό Πυρ) and caltrops from the f...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hand-siphon_for_Greek_fire%2C_medieval_illumination.jpg/300px-Hand-siphon_for_Greek_fire%2C_medieval_illumination.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hand-siphon_for_Greek_fire%2C_medieval_illumination.jpg",
+            "caption": "Use of a hand-siphon, a portable flame-thrower, from a siege tower equipped w...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fighting_between_Byzantines_and_Arabs_Chronikon_of_Ioannis_Skylitzes%2C_end_of_13th_century..jpg/300px-Fighting_between_Byzantines_and_Arabs_Chronikon_of_Ioannis_Skylitzes%2C_end_of_13th_century..jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Fighting_between_Byzantines_and_Arabs_Chronikon_of_Ioannis_Skylitzes%2C_end_of_13th_century..jpg",
+            "caption": "Clash between Byzantines and Arabs at the Battle of Lalakaon (863) and defeat...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thomas the Slav",
+            "summary": "Byzantine military commander (c. 760–823)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Thomas_the_Slav_negotiates_with_the_Arabs.jpg/250px-Thomas_the_Slav_negotiates_with_the_Arabs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_the_Slav"
+        },
+        {
+            "name": "Callinicus of Heliopolis",
+            "summary": "Byzantine architect and chemist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/250px-Greekfire-madridskylitzes1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Callinicus_of_Heliopolis"
+        },
+        {
+            "name": "Theophanes the Confessor",
+            "summary": "Byzantine aristocrat, monk and historian (c.758/60–c.817/8)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Athonite_Icon_of_Saint_Theophanes_the_Confessor_of_Megalos_Agros_3.jpg/250px-Athonite_Icon_of_Saint_Theophanes_the_Confessor_of_Megalos_Agros_3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theophanes_the_Confessor"
+        },
+        {
+            "name": "Constantine VII",
+            "summary": "Byzantine emperor from 913 to 959",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Constantine_VII_Porphyrogenitus_%282%29.jpeg/250px-Constantine_VII_Porphyrogenitus_%282%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_VII"
+        },
+        {
+            "name": "Romanos II",
+            "summary": "Byzantine emperor from 959 to 963",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Romanos_et_Eudoxie_%28cropped2%29.JPG/250px-Romanos_et_Eudoxie_%28cropped2%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romanos_II"
+        }
+    ],
+    "territory_geojson": null
+}

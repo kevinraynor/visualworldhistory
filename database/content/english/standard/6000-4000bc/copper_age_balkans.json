@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3597,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a8cb522f23a7e135c15d40b7243a05bed5725aee9fc712760ec7b39f7ffa1187",
+    "summary": "The Chalcolithic or Copper Age of the Balkans (approximately 5500–3500 BC) represents one of the earliest and most sophisticated centers of metallurgical development in the prehistoric world. Communities across present-day Bulgaria, Serbia, Romania, and neighboring areas exploited rich local ore deposits to mine, smelt, and cast copper objects on a scale unmatched anywhere at the time. The [[event:1567|earliest copper mines in the Balkans]], such as Rudna Glava in Serbia and [[event:1569|Ai Bunar]] in Bulgaria, were among the first true mining operations in human history.\n\nCopper objects produced in the Balkans during this period range from functional tools such as axes and chisels to elaborate ornamental items. The [[event:1559|Varna Necropolis]] in Bulgaria, dating to around 4600–4200 BC, contains the earliest known substantial assemblage of gold artifacts alongside copper objects, demonstrating the wealth and social stratification of Copper Age Balkan communities. These metallurgical traditions spread influences westward and northward across Europe, contributing to the broader continental transition from stone to metal technology.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chalcolithic",
+    "read_more_links": [
+        {
+            "title": "Varna Necropolis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Varna_Necropolis"
+        },
+        {
+            "title": "Rudna Glava copper mine - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rudna_Glava"
+        },
+        {
+            "title": "Copper Age Europe - Britannica",
+            "url": "https://www.britannica.com/topic/Copper-Age"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg/300px-Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg",
+            "caption": "Chalcolithic Male Figurine, 4500-3500 BCE",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Copper_Funnel_Beaker_Culture.png/300px-Copper_Funnel_Beaker_Culture.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Copper_Funnel_Beaker_Culture.png",
+            "caption": "The number of metal artefacts in northern Germany during the Neolithic and ea...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Los_Millares_recreacion_cuadro.jpg/300px-Los_Millares_recreacion_cuadro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Los_Millares_recreacion_cuadro.jpg",
+            "caption": "Pintura situada en el centro de recepción de visitantes de los Millares.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ferenc Pulszky",
+            "summary": "Hungarian politician and writer (1814–1897)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Horovitz_Portrait_of_Ferenc_Pulszky_1890.jpg/250px-Horovitz_Portrait_of_Ferenc_Pulszky_1890.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferenc_Pulszky"
+        },
+        {
+            "name": "Gaetano Chierici",
+            "summary": "Italian painter (1838–1920)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gaetano_Chierici_-_Self-portrait_in_Uffizi.jpg/250px-Gaetano_Chierici_-_Self-portrait_in_Uffizi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaetano_Chierici"
+        }
+    ],
+    "territory_geojson": null
+}

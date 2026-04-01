@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3319,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:837f0fd965429459500799b959a65ea6534628cfb7a73706f1eddb76b9fc7b05",
+    "summary": "The Russian Revolution of 1905 was a wave of political unrest, strikes, and armed insurrection that shook the Russian Empire following the humiliating military defeat in the Russo-Japanese War and the massacre of peaceful demonstrators on Bloody Sunday (January 22, 1905), when imperial troops fired on a crowd of workers marching to petition Tsar Nicholas II at the Winter Palace in St. Petersburg. The events shattered popular faith in the tsar's benevolent authority and triggered a nationwide crisis that the regime nearly did not survive.\n\nThe revolution took diverse forms: massive industrial strikes that paralyzed the country in October 1905 forced the tsar to issue the October Manifesto, which promised a constitutional government, civil liberties, and an elected legislature (the Duma). Revolutionary soviets (workers' councils) emerged in St. Petersburg and other cities, providing an organizational form that would be revived during the [[event:2646|October Revolution]] of 1917. Armed uprisings occurred in Moscow and other cities in December 1905 but were suppressed by loyal troops.\n\nThe revolution produced a fundamental change in Russia's political structure. The October Manifesto created the conditions for Russia's first parliament, though the tsar retained extensive powers and subsequently used emergency decrees to limit the Duma's authority. The Stolypin land reforms attempted to address agrarian discontent. However, the underlying tensions — between autocracy and representative government, between Russia's modernizing economic needs and its conservative political structure — were not resolved, setting the stage for the more decisive revolutions of 1917.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Russian_Revolution_of_1905",
+    "read_more_links": [
+        {
+            "title": "1905 Revolution - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Russian-Revolution-of-1905"
+        },
+        {
+            "title": "Bloody Sunday 1905 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bloody_Sunday_(1905)"
+        },
+        {
+            "title": "October Manifesto - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/October_Manifesto"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Repin_17October.jpg/300px-Repin_17October.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Repin_17October.jpg",
+            "caption": "Repin 17October",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Two_Struggling_Soldiers_memorial_in_Riga_%288228844765%29.jpg/300px-Two_Struggling_Soldiers_memorial_in_Riga_%288228844765%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Two_Struggling_Soldiers_memorial_in_Riga_%288228844765%29.jpg",
+            "caption": "Two Struggling Soldiers memorial commemorating the 1905 revolution, Riga, Latvia",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tiflis_railway_strike_1905.jpg/300px-Tiflis_railway_strike_1905.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Tiflis_railway_strike_1905.jpg",
+            "caption": "A train overturned by striking workers at the main railway depot in Tiflis. 1905",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Odessa_Potemkin_mutiny_%28cropped%29.jpg/300px-Odessa_Potemkin_mutiny_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Odessa_Potemkin_mutiny_%28cropped%29.jpg",
+            "caption": "Old Carte Postale (Open Letter) with view of ruins of burned Odessa port and ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Coup of June 1907",
+            "summary": "Counter revolutionary move to curtail the elections for the Duma",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Members_of_Duma_are_drafting_a_reply_to_Stolypin.jpeg/250px-Members_of_Duma_are_drafting_a_reply_to_Stolypin.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coup_of_June_1907"
+        },
+        {
+            "name": "Saint Petersburg Soviet",
+            "summary": "1905 workers' council in Saint Petersburg",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82_%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D1%85_%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%281905%29.jpg/250px-%D0%A1%D0%BE%D0%B2%D0%B5%D1%82_%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D1%85_%D0%B4%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D1%82%D0%BE%D0%B2_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%281905%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Petersburg_Soviet"
+        },
+        {
+            "name": "Viktor Chernov",
+            "summary": "Russian politician (1873–1952)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portrait_of_Minister_VM_Chernov_Trim_Edit.jpg/250px-Portrait_of_Minister_VM_Chernov_Trim_Edit.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Viktor_Chernov"
+        },
+        {
+            "name": "Leon Trotsky",
+            "summary": "Soviet politician and revolutionary (1879–1940)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg/250px-Leon_Trotsky_1918_%283x4_rotated_cropped_b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leon_Trotsky"
+        },
+        {
+            "name": "Pavel Milyukov",
+            "summary": "Russian historian and politician (1859–1943)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pavel_Milyukov_2.jpg/250px-Pavel_Milyukov_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pavel_Milyukov"
+        },
+        {
+            "name": "Wojciech Kossak",
+            "summary": "Polish painter (1856–1942)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/PL_Wojciech_Kossak_Autoportret_z_paleta.jpg/250px-PL_Wojciech_Kossak_Autoportret_z_paleta.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wojciech_Kossak"
+        }
+    ],
+    "territory_geojson": null
+}

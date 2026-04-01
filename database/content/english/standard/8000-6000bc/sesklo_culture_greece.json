@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1416,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:fc681f2214024083bf6697d811fa4f53debdfca06b65c04d321d7b2ab1814509",
+    "summary": "The Sesklo culture, named after the site of Sesklo in Thessaly, central Greece, was one of the earliest farming cultures of Greece and the southern Balkans, flourishing from approximately 6800 to 6000 BCE. It represents the initial establishment of the agricultural way of life in southeastern Europe and provides important evidence for how Neolithic communities from Anatolia established themselves in European territory as part of the broader [[event:21|spread of agriculture into Europe]].\n\nSesklo is best known for its distinctive painted pottery, featuring geometric designs in red on a white or cream background, which represents one of the earliest traditions of fine polychrome ceramics in Europe. The ceramic tradition is sophisticated enough to suggest that the Sesklo people brought established pottery-making skills with them from their Anatolian origins rather than developing the craft independently in Greece. The settlement of Sesklo itself, excavated by Greek archaeologist Christos Tsountas beginning in the late nineteenth century and by Demetrios Theocharis in the twentieth century, reveals a substantial village with stone-built and mud-brick houses arranged in an organized layout.\n\nGenetic evidence has confirmed that early Greek Neolithic populations like those associated with Sesklo were descended primarily from Anatolian farmers who crossed the Aegean Sea, displacing or absorbing the sparse Mesolithic hunter-gatherer populations of Greece. These early farming communities brought with them a complete agricultural package including emmer wheat, einkorn, lentils, and domesticated sheep, goats, and cattle. The Sesklo culture set the foundation for subsequent Neolithic cultures of the Balkans, including the successor [[event:1483|Dimini culture]] that would emerge in the same region in the later Neolithic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sesklo",
+    "read_more_links": [
+        {
+            "title": "Neolithic Greece - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Greece"
+        },
+        {
+            "title": "Dimini Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dimini_culture"
+        },
+        {
+            "title": "Neolithic Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        },
+        {
+            "title": "Prehistoric Greece - Britannica",
+            "url": "https://www.britannica.com/place/Greece/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ancient_Greece_Neolithic_Pottery.jpg/300px-Ancient_Greece_Neolithic_Pottery.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ancient_Greece_Neolithic_Pottery.jpg",
+            "caption": "Greek Prehistory Gallery, National Museum of Archaeology, Athens, Greece. Com...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%CE%9D%CE%95%CE%9F%CE%9B%CE%99%CE%98%CE%99%CE%9A%CE%9F%CE%A3_%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%A3%CE%9C%CE%9F%CE%A3.jpg/300px-%CE%9D%CE%95%CE%9F%CE%9B%CE%99%CE%98%CE%99%CE%9A%CE%9F%CE%A3_%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%A3%CE%9C%CE%9F%CE%A3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%CE%9D%CE%95%CE%9F%CE%9B%CE%99%CE%98%CE%99%CE%9A%CE%9F%CE%A3_%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%A3%CE%9C%CE%9F%CE%A3.jpg",
+            "caption": "Πρόκειται για τμήμα οικίας που ανασκάφτηκε στο λόφο του Νεολιθικού Πολιτισμού...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Ancient_Greece_Neolithic_Pottery_-_28171056730.jpg/300px-Ancient_Greece_Neolithic_Pottery_-_28171056730.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ancient_Greece_Neolithic_Pottery_-_28171056730.jpg",
+            "caption": "Sesklo and Dimini Late Neolithic Pottery 5300-4500 BC. Greek Prehistory Galle...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sesklo_DSC_2020a.jpg/300px-Sesklo_DSC_2020a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sesklo_DSC_2020a.jpg",
+            "caption": "Σέσκλο, γενική άποψη",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2493,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b64fa3105d61d0854d4cd837e67df85840c01aaf3c13a7b4e9c54629466f1bc8",
+    "summary": "The Peace of Augsburg (September 25, 1555 AD) was the religious settlement negotiated by the Diet of the Holy Roman Empire that temporarily resolved the conflict between Catholic and Lutheran princes by establishing the principle of cuius regio, eius religio ('whose realm, his religion') — giving each prince the right to determine the religion of his territory and his subjects. Subjects who disagreed with their prince's religious choice could emigrate. This settlement, negotiated in Emperor [[event:2497|Charles V's]] absence by his brother Ferdinand, was a pragmatic compromise that recognized the permanence of Lutheranism within the Empire — the first such official recognition of a Protestant confession in Catholic-ruled territory.\n\nThe Peace of Augsburg established religious plurality in Germany for over half a century, but contained fatal weaknesses. It recognized only Lutheranism (not Calvinism, which was spreading rapidly) and Catholics; Calvinists were left in legal limbo, creating growing tensions. The ecclesiastical reservation clause — which attempted to prevent Catholic church property from being secularized — was immediately contested. As Calvinism spread into the Palatinate and other German territories, the settlement's binary Catholic-Lutheran framework became increasingly untenable. These unresolved tensions, combined with the broader European religious conflicts of the late 16th and early 17th centuries, eventually produced the [[event:2328|Thirty Years' War]] (1618–1648), which effectively destroyed the Augsburg settlement and required the far more comprehensive [[event:2329|Peace of Westphalia]] to settle the question of religious coexistence in the Empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peace_of_Augsburg",
+    "read_more_links": [
+        {
+            "title": "Cuius regio eius religio principle ruler religion subjects",
+            "url": "https://en.wikipedia.org/wiki/Cuius_regio,_eius_religio"
+        },
+        {
+            "title": "Ecclesiastical reservation clause Catholic property Peace Augsburg",
+            "url": "https://en.wikipedia.org/wiki/Peace_of_Augsburg#Terms"
+        },
+        {
+            "title": "Calvinism spread Germany Peace Augsburg failure Thirty Years War",
+            "url": "https://en.wikipedia.org/wiki/Peace_of_Augsburg#Weaknesses"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Druck_Augsburger_Reichsfrieden.jpg/300px-Druck_Augsburger_Reichsfrieden.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Druck_Augsburger_Reichsfrieden.jpg",
+            "caption": "Title page of the print of the Augsburg Imperial and Religious Peace\nSay good...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles V, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1519 to 1556",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg/250px-Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_V%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Augsburg Interim",
+            "summary": "1548 religious decree of Emperor Charles V",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Deutschland_im_XVI._Jahrhundert_%28Putzger%29.jpg/250px-Deutschland_im_XVI._Jahrhundert_%28Putzger%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augsburg_Interim"
+        },
+        {
+            "name": "Ferdinand I, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1556 to 1564",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hans_Bocksberger_der_Aeltere_001.jpg/250px-Hans_Bocksberger_der_Aeltere_001.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_I%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Edict of Restitution",
+            "summary": "1629 edict of Emperor Ferdinand II",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Editto_di_restituzione_%281%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edict_of_Restitution"
+        },
+        {
+            "name": "Peace of Prague (1635)",
+            "summary": "Saxony makes peace with Emperor Ferdinand",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Johann_Georg_I_Saxony.jpg/250px-Johann_Georg_I_Saxony.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peace_of_Prague_%281635%29"
+        },
+        {
+            "name": "Steven Ozment",
+            "summary": "American historian (1939–2019)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nuernberg_schedel.JPG/250px-Nuernberg_schedel.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Steven_Ozment"
+        }
+    ],
+    "territory_geojson": null
+}

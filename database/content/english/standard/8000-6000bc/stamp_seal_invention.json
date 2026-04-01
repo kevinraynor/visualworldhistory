@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1460,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a4d75eb3ddfb7d52362f2b8022a9ba5e0475b723010c200ffb9e08032b516b37",
+    "summary": "Stamp seals — small objects of stone, bone, or clay bearing a carved design on one face that could be pressed into soft clay to leave an impression — appeared in the Near East from approximately 7000 BCE onward and represent a significant step toward the administrative and communicative technologies that would eventually produce writing. The earliest stamp seals are found at sites across Anatolia and the Levant, including at [[event:11|Çatalhöyük]] and related Neolithic communities, where they functioned as markers of identity, ownership, or authentication.\n\nThe practical function of stamp seals is generally understood to have been the marking of containers, door closures, or commodities to indicate ownership or authorize the handling of goods. By pressing a seal into wet clay applied over a jar stopper or rope knot, a community member could leave a distinctive mark identifying their goods or authority. This function presupposes the existence of material goods worth protecting and social conventions recognizing individual or institutional ownership — hallmarks of increasingly complex Neolithic communities.\n\nStamp seals become more elaborate and widespread in subsequent millennia, particularly in the Chalcolithic and early Bronze Age contexts of Mesopotamia and Iran, where they were eventually supplemented and then replaced by cylinder seals. The stamp seal tradition represents an important precursor in the long technological lineage leading toward writing and formal record-keeping systems, which would emerge in Mesopotamia by around 3400 BCE.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stamp_seal",
+    "read_more_links": [
+        {
+            "title": "Cylinder Seal - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cylinder_seal"
+        },
+        {
+            "title": "History of Writing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_writing"
+        },
+        {
+            "title": "Neolithic Near East - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Near_East"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scarab%C3%A9e_-_cachet_-_1700-1550_av._J.-C._-_J%C3%A9richo_palais_-_Louvre_-_AO_17132.jpg/300px-Scarab%C3%A9e_-_cachet_-_1700-1550_av._J.-C._-_J%C3%A9richo_palais_-_Louvre_-_AO_17132.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Scarab%C3%A9e_-_cachet_-_1700-1550_av._J.-C._-_J%C3%A9richo_palais_-_Louvre_-_AO_17132.jpg",
+            "caption": ".mw-parser-output table.commons-file-information-table,.mw-parser-output .fil...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Signaculum_PRIMIT_%28Louvre%2C_Br_4035%29.jpg/300px-Signaculum_PRIMIT_%28Louvre%2C_Br_4035%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Signaculum_PRIMIT_%28Louvre%2C_Br_4035%29.jpg",
+            "caption": "Signaculum PRIMIT (=First). The signaculums were used to affix the mark of th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Indus_stamp-seal.jpg/300px-Indus_stamp-seal.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Indus_stamp-seal.jpg",
+            "caption": "Indus stamp-seal 2500BC-2000BC. This stamp featured in the BBC/BM radio serie...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cylinder_seals_and_stamps_REM.JPG/300px-Cylinder_seals_and_stamps_REM.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cylinder_seals_and_stamps_REM.JPG",
+            "caption": "Various cylinder seals and stamps (various time periods) made of stone, terra...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

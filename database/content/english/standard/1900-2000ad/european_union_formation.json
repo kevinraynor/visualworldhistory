@@ -1,0 +1,84 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 115,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:60bea47d06dcdf4649ca75e7e6106eb8058417aec520649209e45598b75d72a6",
+    "summary": "The European Union emerged from a deliberate post-war project to bind European nations together so tightly that war between them would become not merely unlikely but structurally impossible. After the devastation of two world wars in three decades, European statesmen such as Jean Monnet, Robert Schuman, and Konrad Adenauer concluded that the continent's cycle of violence could only be broken through economic and political integration. The process began in 1951 with the European Coal and Steel Community, placing the industrial materials of war under shared supranational control.\n\nThe pivotal step came with the 1957 Treaty of Rome, which established the European Economic Community (EEC) among six founding members: France, West Germany, Italy, Belgium, the Netherlands, and Luxembourg. The EEC created a common market with free movement of goods, services, capital, and people — an unprecedented degree of economic integration between sovereign states. Britain, skeptical of supranational commitments, initially stood apart, joining only in 1973 after two vetoes by France's de Gaulle.\n\nThe [[event:3383|Maastricht Treaty]] of 1992 transformed the EEC into the European Union proper, deepening integration into political, judicial, and monetary domains and establishing the framework for a common currency. The [[event:3384|euro]] was introduced as an accounting currency in 1999 and as physical notes and coins in 2002, replacing the national currencies of twelve member states. The [[event:3487|Schengen Agreement]], implemented across most member states, abolished border controls within the zone, allowing free movement without passports.\n\nThe EU's enlargement from six to fifteen members by 1995 — and eventually to twenty-seven and beyond after the Cold War — demonstrated the project's attractive power across the continent. Former Warsaw Pact countries in Central and Eastern Europe queued to join, viewing membership as an anchor to democracy, the rule of law, and prosperity. The EU also developed a Common Foreign and Security Policy, and played important roles in the aftermath of the [[event:2696|Yugoslav Wars]] and in managing European relations with Russia.\n\nThe European Union represents the most ambitious experiment in voluntary supranational governance in history. Its democratic institutions, human rights framework, single market, and common currency have made it one of the world's largest economies and a major international actor. Tensions between national sovereignty and supranational authority, and between member states with different economic interests, have remained persistent challenges — as the British decision to leave the EU in 2016 dramatically illustrated.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/European_Union",
+    "read_more_links": [
+        {
+            "title": "History of the European Union – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_European_Union"
+        },
+        {
+            "title": "Treaty of Rome – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Rome"
+        },
+        {
+            "title": "Maastricht Treaty – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Maastricht_Treaty"
+        },
+        {
+            "title": "European Union – Britannica",
+            "url": "https://www.britannica.com/topic/European-Union"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/European_Union_Exclusive_Economic_Zones.PNG/300px-European_Union_Exclusive_Economic_Zones.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/European_Union_Exclusive_Economic_Zones.PNG",
+            "caption": "European Union Member states Exclusive Economic Zones",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Antonio_Costa_Portrait_2024_%28cropped%29.jpg/300px-Antonio_Costa_Portrait_2024_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Antonio_Costa_Portrait_2024_%28cropped%29.jpg",
+            "caption": "Portrait of António Costa, President-elect of the European Council, October 2024",
+            "attribution": "Wikimedia Commons, Attribution"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/1951_CECA_ECSC.jpg/300px-1951_CECA_ECSC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1951_CECA_ECSC.jpg",
+            "caption": "Traité instituant la Communauté européenne du charbon et de l'acier (CECA). P...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0197_%2853548338059%29_%28cropped%29.jpg/300px-EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0197_%2853548338059%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0197_%2853548338059%29_%28cropped%29.jpg",
+            "caption": "© Belgian Presidency of the Council of the European Union / Julien Nizet",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "António Costa",
+            "summary": "President of the European Council since 2024",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Antonio_Costa_Portrait_2024_%28cropped%29.jpg/250px-Antonio_Costa_Portrait_2024_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa"
+        },
+        {
+            "name": "Ursula von der Leyen",
+            "summary": "President of the European Commission since 2019",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/250px-Ursula_von_der_Leyen_2024.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ursula_von_der_Leyen"
+        },
+        {
+            "name": "Presidency of the Council of the European Union",
+            "summary": "Rotating presidency of the Council of Ministers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Council_of_the_EU_and_European_Council.svg/250px-Council_of_the_EU_and_European_Council.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Presidency_of_the_Council_of_the_European_Union"
+        },
+        {
+            "name": "Roberta Metsola",
+            "summary": "President of the European Parliament since 2022",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Official_portrait_of_Roberta_Metsola_%283x4_cropped%29.jpg/250px-Official_portrait_of_Roberta_Metsola_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roberta_Metsola"
+        }
+    ],
+    "territory_geojson": null
+}

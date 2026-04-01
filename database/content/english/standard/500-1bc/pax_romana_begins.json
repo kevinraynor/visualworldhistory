@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1084,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:8dc95a493f0e5c1de35d1a46f85ddaf7a2d082ad44cc854558b6f3063ce331bb",
+    "summary": "The Pax Romana ('Roman Peace', 27 BC–180 AD) was the roughly two-century period of relative peace and stability within the [[event:81|Roman Empire]]'s borders following [[event:1083|Augustus - First Roman Emperor]]'s settlement, during which the Mediterranean world experienced a level of security, economic integration, and cultural prosperity that would not be matched for many centuries. The term was coined retrospectively but reflects a genuine historical reality.\n\nWithin Roman borders, trade flowed freely along a network of roads and sea routes protected from piracy and banditry. Urban populations grew; cities received monumental public buildings, aqueducts, and sewers at imperial expense. The census and tax system provided predictable governance for provincial populations accustomed to the chaos of the late Republic's civil wars. Population estimates suggest the Empire reached 60–70 million people at its height, representing a significant fraction of the world's total.\n\nThe peace was never absolute — the Rhine and Danube frontiers required constant military attention, Britain was conquered under Claudius, Dacian wars were fought, Jewish revolts suppressed — but within the Mediterranean core, civilian populations were effectively insulated from military violence for generations. Edward Gibbon, whose Decline and Fall of the Roman Empire shaped centuries of historical thinking, wrote that the period under the 'Five Good Emperors' (Nerva, Trajan, Hadrian, Antoninus Pius, Marcus Aurelius) from 96–180 AD was 'the period in the history of the world during which the condition of the human race was most happy and prosperous.' The Pax Romana ended with Marcus Aurelius's death in 180 AD and the beginning of a turbulent third century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pax_Romana",
+    "read_more_links": [
+        {
+            "title": "Augustus",
+            "url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "title": "Five Good Emperors",
+            "url": "https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty"
+        },
+        {
+            "title": "Roman Trade",
+            "url": "https://en.wikipedia.org/wiki/Trade_in_the_Roman_world"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Impero_romano_sotto_Ottaviano_Augusto_30aC_-_6dC.jpg/300px-Impero_romano_sotto_Ottaviano_Augusto_30aC_-_6dC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Impero_romano_sotto_Ottaviano_Augusto_30aC_-_6dC.jpg",
+            "caption": "The Roman Empire under Augustus Caesar before the Pannonian revolt (AD 6-9) a...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Romeinse_keizers_Gordianus_III_antoninianus_Antiochie_243-244.jpg/300px-Romeinse_keizers_Gordianus_III_antoninianus_Antiochie_243-244.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Romeinse_keizers_Gordianus_III_antoninianus_Antiochie_243-244.jpg",
+            "caption": "Roman AR Antoninianus Gordian III, Antioch mint 243-244 AD (RIC 214, RSC 179(...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 nl"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Marcus Aurelius",
+            "summary": "Roman emperor from 161 to 180",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/250px-MSR-ra-61-b-1-DM.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+        },
+        {
+            "name": "Trajan",
+            "summary": "Roman emperor from AD 98 to 117",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Traianus_Glyptothek_Munich_336.jpg/250px-Traianus_Glyptothek_Munich_336.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trajan"
+        },
+        {
+            "name": "Cassius Dio",
+            "summary": "Greco-Roman statesman and historian (c. 155–c. 235)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dio_Cassius.jpg/250px-Dio_Cassius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassius_Dio"
+        },
+        {
+            "name": "Commodus",
+            "summary": "Roman emperor from 177 to 192",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg/250px-Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Commodus"
+        },
+        {
+            "name": "Thomas F. Madden",
+            "summary": "American historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Madden2012.JPG/250px-Madden2012.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_F._Madden"
+        }
+    ],
+    "territory_geojson": null
+}

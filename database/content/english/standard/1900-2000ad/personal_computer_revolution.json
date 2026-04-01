@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2743,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a0cedd297c46c26c2b5c600e697b8fe3fffb321c9dcd6eb9e7958e13c862feb6",
+    "summary": "The personal computer revolution of the 1970s and 1980s transformed computing from a specialized industrial and scientific tool into a technology accessible to individuals and small businesses. The revolution was made possible by the microprocessor — a complete central processing unit on a single integrated circuit chip — first commercialized by Intel's 4004 in 1971. The Altair 8800 kit computer, released in January 1975, is often cited as the starting point of the personal computer era, inspiring a generation of hobbyists and entrepreneurs.\n\nApple Computer, founded by Steve Jobs and Steve Wozniak in 1976, became the most commercially successful early personal computer company, selling the Apple II from 1977. The defining moment of mass-market adoption came in 1981 when IBM introduced the IBM PC, using an Intel processor and an operating system licensed from a young Microsoft. The IBM PC's open architecture allowed hundreds of compatible machines to flood the market at declining prices, driving rapid adoption in homes and offices.\n\nMicrosoft's DOS and then Windows operating systems became the dominant software platform for IBM-compatible personal computers, making Bill Gates one of the world's wealthiest individuals and Microsoft one of the most powerful technology companies. Apple pursued a different strategy with its Macintosh line, introducing the graphical user interface and mouse-driven computing to mass audiences in 1984.\n\nBy the late 1980s and early 1990s, personal computers were transforming business practices through word processing, spreadsheets, and desktop publishing. The subsequent growth of the [[event:2692|internet]] and the World Wide Web created the infrastructure that would make personal computers indispensable for communication and commerce, completing the transformation of computing into a utility as fundamental as electricity or the telephone.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Personal_computer",
+    "read_more_links": [
+        {
+            "title": "History of Personal Computers - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/personal-computer"
+        },
+        {
+            "title": "Apple II History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Apple_II"
+        },
+        {
+            "title": "IBM PC - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Commodore_PET_Exhibit_at_American_Museum_of_Science_and_Energy_Oak_Ridge_Tennessee.jpg/300px-Commodore_PET_Exhibit_at_American_Museum_of_Science_and_Energy_Oak_Ridge_Tennessee.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Commodore_PET_Exhibit_at_American_Museum_of_Science_and_Energy_Oak_Ridge_Tennessee.jpg",
+            "caption": "Exhibit at American Museum of Science and Energy Oak Ridge Tennessee 8-1-1983",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Xbox_Handheld.png/300px-Xbox_Handheld.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Xbox_Handheld.png",
+            "caption": "ROG Xbox Ally / ROG Xbox Ally X",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBM_PC-IMG_7271_%28transparent%29.png/300px-IBM_PC-IMG_7271_%28transparent%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/IBM_PC-IMG_7271_%28transparent%29.png",
+            "caption": "IBM Personal Computer\nOn display at the Musée Bolo, EPFL, Lausanne.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/LG_G4-2.jpg/300px-LG_G4-2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/LG_G4-2.jpg",
+            "caption": "LG G4",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "ENIAC",
+            "summary": "First electronic general-purpose digital computer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/ENIAC_Penn1.jpg/250px-ENIAC_Penn1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/ENIAC"
+        },
+        {
+            "name": "LGP-30",
+            "summary": "Librascope General Purpose computer (1956)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/LGP-30_with_skins.jc.jpg/250px-LGP-30_with_skins.jc.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/LGP-30"
+        },
+        {
+            "name": "Robert Noyce",
+            "summary": "American physicist and entrepreneur (1927–1990)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Robert_Noyce_with_Motherboard_1959.png/250px-Robert_Noyce_with_Motherboard_1959.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Noyce"
+        },
+        {
+            "name": "Federico Faggin",
+            "summary": "Physicist, engineer, inventor and entrepreneur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Federico_Faggin_%28cropped%29.jpg/250px-Federico_Faggin_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Faggin"
+        },
+        {
+            "name": "Douglas Engelbart",
+            "summary": "American engineer and inventor (1925–2013)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/SRI_Douglas_Engelbart_1968_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Douglas_Engelbart"
+        }
+    ],
+    "territory_geojson": null
+}

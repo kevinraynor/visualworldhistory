@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2300,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:899b0edc216f3f9330db9bd33838a09a7aadd0918ab86b5a494657c59468ece3",
+    "summary": "The Hanseatic League (c. 1241–1669 AD) was a commercial and defensive confederation of merchant guilds and market towns in Northern and Central Europe, at its peak controlling trade across the Baltic and North Seas from London and Bruges in the west to Novgorod and Tallinn in the east — a medieval free-trade zone and economic superpower that dominated northern European commerce for over two centuries. Beginning as informal cooperation between northern German trading cities, it formalized into a league of over 70 cities at its height, operating a network of trading posts (kontore) in foreign cities that functioned as extraterritorial commercial enclaves.\n\nThe Hanseatic system handled the bulk commodities that sustained northern European life: Baltic grain (feeding the populations of western Europe), salted herring (essential protein for Catholic fasting days), Polish and Russian timber, furs, wax, and tar; western European wool and cloth; and the salt needed to preserve the herring. The League's merchant vessels — the cog, a broad-beamed sailing ship designed for bulk cargo — were the workhorses of northern European commerce. The [[event:3788|League at its peak]] maintained its own navy, negotiated treaties with kings, and could impose trade embargoes on uncooperative rulers — a level of commercial power unprecedented in medieval Europe. The League began to decline in the 15th century as national states became strong enough to assert control over their own commerce, as Dutch and English traders developed more efficient shipping, and as the Baltic herring inexplicably migrated away from the Scanian (Swedish) coasts where the League had controlled its harvesting.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hanseatic_League",
+    "read_more_links": [
+        {
+            "title": "Hanseatic League cities kontore network",
+            "url": "https://en.wikipedia.org/wiki/Hanseatic_League#Organization"
+        },
+        {
+            "title": "Baltic trade grain herring Hanse commerce",
+            "url": "https://en.wikipedia.org/wiki/Hanseatic_League#Trade"
+        },
+        {
+            "title": "Hanse cog ship Baltic North Sea",
+            "url": "https://en.wikipedia.org/wiki/Hanseatic_cog"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg/300px-Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ausbreitung_der_Hanse_um_das_Jahr_1400-Droysens_28.jpg",
+            "caption": "The spread of the Hanseatic League in the year 1400",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Carta_Marina.jpeg/300px-Carta_Marina.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Carta_Marina.jpeg",
+            "caption": "Carta marina, a wallmap of w:Scandinavia. The caption reads : Marine map and ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Adler_von_L%C3%BCbeck.jpg/300px-Adler_von_L%C3%BCbeck.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Adler_von_L%C3%BCbeck.jpg",
+            "caption": "Hanseatic league flagship Adler von Lübeck (1567-88)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Altes_Wappen_Stade.png/300px-Altes_Wappen_Stade.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Altes_Wappen_Stade.png",
+            "caption": "Former Coat of Arms of Stade",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Grand Master of the Teutonic Order",
+            "summary": "Leader of the Teutonic Order, a medieval sect of Roman Catholicism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Template_-_Grand_Master_of_the_Teutonic_Order.svg/250px-Template_-_Grand_Master_of_the_Teutonic_Order.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Master_of_the_Teutonic_Order"
+        },
+        {
+            "name": "Consensus decision-making",
+            "summary": "Group decision-making aiming for universal agreement",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Occupy_Wall_Street_Washington_Square_Park_2011_Shankbone.JPG/250px-Occupy_Wall_Street_Washington_Square_Park_2011_Shankbone.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Consensus_decision-making"
+        },
+        {
+            "name": "Henry the Lion",
+            "summary": "Duke of Saxony (r. 1142–80) and Bavaria (r. 1156–80)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Henry_the_Lion_%28cropped%29.jpg/250px-Henry_the_Lion_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_the_Lion"
+        },
+        {
+            "name": "Valdemar II of Denmark",
+            "summary": "King of Denmark from 1202 to 1241",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coin_minted_for_king_Valdemar_II_of_Denmark%2C_Valdemar_II_Sejr.jpg/250px-Coin_minted_for_king_Valdemar_II_of_Denmark%2C_Valdemar_II_Sejr.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valdemar_II_of_Denmark"
+        },
+        {
+            "name": "Henry II of England",
+            "summary": "King of England from 1154 to 1189",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Henry_II_Illumination.jpg/250px-Henry_II_Illumination.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        },
+        {
+            "name": "Brick Gothic",
+            "summary": "Architectural style of Northern Europe",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Marienkirche_am_Abend.jpg/250px-Marienkirche_am_Abend.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brick_Gothic"
+        }
+    ],
+    "territory_geojson": null
+}

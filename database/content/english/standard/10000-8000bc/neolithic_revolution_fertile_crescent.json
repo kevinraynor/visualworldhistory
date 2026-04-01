@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:61998545693cac921661bca762e217fe7f4bc0e73fe4f2154def7502619f7646",
+    "summary": "The Neolithic Revolution in the Fertile Crescent represents one of the most transformative transitions in human prehistory — the shift from mobile hunter-gatherer lifestyles to sedentary agricultural communities. Beginning around 10,000 BCE in the arc of productive land stretching from the Levant through Mesopotamia, early humans began deliberately cultivating wild grasses and tending animals rather than relying solely on what nature provided in passing.\n\nThe ecological conditions of the Fertile Crescent were uniquely favorable for this transition. The region harbored an exceptional concentration of wild progenitors of domesticable plants — including emmer wheat, einkorn wheat, barley, lentils, peas, and chickpeas — alongside animals such as sheep, goats, cattle, and pigs that proved amenable to human control. The end of the [[event:1262|Last Ice Age]] and the onset of the [[event:1320|Holocene Climatic Optimum]] created warmer, wetter conditions that expanded the range of these wild ancestors and made year-round settlement increasingly viable.\n\nThe [[event:4|Natufian Culture]] of the Levant played a central role in the earliest phases of this transition. Natufian communities, active from roughly 14,500 to 11,500 BCE, were among the first to build semi-permanent dwellings and intensively harvest wild cereals using stone sickles. Their sedentism preceded agriculture by thousands of years, suggesting that settlement and cultivation were not a single simultaneous invention but a gradual, cumulative process unfolding over millennia.\n\nArchaeological sites such as [[event:2|Jericho]], [[event:1304|Pre-Pottery Neolithic A]] settlements, and later [[event:18|Pre-Pottery Neolithic B]] communities document the progressive elaboration of agricultural practice. Storage facilities, granaries, and the morphological changes in plant seeds that signal domestication — larger grains, non-shattering seed heads — all appear in the Levantine record between approximately 9500 and 8000 BCE. Animal domestication proceeded alongside plant cultivation, with [[event:1258|goats]], sheep, cattle, and pigs all brought under human management within this period.\n\nThe social and demographic consequences were profound. Fixed settlements permitted population densities impossible for mobile foragers. Surplus food enabled specialization of labor, accumulation of material goods, and the emergence of social hierarchies. Monumental architecture such as [[event:3|Gobekli Tepe]] — built before widespread agriculture — and the massive stone tower and walls of [[event:2|Jericho]] demonstrate that organized communal effort and complex symbolic life accompanied the agricultural transition from its earliest phases.\n\nThe Neolithic Revolution in the Fertile Crescent was not a single event but a mosaic of overlapping innovations spread across multiple communities and centuries. Its consequences — sedentary civilization, writing, cities, states — define the trajectory of human history to the present day. Similar transitions occurred independently in other world regions, including [[event:6|early agriculture along the Yangtze River]] in China and early farming in the Indus Valley, but the Fertile Crescent remains the earliest and most intensively studied center of agricultural origins.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+    "read_more_links": [
+        {
+            "title": "Agriculture in the Fertile Crescent - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-agriculture"
+        },
+        {
+            "title": "Origins of Agriculture - Smithsonian Human Origins",
+            "url": "https://humanorigins.si.edu/human-characteristics/agriculture"
+        },
+        {
+            "title": "Pre-Pottery Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic"
+        },
+        {
+            "title": "Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Domestication"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/G%C3%B6beklitepe_%C5%9Eanl%C4%B1urfa.jpg/300px-G%C3%B6beklitepe_%C5%9Eanl%C4%B1urfa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/G%C3%B6beklitepe_%C5%9Eanl%C4%B1urfa.jpg",
+            "caption": "Göbekli Tepe, Şanlıurfa il merkezinin yaklaşık olarak 22 km kuzeydoğusunda, Ö...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png/300px-Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png",
+            "caption": "Condensed and simplified map showing of the spread of agriculture from Southw...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Early_Neolithic_sites_in_the_Near_East_and_South_Asia_10%2C000-3%2C800_BCE.jpg/300px-Early_Neolithic_sites_in_the_Near_East_and_South_Asia_10%2C000-3%2C800_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Early_Neolithic_sites_in_the_Near_East_and_South_Asia_10%2C000-3%2C800_BCE.jpg",
+            "caption": "Early Neolithic sites in the Near East and South Asia 10,000-3,800 BCE. Sites...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe.jpg/300px-Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe.jpg",
+            "caption": "Map of the spread of Neolithic farming cultures in Europe, dates in year BCE",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "David Graeber",
+            "summary": "American anthropologist and activist (1961–2020)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/David_Graeber_Fire_Island_headshot_cropped.jpg/250px-David_Graeber_Fire_Island_headshot_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Graeber"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Cornwall",
+            "summary": "Ceremonial county in England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Michael%27s_Mount_View.jpg/250px-St_Michael%27s_Mount_View.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cornwall"
+        }
+    ],
+    "territory_geojson": null
+}

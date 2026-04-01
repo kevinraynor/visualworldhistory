@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1181,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:0b5f2fe9fa1d45481c0efac774f28b88de61ae3d78831472baf9f9c3211e3278",
+    "summary": "The Proto-City Phase of Teotihuacan (c. 200–1 BC) marks the early settlement of the site northeast of modern Mexico City that would grow into Teotihuacan — at its height (100–550 AD) the largest city in pre-Columbian America, with up to 200,000 inhabitants, whose Avenue of the Dead and massive pyramids dominated Mesoamerican political and religious life for centuries.\n\nThe Valley of Teotihuacan attracted settlement due to its springs, agricultural productivity, and volcanic glass (obsidian) deposits at nearby Otumba. Initial settlement expanded rapidly as population grew, particularly after the eruption of the Xitle volcano around 100 BC apparently caused population displacement from the southern Basin of Mexico. By around 1 BC, Teotihuacan was already a substantial town beginning the monumental construction that would define it. The city's grid layout — unusual in Mesoamerica — and the alignment of its monuments to astronomical phenomena suggest careful urban planning from early stages. Teotihuacan's identity remains mysterious: the ethnic group responsible for its construction is unknown, and its writing system, if it had one, has not been fully identified. Its cultural influence extended across Mesoamerica, with Teotihuacan-style objects found at [[event:1179|Early Maya Civilization]] sites.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Teotihuacan",
+    "read_more_links": [
+        {
+            "title": "Avenue of the Dead",
+            "url": "https://en.wikipedia.org/wiki/Avenue_of_the_Dead"
+        },
+        {
+            "title": "Pyramid of the Sun",
+            "url": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun"
+        },
+        {
+            "title": "Teotihuacan society",
+            "url": "https://en.wikipedia.org/wiki/Teotihuacan#Society"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2013-12-23_Procesi%C3%B3n_de_aves_verdes%2C_Templo_de_los_Caracoles_Emplumados%2C_Teotihuacan_01_anagoria.JPG/300px-2013-12-23_Procesi%C3%B3n_de_aves_verdes%2C_Templo_de_los_Caracoles_Emplumados%2C_Teotihuacan_01_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2013-12-23_Procesi%C3%B3n_de_aves_verdes%2C_Templo_de_los_Caracoles_Emplumados%2C_Teotihuacan_01_anagoria.JPG",
+            "caption": "Teotihuacan: Temple of Feathered Seashells, Green Harpy Eagles Procession",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dr_o_fru_Linn%C3%A9_tv%C3%A4ttar_kruksk%C3%A4rvor_-_SMVK_-_0307.a.0053.tif/300px-Dr_o_fru_Linn%C3%A9_tv%C3%A4ttar_kruksk%C3%A4rvor_-_SMVK_-_0307.a.0053.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Dr_o_fru_Linn%C3%A9_tv%C3%A4ttar_kruksk%C3%A4rvor_-_SMVK_-_0307.a.0053.tif",
+            "caption": "Images from the 1932 Sigvald Linné archeological expedition at Teotihuacán, M...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG/300px-Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Teotihuac%C3%A1n%2C_M%C3%A9xico%2C_2013-10-13%2C_DD_48.JPG",
+            "caption": "Avenue of the Dead, Teotihuacán, Mexico",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AvenueoftheDeadTeotihuacan.jpg/300px-AvenueoftheDeadTeotihuacan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/AvenueoftheDeadTeotihuacan.jpg",
+            "caption": "Panorama of the Avenue of the Dead from the Pyramid of the Sun",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Talud-tablero",
+            "summary": "Pre-Columbian Mesoamerican architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TableroTalud.jpg/250px-TableroTalud.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Talud-tablero"
+        },
+        {
+            "name": "Mexica",
+            "summary": "Nahuatl-speaking Indigenous people of the Valley of Mexico",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aztec_drums%2C_Florentine_Codex..jpg/250px-Aztec_drums%2C_Florentine_Codex..jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mexica"
+        }
+    ],
+    "territory_geojson": null
+}

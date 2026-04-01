@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1501,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c35e593004e1a8acd9e57de58190c55683007406d2dca8d15464b8a74122e039",
+    "summary": "The domestication of the guinea pig (Cavia porcellus) from wild cavy ancestors occurred in the Andean highlands of western South America, in the region of modern Peru and Ecuador, around 7000–6000 BCE. Evidence from archaeological sites includes guinea pig bones that show morphological changes consistent with captive breeding, such as reduced size relative to wild cavies, indicating sustained human management of the animals.\n\nGuinea pigs became a primary source of protein for Andean communities and remain an important food animal in the region to this day. They were also used in ritual contexts, with guinea pig remains found in offering deposits at numerous ancient Andean sites. Their domestication represents one of the few independent domestication events that took place in South America, demonstrating that the Andean highlands were an important center of human innovation during the early Holocene.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guinea_pig#History",
+    "read_more_links": [
+        {
+            "title": "Guinea Pig – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Guinea_pig"
+        },
+        {
+            "title": "Andean Prehistory – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andes#Prehistory"
+        },
+        {
+            "title": "Animal Domestication in the Americas – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Domestication"
+        },
+        {
+            "title": "Prehistoric South America – Britannica",
+            "url": "https://www.britannica.com/place/South-America/Prehistoric-South-America"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Three_Unknown_Elizabethan_Children.jpg/300px-Three_Unknown_Elizabethan_Children.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Three_Unknown_Elizabethan_Children.jpg",
+            "caption": "Portrait of three unknown Elizabethan children, one holding a guinea pig. The...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Guinea_pig_skull._Cavia_porcellus_02.jpg/300px-Guinea_pig_skull._Cavia_porcellus_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Guinea_pig_skull._Cavia_porcellus_02.jpg",
+            "caption": "Specimen of guinea pig skull prepared by the bone maceration technique and on...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cuy_or_guinea_pig%2C_from_the_restaurant_Fogon_de_los_Abuelos_in_Matus%2C_Ecuador.jpg/300px-Cuy_or_guinea_pig%2C_from_the_restaurant_Fogon_de_los_Abuelos_in_Matus%2C_Ecuador.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Cuy_or_guinea_pig%2C_from_the_restaurant_Fogon_de_los_Abuelos_in_Matus%2C_Ecuador.jpg",
+            "caption": "Cuy. or guinea pig, from the restaurant Fogon de los Abuelos in Matus, Ecuado...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Guinea_pig_2011_01_10_12_58_15.jpg/300px-Guinea_pig_2011_01_10_12_58_15.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Guinea_pig_2011_01_10_12_58_15.jpg",
+            "caption": "Photo of a long haired guinea pig taken in the 1990s on Governor's Island.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Peter Simon Pallas",
+            "summary": "German zoologist, botanist, and natural historian (1741–1811)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Pallas_PS_by_Tardier_grey.jpg/250px-Pallas_PS_by_Tardier_grey.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Simon_Pallas"
+        },
+        {
+            "name": "Essex",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Hythe%2C_Maldon_-_geograph.org.uk_-_3895331.jpg/250px-The_Hythe%2C_Maldon_-_geograph.org.uk_-_3895331.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Essex"
+        }
+    ],
+    "territory_geojson": null
+}

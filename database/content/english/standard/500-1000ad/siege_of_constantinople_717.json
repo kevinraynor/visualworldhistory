@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2203,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:80fb21c3994ae0048ee37b4e3c4f2cda60a4e5a1e688131c645423655c7fd5b7",
+    "summary": "The Arab Siege of Constantinople (717–718 AD) was the [[event:2129|Umayyad Caliphate's]] most ambitious attempt to capture the Byzantine capital — a massive coordinated land and sea assault by an army reported at 80,000–200,000 men under the Umayyad prince Maslama, and a fleet of reportedly 1,800 ships. Its failure, after a year-long siege, was one of the most consequential military outcomes of the 8th century — it preserved the Byzantine Empire and Christian Europe from being outflanked from the east while the [[event:2131|Islamic expansion]] was reaching Spain from the west.\n\nThe siege failed for multiple reasons: Byzantine [[event:2205|Greek fire]] (a naphtha-based incendiary that burned on water) destroyed the Arab fleet repeatedly; a brutal winter (717–718 was one of the coldest on record) devastated the besieging army; the Bulgars attacked the Arab rear; and Anatolian populations provided the Byzantines with intelligence and supply. When the siege was lifted, the retreating Arab fleet was nearly destroyed by storms. Emperor Leo III's successful defense gave him the political capital to launch the [[event:2204|Byzantine Iconoclasm]]. The second Arab siege of Constantinople (after the first, failed siege of 674–678 AD — see [[event:2954|Siege of Constantinople 674]]) effectively ended Umayyad expansion in the north; the Caliphate would never again mount such an ambitious assault on the city.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)",
+    "read_more_links": [
+        {
+            "title": "Greek fire Arab fleet",
+            "url": "https://en.wikipedia.org/wiki/Greek_fire#Siege_of_717"
+        },
+        {
+            "title": "Leo III defender Constantinople",
+            "url": "https://en.wikipedia.org/wiki/Leo_III_the_Isaurian"
+        },
+        {
+            "title": "Bulgarian attack Arab rear",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)#Bulgarian_intervention"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/300px-Greekfire-madridskylitzes1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Greekfire-madridskylitzes1.jpg",
+            "caption": "Image from an illuminated manuscript, the Madrid Skylitzes, showing Greek fir...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/47-cropped-manasses-chronicle.jpg/300px-47-cropped-manasses-chronicle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/47-cropped-manasses-chronicle.jpg",
+            "caption": "Miniature 47 from the Constantine Manasses Chronicle, 14 century: The arabs a...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Steuben_-_Bataille_de_Poitiers.png/300px-Steuben_-_Bataille_de_Poitiers.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Steuben_-_Bataille_de_Poitiers.png",
+            "caption": "Charles Martel in the Battle of Tours",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Walls_of_Constantinople.JPG/300px-Walls_of_Constantinople.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Walls_of_Constantinople.JPG",
+            "caption": "Restored section of the Walls of Constantinople.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        },
+        {
+            "name": "Sulayman ibn Abd al-Malik",
+            "summary": "Umayyad caliph from 715 to 717",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gold_dinar_of_Sulayman_ibn_Abd_al-Malik%2C_715-716.jpg/250px-Gold_dinar_of_Sulayman_ibn_Abd_al-Malik%2C_715-716.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sulayman_ibn_Abd_al-Malik"
+        },
+        {
+            "name": "Umar ibn Abd al-Aziz",
+            "summary": "Umayyad caliph from 717 to 720",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Gold_dinar_of_Umar_II.jpg/250px-Gold_dinar_of_Umar_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umar_ibn_Abd_al-Aziz"
+        },
+        {
+            "name": "Leo III the Isaurian",
+            "summary": "Byzantine emperor from 717 to 741",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solidus_of_Leo_III_sb1504.png/250px-Solidus_of_Leo_III_sb1504.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_III_the_Isaurian"
+        },
+        {
+            "name": "Theophanes the Confessor",
+            "summary": "Byzantine aristocrat, monk and historian (c.758/60–c.817/8)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Athonite_Icon_of_Saint_Theophanes_the_Confessor_of_Megalos_Agros_3.jpg/250px-Athonite_Icon_of_Saint_Theophanes_the_Confessor_of_Megalos_Agros_3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theophanes_the_Confessor"
+        },
+        {
+            "name": "Nikephoros I of Constantinople",
+            "summary": "Ecumenical Patriarch of Constantinople from 806 to 815",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Chludov_Nikephoros_I_of_Constantinople.jpg/250px-Chludov_Nikephoros_I_of_Constantinople.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nikephoros_I_of_Constantinople"
+        }
+    ],
+    "territory_geojson": null
+}

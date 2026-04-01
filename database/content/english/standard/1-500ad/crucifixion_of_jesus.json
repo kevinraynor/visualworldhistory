@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2013,
+    "parent_id": 2012,
+    "granularity": "major",
+    "content_hash": "sha256:28f9001bfd16ba3e15a6bddaf5f030076e0a8b86b7d44c5b8a25defa7ecda621",
+    "summary": "The Crucifixion of Jesus (c. 30–33 AD) under the Roman prefect Pontius Pilate is one of the best-attested events of ancient history — recorded not only in the four Gospels but in Tacitus's Annals and Josephus's Antiquities, making it one of the few events in Jesus's life with independent non-Christian confirmation. Crucifixion was a Roman method of execution reserved for slaves, rebels, and those without Roman citizenship — a deliberately degrading death designed to eliminate the condemned's social identity.\n\nThe Gospel accounts describe Jesus's arrest in Gethsemane following Judas's betrayal, a trial before the Sanhedrin (Jewish council) and then before Pilate, his flagellation, his carrying of the cross to Golgotha, his crucifixion alongside two criminals, and his death within approximately six hours — unusually quick for crucifixion. The Resurrection accounts (the empty tomb discovered by women disciples, appearances to individuals and groups of followers) form the theological core of Christian faith: Paul in 1 Corinthians 15 (written c. 55 AD) lists resurrection appearances, including to 500 witnesses at once, and states this is the tradition he received shortly after the events. The Christian interpretation of the crucifixion as atoning sacrifice — the death of the Son of God bearing the consequences of human sin — became the central theological claim of Christianity, making a politically ignominious execution into the most theologically significant event in the religion's history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+    "read_more_links": [
+        {
+            "title": "Pontius Pilate historical evidence",
+            "url": "https://en.wikipedia.org/wiki/Pontius_Pilate"
+        },
+        {
+            "title": "Resurrection of Jesus accounts",
+            "url": "https://en.wikipedia.org/wiki/Resurrection_of_Jesus"
+        },
+        {
+            "title": "Crucifixion Roman method",
+            "url": "https://en.wikipedia.org/wiki/Crucifixion"
+        },
+        {
+            "title": "Tacitus Annals Jesus reference",
+            "url": "https://en.wikipedia.org/wiki/Tacitus_on_Christ"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Deposition_of_Christ_C2RMF.jpg/300px-Deposition_of_Christ_C2RMF.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Deposition_of_Christ_C2RMF.jpg",
+            "caption": "Pietà \nArma Christi ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ArchdiocesanShrineofSaint_Annejf0133_12.JPG/300px-ArchdiocesanShrineofSaint_Annejf0133_12.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/ArchdiocesanShrineofSaint_Annejf0133_12.JPG",
+            "caption": "1587 Archdiocesan Shrine of St. Anne - Saint Anne Parish-Shrine Santa Ana, Ta...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sant%C3%ADssimo_Cristo_02.jpg/300px-Sant%C3%ADssimo_Cristo_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sant%C3%ADssimo_Cristo_02.jpg",
+            "caption": "Santíssimo Cristo im Hauptaltar in der Kirche Real Santuario del Cristo de La...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Buhl_StJeanBaptiste27.JPG/300px-Buhl_StJeanBaptiste27.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Buhl_StJeanBaptiste27.JPG",
+            "caption": "This object is classé Monument Historique in the base Palissy, database of th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diego Velázquez",
+            "summary": "Spanish painter (1599–1660)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/250px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez"
+        },
+        {
+            "name": "Jesus",
+            "summary": "Jewish preacher and religious leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg/250px-Spas_vsederzhitel_sinay_%28cropped1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus"
+        },
+        {
+            "name": "Pontius Pilate",
+            "summary": "Roman governor of Judea and condemner of Jesus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ecce_homo_by_Antonio_Ciseri_%281%29.jpg/250px-Ecce_homo_by_Antonio_Ciseri_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pontius_Pilate"
+        },
+        {
+            "name": "Andreas J. Köstenberger",
+            "summary": "American theologian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Andreas_K%C3%B6stenberger_Lecturing_at_MBTS.jpg/250px-Andreas_K%C3%B6stenberger_Lecturing_at_MBTS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andreas_J._K%C3%B6stenberger"
+        },
+        {
+            "name": "Longinus",
+            "summary": "Roman soldier, and saint, who pierced Jesus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bernini_Hl._Longinus_Petersdom.jpg/250px-Bernini_Hl._Longinus_Petersdom.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Longinus"
+        },
+        {
+            "name": "Paul the Apostle",
+            "summary": "Christian apostle and missionary (c. 5 – c. 64/65)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fresco_of_Saint_Paul_at_Ephesus.jpg/250px-Fresco_of_Saint_Paul_at_Ephesus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_the_Apostle"
+        }
+    ],
+    "territory_geojson": null
+}

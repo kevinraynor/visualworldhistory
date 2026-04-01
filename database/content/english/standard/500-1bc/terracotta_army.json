@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1120,
+    "parent_id": 76,
+    "granularity": "notable",
+    "content_hash": "sha256:105423d757819d0520733ee95d0bec6054605db4f9225b56c7a147ce237f7678",
+    "summary": "The Terracotta Army (246–210 BC) is the extraordinary collection of over 8,000 life-sized clay soldiers, horses, and chariots buried with [[event:3141|Qin Shi Huang]] to protect him in the afterlife — one of the greatest archaeological discoveries of the 20th century and a window into the military power and religious worldview of the [[event:76|Qin Dynasty]].\n\nConstruction began when Qin Shi Huang was just thirteen years old and first ascended the Qin throne, continuing until his death in 210 BC. The figures were arranged in battle formation in three pits adjacent to the main burial mound at Lintong (near Xi'an). Each soldier has distinct facial features, suggesting individual craftsmen modeled specific individuals or types; thousands of workers — many of them conscript laborers — spent decades on the project. The army was accompanied by bronze weapons (many still sharp after 2,200 years), bronze chariots, acrobats, and officials. Discovered accidentally by farmers in 1974, the site has yielded ongoing excavations revealing ever more remarkable artifacts, including bronze waterbird sculptures and evidence of exotic goods in the tomb complex. The project's scale speaks to both the emperor's conception of his own power and the extraordinary organizational capacity of the Qin state.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terracotta_Army",
+    "read_more_links": [
+        {
+            "title": "Mausoleum of the First Qin Emperor",
+            "url": "https://en.wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor"
+        },
+        {
+            "title": "Qin Shi Huang",
+            "url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
+        },
+        {
+            "title": "Terracotta Army discovery",
+            "url": "https://en.wikipedia.org/wiki/Terracotta_Army#Discovery"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Qin_Shihuang_Terracotta_Sitting_Figure_%2847471886541%29.jpg/300px-Qin_Shihuang_Terracotta_Sitting_Figure_%2847471886541%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Qin_Shihuang_Terracotta_Sitting_Figure_%2847471886541%29.jpg",
+            "caption": "Shaanxi History Museum, Xi'an. Complete indexed photo collection at WorldHist...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2015-09-22-081415_-_Terrakotta-Armee%2C_Grosse_Halle.jpg/300px-2015-09-22-081415_-_Terrakotta-Armee%2C_Grosse_Halle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/2015-09-22-081415_-_Terrakotta-Armee%2C_Grosse_Halle.jpg",
+            "caption": "Mausoleum of the First Qin Emperor, Hall 1",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qin_bronze_chariot_two.jpg/300px-Qin_bronze_chariot_two.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Qin_bronze_chariot_two.jpg",
+            "caption": "The Qin bronze chariot is a two-piece Qin dynasty bronze artifact. The first ...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Han_Terracotta_Warriors%2C_Pit_1%2C_Han_Tomb_of_Liu_Wu%2C_King_of_Chu_%2810082899994%29.jpg/300px-Han_Terracotta_Warriors%2C_Pit_1%2C_Han_Tomb_of_Liu_Wu%2C_King_of_Chu_%2810082899994%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Han_Terracotta_Warriors%2C_Pit_1%2C_Han_Tomb_of_Liu_Wu%2C_King_of_Chu_%2810082899994%29.jpg",
+            "caption": "Xuzhou Han Tomb with terracotta army, Jiangsu Province. Complete indexed phot...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Qin Shi Huang",
+            "summary": "Emperor of China from 221 to 210 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png/250px-Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Molding (process)",
+            "summary": "Shaping a liquid or plastic material by making it conform to a more rigid mold",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bronze_spearhead_mold.JPG/250px-Bronze_spearhead_mold.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Molding_%28process%29"
+        }
+    ],
+    "territory_geojson": null
+}

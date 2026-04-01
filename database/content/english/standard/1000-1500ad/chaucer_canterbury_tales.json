@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2296,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b7d985f1d09158a7701f44dbc1eb8ff91d7c75caa5a34185e838530a8065e163",
+    "summary": "Geoffrey Chaucer's Canterbury Tales (c. 1387–1400 AD) is the masterpiece of Middle English literature and one of the foundational works of English literary tradition — a collection of twenty-four stories told by a group of pilgrims traveling to the shrine of Thomas Becket at Canterbury Cathedral, framed by a narrative that brings together characters from every level of medieval English society, from knight and prioress to miller and pardoner. Written in Middle English vernacular rather than Latin or French, the Tales celebrated and standardized the London dialect that would become the basis of modern English.\n\nChaucer's achievement was simultaneously literary, sociological, and linguistic. As literature, the Tales demonstrate extraordinary range: the Knight's Tale is courtly romance, the Miller's Tale is bawdy fabliaux, the Pardoner's Prologue is a masterpiece of psychological self-revelation, and the Wife of Bath's Prologue contains one of the most vivid and complex female voices in pre-modern European literature. As sociology, the pilgrimage frame allows Chaucer to present a panoramic view of late 14th-century English society — post-[[event:95|Black Death]], post-[[event:3017|Peasants' Revolt]], during the [[event:2235|Hundred Years' War]] — with an irony and realism that captures the gap between social ideals and human reality. Chaucer borrowed stories from Boccaccio's Decameron, Ovid, and many other sources, synthesizing Italian Renaissance humanism with English vernacular culture. The Tales remain unfinished — Chaucer planned 120 stories but completed only 24 — but what survives is sufficient to establish him as the 'Father of English Literature.'",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Canterbury_Tales",
+    "read_more_links": [
+        {
+            "title": "Wife of Bath Prologue Chaucer",
+            "url": "https://en.wikipedia.org/wiki/Wife_of_Bath%27s_Prologue"
+        },
+        {
+            "title": "Middle English Chaucer London dialect",
+            "url": "https://en.wikipedia.org/wiki/Middle_English#Chaucer"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canterbury_Tales%2C_William_Caxton_edition.jpg/300px-Canterbury_Tales%2C_William_Caxton_edition.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Canterbury_Tales%2C_William_Caxton_edition.jpg",
+            "caption": "Canterbury Tales, William Caxton edition",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wife-of-Bath-ms.jpg/300px-Wife-of-Bath-ms.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wife-of-Bath-ms.jpg",
+            "caption": "Wife-of-Bath-ms",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Canterbury-west-Winter-Highsmith.jpeg/300px-Canterbury-west-Winter-Highsmith.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Canterbury-west-Winter-Highsmith.jpeg",
+            "caption": "Canterbury tales mural by Ezra Winter. North Reading Room, west wall, Library...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ellesmere_Chaucer%2C_mssEL_26_C_9%2C_folio_153v_color_enhanced.jpg/300px-Ellesmere_Chaucer%2C_mssEL_26_C_9%2C_folio_153v_color_enhanced.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ellesmere_Chaucer%2C_mssEL_26_C_9%2C_folio_153v_color_enhanced.jpg",
+            "caption": "Ellesmere Chaucer, mssEL 26 C 9, folio 153v, Tale of Melibee with portrait of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Geoffrey Chaucer",
+            "summary": "English writer (1343–1400)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chaucer_manuscrit_portrait_%28d%C3%A9tail%29.jpeg/250px-Chaucer_manuscrit_portrait_%28d%C3%A9tail%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer"
+        },
+        {
+            "name": "John Lydgate",
+            "summary": "English monk and poet (c.1370–c.1451)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/John_Lydgate.jpg/250px-John_Lydgate.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Lydgate"
+        },
+        {
+            "name": "Thomas Becket",
+            "summary": "Archbishop of Canterbury from 1162 to 1170",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/London._British_Library%2C_Cotton_MS_Claudius_B_II._f.341r_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Becket"
+        },
+        {
+            "name": "William Caxton",
+            "summary": "English merchant and printer (c. 1422–c. 1491)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/William_caxton.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Caxton"
+        },
+        {
+            "name": "John William Waterhouse",
+            "summary": "English painter (1849–1917)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_late_John_William_Waterhouse_in_his_studio.jpg/250px-The_late_John_William_Waterhouse_in_his_studio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_William_Waterhouse"
+        },
+        {
+            "name": "Harold Bloom",
+            "summary": "American critic, scholar, and writer (1930–2019)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Harold_Bloom%2C_literary_critic%2C_author%2C_teacher_at_Yale.jpg/250px-Harold_Bloom%2C_literary_critic%2C_author%2C_teacher_at_Yale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harold_Bloom"
+        }
+    ],
+    "territory_geojson": null
+}

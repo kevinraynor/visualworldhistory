@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2289,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:71ee37bc6094c85fa7c961e5dd0fc24c64875b48c446ee5ff0bb899b761fd59a",
+    "summary": "The Treaty of Tordesillas (June 7, 1494 AD) was an extraordinary agreement between Spain and Portugal, mediated by Pope Alexander VI, that divided the entire non-European world between the two Iberian powers along a meridian line 370 leagues west of the Cape Verde Islands — lands east of the line (including Africa and Asia) going to Portugal, lands west (including the Americas, then barely discovered) going to Spain. The treaty was the direct consequence of [[event:2288|Columbus's]] return from the Caribbean in 1493 and Spain's desire to secure legal title to whatever he had found; Portugal, whose explorers under [[event:3055|Henry the Navigator's]] program had been pushing down the African coast for decades, demanded its own guaranteed sphere of expansion.\n\nThe Treaty of Tordesillas was audacious in its pretension — two kingdoms dividing the entire undiscovered world between them, with papal blessing — but it had real practical consequences. Portugal's eastern demarcation line happened to include the bulge of South America, which is why Brazil (discovered by Pedro Álvares Cabral in 1500) became Portuguese rather than Spanish in language and culture, creating the linguistic division between Portuguese-speaking Brazil and Spanish-speaking Spanish America that persists to this day. The treaty was supplemented by the Treaty of Zaragoza (1529), which divided the Pacific between the two powers. Other European powers — France, England, the Netherlands — were excluded from this arrangement and explicitly rejected it, leading to the centuries of colonial competition that shaped the global order. The Treaty of Tordesillas is a remarkable document: perhaps the most geopolitically consequential treaty ever signed between powers with the least direct knowledge of the territories they were dividing.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
+    "read_more_links": [
+        {
+            "title": "Tordesillas line Spain Portugal division",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas#The_treaty"
+        },
+        {
+            "title": "Brazil Portuguese demarcation result",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas#Effects"
+        },
+        {
+            "title": "Pope Alexander VI Inter caetera bull",
+            "url": "https://en.wikipedia.org/wiki/Inter_caetera"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Convento_de_Jes%C3%BAs%2C_Set%C3%BAbal%2C_Portugal%2C_2021-09-09%2C_DD_78-80_HDR.jpg/300px-Convento_de_Jes%C3%BAs%2C_Set%C3%BAbal%2C_Portugal%2C_2021-09-09%2C_DD_78-80_HDR.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Convento_de_Jes%C3%BAs%2C_Set%C3%BAbal%2C_Portugal%2C_2021-09-09%2C_DD_78-80_HDR.jpg",
+            "caption": "Monastery of Jesus, Setúbal, Portugal",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PortugueseColonialEmpire02.png/300px-PortugueseColonialEmpire02.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/PortugueseColonialEmpire02.png",
+            "caption": "The Portuguese Colonial Empire (locations where at some point part of the Emp...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Map_Diego_Ribero_1529.jpg/300px-Map_Diego_Ribero_1529.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Map_Diego_Ribero_1529.jpg",
+            "caption": "c. 1887 reproduction on two sheets (79×61 and 66×61 cm) of the 1529 Propagand...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CantinoPlanisphere.png/300px-CantinoPlanisphere.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/CantinoPlanisphere.png",
+            "caption": "The most important manuscript map surviving from the early Age of Discovery, ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pope Julius II",
+            "summary": "Head of the Catholic Church from 1503 to 1513",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pope_Julius_II.jpg/250px-Pope_Julius_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Julius_II"
+        },
+        {
+            "name": "Ferdinand II of Aragon",
+            "summary": "King of Aragon from 1479 to 1516",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Michel_Sittow_004.jpg/250px-Michel_Sittow_004.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon"
+        },
+        {
+            "name": "Isabella I of Castile",
+            "summary": "Queen of Castile and León from 1474 to 1504",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IsabellaofCastile03.jpg/250px-IsabellaofCastile03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+        },
+        {
+            "name": "John II of Portugal",
+            "summary": "King of Portugal from 1481 to 1495",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/IOANNES_QVARTVS_PORTVGALIAE_REX_%28Kunsthistorisches_Museum%29.png/250px-IOANNES_QVARTVS_PORTVGALIAE_REX_%28Kunsthistorisches_Museum%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_II_of_Portugal"
+        },
+        {
+            "name": "Papal bull",
+            "summary": "Type of decree by the Catholic pope",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Papal.bull.JPG/250px-Papal.bull.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Papal_bull"
+        },
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        }
+    ],
+    "territory_geojson": null
+}

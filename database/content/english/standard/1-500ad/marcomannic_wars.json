@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2818,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8f0cef95436f5c51ec024e34f65de108c1e03548abc26b296f9eab9e4399524c",
+    "summary": "The Marcomannic Wars (166–180 AD) were a series of major conflicts along the Danube frontier of the [[event:81|Roman Empire]], primarily against the Germanic Marcomanni and Quadi tribes (in modern Czech Republic and Slovakia) and their allies, that proved to be a turning point in Roman imperial history — the first sustained Germanic pressure on Roman territory that prefigured the Migration Period two centuries later. The wars began when the Germanic tribes, pushed partly by population pressures and movements further east (possibly early tremors from the same steppe movements that would later produce the Hunnic invasions), made a major breakthrough into Roman Italy itself — reaching Aquileia, dangerously close to Rome, in 169 AD.\n\nEmperor [[event:2023|Marcus Aurelius]], the philosopher-emperor, spent most of his reign on the Danube frontier fighting these wars — his philosophical Meditations were written in military camp. The campaigns were eventually successful but enormously costly: new legions had to be recruited, barbarian prisoners were settled within Roman borders (creating internal vulnerabilities), and the [[event:2024|Antonine Plague]] that struck during the wars (possibly brought back by returning soldiers from the Parthian campaigns) caused massive depopulation. Marcus Aurelius died on campaign in 180 AD before completing his planned annexation of new Danubian provinces. His decision to appoint his biological son Commodus as successor — rather than choosing a capable adopted heir as his predecessors had done — led to one of Rome's most disastrous reigns, ending the era of the Five Good Emperors.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marcomannic_Wars",
+    "read_more_links": [
+        {
+            "title": "Marcus Aurelius Danube campaign",
+            "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius#Marcomannic_Wars"
+        },
+        {
+            "title": "Marcomanni Germanic tribe",
+            "url": "https://en.wikipedia.org/wiki/Marcomanni"
+        },
+        {
+            "title": "Commodus succession disaster",
+            "url": "https://en.wikipedia.org/wiki/Commodus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kelemantia3.jpg/300px-Kelemantia3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Kelemantia3.jpg",
+            "caption": "View of the Celemantia (Kelemantia) castellum in Slovakia",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/0_Relief_-_Monument_honoraire_de_Marc_Aur%C3%A8le_-_La_soumission_des_germains_%281%29.JPG/300px-0_Relief_-_Monument_honoraire_de_Marc_Aur%C3%A8le_-_La_soumission_des_germains_%281%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/0_Relief_-_Monument_honoraire_de_Marc_Aur%C3%A8le_-_La_soumission_des_germains_%281%29.JPG",
+            "caption": "Relief from honorary monument to Marcus Aurelius representing the submission ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Column_of_Marcus_Aurelius_-_detail4.jpg/300px-Column_of_Marcus_Aurelius_-_detail4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Column_of_Marcus_Aurelius_-_detail4.jpg",
+            "caption": "Detail from the Column of Marcus Aurelius in Rome.",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rilievo_da_monumento_onorario_di_Marco_Aurelio_trionfo%2C_176-180.JPG/300px-Rilievo_da_monumento_onorario_di_Marco_Aurelio_trionfo%2C_176-180.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rilievo_da_monumento_onorario_di_Marco_Aurelio_trionfo%2C_176-180.JPG",
+            "caption": "Musei Capitolini",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cotini",
+            "summary": "Celtic-speaking tribe in Germania during Roman times",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Roman_Empire_125.png/250px-Roman_Empire_125.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cotini"
+        },
+        {
+            "name": "Marcus Aurelius",
+            "summary": "Roman emperor from 161 to 180",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/250px-MSR-ra-61-b-1-DM.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+        },
+        {
+            "name": "Lucius Verus",
+            "summary": "Roman emperor from 161 to 169",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg/250px-Lucius_Verus_-_MET_-_L.2007.26_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Verus"
+        },
+        {
+            "name": "Tiberius Claudius Pompeianus",
+            "summary": "Roman politician and general (c. 125 – 193 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Marco_aurelio_e_barbaros_-_museus_capitolinos.jpg/250px-Marco_aurelio_e_barbaros_-_museus_capitolinos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tiberius_Claudius_Pompeianus"
+        },
+        {
+            "name": "Commodus",
+            "summary": "Roman emperor from 177 to 192",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg/250px-Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Commodus"
+        },
+        {
+            "name": "Pertinax",
+            "summary": "Roman emperor in 193",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Galleria_degli_Uffizi%2C_Florence_%2819676748662%29.jpg/250px-Galleria_degli_Uffizi%2C_Florence_%2819676748662%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pertinax"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1244,
+    "parent_id": 1048,
+    "granularity": "detailed",
+    "content_hash": "sha256:0991340b7ba68131eb7facf062f43438343d1f1877f7e9d766b74db52196bdd3",
+    "summary": "The alliance of Cleopatra VII and Julius Caesar (48–44 BC) was one of antiquity's most consequential political and personal partnerships. When Caesar arrived in Alexandria pursuing his defeated rival Pompey, Cleopatra — then embroiled in a civil war against her brother-husband Ptolemy XIII — famously arranged a clandestine meeting with Caesar (smuggled to him in a carpet or bedroll, according to tradition) and secured his support. Caesar defeated Ptolemy XIII in the Alexandrian War (47 BC), drowned in the Nile during the fighting, and installed Cleopatra as sole ruler alongside a younger brother Ptolemy XIV.\n\nCleopatra bore Caesar a son, Caesarion, and traveled to Rome in 46–44 BC, staying in Caesar's villa across the Tiber — a scandalous presence that inflamed Roman opinion about Caesar's alleged monarchical ambitions. After Caesar's assassination in 44 BC, she returned to Egypt and aligned with Mark Antony in the subsequent power struggle. The relationship had transformed Egypt from a declining Ptolemaic kingdom into a key player in Rome's civil wars. Cleopatra's political acumen — she was the first Ptolemaic ruler to learn the Egyptian language and cultivated an image as the goddess Isis incarnate — made her far more than a romantic partner; she was a strategic equal whose resources were essential to both Caesar's and Antony's ambitions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra",
+    "read_more_links": [
+        {
+            "title": "Cleopatra and Caesar relationship",
+            "url": "https://en.wikipedia.org/wiki/Cleopatra#Julius_Caesar"
+        },
+        {
+            "title": "Caesarion son of Caesar",
+            "url": "https://en.wikipedia.org/wiki/Caesarion"
+        },
+        {
+            "title": "Alexandrian War 47 BC",
+            "url": "https://en.wikipedia.org/wiki/Alexandrian_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/300px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "caption": "(Venice) Pompey the Great, Museo Archeologico Nazionale",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg/300px-Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg",
+            "caption": "Giambattista Tiepolo - The Banquet of Cleopatra - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Limestone_stela_of_a_high_priest_of_god_Ptah._It_bears_the_cartouches_of_Cleopatra_and_Caesarion._From_Egypt._Ptolemaic_Period._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/300px-Limestone_stela_of_a_high_priest_of_god_Ptah._It_bears_the_cartouches_of_Cleopatra_and_Caesarion._From_Egypt._Ptolemaic_Period._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Limestone_stela_of_a_high_priest_of_god_Ptah._It_bears_the_cartouches_of_Cleopatra_and_Caesarion._From_Egypt._Ptolemaic_Period._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "caption": "Limestone stela of a high-priest of god Ptah. It bears the cartouches of Cleo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_%283%29.jpg/300px-Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_%283%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_%283%29.jpg",
+            "caption": "Altes Museum - Berlin - Germany",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Ptolemy XII Auletes",
+            "summary": "Ptolemaic King of Egypt, 80–51 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ptolemy_XII_Auletes_Louvre_Ma3449.jpg/250px-Ptolemy_XII_Auletes_Louvre_Ma3449.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_XII_Auletes"
+        },
+        {
+            "name": "Ptolemy XIII Theos Philopator",
+            "summary": "Pharaoh of Egypt from 51 to 47 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ptol%C3%A9m%C3%A9e_XIII_%28Torlonia%29.jpg/250px-Ptol%C3%A9m%C3%A9e_XIII_%28Torlonia%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_XIII_Theos_Philopator"
+        },
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Caesarion",
+            "summary": "Pharaoh of Egypt from 44 to 30 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Caesarion_granite_head.jpg/250px-Caesarion_granite_head.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Caesarion"
+        },
+        {
+            "name": "Alexander Helios",
+            "summary": "Son of Egyptian Pharaoh Cleopatra VII",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alexander_Helios_bronze_statuette_of_a_boy_in_Eastern_dress_%283x4_cropped%29.jpg/250px-Alexander_Helios_bronze_statuette_of_a_boy_in_Eastern_dress_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Helios"
+        }
+    ],
+    "territory_geojson": null
+}

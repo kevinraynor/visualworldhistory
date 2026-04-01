@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1804,
+    "parent_id": 60,
+    "granularity": "notable",
+    "content_hash": "sha256:72bc2e7202c30c2bff114561b41c09d71e746542794e829486130d3c102f11f5",
+    "summary": "The Amarna Period, lasting from approximately 1353 to 1332 BC, was one of the most unusual and disruptive episodes in ancient Egyptian history, defined by the religious revolution of Pharaoh [[event:1805|Akhenaten]]. During this period the traditional polytheistic religion of Egypt was suppressed in favor of exclusive worship of the Aten, the solar disk, and the royal capital was moved from Thebes to a newly built city called Akhetaten, known today as Amarna.\n\nThe Amarna Period is distinguished by a striking transformation in Egyptian art. The canonical idealized representation of the human figure — rigidly frontal, ageless, and serene — gave way to a naturalistic style featuring exaggerated features (elongated skulls, fuller lips, pronounced abdomens), intimate family scenes of the royal household, and an unprecedented emphasis on movement and emotional expression. Amarna art represents a remarkable departure from three thousand years of artistic convention and has fascinated scholars and collectors ever since its rediscovery in the nineteenth century.\n\nThe [[event:1881|Amarna Letters]] — a cache of diplomatic correspondence found at the site — provide invaluable evidence of Late Bronze Age international relations. The tablets, written in Akkadian cuneiform, preserve communications between Akhenaten and the rulers of Babylon, Assyria, Mitanni, the Hittites, and Canaanite vassal kings, revealing a sophisticated system of diplomatic exchange, gift-giving, and dynastic marriage. After Akhenaten's death, his successors [[event:1806|Tutankhamun]] and Ay dismantled the Aten cult, restored the traditional gods, and eventually relocated the capital back to Thebes.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amarna_Period",
+    "read_more_links": [
+        {
+            "title": "Amarna (city)",
+            "url": "https://en.wikipedia.org/wiki/Amarna"
+        },
+        {
+            "title": "Amarna Letters",
+            "url": "https://en.wikipedia.org/wiki/Amarna_letters"
+        },
+        {
+            "title": "Amarna Art",
+            "url": "https://en.wikipedia.org/wiki/Amarna_art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Relief_mit_Darstellung_eines_K%C3%B6nigs_und_einer_K%C3%B6nigin_-_%C3%84gyptisches_Museum_%C3%84M_15000.jpg/300px-Relief_mit_Darstellung_eines_K%C3%B6nigs_und_einer_K%C3%B6nigin_-_%C3%84gyptisches_Museum_%C3%84M_15000.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Relief_mit_Darstellung_eines_K%C3%B6nigs_und_einer_K%C3%B6nigin_-_%C3%84gyptisches_Museum_%C3%84M_15000.jpg",
+            "caption": "Relief mit Darstellung eines Königs und einer Königin - Ägyptisches Museum ÄM...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg/300px-Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Akhenaten%2C_Nefertiri_and_three_daughers_beneath_the_Aten_-_Neues_Museum_-_Berlin_-_Germany_2017_%28cropped%29.jpg",
+            "caption": "Neues Museum - Berlin - Germany",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StatueOfHoremhebAndTheGodHorus-DetailOfHoremheb02_KunsthistorischesMuseum_Nov13-10.jpg/300px-StatueOfHoremhebAndTheGodHorus-DetailOfHoremheb02_KunsthistorischesMuseum_Nov13-10.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/StatueOfHoremhebAndTheGodHorus-DetailOfHoremheb02_KunsthistorischesMuseum_Nov13-10.jpg",
+            "caption": "Partial profile of Horemheb, from a statue of him with the God Horus\nMade of ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Amarna_centre3.jpg/300px-Amarna_centre3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Amarna_centre3.jpg",
+            "caption": "Amarna - Bâtiment du centre ville, zone du petit temple d'Aton",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Smenkhkare",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Relief_of_a_young_pharaoh_and_a_queen_holding_flowers_02.jpg/250px-Relief_of_a_young_pharaoh_and_a_queen_holding_flowers_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Smenkhkare"
+        },
+        {
+            "name": "Neferneferuaten",
+            "summary": "Ancient Egyptian female ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Golden_Nut_Pectoral_Carter_no._261p1_%28cropped%29.jpg/250px-Golden_Nut_Pectoral_Carter_no._261p1_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neferneferuaten"
+        },
+        {
+            "name": "Tutankhamun",
+            "summary": "Pharaoh of Egypt from 1333 to 1324 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/250px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tutankhamun"
+        },
+        {
+            "name": "Damnatio memoriae",
+            "summary": "Exclusion of a person from official records and accounts",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Portrait_of_family_of_Septimius_Severus_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg/250px-Portrait_of_family_of_Septimius_Severus_-_Altes_Museum_-_Berlin_-_Germany_2017.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Damnatio_memoriae"
+        },
+        {
+            "name": "Nefertiti",
+            "summary": "Wife of the Egyptian pharaoh Akhenaten",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/250px-Nofretete_Neues_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nefertiti"
+        }
+    ],
+    "territory_geojson": null
+}

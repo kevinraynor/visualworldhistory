@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1037,
+    "parent_id": 75,
+    "granularity": "detailed",
+    "content_hash": "sha256:64ee6c977d4a62970a9d724fc369cac0f8e395fcba065e126d6150cf22a9823c",
+    "summary": "The Battle of the Hydaspes (326 BC) was the final major pitched battle of [[event:75|Alexander the Great's Empire]], fought on the banks of the Hydaspes River (modern Jhelum) in the Punjab against the Indian king Porus and his army of cavalry, infantry, and war elephants. It was one of the most tactically demanding battles Alexander fought, requiring him to solve the novel problem of war elephants that could scatter cavalry horses.\n\nAlexander crossed the swollen river at night using a feint, surprising Porus's forces at a crossing point away from the main army. In the battle itself, Alexander used his cavalry to force the elephants to bunch together in confusion, then attacked with infantry when the animals were no longer able to maneuver effectively. Porus himself, a man of imposing physical stature who fought from atop an elephant, was wounded but refused to surrender until his resistance became impossible. Alexander treated him with great respect, restoring his kingdom as a vassal — a pattern of magnanimity toward brave adversaries that was characteristic of his treatment of defeated opponents. The battle represented the western world's first large-scale encounter with war elephants; after the Hydaspes, elephants became standard components of Hellenistic armies.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Hydaspes",
+    "read_more_links": [
+        {
+            "title": "Porus",
+            "url": "https://en.wikipedia.org/wiki/Porus"
+        },
+        {
+            "title": "War Elephants in Antiquity",
+            "url": "https://en.wikipedia.org/wiki/War_elephant"
+        },
+        {
+            "title": "Alexander the Great in India",
+            "url": "https://en.wikipedia.org/wiki/Indian_campaign_of_Alexander_the_Great"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/South_Asia_non_political%2C_with_rivers.jpg/300px-South_Asia_non_political%2C_with_rivers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Asia_non_political%2C_with_rivers.jpg",
+            "caption": "South Asia non political, with rivers",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Porus_awaits_the_attack_of_Alexander_july_326_B.C..jpg/300px-Porus_awaits_the_attack_of_Alexander_july_326_B.C..jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Porus_awaits_the_attack_of_Alexander_july_326_B.C..jpg",
+            "caption": "Porus awaits the attack of Alexander July 326 B.C. From Hutchinson's story of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Le_Brun%2C_Alexander_and_Porus.jpg/300px-Le_Brun%2C_Alexander_and_Porus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Le_Brun%2C_Alexander_and_Porus.jpg",
+            "caption": "Alexander and Porus by Charles Le Brun, painted 1673.\nLe Brun also spelled LE...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Defeat_of_Porus_by_the_Macedonians.jpg/300px-Defeat_of_Porus_by_the_Macedonians.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Defeat_of_Porus_by_the_Macedonians.jpg",
+            "caption": "Defeat of Porus by the Macedonians",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Francesco Fontebasso",
+            "summary": "Italian painter (1707–1769)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Francesco_Fontebasso.jpg/250px-Francesco_Fontebasso.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francesco_Fontebasso"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Craterus",
+            "summary": "General of Alexander the Great (c.370–321 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg/250px-The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Craterus"
+        },
+        {
+            "name": "Taxiles",
+            "summary": "Ruler of Taxila from 326 to 316 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxiles_offering_presents_to_Alexander.jpg/250px-Taxiles_offering_presents_to_Alexander.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taxiles"
+        },
+        {
+            "name": "Cavalry",
+            "summary": "Soldiers or warriors fighting from horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg/250px-Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalry"
+        },
+        {
+            "name": "Arrian",
+            "summary": "2nd century Greek historian, official and philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Arrian7.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arrian"
+        }
+    ],
+    "territory_geojson": null
+}

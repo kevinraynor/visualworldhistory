@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2387,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:bbaa48596daf981a4ccd5c331517abcc21e24cf010bdc8f4a873603189d69659",
+    "summary": "The Lisbon Earthquake (November 1, 1755 AD) was a catastrophic earthquake (estimated magnitude 8.5–9.0) followed by a devastating tsunami and fires that destroyed approximately 85% of Lisbon and killed an estimated 30,000–40,000 people — an event whose scale and its occurrence on All Saints' Day (when most Catholics were in church) made it one of the most shocking natural disasters in European history and triggered a profound philosophical and theological crisis across the [[event:2346|Enlightenment]]. The earthquake struck at 9:40 AM when churches and cathedrals were packed with worshippers for the holy day; many were killed by collapsing church buildings, then tsunami waves (up to 6 meters high) swept the lower city, and fires from overturned candles and furnaces burned for days afterward.\n\nThe disaster's philosophical impact was immense. It struck at the Leibnizian optimism — the argument that this is 'the best of all possible worlds' — that was central to early Enlightenment theodicy: how could a benevolent God destroy thousands of devout Catholics at prayer in one of Europe's most Catholic cities, on its most sacred holiday, while leaving brothels and gambling dens intact? Voltaire's Poem on the Lisbon Disaster (1755) and his novel Candide (1759), with its devastating satirical attack on Panglossian optimism ('all is for the best in the best of all possible worlds'), were direct responses to the earthquake. Theologically, the event accelerated the shift from providentialist to secular explanations of natural events. Practically, the Portuguese prime minister the Marquis of Pombal organized one of the earliest systematic disaster relief and reconstruction efforts in history, rebuilding Lisbon on a rational grid pattern with earthquake-resistant ('Pombaline') architecture — one of the first examples of state-led urban planning.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+    "read_more_links": [
+        {
+            "title": "Voltaire Candide Lisbon earthquake Enlightenment response",
+            "url": "https://en.wikipedia.org/wiki/Candide"
+        },
+        {
+            "title": "Marquis Pombal reconstruction Lisbon urban planning",
+            "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Jos%C3%A9_de_Carvalho_e_Melo"
+        },
+        {
+            "title": "Lisbon earthquake theological crisis theodicy God",
+            "url": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake#Philosophical_and_theological_impact"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/O_Terramoto_de_1755_%281756-92%29_-_Jo%C3%A3o_Glama_%28MNAA%29.png/300px-O_Terramoto_de_1755_%281756-92%29_-_Jo%C3%A3o_Glama_%28MNAA%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/O_Terramoto_de_1755_%281756-92%29_-_Jo%C3%A3o_Glama_%28MNAA%29.png",
+            "caption": "The Earthquake of 1755, painted from 1756 to 1792 by João Glama Ströberle (17...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tsunami_Forecast_Model_Animation-_Lisbon_1755.webm/300px-Tsunami_Forecast_Model_Animation-_Lisbon_1755.webm",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tsunami_Forecast_Model_Animation-_Lisbon_1755.webm",
+            "caption": "On the morning of November 1, 1755, a great earthquake shook Portugal's capit...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandeira_municipal_de_Lisboa.png/300px-Bandeira_municipal_de_Lisboa.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_municipal_de_Lisboa.png",
+            "caption": "Lisbon's flag",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bandeira_municipal_de_Lisboa.png/300px-Bandeira_municipal_de_Lisboa.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bandeira_municipal_de_Lisboa.png",
+            "caption": "Lisbon's flag",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        },
+        {
+            "name": "Ex-voto",
+            "summary": "Votive offering to a saint or to a divinity in Christianity",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Our_Lady_of_San_Juan_de_los_Lagos_votive_1911.jpg/250px-Our_Lady_of_San_Juan_de_los_Lagos_votive_1911.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ex-voto"
+        },
+        {
+            "name": "Cornwall",
+            "summary": "Ceremonial county in England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Michael%27s_Mount_View.jpg/250px-St_Michael%27s_Mount_View.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cornwall"
+        },
+        {
+            "name": "Ruins",
+            "summary": "Remains of human-made architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg/250px-Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruins"
+        },
+        {
+            "name": "Manueline",
+            "summary": "16th century Portuguese architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/250px-Torre_Bel%C3%A9m_April_2009-4a.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Manueline"
+        },
+        {
+            "name": "Titian",
+            "summary": "Italian painter (c. 1477/88/90–1576)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/250px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Titian"
+        }
+    ],
+    "territory_geojson": null
+}

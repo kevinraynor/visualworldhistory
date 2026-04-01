@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3683,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:7bf841487a8861d4c22f4805f53f2fa5f3c8f144e79bc4f1acfee173bbf9ef06",
+    "summary": "The discovery that chlorofluorocarbons (CFCs) and other industrial chemicals were depleting the stratospheric ozone layer — which shields Earth's surface from harmful ultraviolet radiation — was one of the most important environmental scientific findings of the twentieth century. Mario Molina and F. Sherwood Rowland published their landmark paper warning of CFC-ozone depletion in 1974. In 1985, British Antarctic Survey scientists published evidence of a dramatic seasonal ozone hole over Antarctica, and satellite data confirmed a hole of continental scale.\n\nThe ozone layer discovery led directly to the [[event:3684|Montreal Protocol]] of 1987, an international treaty phasing out CFC production that became a landmark in global environmental governance. The three scientists most responsible for the theoretical and observational work — Molina, Rowland, and Paul Crutzen — shared the Nobel Prize in Chemistry in 1995. The ozone case became the model example of how scientific consensus on an environmental threat could translate into effective international regulatory action, and was frequently cited in subsequent debates about climate change as a precedent for global cooperation on atmospheric chemistry.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ozone_layer",
+    "read_more_links": [
+        {
+            "title": "Ozone depletion",
+            "url": "https://en.wikipedia.org/wiki/Ozone_depletion"
+        },
+        {
+            "title": "Mario Molina",
+            "url": "https://en.wikipedia.org/wiki/Mario_Molina"
+        },
+        {
+            "title": "Ozone hole",
+            "url": "https://en.wikipedia.org/wiki/Ozone_hole"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ultraviolet_image_of_the_Cygnus_Loop_Nebula_crop.jpg/300px-Ultraviolet_image_of_the_Cygnus_Loop_Nebula_crop.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Ultraviolet_image_of_the_Cygnus_Loop_Nebula_crop.jpg",
+            "caption": "Wispy tendrils of hot dust and gas glow brightly in this ultraviolet image of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/ISS041-E-105277_-_View_of_the_Northern_Territory.jpg/300px-ISS041-E-105277_-_View_of_the_Northern_Territory.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/ISS041-E-105277_-_View_of_the_Northern_Territory.jpg",
+            "caption": "View of the Northern Territory taken during ISS Expedition 41.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Future_ozone_layer_concentrations.gif/300px-Future_ozone_layer_concentrations.gif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Future_ozone_layer_concentrations.gif",
+            "caption": "NASA projection from 1974 to 2060 of the impact of CFCs on the Ozone layer if...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Atmosphere20Layers_2018.jpg/300px-Atmosphere20Layers_2018.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Atmosphere20Layers_2018.jpg",
+            "caption": "\"Earth's atmospheric layers further shield the planet and airborne and spaceb...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles Fabry",
+            "summary": "French physicist (1867–1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Charles_Fabry.jpg/250px-Charles_Fabry.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Fabry"
+        },
+        {
+            "name": "Meteorologist",
+            "summary": "Scientist specialising in meteorology",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Project_Vortex-_filming_a_potentially_tornadogenic_storm.jpg/250px-Project_Vortex-_filming_a_potentially_tornadogenic_storm.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Meteorologist"
+        },
+        {
+            "name": "G. M. B. Dobson",
+            "summary": "British physicist (1889–1976)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/G._M._B._Dobson_in_1952.jpg/250px-G._M._B._Dobson_in_1952.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/G._M._B._Dobson"
+        },
+        {
+            "name": "Sydney Chapman (mathematician)",
+            "summary": "British mathematician and geophysicist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sydney_Chapman.jpg/250px-Sydney_Chapman.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sydney_Chapman_%28mathematician%29"
+        }
+    ],
+    "territory_geojson": null
+}

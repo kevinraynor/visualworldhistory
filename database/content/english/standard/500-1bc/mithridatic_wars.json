@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1091,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:e585dcb450779a2c7c8cc7161a6aa489cd5e236429e2c44dfda6a05a225b278d",
+    "summary": "The Mithridatic Wars (88–63 BC) were three conflicts between Rome and Mithridates VI of Pontus, the last major power in Asia Minor capable of challenging Roman dominance, fought across the eastern Mediterranean over twenty-five years. Mithridates, who claimed descent from both the Persian Achaemenids and Alexander's successors, attempted to build a Black Sea empire capable of resisting Roman expansion.\n\nThe First Mithridatic War (88–85 BC) began dramatically when Mithridates ordered the simultaneous massacre of all Romans and Italians in Asia Minor — ancient sources claim 80,000 were killed in a single day (the Asiatic Vespers). [[event:1071|Sulla's Dictatorship]]'s Sulla cut short his domestic political conflict to conduct the eastern campaign, eventually driving Mithridates from Greece and concluding a peace that left Mithridates weakened but not destroyed. The Second (83–81 BC) and Third (73–63 BC) Wars continued the conflict; the Third was ended by Gnaeus Pompey, whose [[event:1096|Pompey's Eastern Campaigns]] campaigns across the east made him Rome's greatest general. Mithridates finally fled to the Crimea and committed suicide in 63 BC after his son betrayed him. The wars made Pompey fabulously rich and expanded Roman power throughout the Near East.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mithridatic_Wars",
+    "read_more_links": [
+        {
+            "title": "Mithridates VI of Pontus",
+            "url": "https://en.wikipedia.org/wiki/Mithridates_VI_of_Pontus"
+        },
+        {
+            "title": "Sulla",
+            "url": "https://en.wikipedia.org/wiki/Sulla"
+        },
+        {
+            "title": "Pompey",
+            "url": "https://en.wikipedia.org/wiki/Pompey"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mithridates_VI_Louvre.jpg/300px-Mithridates_VI_Louvre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mithridates_VI_Louvre.jpg",
+            "caption": "Portrait of the king of Pontus Mithridates VI as Heracles. Marble, Roman impe...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Shepherd%2C_Historical_Atlas_%281911%29%2C_Asia_Minor_63_BC.jpg/300px-Shepherd%2C_Historical_Atlas_%281911%29%2C_Asia_Minor_63_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Shepherd%2C_Historical_Atlas_%281911%29%2C_Asia_Minor_63_BC.jpg",
+            "caption": "Asia Minor in 63 BC at the end of the Third Mithridatic War. Retouching, reco...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pompey-the-great.png/300px-Pompey-the-great.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pompey-the-great.png",
+            "caption": "Bust of Gnaeus Pompey the Great. Coarse-grained white marble, total height 37...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mithridates VI Eupator",
+            "summary": "King of Pontus from 120 to 63 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mithridates_VI_Louvre.jpg/250px-Mithridates_VI_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator"
+        },
+        {
+            "name": "Lucullus",
+            "summary": "Roman politician and general (118–57/56 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lukullus_wiki.png/250px-Lukullus_wiki.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucullus"
+        },
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "name": "Ariarathes IX of Cappadocia",
+            "summary": "King of Cappadocia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Drachm_of_Ariarathes_IX.jpg/250px-Drachm_of_Ariarathes_IX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ariarathes_IX_of_Cappadocia"
+        },
+        {
+            "name": "Gaius Marius",
+            "summary": "Roman general and statesman (c. 157–86 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png/250px-RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "name": "Ariobarzanes I of Cappadocia",
+            "summary": "King of Cappadocia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Coin_of_Ariobarzanes%2C_minted_at_Mazaca_in_83_or_82_BC.jpg/250px-Coin_of_Ariobarzanes%2C_minted_at_Mazaca_in_83_or_82_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ariobarzanes_I_of_Cappadocia"
+        }
+    ],
+    "territory_geojson": null
+}

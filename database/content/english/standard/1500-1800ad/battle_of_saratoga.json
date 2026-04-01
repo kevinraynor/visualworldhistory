@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2395,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e8b3c04ed47839bb38340d8ff3008d41c679ca665aada730378e759384500cd3",
+    "summary": "The Battle of Saratoga (September–October 1777 AD) was the turning point of the [[event:106|American Revolutionary War]], a two-battle engagement in upstate New York at which American forces under General Horatio Gates (with significant contributions from Benedict Arnold and Daniel Morgan) surrounded and forced the surrender of British General Burgoyne's army of approximately 6,000 men — the first major American victory in the war and the event that convinced France to enter as America's open military ally. British strategy for 1777 had called for Burgoyne's 'Gentlemen Johnny' army to march south from Canada through the Hudson Valley, connecting with forces from New York City and isolating New England from the rest of the colonies — a plan that would have potentially ended the rebellion.\n\nThe plan failed at multiple levels: Burgoyne's southern movement was slowed by American forces felling trees across his path; the promised cooperation from New York City (under Howe) never materialized, as Howe instead campaigned against Philadelphia; and American sharpshooters under Daniel Morgan's rifle corps proved devastating in the forest fighting, picking off British officers. Benedict Arnold's aggressive counterattacks at the First Battle of Saratoga (Freeman's Farm, September 19) and the Second Battle (Bemis Heights, October 7) inflicted severe casualties; surrounded by an ever-growing American force, Burgoyne surrendered on October 17, 1777. The surrender of an entire British army shocked European capitals: France, which had been covertly supplying American forces, now openly entered the war as an American ally (February 1778), bringing its navy, army, and financial resources into the conflict — transforming an American colonial revolt into a global war that Britain could not win.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battles_of_Saratoga",
+    "read_more_links": [
+        {
+            "title": "Burgoyne surrender Saratoga October 1777",
+            "url": "https://en.wikipedia.org/wiki/Battles_of_Saratoga#Surrender"
+        },
+        {
+            "title": "French alliance 1778 Saratoga consequence",
+            "url": "https://en.wikipedia.org/wiki/France_in_the_American_Revolutionary_War"
+        },
+        {
+            "title": "Benedict Arnold Saratoga heroism before treason",
+            "url": "https://en.wikipedia.org/wiki/Benedict_Arnold"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Saratoga_Battlefied.jpg/300px-Saratoga_Battlefied.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Saratoga_Battlefied.jpg",
+            "caption": "Battlefield of the Battle of Saratoga, now part of Saratoga National Historic...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/John_Neilson_House%2C_Bemis_Heights%2C_Stillwater%2C_Saratoga_County%2C_NY.jpg/300px-John_Neilson_House%2C_Bemis_Heights%2C_Stillwater%2C_Saratoga_County%2C_NY.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/John_Neilson_House%2C_Bemis_Heights%2C_Stillwater%2C_Saratoga_County%2C_NY.jpg",
+            "caption": "John Neilson House, Bemis Heights, Stillwater, Saratoga County, NY. Situated ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Battle_of_Saratoga_map%2C_September_10%2C_1777.jpg/300px-Battle_of_Saratoga_map%2C_September_10%2C_1777.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Battle_of_Saratoga_map%2C_September_10%2C_1777.jpg",
+            "caption": "Plan of the position which the army under Lt. General Burgoyne took at Sarato...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HoratioGatesByStuart.jpeg/300px-HoratioGatesByStuart.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/HoratioGatesByStuart.jpeg",
+            "caption": "Oil painting of Continental Army general Horatio Gates.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Trumbull",
+            "summary": "American artist (1756–1843)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Self_Portrait_by_John_Trumbull_circa_1802.jpeg/250px-Self_Portrait_by_John_Trumbull_circa_1802.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Trumbull"
+        },
+        {
+            "name": "John Burgoyne",
+            "summary": "British Army officer, playwright and politician (1722–1792)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/General_John_Burgoyne_-_Reynolds_c._1766.jpg/250px-General_John_Burgoyne_-_Reynolds_c._1766.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Burgoyne"
+        },
+        {
+            "name": "Horatio Gates",
+            "summary": "British-born American army officer and politician (1727–1806)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HoratioGatesByStuart.jpeg/250px-HoratioGatesByStuart.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Horatio_Gates"
+        },
+        {
+            "name": "Saratoga County, New York",
+            "summary": "County in New York, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Downtown_Saratoga_Springs.jpg/250px-Downtown_Saratoga_Springs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saratoga_County%2C_New_York"
+        },
+        {
+            "name": "William Howe, 5th Viscount Howe",
+            "summary": "British Army officer and politician (1729–1814)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gen._Sir_William_Howe.jpg/250px-Gen._Sir_William_Howe.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Howe%2C_5th_Viscount_Howe"
+        },
+        {
+            "name": "Pincer movement",
+            "summary": "Military tactic: simultaneously attacking both sides of an enemy formation",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pincer.png/250px-Pincer.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pincer_movement"
+        }
+    ],
+    "territory_geojson": null
+}

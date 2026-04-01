@@ -1,0 +1,76 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1459,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:9642c5f1399545be2458657de308247e37e36a3a7cf78dd81690294be700b112",
+    "summary": "The earliest evidence for actual copper smelting — the chemical reduction of copper ore to produce metallic copper — dates to approximately 6500 to 6000 BCE at sites in Anatolia and the Levant, representing a crucial advance beyond the earlier practice of cold-working native copper. Smelting requires heating copper-bearing minerals such as malachite or azurite to sufficiently high temperatures in a reducing atmosphere to release metallic copper, a process that demanded both sophisticated understanding of fire management and the development of appropriate furnace or hearth technology.\n\nThe relationship between pottery firing and metallurgy is intimate: the kiln knowledge required to achieve and sustain temperatures above 1000°C, developed initially in the context of [[event:22|ceramic production]], provided the technical prerequisite for copper smelting. Sites in the northern Levant and southeastern Anatolia, including localities associated with the later stages of communities like [[event:11|Çatalhöyük]] and its regional contemporaries, provide the earliest clear evidence of smelted copper objects.\n\nEarly smelted copper objects were predominantly ornamental — pins, beads, rings, and small pendants — rather than tools or weapons, suggesting that the primary motivation for the technology was the production of prestigious display items rather than utilitarian improvement. This pattern, in which new material technologies first serve social distinction before finding broader practical applications, recurs throughout the history of metallurgy. The mastery of copper smelting in the seventh and sixth millennia BCE set the stage for subsequent developments in lead, silver, and eventually bronze metallurgy that would transform Eurasian societies in the third and second millennia BCE.\n\nThe broader [[event:15|Anatolian copper-working tradition]] represents the geographic and technological context from which the earliest smelting emerged. Distinguishing precisely between the earliest smelting events and earlier cold-working or low-temperature heating of native copper is an ongoing area of archaeometallurgical research.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smelting#History",
+    "read_more_links": [
+        {
+            "title": "Smelting History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Smelting"
+        },
+        {
+            "title": "Copper - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Copper"
+        },
+        {
+            "title": "Chalcolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic"
+        },
+        {
+            "title": "History of Metallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_metallurgy_in_the_Near_East"
+        },
+        {
+            "title": "Archaeometallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archaeometallurgy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/TVA_phosphate_smelting_furnace.jpg/300px-TVA_phosphate_smelting_furnace.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/TVA_phosphate_smelting_furnace.jpg",
+            "caption": "Title: Large electric phosphate smelting furnace used in the making of elemen...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karabash_copper_smelter.jpg/300px-Karabash_copper_smelter.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Karabash_copper_smelter.jpg",
+            "caption": "Copper smelter of Karabash, Chelyabinsk Oblast, Russia, responsible for one o...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg/300px-S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg",
+            "caption": "Série de cuves d'électrolyse. Usine de Saint-Jean-de-Maurienne.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cowles_furnace-2.jpg/300px-Cowles_furnace-2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cowles_furnace-2.jpg",
+            "caption": "Cowles' electric smelting furnace at Cowles Syndicate Company, Limited, w:Sto...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Coke (fuel)",
+            "summary": "Coal product used in making steel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Koks_Brennstoff.jpg/250px-Koks_Brennstoff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coke_%28fuel%29"
+        },
+        {
+            "name": "Paul Héroult",
+            "summary": "French scientist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/PaulHeroult.jpg/250px-PaulHeroult.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_H%C3%A9roult"
+        }
+    ],
+    "territory_geojson": null
+}

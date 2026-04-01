@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3531,
+    "parent_id": 92,
+    "granularity": "detailed",
+    "content_hash": "sha256:2f359d96f646cd0885de5d5a1464cc853f0a466d504eca2eac047ca5bb8666fa",
+    "summary": "The Fall of Acre (May 18, 1291 AD) was the final and definitive end of the Crusader presence in the Holy Land, as the [[event:2275|Mamluk]] Sultan al-Ashraf Khalil captured the last major Crusader city after a siege of six weeks, massacring or enslaving the population and destroying the city's fortifications to ensure it could never serve as a Christian beachhead again. Acre had been the capital of the rump Kingdom of Jerusalem since the [[event:2221|Crusaders' loss]] of Jerusalem itself in 1187, and despite its much-reduced territory (by 1291 it was essentially a city-state with a few nearby towns), it remained one of the most important trading ports in the eastern Mediterranean, defended by the combined forces of the military orders (Templars, Hospitallers, Teutonic Knights) and the remnant Crusader nobility.\n\nThe Mamluk assault was overwhelming: al-Ashraf Khalil assembled a massive army estimated at 100,000–160,000 men with a train of siege engines, and systematically demolished Acre's towers and walls. The final assault on May 18 was preceded by the collapse of the fortifications; the Mamluk forces flooded the city. Some defenders and civilians escaped by sea; the remaining population was killed or enslaved. The Templars made a final stand in their great tower before it collapsed, killing besiegers and defenders alike. The fall of Acre ended 200 years of Crusader states in the Levant and shattered any realistic prospect of reconquest — subsequent crusade proposals never materialized into effective expeditions. The Mamluk demolition of Acre's harbor was deliberate: they wanted no future Crusader foothold. The Military Orders (Templars, Hospitallers) retreated to Cyprus; the Hospitallers eventually moved to Rhodes and then Malta, where they survived as a naval power for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Acre_(1291)",
+    "read_more_links": [
+        {
+            "title": "Mamluk Sultan al-Ashraf Khalil siege Acre",
+            "url": "https://en.wikipedia.org/wiki/Al-Ashraf_Khalil"
+        },
+        {
+            "title": "Military Orders Templars Hospitallers after Acre",
+            "url": "https://en.wikipedia.org/wiki/Knights_Hospitaller#Cyprus_and_Rhodes"
+        },
+        {
+            "title": "End of Crusader states Outremer collapse",
+            "url": "https://en.wikipedia.org/wiki/Crusader_states#Decline_and_fall"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Naval_Flags_Sovereign_Military_Order_of_Malta.jpg/300px-Naval_Flags_Sovereign_Military_Order_of_Malta.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Naval_Flags_Sovereign_Military_Order_of_Malta.jpg",
+            "caption": "Zwei im Laufe der Jahrhunderte benutzte Flaggen der Marine des Malteserordens",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 de"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/1291_si%C3%A8ge_d%27Acre.jpg/300px-1291_si%C3%A8ge_d%27Acre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/1291_si%C3%A8ge_d%27Acre.jpg",
+            "caption": "Guillaume de Clermont défend Ptolémaïs",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Siege_of_Tripoli_Painting_%281289%29.jpg/300px-Siege_of_Tripoli_Painting_%281289%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Siege_of_Tripoli_Painting_%281289%29.jpg",
+            "caption": "The fall of Tripoli to the Mamluks, April 1289.  This was a battle towards th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/300px-046CupolaSPietro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+            "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Matthew of Clermont",
+            "summary": "Marshal of the Knights Hospitaller",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SiegeOfAcre1291.jpg/250px-SiegeOfAcre1291.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Matthew_of_Clermont"
+        },
+        {
+            "name": "Dominique Papety",
+            "summary": "French painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Dominique_Papety_by_Louis-Marie_Normand.jpg/250px-Dominique_Papety_by_Louis-Marie_Normand.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dominique_Papety"
+        },
+        {
+            "name": "Al-Ashraf Khalil",
+            "summary": "Sultan of Egypt and Syria (r. 1290–1293)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Al-Ashraf_Jalil_denario.jpg/250px-Al-Ashraf_Jalil_denario.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Ashraf_Khalil"
+        },
+        {
+            "name": "Lajin",
+            "summary": "Sultan of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gold_dinar_of_Lajin.jpg/250px-Gold_dinar_of_Lajin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lajin"
+        },
+        {
+            "name": "Saladin",
+            "summary": "Founder of the Ayyubid dynasty (c. 1137–1193)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Al-Nasir_I_Salah_al-Din_Yusuf_%28Saladin%29._AH_564-589_%281169-1193_CE%29_%C3%86_Dirham_%2830.1mm%2C_13.28_g%2C_6h%29._Without_mint-name._Dated_AH_586_%28AD_1190-91%29._Sultan_sitting_facing%2C_cross-legged%2C_on_high-backed_throne_%28obverse%29.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saladin"
+        },
+        {
+            "name": "Louis IX of France",
+            "summary": "King of France from 1226 to 1270",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Saintlouis_%28cropped%29.jpg/250px-Saintlouis_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+        }
+    ],
+    "territory_geojson": null
+}

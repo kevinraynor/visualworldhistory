@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2696,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:c2a2f1c6ad4d60a7bfdefb309e6348af767e84b62e8a9372848fbe49497caa09",
+    "summary": "The Yugoslav Wars were a series of ethnic conflicts and civil wars fought in the territories of the former Socialist Federal Republic of Yugoslavia from 1991 to 2001 as the federation disintegrated along national and ethnic lines following the end of communist rule and the [[event:2682|dissolution of the Soviet Union]]. The wars encompassed the [[event:3679|Ten-Day War in Slovenia]], the [[event:3678|Croatian War of Independence]], the [[event:3677|Bosnian War]], and the [[event:2770|Kosovo War]], and were characterized by systematic ethnic cleansing, widespread atrocities, and the [[event:2723|Srebrenica massacre]] — the worst mass killing in Europe since the Holocaust.\n\nYugoslavia under Marshal Tito had maintained a multi-ethnic federation of six republics through a combination of communist authority, Yugoslav nationalism, and careful balancing of ethnic groups. Tito's death in 1980 removed the unifying figure, and economic crisis in the 1980s fueled nationalist movements across the republics. The rise of Serbian nationalist leader Slobodan Milosevic and his assertion of Serbian dominance over Kosovo and Vojvodina in 1989 intensified Slovenian and Croatian demands for independence.\n\nSlovenia and Croatia declared independence in June 1991. The brief war in Slovenia lasted ten days before Yugoslav federal forces withdrew. The Croatian war was far bloodier, as Serb minorities backed by the Yugoslav People's Army carved out ethnically cleansed territories. Bosnia-Herzegovina's 1992 independence declaration launched the most devastating of the wars: a three-and-a-half-year conflict among Bosniak Muslims, Bosnian Serbs backed by Serbia, and Bosnian Croats backed by Croatia, characterized by the siege of Sarajevo — the longest siege of a capital city in modern warfare — and systematic ethnic cleansing.\n\nThe [[event:2723|Srebrenica massacre]] of July 1995, in which Bosnian Serb forces under General Ratko Mladic killed approximately 8,000 Bosniak men and boys in a UN-designated \"safe area,\" was classified as genocide by the International Criminal Tribunal for the former Yugoslavia (ICTY). NATO's military intervention — airstrikes against Bosnian Serb positions — ultimately forced the Dayton negotiations that produced the [[event:3473|Dayton Agreement]] of November 1995, partitioning Bosnia into two entities.\n\nThe [[event:2770|Kosovo War]] of 1998-99, in which Serbian forces conducted ethnic cleansing against Albanian Kosovars, prompted NATO's [[event:3474|bombing campaign]] against Yugoslavia and ultimately the establishment of a UN administration in Kosovo. Kosovo declared independence in 2008, a status recognized by most Western nations but disputed by Serbia and Russia. The ICTY prosecuted over 100 individuals for war crimes, crimes against humanity, and genocide, including Milosevic (who died during trial) and Mladic.\n\nThe Yugoslav Wars demonstrated the catastrophic potential for ethnic violence when multinational states collapse, and the international community's early failure to prevent mass atrocities in Europe's own backyard fundamentally shaped subsequent debates about humanitarian intervention and the Responsibility to Protect doctrine.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+    "read_more_links": [
+        {
+            "title": "Dissolution of Yugoslavia – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Yugoslavia/The-collapse-of-Yugoslavia"
+        },
+        {
+            "title": "Bosnian War – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bosnian_War"
+        },
+        {
+            "title": "Srebrenica Massacre – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Srebrenica_massacre"
+        },
+        {
+            "title": "ICTY – UN International Criminal Tribunal",
+            "url": "https://www.icty.org/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Siege-Shattered_Facade_-_Sarajevo_-_Bosnia_and_Herzegovina.jpg/300px-Siege-Shattered_Facade_-_Sarajevo_-_Bosnia_and_Herzegovina.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Siege-Shattered_Facade_-_Sarajevo_-_Bosnia_and_Herzegovina.jpg",
+            "caption": "Siege-Shattered Facade - Sarajevo - Bosnia and Herzegovina",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Srebrenica_Massacre_-_Massacre_Victim_2_-_Potocari_2007.jpg/300px-Srebrenica_Massacre_-_Massacre_Victim_2_-_Potocari_2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Srebrenica_Massacre_-_Massacre_Victim_2_-_Potocari_2007.jpg",
+            "caption": "Skull of a victim of the July 1995 Srebrenica massacre. Exhumed mass grave ou...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sunja_%28Croatia%29.JPG/300px-Sunja_%28Croatia%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sunja_%28Croatia%29.JPG",
+            "caption": "Destroyed Serbian house in Sunja, Croatia. From 1991-1995 Sunja was part of R...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mladi%C4%87_Trial_Judgement_%28crop%29.jpg/300px-Mladi%C4%87_Trial_Judgement_%28crop%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mladi%C4%87_Trial_Judgement_%28crop%29.jpg",
+            "caption": "22 November 2017 - Ratko Mladić, former commander of the Bosnian Serb Army, a...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Revolutions of 1989",
+            "summary": "Revolutionary wave overthrowing most communist states in Europe",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg/250px-West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Revolutions_of_1989"
+        },
+        {
+            "name": "Slobodan Milošević",
+            "summary": "Yugoslav and Serbian politician (1941–2006)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Stevan_Kragujevi%C4%87%2C_Slobodan_Milo%C5%A1evi%C4%87%2C_portret_%28cropped%29.jpg/250px-Stevan_Kragujevi%C4%87%2C_Slobodan_Milo%C5%A1evi%C4%87%2C_portret_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87"
+        }
+    ],
+    "territory_geojson": null
+}

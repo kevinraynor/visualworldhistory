@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1325,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6a2abc90594d7dc40c18fe14a4e32e2d6bfe959d6b63c99aedfb360beae81916",
+    "summary": "Microlithic technology — the production of very small, precisely shaped flint or obsidian blades and geometric forms (crescents, triangles, trapezes, backed bladelets) intended for use as components in composite tools — was one of the defining technological innovations of the late Palaeolithic and Mesolithic periods across Eurasia and Africa. By 10,000–8,000 BCE, microlith production was widespread across Europe, the Near East, Africa, South Asia, and parts of East Asia, representing the dominant mode of knapped stone tool manufacture in many of these regions.\n\nMicroliths were hafted in rows along the edges of wooden or bone shafts to create effective cutting edges, arrowheads, and spear tips that combined the sharpness of flint with the flexibility to replace individual damaged elements without discarding the entire tool. This modularity made composite microlithic weapons and tools significantly more efficient in terms of raw material use and repair than the earlier large flake and blade tools of the Upper Palaeolithic. The spread of microlithic technology across different cultural traditions is not fully understood — it may reflect independent invention in response to similar ecological challenges, diffusion through contact networks, or population movements.\n\nIn the Levant, microlithic traditions such as the [[event:1303|Kebaran culture]] gave way to the semi-sedentary [[event:4|Natufian culture]] in which microlithic sickle blades played a critical role in the intensified harvesting of wild cereals that preceded agriculture. Microlithic tools remained in use well into the Neolithic period in many regions even after pottery and other new technologies were adopted.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Microlith",
+    "read_more_links": [
+        {
+            "title": "Mesolithic Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mesolithic"
+        },
+        {
+            "title": "Lithic Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lithic_technology"
+        },
+        {
+            "title": "Stone Tool History - Britannica",
+            "url": "https://www.britannica.com/technology/stone-tool"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/S%C3%A9pulture_de_Teviec_Global.jpg/300px-S%C3%A9pulture_de_Teviec_Global.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/S%C3%A9pulture_de_Teviec_Global.jpg",
+            "caption": "Tomb of Téviec. Two skeletons of women between 25 and 35 years of age, dated ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pointe_de_la_Gravette_MHNT_PRE.2009.0.231.2.fond_%282%29.jpg/300px-Pointe_de_la_Gravette_MHNT_PRE.2009.0.231.2.fond_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pointe_de_la_Gravette_MHNT_PRE.2009.0.231.2.fond_%282%29.jpg",
+            "caption": "Micro-gravette  - Different views of the same specimen",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Microlame_0.225.1.jpg/300px-Microlame_0.225.1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Microlame_0.225.1.jpg",
+            "caption": "Backed edge bladelet - Different views of the same specimen.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Pointe_228.2_La_Tourasse_%283%29.jpg/300px-Pointe_228.2_La_Tourasse_%283%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Pointe_228.2_La_Tourasse_%283%29.jpg",
+            "caption": "Azilian point - Different views of the same specimen",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dorset",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Durdle_Door_Overview.jpg/250px-Durdle_Door_Overview.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dorset"
+        },
+        {
+            "name": "Osby Municipality",
+            "summary": "Municipality in Scania County, Sweden",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Osby_20160316.jpg/250px-Osby_20160316.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Osby_Municipality"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2209,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3622b9c14f7d2ee5c2ef8518136b8c92e0f3b13026ca693537a3fe789d1543ef",
+    "summary": "The Reconquista (c. 722–1492 AD) — the centuries-long Christian reconquest of the Iberian Peninsula from Muslim rule — began symbolically with the [[event:3520|Battle of Covadonga]] (c. 722 AD), when the Visigothic noble Pelayo and a small force defeated an Umayyad military expedition in the Asturian mountains and established the Kingdom of Asturias as the nucleus of Christian resistance. The Reconquista was not a continuous or consistently motivated campaign but a complex, centuries-long process of territorial expansion by competing Christian kingdoms (Asturias/León, Castile, Aragon, Navarre, Portugal) against equally divided Muslim taifa states.\n\nThe Reconquista accelerated significantly after the [[event:2192|Cordoba Caliphate's]] collapse in 1031 AD, which fragmented Muslim Iberia into dozens of small taifa kingdoms easily picked off by Christian forces. Key milestones included the Christian capture of Toledo (1085 AD), Zaragoza (1118 AD), Lisbon (1147 AD), Cordoba (1236 AD), Seville (1248 AD), and finally Granada (1492 AD) — the same year Columbus sailed west. The Reconquista shaped Iberian culture profoundly: it produced the warrior aristocratic culture of Castile and Aragon, the crusading ideology that would be exported to the Americas, the Spanish Inquisition (established 1478 to test Jewish and Muslim converts' sincerity), and the particular blend of Christian, Islamic, and Jewish cultures (convivencia) that made medieval Iberia one of the most intellectually productive regions in Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Reconquista",
+    "read_more_links": [
+        {
+            "title": "Kingdom of Asturias origins",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Asturias"
+        },
+        {
+            "title": "Reconquista key battles timeline",
+            "url": "https://en.wikipedia.org/wiki/Reconquista#Timeline"
+        },
+        {
+            "title": "Convivencia coexistence Iberia",
+            "url": "https://en.wikipedia.org/wiki/Convivencia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg/300px-La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg",
+            "caption": "The Surrender of Granada: The last king of Granada, Abu Abdullah Muhammad XII...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Alfonso_VI_reconquista_Toledo.JPG/300px-Alfonso_VI_reconquista_Toledo.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Alfonso_VI_reconquista_Toledo.JPG",
+            "caption": "Alfonso VI conquista Toledo el 25 de mayo de 1085. Banco de la Plaza de Españ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%ADa_de_la_Toma_%28no_a_la_Toma%29.jpg/300px-D%C3%ADa_de_la_Toma_%28no_a_la_Toma%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/D%C3%ADa_de_la_Toma_%28no_a_la_Toma%29.jpg",
+            "caption": "Día de la Toma (no a la Toma)",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/El_rey_Don_Pelayo_en_Covadonga_%28Museo_del_Prado%29.jpg/300px-El_rey_Don_Pelayo_en_Covadonga_%28Museo_del_Prado%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/El_rey_Don_Pelayo_en_Covadonga_%28Museo_del_Prado%29.jpg",
+            "caption": "El lienzo representa la proclamación de Don Pelayo († 737) como rey de Asturi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Almanzor",
+            "summary": "Andalusian military leader and statesman (c. 938–1002)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busto_de_Almanzor_en_Calata%C3%B1azor_%28cropped%29_3.png/250px-Busto_de_Almanzor_en_Calata%C3%B1azor_%28cropped%29_3.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Almanzor"
+        },
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        },
+        {
+            "name": "Tariq ibn Ziyad",
+            "summary": "Umayyad commander in Hispania (died c. 720)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tariq_ibn_Ziyad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tariq_ibn_Ziyad"
+        },
+        {
+            "name": "Chanson de geste",
+            "summary": "Medieval narrative in poetic form",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grandes_chroniques_Roland.jpg/250px-Grandes_chroniques_Roland.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chanson_de_geste"
+        },
+        {
+            "name": "Pelagius of Asturias",
+            "summary": "King of Asturias (c. 685–737)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pelayo_en_la_batalla_de_Covadonga_BNE_Mss_2805_f_23r.jpg/250px-Pelayo_en_la_batalla_de_Covadonga_BNE_Mss_2805_f_23r.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pelagius_of_Asturias"
+        },
+        {
+            "name": "El Cid",
+            "summary": "Castilian warlord and Prince of Valencia from 1094 to 1099",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Estatua_del_Cid_%28Burgos%29.jpg/250px-Estatua_del_Cid_%28Burgos%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/El_Cid"
+        }
+    ],
+    "territory_geojson": null
+}

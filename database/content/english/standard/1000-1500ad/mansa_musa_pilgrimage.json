@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2256,
+    "parent_id": 93,
+    "granularity": "notable",
+    "content_hash": "sha256:6a916dbf7eebc994aeec087a90f7790c179ba5787711056158ac7f171853de97",
+    "summary": "Mansa Musa's pilgrimage to Mecca (1324–1325 AD) was the most spectacular public display of wealth in medieval history, as the ruler of the [[event:93|Mali Empire]] traveled from West Africa to Mecca with a retinue reportedly including 60,000 attendants and soldiers, 500 heralds carrying golden staffs, and 100 camels each carrying 135 kilograms of gold dust — an entourage so magnificent that it reshaped contemporaries' understanding of African wealth and permanently altered the political geography of the medieval world's imagination. Mansa Musa was arguably the richest person in human history in absolute terms, controlling the Bambuk and Bure goldfields that produced the majority of the world's gold supply.\n\nThe pilgrimage's economic impact on the regions through which it passed was dramatic and destabilizing: Mansa Musa distributed gold so freely in Cairo that he caused significant inflation in Egypt's gold market that reportedly persisted for over a decade, devaluing gold prices by 12–25% and disrupting trade across the eastern Mediterranean. His visit to the Mamluk Sultan of Egypt became the subject of astonished accounts that circulated across the Islamic world. On his return, Mansa Musa brought back the Andalusian architect Abu Ishaq al-Sahili, who introduced new mosque-building techniques to West Africa — including the distinctive Sudano-Sahelian architectural style of sun-dried mud brick construction that characterizes the Great Mosque of Djenné. The pilgrimage placed Mali on European maps for the first time: the Catalan Atlas (1375) shows Mansa Musa sitting on a golden throne holding a golden orb, with the inscription 'the richest and most noble king in all the land.'",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mansa_Musa",
+    "read_more_links": [
+        {
+            "title": "Mansa Musa gold Cairo inflation",
+            "url": "https://en.wikipedia.org/wiki/Mansa_Musa#Pilgrimage_to_Mecca"
+        },
+        {
+            "title": "Catalan Atlas 1375 Mali Mansa Musa",
+            "url": "https://en.wikipedia.org/wiki/Catalan_Atlas"
+        },
+        {
+            "title": "Abu Ishaq al-Sahili Mali architecture",
+            "url": "https://en.wikipedia.org/wiki/Abu_Ishaq_al-Sahili"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Mali_Empire.jpg/300px-The_Mali_Empire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Mali_Empire.jpg",
+            "caption": "The Medieval Mali Empire at the end of Mansa Musa's reign (1337 CE)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/300px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg",
+            "caption": "Sheet 6 out of 12. Detail showing Mansa Musa sitting on a throne and holding ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Mansa_Moussa_on_the_map_of_Angelino_Dulcert.jpg/300px-Mansa_Moussa_on_the_map_of_Angelino_Dulcert.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mansa_Moussa_on_the_map_of_Angelino_Dulcert.jpg",
+            "caption": "Map by Angelino Dulcert",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/300px-Djingareiber_cour.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg",
+            "caption": "Cour de la mosquée de Djingareiber, Tombouctou",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 fr"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Moses in Islam",
+            "summary": "Islamic perspective on the prophet Moses",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Musa_winning_magic_battle.jpg/250px-Musa_winning_magic_battle.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Moses_in_Islam"
+        },
+        {
+            "name": "Ibn Khaldun",
+            "summary": "Arab Islamic scholar, historian and philosopher (1332–1406)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bust_of_Ibn_Khaldun_%28Casbah_of_Bejaia%2C_Algeria%29.jpg/250px-Bust_of_Ibn_Khaldun_%28Casbah_of_Bejaia%2C_Algeria%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ibn_Khaldun"
+        },
+        {
+            "name": "Al-Nasir Muhammad",
+            "summary": "Mamluk Sultan of Egypt from 1293 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Maqamat_of_al-Hariri._Enthroned_Prince._Probably_Egypt_1334.jpg/250px-Maqamat_of_al-Hariri._Enthroned_Prince._Probably_Egypt_1334.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Nasir_Muhammad"
+        }
+    ],
+    "territory_geojson": null
+}

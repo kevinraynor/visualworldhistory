@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1065,
+    "parent_id": 72,
+    "granularity": "notable",
+    "content_hash": "sha256:fc02c5afb6ead6c74c8e0dbff57bb76b8cf81517c7409c3a55b5da2be094e838",
+    "summary": "The Macedonian Wars (214–148 BC) were a series of four conflicts between Rome and the [[event:1042|Antigonid Dynasty]] of Macedonia that ended with the dissolution of the Macedonian kingdom and the transformation of Greece and Macedonia into Roman provinces. They represent Rome's definitive entry into eastern Mediterranean politics and the replacement of Hellenistic great-power competition with Roman supremacy.\n\nThe First Macedonian War (214–205 BC) was a limited conflict triggered by Philip V's alliance with Hannibal during the [[event:1054|Second Punic War]]; Rome was too occupied in the west to commit seriously. The Second Macedonian War (200–197 BC) ended decisively at [[event:1066|Battle of Cynoscephalae]], where the Roman legion's tactical flexibility defeated the Macedonian phalanx. The Roman general Flamininus proclaimed Greek 'freedom' from Macedonian domination at the Isthmian Games of 196 BC in a famous announcement that drew an ecstatic response — freedom meaning, in practice, Roman supervision rather than actual sovereignty.\n\nThe Third Macedonian War (172–168 BC) ended at [[event:1067|Battle of Pydna]] with the capture of the Macedonian king Perseus and the kingdom's division into four republics. A final Fourth Macedonian War (150–148 BC) against a pretender was suppressed, after which Macedonia was organized as a Roman province. The conquest of Macedonia demonstrated Rome's long-term strategic patience: each war was separated by years of apparent Greek independence, but each Roman intervention went deeper than the last until independence was finally extinguished.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Macedonian_Wars",
+    "read_more_links": [
+        {
+            "title": "Titus Quinctius Flamininus",
+            "url": "https://en.wikipedia.org/wiki/Titus_Quinctius_Flamininus"
+        },
+        {
+            "title": "Philip V of Macedon",
+            "url": "https://en.wikipedia.org/wiki/Philip_V_of_Macedon"
+        },
+        {
+            "title": "Perseus of Macedon",
+            "url": "https://en.wikipedia.org/wiki/Perseus_of_Macedon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/RomanConquests_-_Greece.png/300px-RomanConquests_-_Greece.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/RomanConquests_-_Greece.png",
+            "caption": "This map shows how Rome conquered Macedonia and Greece.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Macedonia_and_the_Aegean_World_c.200.png/300px-Macedonia_and_the_Aegean_World_c.200.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png",
+            "caption": "Macedonia and the Aegean world c.200 B.C. This image is made by Raymond Palmer.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Philip V of Macedon",
+            "summary": "King of Macedonia from 221 to 179 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg/250px-Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_V_of_Macedon"
+        },
+        {
+            "name": "Hannibal",
+            "summary": "Carthaginian general and statesman (247–183/181 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/250px-Hannibal_Barca_bust_from_Capua_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Antiochus III the Great",
+            "summary": "King of the Seleucid Empire from 222 to 187 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg/250px-Male_head_wearing_a_head-band_resembling_king_of_Syria_Antiochus_III_%28223%E2%80%93187_BC%29%2C_late_1st_century_BC%E2%80%93early_1st_century_AD%2C_Louvre_Museum_%287462828632%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_III_the_Great"
+        },
+        {
+            "name": "Titus Quinctius Flamininus",
+            "summary": "Roman general and statesman (c. 230–174 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Macedonia_-_T_Quinctius_Flamininus_-_196_BC_-_gold_stater_-_head_of_T_Quinctius_Flamininus_-_Victoria_-_London_BM_1954-1009-1.jpg/250px-Macedonia_-_T_Quinctius_Flamininus_-_196_BC_-_gold_stater_-_head_of_T_Quinctius_Flamininus_-_Victoria_-_London_BM_1954-1009-1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Titus_Quinctius_Flamininus"
+        }
+    ],
+    "territory_geojson": null
+}

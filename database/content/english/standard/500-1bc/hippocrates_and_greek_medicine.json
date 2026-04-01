@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1191,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:61243fa7f92119175e62d8c00b2603f95e24ee9726870c56f25c9d8404dd3922",
+    "summary": "Hippocrates of Cos (c. 460–370 BC), the 'Father of Medicine,' founded a school of medicine that separated the practice from religious and supernatural explanations, insisting that diseases had natural causes and could be treated through diet, lifestyle, and observation — a rationalist approach that became the foundation of Western medical practice.\n\nThe Hippocratic Corpus — a collection of about sixty texts attributed to Hippocrates and his school on the island of Cos — covers diagnosis, prognosis, surgical techniques, epidemic diseases, and medical ethics. The core Hippocratic innovation was naturalistic explanation: diseases like epilepsy (then called the 'sacred disease') were caused not by gods or demons but by natural physiological processes, and could be studied and treated rationally. The theory of the four humors (blood, phlegm, yellow bile, black bile) — though ultimately incorrect — provided a systematic framework for understanding health and disease that dominated Western medicine until the 17th century. The Hippocratic Oath, requiring physicians to maintain confidentiality, avoid harm, and act in the patient's interest, is still recited in modified form by medical graduates worldwide and represents the first statement of medical ethics in Western history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hippocrates",
+    "read_more_links": [
+        {
+            "title": "Hippocratic Corpus",
+            "url": "https://en.wikipedia.org/wiki/Hippocratic_Corpus"
+        },
+        {
+            "title": "Hippocratic Oath",
+            "url": "https://en.wikipedia.org/wiki/Hippocratic_Oath"
+        },
+        {
+            "title": "Humorism",
+            "url": "https://en.wikipedia.org/wiki/Humorism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hippocrates_sculpture_in_front_of_Mayne_Medical_School%2C_Brisbane%2C_2021.jpg/300px-Hippocrates_sculpture_in_front_of_Mayne_Medical_School%2C_Brisbane%2C_2021.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Hippocrates_sculpture_in_front_of_Mayne_Medical_School%2C_Brisbane%2C_2021.jpg",
+            "caption": "Hippocrates sculpture in front of Mayne Medical School, Brisbane, 2021",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kos_museum_mos01.JPG/300px-Kos_museum_mos01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kos_museum_mos01.JPG",
+            "caption": "Mosaic Arrival of Asclepius, Archaeological Museum of Kos; blackbird (GR)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Engraving%3B_bust_of_Hippocrates%3B_by_Paul_Wellcome_L0019959.jpg/300px-Engraving%3B_bust_of_Hippocrates%3B_by_Paul_Wellcome_L0019959.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Engraving%3B_bust_of_Hippocrates%3B_by_Paul_Wellcome_L0019959.jpg",
+            "caption": "HIPPOCRATES {460?-377 B.C.}\nEngraving: bust of Hippocrates; by Paul Pontius\na...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Galenoghippokrates.jpg/300px-Galenoghippokrates.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Galenoghippokrates.jpg",
+            "caption": "Galenoghippokrates",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philosophy",
+            "summary": "Study of general and fundamental questions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/250px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophy"
+        },
+        {
+            "name": "Anne-Louis Girodet de Roussy-Trioson",
+            "summary": "French painter (1767–1824)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Anne-Louis_Girodet_autoportrait.jpg/250px-Anne-Louis_Girodet_autoportrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anne-Louis_Girodet_de_Roussy-Trioson"
+        },
+        {
+            "name": "John Tzetzes",
+            "summary": "Byzantine poet and writer (c.1110–1180)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Houghton_MS_Gr_20_-_Theogeny%2C_151.jpg/250px-Houghton_MS_Gr_20_-_Theogeny%2C_151.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Tzetzes"
+        },
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Galen",
+            "summary": "Greek physician, surgeon, and philosopher (c. 129–216 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Galenus.jpg/250px-Galenus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Galen"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2650,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:f7f6aa78a942f151199a9e4e24f4f44fd6a09b7dffe4e7c4dbf86bb695f04abd",
+    "summary": "The Great Depression was the most severe global economic downturn of the twentieth century, beginning with the [[event:2651|Wall Street Crash]] of October 1929 and lasting through much of the 1930s. It devastated economies worldwide, collapsing industrial output, international trade, and employment on an unprecedented scale. In the United States, unemployment reached 25 percent by 1933; in Germany, it exceeded 30 percent. Industrial production in the hardest-hit countries fell by half or more, and the global trading system contracted sharply as nations erected protective tariff barriers.\n\nThe Depression's causes were complex and debated by economists ever since. The stock market crash exposed the speculative excess and overleveraging of the 1920s boom. A cascade of bank failures — particularly the collapse of thousands of American banks — contracted the money supply and froze credit. The Smoot-Hawley Tariff Act (1930) triggered retaliatory trade barriers worldwide, strangling international commerce. The gold standard forced central banks to maintain deflationary policies when expansion was desperately needed. Reparations and war debt obligations complicated European economic adjustment. It was a confluence of structural fragilities that amplified the initial shock into a global catastrophe.\n\nThe human consequences were staggering. Millions of families lost savings, homes, and livelihoods. Poverty, malnutrition, and homelessness spread across the industrialized world. In the United States, Franklin Roosevelt's New Deal introduced unprecedented government intervention — public works programs, financial regulation, social insurance, and agricultural supports — that partly ameliorated the crisis and established the foundations of the modern welfare state. In Britain and France, recovery was slower and more reluctant.\n\nThe political consequences were even more far-reaching. In Germany, the Depression was the economic catastrophe that propelled [[event:2653|Hitler and the Nazi Party]] to power. Mass unemployment and hyperinflationary trauma made German voters receptive to radical politics. Across Latin America, Asia, and Europe, the Depression discredited liberal capitalism and democracy, empowering authoritarian and fascist movements. The Depression thus bears a direct causal relationship to [[event:112|World War II]].\n\nThe Great Depression transformed economic thinking. John Maynard Keynes's argument that governments should spend countercyclically to prevent recessions from spiraling into depressions became the dominant macroeconomic framework for the postwar era. New institutions — the International Monetary Fund, the World Bank, and the [[event:2766|Bretton Woods]] system — were deliberately designed to prevent a recurrence by providing international monetary stability and liquidity. The Depression's memory continues to haunt economic policymakers, invoked regularly in debates about how to respond to financial crises.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Depression",
+    "read_more_links": [
+        {
+            "title": "Great Depression – Britannica",
+            "url": "https://www.britannica.com/event/Great-Depression"
+        },
+        {
+            "title": "Causes of the Great Depression – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Causes_of_the_Great_Depression"
+        },
+        {
+            "title": "New Deal – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/New_Deal"
+        },
+        {
+            "title": "Great Depression in the United States – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/WomanFactory1940s.jpg/300px-WomanFactory1940s.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/WomanFactory1940s.jpg",
+            "caption": "Turret lathe operator machining parts for transport planes at the Consolidate...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Agence_Mondial_1932_-_Soupe_populaire_offerte_aux_ch%C3%B4meurs_en_1932_2.jpg/300px-Agence_Mondial_1932_-_Soupe_populaire_offerte_aux_ch%C3%B4meurs_en_1932_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Agence_Mondial_1932_-_Soupe_populaire_offerte_aux_ch%C3%B4meurs_en_1932_2.jpg",
+            "caption": "Soupe populaire de la faluche en 1932.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Smoot_and_Hawley_standing_together%2C_April_11%2C_1929.jpg/300px-Smoot_and_Hawley_standing_together%2C_April_11%2C_1929.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Smoot_and_Hawley_standing_together%2C_April_11%2C_1929.jpg",
+            "caption": "Willis C. Hawley (left) and Reed Smoot meeting shortly after the signing of t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lone_Driller%E2%80%99s_Water_Break_%28Kilgore%2C_Texas%29.jpg/300px-Lone_Driller%E2%80%99s_Water_Break_%28Kilgore%2C_Texas%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lone_Driller%E2%80%99s_Water_Break_%28Kilgore%2C_Texas%29.jpg",
+            "caption": "A Lone Driller's Water Break drinking from a battered pan during the Texas Oi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Unemployment",
+            "summary": "People without work and actively seeking work",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Unemployment_rate%2C_OWID.svg/250px-Unemployment_rate%2C_OWID.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Unemployment"
+        },
+        {
+            "name": "New Deal",
+            "summary": "1930s programs of U.S. president Franklin D. Roosevelt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/New_Deal_collage.jpg/250px-New_Deal_collage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/New_Deal"
+        },
+        {
+            "name": "Herbert Hoover",
+            "summary": "President of the United States from 1929 to 1933",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/250px-President_Hoover_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herbert_Hoover"
+        },
+        {
+            "name": "Franklin D. Roosevelt",
+            "summary": "President of the United States from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/250px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        },
+        {
+            "name": "Adolf Hitler",
+            "summary": "Dictator of Germany from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/250px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+            "name": "Dow Jones Industrial Average",
+            "summary": "American stock market index composed of 30 industry leaders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/DJIA_historical_graph_%28log%29.svg/250px-DJIA_historical_graph_%28log%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1779,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e34b0bf3ca50f7f3701d30963dc3b11989082d9c42dd5879d2ff4f178d66c4a2",
+    "summary": "The Edwin Smith Papyrus, whose original composition dates to approximately 2500–2400 BC (though the surviving copy was made around 1600 BC), is the world's oldest known surgical text and one of the most important documents in the history of medicine. Named after the American Egyptologist Edwin Smith who purchased it in 1862, the papyrus describes 48 cases of traumatic injuries — primarily to the head, neck, chest, and spine — with systematic examinations, diagnoses, prognoses, and treatments.\n\nThe text's medical approach is strikingly empirical and rational by the standards of ancient medicine. Each case is presented with a clinical examination procedure, a diagnosis stated as a condition with an explicit prognosis ('a disease I will treat', 'a disease I will contend with', or 'a disease not to be treated'), and a treatment plan that avoids magical incantations in favour of practical interventions — suturing wounds, applying fresh meat to bruises, and immobilising fractured vertebrae. This rational, empirical orientation contrasts with the more magical approaches found in other ancient Egyptian medical papyri such as the Ebers Papyrus.\n\nThe Edwin Smith Papyrus contains the earliest known descriptions of the cranial sutures, the meninges (membranes of the brain), the cerebrospinal fluid, and the effects of injuries to the brain and spinal cord on different parts of the body — demonstrating that ancient Egyptian physicians had developed a sophisticated observational understanding of neuroanatomy. The text is thought to have originated among military surgeons treating battlefield casualties. It represents a remarkable early instance of systematic medical observation and evidence-based treatment.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus",
+    "read_more_links": [
+        {
+            "title": "Ancient Egyptian medicine",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine"
+        },
+        {
+            "title": "History of surgery",
+            "url": "https://en.wikipedia.org/wiki/History_of_surgery"
+        },
+        {
+            "title": "Ebers Papyrus",
+            "url": "https://en.wikipedia.org/wiki/Ebers_Papyrus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Edwin_Smith_Papyrus_v2.jpg/300px-Edwin_Smith_Papyrus_v2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Edwin_Smith_Papyrus_v2.jpg",
+            "caption": "The Edwin Smith papyrus, the world's oldest surviving surgical document. Writ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Images_from_Edwin_Smith_Papyrus_Wellcome_L0003140.jpg/300px-Images_from_Edwin_Smith_Papyrus_Wellcome_L0003140.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Images_from_Edwin_Smith_Papyrus_Wellcome_L0003140.jpg",
+            "caption": "Edwin Smith Papyrus Recto Column 13 (Cases 38-41) Original papyrus on left, H...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "James Peter Allen",
+            "summary": "American Egyptologist (born 1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/James_P._Allen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Peter_Allen"
+        }
+    ],
+    "territory_geojson": null
+}

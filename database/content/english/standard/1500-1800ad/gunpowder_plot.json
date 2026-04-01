@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2501,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f7475dd2a4614d97553bd7b9e5aeafd74df8d7a69c6c89df5cddab48aef238a8",
+    "summary": "The Gunpowder Plot (November 5, 1605 AD) was a failed assassination conspiracy by a group of English Catholic extremists who planned to blow up the House of Lords during the State Opening of Parliament, killing King James I and the Protestant establishment and triggering a Catholic uprising — the most dramatic act of political terrorism in English history, and one whose failure reinforced rather than weakened Protestant anti-Catholic sentiment for centuries. The conspirators, led by Robert Catesby and including the now-iconic Guy Fawkes, packed 36 barrels of gunpowder into a cellar beneath the House of Lords; an anonymous letter warning a Catholic peer led to the discovery of the plot hours before its planned execution, and Fawkes was found in the cellar.\n\nThe plot's political consequences were immediate and lasting. Parliament passed the Popish Recusants Act (1606), imposing new restrictions on Catholics and requiring a loyalty oath that was incompatible with Catholic doctrine; English Catholics were subjected to increased suspicion and legal disability for decades. The discovery of the plot was celebrated with bonfires and bell-ringing on November 5 — a tradition that became 'Guy Fawkes Night' or 'Bonfire Night,' still observed in Britain today, originally as an explicitly anti-Catholic commemoration that gradually became a more general celebration. The conspirators who escaped immediate arrest were hunted down, killed, or captured and executed. The Gunpowder Plot became a touchstone of English Protestant identity — proof of Catholic treachery — and influenced the [[event:2330|Glorious Revolution's]] legal exclusion of Catholics from the throne.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gunpowder_Plot",
+    "read_more_links": [
+        {
+            "title": "Guy Fawkes cellar gunpowder Lords discovery arrest",
+            "url": "https://en.wikipedia.org/wiki/Guy_Fawkes"
+        },
+        {
+            "title": "Robert Catesby conspirators Catholic persecution England",
+            "url": "https://en.wikipedia.org/wiki/Robert_Catesby"
+        },
+        {
+            "title": "Bonfire Night Guy Fawkes November 5 tradition Britain",
+            "url": "https://en.wikipedia.org/wiki/Guy_Fawkes_Night"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/John_Thomas_Smith_-_Views_of_the_East_Side_of_the_House_of_Lords%2C_the_East_End_of_the_Princes_Chamber_-_B1977.14.18952_-_Yale_Center_for_British_Art.jpg/300px-John_Thomas_Smith_-_Views_of_the_East_Side_of_the_House_of_Lords%2C_the_East_End_of_the_Princes_Chamber_-_B1977.14.18952_-_Yale_Center_for_British_Art.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/John_Thomas_Smith_-_Views_of_the_East_Side_of_the_House_of_Lords%2C_the_East_End_of_the_Princes_Chamber_-_B1977.14.18952_-_Yale_Center_for_British_Art.jpg",
+            "caption": "John Thomas Smith - Views of the East Side of the House of Lords, the East End of the Princes Chamber - B1977.14.18952 - Yale Center for British Art",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Robert_Cecil%2C_1st_Earl_of_Salisbury_by_John_De_Critz_the_Elder_%282%29.jpg/300px-Robert_Cecil%2C_1st_Earl_of_Salisbury_by_John_De_Critz_the_Elder_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Robert_Cecil%2C_1st_Earl_of_Salisbury_by_John_De_Critz_the_Elder_%282%29.jpg",
+            "caption": "Robert Cecil was born around 1563 as the son of William Cecil, who was queen ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG.jpg/300px-The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG.jpg",
+            "caption": "The Gunpowder Plot Conspirators, 1605, by unknown artist. See source website ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eliz_bohemia_2.jpg/300px-Eliz_bohemia_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Eliz_bohemia_2.jpg",
+            "caption": "Eliz bohemia 2",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Elizabeth I",
+            "summary": "Queen of England and Ireland from 1558 to 1603",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/250px-Darnley_stage_3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_I"
+        },
+        {
+            "name": "Mary, Queen of Scots",
+            "summary": "Queen of Scotland from 1542 to 1567",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg/250px-Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots"
+        },
+        {
+            "name": "Execution of Mary, Queen of Scots",
+            "summary": "1587 beheading of Mary, Queen of Scots",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Execution_of_Mary.jpg/250px-Execution_of_Mary.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Execution_of_Mary%2C_Queen_of_Scots"
+        },
+        {
+            "name": "Philip II of Spain",
+            "summary": "King of Spain (1556–1598), England (by marriage, 1554–1558), Portugal (1580–1598)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/250px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Spain"
+        },
+        {
+            "name": "Isabella Clara Eugenia",
+            "summary": "Sovereign of the Netherlands from 1598 to 1621",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Isabella_Rubens.jpg/250px-Isabella_Rubens.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isabella_Clara_Eugenia"
+        },
+        {
+            "name": "Philip III of Spain",
+            "summary": "King of Spain and Portugal from 1598 to 1621",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Felipe_III_de_Espa%C3%B1a.jpg/250px-Felipe_III_de_Espa%C3%B1a.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_III_of_Spain"
+        }
+    ],
+    "territory_geojson": null
+}

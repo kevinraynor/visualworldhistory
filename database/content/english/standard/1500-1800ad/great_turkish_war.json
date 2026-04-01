@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3631,
+    "parent_id": 2324,
+    "granularity": "detailed",
+    "content_hash": "sha256:54a7de9824de481c334f4593e72541410cdc96d83a23ad9ca69dbd52ee976073",
+    "summary": "The Great Turkish War (1683–1699 AD) was the decisive military conflict between the Holy League (the Habsburg Empire, Venice, Poland, and later Russia) and the [[event:2400|Ottoman Empire]] that ended over a century of Ottoman offensive pressure on Central Europe and initiated the long Ottoman retreat from Europe. The war began with the Ottoman Grand Vizier Kara Mustafa Pasha's massive invasion and siege of Vienna in July 1683 — the second Ottoman attempt to take the Habsburg capital (the first was the [[event:2323|Siege of Vienna]] in 1529). The siege was broken on September 12, 1683 by a relief army of Habsburg, German, and Polish forces under King John III Sobieski of Poland, whose cavalry charge at the Battle of Vienna was one of the largest cavalry charges in European history.\n\nFollowing the relief of Vienna, the Holy League took the offensive for the first time — a sustained counteroffensive that lasted 16 years. The Habsburg general Prince Eugene of Savoy's victory at the Battle of Zenta (1697) was the campaign's decisive engagement, and the subsequent [[event:2468|Treaty of Karlowitz]] (1699) transferred Hungary, Transylvania, and other territories to the Habsburg Empire, Poland recovered Podolia, and Venice gained the Peloponnese and Dalmatia. The Great Turkish War thus ended the era of Ottoman military superiority in Central Europe and began the long 'Eastern Question' — the geopolitical problem of managing Ottoman decline — that would preoccupy European diplomacy for the next two centuries. The Battle of Vienna is sometimes cited as a 'turning point' in Christian-Muslim civilizational conflict, a framing contested by historians who prefer to see it as one episode in complex state relations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Turkish_War",
+    "read_more_links": [
+        {
+            "title": "Battle of Vienna 1683 John Sobieski relief cavalry charge",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Vienna"
+        },
+        {
+            "title": "Prince Eugene Savoy Habsburg general Zenta Ottoman campaigns",
+            "url": "https://en.wikipedia.org/wiki/Prince_Eugene_of_Savoy"
+        },
+        {
+            "title": "Holy League Habsburg Venice Poland Russia Ottoman coalition",
+            "url": "https://en.wikipedia.org/wiki/Holy_League_(1684)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Great_Turkish_War_by_Saracen_Maps.png/300px-Great_Turkish_War_by_Saracen_Maps.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Great_Turkish_War_by_Saracen_Maps.png",
+            "caption": "This map shows Europe after 2nd Siege of Vienna, colored states are side in G...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1684_Entsatz_von_Wien_anagoria.JPG/300px-1684_Entsatz_von_Wien_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1684_Entsatz_von_Wien_anagoria.JPG",
+            "caption": "1684 Entsatz von Wien anagoria",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/August_Querfurt_-_The_Turkish_siege_of_Vienna.jpg/300px-August_Querfurt_-_The_Turkish_siege_of_Vienna.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/August_Querfurt_-_The_Turkish_siege_of_Vienna.jpg",
+            "caption": "August Querfurt - The Turkish siege of Vienna",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Martin_Battle_of_P%C3%A1rk%C3%A1ny.jpg/300px-Martin_Battle_of_P%C3%A1rk%C3%A1ny.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Martin_Battle_of_P%C3%A1rk%C3%A1ny.jpg",
+            "caption": "Martin Battle of Párkány",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leopold I, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1658 to 1705",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Benjamin_von_Block_001.jpg/250px-Benjamin_von_Block_001.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leopold_I%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Charles V, Duke of Lorraine",
+            "summary": "Duke of Lorraine and Bar from 1675 to 1690",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Anonimo_tedesco%2C_Carlo_V_duca_di_Lorena%2C_XVII_sec.jpg/250px-Anonimo_tedesco%2C_Carlo_V_duca_di_Lorena%2C_XVII_sec.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_V%2C_Duke_of_Lorraine"
+        },
+        {
+            "name": "Prince Eugene of Savoy",
+            "summary": "Military commander in the service of Austria (1663–1736)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Prinz_Eugene_of_Savoy.PNG/250px-Prinz_Eugene_of_Savoy.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Eugene_of_Savoy"
+        },
+        {
+            "name": "Louis William, Margrave of Baden-Baden",
+            "summary": "German noble and general (1655–1707)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Louis_William_%281655-1707%29.jpg/250px-Louis_William_%281655-1707%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_William%2C_Margrave_of_Baden-Baden"
+        },
+        {
+            "name": "Ernst Rüdiger von Starhemberg",
+            "summary": "Austrian field marshal (1638–1701)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ernst_R_G_v_Starhemberg.jpg/250px-Ernst_R_G_v_Starhemberg.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ernst_R%C3%BCdiger_von_Starhemberg"
+        },
+        {
+            "name": "John III Sobieski",
+            "summary": "Ruler of Poland–Lithuania from 1674 to 1696",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Schultz_John_III_Sobieski.jpg/250px-Schultz_John_III_Sobieski.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_III_Sobieski"
+        }
+    ],
+    "territory_geojson": null
+}

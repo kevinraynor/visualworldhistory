@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2051,
+    "parent_id": 2050,
+    "granularity": "notable",
+    "content_hash": "sha256:a81158d971377550b695703547a8b751a3433e4fdecdb40907b52f7de92be5c2",
+    "summary": "Gandhara Buddhist Art (c. 1st–7th centuries AD) was a distinctive artistic tradition that flourished in the Gandhara region (modern Pakistan and eastern Afghanistan) under [[event:2050|Kushan Empire]] patronage, representing one of history's most remarkable cultural syntheses — the fusion of Hellenistic artistic techniques with Buddhist iconography, producing the first human representations of the Buddha. Earlier Buddhist art had depicted the Buddha only through symbols (footprints, empty thrones, parasols); the Gandhara tradition, influenced by the Greek artistic legacy left by Alexander the Great's conquests, created the physical, idealized Buddha image that became universal in Buddhist art worldwide.\n\nThe Gandhara Buddha figure — with its wavy hair, classical Greek drapery folds, and serene facial features derived from Greco-Roman statuary — spread east along the Silk Road to Central Asia, China, Korea, and Japan, becoming the template for Buddhist artistic representation across Asia. The region around Peshawar and the Swat Valley was dotted with stupas, monasteries, and sculpture workshops that attracted pilgrims and merchants from across the ancient world. Chinese Buddhist pilgrim Xuanzang would later describe hundreds of monasteries in the region when he visited in the 7th century. The tradition was largely destroyed in the 5th century by the Hephthalite invasions and never fully recovered, but its artistic legacy fundamentally shaped the visual vocabulary of all subsequent Buddhist cultures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gandhara",
+    "read_more_links": [
+        {
+            "title": "Gandhara sculpture style",
+            "url": "https://en.wikipedia.org/wiki/Gandharan_art"
+        },
+        {
+            "title": "First Buddha images origin",
+            "url": "https://en.wikipedia.org/wiki/Buddha_images_in_early_Buddhism"
+        },
+        {
+            "title": "Hellenistic influence Buddhist art",
+            "url": "https://en.wikipedia.org/wiki/Greco-Buddhist_art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Takht-e-bahi.jpg/300px-Takht-e-bahi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Takht-e-bahi.jpg",
+            "caption": "This is a photo of a monument in Pakistan identified as the",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Gandhara_Buddha.jpg/300px-Gandhara_Buddha.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Gandhara_Buddha.jpg",
+            "caption": "Face of Lord Buddha, head of curly hair, lips, almond shaped eyes, Pakistan o...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Buner_reliefs_Scythian_bacchanalian_cropped.jpg/300px-Buner_reliefs_Scythian_bacchanalian_cropped.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Buner_reliefs_Scythian_bacchanalian_cropped.jpg",
+            "caption": "Buner reliefs Scythian bacchanalian cropped",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gandharan_sculpture_-_head_of_a_bodhisattva.jpg/300px-Gandharan_sculpture_-_head_of_a_bodhisattva.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gandharan_sculpture_-_head_of_a_bodhisattva.jpg",
+            "caption": "Head of a bodhisattva, Gandhara, around 4th century, terracotta, 85 cm height...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Taxiles",
+            "summary": "Ruler of Taxila from 326 to 316 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Taxiles_offering_presents_to_Alexander.jpg/250px-Taxiles_offering_presents_to_Alexander.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taxiles"
+        },
+        {
+            "name": "Chandragupta Maurya",
+            "summary": "Founder of the Maurya Empire (340–295 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        },
+        {
+            "name": "Sases",
+            "summary": "Apracha King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gondophares-Sases_Circa_AD_20-46_Sases_on_horseback.jpg/250px-Gondophares-Sases_Circa_AD_20-46_Sases_on_horseback.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sases"
+        },
+        {
+            "name": "Kanishka",
+            "summary": "Kushan emperor from 127 to 150",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/KanishkaCoin3.JPG/250px-KanishkaCoin3.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kanishka"
+        },
+        {
+            "name": "Mihirakula",
+            "summary": "King of the Alchon Huns from 515 to 542",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mihirakula_portrait.jpg/250px-Mihirakula_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mihirakula"
+        },
+        {
+            "name": "Jayapala",
+            "summary": "Maharaja of the Hindu Shahis from 964 to 1001",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mahmud_of_Ghazni_first_success.jpg/250px-Mahmud_of_Ghazni_first_success.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jayapala"
+        }
+    ],
+    "territory_geojson": null
+}

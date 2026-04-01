@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1565,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:1eceb5e66551e32bae2688d2874be88def72aa80df625e50e91b7dcd1ac7ccd4",
+    "summary": "The Boian culture was a Middle Neolithic culture of the lower Danube region, centered in Wallachia (southern Romania) and spreading into northern Bulgaria, dating from approximately 4300 to 4000 BCE. It represents a transitional culture between the earlier Neolithic traditions of the region and the subsequent [[event:1562|Gumelnița culture]], which developed from it and became the dominant Chalcolithic culture of the lower Danube basin.\n\nBoian communities inhabited small villages in the fertile lowlands and river valleys of Wallachia, cultivating wheat and barley and herding cattle and pigs. Their pottery is characterized by distinctive incised and channeled geometric decorations. The culture shows evidence of social differentiation in burials, with some individuals accompanied by more elaborate grave goods including pottery vessels and occasional ornaments, reflecting growing social stratification in the region during the fifth millennium BCE.\n\nThe Boian culture is part of the broader sequence of Neolithic and Chalcolithic cultures in southeastern Europe that developed alongside the remarkable metalworking traditions and social complexity associated with the Chalcolithic Balkan florescence. It represents one stage in a long cultural continuum in the lower Danube basin that stretched from the earliest farming communities of the sixth millennium BCE through to the Bronze Age cultures of the second millennium BCE.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boian_culture",
+    "read_more_links": [
+        {
+            "title": "Romanian Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic#Balkans"
+        },
+        {
+            "title": "Lower Danube prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Romania/Prehistory"
+        },
+        {
+            "title": "Neolithic southeastern Europe - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Neolithic_Europe/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/BoianCulturePottery.JPG/300px-BoianCulturePottery.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/BoianCulturePottery.JPG",
+            "caption": "Neolithic Boian Culture pottery exposed in Piatra Neamt Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Boian_culture_2011_12_%28edited_angle%29.jpg/300px-Boian_culture_2011_12_%28edited_angle%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Boian_culture_2011_12_%28edited_angle%29.jpg",
+            "caption": "Neolithic Boian Culture pottery exposed in Bucharest History Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Steppenvegetation_in_der_Walachei.JPG/300px-Steppenvegetation_in_der_Walachei.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Steppenvegetation_in_der_Walachei.JPG",
+            "caption": "Das Bild habe ich am 29.07.2006 , 20km nord-westlich von Giurgiu in der Walac...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Denube_Delta_Bank.JPG/300px-Denube_Delta_Bank.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Denube_Delta_Bank.JPG",
+            "caption": "Bank of Danube in the Delta.",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ditch (fortification)",
+            "summary": "Ground obstacle to slow an attacking force",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/OLD_SARUM_ditch.jpg/250px-OLD_SARUM_ditch.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ditch_%28fortification%29"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Inlay",
+            "summary": "Artistic technique",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Example_of_boulle_work.jpg/250px-Example_of_boulle_work.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Inlay"
+        }
+    ],
+    "territory_geojson": null
+}

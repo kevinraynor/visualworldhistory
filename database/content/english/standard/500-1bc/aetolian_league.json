@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1204,
+    "parent_id": 80,
+    "granularity": "detailed",
+    "content_hash": "sha256:1e6a98fd75b5f943150e36e0a490f5ce1b553a9f7023da215c0f578debea44b2",
+    "summary": "The Aetolian League (c. 370–167 BC) was a federal state in central Greece (Aetolia) that became one of the most powerful [[event:80|Hellenistic Period]] Greek political entities, playing a key role in repelling the [[event:1205|Galatian Invasion of Greece]] and later serving as Rome's initial ally against Macedon before its own independence was crushed.\n\nAetolia, long regarded as a backwater inhabited by uncivilized brigands, developed through the League into a sophisticated federal state with a council, assembly, and strong citizen army. The Aetolians served as the primary defenders of Delphi against the [[event:1205|Galatian Invasion of Greece]], earning pan-Hellenic prestige that fueled their expansion. At their height the League controlled much of central and northern Greece including the sanctuary at Delphi itself. The League initially allied with Rome against Macedon in the First Macedonian War, helping establish Roman influence in Greece. However, when Rome dictated terms of the peace with Macedon without adequate Aetolian compensation, the League became hostile to Rome and invited [[event:1091|Mithridatic Wars]]' precursor Antiochus III into Greece — a catastrophic miscalculation that led to Roman military intervention and ultimately the League's subjugation to Roman control in 167 BC, ending its political independence.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aetolian_League",
+    "read_more_links": [
+        {
+            "title": "Aetolia",
+            "url": "https://en.wikipedia.org/wiki/Aetolia"
+        },
+        {
+            "title": "Delphi and the Aetolians",
+            "url": "https://en.wikipedia.org/wiki/Aetolian_League#Religion"
+        },
+        {
+            "title": "Roman-Aetolian War",
+            "url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Aetolian_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Thueros_affresco.jpg/300px-Thueros_affresco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Thueros_affresco.jpg",
+            "caption": "Fresco of an ancient Macedonian Greek heavy infantry soldier (thorakitai) wea...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/THIRLWALL%281846%29_p2.342_THERMOPYLAE.jpg/300px-THIRLWALL%281846%29_p2.342_THERMOPYLAE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/THIRLWALL%281846%29_p2.342_THERMOPYLAE.jpg",
+            "caption": "THIRLWALL(1846) p2.342 THERMOPYLAE",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kalydon_Aetolias_01.JPG/300px-Kalydon_Aetolias_01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kalydon_Aetolias_01.JPG",
+            "caption": "Ancient city Kalydon",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Aegean_Sea_192_BC.png/300px-Aegean_Sea_192_BC.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Aegean_Sea_192_BC.png",
+            "caption": "Map of the Aegean Sea before the breakout of the Roman-Syrian War in 192 B.C.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Philip II of Macedon",
+            "summary": "King of Macedon from 359 to 336 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/250px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "name": "Epaminondas",
+            "summary": "Theban general and statesman (419/411–362 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Epaminondas_-_Temple_of_Ancient_Virtue%2C_Stowe_-_Buckinghamshire%2C_England_-_DSC07376_%28cropped%29.jpg/250px-Epaminondas_-_Temple_of_Ancient_Virtue%2C_Stowe_-_Buckinghamshire%2C_England_-_DSC07376_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Epaminondas"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Antipater",
+            "summary": "Macedonian statesman and regent (4th century BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/KINGS_of_MACEDON._Alexander_III_%27the_Great%27._336-323_BC.jpg/250px-KINGS_of_MACEDON._Alexander_III_%27the_Great%27._336-323_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antipater"
+        },
+        {
+            "name": "Pyrrhus of Epirus",
+            "summary": "King of Epirus from 297 to 272 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus"
+        }
+    ],
+    "territory_geojson": null
+}

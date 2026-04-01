@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2766,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:64c285a726ccf3158ee0b68012d10fb4f7548bdb1eb399e3e580adf6ec04de1e",
+    "summary": "The Bretton Woods Conference was an international monetary conference held in July 1944 at the Mount Washington Hotel in Bretton Woods, New Hampshire, attended by delegates from 44 Allied nations. Its purpose was to establish a framework for international monetary and financial relations after [[event:112|World War II]], drawing lessons from the economic chaos of the 1930s, the [[event:2650|Great Depression]], and the competitive currency devaluations that had worsened the global downturn. The dominant figures were the American economist Harry Dexter White and the British economist John Maynard Keynes, whose competing visions were ultimately resolved in favor of the American position.\n\nThe conference created three major institutions: the International Monetary Fund (IMF), designed to provide short-term loans to countries facing balance-of-payments crises; the International Bank for Reconstruction and Development (World Bank), designed to provide longer-term development financing; and a system of fixed exchange rates in which all major currencies were pegged to the U.S. dollar, which was in turn convertible to gold at $35 per ounce. This Bretton Woods system created monetary stability that underpinned the postwar economic boom.\n\nThe system functioned for roughly a quarter century but came under strain as the U.S. dollar supply expanded faster than American gold reserves could support. President Nixon suspended dollar-gold convertibility in 1971 — the Nixon Shock — effectively ending the Bretton Woods fixed exchange rate system and ushering in the era of floating exchange rates. The IMF and World Bank survived and remained central institutions of the international financial order.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bretton_Woods_Conference",
+    "read_more_links": [
+        {
+            "title": "Bretton Woods System - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Bretton-Woods-Conference"
+        },
+        {
+            "title": "International Monetary Fund - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/International_Monetary_Fund"
+        },
+        {
+            "title": "Nixon Shock - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nixon_shock"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bretton_Woods_Conference_room.jpg/300px-Bretton_Woods_Conference_room.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bretton_Woods_Conference_room.jpg",
+            "caption": "Bretton Woods Conference room",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Henry Morgenthau Jr.",
+            "summary": "American politician (1891–1967)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Henry_Morgenthau%2C_Jr._%281944%29%28cropped%29%28b%29.jpg/250px-Henry_Morgenthau%2C_Jr._%281944%29%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morgenthau_Jr."
+        },
+        {
+            "name": "Franklin D. Roosevelt",
+            "summary": "President of the United States from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/250px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        },
+        {
+            "name": "Harry S. Truman",
+            "summary": "President of the United States from 1945 to 1953",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/250px-TRUMAN_58-766-06_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+        },
+        {
+            "name": "Camille Gutt",
+            "summary": "Economist, industrialist, politician (1884-1971)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Camille_Gutt.jpg/250px-Camille_Gutt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Camille_Gutt"
+        },
+        {
+            "name": "Georges Theunis",
+            "summary": "Belgian politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Georges_Theunis_1921.jpg/250px-Georges_Theunis_1921.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Theunis"
+        },
+        {
+            "name": "James Lorimer Ilsley",
+            "summary": "Canadian politician (1894–1967)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/James_Lorimer_Ilsley_portrait_%285457858%29.jpg/250px-James_Lorimer_Ilsley_portrait_%285457858%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Lorimer_Ilsley"
+        }
+    ],
+    "territory_geojson": null
+}

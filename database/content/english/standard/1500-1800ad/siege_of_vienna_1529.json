@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2323,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:fcd4c2292939d6da09c6bd3e3a870c4db532d9670feff9c0a2b0193f7320b21d",
+    "summary": "The Siege of Vienna of 1529 was the Ottoman Empire's first attempt to capture the Habsburg capital of Vienna, the high-water mark of Ottoman expansion into Central Europe, and a strategic failure that effectively defined the westward limit of Ottoman power for the next century and a half. Following [[event:2401|Suleiman the Magnificent's]] devastating victory at the [[event:2402|Battle of Mohacs]] (1526), which destroyed the Kingdom of Hungary and made the Ottomans masters of the Hungarian plain, Suleiman marched a massive army (estimated at 100,000–300,000 men) deep into Central Europe. The siege began in late September 1529, leaving almost no time before the onset of winter.\n\nThe Habsburg garrison of Vienna — numbering only about 16,000 — held the city against repeated Ottoman assaults. The Ottoman siege was hampered by logistical failures: heavy artillery had been left behind due to muddy roads, undermining operations were foiled by the defenders, and the approaching winter cut supply lines. After two weeks of failed assaults, Suleiman withdrew in mid-October. The failure was significant beyond the immediate military outcome: it demonstrated that Ottoman supply lines could not sustain campaigns to central Europe from Constantinople (a distance of over 1,500 km), and that the Ottoman army's traditional strengths — cavalry and field warfare — were less effective against fortified European cities. The Ottoman-Habsburg contest continued for a century, with the Ottomans occupying most of Hungary as a buffer zone. A second siege of Vienna in 1683 ([[event:2415|Battle of Vienna]]) was the final Ottoman attempt, and its failure there triggered the sustained Habsburg reconquest of Hungary.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
+    "read_more_links": [
+        {
+            "title": "Suleiman the Magnificent Hungary Vienna campaign",
+            "url": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
+        },
+        {
+            "title": "Ottoman expansion Central Europe limits",
+            "url": "https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe"
+        },
+        {
+            "title": "Habsburg Ottoman frontier Hungary buffer state",
+            "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stephansdom_B.jpg/300px-Stephansdom_B.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Stephansdom_B.jpg",
+            "caption": "Stephansdom, Vienna.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Viena_1529.JPG/300px-Viena_1529.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Viena_1529.JPG",
+            "caption": "Panoramic view of Vienna during the first Turkish siege, 1529.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Five_German_Soldiers_MET_DP822162.jpg/300px-Five_German_Soldiers_MET_DP822162.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Five_German_Soldiers_MET_DP822162.jpg",
+            "caption": "Print; Prints",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/SiegeOfViennaByOttomanForces.jpg/300px-SiegeOfViennaByOttomanForces.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/SiegeOfViennaByOttomanForces.jpg",
+            "caption": "Siege Of Buda By Suleyman",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Nicholas, Count of Salm",
+            "summary": "Imperial military commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rathausplatz_Niklas_Graf_Salm.JPG/250px-Rathausplatz_Niklas_Graf_Salm.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicholas%2C_Count_of_Salm"
+        },
+        {
+            "name": "Suleiman the Magnificent",
+            "summary": "Sultan of the Ottoman Empire (1520–1566)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/250px-EmperorSuleiman.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
+        },
+        {
+            "name": "Louis II of Hungary",
+            "summary": "King of Hungary and Croatia from 1516 to 1526",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hans_Krell_-_Portrait_of_King_Louis_II_of_Hungary_%28c.1526%29.jpg/250px-Hans_Krell_-_Portrait_of_King_Louis_II_of_Hungary_%28c.1526%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_II_of_Hungary"
+        },
+        {
+            "name": "Ferdinand I, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1556 to 1564",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hans_Bocksberger_der_Aeltere_001.jpg/250px-Hans_Bocksberger_der_Aeltere_001.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_I%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "John Zápolya",
+            "summary": "King of Hungary from 1526 to 1540",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Szapolyai_J%C3%A1nos_fametszet.jpg/250px-Szapolyai_J%C3%A1nos_fametszet.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Z%C3%A1polya"
+        },
+        {
+            "name": "Charles V, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1519 to 1556",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg/250px-Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_V%2C_Holy_Roman_Emperor"
+        }
+    ],
+    "territory_geojson": null
+}

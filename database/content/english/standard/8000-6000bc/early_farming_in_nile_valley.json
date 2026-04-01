@@ -1,0 +1,70 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 19,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:08f1bf670154deb5df34fc0de4109f4f61ab2bc167f8308d5dad81e40c2c534b",
+    "summary": "The adoption of farming and herding practices along the Nile Valley and adjacent areas of northeastern Africa occurred during the eighth and seventh millennia BCE, representing a critical transition that ultimately set the stage for one of the ancient world's greatest civilizations. The process was not a single event but a gradual adoption of agricultural techniques — primarily the cultivation of wheat and barley brought from the Levant — combined with the herding of cattle, sheep, and goats alongside continued hunting and fishing in the exceptionally rich Nile ecosystem.\n\nEarly Neolithic sites in the Fayum Depression, the Merimda region of the western delta, and sites in Upper Egypt provide the earliest direct evidence of farming communities in the Egyptian Nile Valley. The Fayum Neolithic communities, active from roughly 5000 BCE onward, stored grain in mat-lined pits and kept domesticated animals, though they lacked permanent architecture. Earlier farming evidence in the Sudan and the broader Nile corridor suggests the transition began somewhat before this, likely influenced by both contact with Levantine farming communities to the northeast and the growing population pressure caused by the progressive drying of the [[event:17|Saharan Green Period]].\n\nThe Nile's unique hydrology — its annual flood depositing rich silt across floodplains — made the valley extraordinarily well suited to grain cultivation once the agricultural package arrived or was independently developed. Farmers could exploit the receding floodwaters each year, planting crops in naturally prepared, fertilized soil with minimal labor. This productive system supported population growth and, over subsequent millennia, the social complexity that produced pharaonic Egypt.\n\nThe transition to farming in the Nile Valley also involved the development of regional craft traditions and exchange networks. [[event:1497|Badarian culture]], emerging by around 5000 BCE in Upper Egypt, represents the earliest identifiable Predynastic Egyptian cultural horizon, characterized by distinctive black-topped pottery, copper working, and burial practices that foreshadow the religious elaboration of later dynasties.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nile#Ancient_Egypt",
+    "read_more_links": [
+        {
+            "title": "Ancient Egypt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egypt"
+        },
+        {
+            "title": "Predynastic Egypt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Predynastic_Egypt"
+        },
+        {
+            "title": "Fayum Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Faiyum_Neolithic"
+        },
+        {
+            "title": "Badarian Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Badarian_culture"
+        },
+        {
+            "title": "History of Agriculture in Africa - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture_in_Africa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Abyssinia_1619_map_by_Jodocus_Hondius.jpg/300px-Abyssinia_1619_map_by_Jodocus_Hondius.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Abyssinia_1619_map_by_Jodocus_Hondius.jpg",
+            "caption": "Map of central Africa, 1619, by Jodocus Hondius",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Murchison_Falls%2C_Uganda_%2823475021234%29.jpg/300px-Murchison_Falls%2C_Uganda_%2823475021234%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Murchison_Falls%2C_Uganda_%2823475021234%29.jpg",
+            "caption": "Uganda Natural World",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Murchison_falls_National_Park.2.jpg/300px-Murchison_falls_National_Park.2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Murchison_falls_National_Park.2.jpg",
+            "caption": "Tourists having a boat cruise along River Nile to have a better glimpse of th...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Desert_agriculture_in_Egypt_%28Copernicus_2024-02-03%29.jpg/300px-Desert_agriculture_in_Egypt_%28Copernicus_2024-02-03%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Desert_agriculture_in_Egypt_%28Copernicus_2024-02-03%29.jpg",
+            "caption": "Egypt is largely a desert country. The Nile has been its most important resou...",
+            "attribution": "Wikimedia Commons, Attribution"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        }
+    ],
+    "territory_geojson": null
+}

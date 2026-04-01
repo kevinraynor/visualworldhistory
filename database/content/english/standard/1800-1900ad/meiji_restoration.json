@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2544,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:628d5fa4ccf305175ca1a987149c7bebd0f9feff5ea3bb06e5fb12e6523669b3",
+    "summary": "The Meiji Restoration of 1868 was one of the most remarkable political and social transformations in modern history: the rapid, deliberate modernization of Japan from a feudal society governed by a military shogunate into an industrialized, constitutionally governed nation-state capable of competing with the Western imperial powers on their own terms. Within a single generation, Japan was transformed from a country that had executed people for building Western-style ships into one of the world's leading naval and military powers.\n\nThe Restoration's immediate context was the crisis triggered by the [[event:2589|Perry Expedition]] of 1853–54, when American Commodore Matthew Perry's 'Black Ships' forced Japan to open its ports and sign unequal treaties. The humiliating demonstration of Japan's military helplessness against Western technology delegitimized the [[event:2588|Tokugawa Shogunate]], which had governed Japan for over 250 years, and emboldened opponents who rallied behind the slogan 'Revere the Emperor, Expel the Barbarians.' The [[event:2590|Boshin War]] of 1868–69 ended with the defeat of the Shogunate's forces and the restoration of political authority to the teenage Emperor Meiji.\n\nThe new Meiji government quickly abandoned the 'expel the barbarians' slogan and replaced it with a radically different program: 'Civilization and Enlightenment' (Bunmei Kaika) and 'Rich Country, Strong Army' (Fukoku Kyohei). The oligarchs who dominated the Meiji government — mostly young samurai from the domains of Satsuma and Choshu — were pragmatic modernizers who understood that Japan's survival required the adoption of Western technology, institutions, and organizational methods.\n\nThe transformation was sweeping. The feudal domain system was abolished and replaced with a centralized prefectural administration. The [[event:2619|samurai class was abolished]] as a hereditary military caste, and a Western-style conscript army was created in its place — a change that triggered the [[event:2591|Satsuma Rebellion]] of 1877, the last significant samurai uprising. A national education system was built, compulsory for all children. Western legal codes, inspired by French and German models, replaced traditional legal systems. Railways and telegraph lines were constructed. A national bank and paper currency were established.\n\nThe political structure was formalized with the [[event:2612|Meiji Constitution]] of 1889, which established a constitutional monarchy modeled partly on the German imperial system, with an elected parliament (Diet) operating alongside a powerful emperor and executive. The constitution preserved imperial sovereignty while creating representative institutions, a balance that suited the oligarchs' desire for controlled modernization rather than popular democracy.\n\nThe results were extraordinary. Japan industrialized rapidly, built a modern navy, and in the [[event:2550|First Sino-Japanese War]] of 1894–95 defeated China — demonstrating that an Asian nation had successfully adopted Western military methods. The [[event:2561|Russo-Japanese War]] of 1904–05 brought even more stunning results when Japan became the first non-Western country to defeat a major European power in modern warfare. The Meiji Restoration stands as the most successful example of rapid, state-directed modernization in history, and its lessons have been studied and debated by developing nations ever since.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+    "read_more_links": [
+        {
+            "title": "Meiji Restoration – Britannica",
+            "url": "https://www.britannica.com/event/Meiji-Restoration"
+        },
+        {
+            "title": "Meiji era – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Meiji_era"
+        },
+        {
+            "title": "Tokugawa Shogunate – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tokugawa_shogunate"
+        },
+        {
+            "title": "Perry Expedition – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Perry_Expedition"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Yokohama-Sumo-Wrestler-Defeating-a-Foreigner-1861-Ipposai-Yoshifuji.png/300px-Yokohama-Sumo-Wrestler-Defeating-a-Foreigner-1861-Ipposai-Yoshifuji.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Yokohama-Sumo-Wrestler-Defeating-a-Foreigner-1861-Ipposai-Yoshifuji.png",
+            "caption": "Yokohama Sumo Wrestler Defeating a Foreigner. Ukiyo-e (Woodblock print).",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Emperor_Meiji_by_Takahashi_Yuichi.jpg/300px-Emperor_Meiji_by_Takahashi_Yuichi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Emperor_Meiji_by_Takahashi_Yuichi.jpg",
+            "caption": "Emperor Meiji by Takahashi Yuichi, Imperial Collection",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_New_fighting_the_Old_in_early_Meiji_Japan_circa_1870.jpg/300px-The_New_fighting_the_Old_in_early_Meiji_Japan_circa_1870.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_New_fighting_the_Old_in_early_Meiji_Japan_circa_1870.jpg",
+            "caption": "The New fighting the Old in early Meiji Japan circa 1870",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tenguto_no_ran.jpg/300px-Tenguto_no_ran.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tenguto_no_ran.jpg",
+            "caption": "Mito rebellion",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Meiji",
+            "summary": "Emperor of Japan from 1867 to 1912",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meiji_Emperor_%28cropped%29%28b%29.jpg/250px-Meiji_Emperor_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Meiji"
+        },
+        {
+            "name": "Samurai",
+            "summary": "Japanese warrior class",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/250px-Samurai_on_horseback0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai"
+        },
+        {
+            "name": "Millard Fillmore",
+            "summary": "President of the United States from 1850 to 1853",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Millard_Fillmore_Better_Crop.jpg/250px-Millard_Fillmore_Better_Crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Millard_Fillmore"
+        },
+        {
+            "name": "Meiji Constitution",
+            "summary": "Constitution of Japan from 1890 to 1947",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meiji-Constitution-Empire-of-Japan.png/250px-Meiji-Constitution-Empire-of-Japan.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Meiji_Constitution"
+        },
+        {
+            "name": "Fudai daimyō",
+            "summary": "Class of daimyō (warlords) during the rule of the Tokugawa Shogunate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Portrait-Honda-Tadakatsu.jpg/250px-Portrait-Honda-Tadakatsu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fudai_daimy%C5%8D"
+        },
+        {
+            "name": "Tozama daimyō",
+            "summary": "Class of daimyō (warlords) considered outsiders by the rulers of feudal Japan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Matsumae-Takahiro-1864.jpg/250px-Matsumae-Takahiro-1864.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tozama_daimy%C5%8D"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2197,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:60060c371c8c6e1111fe9b04415220895ddbf42a4ab30d71a2ed939eac94c2c1",
+    "summary": "The Book of Kells (c. 800 AD) is the supreme achievement of Insular (Hiberno-Saxon) illuminated manuscript art — a Gospel Book (the four Gospels in Latin) created by Celtic Christian monks, probably begun on the Scottish island of Iona (associated with St. Columba) and completed at the monastery of Kells in Ireland, that represents one of the most extraordinary feats of decorative art in human history. Its 340 vellum leaves (of the original estimated 340+) contain the Gospel texts surrounded by breathtakingly complex interlace patterns, zoomorphic (animal-form) decoration, human and divine figures, and full-page illuminated compositions of such intricacy that some passages require magnification to appreciate — the monks worked at a level of detail visible only under magnification, centuries before magnifying lenses existed.\n\nThe Book of Kells was likely produced partly in response to the [[event:2143|Viking raid on Lindisfarne]] (793 AD) and the subsequent raids on Iona (795 AD) that convinced the Iona community to move to Kells for safety. As a sacred object, it was kept at Kells Abbey in Ireland for centuries; it was stolen and found buried (without its gold cover) in 1007 AD, suggesting it was taken for its cover rather than its contents. It has been kept at Trinity College Dublin since the 17th century, where it remains Ireland's most precious cultural artifact. The manuscript's Chi-Rho page (the monogram for Christ) is regarded as the most elaborate page in any illuminated manuscript — a single decorated letter filling an entire page with millions of interlocking spirals, animals, and human figures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Book_of_Kells",
+    "read_more_links": [
+        {
+            "title": "Book of Kells Chi-Rho page",
+            "url": "https://en.wikipedia.org/wiki/Book_of_Kells#Chi_Rho_page"
+        },
+        {
+            "title": "Iona monastery origins",
+            "url": "https://en.wikipedia.org/wiki/Iona_Abbey"
+        },
+        {
+            "title": "Insular art style",
+            "url": "https://en.wikipedia.org/wiki/Insular_art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/KellsFol309r.jpg/300px-KellsFol309r.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/KellsFol309r.jpg",
+            "caption": "Image of page from the Book of Kells, a 1200 year old book in public domain.\n...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Book_of_Kells_fol_32v_-_Faksimile_Verlag.jpg/300px-Book_of_Kells_fol_32v_-_Faksimile_Verlag.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Book_of_Kells_fol_32v_-_Faksimile_Verlag.jpg",
+            "caption": "Info",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/KellsFol007vMadonnaChild_V2.jpg/300px-KellsFol007vMadonnaChild_V2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/KellsFol007vMadonnaChild_V2.jpg",
+            "caption": "KellsFol007vMadonnaChild V2",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/KellsFol032vChristEnthroned.jpg/300px-KellsFol032vChristEnthroned.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/KellsFol032vChristEnthroned.jpg",
+            "caption": "Book of Kells (an illuminated manuscript), Folio 32v, Christ Enthroned.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Columba",
+            "summary": "Irish missionary monk, one of Ireland's three patron saints",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Columba_at_Bridei%27s_fort.jpg/250px-Columba_at_Bridei%27s_fort.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Columba"
+        },
+        {
+            "name": "Abbey of Kells",
+            "summary": "Former monastery in County Meath, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kells-Round-Tower.jpg/250px-Kells-Round-Tower.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbey_of_Kells"
+        },
+        {
+            "name": "Cassiodorus",
+            "summary": "Roman statesman and scholar (c. 485 – c. 585)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gesta_Theodorici_-_Flavius_Magnus_Aurelius_Cassiodorus_%28c_485_-_c_580%29.jpg/250px-Gesta_Theodorici_-_Flavius_Magnus_Aurelius_Cassiodorus_%28c_485_-_c_580%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassiodorus"
+        },
+        {
+            "name": "Four Evangelists",
+            "summary": "Authors of the Gospels in the New Testament",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Four_Evangelists_Jordaens_Louvre_Inv1404.jpg/250px-Four_Evangelists_Jordaens_Louvre_Inv1404.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Four_Evangelists"
+        },
+        {
+            "name": "John the Evangelist",
+            "summary": "Name traditionally given to the author of the Gospel of John",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Codexaureus_25.jpg/250px-Codexaureus_25.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_the_Evangelist"
+        },
+        {
+            "name": "Luke the Evangelist",
+            "summary": "One of the four traditionally ascribed authors of the canonical gospels",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Luke_by_roslin.jpg/250px-Luke_by_roslin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Luke_the_Evangelist"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2160,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:500dd477ca6f1d6a6126091d44faea82260d6982bfc0843f410ae89b4c146d50",
+    "summary": "Chinese gunpowder weapons (developed c. 9th–10th centuries AD) represent the first military application of gunpowder — the explosive mixture of saltpeter, charcoal, and sulfur — transforming a Daoist alchemical curiosity into a revolutionary military technology. The earliest documented gunpowder weapons were fire lances (c. 950 AD) — bamboo tubes stuffed with gunpowder that produced flames and propelled co-combustibles, essentially the first firearms. By the 10th–11th centuries, Song Dynasty military engineers had developed fire bombs (ceramic vessels filled with gunpowder and ignited), incendiary arrows, and early forms of rockets for military use.\n\nThe [[event:2156|Song Dynasty]] became particularly innovative with gunpowder weapons because it faced severe military pressure from the Jurchen Jin dynasty and later the Mongols — threats that incentivized military technology development. Song engineers developed fire arrows, bombs propelled by trebuchet, fire lances that could fire clusters of pellets (proto-shotguns), and the first true 'fire-tube' guns (metal-barreled firearms) by the 13th century. The Mongols, who conquered the Song, adopted and further spread these technologies westward — the 'Chinese' fire arrows and bombs that appeared in Middle Eastern warfare in the 13th century were either captured Song technologies or inspired by them. Gunpowder weapons eventually reached Europe in the 13th century and, once adopted and developed by European states with abundant iron-working capacity, produced the firearms that would give European armies global military dominance from the 16th century onward.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_gunpowder#Military_use",
+    "read_more_links": [
+        {
+            "title": "Fire lance earliest firearm",
+            "url": "https://en.wikipedia.org/wiki/Fire_lance"
+        },
+        {
+            "title": "Song dynasty military technology",
+            "url": "https://en.wikipedia.org/wiki/Song_dynasty#Military"
+        },
+        {
+            "title": "Gunpowder weapons spread west",
+            "url": "https://en.wikipedia.org/wiki/History_of_gunpowder#Transfer_to_Islamic_world_and_Europe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/300px-Gari-Melchers-War-Highsmith.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gari-Melchers-War-Highsmith.jpeg",
+            "caption": "Second Floor, Northwest Gallery. Mural of War by Gari Melchers. Library of Co...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madrid_canons_indiens.png/300px-Madrid_canons_indiens.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Madrid_canons_indiens.png",
+            "caption": "An East Indies (precisely Javanese) cannon, ca. 1522, from the gallery of anc...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Edinburgh_Castle%2C_Mons_Meg.jpg/300px-Edinburgh_Castle%2C_Mons_Meg.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Edinburgh_Castle%2C_Mons_Meg.jpg",
+            "caption": "Mons Meg, a medieval siege gun, at Edinburgh Castle",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Defensive_Wall_of_Prince_Qin_Mansion_03_2016-01.jpg/300px-Defensive_Wall_of_Prince_Qin_Mansion_03_2016-01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Defensive_Wall_of_Prince_Qin_Mansion_03_2016-01.jpg",
+            "caption": "​明秦王府城墙遗址，西段（新城广场西南侧）东侧。",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roger Bacon",
+            "summary": "English polymath, philosopher and friar (c.1219/20–c.1292)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Roger-bacon-statue.jpg/250px-Roger-bacon-statue.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Bacon"
+        },
+        {
+            "name": "Wei Boyang",
+            "summary": "Chinese alchemist and writer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%89_%E9%AD%8F%E4%BC%AF%E9%99%BD.png/250px-%E4%BB%99%E4%BD%9B%E5%A5%87%E8%B9%A4_%E5%8D%B7%E4%B8%89_%E9%AD%8F%E4%BC%AF%E9%99%BD.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wei_Boyang"
+        },
+        {
+            "name": "Emperor Wu of Han",
+            "summary": "Emperor of China from 141 to 87 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%E6%BC%A2%E6%AD%A6%E5%B8%9D.jpg/250px-%E6%BC%A2%E6%AD%A6%E5%B8%9D.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Wu_of_Han"
+        },
+        {
+            "name": "Ge Hong",
+            "summary": "4th century Chinese philosopher and physician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Chinese_woodcut%2C_Famous_medical_figures%3B_Portrait_of_Ge_Hong_Wellcome_L0039323.jpg/250px-Chinese_woodcut%2C_Famous_medical_figures%3B_Portrait_of_Ge_Hong_Wellcome_L0039323.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ge_Hong"
+        },
+        {
+            "name": "Emperor Lizong",
+            "summary": "Emperor of Song China from 1224 to 1264",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Song_Lizong.jpg/250px-Song_Lizong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Lizong"
+        },
+        {
+            "name": "Jurchen people",
+            "summary": "Tungusic-speaking people in East Asia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jin_%28Jurchen%29_flags_%2851168762691%29.png/250px-Jin_%28Jurchen%29_flags_%2851168762691%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jurchen_people"
+        }
+    ],
+    "territory_geojson": null
+}

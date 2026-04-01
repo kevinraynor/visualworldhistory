@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 30,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:953afa460001ae5ab828b41eb5c2da91cced0c390da7a89c5780af4ddf214883",
+    "summary": "The domestication of the horse (Equus ferus caballus) from wild Eurasian steppe horses was among the most transformative events in human prehistory, fundamentally altering warfare, transportation, communication, and the human relationship with the landscape. The initial stages of this process are conventionally dated to the Pontic-Caspian steppe region — the vast grasslands stretching across what is now Ukraine, Russia, and Kazakhstan — beginning around 5500 to 5000 BCE, though the earlier phases of horse exploitation that preceded full domestication extend well back into the period covered here.\n\nHunting of wild horses was practiced by Upper Paleolithic and Mesolithic peoples across Eurasia for tens of thousands of years before domestication. The critical transition from hunting to husbandry — keeping horses in managed herds for meat and milk production before riding became common — likely occurred gradually on the Pontic steppe. The site of Botai in northern Kazakhstan (dating to approximately 3500 BCE) provides some of the earliest clear evidence of horse domestication through bit wear on horse teeth and residues of mare's milk in pottery. Whether horses were also being managed in more rudimentary ways in the earlier period covered by this era remains debated.\n\nThe significance of horse domestication for subsequent history cannot be overstated. Horses eventually gave steppe pastoralists an extraordinary military and logistical advantage over sedentary agricultural societies, enabling the mounted raids and migrations that would repeatedly shape the history of Eurasia from the Bronze Age onward. The spread of Indo-European languages across a vast swath of Eurasia from the British Isles to India is now widely believed to have been facilitated by horse-using steppe pastoralists, making horse domestication one of the pivotal events in the formation of the modern linguistic world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Domestication_of_the_horse",
+    "read_more_links": [
+        {
+            "title": "Horse - Britannica",
+            "url": "https://www.britannica.com/animal/horse"
+        },
+        {
+            "title": "Botai Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Botai_culture"
+        },
+        {
+            "title": "Pontic Steppe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pontic%E2%80%93Caspian_steppe"
+        },
+        {
+            "title": "Indo-European Languages - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Proto-Indo-European_language"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Horse_rider_%28M.C._5792%2C_cropped%29.jpg/300px-Horse_rider_%28M.C._5792%2C_cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Horse_rider_%28M.C._5792%2C_cropped%29.jpg",
+            "caption": "Date de production:\n\nEntre 618 et 907\nDatation en siècle: \n8e siècle\n\n\n\nType(...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ashurbanipal_inspects_booty_and_prisoners_from_Babylon%2C_645-640_BCE.jpg/300px-Ashurbanipal_inspects_booty_and_prisoners_from_Babylon%2C_645-640_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ashurbanipal_inspects_booty_and_prisoners_from_Babylon%2C_645-640_BCE.jpg",
+            "caption": "Ashurbanipal inspects booty and prisoners from Babylon, 645-640 BCE\nBritish M...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Persianbit1.jpg/300px-Persianbit1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Persianbit1.jpg",
+            "caption": "Luristan horse bit, in the Pergamon Museum",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Indo-European_migrations.jpg/300px-Indo-European_migrations.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg",
+            "caption": "Indo-European expansions, based on Anthony (2007), Nordqvist & Heyd (2020), N...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lyndon Baines Johnson Library and Museum",
+            "summary": "Presidential library and museum in Austin, Texas",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Official_logo_of_the_LBJ_Presidential_Library.svg/250px-Official_logo_of_the_LBJ_Presidential_Library.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lyndon_Baines_Johnson_Library_and_Museum"
+        },
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2644,
+    "parent_id": 110,
+    "granularity": "major",
+    "content_hash": "sha256:bdace3a10e98706d3ccc24e13b0d5eab10c8e9eaad3821bbf9a931f59a4c3733",
+    "summary": "The Treaty of Versailles, signed on 28 June 1919, formally ended [[event:110|World War I]] between Germany and the Allied Powers. Negotiated at the Paris Peace Conference, it was primarily shaped by the \"Big Four\" — American President Woodrow Wilson, British Prime Minister David Lloyd George, French Premier Georges Clemenceau, and Italian Prime Minister Vittorio Orlando. The contradictions between their differing goals — Wilson's idealism, French desire for security and revenge, and British pragmatism — produced a treaty that satisfied no party fully and planted seeds of future catastrophe.\n\nThe treaty's most controversial provisions fell hardest on Germany. Article 231, the \"war guilt clause,\" assigned Germany sole responsibility for starting the war and provided the legal basis for reparations. Germany was required to pay 132 billion gold marks in reparations — an enormous sum that crippled the German economy and fueled hyperinflation in the 1920s. Germany lost approximately 13 percent of its territory and 10 percent of its population, including Alsace-Lorraine to France, the Rhineland demilitarized, and the Polish Corridor separating East Prussia from the rest of Germany. The German military was reduced to 100,000 men, and the navy and air force were severely limited.\n\nGermany was excluded from the peace negotiations and forced to sign under the threat of renewed war. German public opinion across the political spectrum viewed the treaty as a dictated peace (Diktat) rather than a fair settlement based on Wilson's Fourteen Points, which Germany had accepted as the basis for armistice. This widespread sense of injustice and humiliation was ruthlessly exploited by right-wing politicians, most fatally by Adolf Hitler and the Nazi Party, who promised to tear up the treaty and restore German greatness.\n\nThe Paris settlement also reshaped the wider world. The Austro-Hungarian Empire was dissolved into successor states; the Ottoman Empire was partitioned; and the [[event:2649|League of Nations]] was established as Wilson's signature institution for collective security. The United States Senate ultimately refused to ratify the treaty or join the League, fatally weakening that body. Most historians today regard the Versailles settlement as one of the major contributing causes of [[event:112|World War II]] — harsh enough to breed resentment, but not decisive enough to permanently incapacitate Germany.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+    "read_more_links": [
+        {
+            "title": "Treaty of Versailles – Britannica",
+            "url": "https://www.britannica.com/event/Treaty-of-Versailles-1919"
+        },
+        {
+            "title": "Paris Peace Conference 1919 – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)"
+        },
+        {
+            "title": "War guilt clause – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/War_guilt_clause"
+        },
+        {
+            "title": "German reparations after World War I – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/World_War_I_reparations"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Big_four.jpg/300px-Big_four.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Big_four.jpg",
+            "caption": "Council of Four at the WWI Paris peace conference, May 27, 1919 (candid photo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Lloyd_George.jpg/300px-David_Lloyd_George.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David_Lloyd_George.jpg",
+            "caption": "David Lloyd GeorgePremierminister Führer der britischen Delegation",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bundesarchiv_Bild_183-R01213%2C_Versailles%2C_deutsche_Verhandlungdelegation.jpg/300px-Bundesarchiv_Bild_183-R01213%2C_Versailles%2C_deutsche_Verhandlungdelegation.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bundesarchiv_Bild_183-R01213%2C_Versailles%2C_deutsche_Verhandlungdelegation.jpg",
+            "caption": "For documentary purposes the German Federal Archive often retained the origin...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 de"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bundesarchiv_Bild_146-1985-010-10%2C_Oppeln%2C_Erwartung_der_Wahlergebnisse.jpg/300px-Bundesarchiv_Bild_146-1985-010-10%2C_Oppeln%2C_Erwartung_der_Wahlergebnisse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bundesarchiv_Bild_146-1985-010-10%2C_Oppeln%2C_Erwartung_der_Wahlergebnisse.jpg",
+            "caption": "For documentary purposes the German Federal Archive often retained the origin...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 de"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Wilhelm II",
+            "summary": "German Emperor from 1888 to 1918",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg/250px-Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_II"
+        },
+        {
+            "name": "Ferdinand Foch",
+            "summary": "French general and military theorist (1851–1929)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg/250px-Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Foch"
+        },
+        {
+            "name": "Appeasement",
+            "summary": "Diplomatic policy of concessions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bundesarchiv_Bild_146-1976-063-32%2C_Bad_Godesberg%2C_M%C3%BCnchener_Abkommen%2C_Vorbereitung.jpg/250px-Bundesarchiv_Bild_146-1976-063-32%2C_Bad_Godesberg%2C_M%C3%BCnchener_Abkommen%2C_Vorbereitung.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Appeasement"
+        },
+        {
+            "name": "Vladimir Lenin",
+            "summary": "Leader of the Soviet Union from 1922 to 1924",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/250px-Lenin_in_1920_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+        },
+        {
+            "name": "Woodrow Wilson",
+            "summary": "President of the United States from 1913 to 1921",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/250px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+        },
+        {
+            "name": "Edward M. House",
+            "summary": "American diplomat (1858–1938)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/E._M._House_LCCN2014700618_%28cropped%29.jpg/250px-E._M._House_LCCN2014700618_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_M._House"
+        }
+    ],
+    "territory_geojson": null
+}

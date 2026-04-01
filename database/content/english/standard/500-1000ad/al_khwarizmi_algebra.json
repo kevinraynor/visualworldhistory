@@ -1,0 +1,37 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2137,
+    "parent_id": 2135,
+    "granularity": "notable",
+    "content_hash": "sha256:249ee6fd00d3d4e15b7587d02be2f21abd405bdfd824db9105828eb7edbe4927",
+    "summary": "Muhammad ibn Musa al-Khwarizmi (c. 780–850 AD), a scholar at the [[event:2136|House of Wisdom]] in Baghdad, is the father of algebra — a mathematician whose two most important works gave European mathematics both its name and its most powerful computational tool. His Arabic treatise 'Kitab al-mukhtasar fi hisab al-jabr wal-muqabala' (c. 830 AD) — 'The Compendious Book on Calculation by Completion and Balancing' — systematized the solving of linear and quadratic equations using methods that could be applied mechanically without needing geometric proofs; the word 'algebra' derives from 'al-jabr' in his title. His second major work introduced the Hindu-Arabic decimal numeral system (including zero) to the Islamic world in a form that was subsequently transmitted to Europe.\n\nThe word 'algorithm' derives from the Latin transliteration of al-Khwarizmi's name (Algoritmi), reflecting his role as the systematizer of step-by-step computational procedures. His mathematical works were translated into Latin in the 12th century and became standard texts in European universities — meaning that every European mathematician for the next 500 years learned their basic arithmetic and algebra from al-Khwarizmi's methods. He also produced geographical works (improving on Ptolemy's coordinates for 2,402 locations) and astronomical tables that were similarly influential. Al-Khwarizmi's contributions were the essential bridge between Indian mathematical innovation (the decimal system, zero) and European mathematical development — without him, the Scientific Revolution would likely have occurred much later if at all.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi",
+    "read_more_links": [
+        {
+            "title": "Al-Khwarizmi algebra treatise",
+            "url": "https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing"
+        },
+        {
+            "title": "Algorithm word etymology",
+            "url": "https://en.wikipedia.org/wiki/Algorithm#Etymology"
+        },
+        {
+            "title": "Al-Khwarizmi legacy mathematics",
+            "url": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi#Legacy"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Al-Khwarizmi",
+            "summary": "Islamic mathematician (c. 780 – c. 850)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Madrid_-_Ciudad_Universitaria%2C_Monumento_a_Muhammad_al-Juarismi_%28cropped%29.jpg/250px-Madrid_-_Ciudad_Universitaria%2C_Monumento_a_Muhammad_al-Juarismi_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Khwarizmi"
+        }
+    ],
+    "territory_geojson": null
+}

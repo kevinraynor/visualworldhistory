@@ -1,0 +1,69 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "2.0",
+    "event_id": 2441,
+    "summary": "The Spinning Jenny (c. 1764–1767 AD), invented by James Hargreaves — a weaver and carpenter from Lancashire, England — was one of the earliest and most significant mechanical innovations of the [[event:108|Industrial Revolution]], a device that allowed a single operator to spin multiple threads simultaneously, dramatically increasing the productivity of textile manufacturing and beginning the mechanization of a craft that had been performed by hand for millennia. The jenny (the name may derive from 'engine' or may be a proper name) initially spun 8 spindles simultaneously; later versions operated up to 120 spindles. By multiplying each worker's output, it helped solve the bottleneck that had existed between the weaving industry (which consumed thread faster than hand spinners could produce it) and created surplus thread that drove further innovation in weaving.\n\nHargreaves reportedly developed the jenny after observing a fallen spinning wheel continue to spin with its spindle vertical, suggesting that multiple vertical spindles could be operated from a single horizontal driving wheel. His invention was initially met with violent resistance: his home was ransacked by workers who feared the jenny would destroy their livelihoods (a precursor to the later Luddite movement). He moved to Nottingham and obtained a patent in 1770. The jenny was followed by Richard Arkwright's water frame (1769), which used water power and created stronger thread, and Samuel Crompton's spinning mule (1779), which combined features of both jenny and water frame to produce fine, strong thread. Together, these machines transformed the textile industry from a cottage craft into the first major factory industry — the defining economic transformation of the early [[event:108|Industrial Revolution]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spinning_jenny",
+    "read_more_links": [
+        {
+            "title": "James Hargreaves inventor spinning jenny Lancashire",
+            "url": "https://en.wikipedia.org/wiki/James_Hargreaves"
+        },
+        {
+            "title": "Textile industrialization spinning jenny water frame mule",
+            "url": "https://en.wikipedia.org/wiki/Textile_manufacture_during_the_British_Industrial_Revolution"
+        },
+        {
+            "title": "Luddite movement worker resistance mechanization",
+            "url": "https://en.wikipedia.org/wiki/Luddite"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Spinning_jenny_blackburn.JPG/300px-Spinning_jenny_blackburn.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Spinning_jenny_blackburn.JPG",
+            "caption": "Photo of a Spinning Jenny at Blackburn Museum and Art Gallery",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Spinning_jenny.jpg/300px-Spinning_jenny.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Spinning_jenny.jpg",
+            "caption": "A Spinning Jenny, spinning machine which initiated the Industrial Revolution,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Spinning_Jenny_improved_203_Marsden.png/300px-Spinning_Jenny_improved_203_Marsden.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Spinning_Jenny_improved_203_Marsden.png",
+            "caption": "Spinning_Jenny_improved ( after Baines 1835- This was the Jenny that was in c...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hermann_Sondermann_Familie_mit_Frau_am_Spinnrad_detail.jpg/300px-Hermann_Sondermann_Familie_mit_Frau_am_Spinnrad_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hermann_Sondermann_Familie_mit_Frau_am_Spinnrad_detail.jpg",
+            "caption": "detail",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lancashire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Clitheroe_-_geograph.org.uk_-_4067941.jpg/250px-Clitheroe_-_geograph.org.uk_-_4067941.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lancashire"
+        },
+        {
+            "name": "Richard Arkwright",
+            "summary": "English inventor and entrepreneur (1732–1792)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sir_Richard_Arkwright_by_Mather_Brown_1790.jpeg/250px-Sir_Richard_Arkwright_by_Mather_Brown_1790.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Arkwright"
+        },
+        {
+            "name": "John Kay (flying shuttle)",
+            "summary": "British inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/PublicDomainColourPortraitOfJohnKayBorn1704.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Kay_%28flying_shuttle%29"
+        }
+    ]
+}

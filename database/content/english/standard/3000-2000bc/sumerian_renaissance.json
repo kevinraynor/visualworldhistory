@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1720,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d6aa17459d179eaa50705a3e58d3e0e4594ef3088923c33ceb3a98ea2110dddd",
+    "summary": "The Early Dynastic Period of Mesopotamia, often called the Sumerian Renaissance by historians, spanned approximately 2900–2350 BC and represents the flowering of Sumerian urban civilisation in the cities of the lower Tigris-Euphrates plain. This era saw the maturation of city-state governance, the expansion of temple economies, the development of sophisticated cuneiform literature, and the emergence of organised warfare between competing urban centres. Cities such as Ur, Uruk, Lagash, Nippur, Kish, and Umma reached populations of tens of thousands and dominated the surrounding agricultural hinterland.\n\nPolitically, the period was characterised by intense rivalry among city-states, each ruled by a lugal (king) or ensi (governor) whose authority derived partly from military prowess and partly from divine mandate. Conflicts over water rights, agricultural land, and trade routes were endemic, as evidenced by the [[event:1732|Stele of the Vultures]], which commemorates the military victory of Lagash over Umma around 2450 BC. These conflicts drove the development of increasingly sophisticated military technology, including the phalanx formation depicted on the Stele and the use of war chariots.\n\nThe temple institutions of this period dominated economic life. Temples held large tracts of land, employed thousands of workers, redistributed grain and other goods, and maintained the complex administrative records that produced some of the earliest literary texts. The [[event:1728|Epic of Gilgamesh]] has its roots in this era, with early oral traditions about the legendary king of Uruk likely originating during the Early Dynastic Period. The [[event:1787|Standard of Ur]], a remarkable mosaic object from the [[event:1727|Royal Cemetery of Ur]], provides vivid visual evidence of Early Dynastic society, depicting scenes of war and feasting that illuminate the social hierarchy of the age.\n\nThe Sumerian Renaissance ended with the rise of [[event:45|the Akkadian Empire]] under Sargon, who conquered the Sumerian city-states and created the first true multi-ethnic empire in Mesopotamia. Sumerian culture was not destroyed by this conquest but rather blended with Akkadian elements to produce a shared Mesopotamian civilisation that would endure for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Early_Dynastic_Period_(Mesopotamia)",
+    "read_more_links": [
+        {
+            "title": "Sumer",
+            "url": "https://en.wikipedia.org/wiki/Sumer"
+        },
+        {
+            "title": "Royal Cemetery at Ur",
+            "url": "https://en.wikipedia.org/wiki/Royal_Cemetery_at_Ur"
+        },
+        {
+            "title": "Stele of the Vultures",
+            "url": "https://en.wikipedia.org/wiki/Stele_of_the_Vultures"
+        },
+        {
+            "title": "Epic of Gilgamesh",
+            "url": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Golden_helmet_of_Meskalamdug_in_the_British_Museum.jpg/300px-Golden_helmet_of_Meskalamdug_in_the_British_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Golden_helmet_of_Meskalamdug_in_the_British_Museum.jpg",
+            "caption": "Golden helmet of Meskalamdug in the British Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Female_worshipper_with_tufted_dress_and_wrapped_headdress%2C_Khafajah%2C_Nintu_Temple_VII%2C_Early_Dynastic_period%2C_2600-2500_BC%2C_gypsum_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07453.JPG/300px-Female_worshipper_with_tufted_dress_and_wrapped_headdress%2C_Khafajah%2C_Nintu_Temple_VII%2C_Early_Dynastic_period%2C_2600-2500_BC%2C_gypsum_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07453.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Female_worshipper_with_tufted_dress_and_wrapped_headdress%2C_Khafajah%2C_Nintu_Temple_VII%2C_Early_Dynastic_period%2C_2600-2500_BC%2C_gypsum_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07453.JPG",
+            "caption": "Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Ill...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Detail_of_the_Sumerian_statue_of_Lugaldalu.JPG/300px-Detail_of_the_Sumerian_statue_of_Lugaldalu.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Detail_of_the_Sumerian_statue_of_Lugaldalu.JPG",
+            "caption": "The inscription on the statue's shoulder introduces it as the \"King of Adab\" ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Perfume_dropper%2C_bracelet%2C_earrings%2C_and_headdress_leaves%2C_Ur%2C_early_Dynastic_III%2C_mid_3rd_millennium_BCE_-_Nelson-Atkins_Museum_of_Art_-_DSC08127.jpg/300px-Perfume_dropper%2C_bracelet%2C_earrings%2C_and_headdress_leaves%2C_Ur%2C_early_Dynastic_III%2C_mid_3rd_millennium_BCE_-_Nelson-Atkins_Museum_of_Art_-_DSC08127.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Perfume_dropper%2C_bracelet%2C_earrings%2C_and_headdress_leaves%2C_Ur%2C_early_Dynastic_III%2C_mid_3rd_millennium_BCE_-_Nelson-Atkins_Museum_of_Art_-_DSC08127.jpg",
+            "caption": "Exhibit in the Nelson-Atkins Museum of Art, Kansas City, Missouri, USA. Photo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sargon of Akkad",
+            "summary": "Founder of Akkadian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg/250px-Sargon_of_Akkad_on_his_victory_stele.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
+        },
+        {
+            "name": "Gilgamesh",
+            "summary": "Sumerian ruler and protagonist of the Epic of Gilgamesh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chaos_Monster_and_Sun_God.png/250px-Chaos_Monster_and_Sun_God.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gilgamesh"
+        },
+        {
+            "name": "Sumerian King List",
+            "summary": "Ancient text listing Sumerian Kingships",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg/250px-Weld-Blundell_Prism_with_transcription_by_Stephen_Herbert_Langdon_%281876-1937%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sumerian_King_List"
+        },
+        {
+            "name": "Lugal-zage-si",
+            "summary": "Sumerian King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Prisoner_exiting_a_cage%2C_on_an_Akkadian_Empire_victory_stele_circa_2300_BCE%2C_Louvre_Museum.jpg/250px-Prisoner_exiting_a_cage%2C_on_an_Akkadian_Empire_victory_stele_circa_2300_BCE%2C_Louvre_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lugal-zage-si"
+        },
+        {
+            "name": "Naram-Sin of Akkad",
+            "summary": "Ruler of the Akkadian Empire (c. 2254–2218 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stele_of_Naram-Sin_of_Akkad.jpg/250px-Stele_of_Naram-Sin_of_Akkad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad"
+        },
+        {
+            "name": "Meskalamdug",
+            "summary": "King of Kish",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Golden_helmet_of_Meskalamdug_in_the_British_Museum.jpg/250px-Golden_helmet_of_Meskalamdug_in_the_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Meskalamdug"
+        }
+    ],
+    "territory_geojson": null
+}

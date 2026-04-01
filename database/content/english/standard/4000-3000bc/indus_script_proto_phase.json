@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1683,
+    "parent_id": 1680,
+    "granularity": "notable",
+    "content_hash": "sha256:4ba51479bf277f38af96a90186077dc6b48c2837cd17151a453f85e358f0da56",
+    "summary": "The Indus script, whose earliest proto-phase inscriptions appear in the context of the [[event:1680|Indus Valley Civilization]] during the fourth millennium BCE, represents one of the world's major undeciphered writing systems and one of the great intellectual puzzles of archaeology. Approximately 4,000-5,000 inscribed objects have been recovered from sites across the Indus system — primarily seals, sealings, pottery, and copper tablets — bearing a corpus of around 400-700 distinct signs. Despite decades of scholarly effort and the application of computational methods, the script has not been deciphered, and its underlying language remains unknown.\n\nThe proto-phase of the Indus script encompasses the earliest identifiable forerunners of the mature system, appearing in late fourth-millennium contexts at sites including [[event:1682|Harappa]]. These earliest inscriptions are brief — typically only a few signs — and appear on pottery, signaling that even before the urban flowering of the mature phase, the Indus population was using some form of graphic notation. The relationship between these early inscriptions and the fully developed script of the mature Harappan period is still being studied.\n\nThe mature Indus script (2600-1900 BCE) is best known from the thousands of square stamp seals bearing animal imagery and sign sequences that appear to record names, titles, or administrative designations. The seals were used to mark goods, authenticate identities, or control access to storage, and identical or related signs appear across the entire geographic range of the civilization — from sites in Baluchistan to the Ganges plain and from northern Punjab to Gujarat — implying a standardized writing system used for inter-regional communication.\n\nThe failure to decipher the Indus script represents a major gap in understanding one of the world's first civilizations. Without readable texts, historians cannot access the political institutions, religious beliefs, social organization, or historical events of Harappan civilization directly. The script may encode a Dravidian language (as some scholars argue on the basis of computational analysis and geographic successor patterns), a language ancestral to the Munda family, an early Indo-Aryan language, or a language with no known modern descendants.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indus_script",
+    "read_more_links": [
+        {
+            "title": "Indus Valley Civilisation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        },
+        {
+            "title": "Indus Script - Britannica",
+            "url": "https://www.britannica.com/topic/Indus-script"
+        },
+        {
+            "title": "Undeciphered Writing Systems - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Undeciphered_writing_systems"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Susa_seal_with_Indus_signs.jpg/300px-Susa_seal_with_Indus_signs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Susa_seal_with_Indus_signs.jpg",
+            "caption": "Susa seal with Indus signs",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Indus_script_recovered_from_Khirsara%2C_Indus_Valley_Civilization.jpg/300px-Indus_script_recovered_from_Khirsara%2C_Indus_Valley_Civilization.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Indus_script_recovered_from_Khirsara%2C_Indus_Valley_Civilization.jpg",
+            "caption": "Indus script recovered from Khirsara, Indus Valley Civilization",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Copper_plates_with_Indus_script.jpg/300px-Copper_plates_with_Indus_script.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Copper_plates_with_Indus_script.jpg",
+            "caption": "Copper plates with Indus script",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/IndusValleySeals.JPG/300px-IndusValleySeals.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/IndusValleySeals.JPG",
+            "caption": "Collection of seals of the Indus Valley Civilization. also showing Swastikas....",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Asko Parpola",
+            "summary": "Finnish Indologist (born 1941)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asko_Parpola.jpg/250px-Asko_Parpola.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Asko_Parpola"
+        },
+        {
+            "name": "Tally marks",
+            "summary": "Numeral form used for counting",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Strike_symbol_%2849778996432%29.jpg/250px-Strike_symbol_%2849778996432%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tally_marks"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3699,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d2ace67148fc8a5a6362c7e8ff9b9dcfd90dc5013554c0cdfa6d89b5fec6d2a1",
+    "summary": "Faience is a non-clay ceramic material composed of a core of crushed quartz or sand covered by a vitreous alkaline glaze, typically colored bright blue or green by copper compounds. The earliest known production of faience objects dates to at least 3500 BCE in Egypt and Mesopotamia, predating true glassmaking by approximately a millennium. Egyptian faience in particular became one of the most widely produced and traded luxury materials of the ancient world, used to craft beads, amulets, figurines, tiles, and eventually vessels.\n\nThe manufacture of faience required specialized knowledge of raw material preparation, forming techniques (including modeling, molding, and coating), and kiln firing. Production centers have been identified at sites including [[event:1637|Narmer]]-era Egyptian sites and [[event:1617|Uruk]]-period Mesopotamian cities. The brilliant blue-green color of faience was intentionally evocative of turquoise and lapis lazuli — materials valued for their color across the ancient Near East — and objects of faience carried similar symbolic associations with water, fertility, and rebirth. Faience production spread widely across the ancient world, appearing in contexts from Bronze Age Europe to the Indus Valley.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Faience",
+    "read_more_links": [
+        {
+            "title": "Egyptian Faience - Britannica",
+            "url": "https://www.britannica.com/art/faience"
+        },
+        {
+            "title": "Faience in Ancient Egypt - Metropolitan Museum",
+            "url": "https://www.metmuseum.org/toah/hd/egfc/hd_egfc.htm"
+        },
+        {
+            "title": "Corning Museum of Glass - Ancient Faience",
+            "url": "https://www.cmog.org/research/ancient-glass"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Shabti_figurine_of_scribe_HARGM7250.JPG/300px-Shabti_figurine_of_scribe_HARGM7250.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Shabti_figurine_of_scribe_HARGM7250.JPG",
+            "caption": "Egyptian shabti. Faience brilliant blue glaze with deep black inscriptions.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Berl%C3%ADn_Manises_XV.JPG/300px-Berl%C3%ADn_Manises_XV.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Berl%C3%ADn_Manises_XV.JPG",
+            "caption": "Berlín, Museo de arte islámico, plato de cerámica de Manises, s. XV.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tureen_Marseille_1770_DMA_1997-46.jpg/300px-Tureen_Marseille_1770_DMA_1997-46.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tureen_Marseille_1770_DMA_1997-46.jpg",
+            "caption": "Tureen; unknown manufacturer, Marseille c. 1770; faience, width: 39.4 cm; \n\nD...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Potpourri_with_cover_MET_DP230522_%28cropped%29.jpg/300px-Potpourri_with_cover_MET_DP230522_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Potpourri_with_cover_MET_DP230522_%28cropped%29.jpg",
+            "caption": "French, Niderviller; Potpourri with cover; Ceramics-Pottery",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Josiah Wedgwood",
+            "summary": "English potter and founder of the Wedgwood company (1730–1795)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Josiah_Wedgwood_by_George_Stubbs%2C_1780%2C_enamel_on_a_Wedgwood_ceramic_tablet_-_Wedgwood_Museum_-_Barlaston%2C_Stoke-on-Trent%2C_England_-_DSC09537.jpg/250px-Josiah_Wedgwood_by_George_Stubbs%2C_1780%2C_enamel_on_a_Wedgwood_ceramic_tablet_-_Wedgwood_Museum_-_Barlaston%2C_Stoke-on-Trent%2C_England_-_DSC09537.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Josiah_Wedgwood"
+        },
+        {
+            "name": "Beer stein",
+            "summary": "Drinking vessel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Beerstein.jpg/250px-Beerstein.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Beer_stein"
+        }
+    ],
+    "territory_geojson": null
+}

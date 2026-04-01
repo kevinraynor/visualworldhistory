@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3145,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:6d02ede1fe25d9a9540f1ee1c1b8aced235936a22e83abc0376f1b5221405a37",
+    "summary": "Julius Caesar (100–44 BC) was the Roman general, statesman, and writer whose career effectively ended the Roman Republic and set in motion the transformation into the Roman Empire. A gifted military commander, political innovator, and supreme self-promoter, Caesar combined extraordinary abilities in nearly every field he touched: his Gallic Wars commentaries are still read as masterworks of Latin prose while documenting his conquest of Gaul (58–50 BC); his military tactics were studied for centuries; and his political maneuvers — the [[event:1073|First Triumvirate]] with Pompey and Crassus, his exploitation of the tribunicia sacrosanctity — showed complete mastery of Rome's constitutional machinery.\n\nHis crossing of the Rubicon in January 49 BC — leading his army into Italy in defiance of the Senate's orders — began a civil war that he won swiftly, defeating Pompey at Pharsalus (48 BC), campaigning in Egypt where he allied with [[event:1244|Cleopatra and Caesar]]'s Cleopatra, defeating Pharnaces II at Zela ('Veni, vidi, vici'), and crushing the last Republican forces in Africa and Spain. As dictator, he enacted sweeping reforms: the Julian calendar (replacing the chaotic Roman calendar), land distributions for veterans and the poor, the extension of citizenship, and ambitious building projects. His increasing autocratic style — accepting perpetual dictatorship, allowing divine honors, sitting while the Senate stood — provoked the conspiracy of senators led by Brutus and Cassius, who assassinated him on the Ides of March (March 15), 44 BC.\n\nCaesar's assassination triggered the very civil wars his killers hoped to prevent: the [[event:1080|Battle of Actium]] power struggle eventually produced Caesar's adopted heir Octavian (Augustus) as sole ruler. Caesar's name became a title — Kaiser, Tsar, Shah, Czar all derive from it — and his legacy shaped governance and military strategy for millennia. His personal calendar reform, creating the 365.25-day year with a leap day, remained the basis of Western timekeeping until the Gregorian reform of 1582.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "read_more_links": [
+        {
+            "title": "Gallic Wars campaigns",
+            "url": "https://en.wikipedia.org/wiki/Gallic_Wars"
+        },
+        {
+            "title": "Assassination of Caesar Ides of March",
+            "url": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar"
+        },
+        {
+            "title": "Julian calendar reform",
+            "url": "https://en.wikipedia.org/wiki/Julian_calendar"
+        },
+        {
+            "title": "Caesar crossing the Rubicon",
+            "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/300px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "caption": "(Venice) Pompey the Great, Museo Archeologico Nazionale",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_head_of_Julius_Caesar_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_on_10_January_2020.jpg/300px-Portrait_head_of_Julius_Caesar_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_on_10_January_2020.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Portrait_head_of_Julius_Caesar_%281st_cent._A.D.%29_at_the_Archaeological_Museum_of_Corinth_on_10_January_2020.jpg",
+            "caption": "Marble portrait head of Julius Caesar, 1st quarter of the 1st century A.D. In...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Julii_Caesaris_quae_exstant.tif/300px-Julii_Caesaris_quae_exstant.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Julii_Caesaris_quae_exstant.tif",
+            "caption": "Julii Caesaris quae exstant [C. Iulii Caesaris quae extant]",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Portrait_of_Julius_Caesar_%281st_cent._B.C.%29_at_the_Archaeological_Museum_of_Sparta_on_15_May_2019.jpg/300px-Portrait_of_Julius_Caesar_%281st_cent._B.C.%29_at_the_Archaeological_Museum_of_Sparta_on_15_May_2019.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Portrait_of_Julius_Caesar_%281st_cent._B.C.%29_at_the_Archaeological_Museum_of_Sparta_on_15_May_2019.jpg",
+            "caption": "Portrait of Julius Caesar, 1st century B.C. Sparta (Menelaion Hotel). Accessi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pontifex maximus",
+            "summary": "Chief high priest in ancient Rome",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/August_Labicana_Massimo_Inv56230.jpg/250px-August_Labicana_Massimo_Inv56230.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pontifex_maximus"
+        },
+        {
+            "name": "Proconsul",
+            "summary": "Governor of a province in the Roman republic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_2.jpg/250px-Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Proconsul"
+        },
+        {
+            "name": "Caesarion",
+            "summary": "Pharaoh of Egypt from 44 to 30 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Caesarion_granite_head.jpg/250px-Caesarion_granite_head.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Caesarion"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "First Triumvirate",
+            "summary": "Alliance between Roman politicians Caesar, Pompey and Crassus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/C%C3%A9sar_%2813667960455%29.jpg/250px-C%C3%A9sar_%2813667960455%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/First_Triumvirate"
+        },
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3385,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9ec98cf40dd8bdcae30c2e8e8ab9ba9e617d0544124645f1173ba9692c936793",
+    "summary": "The North American Free Trade Agreement (NAFTA) entered into force on January 1, 1994, creating the world's largest free trade area at the time by eliminating most tariffs on goods traded between the United States, Canada, and Mexico. Negotiated under President George H.W. Bush and implemented under President Clinton, NAFTA reflected the ascendant consensus in favor of trade liberalization following the Cold War. Its negotiators argued that freer trade would create growth and jobs across all three countries.\n\nNAFTA's effects were complex and contested. Trade among the three nations tripled over the agreement's first two decades. Manufacturing investment flowed into Mexico, creating hundreds of thousands of jobs there. However, American manufacturing workers, particularly in automotive and textile industries, experienced job losses as production shifted south. Rural Mexican farmers were undercut by subsidized American agricultural imports, driving millions off the land and contributing to immigration pressures. The agreement also created side agreements on labor and environmental standards, though critics considered these weak.\n\nNAFTA became a central controversy in American political debates about globalization through the 1990s and 2000s, with labor unions, environmental groups, and economic nationalists arguing it had depressed wages and enabled corporate outsourcing. The agreement was renegotiated as the United States-Mexico-Canada Agreement (USMCA) in 2020 under President Trump. NAFTA's trajectory — from consensus achievement to political flashpoint — mirrored the broader trajectory of attitudes toward globalization across the late twentieth century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement",
+    "read_more_links": [
+        {
+            "title": "NAFTA - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/NAFTA"
+        },
+        {
+            "title": "Free trade agreements - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Free_trade_agreement"
+        },
+        {
+            "title": "USMCA - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/United_States%E2%80%93Mexico%E2%80%93Canada_Agreement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/President_Bush%2C_Canadian_Prime_Minister_Brian_Mulroney_and_Mexican_President_Carlos_Salinas_participate_in_the..._-_NARA_-_186460.jpg/300px-President_Bush%2C_Canadian_Prime_Minister_Brian_Mulroney_and_Mexican_President_Carlos_Salinas_participate_in_the..._-_NARA_-_186460.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/President_Bush%2C_Canadian_Prime_Minister_Brian_Mulroney_and_Mexican_President_Carlos_Salinas_participate_in_the..._-_NARA_-_186460.jpg",
+            "caption": "President Bush, Canadian Prime Minister Brian Mulroney and Mexican President Carlos Salinas participate in the... - NARA - 186460",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/The_Three_Amigos_2016.jpg/300px-The_Three_Amigos_2016.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Three_Amigos_2016.jpg",
+            "caption": "President of Mexico, PM of Canada and President of the United States",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chrystia_Freeland%2C_Luis_Videgaray_Caso_and_Rex_Tillerson_in_Mexico_City_-_2018_%2840013111732%29.jpg/300px-Chrystia_Freeland%2C_Luis_Videgaray_Caso_and_Rex_Tillerson_in_Mexico_City_-_2018_%2840013111732%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Chrystia_Freeland%2C_Luis_Videgaray_Caso_and_Rex_Tillerson_in_Mexico_City_-_2018_%2840013111732%29.jpg",
+            "caption": "U.S. Secretary of State Rex Tillerson poses for a photo with Canadian Foreign...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Obama%2C_Pe%C3%B1a_y_Harper._IX_Cumbre_de_L%C3%ADderes_de_Am%C3%A9rica_del_Norte.jpg/300px-Obama%2C_Pe%C3%B1a_y_Harper._IX_Cumbre_de_L%C3%ADderes_de_Am%C3%A9rica_del_Norte.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Obama%2C_Pe%C3%B1a_y_Harper._IX_Cumbre_de_L%C3%ADderes_de_Am%C3%A9rica_del_Norte.jpg",
+            "caption": "Fotografía Oficial al interior del Cosmovitral Jardín Botánico. Toluca, Estad...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ronald Reagan",
+            "summary": "President of the United States from 1981 to 1989",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/250px-Official_Portrait_of_President_Reagan_1981.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+        },
+        {
+            "name": "George H. W. Bush",
+            "summary": "President of the United States from 1989 to 1993",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/George_H._W._Bush_presidential_portrait_%28cropped_5%29.jpg/250px-George_H._W._Bush_presidential_portrait_%28cropped_5%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_H._W._Bush"
+        },
+        {
+            "name": "Carlos Salinas de Gortari",
+            "summary": "President of Mexico from 1988 to 1994",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Carlos_Salinas.jpg/250px-Carlos_Salinas.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carlos_Salinas_de_Gortari"
+        },
+        {
+            "name": "Brian Mulroney",
+            "summary": "Prime Minister of Canada from 1984 to 1993",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Brian_Mulroney_1984_%28cropped%29%282%29.jpg/250px-Brian_Mulroney_1984_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brian_Mulroney"
+        },
+        {
+            "name": "Donald Trump",
+            "summary": "President of the United States (2017–2021; since 2025)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/250px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Trump"
+        },
+        {
+            "name": "Kim Campbell",
+            "summary": "Prime Minister of Canada in 1993",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kim_Campbell.jpg/250px-Kim_Campbell.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kim_Campbell"
+        }
+    ],
+    "territory_geojson": null
+}

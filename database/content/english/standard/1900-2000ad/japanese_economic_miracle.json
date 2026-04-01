@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2746,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:36a3e33da916b39d1f4e792cd4b42b6a45594e67f5fc2f8fd66f6cf96620c41c",
+    "summary": "The Japanese economic miracle refers to Japan's extraordinary period of economic growth from the late 1940s through the 1980s, during which the country rebuilt from the devastation of [[event:112|World War II]] to become the world's second-largest economy. Japan's GDP grew at an average annual rate of roughly ten percent during the 1950s and 1960s — a pace unprecedented in economic history — and continued at high but moderating rates through the 1970s and 1980s. By 1968 Japan had surpassed West Germany to become the world's second-largest economy after the United States.\n\nThe miracle rested on a combination of factors: the American [[event:3459|occupation's]] land reforms and demilitarization redirected resources toward civilian production; a high national savings rate provided abundant capital for investment; MITI (the Ministry of International Trade and Industry) coordinated industrial policy, directing resources toward targeted sectors such as steel, shipbuilding, electronics, and automobiles; and preferential access to the large American market through Cold War geopolitical arrangements gave Japanese exports a critical advantage. The close relationships between government ministries, major banks, and industrial conglomerates (keiretsu) created a coordinated developmental system.\n\nJapanese corporations pioneered quality management techniques and manufacturing processes — particularly the Toyota Production System (lean manufacturing and just-in-time inventory) — that transformed global manufacturing practices. By the 1970s and 1980s, Japanese electronics and automotive brands such as Sony, Toyota, Honda, and Panasonic had become dominant in global markets, displacing American and European competitors in several key industries.\n\nThe miracle ended abruptly when a speculative asset bubble in real estate and stocks collapsed in 1989–1991, initiating a prolonged period of economic stagnation that Japan struggled to exit throughout the 1990s and beyond. The burst bubble remains a cautionary example in macroeconomic analysis, while the developmental state model Japan demonstrated influenced subsequent economic strategies across East Asia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_economic_miracle",
+    "read_more_links": [
+        {
+            "title": "Japan Economy - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/place/Japan/Economy"
+        },
+        {
+            "title": "Toyota Production System - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Toyota_Production_System"
+        },
+        {
+            "title": "MITI - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ministry_of_International_Trade_and_Industry"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/842b_Ginza%2C_Tokyo%2C_Japan_1971_%2851421452983%29.jpg/300px-842b_Ginza%2C_Tokyo%2C_Japan_1971_%2851421452983%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/842b_Ginza%2C_Tokyo%2C_Japan_1971_%2851421452983%29.jpg",
+            "caption": "842b Ginza, Tokyo, Japan 1971",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tokyo_Tower_and_around_Skyscrapers.jpg/300px-Tokyo_Tower_and_around_Skyscrapers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Tokyo_Tower_and_around_Skyscrapers.jpg",
+            "caption": "Tokyo Tower and around Buildings View of Roppongi Hills Mori Tower Roof.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ki-43s_and_Ki-84s.jpg/300px-Ki-43s_and_Ki-84s.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ki-43s_and_Ki-84s.jpg",
+            "caption": "Nakajima Ki-84, Nakajima Ki-43 fighter planes on an Imperial Japanese Army Ai...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1946-06-20_Japan_Today.ogv/300px-1946-06-20_Japan_Today.ogv",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/1946-06-20_Japan_Today.ogv",
+            "caption": "1946-06-20 Japan Today",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bank of Japan",
+            "summary": "Monetary authority of Japan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bank_of_Japan_2010.jpg/250px-Bank_of_Japan_2010.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bank_of_Japan"
+        },
+        {
+            "name": "Hayato Ikeda",
+            "summary": "Prime Minister of Japan from 1960 to 1964",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Hayato_Ikeda_1962_%28cropped%29.jpg/250px-Hayato_Ikeda_1962_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hayato_Ikeda"
+        },
+        {
+            "name": "Shigeru Yoshida",
+            "summary": "Prime Minister of Japan (1946–1947; 1948–1954)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Yoshida_Shigeru_ca._1950.jpg/250px-Yoshida_Shigeru_ca._1950.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shigeru_Yoshida"
+        }
+    ],
+    "territory_geojson": null
+}

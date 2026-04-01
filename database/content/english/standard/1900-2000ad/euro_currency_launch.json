@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3384,
+    "parent_id": 115,
+    "granularity": "detailed",
+    "content_hash": "sha256:e1a526e95b7f39a9554df447f7974892d74fcdeb4ad10612ae18e7a4d4962bd2",
+    "summary": "The euro was launched as an electronic currency on January 1, 1999, when eleven European Union member states — Austria, Belgium, Finland, France, Germany, Ireland, Italy, Luxembourg, Netherlands, Portugal, and Spain — locked their exchange rates to the new common currency and adopted the euro for financial transactions. Physical euro banknotes and coins entered circulation on January 1, 2002, replacing the national currencies of the participating states. The transition proceeded smoothly despite predictions of logistical difficulties.\n\nThe euro was the culmination of decades of European monetary integration, institutionalized by the [[event:3383|Maastricht Treaty's]] convergence criteria, which required participating nations to achieve low inflation, low interest rates, fiscal discipline, and exchange rate stability. The European Central Bank, established in Frankfurt in 1998, became responsible for monetary policy for the eurozone. Participation required giving up an independent monetary policy — nations could no longer devalue their currencies to restore competitiveness.\n\nThe euro became the world's second most traded currency and the most important expression of European political integration in practical, daily experience for hundreds of millions of people. Its creation challenged the dollar's dominance in international finance. The euro's design omitted a unified fiscal policy, creating vulnerabilities that became acute in the sovereign debt crisis following the 2008 global financial crisis, when the divergent economic conditions of eurozone members — particularly Greece, Ireland, Spain, and Portugal — tested the currency's architecture severely.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Euro",
+    "read_more_links": [
+        {
+            "title": "Euro - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/euro"
+        },
+        {
+            "title": "European Central Bank - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/European_Central_Bank"
+        },
+        {
+            "title": "Eurozone - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eurozone"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Euro_inflation.webp/300px-Euro_inflation.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Euro_inflation.webp",
+            "caption": "Euro inflation",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Euro_Monetary_Policy.webp/300px-Euro_Monetary_Policy.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Euro_Monetary_Policy.webp",
+            "caption": "Euro Monetary Policy",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Croatian_euro_coins_%2810%29.jpg/300px-Croatian_euro_coins_%2810%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Croatian_euro_coins_%2810%29.jpg",
+            "caption": "Illustration",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Europe_bonds_sovereign_debt_crisis.webp/300px-Europe_bonds_sovereign_debt_crisis.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Europe_bonds_sovereign_debt_crisis.webp",
+            "caption": "Europe bonds sovereign debt crisis",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "European Currency Unit",
+            "summary": "Obsolete unit of account of the European Community",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Unicode_0x20A0.svg/250px-Unicode_0x20A0.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/European_Currency_Unit"
+        },
+        {
+            "name": "Institutions of the European Union",
+            "summary": "Decision-making bodies of the European Union",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/250px-Flag_of_Europe.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Institutions_of_the_European_Union"
+        },
+        {
+            "name": "Reserve currency",
+            "summary": "Currencies held by monetary authorities as part of their foreign exchange reserves",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/DOLLAR_AND_EURO_IN_THE_WORLD.svg/250px-DOLLAR_AND_EURO_IN_THE_WORLD.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Reserve_currency"
+        },
+        {
+            "name": "Eurosystem",
+            "summary": "Monetary authority of the eurozone",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/250px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eurosystem"
+        }
+    ],
+    "territory_geojson": null
+}

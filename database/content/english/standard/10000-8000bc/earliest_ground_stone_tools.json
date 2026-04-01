@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1369,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c72b595076bc3ec7ea6487841b4cbf37322db7212ace110acce11c292d5cfc11",
+    "summary": "Ground stone tools — implements made by pecking, grinding, and abrading stone rather than knapping (fracturing) it — represent a significant technological development associated with intensive plant food processing in the Mesolithic and Neolithic periods. The most common ground stone tools of the early Neolithic are querns (stone grinding slabs), hand stones (rubbing stones used on the quern surface), mortars, and pestles, used primarily for grinding grain, seeds, nuts, and other plant materials into flour or paste.\n\nGround stone technology appears in the Levant in association with the [[event:4|Natufian culture]] before the adoption of agriculture — Natufian sites contain large quantities of querns, mortars, and pestles used to process wild cereals — and becomes ubiquitous at [[event:1304|PPNA]] farming villages where the processing of cultivated grain was a central daily activity. Skeletal analysis of Natufian and early Neolithic individuals from sites like [[event:1252|Abu Hureyra]] reveals severe degenerative changes in knees, toes, and lower backs consistent with prolonged hours of kneeling at saddle querns to grind grain — direct physical evidence of the labor intensiveness of grinding as a subsistence activity. Ground stone technology was far less portable than flaked stone tools, and its prevalence at a site is a strong indicator of sedentism and intensive plant food processing.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ground_stone",
+    "read_more_links": [
+        {
+            "title": "Quern-Stone - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Quern-stone"
+        },
+        {
+            "title": "Natufian Technology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Natufian_culture"
+        },
+        {
+            "title": "Neolithic Technology - Britannica",
+            "url": "https://www.britannica.com/topic/Neolithic-Period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/N%C3%A9olithique_0001.jpg/300px-N%C3%A9olithique_0001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/N%C3%A9olithique_0001.jpg",
+            "caption": "Néolithique 0001",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Grinding_stone.jpg/300px-Grinding_stone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Grinding_stone.jpg",
+            "caption": "Traditional grinding stone used for making chutney, dose batter, idli batter ...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Molino_neol%C3%ADtico_de_vaiv%C3%A9n.jpg/300px-Molino_neol%C3%ADtico_de_vaiv%C3%A9n.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Molino_neol%C3%ADtico_de_vaiv%C3%A9n.jpg",
+            "caption": "Ground stones from Neolithic to grind up grains by swaying",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

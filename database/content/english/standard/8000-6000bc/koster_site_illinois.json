@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1445,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e108dbb9fdf97d710cabf4321036b0c640d7f4740bc919863d3ed24ef3ebc80e",
+    "summary": "The Koster Site, located in Greene County, Illinois, on the banks of the Illinois River, is one of the most extensively excavated Archaic period sites in North America and a landmark in the study of indigenous North American prehistory. First excavated in the late 1960s and through the 1970s by Stuart Streuver and the Northwestern University Archaeological Program, the site revealed an unusually deep stratigraphic sequence with at least fourteen distinct occupation horizons spanning from approximately 7500 BCE to 1200 CE, providing an exceptionally detailed record of changing lifeways over thousands of years.\n\nDuring the period covered by this era (c. 7500–6000 BCE), Koster was occupied by Early Archaic hunter-gatherer communities who exploited the rich resources of the Illinois River valley — deer, fish, mussels, nuts, and a range of wild plant foods. The early occupations show evidence of relatively brief seasonal camps, but later horizons reveal more substantial, longer-occupied settlements, suggesting that favorable valley locations supported increasingly sedentary community life even without agriculture. This trend toward greater sedentism among North American hunter-gatherer groups in rich riverine environments is an important pattern in understanding the diversity of pathways toward social complexity.\n\nKoster's importance lies partly in its demonstration that Archaic North American communities were not simple, undifferentiated nomads but rather sophisticated managers of specific landscapes with deep knowledge of local resources and well-established territorial patterns. The site's long occupation sequence allows archaeologists to trace gradual adaptations to environmental changes, population growth, and shifts in resource availability across multiple millennia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Koster_Site",
+    "read_more_links": [
+        {
+            "title": "Archaic Period North America - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archaic_period_(North_America)"
+        },
+        {
+            "title": "Illinois River - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Illinois_River"
+        },
+        {
+            "title": "North American Prehistory - Britannica",
+            "url": "https://www.britannica.com/topic/North-American-Indian"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/COLLEGE_STUDENTS_WORK_WITH_ARCHAEOLOGISTS_AT_%22KOSTER_DIG%22_AN_ANCIENT_INDIAN_BURIAL_SITE_-_NARA_-_552495.jpg/300px-COLLEGE_STUDENTS_WORK_WITH_ARCHAEOLOGISTS_AT_%22KOSTER_DIG%22_AN_ANCIENT_INDIAN_BURIAL_SITE_-_NARA_-_552495.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/COLLEGE_STUDENTS_WORK_WITH_ARCHAEOLOGISTS_AT_%22KOSTER_DIG%22_AN_ANCIENT_INDIAN_BURIAL_SITE_-_NARA_-_552495.jpg",
+            "caption": "COLLEGE STUDENTS WORK WITH ARCHAEOLOGISTS AT \"KOSTER DIG\" AN ANCIENT INDIAN BURIAL SITE - NARA - 552495",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HistoricPlacesNationalRegisterPlaque.JPG/300px-HistoricPlacesNationalRegisterPlaque.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HistoricPlacesNationalRegisterPlaque.JPG",
+            "caption": "Plaque declaring \"this property has been placed on the National Register of H...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mississippian_cultures_HRoe_2010.jpg/300px-Mississippian_cultures_HRoe_2010.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mississippian_cultures_HRoe_2010.jpg",
+            "caption": "A map showing the various Mississippian cultures, including the Caddoan Missi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pike County, Illinois",
+            "summary": "County in Illinois, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Courthouse%2C_Pike_County%2C_Illinois.jpg/250px-Courthouse%2C_Pike_County%2C_Illinois.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pike_County%2C_Illinois"
+        },
+        {
+            "name": "Stuart Struever",
+            "summary": "American anthropologist (1931–2022)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Stuart_Struever_in_the_field.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stuart_Struever"
+        }
+    ],
+    "territory_geojson": null
+}

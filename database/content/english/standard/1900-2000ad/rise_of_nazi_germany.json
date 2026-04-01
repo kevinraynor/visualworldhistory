@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2653,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:537792effc229c5a742152a1a021632d5e96aa236f36eff73ba62e66bee22ad6",
+    "summary": "Nazi Germany, officially the German Reich under National Socialist rule from 1933 to 1945, represented one of history's most catastrophic experiments in totalitarianism, culminating in the [[event:112|Second World War]] and [[event:2660|the Holocaust]]. Adolf Hitler was appointed Chancellor on 30 January 1933 in what its architects intended as a manageable coalition arrangement; within months he had used the Reichstag Fire, the Enabling Act, and the elimination of rival parties to establish an absolute dictatorship. The Nazi Party became the only legal political organization in Germany.\n\nHitler's rise was inseparable from the context of the [[event:2644|Versailles Treaty]]'s humiliations, the economic catastrophe of the [[event:2650|Great Depression]], and the fragility of the [[event:2756|Weimar Republic]]. His ideology combined extreme German nationalism, virulent antisemitism, racial hierarchy, anti-Communism, and expansionist imperialism into a coherent worldview that promised national regeneration through conquest and purification. The Nazis' sophisticated propaganda apparatus, control of mass media, and mobilization of popular resentments made them unlike earlier authoritarian governments.\n\nThe regime's early years featured economic recovery through rearmament and public works, rebuilding German confidence after years of depression and humiliation. But alongside this ran systematic persecution of Jews, political opponents, Roma, disabled people, and homosexuals. The [[event:2758|Kristallnacht]] pogrom of November 1938 marked an open escalation to state-directed violence against Jews. The [[event:3336|Anschluss]] of Austria and annexation of the Sudetenland (enabled by the [[event:3335|Munich Agreement]]) demonstrated that Western powers would appease Hitler's demands, emboldening further aggression.\n\nThe invasion of Poland in September 1939 launched World War II. The [[event:2657|invasion of the Soviet Union]] in 1941 opened the genocidal phase: mobile killing units (Einsatzgruppen) murdered approximately 1.5 million Jews before the systematic death camp program was fully operational. The [[event:2660|Holocaust]] ultimately murdered six million Jews and millions of others — Roma, Soviet civilians, prisoners of war, disabled people, and political opponents — in what remains the most documented case of industrialized genocide in history.\n\nMilitary defeats at [[event:2658|Stalingrad]], in North Africa, and eventually on all fronts after the Allied [[event:2659|D-Day]] landings forced a fighting retreat that ended with the [[event:2762|fall of Berlin]] in May 1945. Hitler died by suicide on 30 April 1945 as Soviet forces fought through the streets above his bunker. The subsequent [[event:2712|Nuremberg Trials]] established accountability for war crimes and crimes against humanity, creating precedents that continue to shape international law.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nazi_Germany",
+    "read_more_links": [
+        {
+            "title": "Adolf Hitler – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+            "title": "Nazi Germany – Britannica",
+            "url": "https://www.britannica.com/place/Germany/The-Third-Reich-1933-45"
+        },
+        {
+            "title": "Rise of Adolf Hitler – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power"
+        },
+        {
+            "title": "Ideology of Nazism – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nazism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NS_administrative_Gliederung_1944.png/300px-NS_administrative_Gliederung_1944.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/NS_administrative_Gliederung_1944.png",
+            "caption": "Map of the administrative division of the Greater German Reich (»Großdeutsche...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 de"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Atlas_Van_der_Hagen-KW1049B10_047-S._IMPERIUM_ROMANO-GERMANICUM_oder_DEUTSCHLAND_MIT_SEINEN_ANGR%C3%84NTZENDEN_K%C3%96NIGREICHEN_UND_PROVINCIEN_Neulich_entworffen_und_theils_gezeichnet_durch_IULIUM_REICHELT_Chur_Pfaltz.jpg/300px-Atlas_Van_der_Hagen-KW1049B10_047-S._IMPERIUM_ROMANO-GERMANICUM_oder_DEUTSCHLAND_MIT_SEINEN_ANGR%C3%84NTZENDEN_K%C3%96NIGREICHEN_UND_PROVINCIEN_Neulich_entworffen_und_theils_gezeichnet_durch_IULIUM_REICHELT_Chur_Pfaltz.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Atlas_Van_der_Hagen-KW1049B10_047-S._IMPERIUM_ROMANO-GERMANICUM_oder_DEUTSCHLAND_MIT_SEINEN_ANGR%C3%84NTZENDEN_K%C3%96NIGREICHEN_UND_PROVINCIEN_Neulich_entworffen_und_theils_gezeichnet_durch_IULIUM_REICHELT_Chur_Pfaltz.jpg",
+            "caption": "This map of the German Empire was designed by Julius Reichelt (1637-1717). Re...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nuremberg_laws_Racial_Chart.jpg/300px-Nuremberg_laws_Racial_Chart.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nuremberg_laws_Racial_Chart.jpg",
+            "caption": "Chart to describe Nuremberg Laws of 15 September 1935 and the respective regu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nuremberg_laws_Racial_Chart.jpg/300px-Nuremberg_laws_Racial_Chart.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nuremberg_laws_Racial_Chart.jpg",
+            "caption": "Chart to describe Nuremberg Laws of 15 September 1935 and the respective regu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Adolf Hitler's rise to power",
+            "summary": "Events leading to Hitler's dictatorship of Germany",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hitler_as_young_man.jpg/250px-Hitler_as_young_man.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power"
+        },
+        {
+            "name": "Wilhelm Frick",
+            "summary": "German Nazi Party politician (1877–1946)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Frick_912_%283x4_cropped%29_%282%29.jpg/250px-Frick_912_%283x4_cropped%29_%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_Frick"
+        },
+        {
+            "name": "Reichsmark",
+            "summary": "Currency of Germany from 1924 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2ReichsMark.JPG/250px-2ReichsMark.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Reichsmark"
+        },
+        {
+            "name": "Paul von Hindenburg",
+            "summary": "President of Germany from 1925 to 1934",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg/250px-Bundesarchiv_Bild_183-C06886%2C_Paul_v._Hindenburg_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
+        },
+        {
+            "name": "Adolf Hitler",
+            "summary": "Dictator of Germany from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/250px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+            "name": "Karl Dönitz",
+            "summary": "German grand admiral (1891–1980)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bundesarchiv_Bild_146-1976-127-06A%2C_Karl_D%C3%B6nitz_%28cropped%29%283%29_%28cropped%29.jpg/250px-Bundesarchiv_Bild_146-1976-127-06A%2C_Karl_D%C3%B6nitz_%28cropped%29%283%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Karl_D%C3%B6nitz"
+        }
+    ],
+    "territory_geojson": null
+}

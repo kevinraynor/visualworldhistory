@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2456,
+    "parent_id": 2332,
+    "granularity": "notable",
+    "content_hash": "sha256:716de9369e4fbe984b35c65145fe4f39f8b5e0f0baad5e3746c2369e37ee81e4",
+    "summary": "The French and Indian War (1754–1763 AD) was the North American theater of the [[event:2332|Seven Years' War]] — the first major conflict that began in the Americas before spreading to Europe — in which Britain and its colonial and Native American allies defeated France and its Native allies for control of eastern North America, expelling France from Canada and establishing British territorial dominance from the Atlantic to the Mississippi. The war began in the Ohio Valley, where both British colonial interests and the French were competing for control of the strategic forks of the Ohio River (modern Pittsburgh); a young Virginia militia officer named George Washington led an expedition that ambushed a French scouting party in 1754, triggering the conflict.\n\nThe war's early years were disastrous for the British: General Braddock's expedition to capture Fort Duquesne was ambushed and destroyed (1755), with Washington narrowly escaping; British forts on the Great Lakes frontier fell. The turning point came when William Pitt the Elder became Britain's wartime minister and poured resources into the North American theater. The fall of Louisbourg (1758), Fort Duquesne (1758), and most decisively, Quebec (1759) — where both commanding generals Wolfe (British) and Montcalm (French) died in the Battle of the Plains of Abraham — gave Britain effective control of Canada. The [[event:2393|Treaty of Paris]] (1763) confirmed France's expulsion from North America. The war's consequence for the [[event:106|American Revolution]] was profound: it eliminated the French threat that had made the colonies dependent on British protection, removed the strategic rationale for the colonial relationship, and left Britain with enormous war debts that it tried to recover through the colonial taxes that triggered revolution.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/French_and_Indian_War",
+    "read_more_links": [
+        {
+            "title": "Battle Plains of Abraham 1759 Wolfe Montcalm Quebec",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_the_Plains_of_Abraham"
+        },
+        {
+            "title": "George Washington French Indian War Ohio Valley",
+            "url": "https://en.wikipedia.org/wiki/George_Washington_in_the_French_and_Indian_War"
+        },
+        {
+            "title": "William Pitt Elder strategy British victory",
+            "url": "https://en.wikipedia.org/wiki/William_Pitt,_1st_Earl_of_Chatham"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/A_View_of_the_Plundering_and_Burning_of_the_City_of_Grymross%2C_by_Thomas_Davies%2C_1758.JPG/300px-A_View_of_the_Plundering_and_Burning_of_the_City_of_Grymross%2C_by_Thomas_Davies%2C_1758.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/A_View_of_the_Plundering_and_Burning_of_the_City_of_Grymross%2C_by_Thomas_Davies%2C_1758.JPG",
+            "caption": "This is the only contemporaneous image of the Expulsion of the Acadians, show...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Montcalm_trying_to_stop_the_massacre.jpg/300px-Montcalm_trying_to_stop_the_massacre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Montcalm_trying_to_stop_the_massacre.jpg",
+            "caption": "Louis-Joseph de Montcalm trying to stop Native Americans from attacking Briti...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Washington_1772.jpg/300px-Washington_1772.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Washington_1772.jpg",
+            "caption": "The earliest authenticated portrait of George Washington shows him wearing hi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PlainsOfAbraham2007.jpg/300px-PlainsOfAbraham2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/PlainsOfAbraham2007.jpg",
+            "caption": "This 1797 engraving is based on a sketch made by Hervey Smyth, General Wolfe'...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jeffery Amherst, 1st Baron Amherst",
+            "summary": "British Army general (1717–1797)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Amherst.jpg/250px-Amherst.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jeffery_Amherst%2C_1st_Baron_Amherst"
+        },
+        {
+            "name": "Edward Boscawen",
+            "summary": "Royal Navy officer and politician (1711–1761)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Admiral_Edward_Boscawen_%281711-1761%29_RMG_BHC2565.tiff/lossy-page1-250px-Admiral_Edward_Boscawen_%281711-1761%29_RMG_BHC2565.tiff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Boscawen"
+        },
+        {
+            "name": "George Washington",
+            "summary": "U.S. Founding Father, president from 1789 to 1797",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/250px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington"
+        },
+        {
+            "name": "Jean Erdman, Baron Dieskau",
+            "summary": "German-born French general and commander (1701–1867)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Johnson_saving_Dieskau.jpg/250px-Johnson_saving_Dieskau.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Erdman%2C_Baron_Dieskau"
+        },
+        {
+            "name": "William Pitt, 1st Earl of Chatham",
+            "summary": "Prime Minister of Great Britain from 1766 to 1768",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/William_Pitt%2C_1st_Earl_of_Chatham_by_William_Hoare.jpg/250px-William_Pitt%2C_1st_Earl_of_Chatham_by_William_Hoare.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Pitt%2C_1st_Earl_of_Chatham"
+        },
+        {
+            "name": "George II of Great Britain",
+            "summary": "King of Great Britain and Ireland from 1727 to 1760",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/George_II_by_Thomas_Hudson.jpg/250px-George_II_by_Thomas_Hudson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_II_of_Great_Britain"
+        }
+    ],
+    "territory_geojson": null
+}

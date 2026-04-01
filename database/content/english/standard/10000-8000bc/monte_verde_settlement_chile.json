@@ -1,0 +1,60 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1285,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1c0d20688720641b406929c9081b5047d216c16cc02e1c699c49a3c123dbd65e",
+    "summary": "Monte Verde is an archaeological site in the Los Lagos Region of southern Chile, located along the banks of Chinchihuapi Creek, that preserves one of the oldest and best-documented records of human occupation in the Americas. The site's primary occupation layer (MV-II) has been dated to approximately 12,500 BCE, making it at least 1,000 years older than the Clovis culture of North America and challenging the long-dominant Clovis First hypothesis that held Clovis hunters to be the first Americans.\n\nMonte Verde's extraordinary preservation — enabled by a peat bog that developed over the site after abandonment, sealing and protecting organic materials — has yielded an unparalleled assemblage: remains of wooden structural poles and planks from tent-like dwellings, wooden stakes still with attached cordage, animal hide fragments, seeds, fruits, and botanical remains from both local and distant plant species including seaweed from the Pacific coast some 90 kilometers away, animal bones including mastodon and paleocamelid, and stone and bone tools. The presence of non-local plant species and the broad dietary range suggest a wide-ranging and adaptable subsistence economy.\n\nThe acceptance of Monte Verde's pre-Clovis dates in the late 1990s fundamentally revised understanding of the peopling of the Americas. The site implies that humans reached the southern tip of South America well before — or at roughly the same time as — the earliest Clovis occupations of North America, suggesting that the initial colonization was rapid, followed multiple routes, and may have included a coastal pathway down the Pacific coast rather than exclusively through an interior ice-free corridor. Monte Verde is thus one of the most consequential archaeological sites in the Western Hemisphere for understanding early human migration and adaptation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monte_Verde",
+    "read_more_links": [
+        {
+            "title": "Peopling of the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas"
+        },
+        {
+            "title": "Pre-Clovis Sites - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Clovis_cultures"
+        },
+        {
+            "title": "Monte Verde - Britannica",
+            "url": "https://www.britannica.com/place/Monte-Verde-archaeological-site"
+        },
+        {
+            "title": "Clovis First Hypothesis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Clovis_first"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Monte_Verde_2012.jpg/300px-Monte_Verde_2012.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Monte_Verde_2012.jpg",
+            "caption": "Vista del sitio de Monte Verde.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Relief_Map_of_Chile.jpg/300px-Relief_Map_of_Chile.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Relief_Map_of_Chile.jpg",
+            "caption": "Location map of Chile",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lascar_Avenue_of_the_Dead_and_the_Pyramid_of_the_Sun_in_the_background_%284566574277%29.jpg/300px-Lascar_Avenue_of_the_Dead_and_the_Pyramid_of_the_Sun_in_the_background_%284566574277%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lascar_Avenue_of_the_Dead_and_the_Pyramid_of_the_Sun_in_the_background_%284566574277%29.jpg",
+            "caption": "Avenue of the Dead and the Pyramid of the Sun in the background",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tom Dillehay",
+            "summary": "American anthropologist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tom_Dillehay_en_Puren.jpg/250px-Tom_Dillehay_en_Puren.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Dillehay"
+        }
+    ],
+    "territory_geojson": null
+}

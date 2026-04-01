@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3529,
+    "parent_id": 92,
+    "granularity": "detailed",
+    "content_hash": "sha256:14ae94213dfa7a639f313a614176334c062d3a4384078dc20abe8e907821d82c",
+    "summary": "The Fifth Crusade (1217–1221 AD) was a major crusading expedition that adopted the novel strategy of attacking Egypt — the heart of Ayyubid power — rather than attempting a direct assault on Jerusalem, reasoning that conquering Egypt would force the Muslims to surrender the Holy Land in exchange. Led primarily by the papal legate Cardinal Pelagius of Albano, King Andrew II of Hungary, and the military orders (Templars, Hospitallers, and Teutonic Knights), the crusade initially achieved remarkable success: the Crusaders captured the strategic port city of Damietta on the Nile delta in November 1219 after an 18-month siege, receiving a stunning offer from the Ayyubid Sultan al-Kamil to return Jerusalem and most of the former Crusader territories in exchange for evacuating Egypt.\n\nThe offer was refused — primarily by Cardinal Pelagius, who anticipated the imminent arrival of Holy Roman Emperor Frederick II and expected even greater conquests — a decision that proved catastrophic. The Crusaders advanced toward Cairo in the summer of 1221, but the annual Nile flood, combined with an Ayyubid strategy of releasing water from canals, trapped the Crusader army in the rising floodwaters. Surrounded and facing starvation, Pelagius was forced to surrender, returning Damietta in exchange for a safe withdrawal. The Fifth Crusade ended in complete failure, squandering the best opportunity since the [[event:2221|First Crusade's]] victories to reclaim Jerusalem. The episode illustrated a recurring crusading problem: the tension between papal legates controlling strategy versus secular military commanders, the difficulty of coordinating multinational forces, and the fatal consequences of rejecting realistic negotiations in favor of maximalist expectations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fifth_Crusade",
+    "read_more_links": [
+        {
+            "title": "Siege of Damietta 1218-1219 Crusader capture",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Damietta_(1218)"
+        },
+        {
+            "title": "Cardinal Pelagius refused Sultan al-Kamil offer",
+            "url": "https://en.wikipedia.org/wiki/Pelagius_of_Albano"
+        },
+        {
+            "title": "Al-Kamil Ayyubid Egypt Jerusalem offer",
+            "url": "https://en.wikipedia.org/wiki/Al-Kamil"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Capturing_Damiate.jpg/300px-Capturing_Damiate.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Capturing_Damiate.jpg",
+            "caption": "The Conquest of Damiate. This painting was made for above the mantelpiece of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg/300px-Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg",
+            "caption": "detail: Scene 10, north wall",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Friezen_vallen_de_toren_van_Damiate_aan.jpg/300px-Friezen_vallen_de_toren_van_Damiate_aan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Friezen_vallen_de_toren_van_Damiate_aan.jpg",
+            "caption": "This image comes from the 13th-century record of the English chronicler Matth...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ondrej.jpg/300px-Ondrej.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ondrej.jpg",
+            "caption": "Andrew II of Hungary",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Andrew II of Hungary",
+            "summary": "King of Hungary and Croatia from 1205 to 1235",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Andrew_II_seal_1224.jpg/250px-Andrew_II_seal_1224.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_II_of_Hungary"
+        },
+        {
+            "name": "John of Brienne",
+            "summary": "King of Jerusalem (1210–1225) and Latin Emperor of Constantinople (1229–1237)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jean_de_Brienne.jpg/250px-Jean_de_Brienne.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_of_Brienne"
+        },
+        {
+            "name": "Simon III, Count of Saarbrücken",
+            "summary": "Count of Saarbrücken",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arms_of_the_house_of_Saarbr%C3%BCcken.svg/250px-Arms_of_the_house_of_Saarbr%C3%BCcken.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_III%2C_Count_of_Saarbr%C3%BCcken"
+        },
+        {
+            "name": "Hugh I of Cyprus",
+            "summary": "King of Cyprus from 1205 to 1218",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Besant_of_Hugh_1.jpg/250px-Besant_of_Hugh_1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_I_of_Cyprus"
+        },
+        {
+            "name": "Bohemond IV of Antioch",
+            "summary": "Prince of Antioch (1201–1216, 1219–1233)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bohemond_V_pougeoise_1930277.jpg/250px-Bohemond_V_pougeoise_1930277.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bohemond_IV_of_Antioch"
+        },
+        {
+            "name": "Al-Adil I",
+            "summary": "Ayyubid sultan of Egypt from 1200 to 1218",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Al_Adil_Sayf_al_Din_Abu_Bakr_Muhammad_I._As_Governor_in_Mesopotamia%2C_1194-1199._Mayafariqin_mint._Dated_AH_591_%281194-1195_AD%29.jpg/250px-Al_Adil_Sayf_al_Din_Abu_Bakr_Muhammad_I._As_Governor_in_Mesopotamia%2C_1194-1199._Mayafariqin_mint._Dated_AH_591_%281194-1195_AD%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Adil_I"
+        }
+    ],
+    "territory_geojson": null
+}

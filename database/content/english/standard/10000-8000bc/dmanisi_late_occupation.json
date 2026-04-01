@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1314,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:aa9a0a27326359335629498a59bc3d705951105372a2f34f96b9600d5dcba9a7",
+    "summary": "Dmanisi, located in the Kvemo Kartli region of southern Georgia near the confluence of the Mashavera and Pinezaouri rivers, is primarily famous as the site of the earliest known hominin remains outside Africa — fossils of Homo erectus (or Homo georgicus) dated to approximately 1.8 million years ago, the oldest evidence of early humans in Eurasia. However, the site also has a long history of later occupation, including Neolithic, Bronze Age, and medieval layers.\n\nFor the period 10,000–8,000 BCE, the Dmanisi region of the southern Caucasus was inhabited by hunter-gatherer communities of the late Mesolithic or early Neolithic, participating in the broad cultural landscape of the Caucasus and adjacent regions. The Caucasus during this period was transitional territory between the early farming communities developing in the Levant and Anatolia to the south and the foraging populations of the Eurasian steppes to the north. Communities in the region exploited the diverse resources of the southern Caucasian highlands and river valleys, and the region would play an important role in the northward spread of Neolithic farming traditions in subsequent millennia. The Dmanisi site itself, with its deep paleoanthropological significance, remains one of the most important localities in the study of human evolution and dispersal.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dmanisi",
+    "read_more_links": [
+        {
+            "title": "Caucasus Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_Caucasus"
+        },
+        {
+            "title": "Homo Erectus - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Homo_erectus"
+        },
+        {
+            "title": "Georgia Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Georgia/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dmanisi_Pentecostal_Church_2.jpg/300px-Dmanisi_Pentecostal_Church_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dmanisi_Pentecostal_Church_2.jpg",
+            "caption": "63 Didi Dmanisi-Dmanisi-Gomareti-Bediani, Dmanisi Pentecostal Church in Georgia",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cesko_Dmanisi.jpg/300px-Cesko_Dmanisi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Cesko_Dmanisi.jpg",
+            "caption": "დმანისის საარჩევნო ადმინისტრაციის ოფისი 2013 წელს.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dmanisi_Sioni_cathedral.JPG/300px-Dmanisi_Sioni_cathedral.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Dmanisi_Sioni_cathedral.JPG",
+            "caption": "დმანისის სიონი",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/National_Food_Agency_in_Dmanisi%2C_Georgia.jpg/300px-National_Food_Agency_in_Dmanisi%2C_Georgia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/National_Food_Agency_in_Dmanisi%2C_Georgia.jpg",
+            "caption": "National Food Agency, 9 April Street, Dmanisi, Georgia",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Timur",
+            "summary": "Turco-Mongol conqueror (1320s–1405)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Timur_reconstruction03.jpg/250px-Timur_reconstruction03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Timur"
+        }
+    ],
+    "territory_geojson": null
+}

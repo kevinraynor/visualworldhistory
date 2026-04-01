@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Redirect API requests to Slim app
+RewriteCond %{REQUEST_URI} ^/api
+RewriteRule ^api/(.*)$ api/index.php [QSA,L]
+
+# Deny access to sensitive directories
+RewriteRule ^(src|vendor|database|scripts|composer\.(json|lock))(/|$) - [F,L]
+
+# If not a file or directory, serve index.html (SPA fallback)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(?!api/)(.*)$ index.html [L]

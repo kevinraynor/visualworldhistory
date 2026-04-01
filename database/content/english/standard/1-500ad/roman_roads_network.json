@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2082,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:2c57edbf866633d4552ed248ca7d4dd0fb044037e1314b75b58e2d37889f052e",
+    "summary": "The Roman Road Network (developed c. 300 BC–300 AD) was one of the greatest engineering achievements of the ancient world — a vast system of paved highways stretching over 80,000 kilometers (50,000 miles) across the Roman Empire, connecting every province to Rome and enabling the military, administrative, and commercial integration that made imperial rule possible. Roman roads were built to extraordinarily high engineering standards: surveyed in straight lines, layered with gravel, sand, and fitted stone paving, raised above the surrounding terrain for drainage, with cambered surfaces to shed water, and maintained by regular milestones and rest stations.\n\nThe road network served multiple intertwined functions: military roads allowed rapid troop movement anywhere in the empire; postal roads (the cursus publicus) carried imperial communications with a speed not matched again until the 19th century; commercial roads moved goods from province to province; and pilgrimage and administrative roads connected the empire's diverse populations. The phrase 'all roads lead to Rome' reflects the real network topology — all major roads ultimately connected to Rome's central milestone (the Milliarium Aureum, the Golden Milestone). Many Roman roads remain in use today, either directly or as the foundations of modern highways. The road network's decay after Rome's fall contributed significantly to the economic fragmentation and localism of the medieval period — a stark illustration of how infrastructure sustains civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_roads",
+    "read_more_links": [
+        {
+            "title": "Roman road construction methods",
+            "url": "https://en.wikipedia.org/wiki/Roman_roads#Construction"
+        },
+        {
+            "title": "Cursus publicus postal system",
+            "url": "https://en.wikipedia.org/wiki/Cursus_publicus"
+        },
+        {
+            "title": "Via Appia oldest Roman road",
+            "url": "https://en.wikipedia.org/wiki/Appian_Way"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Appian_Way.jpg/300px-Appian_Way.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Appian_Way.jpg",
+            "caption": "Appian Way, near Casal Rotondo",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Tratto_via_consolare_delle_Gallie1.jpg/300px-Tratto_via_consolare_delle_Gallie1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tratto_via_consolare_delle_Gallie1.jpg",
+            "caption": "Tratto della via consolare delle Gallie",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Carved_steps_along_Ancient_Roman_Road.jpg/300px-Carved_steps_along_Ancient_Roman_Road.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Carved_steps_along_Ancient_Roman_Road.jpg",
+            "caption": "Old Roman Road, leading from Jerusalem to Beit Gubrin, adjacent to regional h...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Letocetum_Mansio_1.jpg/300px-Letocetum_Mansio_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Letocetum_Mansio_1.jpg",
+            "caption": "The remains of the Mansio and Letocetum, Wall, Staffordshire, England.",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hadrian",
+            "summary": "Roman emperor from 117 to 138",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg/250px-M%C3%BCnchen_SMAEK_2019-03-23n.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian"
+        },
+        {
+            "name": "Dionysius of Halicarnassus",
+            "summary": "1st-century BC Greek historian and teacher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dionigi_di_Alicarnasso.jpg/250px-Dionigi_di_Alicarnasso.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dionysius_of_Halicarnassus"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Gaius Gracchus",
+            "summary": "Roman politician and reformer (c. 154 BC – 121 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Eugene_Guillaume_-_the_Gracchi_%28cropped%29_Gaius.jpg/250px-Eugene_Guillaume_-_the_Gracchi_%28cropped%29_Gaius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Gracchus"
+        },
+        {
+            "name": "Claudius",
+            "summary": "Roman emperor from AD 41 to 54",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Claudius_crop.jpg/250px-Claudius_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claudius"
+        },
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        }
+    ],
+    "territory_geojson": null
+}

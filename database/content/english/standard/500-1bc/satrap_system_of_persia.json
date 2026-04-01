@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1238,
+    "parent_id": 71,
+    "granularity": "detailed",
+    "content_hash": "sha256:681b410697cc0731048250e060b6508855a871ba9d1025f7b2ebdfa16ade9d36",
+    "summary": "The satrapy system was the administrative framework through which the Achaemenid Persian Empire governed its vast territories — stretching from the Aegean to the Indus — through appointed regional governors (satraps) who collected tribute, maintained order, administered justice, and commanded local military forces while remaining accountable to the Great King. Darius I formalized the system into approximately 20–30 satrapies, each assessed a fixed annual tribute in silver or kind.\n\nThe satrap held quasi-royal authority within their province, often maintaining elaborate courts modeled on the Persian royal court. To check their power, Darius instituted parallel oversight: royal secretaries and military commanders reported directly to the king, and the 'King's Eyes and Ears' (royal inspectors) conducted periodic audits. Despite these controls, powerful satraps periodically revolted — the [[event:1221|Revolt of the Satraps]] (366–360 BC) showed the system's structural weakness. The satrapy system became the model for later Persian and Hellenistic provincial administration; Alexander the Great retained Persian satraps in many provinces after his conquest, and the Seleucid and Parthian empires both adapted versions of it.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Satrap",
+    "read_more_links": [
+        {
+            "title": "Achaemenid administrative system",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_Empire#Administrative_structure"
+        },
+        {
+            "title": "List of Achaemenid satrapies",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_Empire#Satrapies"
+        },
+        {
+            "title": "King's Eye Persian inspector",
+            "url": "https://en.wikipedia.org/wiki/King%27s_eye"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Achaemenid_Satrap_Autophradates_with_visitors_Payava_tomb.jpg/300px-Achaemenid_Satrap_Autophradates_with_visitors_Payava_tomb.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Achaemenid_Satrap_Autophradates_with_visitors_Payava_tomb.jpg",
+            "caption": "Achaemenid Satrap Autophradates with visitors Payava tomb",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darius_In_Parse.JPG/300px-Darius_In_Parse.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darius_In_Parse.JPG",
+            "caption": "Relief of Darius (native-name: (𐎭𐎠𐎼𐎹𐎺𐎢𐏁) Dārayavauš) in Persepolis",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Map_of_Achaemenid_Imperial_Satraps_%28English_Version%29.png/300px-Map_of_Achaemenid_Imperial_Satraps_%28English_Version%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Map_of_Achaemenid_Imperial_Satraps_%28English_Version%29.png",
+            "caption": "A map of the satraps of the Achaemenid Empire showing their ancient names and...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Diadochi_satraps_babylon.png/300px-Diadochi_satraps_babylon.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Diadochi_satraps_babylon.png",
+            "caption": "Diadochi satraps babylon",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cyrus the Great",
+            "summary": "Founder of the Achaemenid Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/250px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+        },
+        {
+            "name": "Themistocles",
+            "summary": "Athenian politician and general (c. 524–459 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Illustrerad_Verldshistoria_band_I_Ill_116.png/250px-Illustrerad_Verldshistoria_band_I_Ill_116.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Themistocles"
+        },
+        {
+            "name": "Artaxerxes II",
+            "summary": "King of the Achaemenid Empire from 405/4 to 359/8 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Artaxerxes_II_relief_detail.jpg/250px-Artaxerxes_II_relief_detail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Artaxerxes_II"
+        },
+        {
+            "name": "Artaxerxes III",
+            "summary": "King of the Achaemenid Empire from 359/8 to 338 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rock_relief_of_Artaxerxes_III_in_Persepolis.jpg/250px-Rock_relief_of_Artaxerxes_III_in_Persepolis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Artaxerxes_III"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Strategos",
+            "summary": "Greek military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Greek_strategist_Pio-Clementino_Inv306.jpg/250px-Greek_strategist_Pio-Clementino_Inv306.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strategos"
+        }
+    ],
+    "territory_geojson": null
+}

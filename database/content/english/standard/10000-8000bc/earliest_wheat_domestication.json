@@ -1,0 +1,70 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3813,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3148e6cc6d980c5120302e063a0c94f7b2d555a63688f9e34fcbf7014c947429",
+    "summary": "The domestication of wheat stands as one of the foundational events in human history, representing the moment when wild grasses were brought under human cultivation and gradually transformed through selective pressure into the dependable, high-yield crops that would underpin the growth of settled civilization. Wild progenitors of modern wheat — principally einkorn wheat (Triticum monococcum subsp. boeoticum) and emmer wheat (Triticum turgidum subsp. dicoccoides) — grew abundantly across the upland zones of the Fertile Crescent, particularly in the arc stretching from southeastern Anatolia through the Levant and into the northern Zagros foothills. Communities there had been intensively harvesting wild cereals for millennia before deliberate cultivation began.\n\nThe earliest clear evidence for wheat domestication, indicated by the non-shattering rachis trait that distinguishes domestic from wild forms, dates to approximately 9,500 to 9,000 BCE at sites in the upper Euphrates region of southeastern Turkey and northern Syria. Locations such as [[event:3|Gobekli Tepe]]'s surrounding landscape, [[event:1251|Mureybet]], and the broader zone associated with the [[event:1304|Pre-Pottery Neolithic A]] culture show assemblages that reflect the transition from wild harvesting to early cultivation. Genetic studies of modern einkorn wheat populations have traced its domestication to a narrow region around the Karacadag Mountains of southeastern Turkey, pointing to a geographically constrained origin event rather than a diffuse, pan-regional process.\n\nThe process of domestication was not a single invention but an extended coevolution between human communities and cereal plants spanning centuries or millennia. Early farmers selecting the largest, most easily harvested grains gradually — and largely inadvertently — favored plants with non-shattering seed heads that held their grain rather than dispersing it. This trait, while disadvantageous for wild plant reproduction, was enormously useful for human harvesters and became fixed in cultivated populations through repeated cycles of harvesting and replanting. Alongside the biological transformation of the plant, the cultural practices surrounding wheat cultivation — including field preparation, seasonal planting schedules, storage, and milling — accumulated into a substantial body of agricultural knowledge.\n\nThe establishment of wheat as a staple crop had cascading demographic and social consequences. Reliable cereal surpluses supported larger, more sedentary populations than wild-food foraging could sustain, enabling the growth of permanent settlements such as [[event:2|Jericho]] and [[event:1252|Abu Hureyra]] into villages with hundreds of inhabitants. Storage of grain created a material basis for economic differentiation, as households or community leaders who controlled granaries could accumulate social power. Wheat cultivation also drove technological innovation: the need to process grain efficiently accelerated the development of ground stone tools, mortars, and eventually the rotary quern, while the construction of storage facilities stimulated architectural experimentation with mud brick and plaster.\n\nFrom its origins in the ancient Near East, domestic wheat spread outward with agricultural communities across millennia, reaching Europe, South Asia, and eventually much of the inhabited world. Today wheat remains one of the three most important staple crops globally, a living legacy of the transformative decisions made by early Neolithic communities in the uplands of the Fertile Crescent.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wheat#Origin",
+    "read_more_links": [
+        {
+            "title": "Wheat - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wheat"
+        },
+        {
+            "title": "Einkorn wheat - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Einkorn_wheat"
+        },
+        {
+            "title": "Emmer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emmer"
+        },
+        {
+            "title": "History of Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture"
+        },
+        {
+            "title": "Neolithic Revolution - Britannica",
+            "url": "https://www.britannica.com/event/Neolithic-Revolution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/300px-Vehn%C3%A4pelto_6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Vehn%C3%A4pelto_6.jpg",
+            "caption": "Wheat field in Vampula, Finland.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wheat_developmental_stages.tif/300px-Wheat_developmental_stages.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Wheat_developmental_stages.tif",
+            "caption": "Critical stages of winter wheat according to BBCH (Lancashire et al., 1991) a...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg/300px-Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Vincent_Van_Gogh_-_Wheatfield_with_Crows.jpg",
+            "caption": "Wheatfield with Crows -- oil on canvas 101x50 cm\nAuvers june 1890",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NHM_-_Jungsteinzeit_Sichel_2.jpg/300px-NHM_-_Jungsteinzeit_Sichel_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/NHM_-_Jungsteinzeit_Sichel_2.jpg",
+            "caption": "Natural History Museum, Vienna ( Austria ). Neolithic sickle.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Devon",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Dartmoor_ponies_by_the_B3212_-_geograph.org.uk_-_4546147.jpg/250px-Dartmoor_ponies_by_the_B3212_-_geograph.org.uk_-_4546147.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Devon"
+        }
+    ],
+    "territory_geojson": null
+}

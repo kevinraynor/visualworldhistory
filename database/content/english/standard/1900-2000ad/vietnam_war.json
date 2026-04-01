@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2674,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:dade4a0e438ef79c989eb36d1ac89f3917a7ba15798dee84a30512d0739e9470",
+    "summary": "The Vietnam War was a prolonged conflict that lasted from approximately 1955 to 1975, pitting the communist government of North Vietnam and its guerrilla insurgent allies in South Vietnam against the government of South Vietnam and its primary backer, the United States. The war is one of the most divisive and consequential conflicts in American history, resulting in approximately 58,000 American deaths, over a million Vietnamese military fatalities, and an estimated two million civilian deaths across the region. It ended with the [[event:3350|fall of Saigon]] on April 30, 1975, and the unification of Vietnam under communist rule.\n\nVietnam had been divided at the 17th parallel following the [[event:3462|Battle of Dien Bien Phu]] and the 1954 Geneva Accords, which ended French colonial rule. The Geneva agreements called for nationwide elections to reunify the country, but the United States and South Vietnam refused to hold them, fearing a communist victory. North Vietnam under Ho Chi Minh began supporting a communist insurgency in the south, known as the Viet Cong, from the late 1950s onward.\n\nAmerican military involvement escalated dramatically under President Lyndon B. Johnson following the Gulf of Tonkin incident of August 1964, in which U.S. naval vessels were allegedly attacked by North Vietnamese torpedo boats. Congress granted Johnson sweeping authority to escalate the conflict, and U.S. troop levels grew from around 16,000 advisors in 1963 to a peak of 543,000 combat troops in 1969. The war's logic was deterrence — preventing a communist domino effect across Southeast Asia — but its execution proved deeply flawed.\n\nThe [[event:3349|Tet Offensive]] of January 1968, in which Viet Cong forces launched simultaneous attacks on over 100 South Vietnamese cities and towns, shattered public confidence in official optimism about the war's progress despite being a military defeat for the attackers. Walter Cronkite's editorial declaring the war a stalemate marked a turning point in American public opinion. Anti-war protests grew rapidly, and the political costs of the war contributed to Johnson's decision not to seek re-election in 1968.\n\nPresident Richard Nixon pursued a strategy of \"Vietnamization\" — gradually transferring combat responsibility to South Vietnamese forces while withdrawing American troops. The Paris Peace Accords of January 1973 provided a framework for American withdrawal in exchange for a ceasefire. American combat forces left Vietnam, and the last U.S. personnel were evacuated as Saigon fell in 1975. North Vietnamese forces conquered the south within two years of the American withdrawal, demonstrating the fundamental weakness of the South Vietnamese government the United States had spent twenty years and billions of dollars supporting.\n\nThe war's consequences were vast. In the United States, it produced a deep cynicism about government, military, and institutional authority that permanently altered American political culture. The War Powers Act of 1973 sought to limit presidential military powers. Veterans returned to an indifferent or hostile reception and struggled with post-traumatic stress disorder largely unrecognized and untreated. Agent Orange, a defoliant sprayed extensively across South Vietnam, caused long-term health problems in both Vietnamese civilians and American veterans.\n\nIn Southeast Asia, the war's aftermath included the Khmer Rouge genocide in neighboring Cambodia under [[event:2724|Pol Pot's regime]] and civil conflict in Laos. Vietnam itself suffered years of international isolation, economic stagnation, and the boat refugee crisis before beginning economic liberalization in the 1980s that gradually restored growth and international relations. The war remains a defining event in Vietnamese national memory and a cautionary reference point in American debates about military intervention abroad.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam_War",
+    "read_more_links": [
+        {
+            "title": "Vietnam War – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Vietnam-War"
+        },
+        {
+            "title": "Vietnam War – U.S. Department of State History",
+            "url": "https://history.state.gov/milestones/1961-1968/vietnam"
+        },
+        {
+            "title": "Paris Peace Accords – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paris_Peace_Accords"
+        },
+        {
+            "title": "Agent Orange – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Agent_Orange"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ARVN_in_action_HD-SN-99-02062.JPEG/300px-ARVN_in_action_HD-SN-99-02062.JPEG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ARVN_in_action_HD-SN-99-02062.JPEG",
+            "caption": "\"Crack troops of the Vietnamese Army in combat operations against the Communi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bombing_in_Vietnam.jpg/300px-Bombing_in_Vietnam.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bombing_in_Vietnam.jpg",
+            "caption": "Original caption: \"Flying under radar control with a B-66 Destroyer, Air Forc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Defoliation_agent_spraying.jpg/300px-Defoliation_agent_spraying.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Defoliation_agent_spraying.jpg",
+            "caption": "فيتنام. مهمة تساقط الأوراق. طائرة هليكوبتر UH-1D من شركة الطيران 336 ترش عامل...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marine_da_nang.jpg/300px-Marine_da_nang.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Marine_da_nang.jpg",
+            "caption": "Da Nang, Vietnam - A young Marine private waits on the beach during the Marin...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lê Duẩn",
+            "summary": "General Secretary of the Communist Party of Vietnam (1907–1986)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Le_duan.png/250px-Le_duan.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/L%C3%AA_Du%E1%BA%A9n"
+        },
+        {
+            "name": "Ho Chi Minh",
+            "summary": "Leader of North Vietnam from 1945 to 1969",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg/250px-Ho_Chi_Minh_-_1946_Portrait_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+        },
+        {
+            "name": "Võ Nguyên Giáp",
+            "summary": "Vietnamese general and communist politician (1911–2013)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mr._Vo_Nguyen_Giap_%28cropped%29.jpg/250px-Mr._Vo_Nguyen_Giap_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+        },
+        {
+            "name": "Phạm Văn Đồng",
+            "summary": "Prime Minister of Vietnam from 1976 to 1987",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng_1972.jpg/250px-Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng_1972.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng"
+        },
+        {
+            "name": "Trần Văn Trà",
+            "summary": "North Vietnamese commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tranvantra.jpg/250px-Tranvantra.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_V%C4%83n_Tr%C3%A0"
+        },
+        {
+            "name": "Ngo Dinh Diem",
+            "summary": "President of South Vietnam from 1955 to 1963",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg/250px-President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3209,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3b9206d65ca86c78b55672c64bbf2524acc4706e903cfad0c2015638ecbcf82b",
+    "summary": "The chariot emerged as the dominant weapons platform of the ancient Near East during the second millennium BC, transforming warfare across a vast arc from Egypt to China. Originating on the Eurasian steppes in conjunction with the domesticated horse, the light two-wheeled vehicle spread rapidly through trade, conquest, and imitation, reaching Egypt, the Levant, Anatolia, India, and China between roughly 1700 and 1200 BC. The [[event:1859|spoked wheel]] was the critical enabling technology, allowing construction of a vehicle light enough for a horse team to pull at speed.\n\nChariot warfare reshaped military organization fundamentally. Armies that had relied on massed infantry began investing enormous resources in chariots, specialist crew training, horse breeding, and bronze armorers. The [[event:1808|Battle of Kadesh]] between Egypt and the Hittites in 1274 BC reportedly involved thousands of chariots on each side and stands as the largest chariot battle in recorded history. Elite chariot corps became symbols of royal power and aristocratic status throughout the Bronze Age world.\n\nThe military dominance of the chariot ended abruptly with the [[event:1815|Bronze Age Collapse]] around 1200 BC. Disruptions to trade networks cut off the bronze and tin supplies needed to equip chariot forces, and new infantry tactics using iron weapons proved effective against chariot charges. By the early Iron Age, cavalry began gradually replacing the chariot in most armies, though the vehicle retained ceremonial and racing functions for centuries afterward.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chariot",
+    "read_more_links": [
+        {
+            "title": "Chariot Warfare in the Ancient World - Britannica",
+            "url": "https://www.britannica.com/technology/chariot"
+        },
+        {
+            "title": "Spoked Wheel and Chariot",
+            "url": "https://en.wikipedia.org/wiki/Spoke"
+        },
+        {
+            "title": "Battle of Kadesh",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Kadesh"
+        },
+        {
+            "title": "Bronze Age Collapse",
+            "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Shang_Chariot_Burial_04.jpg/300px-Shang_Chariot_Burial_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Shang_Chariot_Burial_04.jpg",
+            "caption": "Yin Ruins, Anyang, Henan, China. Complete indexed photo collection at WorldHi...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Han_Chariot_Model_%2811867134353%29.jpg/300px-Han_Chariot_Model_%2811867134353%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Han_Chariot_Model_%2811867134353%29.jpg",
+            "caption": "Mancheng Han Tombs Gallery, Hebei Museum, Shijiazhuang. Complete indexed phot...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Warring_States_Chariot_Model_a.jpg/300px-Warring_States_Chariot_Model_a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Warring_States_Chariot_Model_a.jpg",
+            "caption": "Warring States Zhongshan State Gallery, Hebei Museum, Shijiazhuang. Complete ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Eastern_Han_Bronze_Cavalry_%26_Chariots_-_from_Gansu.jpg/300px-Eastern_Han_Bronze_Cavalry_%26_Chariots_-_from_Gansu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Eastern_Han_Bronze_Cavalry_%26_Chariots_-_from_Gansu.jpg",
+            "caption": "Eastern Han/Three Kingdoms special exhibit, Henan Provincial Museum, Zhengzho...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Light cavalry",
+            "summary": "Type of highly mobile soldier on horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Krell_Battle_of_Orsha_%28detail%29_31.jpg/250px-Krell_Battle_of_Orsha_%28detail%29_31.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Light_cavalry"
+        }
+    ],
+    "territory_geojson": null
+}

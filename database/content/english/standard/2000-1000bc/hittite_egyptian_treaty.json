@@ -1,0 +1,90 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3794,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:afb19b6e92753510c31a90978079590a67ddc9709a80e5bb2d9426ddfc9100d7",
+    "summary": "The peace treaty concluded between [[event:1807|Ramesses II]] of Egypt and Hattusili III of the Hittites in 1259 BC stands as the oldest surviving international peace agreement whose full text is preserved in two languages. The agreement followed decades of conflict over control of the Levant, culminating in the inconclusive [[event:1808|Battle of Kadesh]] in 1274 BC. By the 1250s, both empires faced mounting pressures — Egypt from Libyan incursions and internal difficulties, the [[event:54|Hittite Kingdom]] from threats posed by Assyria and internal dynastic instability — making peace mutually advantageous.\n\nThe treaty, recorded in both Egyptian hieroglyphics and Akkadian cuneiform, established a formal end to hostilities, defined spheres of influence, provided for the extradition of fugitives and refugees, and pledged mutual military assistance against internal revolt and external enemies. Both versions were impressed on silver tablets and dispatched to the other party's court; while the original tablets have not survived, Egyptian wall inscriptions at Karnak and Abu Simbel and cuneiform copies found at the Hittite capital Hattusa have preserved the text in full.\n\nThe treaty was reinforced by a diplomatic marriage between Ramesses II and a Hittite princess, who became a royal consort. It is particularly significant as evidence of the elaborate diplomatic culture that connected the great powers of the Late Bronze Age, including Egypt, Hatti, Babylon, Assyria, and Mitanni, through correspondence, gift exchange, and dynastic intermarriage. A replica of the treaty is displayed at the United Nations headquarters in New York as a symbol of early international diplomacy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty",
+    "read_more_links": [
+        {
+            "title": "Battle of Kadesh - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Kadesh"
+        },
+        {
+            "title": "Ramesses II - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "title": "Hattusili III - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hattusili_III"
+        },
+        {
+            "title": "Amarna Letters - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Amarna_letters"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg/300px-Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg",
+            "caption": "Egyptian-Hethite peace treaty on the western outer wall of the Cachette farm ...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Clay_tablet%2C_Egyptian-Hittite_peace_treaty_between_Ramesses_II_and_%E1%B8%AAattu%C5%A1ili_III%2C_mid-13th_century_BCE._Neus_Museum%2C_Berlin.jpg/300px-Clay_tablet%2C_Egyptian-Hittite_peace_treaty_between_Ramesses_II_and_%E1%B8%AAattu%C5%A1ili_III%2C_mid-13th_century_BCE._Neus_Museum%2C_Berlin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Clay_tablet%2C_Egyptian-Hittite_peace_treaty_between_Ramesses_II_and_%E1%B8%AAattu%C5%A1ili_III%2C_mid-13th_century_BCE._Neus_Museum%2C_Berlin.jpg",
+            "caption": "Clay tablet. The cuneiform inscription narrates the Hittite-Amurru treaty bet...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Kadesh.jpg/300px-Treaty_of_Kadesh.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Treaty_of_Kadesh.jpg",
+            "caption": "Smaller tablet of Treaty of Kadesh, discovered at Boğazköy, Turkey. Museum of...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Ḫattušili III",
+            "summary": "King of the Hittites c. 1275 – 1245 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Felsrelief_von_Firaktin_Hattusili_III_%28cropped%29.jpg/250px-Felsrelief_von_Firaktin_Hattusili_III_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%E1%B8%AAattu%C5%A1ili_III"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Mitanni",
+            "summary": "Ancient Hurrian-speaking state in northern Syria and southeast Anatolia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Carte_du_Mitanni-en.svg/250px-Carte_du_Mitanni-en.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mitanni"
+        },
+        {
+            "name": "Seti I",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/SetiI-KneelingStatueOfferingToOsiris-CloseUp_MetropolitanMuseum.png/250px-SetiI-KneelingStatueOfferingToOsiris-CloseUp_MetropolitanMuseum.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seti_I"
+        },
+        {
+            "name": "Muwatalli II",
+            "summary": "Hittite king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Felsrelief-Sirkeli.jpg/250px-Felsrelief-Sirkeli.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muwatalli_II"
+        }
+    ],
+    "territory_geojson": null
+}

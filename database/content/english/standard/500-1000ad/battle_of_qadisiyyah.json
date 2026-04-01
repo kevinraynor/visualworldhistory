@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2953,
+    "parent_id": 2127,
+    "granularity": "detailed",
+    "content_hash": "sha256:055e314ba5043569dc5d34d6306712e0f42beff71f589f6644ee623756b66cfd",
+    "summary": "The Battle of al-Qadisiyyah (636 AD) was the decisive military engagement that determined the fate of the Sassanid Persian Empire, as the Arab Muslim forces of the [[event:2126|Rashidun Caliphate]] under Sa'd ibn Abi Waqqas defeated a much larger Persian army under the general Rostam Farrokhzad at a location near modern Hilla in Iraq. The three- to four-day battle — fought in the flat terrain south of Ctesiphon, the Sassanid capital — ended with the death of Rostam and the collapse of Persian resistance, opening Mesopotamia and ultimately the entire Persian heartland to [[event:2127|Islamic conquest]].\n\nQadisiyyah was the pivot on which one of history's great civilizational transformations turned. The Sassanid Empire — heir to the ancient Persian imperial tradition stretching back through the Achaemenids — had existed for over 400 years and was one of the two great superpowers of the ancient world alongside Byzantium. Its defeat at Qadisiyyah and subsequent fall of the capital Ctesiphon opened a conquest that extinguished the Sassanid state entirely by 651 AD, replacing Zoroastrian Persia with what would eventually become the predominantly Muslim Persian culture of Iran. Yet Persian civilization proved resilient in defeat: Persian administrative practices, literary culture, court ceremonial, and eventually the Persian language itself absorbed and transformed the Arab conquerors, producing the distinctive Persianate Islamic culture that dominated the [[event:2133|Abbasid Caliphate]] and its successor states. Qadisiyyah has retained powerful symbolic resonance: Saddam Hussein named his 1980 war against Iran the 'Qadisiyyat Saddam,' invoking the Arab victory over Persia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_al-Qadisiyyah",
+    "read_more_links": [
+        {
+            "title": "Sa'd ibn Abi Waqqas Rashidun general",
+            "url": "https://en.wikipedia.org/wiki/Sa%27d_ibn_Abi_Waqqas"
+        },
+        {
+            "title": "Sassanid collapse Islamic conquest Persia",
+            "url": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia"
+        },
+        {
+            "title": "Ctesiphon Sassanid capital fall",
+            "url": "https://en.wikipedia.org/wiki/Ctesiphon"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Mohammad_adil_rais-day-0.PNG/300px-Mohammad_adil_rais-day-0.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mohammad_adil_rais-day-0.PNG",
+            "caption": "Mohammad adil rais-day-0",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mohammad_adil_rais-day-1-phase-1.PNG/300px-Mohammad_adil_rais-day-1-phase-1.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mohammad_adil_rais-day-1-phase-1.PNG",
+            "caption": "Mohammad adil rais-day-1-phase-1",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mohammad_adil_rais-day-1-phase-2.PNG/300px-Mohammad_adil_rais-day-1-phase-2.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mohammad_adil_rais-day-1-phase-2.PNG",
+            "caption": "Mohammad adil rais-day-1-phase-2",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mohammad_adil_rais-day-1-phase-3.PNG/300px-Mohammad_adil_rais-day-1-phase-3.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mohammad_adil_rais-day-1-phase-3.PNG",
+            "caption": "Mohammad adil rais-day-1-phase-3",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Rashidun Caliphate",
+            "summary": "First Islamic caliphate (632–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG/250px-Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun_Caliphate"
+        },
+        {
+            "name": "Rostam Farrokhzad",
+            "summary": "Sasanian military general (died 636)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rustam%2C_Yazdigird%27s_general%2C_slain_by_Sa%27d%2C_the_son_of_Vaqqas_the_Arab_-_The_New_York_Public_Library_Digital_Collections_%28cropped%29.jpg/250px-Rustam%2C_Yazdigird%27s_general%2C_slain_by_Sa%27d%2C_the_son_of_Vaqqas_the_Arab_-_The_New_York_Public_Library_Digital_Collections_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rostam_Farrokhzad"
+        },
+        {
+            "name": "Hormuzan",
+            "summary": "Sasanian general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tarikhuna_bi-uslub_qasasi-Hormuzan_brought_before_Umar.jpg/250px-Tarikhuna_bi-uslub_qasasi-Hormuzan_brought_before_Umar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hormuzan"
+        },
+        {
+            "name": "Juansher",
+            "summary": "Mihranid prince of Caucasian Albania (d. 669)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bronze_sculpture_of_Juansher.jpg/250px-Bronze_sculpture_of_Juansher.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Juansher"
+        },
+        {
+            "name": "Maurice (emperor)",
+            "summary": "Roman emperor from 582 to 602",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Solidus_of_Maurice_%28transitional_issue%29.png/250px-Solidus_of_Maurice_%28transitional_issue%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_%28emperor%29"
+        },
+        {
+            "name": "Phocas",
+            "summary": "Roman emperor from 602 to 610",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Phocas%2C_British_Museum.jpg/250px-Phocas%2C_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Phocas"
+        }
+    ],
+    "territory_geojson": null
+}

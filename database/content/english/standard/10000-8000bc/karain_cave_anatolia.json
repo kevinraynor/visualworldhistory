@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1316,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:66917e59cee16f4068031e4e7dd797834feb25649e78624987adbfe74f343503",
+    "summary": "Karain Cave is one of the most important prehistoric sites in Anatolia, located approximately 30 kilometers north of Antalya on the Mediterranean coast of Turkey. With occupation layers spanning from approximately 500,000 BCE to the Neolithic period, it is the only known Palaeolithic site in Anatolia with evidence of occupation stretching from the Lower Palaeolithic through the Epipaleolithic and into the early stages of the Neolithic transition.\n\nFor the period 10,000–8,000 BCE, Karain Cave was occupied by Epipaleolithic hunter-gatherers who exploited the rich coastal and hinterland resources of the western Taurus Mountain foothills. The terminal Pleistocene and early Holocene layers at the site document changes in fauna, reflecting the environmental transformations accompanying the [[event:1262|end of the Ice Age]], including a shift from cold-adapted to warm-adapted species. The site's exceptional depth of occupation makes it a crucial reference point for understanding the long-term human presence in the western Anatolian region, and its early Holocene layers contribute to the understanding of how Epipaleolithic communities in Anatolia were positioned to participate in or resist the [[event:1|Neolithic transition]] that was already underway in the eastern portions of the Anatolian plateau and Levant.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Karain_Cave",
+    "read_more_links": [
+        {
+            "title": "Anatolian Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Anatolia"
+        },
+        {
+            "title": "Turkish Archaeology - Britannica",
+            "url": "https://www.britannica.com/place/Turkey/Prehistory"
+        },
+        {
+            "title": "Paleolithic Turkey - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Palaeolithic_Turkey"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Karain_-_Cave_Chamber.jpg/300px-Karain_-_Cave_Chamber.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Karain_-_Cave_Chamber.jpg",
+            "caption": "Karain / Turkey - Cave Chamber",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Karain.JPG/300px-Karain.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Karain.JPG",
+            "caption": "Eingang zur Karain-Höhle, prähistorischer Fundort, Türkei nördlich Antalya",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

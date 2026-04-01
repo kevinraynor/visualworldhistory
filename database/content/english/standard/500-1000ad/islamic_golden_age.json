@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2135,
+    "parent_id": 2133,
+    "granularity": "major",
+    "content_hash": "sha256:02ae5aa870593dcab67426ef858009f565336c874e77e5335d2300da3eb1d9b3",
+    "summary": "The Islamic Golden Age (c. 8th–13th centuries AD) was the most intellectually productive era in the medieval world — a period during which Muslim scholars, drawing on Greek, Persian, Indian, and Syriac sources, preserved, extended, and transmitted classical knowledge while producing original advances in mathematics, astronomy, medicine, chemistry, optics, geography, philosophy, and literature that would profoundly shape the European Renaissance. Centered in the [[event:2133|Abbasid Caliphate's]] [[event:2134|Baghdad]] and the [[event:2136|House of Wisdom]], but also flourishing in [[event:2192|Cordoba]], Cairo, Samarkand, and other centers, the Islamic Golden Age was the custodian of human knowledge during the period when much of Europe had lost access to the Greek intellectual tradition.\n\nThe achievements were extraordinary: [[event:2137|al-Khwarizmi]] founded algebra and gave us the word 'algorithm'; [[event:2218|al-Razi]] wrote comprehensive medical encyclopedias that were used in European universities until the 17th century; Ibn al-Haytham founded the science of optics and the experimental method; [[event:3614|Ibn Sina's]] Canon of Medicine was a standard European medical textbook for 600 years; [[event:3615|al-Biruni]] calculated the Earth's radius with remarkable accuracy; and Islamic astronomers corrected Ptolemaic astronomy and preserved star catalogs that still carry Arabic names. Indian mathematical innovations (including the number zero and decimal notation) were transmitted to Europe through Arabic translations. The Islamic Golden Age ended gradually with the Mongol invasions (1258 sack of Baghdad) and the intellectual conservatism of later Islamic jurisprudence, though debate continues about when and why the tradition of innovation slowed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Islamic_Golden_Age",
+    "read_more_links": [
+        {
+            "title": "Islamic Golden Age science",
+            "url": "https://en.wikipedia.org/wiki/Islamic_Golden_Age#Sciences"
+        },
+        {
+            "title": "Ibn al-Haytham optics",
+            "url": "https://en.wikipedia.org/wiki/Ibn_al-Haytham"
+        },
+        {
+            "title": "Translation movement Greek Arabic",
+            "url": "https://en.wikipedia.org/wiki/Translation_movement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Johannes-kepler-tabulae-rudolphinae-google-arts-culture.jpg/300px-Johannes-kepler-tabulae-rudolphinae-google-arts-culture.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Johannes-kepler-tabulae-rudolphinae-google-arts-culture.jpg",
+            "caption": "Frontispiece of the Rudolphine Tables: Tabulae Rudolphinae: quibus astronomic...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg/300px-Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Al-Masjid_An-Nabawi_%28Bird%27s_Eye_View%29.jpg",
+            "caption": "A bird's eye view of the Prophet's Mosque in Medina (Masjid al-Nabawi) from t...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WLA_vanda_Ottoman_marquetry_and_tile-top_table_2.jpg/300px-WLA_vanda_Ottoman_marquetry_and_tile-top_table_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/WLA_vanda_Ottoman_marquetry_and_tile-top_table_2.jpg",
+            "caption": "Ottoman marquetry and tile-top table. Tukey, Iznik and Istanbul. About 1560.\n...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Estatua_de_Averroes_2.JPG/300px-Estatua_de_Averroes_2.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Estatua_de_Averroes_2.JPG",
+            "caption": "Averroes statue, in Córdoba (Spain).",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Al-Khwarizmi",
+            "summary": "Islamic mathematician (c. 780 – c. 850)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Madrid_-_Ciudad_Universitaria%2C_Monumento_a_Muhammad_al-Juarismi_%28cropped%29.jpg/250px-Madrid_-_Ciudad_Universitaria%2C_Monumento_a_Muhammad_al-Juarismi_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Khwarizmi"
+        },
+        {
+            "name": "Avicenna",
+            "summary": "Persian polymath, physician and philosopher (c. 980–1037)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg/250px-Avicenna_Bust%2C_left_profile_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Avicenna"
+        },
+        {
+            "name": "Muhammad al-Idrisi",
+            "summary": "Muslim geographer (1100–1165)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Estatua_de_Al-Idrisi_bajo_el_baluarte_de_los_Mallorquines%2C_Ceuta_%285%29.jpg/250px-Estatua_de_Al-Idrisi_bajo_el_baluarte_de_los_Mallorquines%2C_Ceuta_%285%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_al-Idrisi"
+        },
+        {
+            "name": "Ismail al-Jazari",
+            "summary": "Muslim engineer and artist (1136–1206)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Al-jazari_elephant_clock.png/250px-Al-jazari_elephant_clock.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ismail_al-Jazari"
+        },
+        {
+            "name": "Al-Jahiz",
+            "summary": "Arabic writer (776–869)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Al-Jahiz_stamp%2C_1968%2C_Syria.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Jahiz"
+        },
+        {
+            "name": "Omar Khayyam",
+            "summary": "Persian polymath and poet (1048–1131)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hakim_Omar_Khayam_-_panoramio.jpg/250px-Hakim_Omar_Khayam_-_panoramio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Khayyam"
+        }
+    ],
+    "territory_geojson": null
+}

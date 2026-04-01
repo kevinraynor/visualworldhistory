@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2679,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:cfb7fd39a3a49b56e4ddf85cd80b571c09f7cc62c636e281e6da5e3b3f9564d4",
+    "summary": "The American Civil Rights Movement was a sustained mass movement from roughly 1954 to 1968 that sought to end racial segregation and discrimination against African Americans and secure their full constitutional rights as citizens. Through nonviolent direct action, legal challenges, voter registration campaigns, marches, sit-ins, and political organizing, the movement dismantled the legal architecture of Jim Crow segregation in the South and achieved landmark federal legislation — the [[event:3364|Civil Rights Act of 1964]] and the [[event:3365|Voting Rights Act of 1965]] — that transformed American democracy.\n\nThe movement built on decades of African American activism and the legal strategies of the NAACP, which achieved its greatest early victory in the Supreme Court's [[event:3361|Brown v. Board of Education]] ruling of 1954, which struck down school segregation as unconstitutional. The [[event:3362|Montgomery Bus Boycott]] of 1955-56, triggered by Rosa Parks' arrest for refusing to give up her bus seat to a white passenger, demonstrated the power of mass economic action and launched [[event:2680|Martin Luther King Jr.]] to national prominence as the movement's most prominent leader.\n\nThe movement's tactics evolved through the late 1950s and early 1960s. Student sit-ins at segregated lunch counters, beginning in Greensboro, North Carolina, in February 1960, spread across the South and led to the formation of the Student Nonviolent Coordinating Committee (SNCC). Freedom Riders tested the Supreme Court's ruling against segregation in interstate bus terminals, enduring violent attacks. Children and teenagers marched in Birmingham, Alabama, in 1963, where Birmingham's public safety commissioner Bull Connor ordered police dogs and fire hoses turned on the demonstrators — images that shocked the nation and accelerated federal action.\n\nThe [[event:3363|March on Washington]] of August 1963, attended by approximately 250,000 people, was the largest demonstration in American history to that point. King delivered his \"I Have a Dream\" speech at the Lincoln Memorial, articulating a vision of racial equality that resonated across generations. President Kennedy, who had been cautious on civil rights, proposed comprehensive civil rights legislation that Congress debated for months.\n\nThe [[event:3364|Civil Rights Act of 1964]], signed by President Johnson following Kennedy's assassination, prohibited discrimination based on race, color, religion, sex, or national origin in employment and public accommodations. The [[event:3365|Voting Rights Act of 1965]], passed following violent attacks on voting rights marchers at the Edmund Pettus Bridge in Selma, Alabama — \"Bloody Sunday\" — eliminated discriminatory voting tests and enabled federal supervision of elections. These laws, along with the 24th Amendment prohibiting poll taxes, transformed African American political participation.\n\nThe movement's achievements were extraordinary but incomplete. [[event:3366|Martin Luther King Jr.'s assassination]] on April 4, 1968, in Memphis, Tennessee, triggered urban uprisings across American cities and marked a turning point as the movement confronted the deeper structural inequalities of housing, employment, and poverty that could not be addressed through legislation alone. The late 1960s saw the rise of the Black Power movement, which emphasized African American self-determination and cultural pride over integration. The Civil Rights Movement's legacy endures as the most significant domestic reform movement of twentieth-century America and a model for social movements worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+    "read_more_links": [
+        {
+            "title": "Civil Rights Movement – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/American-civil-rights-movement"
+        },
+        {
+            "title": "Civil Rights Digital Library – University of Georgia",
+            "url": "https://crdl.usg.edu/"
+        },
+        {
+            "title": "Martin Luther King Jr. Papers – Stanford University",
+            "url": "https://kinginstitute.stanford.edu/"
+        },
+        {
+            "title": "Civil Rights Act of 1964 – National Archives",
+            "url": "https://www.archives.gov/milestone-documents/civil-rights-act"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lyndon_Johnson_signing_Civil_Rights_Act%2C_July_2%2C_1964.jpg/300px-Lyndon_Johnson_signing_Civil_Rights_Act%2C_July_2%2C_1964.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lyndon_Johnson_signing_Civil_Rights_Act%2C_July_2%2C_1964.jpg",
+            "caption": "President Lyndon B. Johnson signs the 1964 Civil Rights Act as Martin Luther ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Little_Rock_integration_protest.jpg/300px-Little_Rock_integration_protest.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Little_Rock_integration_protest.jpg",
+            "caption": "Little Rock, 1959. Rally at state capitol, protesting the integration of Cent...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/James_Meredith_OleMiss.jpg/300px-James_Meredith_OleMiss.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/James_Meredith_OleMiss.jpg",
+            "caption": "Photograph shows James Meredith walking to class accompanied by U.S. marshals...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bomb_wreckage_near_Gaston_Motel_%2814_May_1963%29.JPG/300px-Bomb_wreckage_near_Gaston_Motel_%2814_May_1963%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bomb_wreckage_near_Gaston_Motel_%2814_May_1963%29.JPG",
+            "caption": "Photograph showing the wreckage of a bomb explosion near the Gaston Motel whe...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Martin Luther King Jr.",
+            "summary": "American minister and civil rights activist (1929–1968)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/250px-Martin_Luther_King%2C_Jr..jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+        },
+        {
+            "name": "Dwight D. Eisenhower",
+            "summary": "President of the United States from 1953 to 1961",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/250px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+        },
+        {
+            "name": "John F. Kennedy",
+            "summary": "President of the United States from 1961 to 1963",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/250px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+        },
+        {
+            "name": "Lyndon B. Johnson",
+            "summary": "President of the United States from 1963 to 1969",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%283%29.jpg/250px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%283%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+        },
+        {
+            "name": "Booker T. Washington",
+            "summary": "American educator, author, orator and adviser",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg/250px-Booker_T_Washington_retouched_flattened-crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Booker_T._Washington"
+        },
+        {
+            "name": "Harry S. Truman",
+            "summary": "President of the United States from 1945 to 1953",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/250px-TRUMAN_58-766-06_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+        }
+    ],
+    "territory_geojson": null
+}

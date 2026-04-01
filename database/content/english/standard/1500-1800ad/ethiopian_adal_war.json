@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2454,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:7885e508b08460981c9662848f6b5a46fb0563fee7b8660e13497a2f34cc1c47",
+    "summary": "The Ethiopian-Adal War (1529–1543 AD) was a devastating conflict in the Horn of Africa between the Christian Ethiopian Empire (Abyssinia) and the Muslim Sultanate of Adal (based in modern-day Somalia), in which Ahmad ibn Ibrahim al-Ghazi ('Gran,' meaning 'the Left-Handed') — armed with Ottoman muskets and artillery — nearly conquered all of Ethiopia before a Portuguese-Ethiopian alliance reversed the tide. Ahmad Gran, a brilliant military commander, launched a jihad against Ethiopia in 1529; his forces, armed with firearms from the Ottomans (who were enemies of the Portuguese and interested in weakening their ally Ethiopia), devastated Ethiopian highlands, burned churches and monasteries, forced mass conversion to Islam, and reduced the Ethiopian emperor to a refugee existence in the mountains.\n\nAt its nadir (c. 1540), Ethiopia had lost approximately three-quarters of its highland territory to Adal; the ancient Christian civilization appeared on the verge of extinction. Emperor Lebna Dengel's successor Gelawdewos appealed for Portuguese assistance; a force of approximately 400 Portuguese musketeers under Christóvão da Gama (son of Vasco da Gama) arrived in 1541. Though Christóvão was captured and beheaded by Ahmad Gran in 1542, the surviving Portuguese joined the Ethiopian army; at the Battle of Wayna Daga (1543), Ahmad Gran was killed — reportedly shot by a Portuguese soldier — and his forces collapsed. The war demonstrated both the transformative impact of firearms on African warfare and the lasting importance of the Portuguese-Ethiopian alliance that Ethiopian rulers had sought since the early 15th century. Ethiopia's survival shaped the Horn of Africa's religious geography: unlike most of North and East Africa, the Ethiopian highlands remained predominantly Christian.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Adal_War",
+    "read_more_links": [
+        {
+            "title": "Ahmad ibn Ibrahim Gran conquest Ethiopia Adal",
+            "url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Ibrahim_al-Ghazi"
+        },
+        {
+            "title": "Portuguese Ethiopia alliance Christovao da Gama",
+            "url": "https://en.wikipedia.org/wiki/Cristóvão_da_Gama"
+        },
+        {
+            "title": "Battle Wayna Daga 1543 Ahmad Gran killed",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Wayna_Daga"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Deaths_of_Gragn_and_Da_Gama.jpg/300px-Deaths_of_Gragn_and_Da_Gama.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Deaths_of_Gragn_and_Da_Gama.jpg",
+            "caption": "Hailu of Gondar, Kegneketa Jemlieri; The Defeat of Ahmed Gran by King Claudiu...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cristóvão da Gama",
+            "summary": "16th-century Portuguese military commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Crist%C3%B3v%C3%A3o_da_Gama_-_Padr%C3%A3o_dos_Descobrimentos.png/250px-Crist%C3%B3v%C3%A3o_da_Gama_-_Padr%C3%A3o_dos_Descobrimentos.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Crist%C3%B3v%C3%A3o_da_Gama"
+        },
+        {
+            "name": "Somali–Portuguese conflicts",
+            "summary": "1499–1543 military encounters",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MogadishuMillerAtlas.png/250px-MogadishuMillerAtlas.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Somali%E2%80%93Portuguese_conflicts"
+        },
+        {
+            "name": "Ahmad ibn Ibrahim al-Ghazi",
+            "summary": "16th century Imam and General of the Adal Sultanate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Imaam_Ahmed_Gurey.jpg/250px-Imaam_Ahmed_Gurey.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmad_ibn_Ibrahim_al-Ghazi"
+        },
+        {
+            "name": "Adal Sultanate",
+            "summary": "1415–1577 Muslim sultanate in the Horn of Africa",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_Adal_Sultanate.svg/250px-Flag_of_Adal_Sultanate.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adal_Sultanate"
+        },
+        {
+            "name": "Dawit II",
+            "summary": "Emperor of Ethiopia from 1508 to 1540",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cristofano_dell%E2%80%99Altissimo%2C_Portrait_of_Lebn%C3%A4-Dengel._c._1552-1568.jpg/250px-Cristofano_dell%E2%80%99Altissimo%2C_Portrait_of_Lebn%C3%A4-Dengel._c._1552-1568.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dawit_II"
+        },
+        {
+            "name": "Gelawdewos",
+            "summary": "Emperor of Ethiopia from 1540 to 1559",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Claudius%2C_King_of_Ethiopia.jpg/250px-Claudius%2C_King_of_Ethiopia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gelawdewos"
+        }
+    ],
+    "territory_geojson": null
+}

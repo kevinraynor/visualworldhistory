@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2591,
+    "parent_id": 2544,
+    "granularity": "detailed",
+    "content_hash": "sha256:d710443902b9135b9194e2e5f5e035b70138e7ab968505919ba36c1447721491",
+    "summary": "The Satsuma Rebellion of 1877 was the last major armed uprising against the [[event:2544|Meiji government]] and the final significant conflict involving the traditional samurai class. Led by Saigo Takamori — one of the heroes of the [[event:2590|Boshin War]] who had become disillusioned with the direction of Meiji modernization — the rebellion pitted a force of approximately 40,000 samurai against a modern conscript army.\n\nSaigo had resigned from the government in 1873 over a dispute concerning Korea, advocating for a military expedition that other leaders rejected as too dangerous while Japan was still in the midst of domestic transformation. He returned to Satsuma (present-day Kagoshima Prefecture) and opened schools that trained young men in traditional martial arts. When the government moved to disarm the Satsuma men and remove their weapons stores in early 1877, Saigo's students rose in rebellion and he placed himself at their head.\n\nThe rebellion began with initial samurai successes, including a prolonged siege of the government garrison at Kumamoto Castle. However, the Meiji government's new conscript army — composed of commoners trained with modern firearms and artillery — demonstrated that disciplined firepower could overcome the samurai tradition of individual valor. After months of fighting, the government forces broke the rebellion at the Battle of Shiroyama in September 1877, where Saigo and his last followers made a final stand. Saigo died at Shiroyama, either killed in the final assault or by his own hand.\n\nThe rebellion confirmed that the Meiji transformation was irreversible: Japan's military future belonged to the modern conscript army, not the samurai class. Paradoxically, Saigo was subsequently rehabilitated as a national hero — a symbol of honor and selfless devotion who represented the samurai virtues that Meiji Japan sought to channel into modern national identity, even as it dismantled the social order that had sustained those virtues.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Satsuma_Rebellion",
+    "read_more_links": [
+        {
+            "title": "Saigo Takamori – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Saig%C5%8D_Takamori"
+        },
+        {
+            "title": "Satsuma Rebellion – Britannica",
+            "url": "https://www.britannica.com/event/Satsuma-Rebellion"
+        },
+        {
+            "title": "Meiji Restoration – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Meiji_Restoration"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Small_tenshu_%26_Uto_turret_%26_Large_tenshu_in_Kumamoto-Csl.jpg/300px-Small_tenshu_%26_Uto_turret_%26_Large_tenshu_in_Kumamoto-Csl.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Small_tenshu_%26_Uto_turret_%26_Large_tenshu_in_Kumamoto-Csl.jpg",
+            "caption": "From left to right, Small tenshu, Uto turret, Large tenshu in Kumamoto Castle.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Battle-of-Tabaruzaka.jpg/300px-Battle-of-Tabaruzaka.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Battle-of-Tabaruzaka.jpg",
+            "caption": "Kagoshima Bulletin: Fierce Battle at Tabaruzaka Hill",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Battle-of-Tabaruzaka.jpg/300px-Battle-of-Tabaruzaka.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Battle-of-Tabaruzaka.jpg",
+            "caption": "Kagoshima Bulletin: Fierce Battle at Tabaruzaka Hill",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Subjugation_of_Kagoshima_in_Sasshu_%28Satsuma%29.jpg/300px-Subjugation_of_Kagoshima_in_Sasshu_%28Satsuma%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Subjugation_of_Kagoshima_in_Sasshu_%28Satsuma%29.jpg",
+            "caption": "Chronicle of the Subjugation of Kagoshima in Satsuma",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Meiji",
+            "summary": "Emperor of Japan from 1867 to 1912",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Meiji_Emperor_%28cropped%29%28b%29.jpg/250px-Meiji_Emperor_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Meiji"
+        },
+        {
+            "name": "Prince Arisugawa Taruhito",
+            "summary": "Japanese prince and general (1835–1895)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%E6%9C%89%E6%A0%96%E5%B7%9D%E5%AE%AE%E7%86%BE%E4%BB%81%E8%A6%AA%E7%8E%8B%E8%82%96%E5%83%8F%E5%86%99%E7%9C%9F.jpg/250px-%E6%9C%89%E6%A0%96%E5%B7%9D%E5%AE%AE%E7%86%BE%E4%BB%81%E8%A6%AA%E7%8E%8B%E8%82%96%E5%83%8F%E5%86%99%E7%9C%9F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Arisugawa_Taruhito"
+        },
+        {
+            "name": "Yamagata Aritomo",
+            "summary": "Japanese military leader and statesman (1838–1922)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Yamagata_Aritomo_%28cropped%29.jpg/250px-Yamagata_Aritomo_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yamagata_Aritomo"
+        },
+        {
+            "name": "Kawamura Sumiyoshi",
+            "summary": "Japanese admiral (1836-1904)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kawamura_Sumiyoshi.jpg/250px-Kawamura_Sumiyoshi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kawamura_Sumiyoshi"
+        },
+        {
+            "name": "Kuroda Kiyotaka",
+            "summary": "Prime Minister of Japan from 1888 to 1889",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kiyotaka_Kuroda_formal.jpg/250px-Kiyotaka_Kuroda_formal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kuroda_Kiyotaka"
+        },
+        {
+            "name": "Tani Tateki",
+            "summary": "Japanese politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Viscount_Tateki_Tani%2C_director_of_the_Peeresses%27_School.jpg/250px-Viscount_Tateki_Tani%2C_director_of_the_Peeresses%27_School.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tani_Tateki"
+        }
+    ],
+    "territory_geojson": null
+}

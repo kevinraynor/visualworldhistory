@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1892,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:97883b11db565e32a5fac32f7ee0d829d35485b0aa4747840a3ce362914d1828",
+    "summary": "Tell el-Ajjul was a major Canaanite Bronze Age city located on the Mediterranean coast near the ancient city of Gaza in southern Canaan, modern-day Palestine. Occupied primarily during the Middle and Late Bronze Ages, approximately 1750–1500 BC at its peak, it was one of the largest and wealthiest cities in Canaan. The city sat on a strategically important coastal location that facilitated trade connections between Egypt and the Levant, and its wealth is reflected in the large quantities of gold jewelry, bronze weapons, and Egyptian-influenced luxury goods recovered in excavations conducted by Flinders Petrie beginning in 1930.\n\nTell el-Ajjul's excavations yielded some of the largest concentrations of gold jewelry found at any Bronze Age site in the Levant, including elaborate earrings, pendants, and toggle pins displaying the sophisticated goldsmithing techniques characteristic of Middle Bronze Age Canaanite craftsmanship. This wealth reflects the city's role in the lucrative trade in metals, textiles, timber, and other goods between Egypt and the northern Levant, trade that intensified under the [[event:1799|Hyksos]] rulers of Egypt, who maintained strong cultural and commercial ties with their Canaanite neighbors.\n\nThe city was heavily influenced by Egyptian material culture, and some scholars have associated it with the Hyksos period specifically, suggesting it may have been a commercial entrepot in the Hyksos trading network. The city declined significantly after around 1500 BC, possibly related to Egyptian reconquest of Canaan under the early New Kingdom pharaohs following the expulsion of the Hyksos.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tell_el-Ajjul",
+    "read_more_links": [
+        {
+            "title": "Canaanite Cities",
+            "url": "https://en.wikipedia.org/wiki/Canaan"
+        },
+        {
+            "title": "Hyksos",
+            "url": "https://en.wikipedia.org/wiki/Hyksos"
+        },
+        {
+            "title": "Flinders Petrie",
+            "url": "https://en.wikipedia.org/wiki/Flinders_Petrie"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tell_al-Ajjul_997009157557905171.jpg/300px-Tell_al-Ajjul_997009157557905171.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tell_al-Ajjul_997009157557905171.jpg",
+            "caption": "ʻUjūl, Tall al- (Gaza Strip)Archaeology Israel",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Al-Kamil",
+            "summary": "Ayyubid sultan of Egypt from 1218 to 1238",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis%2C_Al-Kamil_detail_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg/250px-Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis%2C_Al-Kamil_detail_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Kamil"
+        },
+        {
+            "name": "Frederick II, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1220 to 1250",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/250px-Frederick_II_and_eagle.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Apepi",
+            "summary": "Ruler of Lower Egypt during the Fifteenth Dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ScarabBearingNameOfApophis_MuseumOfFineArtsBoston.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Apepi"
+        },
+        {
+            "name": "Sheshi",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canaanite_-_Scarab_with_Cartouche_of_King_Sheshi_-_Walters_4217_-_Bottom_%282%29.jpg/250px-Canaanite_-_Scarab_with_Cartouche_of_King_Sheshi_-_Walters_4217_-_Bottom_%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sheshi"
+        },
+        {
+            "name": "Yakbim Sekhaenre",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sekhaenre.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yakbim_Sekhaenre"
+        },
+        {
+            "name": "Ammu Aahotepre",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/AahotepreScarabPetrie.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ammu_Aahotepre"
+        }
+    ],
+    "territory_geojson": null
+}

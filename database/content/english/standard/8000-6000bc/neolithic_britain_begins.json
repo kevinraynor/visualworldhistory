@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1423,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9eab28a48153f73b930f60959974929a1555602785401b8053d04a5628a1f460",
+    "summary": "The establishment of Neolithic farming communities in Britain, beginning around 4000 BCE according to the most widely accepted dates, represents one of the later stages in the [[event:21|spread of agriculture across Europe]]. Though this event falls beyond the strict bounds of the 8000–6000 BCE era, the precursor processes — the gradual reduction of the forager populations of Britain, the island's geographic isolation following the flooding of Doggerland around 6500 BCE (which separated Britain from continental Europe), and the cultural developments in continental northwestern Europe that would eventually produce the first British farmers — all belong to this period.\n\nPrior to the Neolithic transition, Britain's Mesolithic hunter-gatherer populations had occupied the island for thousands of years following the post-glacial recolonization of the land. The flooding of Doggerland — the now-submerged North Sea landmass that had connected Britain to continental Europe — created the physical barrier that made Britain's Neolithic transition a distinctly maritime affair, requiring the crossing of the English Channel by incoming farming communities or the sea-borne transmission of farming practices and domesticates.\n\nGenetic evidence published from the 2010s onward has demonstrated that the British Neolithic transition was accomplished primarily by the migration of farming peoples from continental Europe — likely from the region of modern France and the Low Countries — who largely replaced the existing Mesolithic population over relatively few generations. These incoming farmers brought cattle, sheep, pigs, emmer wheat, and einkorn to the British Isles, initiating the transformation of a forager landscape into a farmed one. The Neolithic in Britain would subsequently produce some of the most iconic prehistoric monuments in the world, including Stonehenge and the Orkney sites.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neolithic_British_Isles",
+    "read_more_links": [
+        {
+            "title": "Doggerland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Doggerland"
+        },
+        {
+            "title": "Stonehenge - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stonehenge"
+        },
+        {
+            "title": "British Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/United-Kingdom/Prehistoric-period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Roundhouses_Stonehenge_Visitors_Centre_1.png/300px-Roundhouses_Stonehenge_Visitors_Centre_1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Roundhouses_Stonehenge_Visitors_Centre_1.png",
+            "caption": "Reconstructed roundhouses at the Stonehenge Visitors Centre",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sweet_track.jpg/300px-Sweet_track.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sweet_track.jpg",
+            "caption": "Oak causeway from the Somerset levels. Dendrochronologically dated to 3807-38...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2019-06-07_06-22_Irland_134_Br%C3%BA_na_B%C3%B3inne%2C_Knowth%2C_Megalithic_Tombs.jpg/300px-2019-06-07_06-22_Irland_134_Br%C3%BA_na_B%C3%B3inne%2C_Knowth%2C_Megalithic_Tombs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/2019-06-07_06-22_Irland_134_Br%C3%BA_na_B%C3%B3inne%2C_Knowth%2C_Megalithic_Tombs.jpg",
+            "caption": "Knowth",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Knowth_-_48051048418.jpg/300px-Knowth_-_48051048418.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Knowth_-_48051048418.jpg",
+            "caption": "Knowth",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Newgrange",
+            "summary": "Neolithic monument in County Meath, Ireland",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/250px-Irelands_history.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Newgrange"
+        },
+        {
+            "name": "John Lubbock, 1st Baron Avebury",
+            "summary": "English banker and politician (1834–1913)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/John_Lubbock72.jpg/250px-John_Lubbock72.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Lubbock%2C_1st_Baron_Avebury"
+        }
+    ],
+    "territory_geojson": null
+}

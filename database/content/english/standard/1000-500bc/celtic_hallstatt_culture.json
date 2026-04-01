@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1968,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ea54a8d2595feee566a0d7457cc5b515eaf0ef8d110133a1dc96243936d8045e",
+    "summary": "The Hallstatt culture (c. 800–450 BC) was the earliest identifiable Celtic archaeological culture, centered in the eastern Alps (modern Austria and Bavaria) and named for the salt-mining town of Hallstatt in Austria, where extraordinarily preserved finds including 2,500-year-old salt miners with their equipment were discovered. The Hallstatt Celts were Iron Age warriors and traders who accumulated considerable wealth from salt mining — the 'white gold' of antiquity, essential for food preservation — and from control of Alpine trade routes connecting the Mediterranean and northern Europe.\n\nHallstatt elite culture is characterized by spectacular burial mounds (tumuli) containing elaborate goods: bronze and iron weapons, gold jewelry, bronze vessels, and imported Greek and Etruscan prestige items showing active trade connections with the Mediterranean world. The wealthy graves of 'princes' and 'princesses' (as archaeologists call them, following gender norms that may not reflect ancient reality) show a warrior aristocracy displaying status through feasting equipment and weapons. The Hallstatt culture was ancestral to both the subsequent [[event:1969|Celtic La Tène Culture Early]] La Tène culture and to the historic Celts who spread across Europe, giving their languages and culture to Gaul, Iberia, Britain, and Ireland.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hallstatt_culture",
+    "read_more_links": [
+        {
+            "title": "Hallstatt salt mines archaeology",
+            "url": "https://en.wikipedia.org/wiki/Hallstatt#Salt_mining"
+        },
+        {
+            "title": "Hallstatt princely burials",
+            "url": "https://en.wikipedia.org/wiki/Hallstatt_culture#Elite_burials"
+        },
+        {
+            "title": "Celtic origins Hallstatt",
+            "url": "https://en.wikipedia.org/wiki/Celtic_origins#Hallstatt_and_La_T%C3%A8ne_cultures"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Glauberg_H%C3%BCgel.jpg/300px-Glauberg_H%C3%BCgel.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Glauberg_H%C3%BCgel.jpg",
+            "caption": "Grave mound reconstructed in its original position on the terrain of the Glau...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/A-Hallstatt-Gr%C3%A4berfeld-3.jpg/300px-A-Hallstatt-Gr%C3%A4berfeld-3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/A-Hallstatt-Gr%C3%A4berfeld-3.jpg",
+            "caption": "Schaugrab im Gräberfeld Hallstatt",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bronze_fibula%2C_late_Hallstatt_to_early_La_T%C3%A8ne_art%2C_5th_century_BC%2C_NM_Prague%2C_188176.jpg/300px-Bronze_fibula%2C_late_Hallstatt_to_early_La_T%C3%A8ne_art%2C_5th_century_BC%2C_NM_Prague%2C_188176.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bronze_fibula%2C_late_Hallstatt_to_early_La_T%C3%A8ne_art%2C_5th_century_BC%2C_NM_Prague%2C_188176.jpg",
+            "caption": "Bronze fibula with pendants from Želenice near Slaný (Kladno district). Late ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2015071307_mus%C3%A9e_01.JPG/300px-2015071307_mus%C3%A9e_01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/2015071307_mus%C3%A9e_01.JPG",
+            "caption": "Roue de char",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        }
+    ],
+    "territory_geojson": null
+}

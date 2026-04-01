@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3286,
+    "parent_id": 101,
+    "granularity": "detailed",
+    "content_hash": "sha256:f2da88aaf75ec8315b9c437274f0ff67fd4d8f89975892a0124ba7635e3250ef",
+    "summary": "The Spanish Mission System in the Americas (c. 1570–1820 AD) was the network of Catholic religious communities — primarily established by Franciscan, Dominican, Jesuit, and Augustinian friars — that served as the primary Spanish instrument for converting Indigenous peoples to Christianity and incorporating them into colonial society, stretching from California and Texas through Mexico and Central America to Paraguay and Patagonia. The missions combined religious conversion with economic productivity (the missions became self-sufficient communities producing agricultural and craft goods) and social control (concentrating previously mobile Indigenous populations in fixed settlements). The most celebrated mission complex was the Jesuit Reductions (Reducciones) of Paraguay (1609–1767), where Jesuit fathers created an autonomous society of Guaraní converts with remarkable artistic and musical cultures, eventually expelled by the joint Portuguese-Spanish action that dissolved the Jesuit order's American territories.\n\nThe California Mission System (1769–1833), established by Junípero Serra and the Franciscans along the California coast, is the most familiar to modern Americans. The missions established between San Diego and Sonoma housed thousands of Indigenous Californians in conditions that historians now recognize as extremely harsh — high mortality from disease, disruption of traditional food systems, and coercive labor arrangements that contemporaries debated even at the time. The secularization of California's missions in 1833 (by the newly independent Mexican government) dispersed mission populations onto private ranchos where they often found themselves as peons under conditions little better than slavery. The mission system's architectural legacy — its distinctive Spanish colonial churches — remains prominent throughout the American Southwest and California.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_missions_in_the_Americas",
+    "read_more_links": [
+        {
+            "title": "Jesuit Reductions Paraguay Guarani autonomous society missions",
+            "url": "https://en.wikipedia.org/wiki/Jesuit_reductions"
+        },
+        {
+            "title": "California missions Junipero Serra Franciscan coast chain",
+            "url": "https://en.wikipedia.org/wiki/California_Missions"
+        },
+        {
+            "title": "Mission system Indigenous mortality disease labor control",
+            "url": "https://en.wikipedia.org/wiki/Spanish_missions_in_the_Americas#Effects_on_the_indigenous_population"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Franciscan_missionaries_in_California.jpg/300px-Franciscan_missionaries_in_California.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Franciscan_missionaries_in_California.jpg",
+            "caption": "Franciscans of the California missions wore gray habits, rather than the brow...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/300px-046CupolaSPietro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+            "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pedro_de_Gante.png/300px-Pedro_de_Gante.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pedro_de_Gante.png",
+            "caption": "Fray Pedro de Gante",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Convent_of_Franciscan_Friars_in_Ghent.png/300px-Convent_of_Franciscan_Friars_in_Ghent.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Convent_of_Franciscan_Friars_in_Ghent.png",
+            "caption": "Pedro de Gante living quarters before expedition.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pedro de Gante",
+            "summary": "Franciscan missionary",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Fraypedrodegante.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_de_Gante"
+        },
+        {
+            "name": "Eusebio Kino",
+            "summary": "German-Italian Jesuit missionary (1645–1711)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Padre_Misionero_Francisco_Eusebio_Kino.jpg/250px-Padre_Misionero_Francisco_Eusebio_Kino.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eusebio_Kino"
+        },
+        {
+            "name": "Bartolomé de las Casas",
+            "summary": "Spanish clergyman and writer (1484–1566)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fray_Bartolom%C3%A9_de_las_Casas.jpg/250px-Fray_Bartolom%C3%A9_de_las_Casas.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3535,
+    "parent_id": 2222,
+    "granularity": "detailed",
+    "content_hash": "sha256:0d923ec5a0124d9999cfbe1bc82becac0a31a2413711200f2ba32bfb281eb114",
+    "summary": "Richard I of England (1157–1199 AD), known as Richard the Lionheart (Cœur de Lion), was the dominant military figure of the [[event:2222|Third Crusade]] and one of the most celebrated warrior-kings of the medieval West, whose charismatic battlefield leadership and strategic brilliance recaptured much of the Crusader coastline from [[event:2273|Saladin]] while ultimately failing to retake Jerusalem. Son of [[event:3534|Henry II]] and Eleanor of Aquitaine, Richard was culturally more French than English — he spent only about six months of his ten-year reign in England, viewing the kingdom primarily as a financial resource to fund his crusading ambitions. He raised enormous sums to finance the Third Crusade by selling offices, titles, and royal rights, reportedly joking that he would sell London itself if he could find a buyer.\n\nRichard's military accomplishments in the Holy Land were extraordinary. His victory at the Battle of Arsuf (1191) — where disciplined Crusader infantry withstood repeated Saracen cavalry charges before a controlled counterattack routed Saladin's forces — was a masterclass in medieval tactical command. He captured Acre and advanced along the coast to within sight of Jerusalem twice, but concluded both times that he could not hold Jerusalem even if he took it without the military resources to defend it. His negotiations with Saladin produced a treaty (Treaty of Jaffa, 1192) allowing Christian pilgrims access to Jerusalem while leaving the city under Muslim control — a pragmatic compromise bitterly received in Europe. Returning from the crusade, Richard was captured by Duke Leopold of Austria and held for ransom (150,000 silver marks — twice England's annual revenue), a crisis that tested English administrative resilience. He died in 1199 from a crossbow bolt at a minor siege in France, and his legendary status as the chivalric king was memorialized in the Robin Hood tradition.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+    "read_more_links": [
+        {
+            "title": "Richard Lionheart Third Crusade military campaigns",
+            "url": "https://en.wikipedia.org/wiki/Richard_I_of_England#Third_Crusade"
+        },
+        {
+            "title": "Battle of Arsuf 1191 Richard Saladin",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Arsuf"
+        },
+        {
+            "title": "Treaty of Jaffa 1192 Jerusalem access pilgrims",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1192)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Richard_the_first.jpg/300px-Richard_the_first.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Richard_the_first.jpg",
+            "caption": "Richard Coeur de Lion by Carlo Marochetti, an equestrian statue depicting Ric...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Seal_-_Richard_I_of_England.jpg/300px-Seal_-_Richard_I_of_England.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seal_-_Richard_I_of_England.jpg",
+            "caption": "Counter seal (1195) of Richard I of England (1189-1199). Inscription: RICHARD...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gisant_Richard_C%C5%93ur_de_Lion3.JPG/300px-Gisant_Richard_C%C5%93ur_de_Lion3.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Gisant_Richard_C%C5%93ur_de_Lion3.JPG",
+            "caption": "Détail du gisant de Richard Cœur de Lion.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Silver_penny_of_Richard_I_%28YORYM_2000_2147%29_obverse.jpg/300px-Silver_penny_of_Richard_I_%28YORYM_2000_2147%29_obverse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Silver_penny_of_Richard_I_%28YORYM_2000_2147%29_obverse.jpg",
+            "caption": "Obverse (front) of a silver penny of w: Richard I of England head facing forward",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Henry II of England",
+            "summary": "King of England from 1154 to 1189",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Henry_II_Illumination.jpg/250px-Henry_II_Illumination.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_II_of_England"
+        },
+        {
+            "name": "Eleanor of Aquitaine",
+            "summary": "Queen of France (1137–52) and England (1154–89); Duchess of Aquitaine (1137–1204)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Church_of_Fontevraud_Abbey_Eleanor_of_Aquitaine_effigy.jpg/250px-Church_of_Fontevraud_Abbey_Eleanor_of_Aquitaine_effigy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        },
+        {
+            "name": "William de Longchamp",
+            "summary": "12th century Chancellor and Justiciar of England, Bishop of Ely",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ely-071.jpg/250px-Ely-071.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_de_Longchamp"
+        },
+        {
+            "name": "John, King of England",
+            "summary": "King of England from 1199 to 1216",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Jan_tomb.jpg/250px-Jan_tomb.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John%2C_King_of_England"
+        },
+        {
+            "name": "Berengaria of Navarre",
+            "summary": "Queen of England from 1191 to 1199",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Abbaye_de_l%27Epau_-2.JPG/250px-Abbaye_de_l%27Epau_-2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Berengaria_of_Navarre"
+        },
+        {
+            "name": "Troubadour",
+            "summary": "Composer and performer of lyric poetry during the High Middle Ages",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BnF_ms._854_fol._49_-_Perdigon_%281%29.jpg/250px-BnF_ms._854_fol._49_-_Perdigon_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Troubadour"
+        }
+    ],
+    "territory_geojson": null
+}

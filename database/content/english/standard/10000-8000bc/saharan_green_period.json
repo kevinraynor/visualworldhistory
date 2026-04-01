@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 17,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:17e2e6363a2122be26d1ff7b79f542a8a8933d60b3bd8050187409035fdf0c29",
+    "summary": "The African Humid Period, widely known as the Green Sahara or Saharan Green Period, was a prolonged climatic episode lasting from approximately 11,000 to 5,000 years ago during which the Sahara Desert — today the world's largest hot desert — was transformed into a verdant landscape of grasslands, lakes, rivers, and scattered woodlands. This dramatic greening was driven primarily by changes in Earth's orbital parameters that intensified the West African Monsoon, dramatically increasing rainfall across North Africa. At its peak, the region supported an array of large mammals including hippopotami, crocodiles, elephants, and various species of antelope in areas now covered by trackless sand.\n\nHuman populations responded to this ecological window by expanding across the Sahara in large numbers. Rock art found across sites in Libya, Algeria, Niger, and Chad — particularly in the Tassili n'Ajjer, Fezzan, and Acacus Mountains regions — depicts scenes of hunting, cattle herding, and daily life among communities that thrived in what is now one of Earth's most inhospitable environments. These paintings and engravings constitute some of the richest bodies of prehistoric art in the world and provide a vivid record of human adaptation to the Green Sahara.\n\nThe Green Sahara also facilitated the development and spread of [[event:23|cattle pastoralism in Africa]]. Communities in the central and eastern Sahara domesticated or adopted cattle herding as a way of life adapted to the semi-arid grasslands, and this pastoral tradition spread southward into sub-Saharan Africa as the green period waned. The genetic and cultural legacy of these Saharan pastoralists can be traced in populations across the African continent today.\n\nThe gradual drying of the Sahara after approximately 5500 to 5000 BCE had profound consequences for human history. As the region became increasingly arid, populations moved toward the remaining reliable water sources — most dramatically toward the Nile Valley, where the influx of population contributed to the demographic conditions that enabled the emergence of [[event:19|early farming and eventually complex civilization in Egypt]]. The Green Sahara period thus shaped North African and Northeast African history long after the desert returned.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/African_humid_period",
+    "read_more_links": [
+        {
+            "title": "Sahara - Britannica",
+            "url": "https://www.britannica.com/place/Sahara"
+        },
+        {
+            "title": "Tassili n'Ajjer Rock Art - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tassili_n%27Ajjer"
+        },
+        {
+            "title": "Green Sahara Overview - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Green_Sahara"
+        },
+        {
+            "title": "Prehistoric North Africa - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_North_Africa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sahara_satellite_hires.jpg/300px-Sahara_satellite_hires.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sahara_satellite_hires.jpg",
+            "caption": "Sahara desert from space.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Journal.pone.0076514.g004.png/300px-Journal.pone.0076514.g004.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Journal.pone.0076514.g004.png",
+            "caption": "and early en:Holocene climate and vegetation of Africa",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ounianga_Lakes_from_ISS.jpg/300px-Ounianga_Lakes_from_ISS.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ounianga_Lakes_from_ISS.jpg",
+            "caption": "Ounianga Sérir group. This astronaut photograph features one of the largest o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Heinrich Barth",
+            "summary": "German explorer (1821–1865)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Barth_Unterschrift.jpg/250px-Barth_Unterschrift.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Barth"
+        }
+    ],
+    "territory_geojson": null
+}

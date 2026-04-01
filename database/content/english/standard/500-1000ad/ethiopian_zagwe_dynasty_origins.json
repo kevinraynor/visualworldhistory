@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2215,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6c284373cd3343a0d9096d329ac18608f81b14222ea66fa1765975c4b7daf28a",
+    "summary": "The origins of the Zagwe Dynasty (c. 900–1270 AD) mark a major transition in Ethiopian history, as power shifted from the declining [[event:3829|Aksumite Empire]] to a new ruling house based in the Lasta region of central Ethiopia. The Zagwe rulers were Agaw people — a Cushitic group distinct from the Semitic Aksumite ruling class — who had been clients and subordinates of Aksum and gradually consolidated power as Aksumite authority weakened under the pressure of Muslim commercial dominance over Red Sea trade routes in the 7th–9th centuries.\n\nThe Zagwe Dynasty is best known for its extraordinary religious monuments: the rock-hewn churches of Lalibela, carved entirely from solid volcanic rock at the direction of King Lalibela (reigned c. 1181–1221), who according to tradition was instructed by God to build a 'New Jerusalem' in Ethiopia. These eleven monolithic churches, with their connecting tunnels, drainage systems, and ceremonial spaces, represent one of the great architectural achievements of medieval Africa and remain active places of Christian worship and pilgrimage to this day. The Zagwe maintained the Ethiopian Orthodox Christian tradition inherited from Aksum, preserving a Semitic-language Christian kingdom in the Horn of Africa through a period when Islam was rapidly expanding across the surrounding regions. The dynasty was eventually overthrown around 1270 by Yekuno Amlak, who claimed descent from the ancient Solomonic line and founded the Solomonic dynasty that ruled Ethiopia until 1974.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zagwe_dynasty",
+    "read_more_links": [
+        {
+            "title": "Lalibela rock-hewn churches Ethiopia",
+            "url": "https://en.wikipedia.org/wiki/Rock-hewn_churches_of_Lalibela"
+        },
+        {
+            "title": "King Lalibela New Jerusalem",
+            "url": "https://en.wikipedia.org/wiki/Lalibela"
+        },
+        {
+            "title": "Ethiopian Orthodox Christianity Zagwe",
+            "url": "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Yemerehne_kristos%2C_interno%2C_affreschi_e_decorazioni_del_xii_secolo_03_leopardo_%28cropped%29.jpg/300px-Yemerehne_kristos%2C_interno%2C_affreschi_e_decorazioni_del_xii_secolo_03_leopardo_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Yemerehne_kristos%2C_interno%2C_affreschi_e_decorazioni_del_xii_secolo_03_leopardo_%28cropped%29.jpg",
+            "caption": "Yemrehanna Krestos - Interior",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ethiopian_-_Processional_Cross_-_Walters_542889.jpg/300px-Ethiopian_-_Processional_Cross_-_Walters_542889.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ethiopian_-_Processional_Cross_-_Walters_542889.jpg",
+            "caption": "This rare, early cross is composed of two central crosses enclosed within a p...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bete_Ghiorghis_%28Huis_van_de_heilige_George%29%2C_de_best_bewaard_gebleven_kerk_%286821637099%29.jpg/300px-Bete_Ghiorghis_%28Huis_van_de_heilige_George%29%2C_de_best_bewaard_gebleven_kerk_%286821637099%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bete_Ghiorghis_%28Huis_van_de_heilige_George%29%2C_de_best_bewaard_gebleven_kerk_%286821637099%29.jpg",
+            "caption": "Bete Ghiorghis (Huis van de heilige George), de best bewaard gebleven kerk",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tantawedam_land_grant%2C_Ethiopia.jpg/300px-Tantawedam_land_grant%2C_Ethiopia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tantawedam_land_grant%2C_Ethiopia.jpg",
+            "caption": "Copy of a land grant of king Tantawedam, a Zagwe king who probably lived in t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Yekuno Amlak",
+            "summary": "Emperor of Ethiopia from 1270 to 1285",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yekuno_Amlak.png/250px-Yekuno_Amlak.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yekuno_Amlak"
+        },
+        {
+            "name": "Gebre Meskel Lalibela",
+            "summary": "King of Zagwe dynasty from 1181 to 1221",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gebre_Mesqel_Lalibela.png/250px-Gebre_Mesqel_Lalibela.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gebre_Meskel_Lalibela"
+        },
+        {
+            "name": "Gudit",
+            "summary": "Queen of the Kingdom of Semien in the 10th-11th century",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ethio_w12.jpg/250px-Ethio_w12.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gudit"
+        }
+    ],
+    "territory_geojson": null
+}

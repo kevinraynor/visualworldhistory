@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2297,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:1ff7cc239765ed5744d738c3ffb5a28f9085452bcf1f47b6840c140f22706279",
+    "summary": "The Wars of the Roses (1455–1485 AD) were a series of civil wars for the English throne between the rival royal houses of Lancaster (whose badge was a red rose) and York (white rose), fought during the reigns of the weak Lancastrian King Henry VI and the subsequent Yorkist and then Tudor monarchs, representing the final convulsion of the medieval English nobility before the Tudor dynasty established more centralized royal authority. The wars were primarily a conflict within the English aristocracy — fought by armies of noble retinues rather than conscript forces — and had more limited civilian impact than comparable continental conflicts.\n\nThe conflict's origins lay in the disputed succession following the Lancastrian line's weakness: Henry VI suffered from mental illness (catatonic episodes) and was a manifestly poor ruler, creating openings for the Yorkist claimant Richard Duke of York. The wars produced dramatic reversals of fortune — the deposition of Henry VI twice, the brief reign of Edward IV, the mysterious disappearance of the 'Princes in the Tower' under Richard III — that Shakespeare dramatized in his history plays, creating the most influential historical mythology in the English language. The wars ended at Bosworth Field (1485) when the Lancastrian claimant Henry Tudor defeated and killed Richard III, founding the Tudor Dynasty as Henry VII. Henry's marriage to Elizabeth of York united the rival roses and ended the conflict. The wars decimated many old noble families through battle casualties and subsequent attainders, inadvertently strengthening royal authority by reducing the power of the great magnates who had made the monarchy vulnerable.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wars_of_the_Roses",
+    "read_more_links": [
+        {
+            "title": "Battle Bosworth Field Henry Tudor victory",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field"
+        },
+        {
+            "title": "Princes Tower Richard III mystery",
+            "url": "https://en.wikipedia.org/wiki/Princes_in_the_Tower"
+        },
+        {
+            "title": "Shakespeare history plays Wars Roses",
+            "url": "https://en.wikipedia.org/wiki/Wars_of_the_Roses_in_fiction"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/King_Edward_IV.jpg/300px-King_Edward_IV.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/King_Edward_IV.jpg",
+            "caption": "Listed by the National Portrait Gallery as painted by an \"Unknown English art...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_Princes_in_the_Tower_by_John_Everett_Millais_%281878%29.png/300px-The_Princes_in_the_Tower_by_John_Everett_Millais_%281878%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/The_Princes_in_the_Tower_by_John_Everett_Millais_%281878%29.png",
+            "caption": "\"The Princes in the Tower\". The two princes are Richard of Shrewsbury (left) ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beheading_duke_somerset.jpg/300px-Beheading_duke_somerset.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Beheading_duke_somerset.jpg",
+            "caption": "Beheading of the Edmund Beaufort, 4th Duke of Somerset in 1471 at Tewkesbury....",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Indenture_1723.jpg/300px-Indenture_1723.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Indenture_1723.jpg",
+            "caption": "One half of an indenture document dated 24 June 1723, the ninth year of the r...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Edward IV",
+            "summary": "King of England (1461–70, 1471–83)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/King_Edward_IV.jpg/250px-King_Edward_IV.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_IV"
+        },
+        {
+            "name": "Henry VII of England",
+            "summary": "King of England from 1485 to 1509",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg/250px-Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_VII_of_England"
+        },
+        {
+            "name": "Pierre Landais",
+            "summary": "Breton politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pierre-Landais.jpg/250px-Pierre-Landais.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_Landais"
+        },
+        {
+            "name": "Henry VI of England",
+            "summary": "King of England (1422–61, 1470–71)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Henry_VI_of_England%2C_Shrewsbury_book.jpg/250px-Henry_VI_of_England%2C_Shrewsbury_book.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_VI_of_England"
+        },
+        {
+            "name": "Margaret of Anjou",
+            "summary": "Queen of England (1445–1461, 1470–1471)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MargaretAnjou.jpg/250px-MargaretAnjou.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_of_Anjou"
+        },
+        {
+            "name": "Edward V",
+            "summary": "King of England in 1483",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/King-edward-v.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_V"
+        }
+    ],
+    "territory_geojson": null
+}

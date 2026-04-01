@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1190,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:02a7baada48250f0d5b58dc6d0d131732c9a5c2910f56e3cde628deba4be7da5",
+    "summary": "Herodotus (c. 484–425 BC), called the 'Father of History' by Cicero, was the Greek historian who wrote the Histories — the first surviving prose work to treat its subject in a systematic, investigative manner, covering the [[event:1001|Greco-Persian Wars]] and the peoples, customs, and geography of the known world in extraordinary breadth and vivid detail.\n\nHerodotus of Halicarnassus (modern Bodrum, Turkey) traveled extensively throughout the Greek world, Egypt, Mesopotamia, Scythia, and the eastern Mediterranean, interviewing local informants and recording what he saw and heard. His method — combining autopsy (personal observation), oral testimony, and existing traditions — constitutes a genuine historical methodology even when his conclusions are incorrect. He distinguished between what he had seen himself, what he had heard from reliable sources, and what was legendary. His narrative style is episodic, digressive, and entertaining, embedding the [[event:1001|Greco-Persian Wars]] narrative within ethnographic essays on the customs of Egyptians, Persians, Scythians, and dozens of other peoples. His work created both the genre of history and the idea of cultural relativism — that other peoples' customs, however strange, make sense within their own context. His successor [[event:1222|Thucydides History]]'s Thucydides rejected his storytelling approach in favor of political and military analysis.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus",
+    "read_more_links": [
+        {
+            "title": "The Histories (Herodotus)",
+            "url": "https://en.wikipedia.org/wiki/Histories_(Herodotus)"
+        },
+        {
+            "title": "Ancient Greek historiography",
+            "url": "https://en.wikipedia.org/wiki/Greek_historiography"
+        },
+        {
+            "title": "Herodotus accuracy debate",
+            "url": "https://en.wikipedia.org/wiki/Herodotus#Reliability"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HERODOTUS%281897%29_p2.387_THE_WORLD_ACCORDING_TO_HERDOTUS.jpg/300px-HERODOTUS%281897%29_p2.387_THE_WORLD_ACCORDING_TO_HERDOTUS.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/HERODOTUS%281897%29_p2.387_THE_WORLD_ACCORDING_TO_HERDOTUS.jpg",
+            "caption": "HERODOTUS(1897) p2.387 THE WORLD ACCORDING TO HERDOTUS",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/300px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "caption": "Roman; Portrait bust of Herodotos; Stone Sculpture",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Herodotusstatue.JPG/300px-Herodotusstatue.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Herodotusstatue.JPG",
+            "caption": "This picture was taken May 22, 2004. -monsieurdl",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Panyassis",
+            "summary": "5th-century BC Greek epic poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Paniasis_de_Halicarnaso.JPG/250px-Paniasis_de_Halicarnaso.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Panyassis"
+        },
+        {
+            "name": "Cyrus the Great",
+            "summary": "Founder of the Achaemenid Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/250px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+        },
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "George Rawlinson",
+            "summary": "British historian and clergyman (1812–1902)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/GeorgeRawlinson.jpg/250px-GeorgeRawlinson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Rawlinson"
+        },
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        }
+    ],
+    "territory_geojson": null
+}

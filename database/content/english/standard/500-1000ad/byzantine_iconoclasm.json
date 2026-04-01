@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2204,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:19d95178adf26c4cf6d6e91688b2bf1705cde3db08cb4ccecd103230f7f95eef",
+    "summary": "Byzantine Iconoclasm (726–843 AD, in two phases) was the most divisive religious controversy in Byzantine history — the imperial ban on the veneration of religious images (icons), defended by the Iconoclast emperors (beginning with Leo III in 726 AD) as idolatry forbidden by scripture, and fiercely opposed by the Iconophile ('icon-loving') faction including most monks, many western bishops, and the papacy. The controversy divided the empire, produced martyrs on both sides, physically destroyed enormous quantities of Byzantine art, and significantly widened the rift between the Eastern and Western churches.\n\nThe [[event:3525|Second Council of Nicaea]] (787 AD) temporarily ended the first phase of iconoclasm by restoring icon veneration, but a second phase began in 815 AD. The final restoration of icons in 843 AD (the 'Triumph of Orthodoxy,' still celebrated in the Eastern Orthodox Church on the first Sunday of Lent) definitively ended iconoclasm and established the theology of icon veneration that remains central to Orthodox Christianity. The iconoclast period produced important theology on both sides: John of Damascus wrote brilliant defenses of image veneration; the iconoclasts produced significant theological arguments. The controversy's political dimensions were complex: iconoclasm may have been influenced by Islamic and Jewish anti-image traditions, and may have been partly a response to Arab military success (interpreted as divine punishment for idolatry). The iconoclast emperors were generally more successful militarily, while iconophile periods coincided with more internal focus.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Byzantine_Iconoclasm",
+    "read_more_links": [
+        {
+            "title": "John of Damascus icons defense",
+            "url": "https://en.wikipedia.org/wiki/John_of_Damascus"
+        },
+        {
+            "title": "Second Council of Nicaea 787",
+            "url": "https://en.wikipedia.org/wiki/Second_Council_of_Nicaea"
+        },
+        {
+            "title": "Triumph of Orthodoxy 843",
+            "url": "https://en.wikipedia.org/wiki/Triumph_of_Orthodoxy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Triumph_orthodoxy.jpg/300px-Triumph_orthodoxy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Triumph_orthodoxy.jpg",
+            "caption": "Late 14th-early 15th century icon illustrating the \"Triumph of Orthodoxy\" und...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/48-manasses-chronicle.jpg/300px-48-manasses-chronicle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/48-manasses-chronicle.jpg",
+            "caption": "Miniature 48 from the Constantine Manasses Chronicle, 14 century: Destruction...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Irenekirken.jpg/300px-Irenekirken.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Irenekirken.jpg",
+            "caption": "Irenekirken",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Chludov_Nikephoros_I_of_Constantinople.jpg/300px-Chludov_Nikephoros_I_of_Constantinople.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Chludov_Nikephoros_I_of_Constantinople.jpg",
+            "caption": "Nikephoros I of Constantinople trample on John VII of Constantinople, who is ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leo III the Isaurian",
+            "summary": "Byzantine emperor from 717 to 741",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Solidus_of_Leo_III_sb1504.png/250px-Solidus_of_Leo_III_sb1504.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_III_the_Isaurian"
+        },
+        {
+            "name": "Arnold J. Toynbee",
+            "summary": "British historian (1889–1975)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arnold_J._Toynbee_Anefo.jpg/250px-Arnold_J._Toynbee_Anefo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arnold_J._Toynbee"
+        },
+        {
+            "name": "Justinian I",
+            "summary": "Roman emperor from 527 to 565",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/250px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justinian_I"
+        },
+        {
+            "name": "Veil of Veronica",
+            "summary": "Sweat cloth relic of Saint Veronica",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hans_Memling_026.jpg/250px-Hans_Memling_026.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Veil_of_Veronica"
+        },
+        {
+            "name": "Justinian II",
+            "summary": "Byzantine emperor from 685 to 695 and 705 to 711",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Justinian_ii_%282%29.png/250px-Justinian_ii_%282%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justinian_II"
+        },
+        {
+            "name": "Abd al-Malik ibn Marwan",
+            "summary": "Umayyad caliph from 685 to 705",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/First_Umayyad_gold_dinar%2C_Caliph_Abd_al-Malik%2C_695_CE.jpg/250px-First_Umayyad_gold_dinar%2C_Caliph_Abd_al-Malik%2C_695_CE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abd_al-Malik_ibn_Marwan"
+        }
+    ],
+    "territory_geojson": null
+}

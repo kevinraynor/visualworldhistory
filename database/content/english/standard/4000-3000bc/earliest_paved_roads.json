@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1703,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:be4a6c0814845582b838b1937b7cd4bc0b2a7ff80ee8fdfada5096a348f845da",
+    "summary": "Among the earliest known paved roads in the world is a limestone-surfaced road in Egypt, dating to approximately 2600–2500 BCE, used to transport large stone blocks from a basalt quarry to the Nile. However, evidence of stone-paved pathways and urban street surfaces appears at Mesopotamian and Indus Valley sites from the fourth millennium BCE onward, including paved drainage systems at Harappan cities such as [[event:1681|Mohenjo-daro]]. In Mesopotamia, urban streets during the [[event:1617|Uruk period]] were often unpaved but well defined by the arrangement of mudbrick buildings.\n\nEarly paved roads served primarily to facilitate the movement of goods, particularly by wheeled vehicles and draft animals, and to manage runoff within urban environments. The cognitive and organizational leap represented by deliberately prepared road surfaces — which required planning, resource allocation, and communal labor — is one indicator of the increasing administrative sophistication of early cities. Road infrastructure in the ancient world would eventually become one of the defining tools of imperial expansion and economic integration.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Road#History",
+    "read_more_links": [
+        {
+            "title": "Ancient Roads - Britannica",
+            "url": "https://www.britannica.com/technology/road"
+        },
+        {
+            "title": "Egyptian Road to the Pyramids - National Geographic",
+            "url": "https://www.nationalgeographic.com/"
+        },
+        {
+            "title": "Urban Planning in Antiquity - Oxford Handbooks",
+            "url": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199589425.001.0001/oxfordhb-9780199589425"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Truck_for_bitumen_removal_%28retexturing%29_by_Smets_Technology.jpg/300px-Truck_for_bitumen_removal_%28retexturing%29_by_Smets_Technology.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Truck_for_bitumen_removal_%28retexturing%29_by_Smets_Technology.jpg",
+            "caption": "Truck for bitumen removal (retexturing) by Smets Technology",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Appian_Way.jpg/300px-Appian_Way.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Appian_Way.jpg",
+            "caption": "Appian Way, near Casal Rotondo",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erlangen_Bundesautobahn_73_Auffahrt_Luftbild-20230422-RM-165734.jpg/300px-Erlangen_Bundesautobahn_73_Auffahrt_Luftbild-20230422-RM-165734.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Erlangen_Bundesautobahn_73_Auffahrt_Luftbild-20230422-RM-165734.jpg",
+            "caption": "Freeway slip road A 73 Erlangen, aerial view",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Snowy_road_in_Tieringen%2C_Baden-W%C3%BCrttemberg.jpg/300px-Snowy_road_in_Tieringen%2C_Baden-W%C3%BCrttemberg.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Snowy_road_in_Tieringen%2C_Baden-W%C3%BCrttemberg.jpg",
+            "caption": "Schneebedeckte Straße in Tieringen, Baden-Württemberg",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

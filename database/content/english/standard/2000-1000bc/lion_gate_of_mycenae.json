@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1896,
+    "parent_id": 57,
+    "granularity": "detailed",
+    "content_hash": "sha256:8fbc5e2cb8c0b5bbbab583e2dbb351c12a940c21d61cad16457fe1979e16d73c",
+    "summary": "The Lion Gate of Mycenae, constructed around 1250 BC, is the main entrance to the Bronze Age citadel of [[event:57|Mycenae]] on the Argive plain of the northeastern Peloponnese in Greece. It is the oldest surviving monumental sculptural work in Europe, featuring a relief carving above the massive stone lintel showing two lions (or lionesses) facing each other with their forelegs resting on a column, an image that has been interpreted as a heraldic symbol of Mycenaean royal power and religious significance. The gate structure is built in the massive Cyclopean masonry style characteristic of Mycenaean fortifications.\n\nThe Lion Gate was constructed as part of the major expansion and fortification of the Mycenae citadel during the thirteenth century BC, a period of significant construction at many Mycenaean centers that may reflect increasing political tensions. The stone threshold, lintel, and relieving triangle containing the sculpture are among the largest stones in any Greek Bronze Age structure. The design of the gate, with the heraldic lions flanking a column that likely represents a deity or divine presence, reflects the religious and political ideology of the Mycenaean palace culture.\n\nThe discovery and excavation of Mycenae by Heinrich Schliemann beginning in 1876 brought the Lion Gate to international attention. The gate remained visible above ground throughout antiquity and the medieval period, contributing to local legends about the giant Cyclopes who supposedly built such massive walls. It became one of the emblematic monuments of ancient Greece and remains the best-known architectural feature of Mycenaean civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lion_Gate",
+    "read_more_links": [
+        {
+            "title": "Mycenae - Britannica",
+            "url": "https://www.britannica.com/place/Mycenae"
+        },
+        {
+            "title": "Mycenaean Architecture",
+            "url": "https://en.wikipedia.org/wiki/Mycenaean_architecture"
+        },
+        {
+            "title": "Cyclopean Masonry",
+            "url": "https://en.wikipedia.org/wiki/Cyclopean_masonry"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Parthenon_%2830276156187%29.jpg/300px-Parthenon_%2830276156187%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Parthenon_%2830276156187%29.jpg",
+            "caption": "Parthenon",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Lion_Gate_-_Mycenae_by_Joy_of_Museums.jpg/300px-Lion_Gate_-_Mycenae_by_Joy_of_Museums.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lion_Gate_-_Mycenae_by_Joy_of_Museums.jpg",
+            "caption": "Lion Gate - Mycenae by Joy of Museums, for information, see www.joyofmuseums.com",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Facade_of_Philip_II_tomb_Vergina_Greece.jpg/300px-Facade_of_Philip_II_tomb_Vergina_Greece.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Facade_of_Philip_II_tomb_Vergina_Greece.jpg",
+            "caption": "Facade of Philip II of Macedon tomb in Vergina, Greece. The door is made of m...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Underwood_%26_Underwood_-_The_Lion_Gate_at_Mycenae_-_Google_Art_Project.jpg/300px-Underwood_%26_Underwood_-_The_Lion_Gate_at_Mycenae_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Underwood_%26_Underwood_-_The_Lion_Gate_at_Mycenae_-_Google_Art_Project.jpg",
+            "caption": "Underwood & Underwood - The Lion Gate at Mycenae - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Peribolos",
+            "summary": "Enclosure in ancient Greek and Roman architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kalaureia_temple_peribolos.jpg/250px-Kalaureia_temple_peribolos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peribolos"
+        },
+        {
+            "name": "Propylon",
+            "summary": "Monumental gateway in Ancient Greek architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Propylaea_and_Temple_of_Athena_Nike_at_the_Acropolis_%28Pierer%29.jpg/250px-Propylaea_and_Temple_of_Athena_Nike_at_the_Acropolis_%28Pierer%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Propylon"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        },
+        {
+            "name": "Royal Institute of British Architects",
+            "summary": "UK professional body for architects",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cmglee_Royal_Institute_of_British_Architects.jpg/250px-Cmglee_Royal_Institute_of_British_Architects.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Institute_of_British_Architects"
+        }
+    ],
+    "territory_geojson": null
+}

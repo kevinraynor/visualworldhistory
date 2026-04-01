@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1745,
+    "parent_id": 46,
+    "granularity": "detailed",
+    "content_hash": "sha256:e044388d1d77c48a4f9e7b792170962bbbaddf58cbf02a59cc4c9d2c16452a28",
+    "summary": "The [[event:46|Indus Valley Civilisation]], at its height approximately 2600–2000 BC, possessed the most advanced urban sanitation system in the ancient world — a distinction that remains remarkable even by the standards of much later civilisations. The cities of Mohenjo-daro, Harappa, Dholavira, and dozens of other Indus towns were equipped with elaborate drainage systems, covered sewers, and standardised toilet and bathing facilities that were integrated into nearly every residential structure.\n\nThe typical Indus dwelling included a bathroom or washing area with a sloping floor that drained into a covered street drain running along the main thoroughfares. These drains, constructed from precisely cut and fitted brick, were regularly spaced with inspection pits that allowed workers to access and clean them. Waste water from individual houses flowed through these street drains and ultimately into larger channels that carried it outside the city. The degree to which this system was standardised — with bricks of uniform size, consistent drain dimensions, and organised maintenance infrastructure — implies a level of urban planning and civic administration unprecedented in the ancient world.\n\nThe Indus sanitation infrastructure is particularly striking in comparison to contemporary civilisations. While the cities of Mesopotamia and Egypt had advanced in many other areas, they did not develop equivalent urban sanitation systems. The Indus cities also possessed large public bathing facilities, the most famous being the Great Bath at Mohenjo-daro, which may have had ritual as well as hygienic functions. The Indus commitment to clean water and waste removal remains one of the most distinctive and impressive features of this civilisation, and it suggests a governing philosophy that valued public health alongside monumental construction and administrative organisation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation",
+    "read_more_links": [
+        {
+            "title": "Mohenjo-daro",
+            "url": "https://en.wikipedia.org/wiki/Mohenjo-daro"
+        },
+        {
+            "title": "Great Bath, Mohenjo-daro",
+            "url": "https://en.wikipedia.org/wiki/Great_Bath,_Mohenjo-daro"
+        },
+        {
+            "title": "Indus Valley Civilisation",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lothal_-_ancient_well.jpg/300px-Lothal_-_ancient_well.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Lothal_-_ancient_well.jpg",
+            "caption": "An ancient well, and the city drainage canals, in the upper town of the site ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lothal_-_bathroom_structure.jpg/300px-Lothal_-_bathroom_structure.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Lothal_-_bathroom_structure.jpg",
+            "caption": "The bathroom-toilet structure of houses in Lothal, India",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Great_bath_view_Mohenjodaro.JPG/300px-Great_bath_view_Mohenjodaro.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Great_bath_view_Mohenjodaro.JPG",
+            "caption": "The Great Bath. A 2.4m deep, 12m long, and 7m wide pool known as \"The Great B...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dholavira1.JPG/300px-Dholavira1.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Dholavira1.JPG",
+            "caption": "Archaeological dig at Dholavira.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Harappan architecture",
+            "summary": "Bronze Age Indus Valley architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mohenjo-daro.jpg/250px-Mohenjo-daro.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harappan_architecture"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,60 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1479,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7a39243cb1c021c74dfb341bbd67c708e03d22fbebeb3600535982c13c124c0d",
+    "summary": "The Storegga Slide was a massive submarine landslide that occurred approximately 8,150 years ago (c. 6100 BCE) off the coast of Norway, generating a devastating tsunami that struck coastlines across the North Sea and North Atlantic. The landslide involved the collapse of roughly 3,500 cubic kilometers of sediment from the edge of the Norwegian continental shelf — one of the largest submarine landslides known in the geological record — and the resulting waves reached heights of up to 25 meters in some coastal areas of Norway, 20 meters in the Shetland Islands, and 5 to 10 meters along the Scottish and Icelandic coasts.\n\nThe human consequences of the Storegga tsunami were severe for the coastal and lowland communities of the North Sea region. At this time, much of what is now the bed of the southern North Sea — the remnant of the post-glacial land known as Doggerland — was still above water, supporting Mesolithic hunter-gatherer communities in a rich, low-lying landscape of rivers, marshes, and forested terrain. The tsunami's wave surge across this flat terrain would have been catastrophic, potentially wiping out large areas of inhabited land and significantly contributing to the eventual disappearance of Doggerland beneath the rising sea.\n\nSedimentological evidence for the Storegga tsunami has been found at many sites around the North Sea coast, including in Scotland and Norway, in the form of distinctive layers of marine sand deposited far above normal sea level. This evidence allows geologists and archaeologists to document the event's extent and height with considerable precision. The Storegga Slide serves as a powerful reminder of the catastrophic natural events that punctuated the lives of prehistoric peoples and that the sea level rise of the early Holocene was not a uniform, gradual process but was interrupted by sudden inundations of this kind.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Storegga_Slide",
+    "read_more_links": [
+        {
+            "title": "Doggerland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Doggerland"
+        },
+        {
+            "title": "Tsunami Geology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tsunami"
+        },
+        {
+            "title": "Submarine Landslide - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Submarine_landslide"
+        },
+        {
+            "title": "North Sea Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/North_Sea"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Storegga_tsunami_deposits%2C_Montrose_basin_%28Maryton%29.jpg/300px-Storegga_tsunami_deposits%2C_Montrose_basin_%28Maryton%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Storegga_tsunami_deposits%2C_Montrose_basin_%28Maryton%29.jpg",
+            "caption": "Image showing the Storegga tsunami deposits, bracketed by peat, taken at the ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/StoreggaFLCommonsZone.jpg/300px-StoreggaFLCommonsZone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/StoreggaFLCommonsZone.jpg",
+            "caption": "Storegga Slides are considered to be amongst the largest known landslides. Th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/StoreggaFLCommonsZone2OK.jpg/300px-StoreggaFLCommonsZone2OK.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/StoreggaFLCommonsZone2OK.jpg",
+            "caption": "Position of the  Storegga Slide (west of Norway). The yellow numbers give the...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Møre og Romsdal",
+            "summary": "County in Western Norway",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Norway_Counties_M%C3%B8re_og_Romsdal_Position.svg/250px-Norway_Counties_M%C3%B8re_og_Romsdal_Position.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%B8re_og_Romsdal"
+        }
+    ],
+    "territory_geojson": null
+}

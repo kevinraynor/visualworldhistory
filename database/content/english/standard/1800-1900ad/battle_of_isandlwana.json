@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2595,
+    "parent_id": 2594,
+    "granularity": "detailed",
+    "content_hash": "sha256:1c4a36973d550341e665e95985f633469adff4d44e39695ab14b5493fcc51b2f",
+    "summary": "The Battle of Isandlwana on 22 January 1879 was the opening battle of the [[event:2594|Anglo-Zulu War]] and one of the most devastating defeats ever suffered by the British Army in colonial warfare. A Zulu force of approximately 20,000 warriors, under the command of Chief Ntshingwayo kaMahole, discovered and attacked a British column commanded by Lord Chelmsford at the rocky ridge of Isandlwana in Zululand.\n\nThe disaster was partly caused by British overconfidence and poor tactical dispositions. Lord Chelmsford had divided his force and was away from the camp when the Zulu attack came. The British soldiers, their ammunition supply hampered by inaccessible ammunition boxes and a thin defensive perimeter, were encircled by the Zulu 'bull horn' (impondo zankomo) formation, which sent two flanking 'horns' around the British position while the 'chest' engaged frontally. Despite inflicting very heavy casualties on the attacking Zulus, the defenders were overwhelmed and the camp overrun. Of approximately 1,750 British and allied soldiers in the camp, fewer than 400 survived.\n\nThe scale of the defeat — approximately 1,300 British and native troops killed — shocked Victorian Britain and required considerable military and political explanation. The immediate response was to reinforce heavily and demand retribution. The Zulu victory demonstrated that African military systems, given tactical advantage, could defeat modern European armies equipped with rifles and artillery. Isandlwana stands as one of the most studied engagements in African military history and a monument to the effectiveness of Zulu military organization and courage.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Isandlwana",
+    "read_more_links": [
+        {
+            "title": "Battle of Isandlwana – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Isandlwana"
+        },
+        {
+            "title": "Anglo-Zulu War – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anglo-Zulu_War"
+        },
+        {
+            "title": "Battle of Rorke's Drift – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/View_Of_the_Isandlwana_Battlefield.jpg/300px-View_Of_the_Isandlwana_Battlefield.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_Of_the_Isandlwana_Battlefield.jpg",
+            "caption": "This a panoramic photo of the Isandlwana Battlefield taken from the Isandlwan...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Portrait_of_Frederic_Thesiger%2C_Lord_Chelmsford.jpg/300px-Portrait_of_Frederic_Thesiger%2C_Lord_Chelmsford.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Portrait_of_Frederic_Thesiger%2C_Lord_Chelmsford.jpg",
+            "caption": "IdentificatieTitel(s): Portret van Frederic Thesiger. Lord Chelmsford (titel ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Isandlwanamassgrave.JPG/300px-Isandlwanamassgrave.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Isandlwanamassgrave.JPG",
+            "caption": "This is a photo of Isandlwana the hill in Kwazulu Natal, South Africa where t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Isandlwanazulumem.JPG/300px-Isandlwanazulumem.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Isandlwanazulumem.JPG",
+            "caption": "Isandlwanazulumem",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles Edwin Fripp",
+            "summary": "English painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Charles_Edwin_Fripp01.jpg/250px-Charles_Edwin_Fripp01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Edwin_Fripp"
+        },
+        {
+            "name": "Henry Pulleine",
+            "summary": "Commander in the British Army (1838–1879)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Henry_Burmester_Pulleine.jpg/250px-Henry_Burmester_Pulleine.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Pulleine"
+        },
+        {
+            "name": "Ntshingwayo Khoza",
+            "summary": "Zulu warrior and leader (1809–1883)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nthsingwayo_kaMahole.jpg/250px-Nthsingwayo_kaMahole.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ntshingwayo_Khoza"
+        },
+        {
+            "name": "Dabulamanzi kaMpande",
+            "summary": "Zulu commander (1839-1886)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Dabulamanzi%2C_crop.jpg/250px-Dabulamanzi%2C_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dabulamanzi_kaMpande"
+        },
+        {
+            "name": "William Hale (British inventor)",
+            "summary": "British inventor and rocket pioneer (1797–1870)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/William_Hale_%281%29.jpeg/250px-William_Hale_%281%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Hale_%28British_inventor%29"
+        },
+        {
+            "name": "Cetshwayo",
+            "summary": "King of the Zulu Kingdom (1826–1884)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Cetshwayo_ka_Mpande%2C_cropped.jpg/250px-Cetshwayo_ka_Mpande%2C_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cetshwayo"
+        }
+    ],
+    "territory_geojson": null
+}

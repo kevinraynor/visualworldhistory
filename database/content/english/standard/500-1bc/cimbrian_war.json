@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1092,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:19bded93ad27989057b89e21720e8db54805526d09689d8e455a864ee4aef190",
+    "summary": "The Cimbrian War (113–101 BC) was Rome's desperate conflict against two large Germanic and Celtic tribal migrations — the Cimbri and Teutones — which inflicted several catastrophic defeats on Roman armies before being finally destroyed by Gaius Marius, contributing to his legendary status and the political conditions that led to the [[event:1069|Marian Reforms]].\n\nThe Cimbri, originating from the Jutland peninsula (modern Denmark), migrated southward with their families — entire peoples on the move, not simply armies — seeking new lands. They and their allies the Teutones defeated multiple Roman armies, most catastrophically at the Battle of Arausio (105 BC) where perhaps 80,000 Roman and allied soldiers were killed, the worst Roman defeat since [[event:1056|Battle of Cannae]]. The tribes then moved into Spain and Gaul rather than immediately invading Italy, giving Rome time to recover. Marius, elected consul in unprecedented successive terms, reorganized the army using the reforms later named for him, trained it intensively, and destroyed the Teutones at Aquae Sextiae (102 BC) and the Cimbri at Vercellae (101 BC). The Italian migration that had panicked Rome was ended.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cimbrian_War",
+    "read_more_links": [
+        {
+            "title": "Cimbri",
+            "url": "https://en.wikipedia.org/wiki/Cimbri"
+        },
+        {
+            "title": "Gaius Marius",
+            "url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "title": "Battle of Aquae Sextiae",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Aquae_Sextiae"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mario_vincitore_dei_Cimbri.jpg/300px-Mario_vincitore_dei_Cimbri.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mario_vincitore_dei_Cimbri.jpg",
+            "caption": "Mario vincitore dei Cimbri, olio su tela, Museo Civico di Foggia. Probabile b...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_defeat_of_the_Cimbri.jpg/300px-The_defeat_of_the_Cimbri.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_defeat_of_the_Cimbri.jpg",
+            "caption": "The defeat of the Cimbri",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gaius Marius",
+            "summary": "Roman general and statesman (c. 157–86 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png/250px-RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "name": "Lucius Cassius Longinus (consul 107 BC)",
+            "summary": "Roman statesman and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gleyre_Charles_Romans_Under_the_Yoke.jpg/250px-Gleyre_Charles_Romans_Under_the_Yoke.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Cassius_Longinus_%28consul_107_BC%29"
+        },
+        {
+            "name": "Divico",
+            "summary": "Leader of Helvetii tribe",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Charles_Gleyre_Les_Romans_p.jpg/250px-Charles_Gleyre_Les_Romans_p.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Divico"
+        },
+        {
+            "name": "Teutobod",
+            "summary": "2nd-century BC Teutonic king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cimbrians_and_Teutons_invasions.svg/250px-Cimbrians_and_Teutons_invasions.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Teutobod"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Theodor Mommsen",
+            "summary": "German classical scholar and historian (1817–1903)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Theodor_Mommsen_2.jpg/250px-Theodor_Mommsen_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodor_Mommsen"
+        }
+    ],
+    "territory_geojson": null
+}

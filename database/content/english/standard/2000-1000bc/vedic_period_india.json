@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 59,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f813b708ecd0606ef0a3105caa9a761bd3a51ecb708078d56d710cd3ff0b6456",
+    "summary": "The Vedic period, lasting from approximately 1500 to 500 BC, marks the formation of the religious and cultural traditions that would define Indian civilization. It takes its name from the Vedas, a corpus of Sanskrit hymns, ritual texts, and philosophical speculation that represents the oldest surviving literature of the Indo-European language family and forms the foundation of Hinduism.\n\nThe Vedic period began with the arrival of [[event:1849|Indo-Aryan migrations]] into the northwestern Indian subcontinent following the [[event:1848|decline of the Indus Valley Civilization]]. The early Vedic people were semi-nomadic pastoralists organized in tribal groupings, whose social order centered on cattle wealth, horse sacrifice, and the patronage of ritual specialists called Brahmins. The [[event:1847|Rigveda]], the oldest of the four Vedas, was composed during this period and preserves hymns addressed to a pantheon of deities including Indra, Agni, and Varuna.\n\nOver the course of the Vedic period, the focus of settlement and cultural life shifted eastward from the Punjab toward the Ganges plain. This eastward expansion accompanied a transition from a pastoral to an agricultural economy, the clearing of forest land, and the emergence of more complex political structures. The later Vedic texts — the Sama Veda, Yajur Veda, Atharva Veda, and the Brahmanas and Upanishads — reflect a more settled, hierarchically stratified society.\n\nThe Vedic ritual system became enormously elaborate, with complex fire sacrifices (yajna) requiring the precise memorization and recitation of thousands of verses. This emphasis on ritual accuracy drove the development of an extraordinarily precise oral transmission tradition, preserving the Vedic texts in exact phonetic form for centuries before they were written down. The social hierarchy that structured Vedic ritual — Brahmins (priests), Kshatriyas (warriors), Vaishyas (commoners), and Shudras (servants) — laid the groundwork for the caste system that would become a defining feature of Indian society.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vedic_period",
+    "read_more_links": [
+        {
+            "title": "Rigveda",
+            "url": "https://en.wikipedia.org/wiki/Rigveda"
+        },
+        {
+            "title": "Indo-Aryan Migrations",
+            "url": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations"
+        },
+        {
+            "title": "Vedic Religion - Britannica",
+            "url": "https://www.britannica.com/topic/Vedic-religion"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Painted_Grey_Ware_-_Sonkh_-_1000-600_BCE_-_Showcase_6-15_-_Prehistory_and_Terracotta_Gallery_-_Government_Museum_-_Mathura_2013-02-24_6461.JPG/300px-Painted_Grey_Ware_-_Sonkh_-_1000-600_BCE_-_Showcase_6-15_-_Prehistory_and_Terracotta_Gallery_-_Government_Museum_-_Mathura_2013-02-24_6461.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Painted_Grey_Ware_-_Sonkh_-_1000-600_BCE_-_Showcase_6-15_-_Prehistory_and_Terracotta_Gallery_-_Government_Museum_-_Mathura_2013-02-24_6461.JPG",
+            "caption": "This artefact resides at the Government Museum, (hi: Rashtriya Sangrahalaya) ...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B4%BF%E0%B4%AF%E0%B5%81%E0%B4%9F%E0%B5%86%E0%B4%AF%E0%B5%81%E0%B4%82-%E0%B4%89%E0%B4%AA%E0%B4%95%E0%B4%B0%E0%B4%A3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86%E0%B4%AF%E0%B5%81%E0%B4%82_%E0%B4%AE%E0%B4%BE%E0%B4%A4%E0%B5%83%E0%B4%95.jpg/300px-%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B4%BF%E0%B4%AF%E0%B5%81%E0%B4%9F%E0%B5%86%E0%B4%AF%E0%B5%81%E0%B4%82-%E0%B4%89%E0%B4%AA%E0%B4%95%E0%B4%B0%E0%B4%A3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86%E0%B4%AF%E0%B5%81%E0%B4%82_%E0%B4%AE%E0%B4%BE%E0%B4%A4%E0%B5%83%E0%B4%95.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B4%BF%E0%B4%AF%E0%B5%81%E0%B4%9F%E0%B5%86%E0%B4%AF%E0%B5%81%E0%B4%82-%E0%B4%89%E0%B4%AA%E0%B4%95%E0%B4%B0%E0%B4%A3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86%E0%B4%AF%E0%B5%81%E0%B4%82_%E0%B4%AE%E0%B4%BE%E0%B4%A4%E0%B5%83%E0%B4%95.jpg",
+            "caption": "replica of the altar and utensils used during Athirathram",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yamnaya_Steppe_Pastoralists.jpg/300px-Yamnaya_Steppe_Pastoralists.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Yamnaya_Steppe_Pastoralists.jpg",
+            "caption": "Yamnaya Steppe Pastoralists. Referenced from (in English) (6 September 2019)....",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cremation_Urn_with_Lid_LACMA_AC1994.234.8a-b.jpg/300px-Cremation_Urn_with_Lid_LACMA_AC1994.234.8a-b.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cremation_Urn_with_Lid_LACMA_AC1994.234.8a-b.jpg",
+            "caption": "Pakistan, Swat Valley, Gandhara Grave Culture, circa 1200 B.C.\n\nFurnishings; ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Asko Parpola",
+            "summary": "Finnish Indologist (born 1941)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asko_Parpola.jpg/250px-Asko_Parpola.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Asko_Parpola"
+        },
+        {
+            "name": "Parikshit",
+            "summary": "King of Kuru Kingdom and Grand Son of Arjun",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sage_Sukdeva_and_King_Parikshit.png/250px-Sage_Sukdeva_and_King_Parikshit.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Parikshit"
+        }
+    ],
+    "territory_geojson": null
+}

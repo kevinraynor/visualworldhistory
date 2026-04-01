@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 82,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:b6a615be445624fafc74dbf2efb923d1b49c532cbaa9cd0589b5be0f64aa216d",
+    "summary": "The rise of Christianity (c. 30–400 AD) was the transformation of a small Jewish sect centered on [[event:2012|Jesus of Nazareth]] into the dominant religion of the Roman Empire and one of the world's largest religions — a process that unfolded through [[event:2014|Early Christianity]]'s missionary expansion, [[event:2821|Persecution Christians Rome]]'s periods of brutal persecution, and ultimately the remarkable reversal of [[event:2027|Constantine the Great]]'s imperial adoption and [[event:2031|Theodosius I Christianity State]]'s establishment as the official state religion. Within three centuries of its founding, Christianity had gone from a persecuted minority to the faith of the Roman emperor.\n\nChristianity's growth drew on multiple factors: the message of universal salvation and resurrection available to all regardless of social status; strong communal bonds and mutual support networks in urban communities; the administrative infrastructure of the Roman Empire's road network and Greek lingua franca for missionary travel and communication; the inspiration of martyrs under persecution; and the organizational effectiveness of the episcopal (bishop-led) church structure that developed rapidly. The Apostle [[event:2015|Paul the Apostle Missions]] was critical in transforming what might have remained a Jewish messianic movement into a gentile religion by de-emphasizing Jewish law for non-Jewish converts.\n\nThe [[event:2028|Edict of Milan]] (313 AD) granted toleration; [[event:2029|Council of Nicaea]] (325 AD) established orthodox doctrine; and [[event:2027|Constantine the Great]]'s active patronage transformed the church's material circumstances. The theological disputes of the first four centuries — Gnosticism, Marcionism, Arianism, Donatism, Nestorianism, Monophysitism — forced the church to define its beliefs through councils and creeds, producing the Nicene Creed and the canonization of the New Testament. By the end of the 4th century, Christianity had completely displaced traditional Roman paganism as the religion of the empire's elite, a transformation of cultural and civilizational importance that shaped the entire subsequent history of Europe and beyond.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_Christianity",
+    "read_more_links": [
+        {
+            "title": "Early Christian communities",
+            "url": "https://en.wikipedia.org/wiki/Early_Christianity"
+        },
+        {
+            "title": "Christianity Roman Empire expansion",
+            "url": "https://en.wikipedia.org/wiki/Christianity_in_the_Roman_Empire"
+        },
+        {
+            "title": "New Testament canon formation",
+            "url": "https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon"
+        },
+        {
+            "title": "Christian councils and creeds",
+            "url": "https://en.wikipedia.org/wiki/Nicene_Creed"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/300px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+            "caption": "Main facade of Saint Peter's Basilica, Rome",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/300px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+            "caption": "The Last Supper Restored - Leonardo Da Vinci",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Book_of_Hours_%28Use_of_Metz%29_Fol._27r%2C_Decorated_Initials.tif/300px-Book_of_Hours_%28Use_of_Metz%29_Fol._27r%2C_Decorated_Initials.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Book_of_Hours_%28Use_of_Metz%29_Fol._27r%2C_Decorated_Initials.tif",
+            "caption": "A page from the Book of Hours (Use of Metz) with a decorated Initial",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Wells_Cathedral_Lady_Chapel%2C_Somerset%2C_UK_-_Diliff.jpg/300px-Wells_Cathedral_Lady_Chapel%2C_Somerset%2C_UK_-_Diliff.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Wells_Cathedral_Lady_Chapel%2C_Somerset%2C_UK_-_Diliff.jpg",
+            "caption": "Wells Cathedral Lady Chapel.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jesus",
+            "summary": "Jewish preacher and religious leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg/250px-Spas_vsederzhitel_sinay_%28cropped1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus"
+        },
+        {
+            "name": "Constantine the Great",
+            "summary": "Roman emperor from 306 to 337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/250px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        },
+        {
+            "name": "Diego Velázquez",
+            "summary": "Spanish painter (1599–1660)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg/250px-Diego_Vel%C3%A1zquez_Autorretrato_45_x_38_cm_-_Colecci%C3%B3n_Real_Academia_de_Bellas_Artes_de_San_Carlos_-_Museo_de_Bellas_Artes_de_Valencia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3530,
+    "parent_id": 92,
+    "granularity": "detailed",
+    "content_hash": "sha256:ca7e445b373b130f7db12886e6a152ed5c8d4ca4fabe393c75db2f23612bccfc",
+    "summary": "The Seventh Crusade (1248–1254 AD) was the first of two crusades personally led by the French King Louis IX (Saint Louis), launched in response to the fall of Jerusalem to Khwarazmian mercenaries in 1244 — the city's final loss to Christian control. Following the same Egyptian strategy as the [[event:3529|Fifth Crusade]], Louis departed France with a well-organized, well-funded force that captured Damietta in June 1249 almost without a fight. However, the subsequent advance on Cairo repeated the Fifth Crusade's fatal mistake: the Crusaders pushed inland during the Nile flood season, their supply lines were cut by the Ayyubid navy, and disease (dysentery) devastated the army. At the Battle of Al Mansurah (February 1250), an advance force led by Louis's brother Robert of Artois was destroyed after penetrating the city in disregard of orders; the main Crusader army, weakened and starving, was forced to retreat.\n\nDuring the retreat, Louis IX himself was captured along with most of his army — a stunning humiliation for the most powerful Christian monarch of the age. Louis was ransomed for an enormous sum (400,000 livres tournois) and Damietta was returned, marking the crusade's total failure. The king spent four additional years in the Crusader states attempting to fortify their remaining cities before returning to France in 1254. The Seventh Crusade was significant for demonstrating that well-organized, royally led crusades could no longer achieve strategic success against the increasingly professional Muslim powers of Egypt, and that the [[event:2275|Mamluk]] military revolution (the Mamluks overthrew the Ayyubids during the crusade itself, in 1250) had created a formidable new opponent. Louis IX launched a final crusade (the Eighth) in 1270, dying at Tunis — and was subsequently canonized as Saint Louis.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Seventh_Crusade",
+    "read_more_links": [
+        {
+            "title": "Louis IX France Saint Louis crusader king",
+            "url": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+        },
+        {
+            "title": "Battle of Al Mansurah 1250 Crusader defeat",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Al_Mansurah_(1250)"
+        },
+        {
+            "title": "Fall of Jerusalem 1244 Khwarazmian mercenaries",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_La_Forbie"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/La_Forbie.jpg/300px-La_Forbie.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/La_Forbie.jpg",
+            "caption": "Battle of La Forbie as depicted in the manuscript identified as Cambridge, Co...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gustave_Dor%C3%A9%2C_le_d%C3%A9part_de_Louis_IX_pour_la_croisade.jpg/300px-Gustave_Dor%C3%A9%2C_le_d%C3%A9part_de_Louis_IX_pour_la_croisade.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gustave_Dor%C3%A9%2C_le_d%C3%A9part_de_Louis_IX_pour_la_croisade.jpg",
+            "caption": "Engraving by Gustave Doré, representing the departure of Aigues-Mortes of Lou...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/C_croisade7_prisonnier1.jpg/300px-C_croisade7_prisonnier1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/C_croisade7_prisonnier1.jpg",
+            "caption": "Saint-Louis taken prisoner 7th crusade",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AscelinOfCremone.jpg/300px-AscelinOfCremone.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/AscelinOfCremone.jpg",
+            "caption": "Ascelin of Lombardy receiving a letter from Innocent IV, and remitting it to ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Louis IX of France",
+            "summary": "King of France from 1226 to 1270",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Saintlouis_%28cropped%29.jpg/250px-Saintlouis_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+        },
+        {
+            "name": "Charles I of Anjou",
+            "summary": "King of Sicily from 1266 to 1285",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Some_Old_Guy_2_%285642308121%29_%28cropped%29.jpg/250px-Some_Old_Guy_2_%285642308121%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_I_of_Anjou"
+        },
+        {
+            "name": "William of Villehardouin",
+            "summary": "Prince of Achaea from 1246 to 1278",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/William_II_of_Achaea_coin.png/250px-William_II_of_Achaea_coin.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_of_Villehardouin"
+        },
+        {
+            "name": "Robert I, Count of Artois",
+            "summary": "Count of Artois",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RobertArtois_maly.jpg/250px-RobertArtois_maly.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_I%2C_Count_of_Artois"
+        },
+        {
+            "name": "Theobald II of Navarre",
+            "summary": "King of Navarre from 1253 to 1270",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Theobald_II_of_Navarre.jpg/250px-Theobald_II_of_Navarre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theobald_II_of_Navarre"
+        },
+        {
+            "name": "Hugh IV, Duke of Burgundy",
+            "summary": "Duke of Burgundy from 1218 to 1272",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hugh_IV%2C_Duke_of_Burgundy.jpg/250px-Hugh_IV%2C_Duke_of_Burgundy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_IV%2C_Duke_of_Burgundy"
+        }
+    ],
+    "territory_geojson": null
+}

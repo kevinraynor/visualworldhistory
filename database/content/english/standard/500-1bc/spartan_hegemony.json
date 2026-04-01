@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1023,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:c4d887c0b0858305eb661e098a4f7b50fc3a9f04a340abac6360afb797a0fe91",
+    "summary": "The Spartan Hegemony (404–371 BC) was the period following Sparta's victory in the [[event:1010|Peloponnesian War]] during which Sparta attempted to exercise dominant control over the Greek world, imposing oligarchic client governments, intervening militarily wherever its authority was challenged, and extracting tribute and military service from former allies. The hegemony lasted until the crushing defeat at [[event:1020|Battle of Leuctra]] in 371 BC.\n\nSpartan dominance was never comfortable and grew increasingly resented. The [[event:1017|Thirty Tyrants of Athens]] were the most brutal of the client governments Sparta imposed, but similar regimes existed elsewhere. The [[event:1019|Corinthian War]] demonstrated that even Sparta's former allies would form coalitions against it when it overreached. Sparta's fundamental weakness was its small citizen population — never more than a few thousand full Spartiates — and its dependence on helot labor, which made any extended foreign commitment dangerous. Despite impressive victories, Sparta could never build the administrative apparatus of a true empire. After Leuctra, it descended rapidly from the premier military power to a regional state, its manpower decimated and its reputation for invincibility destroyed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spartan_hegemony",
+    "read_more_links": [
+        {
+            "title": "Agesilaus II",
+            "url": "https://en.wikipedia.org/wiki/Agesilaus_II"
+        },
+        {
+            "title": "Lysander",
+            "url": "https://en.wikipedia.org/wiki/Lysander"
+        },
+        {
+            "title": "Sparta",
+            "url": "https://en.wikipedia.org/wiki/Sparta"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Grave_relief_of_Dexileos%2C_son_of_Lysanias%2C_of_Thorikos_%28Ca._390_BC%29_%284454389225%29.jpg/300px-Grave_relief_of_Dexileos%2C_son_of_Lysanias%2C_of_Thorikos_%28Ca._390_BC%29_%284454389225%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Grave_relief_of_Dexileos%2C_son_of_Lysanias%2C_of_Thorikos_%28Ca._390_BC%29_%284454389225%29.jpg",
+            "caption": "Grave relief of Dexileos, son of Lysanias, of Thorikos (ca. 390 BC).  On the ...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CUH_Agesilaus_and_Pharnabazus.jpg/300px-CUH_Agesilaus_and_Pharnabazus.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/CUH_Agesilaus_and_Pharnabazus.jpg",
+            "caption": "Agesilaus and Pharnabazus.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PERSIA%2C_Achaemenid_Empire._temp._Darios_I_to_Xerxes_I._Circa_505-480_BC._AV_Daric_%2814mm%2C_8.32_g%29.jpg/300px-PERSIA%2C_Achaemenid_Empire._temp._Darios_I_to_Xerxes_I._Circa_505-480_BC._AV_Daric_%2814mm%2C_8.32_g%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/PERSIA%2C_Achaemenid_Empire._temp._Darios_I_to_Xerxes_I._Circa_505-480_BC._AV_Daric_%2814mm%2C_8.32_g%29.jpg",
+            "caption": "PERSIA, Achaemenid Empire. temp. Darios I to Xerxes I. Circa 505-480 BC. AV D...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Xenophon",
+            "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/250px-Bust_of_Xenophon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xenophon"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Pharnabazus II",
+            "summary": "Persian satrap of Hellespontine Phrygia from 413 to 374 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pharnabazus_II.jpg/250px-Pharnabazus_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharnabazus_II"
+        },
+        {
+            "name": "Lysander",
+            "summary": "Spartan military and political leader (died 395 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg/250px-Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lysander"
+        }
+    ],
+    "territory_geojson": null
+}

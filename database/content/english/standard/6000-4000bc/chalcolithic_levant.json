@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1570,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:898ec37ed9bc6aac804f8de4c54cf22f30095499b5a594f6fd03db4f3b553c46",
+    "summary": "The Chalcolithic period in the Levant (c. 4500–3300 BCE) marks the transition from the Neolithic to the Bronze Age in the eastern Mediterranean coastal region encompassing present-day Israel, Palestine, Jordan, and Lebanon. During this period, farming communities of the southern Levant developed new technologies — particularly copper working — and new social forms, represented by regional cultures including the [[event:1571|Ghassulian culture]], that demonstrated increasing social complexity, craft specialization, and long-distance trade.\n\nChalcolithic Levantine communities cultivated wheat, barley, olives, and grapes, and herded sheep, goats, and cattle. They occupied villages ranging from small hamlets to substantial settlements of several hectares. Pottery was produced in great quantities, both for everyday use and for ritual purposes. The most remarkable aspect of Levantine Chalcolithic culture is the sophisticated metalwork exemplified by the [[event:1572|Nahal Mishmar hoard]] — hundreds of copper objects including mace heads, scepters, and crowns that demonstrate high technical skill in lost-wax casting and other metallurgical techniques.\n\nThe Levantine Chalcolithic period represents a significant phase in the cultural trajectory leading to the Bronze Age urban civilizations of the region. Increasing social stratification, ritual elaboration, and craft specialization during this period created social and technological preconditions for the development of early Bronze Age society in Canaan and the broader Levant.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chalcolithic#Levant",
+    "read_more_links": [
+        {
+            "title": "Ghassulian culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ghassulian"
+        },
+        {
+            "title": "Levantine prehistory - Britannica",
+            "url": "https://www.britannica.com/place/ancient-Israel-and-Judah/Chalcolithic-period"
+        },
+        {
+            "title": "Nahal Mishmar - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nahal_Mishmar"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg/300px-Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Chalcolithic_Male_Figurine%2C_4500-3500_BCE.jpg",
+            "caption": "Chalcolithic Male Figurine, 4500-3500 BCE",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Copper_Funnel_Beaker_Culture.png/300px-Copper_Funnel_Beaker_Culture.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Copper_Funnel_Beaker_Culture.png",
+            "caption": "The number of metal artefacts in northern Germany during the Neolithic and ea...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Los_Millares_recreacion_cuadro.jpg/300px-Los_Millares_recreacion_cuadro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Los_Millares_recreacion_cuadro.jpg",
+            "caption": "Pintura situada en el centro de recepción de visitantes de los Millares.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ferenc Pulszky",
+            "summary": "Hungarian politician and writer (1814–1897)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Horovitz_Portrait_of_Ferenc_Pulszky_1890.jpg/250px-Horovitz_Portrait_of_Ferenc_Pulszky_1890.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferenc_Pulszky"
+        },
+        {
+            "name": "Gaetano Chierici",
+            "summary": "Italian painter (1838–1920)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gaetano_Chierici_-_Self-portrait_in_Uffizi.jpg/250px-Gaetano_Chierici_-_Self-portrait_in_Uffizi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaetano_Chierici"
+        }
+    ],
+    "territory_geojson": null
+}

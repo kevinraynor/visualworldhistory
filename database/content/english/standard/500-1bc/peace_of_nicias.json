@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1015,
+    "parent_id": 1010,
+    "granularity": "detailed",
+    "content_hash": "sha256:7e4db8849674889f5230fa05987ec42e67e8ee920fe47b4e01ad607287550321",
+    "summary": "The Peace of Nicias (421 BC) was a treaty signed between Athens and Sparta near the midpoint of the [[event:1010|Peloponnesian War]], providing for a fifty-year peace and restoring most pre-war territorial arrangements. Named after the Athenian general and statesman Nicias who negotiated it, the treaty reflected mutual exhaustion after the first decade of fighting but ultimately failed to end hostilities.\n\nBoth sides had reason to negotiate: Sparta had lost prestige from the [[event:1014|Battle of Sphacteria]] disaster and needed to recover its captured citizens; Athens had lost Pericles and was worn down by annual Spartan invasions and the [[event:1011|Plague of Athens]]. The peace restored prisoners and most conquered territories, and the war seemed over. However, Sparta's allies Corinth, Thebes, and Elis refused to ratify the treaty, and within a few years Athens was drawn back into active operations. The [[event:1012|Sicilian Expedition]] effectively ended any hope of honoring the peace, and full-scale war resumed. The Peace of Nicias stands as a cautionary example of a settlement negotiated without resolving the underlying causes of conflict.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peace_of_Nicias",
+    "read_more_links": [
+        {
+            "title": "Nicias",
+            "url": "https://en.wikipedia.org/wiki/Nicias"
+        },
+        {
+            "title": "Peloponnesian War",
+            "url": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+        },
+        {
+            "title": "Alcibiades",
+            "url": "https://en.wikipedia.org/wiki/Alcibiades"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Joachim_von_Sandrart_%281606-1688%29_-_Nicias_of_Athens.jpg/300px-Joachim_von_Sandrart_%281606-1688%29_-_Nicias_of_Athens.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Joachim_von_Sandrart_%281606-1688%29_-_Nicias_of_Athens.jpg",
+            "caption": "Portrait of Nicias of Athens. Size: 10 x 10 cm (3.9 x 3.9 inches). Original c...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Nicias",
+            "summary": "Athenian politician and general (5th century BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg/250px-Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicias"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "Brasidas",
+            "summary": "5th century BC Spartan general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/He_became_a_target_for_every_arrow_%28cropped%29.jpg/250px-He_became_a_target_for_every_arrow_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brasidas"
+        },
+        {
+            "name": "Aristides",
+            "summary": "Athenian general and statesman (530–468 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Boston_%282019%29_-_194.jpg/250px-Boston_%282019%29_-_194.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristides"
+        },
+        {
+            "name": "Donald Kagan",
+            "summary": "American historian and classicist (1932–2021)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dkaganbiopic.png/250px-Dkaganbiopic.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Kagan"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2465,
+    "parent_id": 101,
+    "granularity": "detailed",
+    "content_hash": "sha256:70b9cefafe87756a0c05c00b10120279c12b11aedfc84fa6df10cabf60e1e275",
+    "summary": "The Túpac Amaru II Rebellion (1780–1783 AD) was the largest and most dangerous anti-colonial uprising in South American history before independence, mobilizing hundreds of thousands of Indigenous people and mixed-race castas against Spanish colonial rule across the [[event:3284|Viceroyalty of Peru]]. Led by José Gabriel Condorcanqui, who took the name Túpac Amaru II to claim descent from the last Inca emperor, the rebellion at its peak controlled much of highland Peru and Bolivia, besieging the city of Cusco for months. Condorcanqui's rebellion drew on accumulated Indigenous grievances: forced labor in the mita system (particularly in Potosí mines), abusive tax collection by corregidores, and the overall exploitation of the Andean colonial order.\n\nDespite its scale, the rebellion was ultimately crushed by Spanish forces with assistance from loyalist Indigenous groups who feared its radical social implications. Condorcanqui, his wife Micaela Bastidas (who had effectively served as the rebellion's operational commander), and members of his family were executed in Cusco in May 1781 with deliberate brutality — their dismembered bodies displayed across the region as a warning. The Spanish crown responded to the rebellion by abolishing the position of corregidor, outlawing the use of Inca symbols and titles, and banning the historical chronicle Comentarios Reales that celebrated Inca history — attempting to erase Andean identity. The rebellion's memory, however, became central to later independence movements and remains a touchstone of Indigenous rights movements in Peru and Bolivia today.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_II",
+    "read_more_links": [
+        {
+            "title": "Tupac Amaru II rebellion Cusco siege Peru",
+            "url": "https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II"
+        },
+        {
+            "title": "Micaela Bastidas rebel commander execution",
+            "url": "https://en.wikipedia.org/wiki/Micaela_Bastidas_Puyucahua"
+        },
+        {
+            "title": "Mita forced labor colonial Peru silver mines",
+            "url": "https://en.wikipedia.org/wiki/Mita_(Inca)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Acuarela_de_T%C3%BApac_Amaru_II_crop.jpg/300px-Acuarela_de_T%C3%BApac_Amaru_II_crop.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Acuarela_de_T%C3%BApac_Amaru_II_crop.jpg",
+            "caption": "Watercolor portraying José Gabriel Condorcanqui, alias Túpac Amaru. It is the...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Monumento_Tupac_Amaru_II_-_Distrito_de_Comas.jpg/300px-Monumento_Tupac_Amaru_II_-_Distrito_de_Comas.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Monumento_Tupac_Amaru_II_-_Distrito_de_Comas.jpg",
+            "caption": "Monumento Tupac Amaru II ubica en la avenida tupac amaru II, frontera con com...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pr%C3%B3cer_Tupac_Amaru_II_1780.jpg/300px-Pr%C3%B3cer_Tupac_Amaru_II_1780.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pr%C3%B3cer_Tupac_Amaru_II_1780.jpg",
+            "caption": "Prócer Tupac Amaru II 1780",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/La_Tumba_de_Tupac_Amaru_II_-_CUSCO.jpg/300px-La_Tumba_de_Tupac_Amaru_II_-_CUSCO.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/La_Tumba_de_Tupac_Amaru_II_-_CUSCO.jpg",
+            "caption": "La Tumba de Tupac Amaru II se encuentra en la Plaza de Armas de Cusco.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Túpac Katari",
+            "summary": "Indigenous Aymara insurrection leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tupac_Catari.jpg/250px-Tupac_Catari.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/T%C3%BApac_Katari"
+        },
+        {
+            "name": "Sapa Inca",
+            "summary": "Emperor of the Inca Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aguas_Calientes.JPG/250px-Aguas_Calientes.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sapa_Inca"
+        },
+        {
+            "name": "Atahualpa",
+            "summary": "Last Inca Emperor (ruled 1532–1533)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png/250px-Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Atahualpa"
+        },
+        {
+            "name": "Juan Santos Atahualpa",
+            "summary": "Emperor as Sapa Inca of the Neo-Inca State",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Pr%C3%B3cer_Santos_Atahualpa_1742.jpg/250px-Pr%C3%B3cer_Santos_Atahualpa_1742.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Santos_Atahualpa"
+        },
+        {
+            "name": "Micaela Bastidas",
+            "summary": "Leader of a large Andean uprising against the Spanish in Peru (1744–1781)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stamp_of_Peru_-_Micaela_Bastidas_%28cropped%29.jpeg/250px-Stamp_of_Peru_-_Micaela_Bastidas_%28cropped%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Micaela_Bastidas"
+        },
+        {
+            "name": "Juan Velasco Alvarado",
+            "summary": "President of Peru from 1968 to 1975",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Juan_F._Velasco_Alvarado.jpg/250px-Juan_F._Velasco_Alvarado.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Velasco_Alvarado"
+        }
+    ],
+    "territory_geojson": null
+}

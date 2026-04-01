@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2059,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:0fcec310249f0f0252b8f62593cb50ecc192dadfcab8cafbf20ea0658cf42c69",
+    "summary": "The Sassanid Empire (224–651 AD), also called the Sasanian Empire or Second Persian Empire, was the last great pre-Islamic Iranian empire and for four centuries the dominant power in the Middle East — Rome's most formidable rival and near-equal. Founded by Ardashir I, who overthrew the Parthian Arsacid dynasty in 224 AD, the Sassanids consciously modeled themselves on the Achaemenid Persian Empire, calling themselves 'King of Kings of Iran' and emphasizing Zoroastrianism as the state religion. At their peak, the empire stretched from Mesopotamia through Persia and Central Asia to the Indus Valley.\n\nThe Sassanid-Roman conflict was one of the defining geopolitical relationships of late antiquity, fought in a grinding series of wars over Mesopotamia, Armenia, and the eastern Mediterranean. The empire reached its greatest territorial extent under Khosrow II, who briefly conquered Egypt, Syria, Palestine, and Anatolia in the early 7th century — seemingly on the verge of destroying the Byzantine Empire — before being dramatically reversed by Emperor Heraclius's counterattack. The resulting exhaustion of both empires made them vulnerable to the sudden Arab Muslim expansion after 630 AD; the Sassanid Empire collapsed with stunning speed in the 630s–650s, unable to repel the Arab armies at the [[event:2826|Battle of Ctesiphon]] and subsequent campaigns. Sassanid culture — its art, architecture, administrative traditions, courtly culture, and Zoroastrian religion — profoundly influenced early Islamic civilization.\n\nSassanid intellectual and artistic achievements were remarkable: the Academy of Gondishapur became the premier medical and philosophical institution of late antiquity; Sassanid metalwork, silks, and architectural innovations influenced art across Eurasia; and the administrative traditions of the empire were absorbed wholesale by the early Islamic caliphate.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+    "read_more_links": [
+        {
+            "title": "Ardashir I founder Sassanid",
+            "url": "https://en.wikipedia.org/wiki/Ardashir_I"
+        },
+        {
+            "title": "Khosrow II peak empire",
+            "url": "https://en.wikipedia.org/wiki/Khosrow_II"
+        },
+        {
+            "title": "Academy of Gondishapur",
+            "url": "https://en.wikipedia.org/wiki/Academy_of_Gondishapur"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg/300px-Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg",
+            "caption": "Persia with part of the Ottoman Empire, published in 1872 by the Society for ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg/300px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_12.jpg",
+            "caption": "Relief of triumph of Shapur I over Valerian at Naqsh-e Rostam (ca. 241–272 AD...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Irnp105-Grobowce_Naqsh-E_Rustam.jpg/300px-Irnp105-Grobowce_Naqsh-E_Rustam.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Irnp105-Grobowce_Naqsh-E_Rustam.jpg",
+            "caption": "Iran in 2018 (photographed by Wojciech Kocot)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Falak_-ol_-_Aflak_Castle_1._Khoramabad-_Lorestan.jpg/300px-Falak_-ol_-_Aflak_Castle_1._Khoramabad-_Lorestan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Falak_-ol_-_Aflak_Castle_1._Khoramabad-_Lorestan.jpg",
+            "caption": "This is a photo of a monument in Iran identified by the ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Khosrow II",
+            "summary": "Emperor of the Sasanian Empire from 590 to 628",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KhosrauIIGoldCoinCroppedHistoryofIran.jpg/250px-KhosrauIIGoldCoinCroppedHistoryofIran.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Khosrow_II"
+        },
+        {
+            "name": "Ardashir I",
+            "summary": "Founder and Shahanshah of the Sasanian Empire from 180 to 242",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dinar_of_Ardashir_I_%28cropped%29.jpg/250px-Dinar_of_Ardashir_I_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ardashir_I"
+        },
+        {
+            "name": "Yazdegerd III",
+            "summary": "Last Sasanian King from 632 to 651",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coin_of_the_Sasanian_king_Yazdegerd_III%2C_651_mint_%28Cropped%29.jpg/250px-Coin_of_the_Sasanian_king_Yazdegerd_III%2C_651_mint_%28Cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yazdegerd_III"
+        },
+        {
+            "name": "Artabanus IV of Parthia",
+            "summary": "Ruler of Parthian Empire from c. 213 to 224",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Drachm_of_Artabanus_IV_%282%29%2C_Hamadan_mint.jpg/250px-Drachm_of_Artabanus_IV_%282%29%2C_Hamadan_mint.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Artabanus_IV_of_Parthia"
+        },
+        {
+            "name": "Muhammad",
+            "summary": "Founder of Islam (c. 570–632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Al-Masjid_AL-Nabawi_Door.jpg/250px-Al-Masjid_AL-Nabawi_Door.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad"
+        },
+        {
+            "name": "Rashidun Caliphate",
+            "summary": "First Islamic caliphate (632–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG/250px-Mohammad_adil-Rashidun-empire-at-its-peak-close.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun_Caliphate"
+        }
+    ],
+    "territory_geojson": null
+}

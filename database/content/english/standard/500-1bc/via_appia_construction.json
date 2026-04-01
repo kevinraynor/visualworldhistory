@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1086,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:357cdac92c2f535dc289c5d7b4881560bf4020f5c179b5eb05558765613c7dcf",
+    "summary": "The Appian Way (Via Appia, begun 312 BC) was Rome's first and most famous long-distance road, constructed by the censor Appius Claudius Caecus to connect Rome to Capua in Campania — a distance of approximately 212 km — and later extended to Brindisi (Brundisium) on the Adriatic coast, the main embarkation point for the eastern Mediterranean. It became the model for the Roman road network that eventually stretched 400,000 km across the Empire.\n\nRoman roads were engineering marvels: built with multiple layers of aggregate and stone, crowned for drainage, surfaced with large flat stones, edged with curbs, and provided with milestones marking distances. The Appian Way could accommodate wheeled vehicles, marching armies, and travellers simultaneously on its 6-meter-wide surface. Roadside inns (mansiones) and way stations (mutationes) developed along its length. The road remained in continuous use for over a thousand years and substantial sections survive to this day as tourist and cycling routes near Rome. After the [[event:1072|Spartacus Revolt]], the road became infamous when Crassus lined it with 6,000 crucified rebel slaves from Capua to Rome.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Appian_Way",
+    "read_more_links": [
+        {
+            "title": "Appius Claudius Caecus",
+            "url": "https://en.wikipedia.org/wiki/Appius_Claudius_Caecus"
+        },
+        {
+            "title": "Roman Roads",
+            "url": "https://en.wikipedia.org/wiki/Roman_roads"
+        },
+        {
+            "title": "Roman Engineering",
+            "url": "https://en.wikipedia.org/wiki/Roman_engineering"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/San_Sebastiano_fuori_le_mura_%28Rome%29.jpg/300px-San_Sebastiano_fuori_le_mura_%28Rome%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/San_Sebastiano_fuori_le_mura_%28Rome%29.jpg",
+            "caption": "San Sebastiano (Saint Sebastian’s) outside the walls (Rome)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%22Brundisium%22_%28Heute_Brindisi%29_wurde_im_Jahr_266_v._Chr._von_den_R%C3%B6mern_erobert._05.jpg/300px-%22Brundisium%22_%28Heute_Brindisi%29_wurde_im_Jahr_266_v._Chr._von_den_R%C3%B6mern_erobert._05.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/%22Brundisium%22_%28Heute_Brindisi%29_wurde_im_Jahr_266_v._Chr._von_den_R%C3%B6mern_erobert._05.jpg",
+            "caption": "End of the Via Appia in Brindisi.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Paesaggio_dell%27Appia_antica.jpg/300px-Paesaggio_dell%27Appia_antica.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Paesaggio_dell%27Appia_antica.jpg",
+            "caption": "Parco regionale dell'Appia antica (Q3895749)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sepolcro_Priscilla_Appia_Antica.jpg/300px-Sepolcro_Priscilla_Appia_Antica.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Sepolcro_Priscilla_Appia_Antica.jpg",
+            "caption": "Sepolcro Priscilla Appia Antica\n[1]",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Appius Claudius Caecus",
+            "summary": "Roman statesman and writer (fl. c. 312–279 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Musei_vaticani%2C_braccio_chiaramonti%2C_busto_02.JPG/250px-Musei_vaticani%2C_braccio_chiaramonti%2C_busto_02.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Appius_Claudius_Caecus"
+        },
+        {
+            "name": "Trajan",
+            "summary": "Roman emperor from AD 98 to 117",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Traianus_Glyptothek_Munich_336.jpg/250px-Traianus_Glyptothek_Munich_336.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Trajan"
+        },
+        {
+            "name": "Pyrrhus of Epirus",
+            "summary": "King of Epirus from 297 to 272 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus"
+        }
+    ],
+    "territory_geojson": null
+}

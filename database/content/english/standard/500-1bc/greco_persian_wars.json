@@ -1,0 +1,100 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1001,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:fc22beb60d7ff4196c169483faa987d523e174dfda0a43d7d01fdf4940078621",
+    "summary": "The Greco-Persian Wars (499–449 BC) were a series of conflicts between the Achaemenid Persian Empire and the city-states of ancient Greece, representing one of the most consequential struggles in world history. Persia under Darius I and later Xerxes I commanded the largest empire the ancient world had yet seen, stretching from Egypt to Central Asia. Against this colossus, a loose coalition of Greek poleis — many of them rivalrous and suspicious of one another — mounted a defense that would define Western civilization's foundational mythology of freedom against tyranny.\n\nThe wars began with the [[event:1002|Ionian Revolt]], in which Greek cities along the Anatolian coast rose against Persian rule with Athenian support. When Darius suppressed the revolt, he dispatched a punitive expedition against Athens, which was crushingly repulsed at the [[event:1003|Battle of Marathon]] in 490 BC. The Athenian victory electrified Greece and demonstrated that Persian infantry could be beaten in pitched battle, inspiring a decade of military preparation for the expected return.\n\nThe second Persian invasion under Xerxes in 480 BC brought an enormous multinational army and navy into Greece. The heroic stand at [[event:1004|Battle of Thermopylae]] — where a small Greek force under Spartan King Leonidas held the coastal pass for three days — bought time for the Greek fleet to check the Persians at the [[event:1005|Battle of Salamis]], a decisive naval engagement that shattered Persia's strategic position. The following spring, Greek land forces under Spartan leadership destroyed the remaining Persian army at [[event:1006|Battle of Plataea]], ending the invasion.\n\nThe wars then shifted to a counter-offensive phase. Athens, leveraging its naval supremacy, formed the [[event:1009|Delian League]] and carried the fight to Persian-held coasts and islands across the Aegean. Greek forces achieved decisive victories at the Eurymedon River (c. 466 BC), driving Persian power out of the Aegean basin. The conflict concluded with the Peace of Callias around 449 BC, which effectively recognized Ionian Greek autonomy and barred Persian warships from the Aegean.\n\nThe wars' consequences extended far beyond the military outcome. Athens emerged as the preeminent Greek city, flush with tribute money and prestige. The resulting golden age funded the Parthenon, [[event:1018|Athenian Democracy]], and the works of Aeschylus, Sophocles, and Euripides. The Persian Wars became a defining cultural reference point — the proof that free men fighting for their own land would overcome subjects fighting for a distant king. This narrative shaped Greek self-understanding and, through Greek influence, the entire Western tradition.\n\nThe Persian Empire itself was not fatally weakened by the wars. It remained the dominant power in the ancient world for another century and a half, controlling vast resources and populations. The real significance of the Greek victory was cultural and political rather than geopolitical: it preserved the conditions under which classical Greek philosophy, art, and political experimentation could flourish, ultimately producing a civilizational heritage that would reshape the world through [[event:75|Alexander the Great's Empire]] and beyond.\n\nHistorians continue to debate the reliability of ancient sources — primarily Herodotus, whose accounts blend history with legend — and the actual numbers involved in various engagements. Modern scholarship generally accepts that ancient sources vastly exaggerated Persian army sizes, while still acknowledging the genuine scale of the conflict and the remarkable achievement of the Greek defense.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greco-Persian_Wars",
+    "read_more_links": [
+        {
+            "title": "Battle of Marathon",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Marathon"
+        },
+        {
+            "title": "Battle of Thermopylae",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Thermopylae"
+        },
+        {
+            "title": "Battle of Salamis",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Salamis"
+        },
+        {
+            "title": "Herodotus – The Histories",
+            "url": "https://en.wikipedia.org/wiki/Histories_(Herodotus)"
+        },
+        {
+            "title": "Achaemenid Empire",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Xerxes_all_ethnicities.jpg/300px-Xerxes_all_ethnicities.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Xerxes_all_ethnicities.jpg",
+            "caption": "Xerxes all ethnicities Analysis List with corresponding drawings",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Herodotos_Met_91.8.jpg/300px-Herodotos_Met_91.8.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Herodotos_Met_91.8.jpg",
+            "caption": "Greek historian Herodotus ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thermopylae_ancient_coastline_large.jpg/300px-Thermopylae_ancient_coastline_large.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Thermopylae_ancient_coastline_large.jpg",
+            "caption": "View of the Thermopylae pass at the area of the Phocian Wall. In ancient time...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ionian_Revolt_Campaign_Map.png/300px-Ionian_Revolt_Campaign_Map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ionian_Revolt_Campaign_Map.png",
+            "caption": "Bathymetric/Topographical map  of the Aegean area in c.500 BC, showing major ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hoplite",
+            "summary": "Ancient Greek soldier in a phalanx",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hoplite1.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hoplite"
+        },
+        {
+            "name": "Kylix",
+            "summary": "Ancient Greek or Etruscan drinking cup",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kylix_61.7_with_Helen_and_Hermes%2C_ca._420_BC%2C_part_of_the_Vassil_Bojkov_collection%2C_Sofia%2C_Bulgaria.png/250px-Kylix_61.7_with_Helen_and_Hermes%2C_ca._420_BC%2C_part_of_the_Vassil_Bojkov_collection%2C_Sofia%2C_Bulgaria.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kylix"
+        },
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "name": "Leonidas I",
+            "summary": "King of Sparta from c. 489 BC to 480 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/250px-Helmed_Hoplite_Sparta.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leonidas_I"
+        },
+        {
+            "name": "Themistocles",
+            "summary": "Athenian politician and general (c. 524–459 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Illustrerad_Verldshistoria_band_I_Ill_116.png/250px-Illustrerad_Verldshistoria_band_I_Ill_116.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Themistocles"
+        },
+        {
+            "name": "Charitimides",
+            "summary": "5th-century BCE Athenian Admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cimon_takes_command_of_the_Greek_Fleet%2C_illustration_from_%27Hutchinson%27s_History_of_the_Nations%27%2C_1915.jpg/250px-Cimon_takes_command_of_the_Greek_Fleet%2C_illustration_from_%27Hutchinson%27s_History_of_the_Nations%27%2C_1915.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charitimides"
+        }
+    ],
+    "territory_geojson": null
+}

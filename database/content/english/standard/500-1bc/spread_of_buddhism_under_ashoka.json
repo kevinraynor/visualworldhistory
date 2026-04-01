@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1101,
+    "parent_id": 1098,
+    "granularity": "notable",
+    "content_hash": "sha256:242c28db2c47a980254c9310c81e0226bc2106cc39e209361ba1dad0884d1931",
+    "summary": "The Spread of Buddhism under Ashoka (260–232 BC) was a deliberate program of religious outreach that transformed Buddhism from a regional North Indian tradition into a pan-Asian religion, through imperial patronage, missionary activity, and the model of a great king governing by Buddhist principles. Without Ashoka's support, Buddhism might have remained one of many competing Indian sects rather than becoming one of the world's major religions.\n\nThe [[event:1100|Edicts of Ashoka]] record that Ashoka sent Buddhist missions to all parts of his realm and beyond — to the Greek kingdoms in the west (possibly including Egypt and Macedonia), to Southeast Asia, and most consequentially to Sri Lanka, where his son Mahinda converted King Devanampiya Tissa. Sri Lanka became the repository of the Theravada Buddhist canon and the source from which Buddhism spread to Burma, Thailand, Cambodia, and much of Southeast Asia. Ashoka's daughter Sanghamitta reportedly brought a cutting of the Bodhi tree under which the Buddha had attained enlightenment, which was planted in Anuradhapura, Sri Lanka, where its descendant still stands.\n\nWithin India, Ashoka's support for the Buddhist sangha (community) included building stupas (burial mounds) over the Buddha's relics, constructing monasteries, and organizing the Third Buddhist Council at Pataliputra. His model of Buddhist kingship — combining temporal power with moral authority derived from dharma — became the template for Buddhist rulers across Asia from Sri Lanka to Tibet to Japan, profoundly shaping political theory throughout the continent for over a millennium.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka#Buddhist_kingship",
+    "read_more_links": [
+        {
+            "title": "Mahinda (Buddhist monk)",
+            "url": "https://en.wikipedia.org/wiki/Mahinda_(Buddhist_monk)"
+        },
+        {
+            "title": "Theravada Buddhism",
+            "url": "https://en.wikipedia.org/wiki/Theravada"
+        },
+        {
+            "title": "Buddhism in Sri Lanka",
+            "url": "https://en.wikipedia.org/wiki/Buddhism_in_Sri_Lanka"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Emperor_Ashoka_the_Great%2C_Rangkut_Banasram_Pilgrimage_Monastery_%28122542%29.jpg/300px-Emperor_Ashoka_the_Great%2C_Rangkut_Banasram_Pilgrimage_Monastery_%28122542%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Emperor_Ashoka_the_Great%2C_Rangkut_Banasram_Pilgrimage_Monastery_%28122542%29.jpg",
+            "caption": "Emperor Ashoka the Great, Rangkut Banasram Pilgrimage Monastery, Ramu, Cox's ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Rock_edict-_closer_look.JPG/300px-Rock_edict-_closer_look.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Rock_edict-_closer_look.JPG",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Khalsi_rock_edict_of_Ashoka.jpg/300px-Khalsi_rock_edict_of_Ashoka.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Khalsi_rock_edict_of_Ashoka.jpg",
+            "caption": "Khalsi rock edict of Ashoka. A photograph: [1]. Highlight of the names of the...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/300px-Lomas_Rishi_entrance.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lomas_Rishi_entrance.jpg",
+            "caption": "Lomas Rishi entrance",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bindusara",
+            "summary": "Mauryan emperor from 297 to 273 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bindusara"
+        },
+        {
+            "name": "Dasharatha Maurya",
+            "summary": "Mauryan emperor from 232 to 224 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dasharatha_Maurya"
+        },
+        {
+            "name": "Karuvaki",
+            "summary": "Wife and Second Chief Queen of the emperor Ashoka",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ashoka_Inscriptions_Queen%27s_edict.jpg/250px-Ashoka_Inscriptions_Queen%27s_edict.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Karuvaki"
+        },
+        {
+            "name": "Tishyaraksha",
+            "summary": "Mauryan queen consort of Emperor Ashoka",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Asoka%27s_Queen.jpg/250px-Asoka%27s_Queen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tishyaraksha"
+        },
+        {
+            "name": "Mahinda (Buddhist monk)",
+            "summary": "Indian Buddhist monk and son of the Mauryan emperor Ashoka",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arhat_Mahinda_Thera_%28Son_of_Emperor_Ashoka%29.jpg/250px-Arhat_Mahinda_Thera_%28Son_of_Emperor_Ashoka%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahinda_%28Buddhist_monk%29"
+        },
+        {
+            "name": "Sanghamitta",
+            "summary": "Daughter (Sri Lankan Tradition) of Emperor Ashoka",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Arhat_Sangamitta_Theri.jpg/250px-Arhat_Sangamitta_Theri.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sanghamitta"
+        }
+    ],
+    "territory_geojson": null
+}

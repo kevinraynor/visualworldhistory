@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3369,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fe91f66a6bd4c0b93f7f405a4c2b199f551c96a7dfc53910c5a14e496ad0b669",
+    "summary": "The Nicaraguan Revolution culminated on July 19, 1979, when the Sandinista National Liberation Front (FSLN) overthrew the Somoza dictatorship that had ruled Nicaragua for over forty years. The Somozas had maintained power through brutal repression and with American support, but popular opposition coalesced after the assassination of journalist Pedro Joaquín Chamorro in 1978 and the widespread disgust at Somoza's misappropriation of earthquake relief funds in 1972. A broad coalition including business elites, the Catholic Church, and the Sandinistas rose against the regime.\n\nThe Sandinistas, a Marxist-influenced guerrilla movement, fought a successful insurgency that compelled Anastasio Somoza Debayle to flee into exile. The new government implemented literacy campaigns, health programs, and land reform that generated genuine popular support. However, the Reagan administration, viewing the Sandinistas as a Soviet-Cuban outpost in Central America, organized and funded the Contra insurgency from 1981 onward, destabilizing Nicaragua through a brutal proxy war.\n\nThe Iran-Contra affair revealed that the Reagan administration had secretly sold arms to Iran and diverted the proceeds to fund the Contras in violation of congressional restrictions. The Sandinistas held elections in 1990 and accepted defeat when the opposition coalition won, a peaceful transfer of power that surprised many analysts. Nicaragua's revolutionary experience illustrated the complex interplay of indigenous popular aspirations for social change and the constraints imposed by Cold War geopolitics.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nicaraguan_Revolution",
+    "read_more_links": [
+        {
+            "title": "Sandinistas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sandinista_National_Liberation_Front"
+        },
+        {
+            "title": "Contra (guerrillas) - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Contras"
+        },
+        {
+            "title": "Iran-Contra Affair - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Combatiente_con_RPG.jpg/300px-Combatiente_con_RPG.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Combatiente_con_RPG.jpg",
+            "caption": "Utilizando los \"bastones chinos\".\n\nInsurrección de León 1979 \n\nImágenes de la...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bandera_Resistencia_Nicarag%C3%BCense.png/300px-Bandera_Resistencia_Nicarag%C3%BCense.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bandera_Resistencia_Nicarag%C3%BCense.png",
+            "caption": "Флаг Никарагуанского сопротивления",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Contra_commandas_1987.jpg/300px-Contra_commandas_1987.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Contra_commandas_1987.jpg",
+            "caption": "FDN & ARDE Frente Sur Commandas, Nueva Guinea zone of southeast Nicaragua,  1987",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Insurgency_area_in_Nicaragua_%281984%29.png/300px-Insurgency_area_in_Nicaragua_%281984%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Insurgency_area_in_Nicaragua_%281984%29.png",
+            "caption": "Nicaragua: Area of insurgent activity",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "MG 3 machine gun",
+            "summary": "German general-purpose machine gun",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BundeswehrMG3_noBG.png/250px-BundeswehrMG3_noBG.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/MG_3_machine_gun"
+        },
+        {
+            "name": "Anastasio Somoza Debayle",
+            "summary": "President of Nicaragua (1967–72; 1974–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/1975_Press_Photo_Nicaragua_President_Anastasio_Somoza_%28cropped%29.png/250px-1975_Press_Photo_Nicaragua_President_Anastasio_Somoza_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anastasio_Somoza_Debayle"
+        },
+        {
+            "name": "Daniel Ortega",
+            "summary": "Leader of Nicaragua (1979–1990; since 2007)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Daniel_Ortega_on_July_20%2C_2024.jpg/250px-Daniel_Ortega_on_July_20%2C_2024.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Ortega"
+        },
+        {
+            "name": "Manuel Noriega",
+            "summary": "Military dictator of Panama from 1983 to 1989",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Manuel_Noriega_1990_U.S._Marshal_mugshot.jpg/250px-Manuel_Noriega_1990_U.S._Marshal_mugshot.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Manuel_Noriega"
+        },
+        {
+            "name": "Omar Torrijos",
+            "summary": "Military leader of Panama from 1968 to 1981",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Omar_Torrijos_1978.jpg/250px-Omar_Torrijos_1978.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Torrijos"
+        },
+        {
+            "name": "1973 Chilean coup d'état",
+            "summary": "Overthrow of President Salvador Allende",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Golpe_de_Estado_1973.jpg/250px-Golpe_de_Estado_1973.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat"
+        }
+    ],
+    "territory_geojson": null
+}

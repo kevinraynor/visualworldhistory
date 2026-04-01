@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3777,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:95e61c42866e2d511f30a9af9c12c476d243b425102833806941555651c942ae",
+    "summary": "Albert Einstein's theory of relativity, developed in two stages in the first two decades of the twentieth century, represents the most profound revolution in physics since Newton. The special theory of relativity (1905) arose from Einstein's radical reexamination of the concepts of space and time, demonstrating that the speed of light is constant for all observers regardless of their motion, and that as a consequence time passes more slowly for moving objects (time dilation) and their mass increases. The famous equation E=mc², derived from special relativity, established the equivalence of mass and energy.\n\nThe general theory of relativity (1915) extended these ideas to include gravity and acceleration, reconceiving gravity not as a force but as the curvature of spacetime caused by mass and energy. Einstein's equations predicted phenomena unknown to Newtonian mechanics, including the bending of light by gravity, the precession of Mercury's orbit, and gravitational time dilation. The bending of starlight during the solar eclipse of 1919, observed and measured by Arthur Eddington's expedition, confirmed a key prediction of general relativity and made Einstein instantly world-famous.\n\nGeneral relativity has been confirmed with extraordinary precision by every experimental test to which it has been subjected, including the detection of gravitational waves announced in 2016. The theory underpins our understanding of black holes, the Big Bang, and the large-scale structure of the universe, and has practical applications in the GPS satellite navigation systems that require relativistic corrections to function accurately. The related [[event:2701|Einstein's contributions to relativity]] remain central to fundamental physics a century after their formulation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+    "read_more_links": [
+        {
+            "title": "Special relativity",
+            "url": "https://en.wikipedia.org/wiki/Special_relativity"
+        },
+        {
+            "title": "General relativity",
+            "url": "https://en.wikipedia.org/wiki/General_relativity"
+        },
+        {
+            "title": "Albert Einstein",
+            "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+        },
+        {
+            "title": "Eddington experiment",
+            "url": "https://en.wikipedia.org/wiki/Eddington_experiment"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Einstein_Portrait.png/300px-Einstein_Portrait.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Einstein_Portrait.png",
+            "caption": "Albert Einstein, physicist, 1879 - 1955",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/300px-Earth-moon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg",
+            "caption": "This view of the rising Earth greeted the Apollo 8 astronauts as they came fr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Albert Einstein",
+            "summary": "German-born theoretical physicist (1879–1955)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/250px-Albert_Einstein_Head_cleaned.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+        },
+        {
+            "name": "Albert A. Michelson",
+            "summary": "American experimental physicist (1852–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Albert_Abraham_Michelson2.jpg/250px-Albert_Abraham_Michelson2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_A._Michelson"
+        },
+        {
+            "name": "Hendrik Lorentz",
+            "summary": "Dutch theoretical physicist (1853–1928)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg/250px-Nobelprijswinnaars._H.A._Lorentz_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hendrik_Lorentz"
+        },
+        {
+            "name": "Henri Poincaré",
+            "summary": "French mathematician, physicist and engineer (1854–1912)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/PSM_V82_D416_Henri_Poincare.png/250px-PSM_V82_D416_Henri_Poincare.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9"
+        },
+        {
+            "name": "Max Planck",
+            "summary": "German theoretical physicist (1858–1947)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/250px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Planck"
+        },
+        {
+            "name": "Hermann Minkowski",
+            "summary": "German mathematician and physicist (1864–1909)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/De_Raum_zeit_Minkowski_Bild_%28cropped%29.jpg/250px-De_Raum_zeit_Minkowski_Bild_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermann_Minkowski"
+        }
+    ],
+    "territory_geojson": null
+}

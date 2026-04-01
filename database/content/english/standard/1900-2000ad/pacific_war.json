@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3340,
+    "parent_id": 112,
+    "granularity": "notable",
+    "content_hash": "sha256:4aa2a9c93ca15a3d6453d8468234c0df8e72ef053812cc43d812d6d495a55822",
+    "summary": "The Pacific War (1941–1945) was the theater of [[event:112|World War II]] fought across the Pacific Ocean, East Asia, and Southeast Asia between Japan and the Allied powers led by the United States. Japan's strategic objective was to establish a Greater East Asia Co-Prosperity Sphere — effectively a Japanese empire in Asia — by expelling European colonial powers and the United States and securing the resources, particularly oil, rubber, and metals, that Japan lacked domestically. The war began with Japan's attack on [[event:2662|Pearl Harbor]] on December 7, 1941, which brought the United States into the conflict.\n\nJapan's initial offensive was spectacularly successful. Within months, Japanese forces had conquered the Philippines, Malaya, Singapore, Burma, the Dutch East Indies, Hong Kong, and island groups across the central Pacific. The fall of Singapore in February 1942, which Churchill called the worst disaster in British military history, and the conquest of the Philippines humiliated Western colonial powers before Asian populations. However, the [[event:2759|Battle of Midway]] in June 1942 halted Japan's naval advance and marked the turn of the tide.\n\nThe subsequent American strategy of island-hopping bypassed heavily fortified Japanese positions while capturing islands that could support the advance toward Japan. Guadalcanal, the Gilbert and Marshall Islands, Saipan, the Philippines, Iwo Jima, and Okinawa marked the bloody progression. Japan's situation became increasingly desperate as American submarines severed supply lines and air power destroyed cities. Japan's surrender in August 1945 followed the atomic bombings of [[event:2661|Hiroshima and Nagasaki]] and the Soviet entry into the war against Japan.\n\nThe Pacific War killed an estimated three to four million military personnel and an indeterminate but enormous number of civilians, primarily through Japanese occupation policies, forced labor, and starvation. Its legacy reshaped Asia: Western colonial empires were fatally weakened, laying the groundwork for the decolonization that followed, while Japan's transformation into a pacifist democratic state became one of the most remarkable political and cultural transformations of the twentieth century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pacific_War",
+    "read_more_links": [
+        {
+            "title": "Pacific War - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Pacific-War"
+        },
+        {
+            "title": "Greater East Asia Co-Prosperity Sphere - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Greater_East_Asia_Co-Prosperity_Sphere"
+        },
+        {
+            "title": "Fall of Singapore - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Singapore"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg/300px-Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg",
+            "caption": "The Japanese aircraft carrier Hiryu maneuvers to avoid bombs dropped by USAAF...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg/300px-Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Japanese_aircraft_carrier_Hiryu_maneuvers_to_avoid_bombs_on_4_June_1942_%28USAF-3725%29.jpg",
+            "caption": "The Japanese aircraft carrier Hiryu maneuvers to avoid bombs dropped by USAAF...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/American_forces_landing_at_Rendova_Island.JPEG/300px-American_forces_landing_at_Rendova_Island.JPEG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/American_forces_landing_at_Rendova_Island.JPEG",
+            "caption": "Landing operations on Rendova Island, Solomon Islands, 30 June 1943.  Attacki...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Army_B-25_%28Doolittle_Raid%29.jpg/300px-Army_B-25_%28Doolittle_Raid%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Army_B-25_%28Doolittle_Raid%29.jpg",
+            "caption": "A U.S. Army Air Forces North American B-25B Mitchell bomber takes off from th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Imperial Japanese Navy Air Service",
+            "summary": "Air arm of the Imperial Japanese Navy from 1912 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Naval_ensign_of_Japan_%281889%E2%80%931945%29.svg/250px-Naval_ensign_of_Japan_%281889%E2%80%931945%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Imperial_Japanese_Navy_Air_Service"
+        },
+        {
+            "name": "Chiang Kai-shek",
+            "summary": "Leader of the Republic of China from 1928 to 1975",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/250px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek"
+        },
+        {
+            "name": "Franklin D. Roosevelt",
+            "summary": "President of the United States from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/250px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        },
+        {
+            "name": "Winston Churchill",
+            "summary": "British statesman and writer (1874–1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/250px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+            "name": "Hirohito",
+            "summary": "Emperor of Japan from 1926 to 1989",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hirohito_in_dress_uniform_%28cropped%29.jpg/250px-Hirohito_in_dress_uniform_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hirohito"
+        },
+        {
+            "name": "Seni Pramoj",
+            "summary": "Prime Minister of Thailand (1945–1946; 1975; 1976)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Seni_Pramot_1961_cropped.jpg/250px-Seni_Pramot_1961_cropped.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Seni_Pramoj"
+        }
+    ],
+    "territory_geojson": null
+}

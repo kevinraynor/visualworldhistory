@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 50,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:0f5e3aea4f6991c8544ed01dd7b08aca60cedf71cf5b742db37728578a3cd42f",
+    "summary": "Silk production in China is traditionally dated to approximately 3500-3000 BCE, a period during which Neolithic communities in the Yellow River and Yangtze River basins were already engaged in sophisticated textile and agricultural production. The cultivation of silkworms (sericulture) and the reeling of silk thread from their cocoons represent one of China's most consequential technological contributions to world history, eventually giving rise to the trans-continental Silk Road trade network that linked East Asia to Central Asia, the Middle East, and ultimately Europe.\n\nThe silkworm (Bombyx mori) feeds exclusively on mulberry leaves, and sericulture requires the cultivation of mulberry trees alongside the careful management of silkworm breeding cycles. The earliest physical evidence for silk — fragments of woven fabric and cocoons — comes from Neolithic sites including Jiahu (associated with the Peiligang culture, c. 6000 BCE for some silk-related finds) and later from Yangshao and Liangzhu cultural contexts. The most widespread and systematic sericulture in the fourth millennium BCE is associated with cultures including [[event:1674|Liangzhu]] in the Yangtze delta region.\n\nChinese tradition attributes the discovery of silk to the legendary Yellow Emperor's consort, Leizu, who is said to have discovered the properties of the silkworm cocoon when one fell into her tea. While this is mythology rather than history, it reflects the deep cultural significance of silk in Chinese civilization, where the material became associated with royalty, ritual, and refinement. The knowledge of sericulture was guarded as a state secret for millennia — the punishment for smuggling silkworm eggs or mulberry seeds out of China was reportedly death — giving China a monopoly on silk production that it maintained until the sixth century CE.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Silk#History",
+    "read_more_links": [
+        {
+            "title": "Sericulture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sericulture"
+        },
+        {
+            "title": "Silk Road - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Silk_Road"
+        },
+        {
+            "title": "Silk - Britannica",
+            "url": "https://www.britannica.com/topic/silk"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Silk_Production_in_Japan_-_Weighing_Raw_Silk.jpg/300px-Silk_Production_in_Japan_-_Weighing_Raw_Silk.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Silk_Production_in_Japan_-_Weighing_Raw_Silk.jpg",
+            "caption": "Scope and content:  September 1918 photo of four Japanese men weighing bundle...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Saree_on_display_at_Dilli_Haat.JPG/300px-Saree_on_display_at_Dilli_Haat.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Saree_on_display_at_Dilli_Haat.JPG",
+            "caption": "A saree on display at Dilli Haat, INA, Delhi.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Satin_m%C3%A3_ch%C3%A2u_2.jpg/300px-Satin_m%C3%A3_ch%C3%A2u_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Satin_m%C3%A3_ch%C3%A2u_2.jpg",
+            "caption": "satin from Ma Chau village, Quảng Nam province",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Thai_man_spools_silk_at_Jim_Thompson_House_photo_D_Ramey_Logan.jpg/300px-Thai_man_spools_silk_at_Jim_Thompson_House_photo_D_Ramey_Logan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Thai_man_spools_silk_at_Jim_Thompson_House_photo_D_Ramey_Logan.jpg",
+            "caption": "Thai man spools silk at Jim Thompson House photo D Ramey Logan",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leizu",
+            "summary": "Legendary Chinese empress",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/%E9%BB%83%E5%B8%9D%E5%A6%83%E8%A5%BF%E9%99%B5%E6%B0%8F%E6%95%99%E6%B0%91%E8%9A%95%EF%BC%88%E5%BB%BF%E4%B8%80%E5%8F%B2%E9%80%9A%E4%BF%97%E8%A1%8D%E7%BE%A9%EF%BC%89.jpg/250px-%E9%BB%83%E5%B8%9D%E5%A6%83%E8%A5%BF%E9%99%B5%E6%B0%8F%E6%95%99%E6%B0%91%E8%9A%95%EF%BC%88%E5%BB%BF%E4%B8%80%E5%8F%B2%E9%80%9A%E4%BF%97%E8%A1%8D%E7%BE%A9%EF%BC%89.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leizu"
+        }
+    ],
+    "territory_geojson": null
+}

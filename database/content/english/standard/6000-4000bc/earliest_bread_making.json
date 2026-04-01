@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3714,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:39661efaa54d8587ea7ef9c9959288a170f673eb2266564ce9eb3c912351946c",
+    "summary": "Evidence for bread making in the ancient Near East extends well back into the Neolithic period, with charred bread remains from sites such as Shubayqa 1 in Jordan dated to around 14,400 years ago — predating agriculture — though systematic bread production in the Levant and Mesopotamia became firmly established by the sixth and fifth millennia BC. Bread in this period was most commonly unleavened, made from ground emmer wheat or barley mixed with water and baked on hot stones or in simple clay ovens. The development of querns and grinding stones for processing grain was a prerequisite for large-scale bread production.\n\nBread became a dietary staple and a unit of social organization in early agricultural communities, with records from later Mesopotamian cities documenting bread rations distributed to workers and temple personnel. The fifth millennium Levantine and Mesopotamian cultures that refined bread-making techniques contributed to a food tradition that became central to civilization across the ancient Near East, Egypt, and eventually the broader Old World. The energy-dense, portable, and storable nature of bread made it an ideal food for sedentary and mobile communities alike.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bread#History",
+    "read_more_links": [
+        {
+            "title": "History of agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture"
+        },
+        {
+            "title": "Ancient grain processing - Britannica",
+            "url": "https://www.britannica.com/topic/bread/History-of-breadmaking"
+        },
+        {
+            "title": "Neolithic Revolution - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Revolution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg/300px-Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Woman_baking_bread-E_25213-IMG_4514-gradient.jpg",
+            "caption": "Woman baking bread-E 25213-IMG 4514-gradient",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tortillas_de_rescoldo.jpg/300px-Tortillas_de_rescoldo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tortillas_de_rescoldo.jpg",
+            "caption": "The tortilla de rescoldo is a traditional Chilean unleavened bread prepared b...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Korb_mit_Br%C3%B6tchen.JPG/300px-Korb_mit_Br%C3%B6tchen.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Korb_mit_Br%C3%B6tchen.JPG",
+            "caption": "Frühstückskorb mit Sesambrötchen, Mehrkornbrötchen, Roggenbrötchen, Schrippe ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wei%C3%9Fbrot-1.jpg/300px-Wei%C3%9Fbrot-1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Wei%C3%9Fbrot-1.jpg",
+            "caption": "French white bread, cut off at the front.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Baker's yeast",
+            "summary": "Yeast used as a leavening agent in baking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/20100911_232323_Yeast_Live.jpg/250px-20100911_232323_Yeast_Live.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baker%27s_yeast"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Dough",
+            "summary": "Paste used in cooking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dough.jpg/250px-Dough.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dough"
+        }
+    ],
+    "territory_geojson": null
+}

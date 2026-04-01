@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3339,
+    "parent_id": 112,
+    "granularity": "detailed",
+    "content_hash": "sha256:dd07a8355f1d6812b497ef8cf43045177d24fbe4ab550ef2eee4d48a0701414b",
+    "summary": "The Allied campaign in Italy lasted from the July 1943 invasion of Sicily to Germany's surrender in May 1945, making it one of the longest campaigns in the western theater of [[event:112|World War II]]. The Allied landings in Sicily precipitated the fall of Mussolini in July 1943, and Italy subsequently signed an armistice in September 1943. However, German forces occupied most of Italy, establishing a formidable defensive line and fighting a prolonged rearguard action northward.\n\nThe campaign proved far more costly and slow than Allied planners had anticipated. The Allies fought through a succession of German defensive lines — the Volturno Line, the Winter Line, the Gustav Line — in mountainous terrain ideally suited to defense. The battles at Cassino, including the controversial bombing of the Monte Cassino monastery, and the Allied landing at Anzio — which initially failed to break through — tested Allied endurance. Rome was finally liberated on June 4, 1944, two days before [[event:2659|D-Day in Normandy]].\n\nThe Italian campaign's strategic value was disputed. It tied down significant German forces and contributed to the Allied victory, but critics argued that its costs in men and materiel were disproportionate to its strategic gains. The campaign ended when German forces in Italy surrendered on May 2, 1945, days before the general German surrender.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Italian_campaign_(World_War_II)",
+    "read_more_links": [
+        {
+            "title": "Italian Campaign - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Italian-campaign-World-War-II"
+        },
+        {
+            "title": "Battle of Monte Cassino - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Monte_Cassino"
+        },
+        {
+            "title": "Battle of Anzio - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Anzio"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ItalySalernoInvasion1943.jpg/300px-ItalySalernoInvasion1943.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/ItalySalernoInvasion1943.jpg",
+            "caption": "Artillery being landed during the invasion of mainland Italy at Salerno, Sept...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Troops_from_51st_Highland_Division_unloading_stores_from_tank_landing_craft_on_the_opening_day_of_the_Allied_invasion_of_Sicily%2C_10_July_1943._A17916.jpg/300px-Troops_from_51st_Highland_Division_unloading_stores_from_tank_landing_craft_on_the_opening_day_of_the_Allied_invasion_of_Sicily%2C_10_July_1943._A17916.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Troops_from_51st_Highland_Division_unloading_stores_from_tank_landing_craft_on_the_opening_day_of_the_Allied_invasion_of_Sicily%2C_10_July_1943._A17916.jpg",
+            "caption": "Troops from 51st Highland Division unloading stores from tank landing craft o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ItalyDefenseLinesSouthofRome1943_4.jpg/300px-ItalyDefenseLinesSouthofRome1943_4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/ItalyDefenseLinesSouthofRome1943_4.jpg",
+            "caption": "German prepared defensive lines in Italy south of Rome 1943-44",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dwight D. Eisenhower",
+            "summary": "President of the United States from 1953 to 1961",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/250px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+        },
+        {
+            "name": "Henry Maitland Wilson",
+            "summary": "British field marshal (1881–1964)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hmwilson1944.jpg/250px-Hmwilson1944.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Maitland_Wilson"
+        },
+        {
+            "name": "Harold Alexander, 1st Earl Alexander of Tunis",
+            "summary": "British field marshal; Governor General of Canada (1891–1969)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Harold_Alexander_E010750678-v8.jpg/250px-Harold_Alexander_E010750678-v8.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harold_Alexander%2C_1st_Earl_Alexander_of_Tunis"
+        },
+        {
+            "name": "Mark W. Clark",
+            "summary": "American general (1896–1984)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/General_Mark_W._Clark_%28cropped%29.jpg/250px-General_Mark_W._Clark_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_W._Clark"
+        },
+        {
+            "name": "Heinrich von Vietinghoff",
+            "summary": "German general (1887–1952)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Heinrich_von_Vietinghoff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_von_Vietinghoff"
+        },
+        {
+            "name": "Benito Mussolini",
+            "summary": "Dictator of Italy from 1922 to 1943",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mussolini_mezzobusto.jpg/250px-Mussolini_mezzobusto.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Benito_Mussolini"
+        }
+    ],
+    "territory_geojson": null
+}

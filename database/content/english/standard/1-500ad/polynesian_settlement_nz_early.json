@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2099,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:963cb0f6f8624794200c574c27280ac285a445f4f3caa20362138b3e9e4eab9d",
+    "summary": "The Polynesian settlement of New Zealand (Aotearoa, c. 1200–1300 AD according to modern radiocarbon dating) was the last major colonization of a significant landmass in human history — the arrival of the ancestors of the Māori people, most likely from the Cook Islands or Society Islands, in double-hulled voyaging canoes crossing thousands of kilometers of open ocean. New Zealand is one of the last large habitable territories on Earth to have been settled by humans, making the Māori colonization an event of global historical significance. Traditional Māori oral accounts record the Great Fleet of canoes (Horouta, Tainui, Te Arawa, and others) as ancestral vessels whose names correspond to iwi (tribal) genealogies.\n\nNote: While listed in the 1–500 AD era category for registry purposes, the actual settlement of New Zealand occurred around 1200–1300 AD — significantly later than the era designation suggests. The entry is categorized here alongside the broader Polynesian expansion narrative. The Māori found an environment radically different from tropical Polynesia: a temperate, forested archipelago with no native land mammals (only birds, bats, and marine life). The extinction of the moa (a giant flightless bird, the largest bird ever) and other species followed human arrival within a few centuries. Māori culture developed distinct traditions — the haka, elaborate wood carving, tattooing (tā moko), and a rich oral literature of whakapapa (genealogy) — adapted to New Zealand's specific environment. Māori first encountered Europeans when Abel Tasman arrived in 1642 and James Cook in 1769.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_New_Zealand#Settlement_by_M%C4%81ori",
+    "read_more_links": [
+        {
+            "title": "Māori origins Polynesia",
+            "url": "https://en.wikipedia.org/wiki/M%C4%81ori_people#Origins"
+        },
+        {
+            "title": "Moa extinction New Zealand",
+            "url": "https://en.wikipedia.org/wiki/Moa"
+        },
+        {
+            "title": "Great Fleet canoe tradition",
+            "url": "https://en.wikipedia.org/wiki/Great_Fleet"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/William_Allsworth_-_The_emigrants_-_Google_Art_Project.jpg/300px-William_Allsworth_-_The_emigrants_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/William_Allsworth_-_The_emigrants_-_Google_Art_Project.jpg",
+            "caption": "William Allsworth - The emigrants - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Treatyofwaitangi.jpg/300px-Treatyofwaitangi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Treatyofwaitangi.jpg",
+            "caption": "The Waitangi Sheet of the Treaty of Waitangi, signed between the British Crow...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/First_Government_House%2C_Auckland.jpg/300px-First_Government_House%2C_Auckland.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/First_Government_House%2C_Auckland.jpg",
+            "caption": "The first Government House in Auckland. Hobson moved in during March 1841. Th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Australian_ogre_1900.jpg/300px-Australian_ogre_1900.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Australian_ogre_1900.jpg",
+            "caption": "How we see it. A cartoon depicting New Zealand's reaction to Australia's invi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Abel Tasman",
+            "summary": "Dutch seafarer, explorer and merchant (1603–1659)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abel_Tasman_-_Cuyp_%28cropped%29_%28adjusted%29.jpg/250px-Abel_Tasman_-_Cuyp_%28cropped%29_%28adjusted%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abel_Tasman"
+        },
+        {
+            "name": "James Cook",
+            "summary": "British explorer and naval officer (1728–1779)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/250px-Captainjamescookportrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Cook"
+        },
+        {
+            "name": "Rangatira",
+            "summary": "Hereditary Māori leaders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ihaia_Te_Kirikumara.jpg/250px-Ihaia_Te_Kirikumara.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rangatira"
+        },
+        {
+            "name": "Kupe",
+            "summary": "Māori semi-legendary explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kupe_Statue.jpg/250px-Kupe_Statue.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kupe"
+        }
+    ],
+    "territory_geojson": null
+}

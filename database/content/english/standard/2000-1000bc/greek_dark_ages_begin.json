@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1826,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ff86dda091517c6da08efc7a367c39a065bcb76e95075c994663868c70a7a622",
+    "summary": "The Greek Dark Ages, beginning around 1100 BC following the [[event:1815|Bronze Age Collapse]], represent one of history's most dramatic civilizational contractions. Within a generation, the palatial [[event:57|Mycenaean civilization]] of mainland Greece ceased to function: palace centers were abandoned or destroyed, the [[event:1823|Linear B]] writing system disappeared, long-distance trade collapsed, population declined sharply, and communities contracted to small, relatively isolated villages.\n\nArchaeological evidence documents the severity of the regression. Settlement sizes shrank dramatically. The sophisticated craft industries of the Mycenaean period — fine painted pottery, metalwork, ivory carving — contracted or disappeared. Writing, which had served the palace bureaucracies, vanished entirely, leaving a gap of approximately four centuries before alphabetic writing was adopted. Burial evidence suggests a significant population decline, with fewer and less elaborate burials across the period.\n\nThe Dark Ages were not completely static. Throughout the period, communities maintained basic agricultural and pastoral subsistence, iron technology gradually replaced bronze, and trade connections slowly recovered, particularly with the Phoenician east. By the ninth and eighth centuries BC, population began to increase again, settlements grew, and contact with the wider Mediterranean world resumed. The adoption of the [[event:1835|Phoenician alphabet]] around 800 BC ended the period of illiteracy and opened the way for the literary and cultural explosion of the Archaic period, including the composition of the Homeric epics.\n\nThe Greek Dark Ages serves as a reminder that civilizational progress is not inevitable and that complex societies can lose capabilities as well as gain them. The memory of Mycenae, preserved in oral tradition through the Dark Ages, re-emerged transformed as the legendary world of the Trojan War — one of the most enduring cultural legacies of the ancient world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greek_Dark_Ages",
+    "read_more_links": [
+        {
+            "title": "Bronze Age Collapse",
+            "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+        },
+        {
+            "title": "Proto-Geometric Greece",
+            "url": "https://en.wikipedia.org/wiki/Protogeometric_period"
+        },
+        {
+            "title": "Greek Dark Ages - Britannica",
+            "url": "https://www.britannica.com/topic/Greek-Dark-Ages"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/300px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "caption": "Greece, Archipelago and part of Anadoli. Published for Willm. Faden, Geograph...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Early_Geometric_Jewelry_from_the_Areopagus_of_Athens._Ancient_Agora_Museum_of_Athens.jpg/300px-Early_Geometric_Jewelry_from_the_Areopagus_of_Athens._Ancient_Agora_Museum_of_Athens.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Early_Geometric_Jewelry_from_the_Areopagus_of_Athens._Ancient_Agora_Museum_of_Athens.jpg",
+            "caption": "14-16: Broad gold finger rings. \n17-19: Gold finger rings\n20: Pair of gold ea...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/3141_-_Athens_-_Sto%C3%A0_of_Attalus_Museum_-_Model_granaries_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_9_2009.jpg/300px-3141_-_Athens_-_Sto%C3%A0_of_Attalus_Museum_-_Model_granaries_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_9_2009.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/3141_-_Athens_-_Sto%C3%A0_of_Attalus_Museum_-_Model_granaries_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_9_2009.jpg",
+            "caption": "Geometric-style box in the shape of a barn. On display in the Ancient Agora M...",
+            "attribution": "Wikimedia Commons, Attribution"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/AGM_Ancient_Greek_Pair_of_Terracotta_Boots.jpg/300px-AGM_Ancient_Greek_Pair_of_Terracotta_Boots.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/AGM_Ancient_Greek_Pair_of_Terracotta_Boots.jpg",
+            "caption": "Ancient Greek pair of terracotta boots. Early geometric period cremation buri...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        }
+    ],
+    "territory_geojson": null
+}

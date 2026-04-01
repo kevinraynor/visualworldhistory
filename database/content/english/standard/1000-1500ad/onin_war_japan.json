@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3046,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d8f598875898d6c2c781a24aa3004cff79c91442beeec463bdfe6466c6f19560",
+    "summary": "The Ōnin War (1467–1477 AD) was a decade-long civil war fought primarily in and around Kyoto that destroyed much of the ancient imperial capital and marked the beginning of the [[event:3047|Sengoku period]] — the century of civil war that would convulse Japan until Tokugawa Ieyasu's final reunification in 1603. The war began as a succession dispute within the Ashikaga shogunate (rival claimants to the position of shogun backed by different coalitions of great lords) and rapidly expanded as regional lords (daimyo) took sides, eventually degenerating into destructive fighting that burned down much of Kyoto's historic temples, palaces, and residential districts.\n\nThe Ōnin War's most significant consequence was not its military outcome (which was essentially a stalemate, resolving nothing) but its demonstration that the [[event:2281|Muromachi shogunate]] could no longer enforce order among the great lords — that the central authority that had kept Japan's regional powers in submission had effectively collapsed. The war initiated the process by which regional daimyo became virtually independent rulers of their domains, owing only nominal fealty to the shogun, and conducted warfare among themselves for territorial advantage. The courtly culture of Kyoto — Noh theatre, tea ceremony, ink painting — paradoxically flourished in the midst of destruction as patrons scattered and cultural practices spread through the provinces. The devastation of Kyoto also allowed the imperial court and the shogunate to fall into genteel poverty, accelerating the fiscal crisis that made central authority impossible to sustain.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C5%8Cnin_War",
+    "read_more_links": [
+        {
+            "title": "Ōnin War Kyoto destruction causes",
+            "url": "https://en.wikipedia.org/wiki/%C5%8Cnin_War#Causes"
+        },
+        {
+            "title": "Muromachi shogunate authority collapse",
+            "url": "https://en.wikipedia.org/wiki/%C5%8Cnin_War#Aftermath"
+        },
+        {
+            "title": "Sengoku period beginning Onin War",
+            "url": "https://en.wikipedia.org/wiki/Sengoku_period#Origins"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png/300px-Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Onin-War-1467-1477-The-Battle-of-Onin-by-Utagawa-Yoshitora.png",
+            "caption": "The Battle of Onin during the Onin War (1467-1477) by Utagawa Yoshitora.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Shinnyod%C5%8D_engi%2C_vol.3_%28part%29.jpg/300px-Shinnyod%C5%8D_engi%2C_vol.3_%28part%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Shinnyod%C5%8D_engi%2C_vol.3_%28part%29.jpg",
+            "caption": "Ōnin War (rebellion). A light soldier called Ashigaru was active. \"Shinnyodo ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sengoku_period_1467.png/300px-Sengoku_period_1467.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sengoku_period_1467.png",
+            "caption": "Edited from Maps_of_the_former_provinces_of_Japan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/OninNoRanMarker.jpg/300px-OninNoRanMarker.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/OninNoRanMarker.jpg",
+            "caption": "OninNoRanMarker",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Utagawa Yoshitora",
+            "summary": "Japanese artist (1836–1880)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Signatures_of_Utagawa_Yoshitora_reading_from_left-_Ichimosai_Yoshitora_ga%2C_Kinchoro_Yoshitora_ga_and_Mosai_Yoshitora_ga.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Utagawa_Yoshitora"
+        },
+        {
+            "name": "Ashikaga Yoshihisa",
+            "summary": "Military ruler of Japan from 1465 to 1489",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ashikaga_Yoshihisa_Tenry%C5%AB-ji.jpg/250px-Ashikaga_Yoshihisa_Tenry%C5%AB-ji.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashikaga_Yoshihisa"
+        },
+        {
+            "name": "Ikkō-ikki",
+            "summary": "Followers of Jōdo-Shinshū Buddhism who rebelled against their rulers in feudal Japan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Turumaru_Flags.jpg/250px-Turumaru_Flags.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ikk%C5%8D-ikki"
+        },
+        {
+            "name": "Yamana Sōzen",
+            "summary": "Japanese monk",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Yamana-sozen-red_monk.jpg/250px-Yamana-sozen-red_monk.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yamana_S%C5%8Dzen"
+        },
+        {
+            "name": "Ashikaga Yoshimasa",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1436 to 1490",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ashikaga_Yoshimasa.jpg/250px-Ashikaga_Yoshimasa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashikaga_Yoshimasa"
+        },
+        {
+            "name": "Emperor Go-Tsuchimikado",
+            "summary": "Emperor of Japan from 1464 to 1500",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Emperor_Go-Tsuchimikado.jpg/250px-Emperor_Go-Tsuchimikado.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Tsuchimikado"
+        }
+    ],
+    "territory_geojson": null
+}

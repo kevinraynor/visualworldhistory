@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3771,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:94d77f9f3bd822cffac0de03cecf64267e924939b320f55d24d1d5aaf1edb180",
+    "summary": "The Great Exhibition of the Works of Industry of All Nations, held in London's Hyde Park from May to October 1851, was the first world's fair and a defining expression of Victorian confidence in industrial progress, free trade, and human improvement through technology. Organized primarily by Prince Albert and the Royal Society of Arts, it brought together more than 100,000 exhibits from thirty-two nations in the purpose-built Crystal Palace — an unprecedented iron-and-glass prefabricated structure designed by Joseph Paxton — and attracted over six million visitors during its five-month run.\n\nThe exhibition was organized around categories of raw materials, machinery, manufactures, and fine arts, with Britain and its empire dominating the displays of industrial machinery and mass-produced goods. The Jacquard loom, the hydraulic press, machine tools, steam engines, and early telegraphs demonstrated the productive power of the [[event:108|Industrial Revolution]] at its mid-century peak. The Crystal Palace itself was one of the exhibition's greatest exhibits — an engineering marvel assembled from standardized cast-iron components and 900,000 square feet of glass, prefabricated in Birmingham and erected in Hyde Park in nine months.\n\nThe Great Exhibition model — a temporary international showcase of industrial and artistic achievement in a spectacular purpose-built venue — was enormously influential, spawning successors in Paris (1855, 1867, 1889, 1900), Philadelphia (1876), Chicago (1893), and dozens of others across the following century. The profits from the 1851 exhibition funded the South Kensington museum complex — including what became the Victoria and Albert Museum, the Natural History Museum, and the Science Museum — an enduring legacy in the cultural landscape of London.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Exhibition",
+    "read_more_links": [
+        {
+            "title": "Crystal Palace – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Crystal_Palace"
+        },
+        {
+            "title": "World's Fairs – Britannica",
+            "url": "https://www.britannica.com/topic/worlds-fair"
+        },
+        {
+            "title": "Prince Albert – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prince_Albert,_Prince_Consort"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Crystal_Palace_in_Hyde_Park_for_Grand_International_Exhibition_of_1851.jpg/300px-The_Crystal_Palace_in_Hyde_Park_for_Grand_International_Exhibition_of_1851.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/The_Crystal_Palace_in_Hyde_Park_for_Grand_International_Exhibition_of_1851.jpg",
+            "caption": "View from the Knightsbridge Road of The Crystal Palace in Hyde Park for Grand...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/1851_ground_plan.jpg/300px-1851_ground_plan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/1851_ground_plan.jpg",
+            "caption": "Plan of the Crystal palace Great Exhibition of 1851",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Crystal_Palace_from_the_northeast_from_Dickinson%27s_Comprehensive_Pictures_of_the_Great_Exhibition_of_1851._1854.jpg/300px-Crystal_Palace_from_the_northeast_from_Dickinson%27s_Comprehensive_Pictures_of_the_Great_Exhibition_of_1851._1854.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Crystal_Palace_from_the_northeast_from_Dickinson%27s_Comprehensive_Pictures_of_the_Great_Exhibition_of_1851._1854.jpg",
+            "caption": "The Crystal Palace from the northeast during the Great Exhibition of 1851.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Prince Albert of Saxe-Coburg and Gotha",
+            "summary": "Consort of Queen Victoria from 1840 to 1861",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prince_Albert_of_Saxe-Coburg-Gotha.png/250px-Prince_Albert_of_Saxe-Coburg-Gotha.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Albert_of_Saxe-Coburg_and_Gotha"
+        },
+        {
+            "name": "Queen Victoria",
+            "summary": "Queen of the United Kingdom from 1837 to 1901",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/250px-Queen_Victoria_by_Bassano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Victoria"
+        },
+        {
+            "name": "Karl Marx",
+            "summary": "German philosopher and socialist (1818–1883)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png/250px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Karl_Marx"
+        },
+        {
+            "name": "Michael Faraday",
+            "summary": "English chemist and physicist (1791–1867)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/250px-Michael_Faraday_sitting_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Faraday"
+        },
+        {
+            "name": "Samuel Colt",
+            "summary": "American industrialist and inventor (1814–1862)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Samuel_Colt_engraving_by_John_Chester_Buttre%2C_c1855.jpg/250px-Samuel_Colt_engraving_by_John_Chester_Buttre%2C_c1855.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Colt"
+        },
+        {
+            "name": "Charlotte Brontë",
+            "summary": "English novelist and poet (1816–1855)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg/250px-Charlotte_Bront%C3%AB_by_Patrick_Branwell_Bront%C3%AB_restored.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1992,
+    "parent_id": 1937,
+    "granularity": "detailed",
+    "content_hash": "sha256:ed123d126f2e4fb62129fa7b38156385aa5414aeb2ef429cdfd4b4cb7c8eb452",
+    "summary": "Heraclitus of Ephesus (c. 535–475 BC) was one of the most original and difficult of the Presocratic philosophers, known in antiquity as 'the obscure' for his deliberately cryptic aphoristic style — he believed that most people are incapable of understanding deep truth and should be challenged rather than condescended to. His central philosophical insights — that all things are in constant flux ('you cannot step into the same river twice'), that opposites are unified ('the road up and the road down are the same road'), and that the Logos (rational principle) governs all change — were foundational for Western philosophy.\n\nHeraclitus proposed fire as the fundamental element, not as a static substance but as a symbol of perpetual transformation: everything flows (panta rhei), all things are constantly changing into their opposites, and what appears stable is merely the balance of opposing forces. His concept of the Logos as a universal rational principle underlying the apparent chaos of change influenced the Stoics enormously (see [[event:1195|Stoicism Founded]]), who took up his Logos concept and developed it into their own doctrine of divine reason permeating the universe. The Gospel of John's opening ('In the beginning was the Logos') also draws on this tradition. Heraclitus's aristocratic contempt for popular opinion and his insistence on paradox as a tool of philosophical insight made him a favorite reference for later thinkers including Hegel.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Heraclitus",
+    "read_more_links": [
+        {
+            "title": "Heraclitus fire doctrine",
+            "url": "https://en.wikipedia.org/wiki/Heraclitus#Fire_and_change"
+        },
+        {
+            "title": "Logos concept Heraclitus",
+            "url": "https://en.wikipedia.org/wiki/Logos#Heraclitus"
+        },
+        {
+            "title": "Panta rhei all things flow",
+            "url": "https://en.wikipedia.org/wiki/Heraclitus#Panta_rhei,_universal_flux"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG/300px-1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/1831_Schlesinger_Philosoph_Georg_Friedrich_Wilhelm_Hegel_anagoria.JPG",
+            "caption": "1831 Schlesinger Philosoph Georg Friedrich Wilhelm Hegel anagoria",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/K%C4%B1z%C4%B1l%C4%B1rmak_River_from_Kap%C4%B1kaya_K%C3%B6y%C3%BC.jpg/300px-K%C4%B1z%C4%B1l%C4%B1rmak_River_from_Kap%C4%B1kaya_K%C3%B6y%C3%BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/K%C4%B1z%C4%B1l%C4%B1rmak_River_from_Kap%C4%B1kaya_K%C3%B6y%C3%BC.jpg",
+            "caption": "Kızılırmak",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rijksmuseum.amsterdam_%2866%29_%2815195464645%29.jpg/300px-Rijksmuseum.amsterdam_%2866%29_%2815195464645%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Rijksmuseum.amsterdam_%2866%29_%2815195464645%29.jpg",
+            "caption": "Heraclitus, talking and gesturing while he is leaning on a globe with his rig...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zoroastrian_Fire_Temple%2C_Yazd_%282%29.jpg/300px-Zoroastrian_Fire_Temple%2C_Yazd_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zoroastrian_Fire_Temple%2C_Yazd_%282%29.jpg",
+            "caption": "Zoroastrian Eternal Flame at the Fire Temple in Yazd, Central Iran",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Georg Wilhelm Friedrich Hegel",
+            "summary": "German philosopher (1770–1831)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/250px-Jakob_Schlesinger_-_Hegel_1831.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
+        },
+        {
+            "name": "Friedrich Nietzsche",
+            "summary": "German philosopher (1844–1900)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/250px-Nietzsche187a.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+        },
+        {
+            "name": "Martin Heidegger",
+            "summary": "German philosopher (1889–1976)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Freiburg%2C_Z%C3%A4hringen-_Jahnhalle%2C_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_%28cropped%29.jpeg/250px-Freiburg%2C_Z%C3%A4hringen-_Jahnhalle%2C_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_%28cropped%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Heidegger"
+        },
+        {
+            "name": "Misanthropy",
+            "summary": "General dislike of humanity",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LeMisanthrope.jpg/250px-LeMisanthrope.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Misanthropy"
+        }
+    ],
+    "territory_geojson": null
+}

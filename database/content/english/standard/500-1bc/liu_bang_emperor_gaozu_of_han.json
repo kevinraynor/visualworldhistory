@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1136,
+    "parent_id": 77,
+    "granularity": "detailed",
+    "content_hash": "sha256:e57db4d4f2225f56918babd49e53e1b36d58385d20e2af6def4a8ce8cf9f9e0b",
+    "summary": "Liu Bang, Emperor Gaozu of Han (reigned 202–195 BC), was a peasant-born rebel leader who defeated the aristocratic Xiang Yu in the [[event:1124|Chu-Han Contention]] to become founder of the [[event:77|Han Dynasty]] — one of the most consequential dynasties in Chinese history — demonstrating that political ability and popular legitimacy could trump birth and military genius.\n\nLiu Bang's background was exceptional for a dynasty founder: he was a village official of no particular distinction before the [[event:1123|Fall of the Qin Dynasty]] gave him the opportunity to rise. His success stemmed from political astuteness, willingness to delegate to talented subordinates (including the strategist Zhang Liang and administrator Xiao He), and a governing philosophy of lighter taxation and reduced state interference after Qin's oppressive rule. As emperor, Gaozu maintained the Qin administrative system (commanderies, prefectures) but relaxed the harshest laws, granted amnesty to former enemies, and allowed the economy to recover. He faced the immediate crisis of the powerful [[event:1133|Xiongnu Empire]] and the [[event:1230|Seven Kingdoms Rebellion]] potential from his own enfeoffed relatives — problems he managed through compromise rather than confrontation, establishing patterns his successors followed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han",
+    "read_more_links": [
+        {
+            "title": "Zhang Liang",
+            "url": "https://en.wikipedia.org/wiki/Zhang_Liang_(advisor)"
+        },
+        {
+            "title": "Xiao He",
+            "url": "https://en.wikipedia.org/wiki/Xiao_He"
+        },
+        {
+            "title": "Han dynasty founding",
+            "url": "https://en.wikipedia.org/wiki/Han_dynasty#Founding"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Changling_1.jpg/300px-Changling_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Changling_1.jpg",
+            "caption": "Changling - Grab des Kaisers",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Portraits_of_Famous_Men_-_Liu_Bang.jpg/300px-Portraits_of_Famous_Men_-_Liu_Bang.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Portraits_of_Famous_Men_-_Liu_Bang.jpg",
+            "caption": "Portraits of Famous Men - Liu Bang",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/01_Wine_vessel_Western_Han_dynasty.jpg/300px-01_Wine_vessel_Western_Han_dynasty.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/01_Wine_vessel_Western_Han_dynasty.jpg",
+            "caption": "Gobelet à vin utilisé sous la dynastie des Han de l'Ouest entre l'an - 206 et...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Met%2C_female_dancer%2C_western_han_dynasty%2C_2nd_century_BC.JPG/300px-Met%2C_female_dancer%2C_western_han_dynasty%2C_2nd_century_BC.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Met%2C_female_dancer%2C_western_han_dynasty%2C_2nd_century_BC.JPG",
+            "caption": "Met, female dancer, western han dynasty, 2nd century BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Hui of Han",
+            "summary": "Emperor of the Han dynasty from 195 to 188 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Anling_2.jpg/250px-Anling_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Hui_of_Han"
+        },
+        {
+            "name": "Empress Lü",
+            "summary": "Empress of Han China from 202 to 195 BC, regent from 195 to 180 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E5%91%82%E5%90%8E%29.jpg/250px-WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E5%91%82%E5%90%8E%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empress_L%C3%BC"
+        },
+        {
+            "name": "Empress Dowager Bo",
+            "summary": "Empress dowager of Han Dynasty of China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%E4%BA%B2%E5%B0%9D%E6%B1%A4%E8%8D%AF.JPG/250px-%E4%BA%B2%E5%B0%9D%E6%B1%A4%E8%8D%AF.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empress_Dowager_Bo"
+        },
+        {
+            "name": "Emperor Wen of Han",
+            "summary": "Emperor of the Han dynasty from 180 to 157 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/EmperorWenOfHan.jpg/250px-EmperorWenOfHan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Han"
+        },
+        {
+            "name": "Shiji",
+            "summary": "Historical accounts of ancient China to Western Han",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%E5%8F%B2%E8%AE%B0.jpg/250px-%E5%8F%B2%E8%AE%B0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shiji"
+        },
+        {
+            "name": "Qin Shi Huang",
+            "summary": "Emperor of China from 221 to 210 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png/250px-Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
+        }
+    ],
+    "territory_geojson": null
+}

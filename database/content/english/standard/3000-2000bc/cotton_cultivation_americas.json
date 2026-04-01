@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1776,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5b916d11768975df29ab1aa29024eb2318bddde3f951cfe52cebebd6bde1985e",
+    "summary": "Cotton cultivation in the Americas, practised in the coastal valleys of Peru from at least 3000–2500 BC, represents an independent domestication of the cotton plant (Gossypium barbadense) that was separate from the Old World domestication of different cotton species in South Asia. Peruvian cotton cultivation is closely associated with the rise of the [[event:1775|Norte Chico civilisation]], where cotton was grown not primarily for food or clothing but to produce the raw material for fishing nets — a foundational technology in the maritime economy that supported coastal civilisational development.\n\nThe cultivation of cotton in the Americas played a transformative role in Andean economic history. Cotton fibre was used to make the large seine nets used for anchovy and small fish harvesting in the Humboldt Current-rich waters off the Peruvian coast. Dried anchovies and other preserved fish then formed a major trade commodity exchanged with inland farming communities. This fish-cotton exchange was the economic engine that allowed coastal and valley populations to specialise and accumulate the surplus necessary for monumental construction.\n\nThe early cultivation of cotton in Peru is one of several independent agricultural innovations that occurred in the Americas during the third millennium BC, alongside the cultivation of maize (developing in Mexico from earlier dates) and various other crops. These independent trajectories of plant domestication across different continents demonstrate that the transition to complex agricultural societies was not a single historical event but a process that unfolded in multiple times and places in response to similar environmental and social pressures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cotton#Pre-Columbian",
+    "read_more_links": [
+        {
+            "title": "Cotton history",
+            "url": "https://en.wikipedia.org/wiki/Cotton#History"
+        },
+        {
+            "title": "Norte Chico civilization",
+            "url": "https://en.wikipedia.org/wiki/Norte_Chico_civilization"
+        },
+        {
+            "title": "Caral",
+            "url": "https://en.wikipedia.org/wiki/Caral"
+        },
+        {
+            "title": "Agriculture in the Americas",
+            "url": "https://en.wikipedia.org/wiki/Agriculture_in_the_Americas"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/A_Cotton_Farm_%28South-West_Punjab%29.jpg/300px-A_Cotton_Farm_%28South-West_Punjab%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/A_Cotton_Farm_%28South-West_Punjab%29.jpg",
+            "caption": "A Cotton Farm (South-West Punjab, India)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cotton_field%2C_Floyd_County%2C_GA%2C_US.jpg/300px-Cotton_field%2C_Floyd_County%2C_GA%2C_US.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cotton_field%2C_Floyd_County%2C_GA%2C_US.jpg",
+            "caption": "Cotton field, Floyd County, Grorgia, US",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cotton_field%2C_late_in_season.jpg/300px-Cotton_field%2C_late_in_season.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cotton_field%2C_late_in_season.jpg",
+            "caption": "A cotton field, late in the season, after the plant has turned brown",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cotton_plant%2C_Ware_County%2C_GA%2C_US.jpg/300px-Cotton_plant%2C_Ware_County%2C_GA%2C_US.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cotton_plant%2C_Ware_County%2C_GA%2C_US.jpg",
+            "caption": "Cotton plant, Ware County, Georgia, US",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Marco Polo",
+            "summary": "Venetian merchant, explorer, and writer (1254–1324)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Marco_Polo_-_costume_tartare.jpg/250px-Marco_Polo_-_costume_tartare.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Polo"
+        },
+        {
+            "name": "Ferdowsi",
+            "summary": "Persian poet (940–1025)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg/250px-Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdowsi"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        }
+    ],
+    "territory_geojson": null
+}

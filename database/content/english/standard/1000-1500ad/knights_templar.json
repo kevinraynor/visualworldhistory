@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3015,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:50c4dcdc1ddca25c39d146e23994a6ece5d5e4cb50d30c0cf790b33f4f89b4dc",
+    "summary": "The Knights Templar (Poor Fellow-Soldiers of Christ and of the Temple of Solomon, founded c. 1119 AD, dissolved 1312 AD) were the first and most famous of the medieval military religious orders, founded initially to protect Christian pilgrims in the Holy Land and growing into one of the most powerful institutional forces in medieval Europe — a wealthy, internationally organized, papally protected military corporation that operated a sophisticated financial network across Christendom and whose sudden, violent dissolution at the hands of King Philip IV of France became one of the most dramatic events of medieval political history.\n\nThe Templars' financial innovations were particularly consequential: they developed a system of letters of credit (an early form of banking) that allowed pilgrims to deposit money in Europe and withdraw it in the Holy Land without carrying cash across bandit-infested roads — one of the earliest examples of the financial instruments that would eventually become modern banking. Their network of commanderies across Europe gave them the infrastructure to operate an international organization of unprecedented scale. Their dramatic downfall (1307–1312) was engineered by Philip IV of France, who coveted their wealth: Templars were arrested en masse, tortured into confessions of heresy and sodomy, and burned at the stake, with the Order dissolved by Pope Clement V at the Council of Vienne (1312). The last Grand Master, Jacques de Molay, was burned in Paris in 1314, reportedly cursing both Philip IV and Clement V — both of whom died within a year. The Templars' mysterious suppression generated enduring conspiracy theories that persist to the present day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Knights_Templar",
+    "read_more_links": [
+        {
+            "title": "Templar banking letters credit pilgrims",
+            "url": "https://en.wikipedia.org/wiki/Knights_Templar#Banking"
+        },
+        {
+            "title": "Philip IV France Templar suppression 1307",
+            "url": "https://en.wikipedia.org/wiki/Suppression_of_the_Knights_Templar"
+        },
+        {
+            "title": "Jacques de Molay last Grand Master burning",
+            "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tomar-Convento_de_Cristo-Rotunda_dos_Templ%C3%A1rios-20140914.jpg/300px-Tomar-Convento_de_Cristo-Rotunda_dos_Templ%C3%A1rios-20140914.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tomar-Convento_de_Cristo-Rotunda_dos_Templ%C3%A1rios-20140914.jpg",
+            "caption": "Templar rotunda.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Saint-Martin-des-Champs_Chapelle.JPG/300px-Saint-Martin-des-Champs_Chapelle.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Saint-Martin-des-Champs_Chapelle.JPG",
+            "caption": "Saint-Martin-des-Champs Chapelle",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Coat_of_arms_of_the_House_of_Toulouse-Tripoli.png/300px-Coat_of_arms_of_the_House_of_Toulouse-Tripoli.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Coat_of_arms_of_the_House_of_Toulouse-Tripoli.png",
+            "caption": "Coat of arms of the House of Tripoli, the cadet branch of House of Toulouse",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/HPIM3597.JPG/300px-HPIM3597.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/HPIM3597.JPG",
+            "caption": "Representation of a Templar (Duinenabdij, Koksijde, Belgium)",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bernard of Clairvaux",
+            "summary": "Burgundian saint, abbot and theologian (1090–1153)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg/250px-San_Bernardo%2C_de_Juan_Correa_de_Vivar_%28Museo_del_Prado%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux"
+        },
+        {
+            "name": "Hugues de Payens",
+            "summary": "Co-Founder and Grand Master of the Knights Templar",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hugues_de_Payens_%28Versailles%29FXD.jpg/250px-Hugues_de_Payens_%28Versailles%29FXD.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugues_de_Payens"
+        },
+        {
+            "name": "Papal bull",
+            "summary": "Type of decree by the Catholic pope",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Papal.bull.JPG/250px-Papal.bull.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Papal_bull"
+        },
+        {
+            "name": "Omne datum optimum",
+            "summary": "Bull issued by Pope Innocent II on 29 March 1139",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Innocentius_II._coat.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Omne_datum_optimum"
+        },
+        {
+            "name": "Philip IV of France",
+            "summary": "King of France from 1285 to 1314",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Philip_iv_and_family._2_%28detail_crop%29.jpg/250px-Philip_iv_and_family._2_%28detail_crop%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_IV_of_France"
+        },
+        {
+            "name": "Pope Clement V",
+            "summary": "Head of the Catholic Church from 1305 to 1314",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Clemente_V_cappellone_degli_Spagnoli.JPG/250px-Clemente_V_cappellone_degli_Spagnoli.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Clement_V"
+        }
+    ],
+    "territory_geojson": null
+}

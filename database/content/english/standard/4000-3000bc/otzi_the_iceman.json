@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1672,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7ee5d7579786859023619da18416208a2ee8f2f2722adb6d38802c626c424742",
+    "summary": "Otzi the Iceman, discovered in September 1991 by German hikers on the Similaun glacier in the Otztal Alps on the border between Austria and Italy, is one of the most important and extensively studied archaeological finds in human history. A naturally mummified human body dating to approximately 3300 BCE, Otzi provides an unparalleled window into the life, health, technology, and death of a Copper Age European — an individual who lived and died during the same general period as the [[event:1652|Yamnaya culture]] was beginning its great migrations across the Eurasian steppe.\n\nOtzi's body, clothing, and equipment were preserved in extraordinary detail by the ice that covered him for over five thousand years. He was a male of approximately 45-46 years at death, standing roughly 160 centimeters tall, with dark wavy hair, brown eyes, and worn teeth typical of a grain-heavy diet. His body bears 61 tattoos — lines and crosses concentrated on his lower back, knees, and ankles, largely coinciding with areas of documented joint pathology. Whether these tattoos were decorative, symbolic, or therapeutic (perhaps applied to relieve pain at pressure points analogous to acupuncture) remains debated.\n\nOtzi's equipment was a remarkable inventory of Copper Age technology. He carried a copper-bladed axe — one of only a handful known from this period — with a yew-wood handle; a longbow of yew still in the process of being finished; a quiver containing 14 arrows (only two completed); a flint knife; and a variety of plant-based containers and pouches. His clothing included a grass cape, a coat of stitched deer and ibex leather, leggings, shoes stuffed with grass for insulation, and a bearskin hat. The sophistication of his gear demonstrates a high level of material culture and specialized craftsmanship.\n\nForensic analysis revealed that Otzi was murdered. An arrowhead was found lodged in his left shoulder, severing a subclavian artery and causing death within minutes. He also had fresh wounds on his right hand consistent with defensive injuries — suggesting he had fought with someone shortly before his death. The circumstances of his killing remain entirely unknown.\n\nAncient DNA extracted from Otzi's genome has revealed that he belonged to a population of Neolithic Anatolian-derived farmers with little or no steppe ancestry, representing the pre-migration European genetic landscape just before the [[event:1653|Indo-European migrations]] began to transform the continent's population. He is one of the most thoroughly genetically characterized prehistoric individuals in the world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%96tzi",
+    "read_more_links": [
+        {
+            "title": "Otzi - Britannica",
+            "url": "https://www.britannica.com/topic/Otzi"
+        },
+        {
+            "title": "South Tyrol Museum of Archaeology - Otzi",
+            "url": "https://www.iceman.it/en/the-iceman/"
+        },
+        {
+            "title": "Copper Age Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic"
+        },
+        {
+            "title": "Ancient DNA Research - Nature",
+            "url": "https://www.nature.com/articles/s41467-019-12213-0"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ReconstructedOetziAxe.jpg/300px-ReconstructedOetziAxe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ReconstructedOetziAxe.jpg",
+            "caption": "Reconstruction of the copper axe of Ötzi the Iceman. Reconstruction made by A...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%C3%96tzi%E2%80%98s_last_days.png/300px-%C3%96tzi%E2%80%98s_last_days.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%C3%96tzi%E2%80%98s_last_days.png",
+            "caption": "Results of the present study integrated to past reconstructions of Ötzi‘s las...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OtzishoesS1340065.jpg/300px-OtzishoesS1340065.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/OtzishoesS1340065.jpg",
+            "caption": "This photo was taken or the shoes, a replica created by Czech researcher Dr. ...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Archeoparc_-_Museum_%C3%96tzi_Kleidung.jpg/300px-Archeoparc_-_Museum_%C3%96tzi_Kleidung.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Archeoparc_-_Museum_%C3%96tzi_Kleidung.jpg",
+            "caption": "Archeoparc (Schnals valley / South Tyrol). Museum: Reconstruction of the neol...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Reinhold Messner",
+            "summary": "Italian mountaineer, adventurer and explorer (born 1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg/250px-2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Reinhold_Messner"
+        }
+    ],
+    "territory_geojson": null
+}

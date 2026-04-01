@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 53,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1784a9d3f19294fcc5555a4abe8c09e3fb0b7951b44e01dc20d2d0dc912a4ed6",
+    "summary": "The Minoan civilization of Crete reached its apex during the Neopalatial period, roughly 1700 to 1450 BC, following a reconstruction of the great palace complexes at Knossos, Phaistos, Malia, and Zakros after an earthquake destroyed an earlier generation of palaces around 1700 BC. The rebuilt palaces were architectural achievements of extraordinary sophistication, featuring multi-story construction, elaborate drainage and plumbing systems, interior light wells, and walls decorated with vivid frescoes depicting scenes of nature, ritual, and sport.\n\nMinoan civilization was a maritime and commercial power whose ships ranged across the eastern Mediterranean, establishing trading connections with Egypt, the Levant, Anatolia, and the Aegean islands. Minoan luxury goods — painted pottery, metalwork, and carved gemstones — were prized throughout the region, and Minoan artistic styles influenced cultures as distant as mainland Greece and the Nile Delta. The palace economies managed the distribution of agricultural surpluses and craft production through an elaborate bureaucratic system recorded in the undeciphered Linear A script.\n\nMinoan religion centered on female deities, sacred bulls, and elaborate ritual performances. The so-called bull-leaping frescoes from Knossos depict athletes somersaulting over charging bulls, suggesting dangerous ceremonial games. Shrines, peak sanctuaries, and sacred caves served as places of offering and worship across the island. Minoan society appears to have been relatively non-militaristic compared to contemporary Near Eastern civilizations, with few fortifications and an emphasis on artistic and commercial life.\n\nThe Neopalatial period ended around 1450 BC with widespread destruction across Crete, which scholars attribute variously to a Mycenaean invasion, internal revolt, or the aftereffects of the [[event:1822|Minoan eruption of Thera]]. Knossos alone survived as a major center, apparently under Mycenaean control, before it too was destroyed around 1375 BC. Minoan civilization left a lasting legacy in the art, mythology, and religious symbolism absorbed by [[event:57|Mycenaean Greece]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Minoan_civilization#Neopalatial_period",
+    "read_more_links": [
+        {
+            "title": "Minoan Civilization",
+            "url": "https://en.wikipedia.org/wiki/Minoan_civilization"
+        },
+        {
+            "title": "Palace of Knossos",
+            "url": "https://en.wikipedia.org/wiki/Knossos"
+        },
+        {
+            "title": "Minoan Art",
+            "url": "https://en.wikipedia.org/wiki/Minoan_art"
+        },
+        {
+            "title": "Minoan Civilization - Britannica",
+            "url": "https://www.britannica.com/topic/Minoan-civilization"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Akrotiri_Spring_Fresco_room.jpg/300px-Akrotiri_Spring_Fresco_room.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Akrotiri_Spring_Fresco_room.jpg",
+            "caption": "Akrotiri Spring Fresco room ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/300px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "caption": "Greece, Archipelago and part of Anadoli. Published for Willm. Faden, Geograph...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Knossos_bull_leaping_fresco.jpg/300px-Knossos_bull_leaping_fresco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Knossos_bull_leaping_fresco.jpg",
+            "caption": "Knossos bull leaping fresco ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Knossos_women_fresco.jpg/300px-Knossos_women_fresco.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Knossos_women_fresco.jpg",
+            "caption": "Knossos women fresco ",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Michael Ventris",
+            "summary": "English architect who deciphered Linear B (1922–1956)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Michael_Ventris_obituary_photo.jpg/250px-Michael_Ventris_obituary_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Ventris"
+        },
+        {
+            "name": "Minos",
+            "summary": "Mythological king of Crete",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Inferno_Canto_5_line_4_Minos.jpg/250px-Inferno_Canto_5_line_4_Minos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Minos"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

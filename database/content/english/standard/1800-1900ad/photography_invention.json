@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2636,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:11b34b06c477a6c94acb529a7c90312c3c75db92e4371842be99417f24fe70da",
+    "summary": "The invention of photography in the 1820s–1830s — through the work of Nicéphore Niépce and Louis Daguerre in France and William Henry Fox Talbot in Britain — created a fundamentally new way of recording and perceiving reality that transformed visual culture, journalism, science, art, and memory in ways still unfolding today.\n\nNicéphore Niépce produced what is believed to be the oldest surviving photograph — a view from his upstairs window at Le Gras — around 1826–27, using a pewter plate coated with bitumen and an eight-hour exposure. His collaboration with Louis Daguerre led to the development of the daguerreotype, announced to the public on 19 August 1839 (now celebrated as World Photography Day), which produced detailed, positive images on silver-coated copper plates. The French government made the process freely available to the world as a gift to humanity. William Henry Fox Talbot developed the calotype process, which produced negative images from which multiple prints could be made — the basis for most subsequent photographic technology.\n\nThe daguerreotype immediately captured public imagination. Portrait photography replaced expensive painted miniatures for the middle classes. Photographs of the Crimean War (by Roger Fenton and others) and the American Civil War (by Mathew Brady and Alexander Gardner) brought the reality of warfare to home audiences in unprecedented ways. Scientific photography enabled the documentation of natural phenomena and the measurement of the sky.\n\nBy the 1880s, George Eastman's development of roll film and the Kodak camera (1888) made photography accessible to ordinary people rather than professionals, creating the snapshot culture that would define modern personal and family memory. Photography also challenged painting by taking over the documentary function, arguably liberating painters to pursue abstraction — one of the indirect contributions of the photographic revolution to modern art.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_photography",
+    "read_more_links": [
+        {
+            "title": "Photography – Britannica",
+            "url": "https://www.britannica.com/technology/photography"
+        },
+        {
+            "title": "Louis Daguerre – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Louis_Daguerre"
+        },
+        {
+            "title": "William Henry Fox Talbot – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Henry_Fox_Talbot"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NBSFirstScanImageRestored.jpg/300px-NBSFirstScanImageRestored.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/NBSFirstScanImageRestored.jpg",
+            "caption": "One of the first scanned images. Produced by NIST in 1957, the image shows Wa...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kauppatori_Kolera-altaan_luona_-_G30718_-_hkm.HKMS000005-km0000phjs.jpg/300px-Kauppatori_Kolera-altaan_luona_-_G30718_-_hkm.HKMS000005-km0000phjs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kauppatori_Kolera-altaan_luona_-_G30718_-_hkm.HKMS000005-km0000phjs.jpg",
+            "caption": "Kauppatori Kolera-altaan luona; vedos pohjustettu, paperi pahvi, mv",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jumelle_de_Nicour-CNAM_16371-IMG_5240-gradient.jpg/300px-Jumelle_de_Nicour-CNAM_16371-IMG_5240-gradient.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Jumelle_de_Nicour-CNAM_16371-IMG_5240-gradient.jpg",
+            "caption": "Jumelle de Nicour-CNAM 16371-IMG 5240-gradient",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Roger_Fenton%27s_waggon.jpg/300px-Roger_Fenton%27s_waggon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Roger_Fenton%27s_waggon.jpg",
+            "caption": "The artist's van. Marcus Sparling, full-length portrait, seated on Roger Fent...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thomas Wedgwood (photographer)",
+            "summary": "English photographer and inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Thomas_Wedgwood_%281771-1805%29.jpg/250px-Thomas_Wedgwood_%281771-1805%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Wedgwood_%28photographer%29"
+        },
+        {
+            "name": "Humphry Davy",
+            "summary": "British chemist and inventor (1778–1829)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sir_Humphry_Davy%2C_Bt_by_Thomas_Phillips.jpg/250px-Sir_Humphry_Davy%2C_Bt_by_Thomas_Phillips.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Humphry_Davy"
+        },
+        {
+            "name": "Nicéphore Niépce",
+            "summary": "French inventor (1765–1833)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Posthumous_portrait_of_Nic%C3%A9phore_Ni%C3%A9pce.jpg/250px-Posthumous_portrait_of_Nic%C3%A9phore_Ni%C3%A9pce.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce"
+        },
+        {
+            "name": "Louis Daguerre",
+            "summary": "French scientist, artist and photographer (1787–1851)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Louis_Daguerre_2.jpg/250px-Louis_Daguerre_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Daguerre"
+        },
+        {
+            "name": "Roll film",
+            "summary": "Film roll with paper backing",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/120_Film.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roll_film"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2901,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:c910e43d9e7e40ff666037f144bc93ebb73feb699dab24f3325400cebb37946a",
+    "summary": "The Battle of Talas (751 AD) was a pivotal military engagement fought near the Talas River in Central Asia (modern Kyrgyzstan/Kazakhstan border) between the [[event:2133|Abbasid Caliphate's]] forces under Ziyad ibn Salih and the Tang Dynasty China's western armies under Gao Xianzhi — the only direct military confrontation between Chinese and Islamic forces in history. The battle resulted in a decisive Abbasid victory when the Karluk Turkic allies of the Tang forces switched sides mid-battle, causing the collapse of the Chinese army and ending Tang ambitions of extending political influence over Central Asia's oasis cities.\n\nThe battle's historical importance extended beyond its immediate military outcome. It effectively established the boundary between Chinese and Islamic spheres of influence in Central Asia — the Silk Road's western regions passed into the Islamic cultural orbit rather than the Chinese. More consequentially for world history, Chinese prisoners taken at Talas reportedly included papermakers, and the subsequent transfer of papermaking technology to the Islamic world initiated the spread of paper through the Middle East and eventually to Europe. Whether this specific transmission account is accurate remains debated by historians, but the timing — paper production beginning in Samarkand and Baghdad in the late 8th century following Talas — is suggestive. The battle also marked the high-water mark of Tang westward expansion, as the [[event:2153|An Lushan Rebellion]] (755 AD) four years later consumed Tang military attention and ended the dynasty's capacity for western adventurism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Talas",
+    "read_more_links": [
+        {
+            "title": "Battle Talas Tang Abbasid confrontation",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Talas#Background"
+        },
+        {
+            "title": "Paper spread Islamic world Chinese prisoners",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Talas#Paper_transmission"
+        },
+        {
+            "title": "Central Asia Tang Dynasty westward expansion",
+            "url": "https://en.wikipedia.org/wiki/Tang_dynasty#Central_Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Talas_River.jpg/300px-Talas_River.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Talas_River.jpg",
+            "caption": "This river starts in the mountains of Kyrgyzstan and winds down into Kazakhst...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Battle_of_Talas.png/300px-Battle_of_Talas.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Battle_of_Talas.png",
+            "caption": "Battle of Talas",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tang_Dynasty_circa_700_CE.png/300px-Tang_Dynasty_circa_700_CE.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tang_Dynasty_circa_700_CE.png",
+            "caption": "Tang Dynasty circa 700 AD. Derived from Territories_of_Dynasties_in_China.gif...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Abbasid Caliphate",
+            "summary": "Third Islamic caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/250px-Abbasid_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+        },
+        {
+            "name": "Al-Saffah",
+            "summary": "Abbasid caliph from 748 to 754",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Balami_-_Tarikhnama_-_Abu%27l-%27Abbas_al-Saffah_is_proclaimed_the_first_%27Abbasid_Caliph_%28cropped%29.jpg/250px-Balami_-_Tarikhnama_-_Abu%27l-%27Abbas_al-Saffah_is_proclaimed_the_first_%27Abbasid_Caliph_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Saffah"
+        },
+        {
+            "name": "Abu Muslim",
+            "summary": "8th century Persian revolutionary",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Portrait_of_Abu_Muslim_%28d._755%29_from_the_genealogy_%28silsilan%C4%81ma%29%2C_Cream_of_Histories_%28Z%C3%BCbdet-%C3%BCt_Tevarih%2C_1598%29.jpg/250px-Portrait_of_Abu_Muslim_%28d._755%29_from_the_genealogy_%28silsilan%C4%81ma%29%2C_Cream_of_Histories_%28Z%C3%BCbdet-%C3%BCt_Tevarih%2C_1598%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abu_Muslim"
+        },
+        {
+            "name": "Xuanzang",
+            "summary": "Chinese Buddhist monk and scholar (602–664)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Xuanzang_w.jpg/250px-Xuanzang_w.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xuanzang"
+        },
+        {
+            "name": "Emperor Xuanzong of Tang",
+            "summary": "Emperor of the Tang dynasty from 713 to 756",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg/250px-%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Xuanzong_of_Tang"
+        },
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        }
+    ],
+    "territory_geojson": null
+}

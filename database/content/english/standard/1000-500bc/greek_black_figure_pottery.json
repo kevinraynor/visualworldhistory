@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1994,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8f76b2b9879a4a4355ef392a850dba595a52b0795eeb40e02b8ca20b9279bdea",
+    "summary": "Greek black-figure pottery (c. 700–480 BC) was the dominant ceramic painting technique of the Archaic Greek world, developed in Corinth around 700 BC and brought to perfection in Athens by the late 7th century BC. Black-figure ware was produced by painting figures in liquid clay slip (which fired black in a three-phase kiln process) onto the red-orange surface of the ceramic body, with details incised through the black with a sharp tool to reveal the red clay beneath. The result was a bold, silhouetted style with crisp incised detail.\n\nBlack-figure pottery tells the stories of Greek mythology with extraordinary vividness — the labors of Heracles, the Trojan War, the deeds of gods and heroes — and also documents daily life, athletics, symposia, and warfare. The Attic black-figure tradition reached its peak in the work of great painters like Exekias (whose amphora depicting Achilles and Ajax playing dice, and his cup showing Dionysus sailing are among the finest paintings surviving from antiquity) and the Amasis Painter. The Panathenaic prize amphorae (see [[event:1986|Panathenaic Games]]) maintained the black-figure technique even after red-figure superseded it, as a matter of conservative tradition. Hundreds of thousands of ancient Greek pottery vessels survive, making them the most abundant source of information about Greek visual culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black-figure_pottery",
+    "read_more_links": [
+        {
+            "title": "Exekias greatest black-figure painter",
+            "url": "https://en.wikipedia.org/wiki/Exekias"
+        },
+        {
+            "title": "Black-figure technique process",
+            "url": "https://en.wikipedia.org/wiki/Black-figure_pottery#Technique"
+        },
+        {
+            "title": "Corinthian pottery origins",
+            "url": "https://en.wikipedia.org/wiki/Corinthian_pottery"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Akhilleus_Aias_MGEt_16757.jpg/300px-Akhilleus_Aias_MGEt_16757.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Akhilleus_Aias_MGEt_16757.jpg",
+            "caption": "Attic amphora by Exekias depicting Achilles and Ajax playing a game during th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Arkesilas_Cup_Cdm_Paris_DeRidder189_n2.jpg/300px-Arkesilas_Cup_Cdm_Paris_DeRidder189_n2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Arkesilas_Cup_Cdm_Paris_DeRidder189_n2.jpg",
+            "caption": "King Arcesilas of Cyrenaica overseeing the packaging of silphium (the country...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hydrie_%C3%A0_figures_noires%2C_Etrurie_d%C3%A9but_du_Ve_si%C3%A8cle_av_J.C..jpg/300px-Hydrie_%C3%A0_figures_noires%2C_Etrurie_d%C3%A9but_du_Ve_si%C3%A8cle_av_J.C..jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Hydrie_%C3%A0_figures_noires%2C_Etrurie_d%C3%A9but_du_Ve_si%C3%A8cle_av_J.C..jpg",
+            "caption": "Etrurie, hydrie à figures noires début du Ve siècle avant J.C., musée d'arché...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Band_cup_Louvre_F72.jpg/300px-Band_cup_Louvre_F72.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Band_cup_Louvre_F72.jpg",
+            "caption": "Fights. Attic black-figure band cup, ca. 540 BC. From Vulci.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Euphiletos Painter",
+            "summary": "Ancient Greek vase painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Chariot_terma_Staatliche_Antikensammlungen_1452.jpg/250px-Chariot_terma_Staatliche_Antikensammlungen_1452.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Euphiletos_Painter"
+        },
+        {
+            "name": "Tleson",
+            "summary": "Ancient Greek potter and possible vase-painter of the black-figure style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Terracotta_kylix-_band-cup_%28drinking_cup%29_MET_DP142292.jpg/250px-Terracotta_kylix-_band-cup_%28drinking_cup%29_MET_DP142292.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tleson"
+        },
+        {
+            "name": "Amasis Painter",
+            "summary": "Ancient Greek vase painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Herakles_Olympos_Louvre_F30_full.jpg/250px-Herakles_Olympos_Louvre_F30_full.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amasis_Painter"
+        },
+        {
+            "name": "Dionysus",
+            "summary": "Ancient Greek god of winemaking and wine",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dionysos_Louvre_Ma87_n2.jpg/250px-Dionysos_Louvre_Ma87_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dionysus"
+        },
+        {
+            "name": "Skyphos",
+            "summary": "Ancient Greek vase shape; drinking cup",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Skyphos_Boscoreale_Louvre_Bj2367.jpg/250px-Skyphos_Boscoreale_Louvre_Bj2367.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Skyphos"
+        },
+        {
+            "name": "Cavalcade Painter",
+            "summary": "Ancient Greek vase painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Fragment_of_a_terracotta_column-krater_%28bowl_for_mixing_wine_and_water%29_MET_118577.jpg/250px-Fragment_of_a_terracotta_column-krater_%28bowl_for_mixing_wine_and_water%29_MET_118577.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalcade_Painter"
+        }
+    ],
+    "territory_geojson": null
+}

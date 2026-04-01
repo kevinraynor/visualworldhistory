@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2413,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2a61be4aad43d28ae4c08133784fa297f5bce4204652de6a70f88d2f22a6c971",
+    "summary": "The Great Fire of London (September 2–5, 1666 AD) was a catastrophic conflagration that destroyed the medieval city of London within its Roman walls — burning approximately 13,200 houses, 87 parish churches, St Paul's Cathedral, most of the buildings of the City of London, and leaving 70,000 of the city's 80,000 inhabitants homeless — and paradoxically creating the opportunity for the rebuilding of one of Europe's great cities with Christopher Wren's iconic architecture. The fire began in a bakery on Pudding Lane near London Bridge in the early hours of Sunday September 2, fanned by a strong east wind after a long dry summer, and spread through the densely packed, predominantly timber-framed medieval city with devastating speed.\n\nSamuel Pepys's diary provides an eyewitness account of watching the fire from the Tower of London and alerting the king; Pepys also famously buried a Parmesan cheese in his garden to save it from the advancing flames — a detail that has delighted readers for 350 years. The death toll was remarkably low (officially 6, though likely higher among the poor whose deaths went unrecorded) given the scale of destruction, partly because the fire spread slowly enough for most residents to flee. The [[event:2436|Great Plague]] of the previous year had reduced the city's population. The fire was immediately blamed on Catholics and foreign conspirators (a Frenchman named Robert Hubert falsely confessed and was hanged); the London Monument, built to commemorate the fire, originally included the phrase 'Popish frenzy' in its inscription (removed in 1830). The rebuilt London by Christopher Wren — St Paul's Cathedral, 52 rebuilt churches, and the general street plan — transformed London's physical character and created the skyline that would define the city until the 20th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+    "read_more_links": [
+        {
+            "title": "Great Fire London extent damage 1666",
+            "url": "https://en.wikipedia.org/wiki/Great_Fire_of_London#The_fire"
+        },
+        {
+            "title": "Christopher Wren St Paul's Cathedral London rebuilding",
+            "url": "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral"
+        },
+        {
+            "title": "Samuel Pepys diary eyewitness account fire",
+            "url": "https://en.wikipedia.org/wiki/Samuel_Pepys#The_diary"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/1647_Long_view_of_London_From_Bankside_-_Wenceslaus_Hollar.jpg/300px-1647_Long_view_of_London_From_Bankside_-_Wenceslaus_Hollar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/1647_Long_view_of_London_From_Bankside_-_Wenceslaus_Hollar.jpg",
+            "caption": "Panoramic view of London",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/1744_Wren_Map_of_London%2C_England_-_Geographicus_-_London-wren-1744.jpg/300px-1744_Wren_Map_of_London%2C_England_-_Geographicus_-_London-wren-1744.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/1744_Wren_Map_of_London%2C_England_-_Geographicus_-_London-wren-1744.jpg",
+            "caption": "An extremely scarce 1744 map of London showing Sir Christopher Wren's plan fo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/300px-Great_Fire_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Great_Fire_London.jpg",
+            "caption": "\"This painting shows the great fire of London as seen from a boat in vicinity...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firehooks.1612.png/300px-Firehooks.1612.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Firehooks.1612.png",
+            "caption": "Firehooks.1612",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles II of England",
+            "summary": "King of England, Scotland, and Ireland from 1660 to 1685",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg/250px-King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_II_of_England"
+        },
+        {
+            "name": "John Evelyn",
+            "summary": "English writer, gardener and diarist (1620–1706)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/JohnEvelyn1687.jpg/250px-JohnEvelyn1687.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Evelyn"
+        },
+        {
+            "name": "Baroque",
+            "summary": "Artistic style in Europe and colonies, c. 1600–1750",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WLA_metmuseum_Venus_and_Adonis_by_Peter_Paul_Rubens.jpg/250px-WLA_metmuseum_Venus_and_Adonis_by_Peter_Paul_Rubens.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baroque"
+        },
+        {
+            "name": "Charles I of England",
+            "summary": "King of England, Scotland and Ireland from 1625 to 1649",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg/250px-King_Charles_I_after_original_by_van_Dyck.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_I_of_England"
+        },
+        {
+            "name": "Wenceslaus Hollar",
+            "summary": "Czech engraver, etcher and painter (1607–1677)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Wenzel_Hollar_nach_Jan_Meyssens.jpg/250px-Wenzel_Hollar_nach_Jan_Meyssens.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wenceslaus_Hollar"
+        },
+        {
+            "name": "Samuel Pepys",
+            "summary": "English writer and politician (1633–1703)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samuel_Pepys.jpg/250px-Samuel_Pepys.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Pepys"
+        }
+    ],
+    "territory_geojson": null
+}

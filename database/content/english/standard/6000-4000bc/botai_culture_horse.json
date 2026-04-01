@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1541,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f5fc0f35f9df4caf2c4163cf65dab1814d267abd6ce7d7abd47e676acdbeee56",
+    "summary": "The Botai culture, dated to approximately 3700–3100 BCE and located in the Eneolithic steppe of northern Kazakhstan, has provided some of the most compelling evidence for the early domestication and riding of horses. The culture is named after the Botai settlement, where excavations beginning in the 1980s revealed a community of semi-sedentary pastoralists whose economy was centered overwhelmingly on horses — an orientation with no parallel in contemporary Eurasian cultures.\n\nBotai settlements were substantial semi-permanent villages of pit houses, quite unlike the highly mobile camp sites typical of later steppe nomads. The horse bones at Botai sites account for an extraordinary 99% or more of all animal remains — far exceeding the proportions expected if horses were merely hunted prey. Studies of horse mandibles and cheek teeth have identified wear patterns consistent with bit use, suggesting that horses were being controlled with bridles. Analysis of fat residues in ceramic vessels has revealed the presence of mare's milk, indicating that Botai communities were milking mares — a practice only possible with domestic or at least managed animals.\n\nThe evidence from Botai has placed the site at the center of debates about the origins of horse domestication. The competing hypotheses locate early domestication either in the Botai region of Kazakhstan or in the Pontic-Caspian steppe further west, associated with the [[event:1538|Pontic-Caspian steppe cultures]]. Ancient DNA analysis has complicated the picture: Botai horses appear to be the ancestors not of modern domesticated horses but of the Przewalski's horse, suggesting that Botai domestication was a local phenomenon that was eventually replaced or superseded by a separate domestication event in the western steppe. Modern domestic horses descend from a population domesticated elsewhere, most likely in the Pontic-Caspian region.\n\nRegardless of its precise relationship to the ancestry of modern domestic horses, the Botai culture demonstrates that horse domestication and management — including riding and milking — was being practiced in the Eurasian steppe by at least 3500 BCE. The cultural and economic significance of this achievement is difficult to overstate. Horses provided transportation, draft power, food, and milk, and riding transformed the scale at which pastoral societies could manage herds, conduct warfare, and engage in long-distance communication and trade.\n\nThe Botai culture's intensive focus on horses represents a unique economic specialization in the prehistoric world. It foreshadows the pivotal role that horse-based pastoralism would play in the history of the Eurasian steppe and, through the migrations of [[event:1544|Proto-Indo-European]]-speaking peoples, in the transformation of Bronze Age civilizations from Europe to South Asia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Botai_culture",
+    "read_more_links": [
+        {
+            "title": "Domestication of the horse - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Domestication_of_the_horse"
+        },
+        {
+            "title": "Horse domestication - Britannica",
+            "url": "https://www.britannica.com/animal/horse/History-of-the-horse"
+        },
+        {
+            "title": "Botai and horse domestication - Science journal summary",
+            "url": "https://en.wikipedia.org/wiki/Botai_culture#Controversy_over_domestication"
+        },
+        {
+            "title": "Przewalski's horse - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Przewalski%27s_horse"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Illustration_of_Botai_house_structure.png/300px-Illustration_of_Botai_house_structure.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Illustration_of_Botai_house_structure.png",
+            "caption": "Illustration of Botai's house roof and top view with approximate real parametres",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Illustration-2.png/300px-Illustration-2.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Illustration-2.png",
+            "caption": "The illustration shows isometric view of Botai house",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Central_Asian_admixtures.png/300px-Central_Asian_admixtures.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Central_Asian_admixtures.png",
+            "caption": "Central Asian admixtures",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Asko Parpola",
+            "summary": "Finnish Indologist (born 1941)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Asko_Parpola.jpg/250px-Asko_Parpola.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Asko_Parpola"
+        },
+        {
+            "name": "Václav Blažek",
+            "summary": "Czech historical linguist (born 1959)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Prof._V%C3%A1clav_Bla%C5%BEek.jpg/250px-Prof._V%C3%A1clav_Bla%C5%BEek.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/V%C3%A1clav_Bla%C5%BEek"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1944,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ecf72426e88d9859048d2f758f44ff470ba3ff5aa476dce0e7f94eacbcf295a5",
+    "summary": "Phoenician western expansion (c. 1000–500 BC) was the systematic establishment of Phoenician trading colonies and settlements across the western Mediterranean and Atlantic coast by the city-states of Tyre and Sidon, creating the first pan-Mediterranean commercial network. Beyond the famous founding of [[event:65|Phoenician Expansion Carthage]], Phoenicians established trading posts on Cyprus, Sardinia, Sicily (competing with Greeks for centuries), Spain (Gades/Cádiz, possibly the oldest continuously inhabited city in Western Europe), and the Moroccan coast.\n\nPhoenician navigators may have been the first to use the North Star for navigation (earning them the Greek name 'Phoinikes,' possibly related to 'purple/crimson' from their famous dye industry) and the first Mediterranean sailors to venture into the Atlantic. Hanno's voyage (c. 500 BC) explored the West African coast as far south as modern Sierra Leone or Cameroon. Their trading goods — purple-dyed textiles, glass, metalwork, cedar — and their alphabet (see [[event:3832|Phoenician Alphabet Spread]]) were diffused across the Mediterranean world. The Phoenician commercial model — a network of coastal trading stations connected by maritime routes, extracting and distributing commodities — was the template for all subsequent Mediterranean commercial empires.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Phoenicia#Colonies",
+    "read_more_links": [
+        {
+            "title": "Hanno navigator West Africa",
+            "url": "https://en.wikipedia.org/wiki/Hanno_the_Navigator"
+        },
+        {
+            "title": "Gades Cadiz ancient settlement",
+            "url": "https://en.wikipedia.org/wiki/C%C3%A1diz#History"
+        },
+        {
+            "title": "Phoenician purple dye industry",
+            "url": "https://en.wikipedia.org/wiki/Tyrian_purple"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/0675_-_Phoenician_glass_necklace_-_Museo_Archeologico%2C_Cagliari_-_Photo_by_Giovanni_Dall%27Orto%2C_November_11_2016.jpg/300px-0675_-_Phoenician_glass_necklace_-_Museo_Archeologico%2C_Cagliari_-_Photo_by_Giovanni_Dall%27Orto%2C_November_11_2016.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/0675_-_Phoenician_glass_necklace_-_Museo_Archeologico%2C_Cagliari_-_Photo_by_Giovanni_Dall%27Orto%2C_November_11_2016.jpg",
+            "caption": "Phoenician glass necklace (From Olbia, 4th century BC), on display at the fir...",
+            "attribution": "Wikimedia Commons, Attribution"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ahiram_sarcophag_from_Biblos_XIII-XBC.jpg/300px-Ahiram_sarcophag_from_Biblos_XIII-XBC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ahiram_sarcophag_from_Biblos_XIII-XBC.jpg",
+            "caption": "Sarcophagus of Ahiram, King of Biblos (Phoenicia) in XIII-X c. BC. Kept in Be...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Terracotta_Figurines_of_the_Iron_Age.jpg/300px-Terracotta_Figurines_of_the_Iron_Age.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Terracotta_Figurines_of_the_Iron_Age.jpg",
+            "caption": "Terracotta Figurines of the Iron Age 1 at Beirut National Museum",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Phoenician%2C_Iraq%2C_Nimrud%2C_9th-8th_Century_BC_-_Decorative_Plaque-_Man%3B_and_Griffin_in_Combat_-_1968.45_-_Cleveland_Museum_of_Art.tif/300px-Phoenician%2C_Iraq%2C_Nimrud%2C_9th-8th_Century_BC_-_Decorative_Plaque-_Man%3B_and_Griffin_in_Combat_-_1968.45_-_Cleveland_Museum_of_Art.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Phoenician%2C_Iraq%2C_Nimrud%2C_9th-8th_Century_BC_-_Decorative_Plaque-_Man%3B_and_Griffin_in_Combat_-_1968.45_-_Cleveland_Museum_of_Art.tif",
+            "caption": "This small plaque was executed in the Phoenician style with symmetrical compo...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Abishemu of Byblos",
+            "summary": "Ruler of Byblos (c. 1750–1700 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/National_Museum_of_Beirut_%E2%80%93_Resheph_obelisk_close_up.jpg/250px-National_Museum_of_Beirut_%E2%80%93_Resheph_obelisk_close_up.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abishemu_of_Byblos"
+        },
+        {
+            "name": "Dido",
+            "summary": "Legendary founder and first queen of Carthage",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Affresco_romano_-_Enea_e_di_%28cropped%29.jpg/250px-Affresco_romano_-_Enea_e_di_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dido"
+        },
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        }
+    ],
+    "territory_geojson": null
+}

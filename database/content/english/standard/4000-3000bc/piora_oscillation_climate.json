@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1704,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9c22a116753bc5d9a899b1f0dc951554aa174d10e3df3f22e19036b68e13adb1",
+    "summary": "The Piora Oscillation was a cool and moist climatic episode in Europe and the North Atlantic region, dating approximately 3200–2900 BCE, identified through pollen cores, glacial advances, and dendrochronological evidence from the Swiss Alps and surrounding areas. During this period, Alpine glaciers advanced substantially, tree lines descended, and wetter conditions prevailed across much of central and northern Europe. The event is named after the Piora Valley in Switzerland, where early researchers identified the distinctive sediment layers.\n\nThe Piora Oscillation occurred during a critical transitional phase in European prehistory, coinciding broadly with the end of the Copper Age and the early Bronze Age in various regions. Some scholars have proposed connections between the climatic cooling and disruptions to [[event:1652|Yamnaya culture]] expansion, the collapse of the Maltese Temple culture (see [[event:1666|Maltese Temple Period]]), and the abandonment of some Alpine lake-dwelling communities. The mummy [[event:1672|Ötzi the Iceman]], who died around 3300 BCE, lived during the period just preceding the oscillation. The event is one of several Holocene climate fluctuations that appear to have influenced the pace and direction of prehistoric cultural change across Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Piora_Oscillation",
+    "read_more_links": [
+        {
+            "title": "Holocene Climate Variability - Britannica",
+            "url": "https://www.britannica.com/science/Holocene-Epoch"
+        },
+        {
+            "title": "Climate and Prehistoric Europe - Cambridge",
+            "url": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal"
+        },
+        {
+            "title": "Alpine Glacial History - Swiss Academy of Sciences",
+            "url": "https://naturalsciences.ch/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jahreszeiten_Jahresringe.jpg/300px-Jahreszeiten_Jahresringe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Jahreszeiten_Jahresringe.jpg",
+            "caption": "Seasons /Annual ringsThe six ecological seasons. From bottom, clockwise: prev...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Holocene_Temperature_Variations.png/300px-Holocene_Temperature_Variations.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Holocene_Temperature_Variations.png",
+            "caption": "Holocene Temperature Variations",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

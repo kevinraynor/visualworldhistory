@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1621,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fe2992e57e916b6dc863ed47d01ba6b7ddae010ccb84ccc22ade08ca179c9573",
+    "summary": "The cylinder seal, invented in Mesopotamia around 3500 BCE during the [[event:1617|Uruk Period]], was a small cylindrical object carved from stone (typically limestone, lapis lazuli, or later harder stones) with an intaglio design that could be rolled across wet clay to leave a continuous impressed image. Functioning as a personal or institutional signature, the cylinder seal was one of the most practical and widely distributed administrative tools of the ancient Near East, used for authenticating documents, marking ownership of goods, and securing sealed containers over a period of more than three thousand years.\n\nThe visual programs carved into cylinder seals ranged from simple geometric patterns in the earliest examples to extraordinarily detailed mythological scenes, royal imagery, and symbolic compositions in later periods. The rolling action of the cylinder produced a repeating frieze image that covered the entire surface of a clay sealing, making it difficult to replicate without the original seal and providing a form of tamper-evident security for storage vessels, commodity packages, and clay tablets. Cylinder seals served the same authenticating function as a modern signature or official stamp.\n\nThe cylinder seal became closely tied to individual identity and status in Mesopotamian culture. High-status individuals — merchants, officials, priests, and rulers — possessed distinctive personal seals that served as their legal signature on contracts and administrative documents. The seals were frequently buried with their owners, worn as jewelry during life, and sometimes used in ritual contexts. Thousands of cylinder seals and the impressions they left on clay documents have been recovered from Mesopotamian sites, providing art historians with an unparalleled record of iconographic development across three millennia of ancient Near Eastern civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cylinder_seal",
+    "read_more_links": [
+        {
+            "title": "Ancient Near East Seals - Britannica",
+            "url": "https://www.britannica.com/art/cylinder-seal"
+        },
+        {
+            "title": "Uruk Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Uruk_period"
+        },
+        {
+            "title": "Ancient Mesopotamian Art - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Art_of_Mesopotamia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cylinder_seal_king_Louvre_AO6620.jpg/300px-Cylinder_seal_king_Louvre_AO6620.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cylinder_seal_king_Louvre_AO6620.jpg",
+            "caption": "Cylinder seal and sealing impression: the king-priest and his acolyte feeding...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cypriote_-_Cylinder_Seal_with_a_Nude_Goddess_-_Walters_42415_-_Side_A.jpg/300px-Cypriote_-_Cylinder_Seal_with_a_Nude_Goddess_-_Walters_42415_-_Side_A.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cypriote_-_Cylinder_Seal_with_a_Nude_Goddess_-_Walters_42415_-_Side_A.jpg",
+            "caption": "This unusual seal shows two nude female figures squatting on stools with thei...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Papiermuseum_Basel_2008_%284%29.jpg/300px-Papiermuseum_Basel_2008_%284%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Papiermuseum_Basel_2008_%284%29.jpg",
+            "caption": "(1) Roll seal, Akkad time, approx. 2200 BC. Chr. Winged sky gate on a bull, t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cylinder_Seal%2C_Old_Babylonian%2C_formerly_in_the_Charterhouse_Collection_09.jpg/300px-Cylinder_Seal%2C_Old_Babylonian%2C_formerly_in_the_Charterhouse_Collection_09.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cylinder_Seal%2C_Old_Babylonian%2C_formerly_in_the_Charterhouse_Collection_09.jpg",
+            "caption": "The king with a mace, who stands on a rectangular chequer-board dais, follows...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Puabi",
+            "summary": "Queen of Ur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Queen_Puabi_with_attendants.jpg/250px-Queen_Puabi_with_attendants.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Puabi"
+        },
+        {
+            "name": "Ur-Nammu",
+            "summary": "King of Ur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Ur-Nammu.jpg/250px-King_Ur-Nammu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Nammu"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2950,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:cf65bfeb18cd54dea34a7481c37be1c5c7bcf8b54f6780363717e589dbed8cc3",
+    "summary": "The emergence of feudalism (c. 800–1000 AD) in Western Europe was the gradual development of a set of social, political, and economic arrangements that defined medieval European civilization: the exchange of land grants (fiefs) for military service, the hierarchical chain of lords and vassals, and the localization of political authority in the hands of landed nobility rather than centralized royal power. Feudalism was not a planned system or a single invention but an organic response to the collapse of Carolingian centralized authority and the chaos of repeated external invasions — Viking raids from the north, Magyar incursions from the east, and Saracen attacks from the south — that central royal authority proved unable to repel.\n\nThe practical necessity that generated feudalism was simple: in a world without standing professional armies, kings needed warriors immediately and locally. The solution was to grant lands (with the serfs to farm them) to warriors who would equip themselves as mounted knights and answer military summons. This created a self-reinforcing social pyramid: kings granted duchies to great lords, who subdivided into counties, who subdivided into baronies, down to individual knights controlling a single village. The peasant population was progressively bound to the land as serfs, exchanging freedom of movement for protection and subsistence. The [[event:2138|Carolingian Empire's]] administrative machinery had temporarily suppressed these tendencies, but the empire's [[event:2141|Treaty of Verdun]] division and subsequent weakening left the localized military arrangements of feudalism as the practical reality of European governance. By 1000 AD, the feudal system had become institutionalized across France, Germany, England, and Italy, shaping European social structure until the gradual rise of urban economies and centralized monarchies in the 12th–14th centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Feudalism",
+    "read_more_links": [
+        {
+            "title": "Feudalism origins Western Europe",
+            "url": "https://en.wikipedia.org/wiki/Feudalism#Origins"
+        },
+        {
+            "title": "Manorialism serf peasant land system",
+            "url": "https://en.wikipedia.org/wiki/Manorialism"
+        },
+        {
+            "title": "Medieval knight feudal military service",
+            "url": "https://en.wikipedia.org/wiki/Knight#Medieval_knighthood"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg/300px-Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bayeux_Tapestry_scene23_Harold_sacramentum_fecit_Willelmo_duci.jpg",
+            "caption": "Bayeux Tapestry - Scene 23: Harold swearing oath on holy relics to William, D...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Slovakia_Oravsky_Podzamok.jpg/300px-Slovakia_Oravsky_Podzamok.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Slovakia_Oravsky_Podzamok.jpg",
+            "caption": "Oravsky Podzamok, Slovakia",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Codex_Manesse_Reinmar_von_Zweter.jpg/300px-Codex_Manesse_Reinmar_von_Zweter.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Codex_Manesse_Reinmar_von_Zweter.jpg",
+            "caption": "Codex Manesse, UB Heidelberg, Cod. Pal. germ. 848, fol. 323r: Herr Reinmar vo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/BNF_Fr_4274_8v_knight_detail.jpg/300px-BNF_Fr_4274_8v_knight_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/BNF_Fr_4274_8v_knight_detail.jpg",
+            "caption": "Miniature of the investiture of a knight, from the  statutes of the \"Order of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Louis I of Naples",
+            "summary": "King of Naples from 1348 to 1362",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Louis_of_Taranto.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_I_of_Naples"
+        },
+        {
+            "name": "Marc Bloch",
+            "summary": "French historian (1886–1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Marc_Bloch.jpg/250px-Marc_Bloch.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marc_Bloch"
+        },
+        {
+            "name": "Clergy",
+            "summary": "Formal leaders within established religions",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Catholic_clergy_during_the_ceremony_of_the_consecration_of_the_Sarajevo_cathedral.png/250px-Catholic_clergy_during_the_ceremony_of_the_consecration_of_the_Sarajevo_cathedral.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Clergy"
+        },
+        {
+            "name": "Elizabeth A. R. Brown",
+            "summary": "American historian (1932–2024)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Elizabeth_A._R._Brown%2C_juin_2013.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_A._R._Brown"
+        },
+        {
+            "name": "Charles the Fat",
+            "summary": "Carolingian emperor from 881 to 887",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Sceau_de_Charles_le_gros.jpg/250px-Sceau_de_Charles_le_gros.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_the_Fat"
+        },
+        {
+            "name": "William Stubbs",
+            "summary": "British historian and Anglican bishop (1825–1901)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Portrait_of_William_Stubbs_by_Hubert_von_Herkomer.jpeg/250px-Portrait_of_William_Stubbs_by_Hubert_von_Herkomer.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Stubbs"
+        }
+    ],
+    "territory_geojson": null
+}

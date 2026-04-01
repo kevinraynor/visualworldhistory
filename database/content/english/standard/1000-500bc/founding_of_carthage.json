@@ -1,0 +1,37 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1945,
+    "parent_id": 1944,
+    "granularity": "notable",
+    "content_hash": "sha256:ef0314812fea13c9224e6f0421c5437da85199c1ee2bf953c6c9eb3d3556de65",
+    "summary": "The founding of Carthage (traditionally 814 BC) was the establishment of the most important Phoenician colony in the western Mediterranean — on a peninsula on the coast of modern Tunisia, with a natural harbor that made it the ideal hub for western Mediterranean trade. The legend, told most fully by Virgil in the Aeneid and Justin's epitome of Pompeius Trogus, attributes the founding to Dido (also called Elissa), a Phoenician princess who fled Tyre after her brother Pygmalion murdered her husband.\n\nAccording to tradition, Dido arrived in North Africa and negotiated with the local Berber king Hiarbas for 'as much land as could be covered by an oxhide.' She then cut the hide into strips and enclosed enough land to build a citadel — the Byrsa (Greek for 'hide'). Whether a historical Dido existed or the legend was retrojected from later history, Carthage's archaeological record shows Phoenician settlement from approximately the 9th–8th centuries BC, consistent with the traditional dating. The city's location — controlling the narrow strait between Sicily and Tunisia through which most western Mediterranean maritime traffic passed — gave it natural strategic and commercial leverage that it exploited to build an empire rivaling both Greek colonies and, eventually, Rome itself.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dido_(Queen_of_Carthage)",
+    "read_more_links": [
+        {
+            "title": "Carthage early history",
+            "url": "https://en.wikipedia.org/wiki/Carthage#History"
+        },
+        {
+            "title": "Byrsa hill archaeology",
+            "url": "https://en.wikipedia.org/wiki/Byrsa"
+        },
+        {
+            "title": "Virgil Aeneid Dido",
+            "url": "https://en.wikipedia.org/wiki/Aeneid#Dido_and_Aeneas"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Dido",
+            "summary": "Legendary founder and first queen of Carthage",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Affresco_romano_-_Enea_e_di_%28cropped%29.jpg/250px-Affresco_romano_-_Enea_e_di_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dido"
+        }
+    ],
+    "territory_geojson": null
+}

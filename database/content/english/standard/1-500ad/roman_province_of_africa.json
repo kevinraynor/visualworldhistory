@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2114,
+    "parent_id": 81,
+    "granularity": "detailed",
+    "content_hash": "sha256:456d5bd3b9e0fc0e6e21b1b7b6d5bfd824b2f248851dc601162290abf94976cd",
+    "summary": "Roman Africa (established 146 BC after the destruction of Carthage, expanded through the early imperial period) was one of the most prosperous and productive provinces of the [[event:81|Roman Empire]] — the breadbasket of Rome, supplying the bulk of the grain that fed the imperial capital's population of over one million. The North African provinces (Africa Proconsularis, Numidia, Mauretania) also produced olive oil, wild animals for the arena, timber, and a range of luxury goods. The provincial capital Carthage, rebuilt as a Roman city on the ruins Scipio had salted, became the second or third largest city in the western empire.\n\nRoman Africa produced some of the most important figures in the intellectual history of late antiquity. Tertullian (c. 155–220 AD) was the first major Christian writer in Latin and coined much of Christian theological vocabulary. Cyprian of Carthage (died 258 AD) was an influential bishop who shaped early Christian ecclesiology. Most significantly, Augustine of Hippo (354–430 AD), born in Thagaste (modern Algeria), became the most influential theologian in the history of Western Christianity — his 'Confessions,' 'City of God,' and theological treatises on grace, free will, and original sin shaped Catholic, Protestant, and secular Western thought for 1,500 years. The province was taken by the [[event:2116|Vandal Kingdom]] after 429 AD and later reconquered by Justinian but never returned to its former prosperity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Africa_(Roman_province)",
+    "read_more_links": [
+        {
+            "title": "Roman Africa grain province",
+            "url": "https://en.wikipedia.org/wiki/Africa_(Roman_province)#Economy"
+        },
+        {
+            "title": "Tertullian Latin Christian writer",
+            "url": "https://en.wikipedia.org/wiki/Tertullian"
+        },
+        {
+            "title": "Carthage Roman city rebuilt",
+            "url": "https://en.wikipedia.org/wiki/Roman_Carthage"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Juba_II_Mauretanien.JPG/300px-Juba_II_Mauretanien.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Juba_II_Mauretanien.JPG",
+            "caption": "Juba II, king of Mauritania, marble, early 1st century AD, Glyptoteket, Copen...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mosaique_de_sol_avec_le_triomphe_de_Neptune_et_son_%C3%A9pouse_Amphitrite_%28Louvre%2C_Ma_1880%291.jpg/300px-Mosaique_de_sol_avec_le_triomphe_de_Neptune_et_son_%C3%A9pouse_Amphitrite_%28Louvre%2C_Ma_1880%291.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mosaique_de_sol_avec_le_triomphe_de_Neptune_et_son_%C3%A9pouse_Amphitrite_%28Louvre%2C_Ma_1880%291.jpg",
+            "caption": "Ground mosaic with the triumph of Neptune and his wife Amphitrite. Marble, li...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/African_Red_Slip_vessels.JPG/300px-African_Red_Slip_vessels.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/African_Red_Slip_vessels.JPG",
+            "caption": "Three Roman vessels of African Red Slip ware, 2nd-4th C. AD. Height of pot on...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Roman_pottery_African_Red_Slip.jpg/300px-Roman_pottery_African_Red_Slip.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Roman_pottery_African_Red_Slip.jpg",
+            "caption": "African Red Slip dish, made in Tunisia, AD 350-400. Diam. 20.5 cm. British Mu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hadrian",
+            "summary": "Roman emperor from 117 to 138",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg/250px-M%C3%BCnchen_SMAEK_2019-03-23n.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian"
+        },
+        {
+            "name": "Scipio Aemilianus",
+            "summary": "Roman politician and general (185–129 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg/250px-Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scipio_Aemilianus"
+        },
+        {
+            "name": "Micipsa",
+            "summary": "King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tridrachme%2C_Argent%2C_Numidie%2C_Micipsa2.png/250px-Tridrachme%2C_Argent%2C_Numidie%2C_Micipsa2.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Micipsa"
+        },
+        {
+            "name": "Jugurtha",
+            "summary": "2nd-century BC King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Coin_of_Jugurtha.png/250px-Coin_of_Jugurtha.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jugurtha"
+        },
+        {
+            "name": "Hiempsal I",
+            "summary": "Berber King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Numidian_coin_uncertain_kings.png/250px-Numidian_coin_uncertain_kings.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hiempsal_I"
+        },
+        {
+            "name": "Adherbal (king of Numidia)",
+            "summary": "2nd-century BC King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Monnaie_Adherbal.jpg/250px-Monnaie_Adherbal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adherbal_%28king_of_Numidia%29"
+        }
+    ],
+    "territory_geojson": null
+}

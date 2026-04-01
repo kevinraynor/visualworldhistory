@@ -1,0 +1,37 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1287,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c33ebba9cee6d5b4369c8c178ca13ea1ddebf7a4eaa2417a226ec8b26cd099f7",
+    "summary": "Guitarrero Cave is a prehistoric site in the Cordillera Negra of the Peruvian Andes, at an elevation of approximately 2,580 meters above sea level in the Callejon de Huaylas valley, with occupation layers spanning from approximately 10,500 BCE to historical times. The cave is particularly significant for containing some of the earliest known cultivated plant remains in South America, providing evidence of incipient plant management and early agriculture in the Andean highlands.\n\nExcavations directed by Thomas Lynch in the 1970s recovered remains of beans (Phaseolus vulgaris and P. lunatus), chili peppers, and other plant species from layers dated to approximately 8500–8000 BCE that show morphological characteristics suggesting human cultivation and selection. If these identifications and dates are confirmed, they would place early Andean plant cultivation contemporaneously with the earliest stages of [[event:1|Neolithic plant domestication in the Fertile Crescent]]. The cave also yielded perishable organic materials including cordage, textiles, and basketry of considerable antiquity, preserved by the dry cave environment. Guitarrero Cave is thus an important early reference point for understanding the independent origins of agriculture in South America, a process that would eventually give rise to the complex Andean civilizations including the Inca empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guitarrero_Cave",
+    "read_more_links": [
+        {
+            "title": "Agriculture in the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Agriculture_in_Mesoamerica"
+        },
+        {
+            "title": "Andean Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andean_civilizations"
+        },
+        {
+            "title": "Bean Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Common_bean#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cueva_del_Guitarrero.jpg/300px-Cueva_del_Guitarrero.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cueva_del_Guitarrero.jpg",
+            "caption": "Cueva del guitarrero vista desde Yungay.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

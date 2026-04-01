@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1226,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:bd0e985ffc620250fe267b5eddc24eee3953ab115fe343b80cb4d2fd6250f297",
+    "summary": "The Roman Forum (Forum Romanum) developed from a marshy valley between the Palatine and Capitoline hills into the civic, commercial, and religious center of the Roman Republic and Empire over the course of the 500–1 BC period. Originally a marketplace and burial ground, it was progressively monumentalized with temples, basilicas, and the Rostra (speakers' platform), becoming the symbolic heart of Roman public life where elections were held, laws debated, and triumphs celebrated.\n\nKey developments in this era included the Temple of Saturn (dedicated 498 BC), the Temple of Castor and Pollux (484 BC), the Basilica Porcia (184 BC) — Rome's first basilica, built by Cato the Elder — the Basilica Aemilia, and Julius Caesar's Forum Iulium adjacent to the old forum. The Rostra was rebuilt after the Latin War and adorned with ship prows (rostra) captured at Antium. By the late Republic, the Forum had become impossibly crowded with monuments and statues, reflecting centuries of competitive elite commemoration.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Forum",
+    "read_more_links": [
+        {
+            "title": "Temple of Saturn",
+            "url": "https://en.wikipedia.org/wiki/Temple_of_Saturn,_Rome"
+        },
+        {
+            "title": "Rostra speakers platform",
+            "url": "https://en.wikipedia.org/wiki/Rostra"
+        },
+        {
+            "title": "Basilica Aemilia",
+            "url": "https://en.wikipedia.org/wiki/Basilica_Aemilia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg/300px-Foro_Romano_Musei_Capitolini_Roma.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Foro_Romano_Musei_Capitolini_Roma.jpg",
+            "caption": "View of the Roman Forum from the  Capitoline Museums in Rome.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Colonna_di_Foca_Forum_Romanum_Rome.jpg/300px-Colonna_di_Foca_Forum_Romanum_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colonna_di_Foca_Forum_Romanum_Rome.jpg",
+            "caption": "The column of Phokas, Forum Romanum, Rome, Italy.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg/300px-Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg",
+            "caption": "L'Arc de Septime Sévère. Au premier plan, la Colonne de Phocas, en arrière-pl...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Platner-forum-republic-96_recontructed_color.jpg/300px-Platner-forum-republic-96_recontructed_color.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Platner-forum-republic-96_recontructed_color.jpg",
+            "caption": "This is an altered version of a map from The Topography and Monuments of Anci...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Constantine the Great",
+            "summary": "Roman emperor from 306 to 337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/250px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        },
+        {
+            "name": "Sulla",
+            "summary": "Roman general and dictator (138–78 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg/250px-Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sulla"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Basilica",
+            "summary": "Type of building in classical and church architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BasilicaSemproniaReconstruction.jpg/250px-BasilicaSemproniaReconstruction.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Basilica"
+        },
+        {
+            "name": "Romulus",
+            "summary": "King of Rome from 753 to 716 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg/250px-Brogi%2C_Carlo_%281850-1925%29_-_n._8226_-_Certosa_di_Pavia_-_Medaglione_sullo_zoccolo_della_facciata.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romulus"
+        }
+    ],
+    "territory_geojson": null
+}

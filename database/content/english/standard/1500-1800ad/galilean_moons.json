@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3287,
+    "parent_id": 2362,
+    "granularity": "detailed",
+    "content_hash": "sha256:cf3fe535459189a96ab57f82b65afcea423c8e4f6214d901cba470cb71d8bf18",
+    "summary": "The Discovery of the Galilean Moons (January 1610 AD) was one of the most consequential astronomical observations in history — [[event:2362|Galileo Galilei's]] detection of four large moons orbiting Jupiter through his improved telescope, providing direct visual evidence that not everything in the cosmos revolved around Earth and thus undermining the geocentric cosmology that had dominated Western astronomy for centuries. Galileo's Sidereus Nuncius (Starry Messenger, 1610), published just two months after his first observations, described not only the moons of Jupiter but also the mountainous surface of the Moon (contradicting the Aristotelian doctrine that celestial bodies were perfect spheres) and the resolution of the Milky Way into individual stars.\n\nThe four moons — Io, Europa, Ganymede, and Callisto, now collectively called the Galilean moons — provided a crucial analogy: if these bodies visibly orbited Jupiter rather than Earth, it demonstrated that Earth was not the unique center of all orbital motion, making the heliocentric system more plausible. The observations had immediate strategic value in navigation (Jupiter's moons provided a celestial clock for determining longitude at sea, a problem that occupied scientists for a century) and immediate religious implications (the [[event:2472|Galileo affair]] would eventually follow). Galileo dedicated his Sidereus Nuncius to the Medici family of Florence, naming the moons the 'Medicean Stars' — a successful bid for patronage that secured his position as court philosopher to the Grand Duke of Tuscany. The moons retain their Galilean names today; Europa has attracted intense scientific interest as a potential site for extraterrestrial life beneath its icy ocean.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galilean_moons",
+    "read_more_links": [
+        {
+            "title": "Sidereus Nuncius Starry Messenger Galileo 1610 publication",
+            "url": "https://en.wikipedia.org/wiki/Sidereus_Nuncius"
+        },
+        {
+            "title": "Galileo telescope Moon surface mountains craters discovery",
+            "url": "https://en.wikipedia.org/wiki/Galileo_Galilei#Astronomy"
+        },
+        {
+            "title": "Europa moon subsurface ocean extraterrestrial life potential",
+            "url": "https://en.wikipedia.org/wiki/Europa_(moon)"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

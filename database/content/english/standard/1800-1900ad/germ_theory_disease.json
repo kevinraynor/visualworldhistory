@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2579,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d4c3bca92ac5b0b4786c4072b63b487e8338322123ad5e41e526aa813d4ef339",
+    "summary": "The establishment of germ theory — the scientific understanding that specific microscopic organisms cause specific infectious diseases — was one of the most consequential intellectual revolutions in the history of medicine. Developed through the work of Louis Pasteur, Robert Koch, Joseph Lister, and others between the 1860s and 1880s, it displaced the prevailing miasma theory (which attributed disease to 'bad air') and provided the theoretical framework for modern microbiology, immunology, antiseptic surgery, and vaccination.\n\nLouis Pasteur's experiments in the early 1860s established that fermentation and putrefaction were caused by microorganisms, not by spontaneous chemical processes, and his famous swan-neck flask experiments (1859–61) definitively refuted spontaneous generation. His work on [[ event:2578|pasteurization]] and his subsequent development of vaccines for chicken cholera, anthrax, and rabies (1880–85) demonstrated the practical medical applications of understanding disease as caused by specific pathogens.\n\nRobert Koch made equally fundamental contributions. His isolation of the anthrax bacillus (1876), the development of techniques for growing pure bacterial cultures on solid media (1881), and his isolation of the tuberculosis bacillus (1882) and the cholera bacillus (1883) established the causal relationships between specific microorganisms and specific diseases. Koch's Postulates — the criteria for establishing that a specific microorganism causes a specific disease — became a foundational methodological standard for microbiological research.\n\nJoseph Lister applied germ theory to surgery through the development of [[event:2637|antiseptic surgical techniques]] in 1867, using carbolic acid to destroy microorganisms in surgical wounds and dramatically reducing postoperative infections. The convergence of these discoveries in the 1860s through 1880s created modern scientific medicine and opened the path to effective treatments, vaccines, and public health interventions that have reduced infectious disease mortality more than any other development in human history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+    "read_more_links": [
+        {
+            "title": "Robert Koch – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Robert_Koch"
+        },
+        {
+            "title": "History of Medicine – Britannica",
+            "url": "https://www.britannica.com/science/history-of-medicine"
+        },
+        {
+            "title": "Louis Pasteur – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Louis_Pasteur"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

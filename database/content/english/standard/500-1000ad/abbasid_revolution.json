@@ -1,0 +1,37 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3521,
+    "parent_id": 2133,
+    "granularity": "detailed",
+    "content_hash": "sha256:2194d9bcf5283842f05629ecb5ee78115bc91b40fca82952dcc569596bb5953e",
+    "summary": "The Abbasid Revolution (747–750 AD) was the uprising that overthrew the [[event:2129|Umayyad Caliphate]] and established the [[event:2133|Abbasid Caliphate]], representing one of the most significant political transformations in Islamic history and fundamentally reshaping the nature of the Islamic state. The revolution began in Khurasan (eastern Iran and Central Asia), where resentment of Umayyad rule had accumulated for decades among non-Arab Muslim converts (mawali) — particularly Persian Muslims who had embraced Islam but were excluded from the Umayyad Arab-centric social hierarchy and denied full equality with Arab Muslims despite theoretical Islamic universalism.\n\nThe Abbasid movement, organized under the black banners of Abu Muslim (a mysterious figure of uncertain origin who became one of history's most effective revolutionary organizers), mobilized a coalition of Khurasani Arabs, Persian converts, and Shia sympathizers united by grievances against Umayyad corruption, Arab ethnic exclusivity, and the impiety of the Damascus court. The Abbasid army swept westward through the Islamic world, defeating the last Umayyad caliph Marwan II at the Battle of the Zab (750 AD) in Iraq; Marwan II fled to Egypt where he was killed. The Abbasids then conducted a systematic massacre of the Umayyad family at a banquet — only one prince, Abd al-Rahman, escaped to establish the [[event:2208|Umayyad Emirate of Cordoba]] in Spain. The revolution's consequences were profound: the new Abbasid caliphate was cosmopolitan rather than Arab-centered, moved its capital to the newly built Baghdad, patronized Persian administrative culture, and created the conditions for the [[event:2135|Islamic Golden Age]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Revolution",
+    "read_more_links": [
+        {
+            "title": "Abu Muslim Khurasani revolution leader",
+            "url": "https://en.wikipedia.org/wiki/Abu_Muslim"
+        },
+        {
+            "title": "Battle Zab 750 Umayyad defeat",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_the_Zab"
+        },
+        {
+            "title": "Mawali non-Arab Muslims Umayyad grievances",
+            "url": "https://en.wikipedia.org/wiki/Mawali"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Abbasid revolution",
+            "summary": "747–750 overthrow of the Umayyad caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Caliphate_750.jpg/250px-Caliphate_750.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_revolution"
+        }
+    ],
+    "territory_geojson": null
+}

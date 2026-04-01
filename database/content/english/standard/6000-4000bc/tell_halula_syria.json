@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3724,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9012a1fba79ce0958caf092e9bb12a44647d6f12e85323f39d842ff400b3e6c3",
+    "summary": "Tell Halula is a large prehistoric mound site located on the middle Euphrates in northwestern Syria, occupied continuously from approximately 5700 to 4500 BC. The site preserves one of the most complete stratigraphic sequences of the late Halaf and early Ubaid periods in northern Syria, making it a key reference point for understanding the cultural transitions of this region during the sixth and fifth millennia BC. Excavations have revealed well-preserved mud-brick architecture, including multi-room houses that demonstrate the planning capacity and construction skill of the communities that lived there.\n\nTell Halula's inhabitants practiced a mixed agropastoral economy, cultivating wheat and barley and herding cattle, sheep, and goats in the surrounding floodplain. The site shows clear evidence of the transition from the Halaf to the Ubaid cultural tradition, a shift visible in pottery styles, architectural forms, and the organization of domestic space. As a community on the Euphrates, Tell Halula was well positioned for participation in the riverine exchange networks that linked Mesopotamia with the Mediterranean coast, and its long occupation reflects the agricultural productivity and strategic value of the middle Euphrates corridor.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tell_Halula",
+    "read_more_links": [
+        {
+            "title": "Halaf culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Halaf_culture"
+        },
+        {
+            "title": "Ubaid period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ubaid_period"
+        },
+        {
+            "title": "Prehistoric Syria - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_Syria"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Raqqa Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Raqqa_Governorate_emblem.png/250px-Raqqa_Governorate_emblem.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raqqa_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

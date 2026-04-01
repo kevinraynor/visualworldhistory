@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1708,
+    "parent_id": 41,
+    "granularity": "major",
+    "content_hash": "sha256:34049fcd2efeb260c71842845ad931849eb74ff474043b0641a9aa95272c3bae",
+    "summary": "The Great Pyramid of Giza, constructed around 2580–2560 BC under the reign of Pharaoh Khufu (Cheops), stands as one of the most extraordinary architectural achievements in human history. Rising to an original height of approximately 146.5 meters, it remained the tallest human-built structure in the world for nearly 3,800 years. The pyramid was built as a royal tomb and monument to divine kingship, and its construction required an estimated 2.3 million stone blocks weighing between 2.5 and 15 tonnes each, drawn from quarries at Giza and Aswan.\n\nThe precision of the pyramid's construction has long astonished engineers and archaeologists. Its base is level to within just 2.1 centimetres, and the sides are oriented to the cardinal directions with remarkable accuracy. The internal structure includes the King's Chamber, the Queen's Chamber, and the Grand Gallery — a soaring ascending corridor lined with smooth limestone. Although the pyramid was originally faced with polished white Tura limestone, most of this casing has been removed over the centuries for use in later building projects.\n\nThe logistical organisation required to build the pyramid represents a feat of administrative and social coordination unprecedented in the ancient world. Recent archaeological discoveries, including workers' villages at Giza and administrative papyri found at Wadi al-Jarf, confirm that the builders were paid labourers and state employees rather than slaves. These workers were housed, fed, and given medical care, suggesting a highly organised state apparatus under [[event:41|the Egyptian Old Kingdom]].\n\nThe pyramid was originally part of a larger mortuary complex that included a mortuary temple, a causeway, a valley temple, and three smaller pyramids for Khufu's queens. The [[event:1710|Great Sphinx of Giza]] was constructed nearby during the reign of Khufu's son Khafre, adding to the grandeur of the Giza plateau. Together, these monuments formed the most imposing religious and funerary landscape in the ancient world.\n\nThe Great Pyramid's significance extends far beyond its physical dimensions. It embodies the theological concept of the pharaoh as a divine intermediary between gods and humans, whose safe passage to the afterlife was essential to the continued order of the cosmos. The pyramid's alignment with the stars, particularly Orion's Belt, reflects the sophisticated astronomical knowledge accumulated during the Old Kingdom period of Egypt.\n\nThe pyramid has captivated scholars, travellers, and conquerors since antiquity. Arab historians of the medieval period wrote extensively about it, and it was numbered among the Seven Wonders of the Ancient World by Greek and Roman authors. Today it is the only one of the Seven Wonders still standing, and it remains a UNESCO World Heritage Site and one of the most visited monuments in the world, a testament to the enduring power of the civilisation that produced it.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+    "read_more_links": [
+        {
+            "title": "Khufu – Pharaoh and Builder",
+            "url": "https://en.wikipedia.org/wiki/Khufu"
+        },
+        {
+            "title": "Giza pyramid complex",
+            "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+        },
+        {
+            "title": "Wadi al-Jarf Papyri",
+            "url": "https://en.wikipedia.org/wiki/Diary_of_Merer"
+        },
+        {
+            "title": "Old Kingdom of Egypt",
+            "url": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Giseh_Sonnenbarke_12.jpg/300px-Giseh_Sonnenbarke_12.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Giseh_Sonnenbarke_12.jpg",
+            "caption": "Sonnenbarke des Cheops im Museum neben der Cheops-Pyramide in Giseh, Ägypten",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Specimen_of_mortar_from_the_Great_Pyramid_MET_23.187_EGDP017918.jpg/300px-Specimen_of_mortar_from_the_Great_Pyramid_MET_23.187_EGDP017918.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Specimen_of_mortar_from_the_Great_Pyramid_MET_23.187_EGDP017918.jpg",
+            "caption": "Mortar fragment, Giza Pyramid",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/KhufuPyramidCasingStone-BritishMuseum-August19-08.jpg/300px-KhufuPyramidCasingStone-BritishMuseum-August19-08.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/KhufuPyramidCasingStone-BritishMuseum-August19-08.jpg",
+            "caption": "One of the original casing stones for the Great Pyramid (circa 2570 BC), most...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hemiunu",
+            "summary": "Ancient Egyptian prince and vizier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Statue-of-Hemiun.jpg/250px-Statue-of-Hemiun.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hemiunu"
+        },
+        {
+            "name": "Red Pyramid",
+            "summary": "C. 2600 BC pyramid near Cairo, Egypt, built by pharaoh Sneferu",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rote_Pyramide_%28Dahschur%29_04.jpg/250px-Rote_Pyramide_%28Dahschur%29_04.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Pyramid"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Surid Ibn Salhouk",
+            "summary": "Legendary king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/250px-Pyramids_of_the_Giza_Necropolis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Surid_Ibn_Salhouk"
+        }
+    ],
+    "territory_geojson": null
+}

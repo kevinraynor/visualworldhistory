@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2080,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:1a9f8cfea10b187e3fe075ded5f767aa32440c38c65efd1f32299b6d478eea9d",
+    "summary": "Manichaeism (founded c. 240 AD by the Prophet Mani in Babylonia) was one of the world's great missionary religions — a dualistic faith that synthesized elements of Zoroastrianism, Christianity, and Buddhism into a comprehensive cosmological system that spread from the [[event:2059|Sassanid Empire]] across the entire known world, reaching from the Roman Empire to China. Mani (c. 216–274 AD) was born in Babylonia to a family connected to a Jewish-Christian baptismal sect and grew up in an extraordinarily cosmopolitan environment; he claimed to be the final prophet completing the revelations of Zoroaster, Buddha, and Jesus.\n\nMani's system was radically dualistic — the universe was seen as a battleground between absolute Light (spirit) and absolute Darkness (matter), and human souls were sparks of divine light trapped in material bodies. Salvation came through knowledge (gnosis) of this cosmic situation and the ascetic practices that freed the light from matter. Mani was an extraordinary communicator who wrote and illustrated his own scriptures (making Manichaean texts among the most beautifully illustrated manuscripts of antiquity), trained missionaries, and sent them across the Silk Road and into the Roman world. Despite periodic persecution — Mani was executed by the Sassanid emperor around 274 AD — Manichaeism spread remarkably: it was for a time the state religion of the Uyghur Khaganate in Central Asia (762–840 AD), and communities survived in China until the 17th century. St. Augustine of Hippo was a Manichaean for nine years before converting to Christianity, and his later theology was partly shaped by his rejection of Manichaean dualism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manichaeism",
+    "read_more_links": [
+        {
+            "title": "Mani prophet biography",
+            "url": "https://en.wikipedia.org/wiki/Mani_(prophet)"
+        },
+        {
+            "title": "Augustine and Manichaeism",
+            "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo#Manichaeism"
+        },
+        {
+            "title": "Manichaean texts manuscripts",
+            "url": "https://en.wikipedia.org/wiki/Manichaean_texts"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jinjiang_Cao%27an_20120229-10.jpg/300px-Jinjiang_Cao%27an_20120229-10.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jinjiang_Cao%27an_20120229-10.jpg",
+            "caption": "Cao Nunnery, located in Jinjiang City, Fujian Province, China, is a national ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Manichaean_clergymen%2C_Khocho%2C_Ruin_alpha%2C_10th-11th_century_AD%2C_wall_painting_-_Ethnological_Museum%2C_Berlin_-_DSC01743.JPG/300px-Manichaean_clergymen%2C_Khocho%2C_Ruin_alpha%2C_10th-11th_century_AD%2C_wall_painting_-_Ethnological_Museum%2C_Berlin_-_DSC01743.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Manichaean_clergymen%2C_Khocho%2C_Ruin_alpha%2C_10th-11th_century_AD%2C_wall_painting_-_Ethnological_Museum%2C_Berlin_-_DSC01743.JPG",
+            "caption": "Exhibit in the Ethnological Museum, Berlin, Germany. Photography was permitte...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Spread_of_Manicheanism.png/300px-Spread_of_Manicheanism.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Spread_of_Manicheanism.png",
+            "caption": "Map showing the spread of Manicheanism. Note: The land shown around the cente...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tiffany_Window_of_St_Augustine_-_Lightner_Museum.jpg/300px-Tiffany_Window_of_St_Augustine_-_Lightner_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Tiffany_Window_of_St_Augustine_-_Lightner_Museum.jpg",
+            "caption": "Tiffany Window of St Augustine - Lightner Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mani (prophet)",
+            "summary": "3rd century prophet and founder of Manichaeism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg/250px-Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mani_%28prophet%29"
+        },
+        {
+            "name": "Zoroaster",
+            "summary": "Persian prophet and spiritual founder of Zoroastrianism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Yazd%2C_Templo_del_Fuego_%282000%29_03.jpg/250px-Yazd%2C_Templo_del_Fuego_%282000%29_03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zoroaster"
+        },
+        {
+            "name": "The Buddha",
+            "summary": "Founder of Buddhism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/250px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/The_Buddha"
+        },
+        {
+            "name": "Jesus",
+            "summary": "Jewish preacher and religious leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Spas_vsederzhitel_sinay_%28cropped1%29.jpg/250px-Spas_vsederzhitel_sinay_%28cropped1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus"
+        },
+        {
+            "name": "Abbasid Caliphate",
+            "summary": "Third Islamic caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/250px-Abbasid_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2538,
+    "parent_id": 2536,
+    "granularity": "notable",
+    "content_hash": "sha256:f92d733ca7f79195bda448158e9160fc5aec5ea3ce9442f49dee2eb8771acc8d",
+    "summary": "The Battle of Gettysburg, fought from 1 to 3 July 1863 in and around the Pennsylvania town of Gettysburg, was the largest battle ever fought in North America and a decisive turning point in the [[event:2536|American Civil War]]. General Robert E. Lee's Army of Northern Virginia, numbering around 75,000 men, clashed with Major General George Meade's Army of the Potomac, approximately 83,000 strong, in three days of ferocious combat that resulted in approximately 51,000 total casualties — the bloodiest engagement of the war.\n\nLee had invaded Pennsylvania hoping to threaten Northern cities, force a decisive battle that would destroy the Army of the Potomac, relieve pressure on the Confederate interior, and potentially produce the foreign recognition or negotiated peace that the Confederacy urgently needed. The battle began accidentally when Confederate forces advancing toward Gettysburg to search for shoes encountered Union cavalry. The fighting escalated as both sides fed more troops into the town, and by nightfall the Union army held the high ground south of Gettysburg — Cemetery Ridge, Cemetery Hill, and Culp's Hill — in a strong defensive position.\n\nOn the second day, Lee ordered attacks against both Union flanks. The fighting at Little Round Top, Devil's Den, the Wheatfield, and Peach Orchard was among the most intense of the battle. Union forces held their positions with heavy losses. On the third day, Lee ordered the infamous Pickett's Charge — a massed frontal assault of approximately 12,500 Confederate infantry across nearly a mile of open ground against the Union center. The charge was repulsed with catastrophic losses; more than half of the attacking force became casualties.\n\nLee withdrew his damaged army back to Virginia. He had lost approximately one-third of his army, officers he could not replace, and the offensive capability that had made him so formidable. Gettysburg effectively ended Lee's ability to threaten the North again. Four months later, President Lincoln delivered the Gettysburg Address at the dedication of a military cemetery on the battlefield — a brief speech that reframed the war's purpose in terms of national rebirth and the principle of human equality.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg",
+    "read_more_links": [
+        {
+            "title": "Battle of Gettysburg – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Gettysburg"
+        },
+        {
+            "title": "Gettysburg Address – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gettysburg_Address"
+        },
+        {
+            "title": "American Civil War – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg/300px-Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg",
+            "caption": "L. Prang & Co.  print of the painting \"Hancock at Gettysburg\" by Thure de Thu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/George_G._Meade_Standing.jpg/300px-George_G._Meade_Standing.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/George_G._Meade_Standing.jpg",
+            "caption": "George G. Meade Standing",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_First_Minnesota_by_Don_Troiani_%284101092782%29.jpg/300px-The_First_Minnesota_by_Don_Troiani_%284101092782%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/The_First_Minnesota_by_Don_Troiani_%284101092782%29.jpg",
+            "caption": "Gettysburg, Pennsylvania, July 2, 1863 -- Among the many militia regiments th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gettysburg_Battle_Map_Day1.png/300px-Gettysburg_Battle_Map_Day1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gettysburg_Battle_Map_Day1.png",
+            "caption": "Gettysburg Battle Map Day1",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Esten Cooke",
+            "summary": "American novelist (1830–1886)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/John_Esten_Cooke_wmm_%28cropped%29.jpg/250px-John_Esten_Cooke_wmm_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Esten_Cooke"
+        },
+        {
+            "name": "George Meade",
+            "summary": "United States Army general and civil engineer (1815–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/George_Meade_-_Brady-Handy.jpg/250px-George_Meade_-_Brady-Handy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Meade"
+        },
+        {
+            "name": "Spotsylvania County, Virginia",
+            "summary": "County in Virginia, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/St._Julien_%28Spotsylvania_County%2C_Virginia%29.png/250px-St._Julien_%28Spotsylvania_County%2C_Virginia%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Spotsylvania_County%2C_Virginia"
+        },
+        {
+            "name": "Abraham Lincoln",
+            "summary": "President of the United States from 1861 to 1865",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/250px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+        },
+        {
+            "name": "Joseph Hooker",
+            "summary": "American Union Army general (1814–1879)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Joseph_Hooker_-_Brady-Handy--restored.jpg/250px-Joseph_Hooker_-_Brady-Handy--restored.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Hooker"
+        },
+        {
+            "name": "Gettysburg Address",
+            "summary": "1863 speech by U.S. President Abraham Lincoln",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lincolnatgettysburg.jpg/250px-Lincolnatgettysburg.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gettysburg_Address"
+        }
+    ],
+    "territory_geojson": null
+}

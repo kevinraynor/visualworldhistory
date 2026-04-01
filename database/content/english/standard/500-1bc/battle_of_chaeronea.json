@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1029,
+    "parent_id": 1027,
+    "granularity": "notable",
+    "content_hash": "sha256:8484fd5af1715bd5a33387ac4820358f5e17724756658fc6f28f114628140050",
+    "summary": "The Battle of Chaeronea (338 BC) was the decisive engagement in which Philip II of Macedon and his son Alexander defeated the combined armies of Athens and Thebes, effectively ending Greek city-state independence and establishing Macedonian hegemony over Greece. The battle was fought in the Boeotian plain near the city of Chaeronea and represents the end of the Classical Greek political order.\n\nThe Greek coalition — Athens motivated by the Athenian orator Demosthenes's tireless anti-Macedonian agitation — matched the Macedonians in numbers but not in the quality or coordination of their forces. Philip commanded the Macedonian right against the Athenians; the teenage Alexander commanded the Companion cavalry on the left against the Thebans. The battle turned when Philip feigned a retreat with the Macedonian infantry, drawing the Athenians forward and creating a gap in the Greek line, through which Alexander's cavalry burst. The [[event:1022|Sacred Band of Thebes]] was surrounded and annihilated to the last man.\n\nChaeronea is one of ancient history's genuine turning points. The era of the polis — the independent, self-governing city-state as the primary form of Greek political organization — effectively ended here. [[event:1018|Athenian Democracy]] continued formally but within the political constraints of Macedonian hegemony. Philip used his victory constructively, imposing generous terms on Athens and founding the [[event:1030|League of Corinth]] to organize Greek resources for an anticipated campaign against Persia, a project his assassination in 336 BC left to his successor.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)",
+    "read_more_links": [
+        {
+            "title": "Philip II of Macedon",
+            "url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "title": "Demosthenes",
+            "url": "https://en.wikipedia.org/wiki/Demosthenes"
+        },
+        {
+            "title": "League of Corinth",
+            "url": "https://en.wikipedia.org/wiki/League_of_Corinth"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/300px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "caption": "Phillip II, king of Macedonia, Roman copy of Greek original, Ny Carlsberg Gly...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/7189_-_Piraeus_Arch._Museum%2C_Athens_-_Stele_for_Panchares_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg/300px-7189_-_Piraeus_Arch._Museum%2C_Athens_-_Stele_for_Panchares_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/7189_-_Piraeus_Arch._Museum%2C_Athens_-_Stele_for_Panchares_-_Photo_by_Giovanni_Dall%27Orto%2C_Nov_14_2009.jpg",
+            "caption": "A funerary stele for a Panchares (possibly fell in the battle of Chaeronea, 3...",
+            "attribution": "Wikimedia Commons, Attribution"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Chaironeia_lion.JPG/300px-Chaironeia_lion.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Chaironeia_lion.JPG",
+            "caption": "Lion of Chaeronea",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Demosthenes_orator_Louvre.jpg/300px-Demosthenes_orator_Louvre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Demosthenes_orator_Louvre.jpg",
+            "caption": "Bust of the Greek orator Demosthenes. Marble, Roman artwork, inspired from a ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Philip II of Macedon",
+            "summary": "King of Macedon from 359 to 336 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/250px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Demosthenes",
+            "summary": "Classical Athenian statesman and orator (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/250px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Demosthenes"
+        },
+        {
+            "name": "Chares of Athens",
+            "summary": "4th-century BCE Athenian politician and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TROAS%2C_Sigeion._4th_BC_struck_under_Chares.jpg/250px-TROAS%2C_Sigeion._4th_BC_struck_under_Chares.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chares_of_Athens"
+        },
+        {
+            "name": "Cavalry",
+            "summary": "Soldiers or warriors fighting from horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg/250px-Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalry"
+        },
+        {
+            "name": "Strategos",
+            "summary": "Greek military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Greek_strategist_Pio-Clementino_Inv306.jpg/250px-Greek_strategist_Pio-Clementino_Inv306.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strategos"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2150,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:0d442bff4b25db682a3263112d1f47789cb58c11b6ada21aa72ce72ab12c073f",
+    "summary": "Alfred the Great (r. 871–899 AD) is the only English monarch to be called 'Great' — a West Saxon king who saved the Anglo-Saxon kingdoms from Danish Viking conquest, reorganized England's military and administrative systems, promoted literacy and education, and laid the foundations for the unified Kingdom of England that his successors would create. When Alfred came to the throne, the Great Heathen Army had conquered Northumbria, East Anglia, and Mercia; Wessex alone remained, and in 878 AD the Danes launched a winter campaign that drove Alfred into hiding in the Somerset marshes (the legendary setting of the 'burned cakes' story). Alfred's counter-offensive culminated in the decisive victory at the Battle of Edington (878 AD).\n\nAfter Edington, Alfred negotiated the [[event:2144|Danelaw]] settlement, reorganized Wessex's defenses (building a network of burhs — fortified towns that could shelter the population and serve as bases), reorganized the fyrd (militia) so that it could operate on rotation without depleting agricultural labor, and built a small navy. Equally significant were his educational and cultural reforms: Alfred personally translated Latin texts into Old English (including Boethius and Bede), established a school for nobles' sons, and attempted to create a literate governing class. His promotion of Old English literacy preserved the language that would become modern English. Alfred's descendants — Edward the Elder, Æthelstan — reconquered the Danelaw, and Æthelstan became the first king of a unified England around 927 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+    "read_more_links": [
+        {
+            "title": "Alfred military reforms burhs",
+            "url": "https://en.wikipedia.org/wiki/Alfred_the_Great#Military_reorganisation"
+        },
+        {
+            "title": "Alfred educational translations",
+            "url": "https://en.wikipedia.org/wiki/Alfred_the_Great#Learning_and_education"
+        },
+        {
+            "title": "Battle of Edington 878",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Edington"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Panes_depicting_Alfred_the_Great_-_Bristol_Cathedral_-_DSC_0025.jpg/300px-Panes_depicting_Alfred_the_Great_-_Bristol_Cathedral_-_DSC_0025.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Panes_depicting_Alfred_the_Great_-_Bristol_Cathedral_-_DSC_0025.jpg",
+            "caption": "Stained-glass window panes depicting Alfred the Great in Bristol Cathedral",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/King_Alfred_Statue_Pewsey.jpg/300px-King_Alfred_Statue_Pewsey.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/King_Alfred_Statue_Pewsey.jpg",
+            "caption": "The King Alfred statue on the A345 road junction with High Street in the cent...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/King_Alfred_the_Great_statue%2C_Wantage%2C_Oxfordshire_retouched.jpg/300px-King_Alfred_the_Great_statue%2C_Wantage%2C_Oxfordshire_retouched.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/King_Alfred_the_Great_statue%2C_Wantage%2C_Oxfordshire_retouched.jpg",
+            "caption": "Statue of King Alfred the Great, Wantage, Oxfordshire",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Statue_of_King_Alfred_at_Alfred_University.jpg/300px-Statue_of_King_Alfred_at_Alfred_University.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Statue_of_King_Alfred_at_Alfred_University.jpg",
+            "caption": "This statue of King Alfred is located at the center of Alfred University's qu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Edward the Elder",
+            "summary": "King of the Anglo-Saxons from 899 to 924",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Edward_the_Elder_-_MS_Royal_14_B_VI.jpg/250px-Edward_the_Elder_-_MS_Royal_14_B_VI.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_the_Elder"
+        },
+        {
+            "name": "Ælfthryth, Countess of Flanders",
+            "summary": "Countess consort of Flanders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baldwin_II_and_%C3%86lfthryth.jpg/250px-Baldwin_II_and_%C3%86lfthryth.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%86lfthryth%2C_Countess_of_Flanders"
+        },
+        {
+            "name": "Berkshire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sweep_of_the_Downs_at_Starveall%2C_Berkshire_-_geograph.org.uk_-_4043203.jpg/250px-Sweep_of_the_Downs_at_Starveall%2C_Berkshire_-_geograph.org.uk_-_4043203.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Berkshire"
+        },
+        {
+            "name": "Oxfordshire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Aerial_view_of_Islip%2C_Oxfordshire_-_geograph.org.uk_-_3892478_%28cropped%29.jpg/250px-Aerial_view_of_Islip%2C_Oxfordshire_-_geograph.org.uk_-_3892478_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oxfordshire"
+        },
+        {
+            "name": "Hampshire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Spinnaker_Tower%2C_Portsmouth%2C_England_%282%29.jpg/250px-Spinnaker_Tower%2C_Portsmouth%2C_England_%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hampshire"
+        },
+        {
+            "name": "Æthelwulf, King of Wessex",
+            "summary": "King of Wessex from 839 to 858",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%86thelwulf_-_MS_Royal_14_B_VI.jpg/250px-%C3%86thelwulf_-_MS_Royal_14_B_VI.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%86thelwulf%2C_King_of_Wessex"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 99,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:6b319c02dac1b22a42ac4e9115fd4401c67de1aa1dbdd66d9bfd740031961e79",
+    "summary": "The Inca Empire (Tawantinsuyu, c. 1438–1533 AD) was the largest empire in pre-Columbian America and the largest in the world at the time of its conquest, stretching nearly 4,000 kilometers along the Andes from modern Colombia to central Chile and encompassing an estimated 10–12 million people across dramatically diverse ecological zones. The Inca rose from a small kingdom centered on [[event:2263|Cusco]] to continental dominance under the visionary ruler Pachacuti (reigned 1438–1471), who transformed the empire's administrative, military, and architectural systems within a single reign.\n\nThe Inca Empire's administrative genius lay in its system of vertical ecological control and redistributive economy. The [[event:3513|magnificent road system]] — over 40,000 kilometers of paved mountain roads and hanging bridges — connected all parts of the empire to Cusco and enabled rapid movement of armies, relay messengers (chasquis), and goods. The mit'a labor tax system required all subjects to contribute labor time to state projects — roads, temples, military campaigns, agricultural terracing — in exchange for food, clothing, and security from the state storehouses. The empire incorporated conquered peoples through a sophisticated program of population relocation (mitimas), language standardization (Quechua as the imperial lingua franca), and elite absorption. The Inca had no writing system but used the quipu — knotted strings in elaborate patterns — for record-keeping. The empire collapsed with stunning speed after Francisco Pizarro arrived in 1532, as smallpox preceded the Spanish and civil war between rival claimants (Huascar and Atahualpa) had already weakened the state.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_Empire",
+    "read_more_links": [
+        {
+            "title": "Pachacuti Inca empire builder",
+            "url": "https://en.wikipedia.org/wiki/Pachacuti"
+        },
+        {
+            "title": "Inca road system mit'a labor",
+            "url": "https://en.wikipedia.org/wiki/Inca_road_system"
+        },
+        {
+            "title": "Quipu Inca record keeping system",
+            "url": "https://en.wikipedia.org/wiki/Quipu"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pisac%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_99.JPG/300px-Pisac%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_99.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pisac%2C_Cuzco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_99.JPG",
+            "caption": "Pisac, Cuzco, Peru",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sacsayhuaman_-_51188929520.jpg/300px-Sacsayhuaman_-_51188929520.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Sacsayhuaman_-_51188929520.jpg",
+            "caption": "Sacsayhuamán archaeological site",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Luis_Montero_-_The_Funerals_of_Inca_Atahualpa_-_Google_Art_Project.jpg/300px-Luis_Montero_-_The_Funerals_of_Inca_Atahualpa_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Luis_Montero_-_The_Funerals_of_Inca_Atahualpa_-_Google_Art_Project.jpg",
+            "caption": "Luis Montero - The Funerals of Inca Atahualpa - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cusco_-_Qoricancha_-_panoramio_%281%29.jpg/300px-Cusco_-_Qoricancha_-_panoramio_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Cusco_-_Qoricancha_-_panoramio_%281%29.jpg",
+            "caption": "Cusco - Qoricancha",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sapa Inca",
+            "summary": "Emperor of the Inca Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aguas_Calientes.JPG/250px-Aguas_Calientes.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sapa_Inca"
+        },
+        {
+            "name": "Atahualpa",
+            "summary": "Last Inca Emperor (ruled 1532–1533)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png/250px-Atahuallpa%2C_Inca_XIIII_From_Berlin_Ethnologisches_Museum%2C_Staatliche_Museen%2C_Berlin%2C_Germany.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Atahualpa"
+        },
+        {
+            "name": "Aleixo Garcia",
+            "summary": "Early 16th-century Portuguese explorer, conquistador",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Riodelaplatabasinmap.png/250px-Riodelaplatabasinmap.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aleixo_Garcia"
+        },
+        {
+            "name": "Inca architecture",
+            "summary": "Pre-Columbian architecture in South America",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inca_wall_1_-_Coricancha_Peru.jpg/250px-Inca_wall_1_-_Coricancha_Peru.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Inca_architecture"
+        },
+        {
+            "name": "Carl Troll",
+            "summary": "German geographer (1899–1975)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Carl_Th._Troll.jpg/250px-Carl_Th._Troll.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Troll"
+        }
+    ],
+    "territory_geojson": null
+}

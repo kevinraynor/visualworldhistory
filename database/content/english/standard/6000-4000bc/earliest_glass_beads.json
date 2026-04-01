@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1616,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:4e199cc0b21b3826e61534e2b6e7fe651f2b51d6d658dcee35539fd913b415ee",
+    "summary": "The earliest known glass objects are small beads and pendants dating to around 3500 BC from Mesopotamia and Egypt, though the precursors to true glassmaking — faience and glazed stone — appeared somewhat earlier. Faience, a ceramic material with a vitreous silica surface, was produced in Mesopotamia and Egypt by at least 4000 BC, and the step from glazed surfaces to freestanding glass objects may have occurred gradually through experimentation with high-temperature furnaces used in copper smelting and pottery firing.\n\nThese earliest glass objects were luxury items associated with elite burials and temple inventories, valued for their resemblance to rare semi-precious stones such as lapis lazuli and turquoise. The technology required precise control of heat and a specific mixture of silica, alkali flux, and colorants — knowledge that accumulated incrementally in craft communities around Mesopotamian urban centers. The production and exchange of glass beads contributed to the long-distance trade networks connecting [[event:34|Mesopotamian city-states]] with communities across Southwest Asia and beyond.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glass#History",
+    "read_more_links": [
+        {
+            "title": "Faience - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Egyptian_faience"
+        },
+        {
+            "title": "Ancient glass - Britannica",
+            "url": "https://www.britannica.com/technology/glass/History-of-glassmaking"
+        },
+        {
+            "title": "Bead - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bead#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bottle%2C_wine_%28AM_1997.80.28-1%29.jpg/300px-Bottle%2C_wine_%28AM_1997.80.28-1%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bottle%2C_wine_%28AM_1997.80.28-1%29.jpg",
+            "caption": "Wine bottle green, glass wine bottle; circular base, cylindrical body sloping...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Glass_ornaments.JPG/300px-Glass_ornaments.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Glass_ornaments.JPG",
+            "caption": "Amber glass ornaments",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Artesan%C3%ADa_en_vidrio_%28Unsplash%29.jpg/300px-Artesan%C3%ADa_en_vidrio_%28Unsplash%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Artesan%C3%ADa_en_vidrio_%28Unsplash%29.jpg",
+            "caption": "Quino Al 2017-03-13",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vigreux_column_lab.jpg/300px-Vigreux_column_lab.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vigreux_column_lab.jpg",
+            "caption": "Vigreux column on a round-bottom flask, all connected to a condenser",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Metalworking",
+            "summary": "Process of making items from metal",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dreher_an_einer_Drehbank.jpg/250px-Dreher_an_einer_Drehbank.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Metalworking"
+        }
+    ],
+    "territory_geojson": null
+}

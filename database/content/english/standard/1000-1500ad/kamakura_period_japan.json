@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2278,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:c80a3b5dddb2d7d178a50ccb9606a9ea6d1d7483267f1207a18272ebaf4f6302",
+    "summary": "The Kamakura Period (1185–1333 AD) was a transformative era in Japanese history marked by the establishment of the first military government (shogunate) by Minamoto no Yoritomo following his victory in the Genpei War (1180–1185), shifting effective political power from the imperial court at Kyoto to the warrior class (bushi/samurai) based at the new capital of Kamakura in eastern Japan. This transition established the pattern of military rule that would define Japanese governance — with some interruptions — until the Meiji Restoration in 1868.\n\nThe Kamakura period witnessed the crystallization of [[event:2279|samurai culture]] as a distinct social phenomenon, the rise of new Buddhist schools adapted to the warrior and common classes (Zen, Pure Land, and Nichiren Buddhism all emerged or spread during this period), and Japan's successful resistance to the [[event:2280|Mongol invasion attempts]] of 1274 and 1281. The [[event:3003|Kamakura shogunate's]] administrative system — with its regional military governors (shugo) and estate managers (jito) — created the feudal network of warrior loyalties and land management that shaped Japanese society for centuries. The period ended when Emperor Go-Daigo attempted to restore direct imperial rule, triggering the Kemmu Restoration (1333) and then the civil war that established the [[event:2281|Muromachi shogunate]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kamakura_period",
+    "read_more_links": [
+        {
+            "title": "Minamoto Yoritomo first shogunate Kamakura",
+            "url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo"
+        },
+        {
+            "title": "Kamakura Buddhism Zen Pure Land Nichiren",
+            "url": "https://en.wikipedia.org/wiki/Kamakura_period#Buddhism"
+        },
+        {
+            "title": "Genpei War samurai class rise",
+            "url": "https://en.wikipedia.org/wiki/Genpei_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ancient_Provinces_of_Japan_Ryoseikoku_Map.png/300px-Ancient_Provinces_of_Japan_Ryoseikoku_Map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ancient_Provinces_of_Japan_Ryoseikoku_Map.png",
+            "caption": "Ancient provinces of Japan map (令制国, Ryōseikoku). Ryōseikoku were first-level...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Takezaki_suenaga_ekotoba3.jpg/300px-Takezaki_suenaga_ekotoba3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Takezaki_suenaga_ekotoba3.jpg",
+            "caption": "The second volume of \"Mongol Invasion pictures and text\", picture 16 [Battle ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Minamoto_no_Yoritomo.jpg/300px-Minamoto_no_Yoritomo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Minamoto_no_Yoritomo.jpg",
+            "caption": "Portrait of Yoritomo, Hanging scroll; color on silk. Owned by Jingo-ji temple...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Head_of_a_Guardian_13thcentury_Japan.jpg/300px-Head_of_a_Guardian_13thcentury_Japan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Head_of_a_Guardian_13thcentury_Japan.jpg",
+            "caption": "Head of a Guardian, 13th century. Hinoki wood with lacquer on cloth, pigment,...",
+            "attribution": "Wikimedia Commons, No restrictions"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Minamoto no Yoritomo",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1192 to 1199",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Minamoto_no_Yoritomo.jpg/250px-Minamoto_no_Yoritomo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo"
+        },
+        {
+            "name": "Samurai",
+            "summary": "Japanese warrior class",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/250px-Samurai_on_horseback0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai"
+        },
+        {
+            "name": "Emperor Go-Daigo",
+            "summary": "Emperor of Japan from 1318 to 1339",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Go-Daigo.jpg/250px-Go-Daigo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Daigo"
+        },
+        {
+            "name": "Ashikaga Takauji",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1338 to 1358",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ashikaga_Takauji_J%C5%8Ddo-ji.jpg/250px-Ashikaga_Takauji_J%C5%8Ddo-ji.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashikaga_Takauji"
+        },
+        {
+            "name": "Emperor Go-Toba",
+            "summary": "Emperor of Japan from 1183 to 1198",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Emperor_Go-Toba.jpg/250px-Emperor_Go-Toba.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Toba"
+        },
+        {
+            "name": "Unkei",
+            "summary": "Japanese sculptor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Unkei_Rokuharamitsuji.jpg/250px-Unkei_Rokuharamitsuji.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Unkei"
+        }
+    ],
+    "territory_geojson": null
+}

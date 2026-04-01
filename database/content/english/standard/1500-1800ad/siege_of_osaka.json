@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3235,
+    "parent_id": 2336,
+    "granularity": "detailed",
+    "content_hash": "sha256:3eda845e570ce34f65442f3447d873c99fc126f292b291f19c9211195fe61203",
+    "summary": "The Sieges of Osaka (1614–1615 AD) were the final military campaigns of the [[event:2336|Tokugawa Shogunate's]] consolidation of power — twin sieges of Osaka Castle, the last major stronghold of the Toyotomi clan, that eliminated Toyotomi Hideyori (son of Toyotomi Hideyoshi) and his supporters, completing the Tokugawa unification of Japan and ending the era of civil war. Osaka Castle, built by Hideyoshi as Japan's greatest fortress, sheltered a coalition of ronin (masterless samurai), Christian daimyo, and Toyotomi loyalists who represented the last potential challenge to Tokugawa Ieyasu's authority. The Winter Campaign (1614) ended in a negotiated truce after Tokugawa forces filled the castle's outer moats — a truce that the Tokugawa then used to persuade the defenders to fill the inner moats as well.\n\nThe Summer Campaign (1615) quickly overwhelmed the now-vulnerable castle; Hideyori and his mother committed suicide as the castle burned. The Tokugawa victory was politically total: the elimination of the Toyotomi removed the last rival dynasty that might have claimed legitimacy to rule Japan. Ieyasu immediately issued the Laws for the Military Houses (Buke shohatto), tightening control over the daimyo, and died the following year in 1616, confident his dynasty was secure. The Sieges of Osaka marked the final consolidation of the [[event:3308|Tokugawa Ieyasu's]] political achievement — after decades of civil war, Japan would enjoy over 250 years of peace under the [[event:2336|Edo period's]] stable Tokugawa order.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Siege_of_Osaka",
+    "read_more_links": [
+        {
+            "title": "Osaka Castle Toyotomi Hideyori Tokugawa siege winter 1614",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Osaka#Winter_Campaign"
+        },
+        {
+            "title": "Osaka Summer Campaign 1615 Toyotomi clan elimination",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Osaka#Summer_Campaign"
+        },
+        {
+            "title": "Laws Military Houses Buke shohatto daimyo control Tokugawa",
+            "url": "https://en.wikipedia.org/wiki/Buke_shohatto"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/The_Siege_of_Osaka_Castle.jpg/300px-The_Siege_of_Osaka_Castle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_Siege_of_Osaka_Castle.jpg",
+            "caption": "「大坂夏の陣図屏風」・右隻（通称：黒田屏風、大阪城天守閣所蔵、重要文化財）- 自らも大坂の陣に参陣した福岡藩主黒田長政が当時一流の絵師を集めて描かせた屏風...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Yodo-dono_cropped.jpg/300px-Yodo-dono_cropped.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Yodo-dono_cropped.jpg",
+            "caption": "Lady Yodo-dono (Chacha) (1569?–1615)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Watanabe_Daimon_Map.png/300px-Watanabe_Daimon_Map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Watanabe_Daimon_Map.png",
+            "caption": "This map was created by me by deriving the pinpoint Majority events during Su...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Osaka_U-no-toshi-zu.jpg/300px-Osaka_U-no-toshi-zu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Osaka_U-no-toshi-zu.jpg",
+            "caption": "A commercial newssheet of Edo period sold to report the fall of Osaka Castle ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tokugawa Ieyasu",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1603 to 1605",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tokugawa_Ieyasu2.JPG/250px-Tokugawa_Ieyasu2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+        },
+        {
+            "name": "Tokugawa Hidetada",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1605 to 1623",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hidetada2.jpg/250px-Hidetada2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Hidetada"
+        },
+        {
+            "name": "Honda Masanobu",
+            "summary": "Japanese military commander and daimyo (1538–1616)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Honda_Masanobu02.JPG/250px-Honda_Masanobu02.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Honda_Masanobu"
+        },
+        {
+            "name": "Sanada Yukimura",
+            "summary": "Japanese samurai warrior (1567–1615)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sanada_Yukimura.jpg/250px-Sanada_Yukimura.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sanada_Yukimura"
+        },
+        {
+            "name": "Toyotomi Hideyoshi",
+            "summary": "Military ruler of Japan from 1585 to 1598",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png/250px-Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi"
+        },
+        {
+            "name": "Katagiri Katsumoto",
+            "summary": "Japanese warlord (daimyō)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Katagiri_Katumoto.jpg/250px-Katagiri_Katumoto.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Katagiri_Katsumoto"
+        }
+    ],
+    "territory_geojson": null
+}

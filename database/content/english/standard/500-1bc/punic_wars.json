@@ -1,0 +1,100 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1052,
+    "parent_id": 72,
+    "granularity": "major",
+    "content_hash": "sha256:be81d92758e4f56fd4e01940e0be5344661fde2b6e3374c4c7342b6043755fcd",
+    "summary": "The Punic Wars (264–146 BC) were three conflicts between Rome and Carthage — the dominant power of the western Mediterranean — that collectively determined whether the western world would be shaped by a Latin-speaking Roman civilization or by a Semitic Carthaginian one. Their outcome is among history's most consequential, as Rome's victories destroyed Carthage, gave Rome mastery of the western Mediterranean, and set it on the path to becoming the greatest empire the West has seen.\n\nCarthage was a Phoenician colony in what is now Tunisia, founded around 814 BC, which had built a commercial empire spanning North Africa, Spain, Sardinia, and western Sicily. Its wealth was legendary; it hired mercenary armies rather than fielding citizen soldiers, an approach that proved both effective and, ultimately, unreliable. Rome was a republic that had recently unified Italy through a combination of military force and pragmatic alliances, fielding citizen armies of remarkable discipline and resilience.\n\nThe [[event:1053|First Punic War]] (264–241 BC) began as a local dispute in Sicily and forced Rome to build a navy from scratch to challenge Carthage's sea power. Despite enormous losses to storms and battle, Rome prevailed and took Sicily as its first overseas province. The [[event:1054|Second Punic War]] (218–201 BC) was the most dramatic, featuring [[event:1055|Hannibal's Crossing of the Alps]] into Italy, the catastrophic Roman defeat at [[event:1056|Battle of Cannae]], and eventually the Roman counter-attack in Africa that ended with Hannibal's defeat at [[event:1057|Battle of Zama]]. The [[event:1058|Third Punic War]] (149–146 BC) was a brutal siege that ended with the utter [[event:1059|Destruction of Carthage]] — the city leveled and its population enslaved or killed.\n\nThe Punic Wars transformed Rome in multiple ways. The creation of overseas provinces established Rome's imperial system. The wars' financial burden accelerated the social dislocations that would eventually produce the crisis of the Republic. Massive influxes of slaves from conquered territories displaced free Italian farmers, contributing to the conditions that provoked the [[event:1068|Gracchi Brothers Reforms]]. The experience of fighting Hannibal produced a generation of Roman commanders — Scipio Africanus preeminent among them — and profoundly shaped Roman military doctrine.\n\nThe destruction of Carthage in 146 BC — the same year as the [[event:1064|Roman Conquest of Greece]] — marked Rome's simultaneous elimination of its two greatest rivals in east and west, leaving no power capable of challenging Roman dominance of the Mediterranean world. The Roman term for the Mediterranean, mare nostrum ('our sea'), would become literally true within another century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Punic_Wars",
+    "read_more_links": [
+        {
+            "title": "Hannibal",
+            "url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "title": "Scipio Africanus",
+            "url": "https://en.wikipedia.org/wiki/Scipio_Africanus"
+        },
+        {
+            "title": "Carthage",
+            "url": "https://en.wikipedia.org/wiki/Carthage"
+        },
+        {
+            "title": "Roman Republic",
+            "url": "https://en.wikipedia.org/wiki/Roman_Republic"
+        },
+        {
+            "title": "Battle of Cannae",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Cannae"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg/300px-Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bust_of_Sulla_%28loan_from_Ny_Carlsberg_Glyptotek%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+            "caption": "Glyptothek - Munich - Germany",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg/300px-Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg",
+            "caption": "Bronze statue of a Hellenistic prince, 1st half of 2nd century BC, found on t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hannibal_Slodtz_Louvre_MR2093.png/300px-Hannibal_Slodtz_Louvre_MR2093.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hannibal_Slodtz_Louvre_MR2093.png",
+            "caption": "Hannibal Barca counting the rings of the Roman knights killed at the Battle o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Carthage-1958-PortsPuniques.jpg/300px-Carthage-1958-PortsPuniques.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Carthage-1958-PortsPuniques.jpg",
+            "caption": "Carthage Ports Puniques",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hannibal",
+            "summary": "Carthaginian general and statesman (247–183/181 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/250px-Hannibal_Barca_bust_from_Capua_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "name": "Looting",
+            "summary": "Indiscriminate taking of goods by force",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pluenderung_der_Judengasse_1614.png/250px-Pluenderung_der_Judengasse_1614.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Looting"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Scipio Aemilianus",
+            "summary": "Roman politician and general (185–129 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg/250px-Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scipio_Aemilianus"
+        },
+        {
+            "name": "Adrian Goldsworthy",
+            "summary": "Welsh historian and author (born 1969)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Adrian_Goldsworthy-2.jpg/250px-Adrian_Goldsworthy-2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adrian_Goldsworthy"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        }
+    ],
+    "territory_geojson": null
+}

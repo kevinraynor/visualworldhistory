@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2641,
+    "parent_id": 110,
+    "granularity": "notable",
+    "content_hash": "sha256:3c50128c9c958efe44ef8c9de575a68d9528938cfdd613152d4555bd35bdaad6",
+    "summary": "The Battle of the Somme, fought along a twenty-five-mile front in northern France from 1 July to 18 November 1916, stands as one of the bloodiest engagements in military history and a defining trauma of [[event:110|World War I]]. The battle was intended to relieve pressure on French forces being bled white at [[event:2642|Verdun]] and to achieve a decisive breakthrough in the German lines. On the first day alone — 1 July 1916 — the British Army suffered nearly 57,500 casualties, including almost 20,000 killed, making it the costliest single day in British military history.\n\nThe offensive was preceded by a week-long artillery bombardment of unprecedented scale, intended to destroy German defenses and cut the barbed wire. In practice, German soldiers sheltered in deep dugouts and emerged to man their machine guns when the barrage lifted. British infantry, advancing at walking pace across open ground under orders, were mown down in their thousands. The failure of the preliminary bombardment to fulfill its purpose exposed the limits of early industrial-era artillery coordination and the murderous advantage enjoyed by defenders armed with machine guns and quick-firing artillery.\n\nOver the four-and-a-half-month campaign, both sides suffered catastrophic losses — approximately 420,000 British, 200,000 French, and 465,000 German casualties. The territorial gains were measured in miles rather than the strategic breakthroughs that had been promised. The Somme offensive did, however, contribute to the broader Allied strategy by keeping German forces stretched and preventing reinforcement of other fronts. The battle also marked the first use of tanks in warfare, though their deployment in September 1916 was too limited and mechanical reliability too poor for decisive effect.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Somme",
+    "read_more_links": [
+        {
+            "title": "Battle of the Somme – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-the-Somme"
+        },
+        {
+            "title": "Western Front (World War I) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Western_Front_(World_War_I)"
+        },
+        {
+            "title": "First day on the Somme – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/First_day_on_the_Somme"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Battle_of_the_Somme%2C_July-november_1916_Q4417.jpg/300px-The_Battle_of_the_Somme%2C_July-november_1916_Q4417.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Battle_of_the_Somme%2C_July-november_1916_Q4417.jpg",
+            "caption": "The Battle of the Somme, July-november 1916\nBattle of Bazentin Ridge, 14-17 J...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Battle_of_the_Somme%2C_July-november_1916_Q4218.jpg/300px-The_Battle_of_the_Somme%2C_July-november_1916_Q4218.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Battle_of_the_Somme%2C_July-november_1916_Q4218.jpg",
+            "caption": "The Battle of the Somme, July-november 1916\nDead German soldiers in a capture...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Schwaben_Redoubt_aerial_photograph_10-05-1916_IWM_HU_91107.jpg/300px-Schwaben_Redoubt_aerial_photograph_10-05-1916_IWM_HU_91107.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Schwaben_Redoubt_aerial_photograph_10-05-1916_IWM_HU_91107.jpg",
+            "caption": "Aerial photograph, with North at top, showing German trenches north of Thiepv...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/British_Mark_I_male_tank_Somme_25_September_1916.jpg/300px-British_Mark_I_male_tank_Somme_25_September_1916.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/British_Mark_I_male_tank_Somme_25_September_1916.jpg",
+            "caption": "An early model British Mark I \"male\" tank, named C-15, near Thiepval, 25 Sept...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Douglas Haig, 1st Earl Haig",
+            "summary": "British field marshal (1861–1928)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sir_Douglas_Haig.jpg/250px-Sir_Douglas_Haig.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Douglas_Haig%2C_1st_Earl_Haig"
+        },
+        {
+            "name": "Edmund Allenby, 1st Viscount Allenby",
+            "summary": "British Field Marshal (1861–1936)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Edmund_Allenby.jpg/250px-Edmund_Allenby.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edmund_Allenby%2C_1st_Viscount_Allenby"
+        },
+        {
+            "name": "Henry Rawlinson, 1st Baron Rawlinson",
+            "summary": "British Army general (1864–1925)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Henry_Rawlinson%2C_1st_Baron_Rawlinson_in_1916.jpg/250px-Henry_Rawlinson%2C_1st_Baron_Rawlinson_in_1916.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Rawlinson%2C_1st_Baron_Rawlinson"
+        },
+        {
+            "name": "Hubert Gough",
+            "summary": "British Army general (1870–1963)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/The_Battle_of_the_Somme%2C_July-November_1916_%28IWM_Q_35825D%29_%28cropped%29.jpg/250px-The_Battle_of_the_Somme%2C_July-November_1916_%28IWM_Q_35825D%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hubert_Gough"
+        },
+        {
+            "name": "Joseph Joffre",
+            "summary": "French general (1852–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Portrait_de_Joseph_Joffre_%28cropped%29%28b%29.jpg/250px-Portrait_de_Joseph_Joffre_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Joffre"
+        },
+        {
+            "name": "Ferdinand Foch",
+            "summary": "French general and military theorist (1851–1929)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg/250px-Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Foch"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1854,
+    "parent_id": 56,
+    "granularity": "notable",
+    "content_hash": "sha256:67bab0223fc520cc1e410850d9a2e0a13d642fec0e15f7b6ffa8778419fb5ce8",
+    "summary": "The Olmec colossal heads are a series of at least seventeen massive stone portrait sculptures created by the [[event:56|Olmec civilization]] of Mesoamerica, beginning as early as around 1400–1200 BC. Each head represents a distinct individual, interpreted by scholars as portraits of Olmec rulers, and each wears a distinctive helmet or headdress, possibly denoting a ballgame context or royal regalia. The heads range in height from 1.5 to 3.4 meters and weigh between six and forty tons. They were carved from large basalt boulders, the nearest source of which lay at the Cerro Cintepec volcano about 80 kilometers from the primary Olmec centers.\n\nThe transportation of these enormous stones from the quarry site to [[event:1853|San Lorenzo]] and later to La Venta required the organization of large labor forces, the construction of rafts and overland sledges, and a level of social coordination that marks the Olmec as the earliest complex civilization in Mesoamerica. The technical skill of the carvers is remarkable: the heads are rendered with individualized facial features, naturalistic expression, and a confident three-dimensional command of the medium that has no known precedent in the region.\n\nThe colossal heads are the most iconic artistic achievement of the Olmec civilization and are widely regarded as among the masterpieces of pre-Columbian art. Their iconographic significance continues to be debated, with interpretations ranging from royal portraiture to representations of defeated enemies or deified ancestors. Several heads at San Lorenzo were deliberately mutilated and buried around 900 BC, possibly indicating a ritual termination of their power when a new ruler took control or the site was abandoned.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Olmec_colossal_heads",
+    "read_more_links": [
+        {
+            "title": "Olmec Art - Britannica",
+            "url": "https://www.britannica.com/art/Olmec-art"
+        },
+        {
+            "title": "Olmec Civilization",
+            "url": "https://en.wikipedia.org/wiki/Olmecs"
+        },
+        {
+            "title": "San Lorenzo Tenochtitlán",
+            "url": "https://en.wikipedia.org/wiki/San_Lorenzo_Tenochtitl%C3%A1n"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Olmec_mask_802.jpg/300px-Olmec_mask_802.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Olmec_mask_802.jpg",
+            "caption": "Olmec-style mask from Tabasco (Mexico). Musées Royaux d'Art et d'Histoire, Br...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cabeza_olmeca%2C_Santiago_Tuxtla.jpg/300px-Cabeza_olmeca%2C_Santiago_Tuxtla.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Cabeza_olmeca%2C_Santiago_Tuxtla.jpg",
+            "caption": "Cabeza monumental olmeca, exhibida en la plaza principal de Santiago Tuxtla",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cabeza_olmeca%2C_museo_de_San_Andr%C3%A9s_Tuxtla.JPG/300px-Cabeza_olmeca%2C_museo_de_San_Andr%C3%A9s_Tuxtla.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Cabeza_olmeca%2C_museo_de_San_Andr%C3%A9s_Tuxtla.JPG",
+            "caption": "Permanent exhibition of Olmec artefacts in the regional museum of Santiago Tu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Olmec_Head_8.jpg/300px-Olmec_Head_8.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Olmec_Head_8.jpg",
+            "caption": "Reproduction of Olmec Head #8 (from San Lorenzo Tenochtitlán), outside the Fi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Miguel Alemán Velasco",
+            "summary": "Mexican politician, businessman and philanthropist (born 1932)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Miguel_Aleman_Velasco.jpg/250px-Miguel_Aleman_Velasco.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Miguel_Alem%C3%A1n_Velasco"
+        }
+    ],
+    "territory_geojson": null
+}

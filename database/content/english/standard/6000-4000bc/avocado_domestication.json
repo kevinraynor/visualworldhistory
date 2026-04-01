@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1601,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9fbd0a22e177c600baa6019c4d4941dcc67b53e6409b625658f4ce5bae30dab9",
+    "summary": "The domestication of the avocado (Persea americana) in Mesoamerica represents one of the earliest known cases of plant domestication in the Americas, with evidence suggesting the process began in Mexico and Central America between approximately 5000 and 3000 BCE. Wild avocado trees were consumed by hunter-gatherer populations for tens of thousands of years before deliberate cultivation began. The transition from wild harvesting to active cultivation involved human selection of trees producing larger fruits with reduced seed size and enhanced palatability — the process that distinguishes domestication from simple gathering.\n\nThe avocado was a significant food source for early Mesoamerican communities, providing a dense source of calories, healthy fats, and fat-soluble vitamins. Avocado pits and skins have been recovered from archaeological sites in the Tehuacan Valley of Mexico in layers dating to approximately 5000 BCE, providing direct evidence of their use during the Middle Archaic period. Whether these early finds represent wild harvesting or beginning cultivation is debated, but by around 2000 BCE, clear evidence of cultivated varieties with the characteristics of domesticated plants is present.\n\nThe avocado was subsequently widely cultivated throughout Mesoamerica and was an important component of the diet of later civilizations including the Olmec, Maya, and Aztec. Its spread to Europe and the wider world following the Columbian Exchange made it a globally significant crop, and it remains one of the most economically important fruits of tropical and subtropical horticulture today.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avocado#History",
+    "read_more_links": [
+        {
+            "title": "Mesoamerican plant domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture_in_Mesoamerica"
+        },
+        {
+            "title": "Origins of agriculture Americas - Britannica",
+            "url": "https://www.britannica.com/topic/agriculture/The-Americas"
+        },
+        {
+            "title": "Tehuacan Valley archaeology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tehuacan_Valley"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/300px-Avocado_Hass_-_single_and_halved.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Avocado_Hass_-_single_and_halved.jpg",
+            "caption": "The Hass avocado – single and halved. Grown in Colombia",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Guacomole.jpg/300px-Guacomole.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Guacomole.jpg",
+            "caption": "Guacamole with corn chips. The stone is said to prevent the rest of the prepa...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flower_of_Avocado_2.jpg/300px-Flower_of_Avocado_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flower_of_Avocado_2.jpg",
+            "caption": "Flower of Avocado",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Avocado_lamaw_%28Avocado_in_milk_and_sugar%2C_chilled_or_with_ice%29%2C_Philippines_04.jpg/300px-Avocado_lamaw_%28Avocado_in_milk_and_sugar%2C_chilled_or_with_ice%29%2C_Philippines_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Avocado_lamaw_%28Avocado_in_milk_and_sugar%2C_chilled_or_with_ice%29%2C_Philippines_04.jpg",
+            "caption": "Avocado lamaw (Avocado in milk and sugar, chilled or with ice), Philippines",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gonzalo Fernández de Oviedo y Valdés",
+            "summary": "Spanish historian (1478–1557)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gonzalo_Fern%C3%A1ndez_de_Oviedo.jpg/250px-Gonzalo_Fern%C3%A1ndez_de_Oviedo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gonzalo_Fern%C3%A1ndez_de_Oviedo_y_Vald%C3%A9s"
+        },
+        {
+            "name": "Julius Platzmann",
+            "summary": "German botanist, artist, and Americanist bibliophile (1832–1902)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Julius_Platzmann.jpg/250px-Julius_Platzmann.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Platzmann"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1353,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c358e0c8589b05a654d56b013dfc667a72d5e3e8f556975947ff48404b68f12d",
+    "summary": "The development of stone architecture in the Levant during the Pre-Pottery Neolithic period — the use of worked stone for foundations, walls, towers, and enclosures — represents a major technological and social threshold in human prehistory. The most famous example is the tower and wall at [[event:2|Jericho]], built during the PPNA period around 9000–8500 BCE, but stone architectural elements appear at numerous contemporary and near-contemporary sites across the region.\n\nEarly stone construction in the Levant used roughly worked local limestone and basalt for wall foundations, with organic superstructures of mud, wood, and brush. By the PPNB period, more sophisticated stone construction techniques were employed, including the roughly coursed fieldstone walls at sites such as [[event:7|Ain Ghazal]] and the massive multi-course stone towers of [[event:1264|Tell Qaramel]]. Stone architecture in the Levant preceded the development of pottery and reflects the organizational capacity and labor investment of early sedentary communities. The permanence and durability of stone construction, compared to the perishable organic materials that preceded it, created a visible and enduring material record of early settlement and community investment in place — a hallmark of the transition from mobile to settled life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic",
+    "read_more_links": [
+        {
+            "title": "Tower of Jericho - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tower_of_Jericho"
+        },
+        {
+            "title": "Neolithic Architecture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic"
+        },
+        {
+            "title": "Ancient Construction - Britannica",
+            "url": "https://www.britannica.com/technology/construction"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Two-headed_statue_from_Ain_Ghazal%2C_Jordan_Museum%2C_Amman.jpg/300px-Two-headed_statue_from_Ain_Ghazal%2C_Jordan_Museum%2C_Amman.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Two-headed_statue_from_Ain_Ghazal%2C_Jordan_Museum%2C_Amman.jpg",
+            "caption": "Two-headed statue. From Ain Ghazal city, in the outskirt of Amman, Jordan. Pr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20100923_amman37.JPG/300px-20100923_amman37.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/20100923_amman37.JPG",
+            "caption": "The statues of Ain Ghazal, at the Archaeological Museum of Jordan (Amman Cita...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Early_Neolithic_sites_in_the_Near_East_and_South_Asia_10%2C000-3%2C800_BCE.jpg/300px-Early_Neolithic_sites_in_the_Near_East_and_South_Asia_10%2C000-3%2C800_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Early_Neolithic_sites_in_the_Near_East_and_South_Asia_10%2C000-3%2C800_BCE.jpg",
+            "caption": "Early Neolithic sites in the Near East and South Asia 10,000-3,800 BCE. Sites...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe.jpg/300px-Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Map_of_the_spread_of_Neolithic_farming_cultures_in_Europe.jpg",
+            "caption": "Map of the spread of Neolithic farming cultures in Europe, dates in year BCE",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

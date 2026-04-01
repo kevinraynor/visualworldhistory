@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1126,
+    "parent_id": 76,
+    "granularity": "detailed",
+    "content_hash": "sha256:303e142391c94455ea0ba5f9ff903b015ad7273c6931d8d7ccabbbde3dc34dcd",
+    "summary": "The Lingqu Canal (214 BC) was a remarkable feat of hydraulic engineering built under [[event:3141|Qin Shi Huang]] to connect the Xiang River (flowing north to the Yangtze) with the Li River (flowing south to the Pearl River) — creating an artificial waterway that linked China's major river systems and enabled the military conquest and economic integration of the south.\n\nBuilt under the supervision of engineer Shi Lu, the canal required solving the challenge of connecting two rivers that flowed in opposite directions. The solution involved a Y-shaped diversion dam (the Ling Zhu) that split the Xiang River's flow, directing water both into the natural river and into the new canal cut across the watershed to meet the Li River. The project enabled Qin to supply its armies during the conquest of the Yue peoples of what is now Guangdong province. Beyond military use, the canal facilitated trade and migration between the Yangtze basin and southern China for over two millennia. The Lingqu Canal is still in use today, making it one of the oldest working canals in the world, and is a UNESCO World Heritage Site.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lingqu",
+    "read_more_links": [
+        {
+            "title": "Ancient Chinese hydraulic engineering",
+            "url": "https://en.wikipedia.org/wiki/Water_technology_in_China"
+        },
+        {
+            "title": "Qin conquest of Baiyue",
+            "url": "https://en.wikipedia.org/wiki/Qin%27s_wars_of_unification#Baiyue"
+        },
+        {
+            "title": "UNESCO Lingqu",
+            "url": "https://en.wikipedia.org/wiki/Lingqu#UNESCO"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lingqu_Canal.jpg/300px-Lingqu_Canal.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lingqu_Canal.jpg",
+            "caption": "Lingqu Canal",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lingqu_Canal_map.jpg/300px-Lingqu_Canal_map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lingqu_Canal_map.jpg",
+            "caption": "The flow of Lingqu Canal, connecting rivers Xiang and Gui, built 3rd century ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Territories_of_Dynasties_in_China.gif/300px-Territories_of_Dynasties_in_China.gif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Territories_of_Dynasties_in_China.gif",
+            "caption": "The approximate territories of dynasties in China. Drawn by Ian Kiu. Derived ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Qin Shi Huang",
+            "summary": "Emperor of China from 221 to 210 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png/250px-Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
+        }
+    ],
+    "territory_geojson": null
+}

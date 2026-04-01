@@ -1,0 +1,82 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1095,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:d0e5c32cbe05c73fcf4504fd4354f0302af4b40e17b28ae1f83ed030a6599d9c",
+    "summary": "Marcus Tullius Cicero (106–43 BC) was ancient Rome's greatest orator and one of its most prolific writers, whose speeches, letters, philosophical essays, and rhetorical treatises constitute the largest surviving body of work from any ancient Latin author and whose prose style became the standard for Latin for centuries. His career spanned the most turbulent decades of the late Republic, from the [[event:1073|First Triumvirate]] to his own murder during the [[event:1080|Second Triumvirate]].\n\nCicero rose from a non-noble Italian family (a novus homo, 'new man') to the consulship in 63 BC through brilliance at the Roman bar. His consulship was dominated by the Catilinarian conspiracy — an attempted coup that he suppressed by having the conspirators executed without trial, a legally questionable act that haunted him for the rest of his career. He was a prolific writer of philosophical works adapting Greek philosophy for Roman audiences (De Re Publica, De Legibus, De Officiis), technical rhetorical treatises (De Oratore), and thousands of personal letters preserved by his friend Atticus that provide the most vivid inside account of late Republican politics we possess.\n\nCicero's collected letters are a unique historical resource: candid, immediate, and often at odds with the public positions of their author. His orations against Mark Antony (the Philippics) after Caesar's assassination were brilliant political attacks that made him Antony's personal enemy. When the [[event:1080|Second Triumvirate]] agreed on proscriptions, Antony insisted on Cicero's death. Cicero was caught and killed while fleeing; his head and hands were nailed to the Rostra, where he had so often spoken.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero",
+    "read_more_links": [
+        {
+            "title": "Catilinarian Conspiracy",
+            "url": "https://en.wikipedia.org/wiki/Catilinarian_conspiracy"
+        },
+        {
+            "title": "Roman Rhetoric",
+            "url": "https://en.wikipedia.org/wiki/Roman_rhetoric"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marci_Tullii_Ciceronis_Opera_Omnia.tif/300px-Marci_Tullii_Ciceronis_Opera_Omnia.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Marci_Tullii_Ciceronis_Opera_Omnia.tif",
+            "caption": "Marci Tullii Ciceronis Opera Omnia",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/300px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "caption": "Palazzo Nuovo - Capitoline Museums - Rome",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Porta_Saturno%2C_Quartiere_Colle%2CArpino_.jpg/300px-Porta_Saturno%2C_Quartiere_Colle%2CArpino_.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Porta_Saturno%2C_Quartiere_Colle%2CArpino_.jpg",
+            "caption": "Porta Saturno, Quartiere Colle, Arpino, Lazio",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png/300px-Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png",
+            "caption": "A fresco by Cesare Maccari (1840-1919) depicting Roman senator Cicero (106-43...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "name": "Proconsul",
+            "summary": "Governor of a province in the Roman republic",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_2.jpg/250px-Bust_of_Sulla_%28Ny_Carlsberg_Glyptotek%2C_Copenhagen%29_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Proconsul"
+        },
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Lepidus",
+            "summary": "Roman politician and general (89–13/12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg/250px-Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lepidus"
+        },
+        {
+            "name": "Petrarch",
+            "summary": "Italian scholar and poet (1304–1374)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg/250px-Altichiero%2C_ritratto_di_Francesco_Petrarca.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Petrarch"
+        }
+    ],
+    "territory_geojson": null
+}

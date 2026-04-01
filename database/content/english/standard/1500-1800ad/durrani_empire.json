@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2451,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2135ebac5f0118b6b05432c74d87ce96ca326bb855522b2d6d5f854921609ad4",
+    "summary": "The Durrani Empire (1747–1823 AD), founded by Ahmad Shah Durrani (Ahmad Shah Abdali), was the largest Afghan empire in history and the immediate predecessor of modern Afghanistan, created when Ahmad Shah was chosen as the first king of a unified Afghanistan in 1747 after the assassination of [[event:2447|Nader Shah]] left a power vacuum across Central Asia. Ahmad Shah, an ethnic Pashtun who had served as a commander in Nader Shah's army, was selected by a traditional Pashtun tribal assembly (jirga) to lead the newly unified Durrani (Abdali) Pashtun confederacy. Within two decades, he had created an empire stretching from eastern Persia to the Punjab, incorporating Kashmir, Sindh, and parts of the Mughal heartland.\n\nAhmad Shah's most historically significant campaigns were his nine invasions of India. His victory at the [[event:2448|Third Battle of Panipat]] (1761) against the Maratha Confederacy halted Maratha expansion into the Punjab and northern India — though Ahmad Shah proved more interested in raiding for treasure than in building a permanent Indian empire. His campaigns demonstrated both Afghan military power (the Pashtun cavalry and Afghan infantry were formidable) and the structural limits of tribal confederacies: the Durrani Empire lacked the administrative infrastructure to hold its vast territories without the personal military presence of a capable ruler. After Ahmad Shah's death in 1772, the empire fragmented through succession disputes. The Durrani state's legacy was the crystallization of an Afghan national identity around the Durrani Pashtun tribal confederacy, and the establishment of Kandahar and later Kabul as political centers of a recognizably Afghan state — the foundation of the modern nation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Durrani_Empire",
+    "read_more_links": [
+        {
+            "title": "Ahmad Shah Durrani Afghan founder Pashtun king",
+            "url": "https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani"
+        },
+        {
+            "title": "Durrani Empire extent India Punjab Kashmir",
+            "url": "https://en.wikipedia.org/wiki/Durrani_Empire#Territory"
+        },
+        {
+            "title": "Afghan tribal jirga confederacy political system",
+            "url": "https://en.wikipedia.org/wiki/Jirga"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Periodo_mogul%2C_ritratto_di_ahmad_shah_abdali%2C_delhi%2C_1750_ca._02.jpg/300px-Periodo_mogul%2C_ritratto_di_ahmad_shah_abdali%2C_delhi%2C_1750_ca._02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Periodo_mogul%2C_ritratto_di_ahmad_shah_abdali%2C_delhi%2C_1750_ca._02.jpg",
+            "caption": "Periodo mogul, ritratto di ahmad shah abdali, delhi, 1750 ca. 02",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/City_of_Kandahar%2C_with_main_bazaar_and_citadel%2C_Afghanistan._Wellcome_V0050533.jpg/300px-City_of_Kandahar%2C_with_main_bazaar_and_citadel%2C_Afghanistan._Wellcome_V0050533.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/City_of_Kandahar%2C_with_main_bazaar_and_citadel%2C_Afghanistan._Wellcome_V0050533.jpg",
+            "caption": "City of Kandahar, with main bazaar and citadel, Afghanistan. Coloured lithogr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Shahzada_Kamran_Durrani.jpeg/300px-Shahzada_Kamran_Durrani.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Shahzada_Kamran_Durrani.jpeg",
+            "caption": "Shahzada Kamran Durrani, prince of the Sadozai dynasty and de facto ruler of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg/300px-Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Shuja_Shah_Durrani_and_Men_in_his_decorated_palace_Wellcome_V0050531.jpg",
+            "caption": "Men in the decorated palace of Shah Shujah Ool Moolk, Afghanistan. Coloured l...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ahmad Shah Durrani",
+            "summary": "Founder of the Durrani Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France_%28cropped%29.jpg/250px-Portrait_of_Ahmad-Shah_Durrani._Mughal_miniature._ca._1757%2C_Biblioth%C3%A8que_nationale_de_France_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani"
+        },
+        {
+            "name": "Nader Shah",
+            "summary": "Shah of Iran from 1736 to 1747",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Contemporary_portrait_of_Nader_Shah._Artist_unknown%2C_created_in_ca._1740_in_Iran_%28cropped%29.jpg/250px-Contemporary_portrait_of_Nader_Shah._Artist_unknown%2C_created_in_ca._1740_in_Iran_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nader_Shah"
+        },
+        {
+            "name": "Alamgir II",
+            "summary": "Mughal emperor from 1754 to 1759",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Brooklyn_Museum_-_Emperor_Alamgir_II_-_Sukha_Luhar.jpg/250px-Brooklyn_Museum_-_Emperor_Alamgir_II_-_Sukha_Luhar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alamgir_II"
+        },
+        {
+            "name": "Timur Shah Durrani",
+            "summary": "Second Durrani Emperor (r. 1772–1793)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Timur_Shah_Durrani.jpg/250px-Timur_Shah_Durrani.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Timur_Shah_Durrani"
+        },
+        {
+            "name": "Mahmud Hotak",
+            "summary": "Hotak ruler of Iran from 1722 to 1725",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mahmud_Hotak_Coin.jpg/250px-Mahmud_Hotak_Coin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahmud_Hotak"
+        },
+        {
+            "name": "Ahmad Shah Bahadur",
+            "summary": "Mughal emperor from 1748 to 1754",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/AhmadShah.png/250px-AhmadShah.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ahmad_Shah_Bahadur"
+        }
+    ],
+    "territory_geojson": null
+}

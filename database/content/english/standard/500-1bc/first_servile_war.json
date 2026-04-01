@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1094,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:0fcf22da0899d3e9e672e414624560c234c349e31bda5cefe7439f2198640b1f",
+    "summary": "The First Servile War (135–132 BC) was a major slave rebellion in Sicily led by the Syrian slave Eunus, who claimed prophetic powers and proclaimed himself king, gathering an army of tens of thousands that defeated several Roman forces before being suppressed after three years of fighting. It was the first of three large-scale slave wars that troubled the late Roman Republic.\n\nSicily, Rome's first overseas province, had developed a plantation economy based on slave labor after the [[event:1052|Punic Wars]], with enormous estates (latifundia) employing hundreds of enslaved workers in harsh conditions. Eunus initially led an uprising at Enna, where masters were killed and a kingdom briefly established with coinage and a royal court. A second revolt under Cleon merged with Eunus's movement. The combined force reportedly reached 200,000 at its peak (ancient figures are unreliable). Roman legions eventually suppressed the revolt after several years; thousands of rebels were crucified. The rebellion produced no reforms — the slave system continued unchanged — but demonstrated the social instability building within Rome's slave economy and anticipated the far larger [[event:1072|Spartacus Revolt]] sixty years later.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Servile_War",
+    "read_more_links": [
+        {
+            "title": "Eunus",
+            "url": "https://en.wikipedia.org/wiki/Eunus"
+        },
+        {
+            "title": "Roman Slavery",
+            "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Rome"
+        },
+        {
+            "title": "Roman Sicily",
+            "url": "https://en.wikipedia.org/wiki/Roman_Sicily"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/First_Servile_War_%28135-132_BC%29.png/300px-First_Servile_War_%28135-132_BC%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/First_Servile_War_%28135-132_BC%29.png",
+            "caption": "Map of the First Servile War (135-132 BC). Source is T. Corey Brennan, \"The c...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Eunus",
+            "summary": "Syrian wonderworker and king who led a slave revolt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Euno_Enna_1.jpg/250px-Euno_Enna_1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eunus"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Orosius",
+            "summary": "Roman historian and theologian (c. 375/385 – c. 420 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Paulo_Orosio_-_Detalle.jpg/250px-Paulo_Orosio_-_Detalle.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Orosius"
+        }
+    ],
+    "territory_geojson": null
+}

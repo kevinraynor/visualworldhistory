@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2479,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b71f9b7e79cadbd9e74853a7c07fcb190328b85db7b58995a08af24ff1f2dff2",
+    "summary": "The Convening of the Estates-General (May 5, 1789 AD) was the immediate trigger of the [[event:107|French Revolution]] — France's first meeting of its representative assembly in 175 years, called by Louis XVI as the only mechanism capable of authorizing new taxes to address the monarchy's near-bankruptcy. The Estates-General traditionally comprised three orders: the First Estate (clergy), Second Estate (nobility), and Third Estate (commoners, representing roughly 97% of the population). The Third Estate delegates, many of them educated lawyers and professionals influenced by Enlightenment ideas, arrived expecting genuine consultation on France's fiscal crisis and constitutional future — and almost immediately collided with procedural questions (would the three estates vote separately, allowing the privileged orders to dominate, or together by head, giving the Third Estate a majority?) that crystallized into fundamental questions about sovereignty and representation.\n\nWhen the king and privileged orders refused to accept the Third Estate's demands, the Third Estate delegates transformed themselves into the National Assembly on June 17, 1789, declaring themselves the legitimate representative body of the French nation — a revolutionary act of breathtaking audacity. When locked out of their meeting hall, they adjourned to a nearby tennis court and took the famous Tennis Court Oath (June 20), vowing to remain assembled until they had given France a constitution. Within weeks, the [[event:2353|storming of the Bastille]] (July 14) transformed constitutional conflict into open revolution. The Estates-General's convening thus serves as the conventional starting point of the Revolution — the moment when accumulated social tensions, fiscal crisis, and Enlightenment ideology converged into political transformation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Estates_General_of_1789",
+    "read_more_links": [
+        {
+            "title": "Tennis Court Oath June 1789 National Assembly formed",
+            "url": "https://en.wikipedia.org/wiki/Tennis_Court_Oath"
+        },
+        {
+            "title": "Third Estate grievances cahiers de doleances Enlightenment",
+            "url": "https://en.wikipedia.org/wiki/Estates_General_of_1789#Background"
+        },
+        {
+            "title": "Louis XVI bankruptcy Necker financial crisis revolution",
+            "url": "https://en.wikipedia.org/wiki/Jacques_Necker"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg/300px-Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg",
+            "caption": "La Déclaration des droits de l'homme et du citoyen de 1789, une des premières...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Estatesgeneral.jpg/300px-Estatesgeneral.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Estatesgeneral.jpg",
+            "caption": "The opening of the Estates General May 5, 1789 in the Salle des Menus Plaisir...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Couder_Stati_generali.jpg/300px-Couder_Stati_generali.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Couder_Stati_generali.jpg",
+            "caption": "Inaugurazione degli Stati Generali, 5 maggio 1789, olio su tela, 400 x 715 cm...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1789_Estates_General_map.png/300px-1789_Estates_General_map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1789_Estates_General_map.png",
+            "caption": "A map showing the different types of subdivision that were represented at the...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles Monnet",
+            "summary": "French painter and illustrator",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Charles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg/250px-Charles_Monnet_-_The_Journ%C3%A9e_of_13_Vend%C3%A9miaire.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Monnet"
+        },
+        {
+            "name": "National Assembly (French Revolution)",
+            "summary": "Revolutionary assembly in France from June to July 1789",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Etats_G%C3%A9n%C3%A9raux_-_grav%C3%A9s_par_Lamotte.jpg/250px-Etats_G%C3%A9n%C3%A9raux_-_grav%C3%A9s_par_Lamotte.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/National_Assembly_%28French_Revolution%29"
+        },
+        {
+            "name": "Louis XVI",
+            "summary": "King of France from 1774 to 1792",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg/250px-Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_XVI"
+        },
+        {
+            "name": "Jacques Necker",
+            "summary": "French statesman (1732–1804)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Necker%2C_Jacques_-_Duplessis.jpg/250px-Necker%2C_Jacques_-_Duplessis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Necker"
+        },
+        {
+            "name": "Charles Alexandre de Calonne",
+            "summary": "French statesman (1734–1802)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Vig%C3%A9e-Lebrun%2C_Elisabeth-Louise_-_Charles-Alexandre_de_Calonne_%281734-1802%29_-_Google_Art_Project.jpg/250px-Vig%C3%A9e-Lebrun%2C_Elisabeth-Louise_-_Charles-Alexandre_de_Calonne_%281734-1802%29_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Alexandre_de_Calonne"
+        },
+        {
+            "name": "Honoré Gabriel Riqueti, comte de Mirabeau",
+            "summary": "French writer, orator and statesman (1749–1791)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Boze_-_Honor%C3%A9_de_Mirabeau.jpg/250px-Boze_-_Honor%C3%A9_de_Mirabeau.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti%2C_comte_de_Mirabeau"
+        }
+    ],
+    "territory_geojson": null
+}

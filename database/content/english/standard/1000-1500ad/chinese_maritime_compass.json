@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2244,
+    "parent_id": 2156,
+    "granularity": "detailed",
+    "content_hash": "sha256:9a3699c69578e8eb55a7db840024888e377215d52b83744cd33f5fcec0dcb88e",
+    "summary": "The application of the magnetic compass to maritime navigation in Song Dynasty China (c. 11th–12th centuries AD) was one of the most consequential technological developments in the history of seafaring, enabling reliable directional orientation regardless of cloud cover, fog, or darkness, and fundamentally expanding the range and reliability of oceanic navigation. While the Chinese had used magnetized needles for geomancy (feng shui) for centuries, the documented use of the compass by Chinese sailors appears in texts from the late 11th century, with systematic maritime application developing through the Song period.\n\nSong Dynasty merchant vessels operating in the South China Sea and Indian Ocean trade routes were using compass navigation by the 12th century, gaining significant competitive advantage by being able to sail more direct courses and continue sailing in overcast conditions when stars were unavailable. The compass technology spread to the Arab maritime world in the 12th century and reached Europe by approximately 1190, where it was described almost simultaneously by English, French, and Italian writers — suggesting rapid transmission through Mediterranean trading networks, likely through Arab intermediaries. European adoption of the compass, combined with improvements in ship design (the stern rudder, lateen sails) and astronomical navigation methods, created the navigational toolkit that enabled the [[event:97|Portuguese and Spanish exploration]] of the 15th century. Without reliable compass navigation, the long oceanic voyages of Dias, da Gama, and Columbus would have been far more dangerous and uncertain, making Chinese maritime compass innovation one of the indirect causes of European global expansion.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Compass#Maritime_use",
+    "read_more_links": [
+        {
+            "title": "Song Dynasty maritime trade compass navigation",
+            "url": "https://en.wikipedia.org/wiki/Song_dynasty#Maritime_trade"
+        },
+        {
+            "title": "Compass spread Arab Mediterranean Europe",
+            "url": "https://en.wikipedia.org/wiki/Compass#Transmission_to_Europe"
+        },
+        {
+            "title": "Medieval navigation techniques ship design",
+            "url": "https://en.wikipedia.org/wiki/History_of_navigation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%D7%9E%D7%A6%D7%A4%D7%9F.jpg/300px-%D7%9E%D7%A6%D7%A4%D7%9F.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%D7%9E%D7%A6%D7%A4%D7%9F.jpg",
+            "caption": "Close up of a geological compass",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/CompassWick.jpg/300px-CompassWick.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/CompassWick.jpg",
+            "caption": "A Greek maritime liquid compass with an additional wick compartment for illum...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brunton.JPG/300px-Brunton.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brunton.JPG",
+            "caption": "A Brunton Pocket Transit, a specialized compass used by geologists and other ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/300px-2016_Busola.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG",
+            "caption": "Compass with sighting",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thales of Miletus",
+            "summary": "Ancient Greek philosopher (c. 624 – c. 545 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/250px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thales_of_Miletus"
+        },
+        {
+            "name": "Geomancy",
+            "summary": "Method of divination that interprets markings on the ground",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ghoreh_001.JPG/250px-Ghoreh_001.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Geomancy"
+        },
+        {
+            "name": "Shen Kuo",
+            "summary": "Chinese scientist and statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg/250px-Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shen_Kuo"
+        }
+    ],
+    "territory_geojson": null
+}

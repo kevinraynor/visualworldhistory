@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 48,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d622006a3dbc84ebeeef3d6488ca0adb6780005d558821cc599ca2c416cb6ccb",
+    "summary": "The Longshan culture, flourishing across much of northern and central China from approximately 3000 to 1900 BCE, represents a pivotal late Neolithic phase in Chinese prehistory, characterized by increasing social complexity, fine ceramic production, and the first clear evidence of fortified settlements and proto-urban centers. It developed largely from the earlier [[event:36|Yangshao culture]] of the Yellow River basin and is considered a direct precursor to the emergence of Bronze Age civilization in China.\n\nLongshan potters achieved a technical virtuosity unmatched by any contemporaneous culture in East Asia. Their characteristic black burnished eggshell ware — vessels with walls sometimes less than a millimeter thick, turned on a fast wheel and fired in reducing conditions to produce a lustrous black finish — represents the finest ceramic tradition of Neolithic China and remained influential in Chinese aesthetics for centuries. Beyond aesthetics, the widespread distribution of standardized vessel forms across a large geographic area suggests significant interregional interaction and possibly trade networks linking Longshan communities across the North China Plain.\n\nSocial stratification during the Longshan period is evidenced by dramatic variation in burial goods: elite graves contain jade objects, lacquerware, and large quantities of pottery, while commoner burials are comparatively sparse. Scapulimancy — the practice of applying heat to animal bones and interpreting the resulting cracks as oracular messages — appears for the first time in Longshan contexts, a practice that would reach its fullest expression in the oracle bone inscriptions of the later Shang dynasty. Walled enclosures and rammed-earth fortifications at sites such as Taosi and Liangchengzhen suggest increasing inter-community competition and warfare, a pattern consistent with the consolidation of political authority that would eventually give rise to the first Chinese states.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Longshan_culture",
+    "read_more_links": [
+        {
+            "title": "Neolithic China - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_China"
+        },
+        {
+            "title": "Taosi - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Taosi"
+        },
+        {
+            "title": "Chinese Prehistory - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-China"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Harvesting_knife_%28hu_%E7%AC%8F%29_with_mask_and_felines%2C_fragment.jpg/300px-Harvesting_knife_%28hu_%E7%AC%8F%29_with_mask_and_felines%2C_fragment.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Harvesting_knife_%28hu_%E7%AC%8F%29_with_mask_and_felines%2C_fragment.jpg",
+            "caption": "Harvesting knife (hu 笏) with mask and felines, fragment. Jade (nephrite). 72 ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Longshan_Culture_Black_Egg-shell_Pottery_Stemmed_Cup_%2810126061733%29.jpg/300px-Longshan_Culture_Black_Egg-shell_Pottery_Stemmed_Cup_%2810126061733%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Longshan_Culture_Black_Egg-shell_Pottery_Stemmed_Cup_%2810126061733%29.jpg",
+            "caption": "Shandong Provincial Museum, Jinan, Neolithic Gallery. Complete indexed photo ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Longshan_Culture_Jade_Cong.jpg/300px-Longshan_Culture_Jade_Cong.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Longshan_Culture_Jade_Cong.jpg",
+            "caption": "National Museum: Jade Gallery. Complete indexed photo collection at WorldHist...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Longshan_Culture_Pottery_%2810126110253%29.jpg/300px-Longshan_Culture_Pottery_%2810126110253%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Longshan_Culture_Pottery_%2810126110253%29.jpg",
+            "caption": "Shandong Provincial Museum, Jinan, Neolithic Gallery. Complete indexed photo ...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

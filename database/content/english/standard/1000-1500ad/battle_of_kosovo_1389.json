@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2317,
+    "parent_id": 94,
+    "granularity": "detailed",
+    "content_hash": "sha256:dbeda6d8f2c6954348c2c18cc4d0d5ad20ae06ec1030dd9cdae54f82ccc0fc99",
+    "summary": "The Battle of Kosovo (June 28, 1389 AD) was the pivotal engagement of the [[event:2316|Ottoman conquest of the Balkans]], fought on the Field of Blackbirds (Kosovo Polje) between the forces of the [[event:94|Ottoman Empire]] under Sultan Murad I and a coalition of Balkan Christian states led by Serbian Prince Lazar Hrebeljanović. The battle ended inconclusively in military terms — both Sultan Murad and Prince Lazar were killed — but its strategic consequences were decisive: the Serbian coalition lost irreplaceable noble leadership, leaving Serbia unable to resist further Ottoman expansion, and within two decades it had become an Ottoman vassal.\n\nThe Battle of Kosovo's historical importance far exceeds its immediate military significance, because it became the founding myth of Serbian national identity — a theme of heroic Christian sacrifice against Muslim conquest that was elaborated over centuries into an extraordinary body of epic poetry, oral tradition, and eventually 19th and 20th century nationalist ideology. The Kosovo Cycle of epic poems portrays the battle as a conscious choice of 'heavenly kingdom' over earthly survival — Prince Lazar choosing defeat and martyrdom over compromise — and the figures of the battle (the traitor Vuk Branković, the assassin Miloš Obilić who killed Murad, the Serbian nobles who fell) became central to Serbian cultural consciousness. June 28 (Vidovdan, St. Vitus Day) remained a sacred date in Serbian national mythology: it was the date of the assassination of Archduke Franz Ferdinand in 1914 that triggered World War I, and the date chosen for the signing of the 1989 Kosovo speech by Slobodan Milošević that inflamed Serbian nationalist sentiment before the Yugoslav wars.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Kosovo",
+    "read_more_links": [
+        {
+            "title": "Kosovo Cycle Serbian epic poetry myth",
+            "url": "https://en.wikipedia.org/wiki/Kosovo_cycle"
+        },
+        {
+            "title": "Vidovdan June 28 Serbian national date",
+            "url": "https://en.wikipedia.org/wiki/Vidovdan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Reliefkarte_Serbien.png/300px-Reliefkarte_Serbien.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Reliefkarte_Serbien.png",
+            "caption": "Reliefkarte Serbien\nTopographischer Hintergrund: NASA Shuttle Radar Topograph...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Monumenti_memorial_i_Gazimestanit.jpg/300px-Monumenti_memorial_i_Gazimestanit.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Monumenti_memorial_i_Gazimestanit.jpg",
+            "caption": "This is a photo of a monument in Kosovo, number:",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Turkish_armor_during_battles_of_Marica_and_Kosovo.jpg/300px-Turkish_armor_during_battles_of_Marica_and_Kosovo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Turkish_armor_during_battles_of_Marica_and_Kosovo.jpg",
+            "caption": "The armor and helmet of Turkish army during battles of Marica and Kosovo",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Battle_of_Kosovo_plan.png/300px-Battle_of_Kosovo_plan.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Battle_of_Kosovo_plan.png",
+            "caption": "Kosovo Battle Plan (1389)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Murad I",
+            "summary": "Sultan of the Ottoman Empire from 1362 to 1389",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Murad_I_Rests_After_a_Triumph._H%C3%BCnername_%281584%E2%80%931588%29._TSMK_H.1523.jpg/250px-Murad_I_Rests_After_a_Triumph._H%C3%BCnername_%281584%E2%80%931588%29._TSMK_H.1523.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Murad_I"
+        },
+        {
+            "name": "Bayezid I",
+            "summary": "Sultan of the Ottoman Empire from 1389 to 1402",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bayezid_I._H%C3%BCner-n%C4%81me_%281584%29%2C_Library_of_the_Topkapi_Palace_Museum%2C_Hazine_1523%2C_f._96b.jpg/250px-Bayezid_I._H%C3%BCner-n%C4%81me_%281584%29%2C_Library_of_the_Topkapi_Palace_Museum%2C_Hazine_1523%2C_f._96b.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bayezid_I"
+        },
+        {
+            "name": "Lazar of Serbia",
+            "summary": "Medieval Serbian ruler (1329–1389)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prince_Lazar_%28Ravanica_Monastery%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lazar_of_Serbia"
+        },
+        {
+            "name": "Stefan Dušan",
+            "summary": "14th-century Serbian king and emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Car_Du%C5%A1an%2C_Manastir_Lesnovo%2C_XIV_vek%2C_Makedonija.jpg/250px-Car_Du%C5%A1an%2C_Manastir_Lesnovo%2C_XIV_vek%2C_Makedonija.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stefan_Du%C5%A1an"
+        },
+        {
+            "name": "Stefan Uroš V",
+            "summary": "King (r. 1346–55) and 2nd Tsar (r. 1355–71) of the Serbian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UrosV.jpg/250px-UrosV.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stefan_Uro%C5%A1_V"
+        },
+        {
+            "name": "Prince Marko",
+            "summary": "King of Serbia from 1371 to 1395",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Marko_Mrnjavcevic.JPG/250px-Marko_Mrnjavcevic.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Marko"
+        }
+    ],
+    "territory_geojson": null
+}

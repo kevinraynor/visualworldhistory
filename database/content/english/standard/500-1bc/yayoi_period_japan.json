@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1169,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:0afeb35b8fd5dd2d3e1dd71c23ebede016e5ba71e9e12ccc95f8350ab4eb9fcb",
+    "summary": "The Yayoi Period (c. 300 BC – 300 AD) was the transformative era in Japanese prehistory when immigrants from the Korean peninsula and continental China introduced [[event:1170|Rice Farming Spread to Japan]], bronze and iron metallurgy, weaving, and new burial practices — fundamentally reshaping Japanese society from the foraging-based Jomon culture and laying the foundations of classical Japanese civilization.\n\nThe Yayoi people (named for the Tokyo neighborhood where their characteristic pottery was first identified) spread rice cultivation across Kyushu and Honshu, enabling denser populations and more complex social hierarchies. Bronze dotaku bells and weapons, iron tools, and elaborate burial mounds (kofun precursors) replaced the Jomon period's simpler material culture. The period saw the emergence of chiefdoms and regional leaders; the most famous early Japanese polity of this era, Yamatai, ruled by the shaman queen Himiko, is described in Chinese chronicles (Wei Zhi) as the dominant power on the islands around 200 AD. The Yayoi transformation is visible in genetic studies: modern Japanese have both Jomon ancestry (particularly in regions like Hokkaido and Okinawa) and substantial continental East Asian ancestry introduced during the Yayoi period, reflecting the demographic mixing of the two populations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yayoi_period",
+    "read_more_links": [
+        {
+            "title": "Jomon period",
+            "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period"
+        },
+        {
+            "title": "Yamatai",
+            "url": "https://en.wikipedia.org/wiki/Yamatai"
+        },
+        {
+            "title": "Yayoi people genetics",
+            "url": "https://en.wikipedia.org/wiki/Yayoi_people"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yoshinogari_Ancient_Ruins_20170222.jpg/300px-Yoshinogari_Ancient_Ruins_20170222.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yoshinogari_Ancient_Ruins_20170222.jpg",
+            "caption": "Yoshinogari Ancient Ruins. It is a large and complex Yayoi archaeological site.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/King_of_Na_gold_seal_faces.jpg/300px-King_of_Na_gold_seal_faces.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/King_of_Na_gold_seal_faces.jpg",
+            "caption": "Seal face of the King of Na gold seal, with its mirror image on the right sid...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/DotakuBronzeBellLateYayoi3rdCenturyCE.jpg/300px-DotakuBronzeBellLateYayoi3rdCenturyCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/DotakuBronzeBellLateYayoi3rdCenturyCE.jpg",
+            "caption": "Dotaku Bronze Bell Late Yayoi 3rd Century CE",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Shiki_no_Fuji%2C_%C5%8Cmuro_fukin_by_Takahashi_Sh%C5%8Dtei.jpg/300px-Shiki_no_Fuji%2C_%C5%8Cmuro_fukin_by_Takahashi_Sh%C5%8Dtei.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Shiki_no_Fuji%2C_%C5%8Cmuro_fukin_by_Takahashi_Sh%C5%8Dtei.jpg",
+            "caption": "Near Mount Ōmuro, from the series Fuji in the four seasons (Shiki no Fuji), w...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Emperor Guangwu of Han",
+            "summary": "Emperor of China from 25 to 57 AD",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Han_Guangwu_Di.jpg/250px-Han_Guangwu_Di.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han"
+        },
+        {
+            "name": "Taibo",
+            "summary": "Legendary founder of the state of Wu",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Taibo_statue%2C_Taibo_Temple%2C_Wuxi.jpg/250px-Taibo_statue%2C_Taibo_Temple%2C_Wuxi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taibo"
+        }
+    ],
+    "territory_geojson": null
+}

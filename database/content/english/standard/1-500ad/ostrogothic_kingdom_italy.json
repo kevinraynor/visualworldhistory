@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2040,
+    "parent_id": 2038,
+    "granularity": "detailed",
+    "content_hash": "sha256:610ea3f32606b8a0983568137c91ed8044eb846d8ce25b34def42ea034796fe9",
+    "summary": "The Ostrogothic Kingdom of Italy (493–553 AD) was established by Theoderic the Great, who led the Ostrogoths from the Balkans into Italy at the invitation — or at least with the blessing — of the Eastern Roman Emperor Zeno, defeating and killing the Germanic chieftain Odoacer in 493. Theoderic established his capital at Ravenna and ruled Italy for over three decades in what is widely considered the most successful post-Roman Germanic governance. He maintained Roman administrative structures, employed Roman officials (including the philosopher Boethius and the scholar Cassiodorus), issued Roman-style laws, and attempted a cultural synthesis between Goth and Roman.\n\nTheoderic's Italy experienced relative stability, economic recovery, and architectural patronage — the Mausoleum of Theoderic in Ravenna and the Basilica of Sant'Apollinare stand as monuments to his reign. However, his later years were marred by suspicion and executions, including that of Boethius (who wrote the 'Consolation of Philosophy' while awaiting execution). After Theoderic's death in 526, the kingdom was weakened by succession disputes and the devastating Gothic Wars (535–554 AD), in which the Eastern Roman Emperor Justinian I dispatched armies under Belisarius and Narses to reconquer Italy. The wars destroyed the Ostrogothic Kingdom but also devastated Italy itself — the population collapsed, cities were ruined, and the political vacuum was quickly filled by the Lombards in 568.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ostrogothic_Kingdom",
+    "read_more_links": [
+        {
+            "title": "Theoderic the Great reign",
+            "url": "https://en.wikipedia.org/wiki/Theoderic_the_Great"
+        },
+        {
+            "title": "Boethius Consolation of Philosophy",
+            "url": "https://en.wikipedia.org/wiki/Boethius"
+        },
+        {
+            "title": "Gothic Wars Justinian reconquest",
+            "url": "https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%28Ostrogothic%29_Kingdom_of_italy_-_508_to_534_AD.png/300px-%28Ostrogothic%29_Kingdom_of_italy_-_508_to_534_AD.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/%28Ostrogothic%29_Kingdom_of_italy_-_508_to_534_AD.png",
+            "caption": "Kingdom of Italy between 508 and 534 AD",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg/300px-1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "caption": "Monin Carte d'Ancienne Italie Atlas Universel de Géographie Ancienne et Moderne",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Musei_civici_%28Pavia%2924.jpg/300px-Musei_civici_%28Pavia%2924.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Musei_civici_%28Pavia%2924.jpg",
+            "caption": "Musei civici (Pavia). CIL V 6418 = ILCV 39 = EAOR 2, 67 = AE 2013, 588: D(omi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Map_of_The_Ostrogothic_Kingdom_in_523_AD.png/300px-Map_of_The_Ostrogothic_Kingdom_in_523_AD.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Map_of_The_Ostrogothic_Kingdom_in_523_AD.png",
+            "caption": "Theodoric's empire at the height of its power in 523, with territory marked i...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Theodoric the Great",
+            "summary": "King of Italy from 493 to 526",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Teodorico_re_dei_Goti_%28493-526%29.png/250px-Teodorico_re_dei_Goti_%28493-526%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodoric_the_Great"
+        },
+        {
+            "name": "Teia",
+            "summary": "Last Ostrogothic King of Italy",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Regno_dei_goti%2C_teia%2C_emissione_bronzea%2C_552-553.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Teia"
+        },
+        {
+            "name": "Odoacer",
+            "summary": "Ruler of Italy (c. 433 – 493)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png/250px-Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Odoacer"
+        },
+        {
+            "name": "Romulus Augustulus",
+            "summary": "Western Roman emperor from 475 to 476",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg/250px-Gold_Solidus_of_Romulus_Augustulus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
+        },
+        {
+            "name": "Justinian I",
+            "summary": "Roman emperor from 527 to 565",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/250px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justinian_I"
+        },
+        {
+            "name": "Totila",
+            "summary": "King of the Ostrogoths from 541 to 552",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tremissis_of_Baduila.jpg/250px-Tremissis_of_Baduila.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Totila"
+        }
+    ],
+    "territory_geojson": null
+}

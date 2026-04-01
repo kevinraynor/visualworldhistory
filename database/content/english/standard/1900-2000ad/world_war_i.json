@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 110,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:f1c6255e0c798f471f5335c6e882a57943a03c0269a9d2f8a8ea4d15d1e24c93",
+    "summary": "World War I, fought between 1914 and 1918, was the first industrialized conflict to engulf most of the world's great powers, pitting the Allied Powers — principally France, Britain, Russia, Italy, and eventually the United States — against the Central Powers of Germany, Austria-Hungary, and the Ottoman Empire. The war's immediate trigger was the [[event:2640|assassination of Archduke Franz Ferdinand]] in Sarajevo in June 1914, but its deeper roots lay in decades of imperial rivalry, militarism, interlocking alliance systems, and festering nationalist tensions across Europe and the Balkans.\n\nThe conflict introduced industrialized killing on an unprecedented scale. [[event:3323|Trench warfare]] along the Western Front created a horrific stalemate stretching from the English Channel to Switzerland, where millions of soldiers lived and died in waterlogged ditches. Campaigns such as the [[event:2641|Battle of the Somme]] and the [[event:2642|Battle of Verdun]] resulted in casualties in the hundreds of thousands for territorial gains measured in yards. New technologies — poison gas, tanks, aircraft, and submarine warfare — transformed military practice and foreshadowed the industrialized wars of the future.\n\nThe Eastern Front, the Middle East, Africa, and the seas witnessed equally brutal fighting. The Ottoman Empire's disintegration accelerated, giving rise to atrocities including the [[event:2753|Armenian Genocide]]. Naval blockades strangled both Germany and Britain. The entry of the United States into the war in 1917 provided the Allies with decisive reinforcements at the moment Russia collapsed into revolution and withdrew.\n\nThe war ended on 11 November 1918 with Germany's defeat and the [[event:3328|Armistice]]. The subsequent [[event:2644|Treaty of Versailles]] imposed punishing reparations and territorial losses on Germany, dissolved the Austro-Hungarian and Ottoman Empires, and redrew the map of Europe and the Middle East. The [[event:2649|League of Nations]] was founded with the hope of preventing future wars, though it proved unable to fulfill that mandate.\n\nThe human cost was staggering: approximately 20 million dead and 21 million wounded, with civilian casualties swelling those numbers considerably. The [[event:2700|Spanish Flu pandemic]], which spread globally along military supply lines, killed tens of millions more in the war's final months. Entire generations of young men in France, Britain, Germany, and Russia were decimated, and the psychological scars of the trenches ran deep through European culture for decades.\n\nWorld War I fundamentally reshaped the political order of the twentieth century. The fall of the German, Austro-Hungarian, Russian, and Ottoman empires created a volatile landscape of new nation-states with contested borders and unresolved ethnic grievances. The humiliating terms imposed on Germany planted seeds of resentment that demagogues like Hitler would later exploit. In this sense, the First World War is inseparable from the catastrophe of [[event:112|World War II]] that followed two decades later, and the two conflicts are often understood as a single extended crisis of the European state system.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/World_War_I",
+    "read_more_links": [
+        {
+            "title": "World War I – Britannica",
+            "url": "https://www.britannica.com/event/World-War-I"
+        },
+        {
+            "title": "Causes of World War I – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Causes_of_World_War_I"
+        },
+        {
+            "title": "Western Front (World War I) – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Western_Front_(World_War_I)"
+        },
+        {
+            "title": "World War I Casualties – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/World_War_I_casualties"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cartoon_for_a_Telegram.jpg/300px-Cartoon_for_a_Telegram.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cartoon_for_a_Telegram.jpg",
+            "caption": "Cartoon for a Telegram",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France%2C_September_26%2C_1918._-_NARA_-_530748.jpg/300px-American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France%2C_September_26%2C_1918._-_NARA_-_530748.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France%2C_September_26%2C_1918._-_NARA_-_530748.jpg",
+            "caption": "General notes:  Use War and Conflict Number 630 when ordering a reproduction ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/300px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg",
+            "caption": "Emergency hospital during influenza epidemic, Camp Funston, Kansas. \nEmergenc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ambassador_Morgenthau%27s_Story_p314.jpg/300px-Ambassador_Morgenthau%27s_Story_p314.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ambassador_Morgenthau%27s_Story_p314.jpg",
+            "caption": "Picture showing Armenians killed during the Armenian Genocide. Image taken fr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gavrilo Princip",
+            "summary": "Assassin of Archduke Franz Ferdinand (1894–1918)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gavrilo_Princip%2C_cell%2C_headshot%2C_bw_%28cropped%29.jpg/250px-Gavrilo_Princip%2C_cell%2C_headshot%2C_bw_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gavrilo_Princip"
+        },
+        {
+            "name": "Wilhelm II",
+            "summary": "German Emperor from 1888 to 1918",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg/250px-Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wilhelm_II"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1251,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3d0b81093a71f83a2335890d6b84ec1d07bd651cd5f474e19f8a7fbd123653c0",
+    "summary": "Mureybet was a Neolithic and Epipalaeolithic settlement located on the west bank of the Euphrates River in northern Syria, occupied from approximately 10,500 to 8,000 BCE. The site is now submerged beneath the waters of Lake Assad, created by the Tabqa Dam, but was extensively excavated before inundation in the 1970s. Mureybet provides a detailed stratigraphic record of the transition from mobile hunter-gatherer communities to early agricultural villages in the middle Euphrates valley.\n\nThe earliest occupation layers at Mureybet show evidence of a community relying on wild plant foods — including wild rye, einkorn, and other grasses — alongside hunting of wild cattle, gazelle, and equids. In later phases, the inhabitants began to occupy permanent round and then rectangular structures, and showed increasing evidence of plant processing. Mureybet is considered one of the key reference sites for understanding the Neolithic transition in the northern Levant and its connections to contemporaneous developments at sites like [[event:1252|Abu Hureyra]] and [[event:3|Gobekli Tepe]] in southeastern Anatolia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mureybet",
+    "read_more_links": [
+        {
+            "title": "Euphrates Valley Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Euphrates"
+        },
+        {
+            "title": "Pre-Pottery Neolithic A - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A"
+        },
+        {
+            "title": "Syria Prehistory - Britannica",
+            "url": "https://www.britannica.com/place/Syria/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg/300px-Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fertile_crescent_Neolithic_B_circa_7500_BC.jpg",
+            "caption": "Fertile crescent Neolithic B circa 7500 BC; black squares indicate pre-agricu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Main_Upper_Mesopotamian_Pre-Pottery_Neolithic_centers.jpg/300px-Main_Upper_Mesopotamian_Pre-Pottery_Neolithic_centers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Main_Upper_Mesopotamian_Pre-Pottery_Neolithic_centers.jpg",
+            "caption": "Main Upper Mesopotamian Pre-Pottery Neolithic centers",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Raqqa Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Raqqa_Governorate_emblem.png/250px-Raqqa_Governorate_emblem.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raqqa_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

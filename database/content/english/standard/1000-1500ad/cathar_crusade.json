@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3060,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f8a4d8c02ff72dee34f284609c6e5748269546d7611250895dbe62054a4680a3",
+    "summary": "The Cathar Crusade, also known as the Albigensian Crusade (1209–1229 AD), was a 20-year military campaign launched by Pope Innocent III against the Cathar heresy in the Languedoc region of southern France. The Cathars were a dualist Christian sect who believed in two gods — one good and spiritual, one evil and material — rejected the authority of the Catholic Church, its sacraments, and its clergy, and attracted significant popular support throughout Occitania. The assassination of the papal legate Pierre de Castelnau in 1208, blamed on Count Raymond VI of Toulouse who had protected the Cathars, gave Innocent III his pretext: he offered crusader indulgences to northern French nobles who would attack their southern counterparts. The resulting campaign was as much a seizure of the wealthy south by northern nobles as a religious war.\n\nThe crusade was marked by extraordinary brutality. At the siege of Béziers in 1209, when a crusader commander was allegedly asked how to tell Catholics from Cathars, the response attributed to the papal legate Arnaud Amaury — 'Kill them all, God will know his own' (Caedite eos, novit enim Dominus qui sunt eius) — encapsulated the campaign's ferocity; the city was massacred and burned. The military leader Simon de Montfort became infamous for his relentless campaigns across the Languedoc, destroying castles, burning Cathar perfecti at the stake, and devastating the region's prosperous culture. The crusade ultimately failed to extirpate Catharism militarily, and the Inquisition — established in the 1230s partly in response — became the instrument of the sect's eventual suppression. The [[event:3786|Albigensian Crusade]] devastated Occitan culture and facilitated French royal absorption of the semi-independent southern counties.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Albigensian_Crusade",
+    "read_more_links": [
+        {
+            "title": "Cathar heresy dualism southern France",
+            "url": "https://en.wikipedia.org/wiki/Catharism"
+        },
+        {
+            "title": "Massacre at Béziers 1209 crusade brutality",
+            "url": "https://en.wikipedia.org/wiki/Massacre_at_B%C3%A9ziers"
+        },
+        {
+            "title": "Simon de Montfort Languedoc campaigns",
+            "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_5th_Earl_of_Leicester"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Berruguete_ordeal.jpg/300px-Berruguete_ordeal.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Berruguete_ordeal.jpg",
+            "caption": "This portrays the story of a dispute between Saint Dominic and the Cathars in...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Carcassonne_JPG01.jpg/300px-Carcassonne_JPG01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Carcassonne_JPG01.jpg",
+            "caption": "Carcassonne (Aude - France), the  Aude River, the old bridge and the medieval...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cathars_expelled.JPG/300px-Cathars_expelled.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cathars_expelled.JPG",
+            "caption": "Cathars expelled",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cartes_Occitanie.png/300px-Cartes_Occitanie.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cartes_Occitanie.png",
+            "caption": "Cartes Occitanie",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Simon de Montfort, 5th Earl of Leicester",
+            "summary": "French nobleman and leader of the Albigensian Crusade (c. 1175–1218)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Simon4demontfort.gif/250px-Simon4demontfort.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_de_Montfort%2C_5th_Earl_of_Leicester"
+        },
+        {
+            "name": "Philip II of France",
+            "summary": "King of France from 1180 to 1223",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sceau_de_Philippe_Auguste._-_Archives_Nationales_-_SC-D157.jpg/250px-Sceau_de_Philippe_Auguste._-_Archives_Nationales_-_SC-D157.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_France"
+        },
+        {
+            "name": "Louis VIII of France",
+            "summary": "King of France from 1223 to 1226",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Louis8.jpg/250px-Louis8.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_VIII_of_France"
+        },
+        {
+            "name": "Peter II of Aragon",
+            "summary": "King of Aragon from 1196 to 1213",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pedro_II_de_Arag%C3%B3n_entero.jpg/250px-Pedro_II_de_Arag%C3%B3n_entero.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_II_of_Aragon"
+        },
+        {
+            "name": "Pope Innocent III",
+            "summary": "Head of the Catholic Church from 1198 to 1216",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg/250px-Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Innocent_III"
+        },
+        {
+            "name": "Pierre de Castelnau",
+            "summary": "French ecclesiastic (died 1208)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Castelnou-assassinat.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre_de_Castelnau"
+        }
+    ],
+    "territory_geojson": null
+}

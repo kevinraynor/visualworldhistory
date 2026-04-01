@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1790,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:60b680af519a72b42ac7fccb8d5062b3b9e2a0e8e7a768277b044004710d02a4",
+    "summary": "The Bactria-Margiana Archaeological Complex (BMAC), also known as the Oxus Civilisation, flourished approximately 2400–2000 BC across the oases and river valleys of modern Turkmenistan, Uzbekistan, Afghanistan, and Tajikistan. It represents one of the Bronze Age world's most sophisticated urban cultures in Central Asia, characterised by large walled compounds, advanced metallurgy, distinctive painted pottery, and a rich tradition of small-object art including stamp seals, compartmented metal objects, and figurines.\n\nBMAC settlements were typically organised around large rectangular walled enclosures that served as combined residential, administrative, and storage facilities — effectively proto-urban centres without the full scale of Mesopotamian cities. Key sites include Gonur Tepe in Turkmenistan (the largest known BMAC site, with a central 'palace' and a 'temple' complex), Togolok in Turkmenistan, and sites in the Afghan provinces of Balkh and Kunduz. The agricultural basis of the BMAC was sophisticated irrigation farming using the waters of the Amu Darya (Oxus) river and its tributaries in an otherwise arid environment.\n\nThe BMAC is geographically and chronologically positioned at the crossroads between the Indus Valley civilisation to the southeast, Mesopotamia to the southwest, and the emerging steppe cultures to the north. Its artefacts appear in all these regions, confirming its role as a major node in Bronze Age long-distance exchange. Some BMAC artefacts have been found at Indus Valley sites, suggesting direct commercial contact. The BMAC has also attracted attention in relation to the early spread of Indo-Iranian languages, as the region later becomes the heartland of the Iranian and Vedic cultural traditions — and there is debate about whether BMAC itself was associated with early Indo-Iranian speakers or whether such speakers arrived later.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bactria%E2%80%93Margiana_Archaeological_Complex",
+    "read_more_links": [
+        {
+            "title": "Gonur Tepe",
+            "url": "https://en.wikipedia.org/wiki/Gonur_Tepe"
+        },
+        {
+            "title": "Bronze Age Central Asia",
+            "url": "https://en.wikipedia.org/wiki/Central_Asia#Bronze_Age"
+        },
+        {
+            "title": "Indo-Iranian peoples",
+            "url": "https://en.wikipedia.org/wiki/Indo-Iranian_peoples"
+        },
+        {
+            "title": "Oxus Treasure",
+            "url": "https://en.wikipedia.org/wiki/Oxus_Treasure"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bactrian_princess-AO_22918-IMG_0239-black.jpg/300px-Bactrian_princess-AO_22918-IMG_0239-black.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Bactrian_princess-AO_22918-IMG_0239-black.jpg",
+            "caption": "Bactrian princess-AO 22918-IMG 0239-black",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Beaker_with_birds_on_the_rim_MET_DT866.jpg/300px-Beaker_with_birds_on_the_rim_MET_DT866.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Beaker_with_birds_on_the_rim_MET_DT866.jpg",
+            "caption": "Bactria-Margiana Archaeological Complex; Beaker; Metalwork-Vessels",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bactrian_camel_MET_DP-14200-001.jpg/300px-Bactrian_camel_MET_DP-14200-001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Bactrian_camel_MET_DP-14200-001.jpg",
+            "caption": "Bactria-Margiana Archaeological Complex; Sculpture; Metalwork-Sculpture",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kaunakes_Bactria-AO_31917-IMG_0237.JPG/300px-Kaunakes_Bactria-AO_31917-IMG_0237.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Kaunakes_Bactria-AO_31917-IMG_0237.JPG",
+            "caption": "Kaunakes Bactria-AO 31917-IMG 0237",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 fr"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Satrap",
+            "summary": "Ruler of a province in ancient Persia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Achaemenid_Satrap_Asia_Minor_end_of_6th_century_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Satrap"
+        }
+    ],
+    "territory_geojson": null
+}

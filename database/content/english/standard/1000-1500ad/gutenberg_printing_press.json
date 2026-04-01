@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2239,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:742f09a6009fe4c4cf403efa7f01c5f043eba89e938f390221640152b59a00dc",
+    "summary": "Johannes Gutenberg's invention of the European movable-type printing press (c. 1440–1450 AD) in Mainz, Germany, was one of the most transformative technological developments in human history, enabling the mass production of books at a cost and speed that manuscript copying could never match, and thereby fundamentally democratizing access to information across European civilization. Gutenberg's key innovation was not the concept of movable type — Chinese and Korean printers had been using movable type for centuries — but a specific combination of technologies: an oil-based ink that adhered to metal type, an alloy of lead, tin, and antimony that produced sharp, durable type letters, and a screw press adapted from wine and paper presses.\n\nThe Gutenberg Bible (c. 1455), the first substantial book printed in Europe with movable type, is one of the most beautiful books ever produced — roughly 180 copies were printed, of which 49 survive. Within decades of Gutenberg's press, printing shops had spread to dozens of European cities; by 1500, an estimated 15–20 million books had been printed across Europe (compared to perhaps a few million manuscripts in existence before), on subjects ranging from theology and classical literature to medical manuals, legal codes, vernacular poetry, and political pamphlets. The consequences were world-historical. The [[event:96|Renaissance]] was transformed from an elite Italian movement into a European mass cultural phenomenon. Martin Luther's 95 Theses spread across Germany within weeks of posting — an impossibility without printing. Scientific knowledge accumulated and circulated as never before, accelerating the Scientific Revolution. The idea of the individual reader engaging directly with authoritative texts, rather than receiving knowledge mediated by clergy or scholars, helped create the modern individual. The printing press did not cause the Reformation, Scientific Revolution, and development of modern nationalism — but it was a necessary precondition for all three.\n\nGutenberg himself died in relative obscurity, having lost control of his press to his creditor Johann Fust in a lawsuit. The fortune from his revolutionary invention went largely to others.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+    "read_more_links": [
+        {
+            "title": "Johannes Gutenberg printing press invention",
+            "url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+        },
+        {
+            "title": "Printing press Reformation Scientific Revolution",
+            "url": "https://en.wikipedia.org/wiki/Printing_press#Effects_and_implications"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gutenberg_Bible_at_Yale.jpg/300px-Gutenberg_Bible_at_Yale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gutenberg_Bible_at_Yale.jpg",
+            "caption": "Gutenberg Bible at the Beinecke Rare Book & Manuscript Library.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/42-zeilige_Gutenbergbibel%2C_Teil_2%2C_Blatt_36.tif/300px-42-zeilige_Gutenbergbibel%2C_Teil_2%2C_Blatt_36.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/42-zeilige_Gutenbergbibel%2C_Teil_2%2C_Blatt_36.tif",
+            "caption": "hochauflösende digitale Reprografie der 42-zeiligen Gutenbergbibel",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bible_de_Gutenberg_conserv%C3%A9e_%C3%A0_la_BNF_Richelieu.jpg/300px-Bible_de_Gutenberg_conserv%C3%A9e_%C3%A0_la_BNF_Richelieu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bible_de_Gutenberg_conserv%C3%A9e_%C3%A0_la_BNF_Richelieu.jpg",
+            "caption": "Exemplaire de la Bible de Gutenberg conservé à la BNF Richelieu.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Gutenberg_Bible_on_display_at_the_U.S._Library_of_Congress.jpg/300px-Gutenberg_Bible_on_display_at_the_U.S._Library_of_Congress.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gutenberg_Bible_on_display_at_the_U.S._Library_of_Congress.jpg",
+            "caption": "Gutenberg Bible on display at the U.S. Library of Congress. The Gutenberg Bib...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Johannes Gutenberg",
+            "summary": "German inventor and craftsman (died 1468)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg/250px-Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+        },
+        {
+            "name": "Pope Pius II",
+            "summary": "Head of the Catholic Church from 1458 to 1464",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Pintoricchio_014.jpg/250px-Pintoricchio_014.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Pius_II"
+        },
+        {
+            "name": "Jerome",
+            "summary": "Priest and theologian (c. 342/347–420)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/MatthiasStom-SaintJerome-Nantes.jpg/250px-MatthiasStom-SaintJerome-Nantes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jerome"
+        },
+        {
+            "name": "Watermark",
+            "summary": "Identification on paper to prevent counterfeiting",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Patentpapierfabrik_zu_Penig%2C_Maschinen-Wasserzeichen_KRONENPOST_1898.tif/lossy-page1-250px-Patentpapierfabrik_zu_Penig%2C_Maschinen-Wasserzeichen_KRONENPOST_1898.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Watermark"
+        },
+        {
+            "name": "Princeton University",
+            "summary": "Private university in Princeton, New Jersey, US",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/250px-Princeton_seal.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princeton_University"
+        },
+        {
+            "name": "Clerk",
+            "summary": "White-collar worker who conducts general office tasks",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tiny-tim-dickens.jpg/250px-Tiny-tim-dickens.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Clerk"
+        }
+    ],
+    "territory_geojson": null
+}

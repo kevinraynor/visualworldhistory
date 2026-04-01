@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2706,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a988615b573342b7352c6ec42afb57db357b12ce75df89d118e07fab6f2b27ba",
+    "summary": "The Cuban Revolution was the armed insurrection led by Fidel Castro, Che Guevara, and the 26th of July Movement that overthrew the military dictatorship of Fulgencio Batista on 1 January 1959. The revolutionary movement had its origins in the failed assault on the Moncada Barracks in July 1953, after which Castro was imprisoned and later exiled to Mexico, where he organized and trained the guerrilla force that returned to Cuba aboard the yacht Granma in December 1956.\n\nThe guerrilla campaign, conducted primarily from the Sierra Maestra mountains in eastern Cuba, gradually expanded its support among the rural population and eroded the morale of Batista's army. International condemnation of the regime's brutality, the withdrawal of American military support, and defections from within the Cuban military combined with the rebels' military successes to collapse the government. Batista fled Cuba on New Year's Eve 1958 as rebel forces took control.\n\nCastro's government initially described itself as humanist rather than communist, but it rapidly nationalized American-owned businesses and sugar plantations, prompting growing hostility from the United States. By 1961, Cuba had declared itself socialist. The failed [[event:3348|Bay of Pigs Invasion]] sponsored by the Kennedy administration and the subsequent [[event:2675|Cuban Missile Crisis]] of 1962 transformed Cuba into a flashpoint of the [[event:113|Cold War]], deeply embedded in the confrontation between the United States and the Soviet Union.\n\nThe revolution transformed Cuban society through massive literacy campaigns, universal healthcare, and educational expansion, while simultaneously creating a one-party state that suppressed political opposition and restricted civil liberties. Cuba's model inspired revolutionary movements across Latin America and Africa, making the island a significant player in international politics disproportionate to its size.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+    "read_more_links": [
+        {
+            "title": "Cuban Revolution - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Cuban-Revolution"
+        },
+        {
+            "title": "Fidel Castro - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Fidel-Castro"
+        },
+        {
+            "title": "Cuba and the Cold War - Miller Center University of Virginia",
+            "url": "https://millercenter.org/the-presidency/educational-resources/cuban-missile-crisis"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/300px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+            "caption": "La Liberté guidant le peuple - Eugène Delacroix - Musée du Louvre Peintures RF 129 - après restauration 2024",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%28Map_of_the_complete_island_of_Cuba%29._LOC_2003623399.jpg/300px-%28Map_of_the_complete_island_of_Cuba%29._LOC_2003623399.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/%28Map_of_the_complete_island_of_Cuba%29._LOC_2003623399.jpg",
+            "caption": "Relief shown pictorially. Depths shown by soundings. Shows coastal features, ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Fidel_Castro_under_arrest_after_the_Moncada_attack.jpg/300px-Fidel_Castro_under_arrest_after_the_Moncada_attack.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Fidel_Castro_under_arrest_after_the_Moncada_attack.jpg",
+            "caption": "Fidel Castro on his arrest after the July 1953 attack on the Moncada Barracks...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Luis_Korda_02.jpg/300px-Luis_Korda_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Luis_Korda_02.jpg",
+            "caption": "Fidel Castro and Camilo Cienfuegos in Havana",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Fidel Castro",
+            "summary": "Leader of Cuba from 1959 to 2008",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fidel_Castro_1950s.jpg/250px-Fidel_Castro_1950s.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fidel_Castro"
+        },
+        {
+            "name": "Fulgencio Batista",
+            "summary": "President of Cuba (1940–1944; 1952–1959)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fulgencio_Batista%2C_1938.jpg/250px-Fulgencio_Batista%2C_1938.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fulgencio_Batista"
+        },
+        {
+            "name": "Raúl Castro",
+            "summary": "Leader of Cuba from 2008 to 2021",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Raul-castro-2015_%28cropped%29%282%29.jpg/250px-Raul-castro-2015_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro"
+        },
+        {
+            "name": "Che Guevara",
+            "summary": "Argentine revolutionary (1928–1967)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/250px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Che_Guevara"
+        },
+        {
+            "name": "Abel Santamaría",
+            "summary": "Cuban revolutionary (1927–1953)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Abel_Santamar%C3%ADa_Cuadrado.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abel_Santamar%C3%ADa"
+        },
+        {
+            "name": "Camilo Cienfuegos",
+            "summary": "Cuban revolutionary leader and guerrilla (1933–Missing 1959)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Camilo_Cienfuegos.jpg/250px-Camilo_Cienfuegos.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Camilo_Cienfuegos"
+        }
+    ],
+    "territory_geojson": null
+}

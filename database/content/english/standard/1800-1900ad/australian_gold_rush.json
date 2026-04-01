@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3640,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:bf7c592d6beee392725a63927465ace9491f388fbd381c072633041761c9f1ea",
+    "summary": "The Australian gold rushes, beginning with the major discovery at Bathurst, New South Wales in 1851 and continuing most dramatically in Victoria through the 1850s, transformed the Australian colonies from small penal and pastoral settlements into rapidly growing societies with diverse populations and increasingly assertive democratic politics. The rushes paralleled and partly drew migrants from the California Gold Rush of 1848–49, and their social and political consequences were in many ways more lasting.\n\nThe Victorian gold rush, centered on fields around Ballarat, Bendigo, and Castlemaine, produced an enormous influx of migrants from Britain, Ireland, continental Europe, China, and the Americas. The population of Victoria grew from approximately 75,000 in 1850 to over 500,000 by 1857. The Chinese diggers, who came in large numbers from southern China, faced severe discrimination and periodic violence, including the Lambing Flat riots of 1861 — an early expression of the exclusionary impulses that would coalesce into the White Australia Policy.\n\nThe Eureka Stockade of 1854 at Ballarat — an armed rebellion by miners against the hated mining licence system — was the most dramatic political episode of the gold rush era. Though suppressed militarily, it forced significant political concessions: the licence was replaced by a cheaper miner's right that included voting rights, accelerating the introduction of responsible government and manhood suffrage across the Australian colonies. The gold rushes thus connected directly to Australian democratic development, generating the wealth and population that made self-governing colonies viable and creating a social culture that was notably more egalitarian than contemporaneous British society.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_gold_rushes",
+    "read_more_links": [
+        {
+            "title": "Eureka Stockade – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Eureka_Stockade"
+        },
+        {
+            "title": "Victorian Gold Rush – Britannica",
+            "url": "https://www.britannica.com/place/Victoria-state-Australia/History"
+        },
+        {
+            "title": "Chinese Australian History – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chinese_Australians"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Forest_Creek_%28Castlemaine%2C_Victoria%29_1852.jpg/300px-Forest_Creek_%28Castlemaine%2C_Victoria%29_1852.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Forest_Creek_%28Castlemaine%2C_Victoria%29_1852.jpg",
+            "caption": "Forest Creek, Mount Alexander diggings from the base of Red Hill near Argus o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hargraves_by_Thomas_Balcombe_1851.jpg/300px-Hargraves_by_Thomas_Balcombe_1851.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Hargraves_by_Thomas_Balcombe_1851.jpg",
+            "caption": "Mr E.H. Hargraves, the gold discoverer of Australia, 12 February 1851, return...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Old_Bendigo_1857_SLNSW_FL8998824.jpg/300px-Old_Bendigo_1857_SLNSW_FL8998824.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Old_Bendigo_1857_SLNSW_FL8998824.jpg",
+            "caption": "Mining old Bendigo, Victoria, Australia, 1857, George Rowe, watercolour, New ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Edward_Roper_-_Gold_diggings%2C_Ararat%2C_1854.jpg/300px-Edward_Roper_-_Gold_diggings%2C_Ararat%2C_1854.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Edward_Roper_-_Gold_diggings%2C_Ararat%2C_1854.jpg",
+            "caption": "Gold diggings, Ararat, c.1858, by Edward Roper, oil painting, presented by Si...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Arthur Phillip",
+            "summary": "Royal Navy Admiral and colonial administrator (1738–1814)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Arthur_Phillip_-_Wheatley_ML124_%28cropped%29.jpg/250px-Arthur_Phillip_-_Wheatley_ML124_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Phillip"
+        },
+        {
+            "name": "Fabian Gottlieb von Bellingshausen",
+            "summary": "Russian Navy officer, cartographer, and explorer (1778–1852)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Faddey_Faddeevich_Bellingshausen.jpg/250px-Faddey_Faddeevich_Bellingshausen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fabian_Gottlieb_von_Bellingshausen"
+        },
+        {
+            "name": "Paweł Strzelecki",
+            "summary": "Polish-born explorer of Australia (1797–1873)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Photographic_portrait_of_Pawe%C5%82_Edmund_Strzelecki%2C_ca_1845_%28defects_reduced%29.jpg/250px-Photographic_portrait_of_Pawe%C5%82_Edmund_Strzelecki%2C_ca_1845_%28defects_reduced%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pawe%C5%82_Strzelecki"
+        }
+    ],
+    "territory_geojson": null
+}

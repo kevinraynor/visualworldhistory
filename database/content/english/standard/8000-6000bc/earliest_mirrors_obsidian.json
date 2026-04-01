@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1510,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:782f7af6ceb5313725db9c3df250bb1f0f387ddcc963a723e0d56662363f1110",
+    "summary": "Polished obsidian mirrors discovered at [[event:11|Catalhoyuk]] in Anatolia, dating to approximately 6200–6000 BCE, represent the earliest known examples of manufactured reflective surfaces. Obsidian — a volcanic glass prized throughout the Neolithic for its capacity to be knapped into extremely sharp edges — was also capable of being ground and polished to produce smooth, reflective surfaces. The mirrors found at Catalhoyuk are small, hand-held pieces that were apparently used for personal grooming or adornment.\n\nThe production of obsidian mirrors required considerable skill and access to high-quality raw material, which was traded across long distances in the Neolithic Near East. Their presence at Catalhoyuk suggests that self-presentation and bodily appearance were socially significant matters in this early settled community. These objects are the oldest known precursors to a technology — the manufactured mirror — that would become universal across human cultures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mirror#History",
+    "read_more_links": [
+        {
+            "title": "Mirror – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mirror"
+        },
+        {
+            "title": "Obsidian – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Obsidian"
+        },
+        {
+            "title": "Catalhoyuk – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk"
+        },
+        {
+            "title": "Neolithic Technology – Britannica",
+            "url": "https://www.britannica.com/event/Neolithic-Period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Titian_-_Venus_with_a_Mirror_-_Google_Art_Project.jpg/300px-Titian_-_Venus_with_a_Mirror_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Titian_-_Venus_with_a_Mirror_-_Google_Art_Project.jpg",
+            "caption": "Venus of Urbino ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mirrored_building_in_Manhattan%2C_2008.tif/300px-Mirrored_building_in_Manhattan%2C_2008.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Mirrored_building_in_Manhattan%2C_2008.tif",
+            "caption": "A man walks by a mirrored building in Manhattan, 2008",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/UniversumUNAM27.JPG/300px-UniversumUNAM27.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/UniversumUNAM27.JPG",
+            "caption": "AlejandroLinaresGarcia taking pictures of himself in front of curved mirrors ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Egypt%2C_New_Kingdom%2C_Dynasty_18_-_Caryatid_Mirror_-_1983.196_-_Cleveland_Museum_of_Art.tif/300px-Egypt%2C_New_Kingdom%2C_Dynasty_18_-_Caryatid_Mirror_-_1983.196_-_Cleveland_Museum_of_Art.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Egypt%2C_New_Kingdom%2C_Dynasty_18_-_Caryatid_Mirror_-_1983.196_-_Cleveland_Museum_of_Art.tif",
+            "caption": "Bronze mirror discolored with red and black speckles in the shape of an oval ...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Chinese painting",
+            "summary": "Artistic tradition",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Huang-Quan-Xie-sheng-zhen-qin-tu.jpg/250px-Huang-Quan-Xie-sheng-zhen-qin-tu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_painting"
+        },
+        {
+            "name": "Gu Kaizhi",
+            "summary": "Chinese painter and politician (c. 344–406)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gu_Kaizhi.jpg/250px-Gu_Kaizhi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gu_Kaizhi"
+        }
+    ],
+    "territory_geojson": null
+}

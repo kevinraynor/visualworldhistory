@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2546,
+    "parent_id": 2545,
+    "granularity": "notable",
+    "content_hash": "sha256:e1107789b5649b3e417a49dd963834a2619b943f2ee688d229e08849d18d075f",
+    "summary": "The Berlin Conference, held from November 1884 to February 1885 at the invitation of German Chancellor Otto von Bismarck, was the diplomatic gathering at which the major European powers established the rules governing the [[event:2545|Scramble for Africa]]. Representatives of fourteen European nations and the United States attended; no African representatives were present or consulted at any stage.\n\nThe Conference was convened ostensibly to resolve disputes over the Congo River basin, where King Leopold II of Belgium had been advancing territorial claims through his International Association of the Congo, and to address broader questions about freedom of navigation on African rivers and the regulation of colonial claims. Bismarck, who had only recently entered the colonial arena for Germany, saw the conference as a way to assert German influence in colonial affairs and to manage competition among the European powers in a way that reduced the risk of conflicts between them.\n\nThe Conference's key outcomes included the establishment of the Congo Free State under Leopold II's personal sovereignty, free trade and navigation rights on the Congo and Niger rivers, and — most consequentially — the Principle of Effectivity: the doctrine that European nations could only claim African territory if they actually occupied it and administered it, rather than merely declaring sovereignty from afar. This principle accelerated the physical occupation of Africa, as powers rushed to establish administrative presence throughout the continent.\n\nThe Berlin Act signed at the conference also contained provisions nominally protecting indigenous Africans' interests and opposing slavery, but these provisions were largely unenforced. Leopold's Congo, granted its own special status by the conference, became the site of some of the worst colonial atrocities in history. The conference's legacy is a stark symbol of the imperial assumption that Africa was a space for European disposal, and its arbitrary territorial divisions continue to influence African political geography to the present day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Berlin_Conference",
+    "read_more_links": [
+        {
+            "title": "Berlin Conference – Britannica",
+            "url": "https://www.britannica.com/event/Berlin-West-Africa-Conference"
+        },
+        {
+            "title": "Scramble for Africa – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Scramble_for_Africa"
+        },
+        {
+            "title": "Congo Free State – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Congo_Free_State"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cartoon_depicting_Leopold_2_and_other_emperial_powers_at_Berlin_conference_1884.jpg/300px-Cartoon_depicting_Leopold_2_and_other_emperial_powers_at_Berlin_conference_1884.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cartoon_depicting_Leopold_2_and_other_emperial_powers_at_Berlin_conference_1884.jpg",
+            "caption": "Cartoon depicting Belgian King Leopold II in the middle, German Emperor Willi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kongokonferenz.jpg/300px-Kongokonferenz.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kongokonferenz.jpg",
+            "caption": "Drawing of the participants in the Berlin conference in 1884.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Scramble-for-Africa-1880-1913-v2.png/300px-Scramble-for-Africa-1880-1913-v2.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Scramble-for-Africa-1880-1913-v2.png",
+            "caption": "Comparison of Africa in the years 1880 and 1913. Shows how the Scramble for A...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Berlin_Conference%2C_1884%E2%80%9385.jpg/300px-Berlin_Conference%2C_1884%E2%80%9385.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Berlin_Conference%2C_1884%E2%80%9385.jpg",
+            "caption": "A cartoon, uncredited, in the French magazine L'illustration dated January 3,...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Otto von Bismarck",
+            "summary": "Chancellor of Germany from 1871 to 1890",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg/250px-Otto_von_Bismarck_1885_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Otto_von_Bismarck"
+        },
+        {
+            "name": "Leopold II of Belgium",
+            "summary": "King of the Belgians from 1865 to 1909",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leopold_ii_garter_knight.jpg/250px-Leopold_ii_garter_knight.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium"
+        },
+        {
+            "name": "Union between Sweden and Norway",
+            "summary": "Personal union of Sweden and Norway from 1814 to 1905",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Swedish_civil_ensign_%281844%E2%80%931905%29.svg/250px-Swedish_civil_ensign_%281844%E2%80%931905%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Union_between_Sweden_and_Norway"
+        },
+        {
+            "name": "Henry Morton Stanley",
+            "summary": "Welsh journalist and explorer (1841–1904)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/No-nb_bldsa_1c051_Henry_Morton_Stanley.jpg/250px-No-nb_bldsa_1c051_Henry_Morton_Stanley.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Morton_Stanley"
+        },
+        {
+            "name": "Neal Ascherson",
+            "summary": "Scottish journalist and writer (born 1932)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Neal_Ascherson_After_Dark_10th_July_1987.JPG/250px-Neal_Ascherson_After_Dark_10th_July_1987.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neal_Ascherson"
+        },
+        {
+            "name": "David Livingstone",
+            "summary": "British colonialist and missionary to Africa (1813–1873)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/250px-David_Livingstone_by_Thomas_Annan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Livingstone"
+        }
+    ],
+    "territory_geojson": null
+}

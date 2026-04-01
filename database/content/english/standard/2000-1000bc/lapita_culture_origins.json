@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3843,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f6a4fac150ed294d8004437eea0f8a0e77a8059d400bee400f4c03e532430b42",
+    "summary": "The Lapita cultural complex, named after a site in New Caledonia where its distinctive pottery was first identified, represents the archaeological signature of the ancestral Polynesian and Micronesian-Melanesian population that expanded across the southwestern Pacific beginning around 1500 BC. Lapita communities originated in the Bismarck Archipelago off the northeastern coast of New Guinea, themselves descended from Austronesian-speaking migrants who had moved into Island Southeast Asia and Melanesia in earlier millennia. Within a remarkably short period of perhaps three to four centuries, Lapita communities spread eastward across Vanuatu, New Caledonia, Fiji, Tonga, and Samoa, covering a distance of approximately 4,000 kilometers.\n\nThe most recognizable Lapita artifact is their pottery, decorated with complex geometric patterns executed using a dentate stamp, often applied in precise horizontal bands around vessel rims and bodies. These distinctive vessels appear consistently across the entire Lapita range, suggesting a connected community that maintained cultural coherence across vast oceanic distances. Lapita sites also contain evidence of a consistent subsistence economy combining agriculture, domesticated animals, shellfish collection, and fishing, along with long-distance trade in obsidian and other prestige materials.\n\nGenetic and linguistic evidence confirms that Lapita people were the direct ancestors of Polynesians, who would go on to settle [[event:3549|Samoa]] and the rest of Polynesia in subsequent centuries and millennia. The Lapita expansion represents the final major episode of human settlement in the Pacific, and the navigational skills required to accomplish it — crossing open ocean stretches of hundreds of kilometers with no visible landmarks — stand as one of the remarkable achievements of prehistoric humanity. Lapita pottery-making traditions gradually diversified and in some areas disappeared over time, as descendant communities adapted their material culture to local environments.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lapita_culture",
+    "read_more_links": [
+        {
+            "title": "Polynesian Origins - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Polynesian_origins"
+        },
+        {
+            "title": "Austronesian Languages - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Austronesian_languages"
+        },
+        {
+            "title": "Pacific Islander Peoples - Britannica",
+            "url": "https://www.britannica.com/topic/Pacific-Islander"
+        },
+        {
+            "title": "Bismarck Archipelago - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bismarck_Archipelago"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Boracay_paraw_sailboats_015.jpg/300px-Boracay_paraw_sailboats_015.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Boracay_paraw_sailboats_015.jpg",
+            "caption": "Boracay paraw sailboats",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/National_Museum_of_Ethnology%2C_Osaka_-_Reconstructed_Lapita_female.jpg/300px-National_Museum_of_Ethnology%2C_Osaka_-_Reconstructed_Lapita_female.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/National_Museum_of_Ethnology%2C_Osaka_-_Reconstructed_Lapita_female.jpg",
+            "caption": "National Museum of Ethnology (Osaka) Revue of Rapita human bones",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/PortVilaLapita.jpg/300px-PortVilaLapita.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/PortVilaLapita.jpg",
+            "caption": "Lapita pottery, Vanuatu Cultural Centre, Port Vila, Vanuatu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Yami_ipanitika.jpg/300px-Yami_ipanitika.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Yami_ipanitika.jpg",
+            "caption": "Yami (or Tao) balangays in the Formosan Aboriginal Culture Village, Taiwan",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

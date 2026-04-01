@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1652,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:773a1b3cda866fca5d25d441403afc7b42994f707678676b0672ab51cd0cbd35",
+    "summary": "The Yamnaya culture, flourishing on the Pontic-Caspian steppe between approximately 3300 and 2600 BCE, represents one of the most consequential pastoral societies in human prehistory. Named after the Ukrainian word for pit (yama), referring to the characteristic burial pits beneath earthen mounds called kurgans, the Yamnaya have been identified through ancient DNA analysis as the primary ancestral population responsible for the [[event:1653|Indo-European migrations]] that reshaped the genetic and cultural landscape of Europe and large parts of Asia.\n\nThe Yamnaya emerged from earlier steppe pastoralist groups in the region north of the Black and Caspian seas, in what is now Ukraine, Russia, and Kazakhstan. Their subsistence was based on mobile animal husbandry — primarily cattle, sheep, and goats — supplemented by horses, which they appear to have ridden and used for transport. This mobile pastoral lifestyle gave them both the flexibility to exploit the vast grassland resources of the steppe and the capacity for rapid long-distance movement that would prove crucial to their later expansions.\n\nTwo technological innovations were central to Yamnaya success and spread: the domestication of the horse for riding and the use of wheeled wagons. Evidence for [[event:1691|wheeled vehicles]] appears in this period across the steppe zone, and wagon burials are a defining feature of Yamnaya archaeological assemblages. Wagons transformed the logistics of pastoral life, allowing entire household units — with tents, household goods, and provisions — to accompany herds across seasonal grazing routes. This effectively extended the usable range of steppe pastoralism enormously.\n\nYamnaya society was organized around patrilineal clans with strong hierarchical features. Burial evidence reveals marked inequalities in wealth and status, with high-status males interred with elaborate grave goods including copper and gold ornaments, prestige weapons, and animal offerings. These kurgan burials are found across an enormous geographic range and became the template for burial practices adopted by successor cultures across Europe and Central Asia, including the [[event:1651|Corded Ware culture]] that spread across much of northern Europe after 3000 BCE.\n\nAncient genomic studies published from 2015 onward have demonstrated that Yamnaya ancestry accounts for a substantial fraction of the ancestry of modern Europeans — roughly 50-75% in many northern and eastern European populations — and contributed significantly to populations across the steppe corridor into South Asia. This genetic signal reflects actual large-scale population movements, not merely cultural diffusion. The Yamnaya expansion appears to have been rapid and demographically significant, potentially displacing or absorbing earlier farming populations across wide areas.\n\nThe cultural and linguistic legacy of the Yamnaya is equally profound. Linguists have long argued, on the basis of shared vocabulary and grammatical structures, that most European languages, Persian, Sanskrit, and their descendants all derive from a common Proto-Indo-European ancestor language. The geographic and chronological fit between the genetic evidence for Yamnaya expansion and the linguistic evidence for Proto-Indo-European dispersal is now considered strong, although debate continues over the exact mechanisms and routes. The Yamnaya thus appear to have been the primary vectors through which the ancestral language of Greek, Latin, Celtic, Germanic, Slavic, Baltic, Iranian, and Indic languages was spread across Eurasia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yamnaya_culture",
+    "read_more_links": [
+        {
+            "title": "Indo-European Migrations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indo-European_migrations"
+        },
+        {
+            "title": "Kurgan Hypothesis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kurgan_hypothesis"
+        },
+        {
+            "title": "Ancient DNA and Steppe Ancestry - Nature",
+            "url": "https://www.nature.com/articles/nature14317"
+        },
+        {
+            "title": "Proto-Indo-European Language - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Proto-Indo-European_language"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Indo-European_migrations.jpg/300px-Indo-European_migrations.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg",
+            "caption": "Indo-European expansions, based on Anthony (2007), Nordqvist & Heyd (2020), N...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/KAM56.jpg/300px-KAM56.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/KAM56.jpg",
+            "caption": "Collections of Kyiv Archaelogy Museum",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Yamnaya_burial1.png/300px-Yamnaya_burial1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Yamnaya_burial1.png",
+            "caption": "reconstruction of Grave IV/4 from Prydnistryanske, Yampil rayon",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Yamna03.jpg/300px-Yamna03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Yamna03.jpg",
+            "caption": "Ornaments and items of adornment in bone and canine from the collection of th...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hermitage Museum",
+            "summary": "Museum in Saint Petersburg, Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/5174-3._St._Petersburg._Greater_Hermitage.jpg/250px-5174-3._St._Petersburg._Greater_Hermitage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermitage_Museum"
+        }
+    ],
+    "territory_geojson": null
+}

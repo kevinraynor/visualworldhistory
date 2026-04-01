@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2025,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:3cfc32cfb5889c79b91771a75e8a546afb3e3534786c4e053f5615a4577a4b87",
+    "summary": "The Crisis of the Third Century (235–284 AD) was the near-collapse of the Roman Empire — a 49-year period during which the empire simultaneously faced devastating military pressure on multiple frontiers, rapid political instability (approximately 50 emperors in 50 years, most dying violently), economic disruption (currency debasement, trade decline, urban shrinkage), and social upheaval that came close to destroying the unified Roman state. The crisis is sometimes called the 'Imperial Crisis' and was the most severe challenge Rome faced before its eventual dissolution.\n\nThe crisis began with the murder of Emperor Alexander Severus by his troops and proceeded through decades of civil war in which provincial military commanders seized the throne, often ruling for months before being killed by rivals. The empire fragmented: the [[event:2856|Gallic Empire]] in the west and the [[event:2855|Palmyrene Empire]] in the east both broke away for years as independent states. External pressure was relentless: the [[event:2825|Roman Sassanid Wars]] Sassanid Persians captured Emperor Valerian (260 AD) — the only Roman emperor ever taken prisoner in battle. [[event:2854|Aurelian Restores Empire]] (270–275 AD) briefly reunified the empire. The crisis fundamentally altered Roman society: the senatorial elite was displaced by a military meritocracy, Christianity grew rapidly as traditional religion failed, and the entire administrative and economic structure required the radical overhaul implemented by [[event:2026|Diocletian Reforms]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century",
+    "read_more_links": [
+        {
+            "title": "50 emperors in 50 years",
+            "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century#Imperial_instability"
+        },
+        {
+            "title": "Valerian captured by Persia",
+            "url": "https://en.wikipedia.org/wiki/Valerian_(emperor)"
+        },
+        {
+            "title": "Roman currency debasement",
+            "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century#Economy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gothic_raids_in_the_3rd_century.jpg/300px-Gothic_raids_in_the_3rd_century.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gothic_raids_in_the_3rd_century.jpg",
+            "caption": "Gothic raids in the 3rd century",
+            "attribution": "Wikimedia Commons, GFDL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bust_of_Decius_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%283%29_%28cropped%29.jpg/300px-Bust_of_Decius_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%283%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bust_of_Decius_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%283%29_%28cropped%29.jpg",
+            "caption": "Palazzo Nuovo - Musei Capitolini - Rome",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bust_of_Pupienus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%282%29_%28cropped%29.jpg/300px-Bust_of_Pupienus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%282%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bust_of_Pupienus_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016_%282%29_%28cropped%29.jpg",
+            "caption": "Palazzo Nuovo - Musei Capitolini - Rome",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Head_of_Diocletian%2C_Getty_Museum_%28cropped%29.jpg/300px-Head_of_Diocletian%2C_Getty_Museum_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Head_of_Diocletian%2C_Getty_Museum_%28cropped%29.jpg",
+            "caption": "Fragment of a Togate Statue of Diocletian; Unknown; about A.D. 295–300; Asia ...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Numerian",
+            "summary": "Roman emperor from 283 to 284",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/NumerianusAntoninianus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Numerian"
+        },
+        {
+            "name": "Carinus",
+            "summary": "Roman emperor from 283 to 285",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Montemartini_-_Carino_1030439.JPG/250px-Montemartini_-_Carino_1030439.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carinus"
+        },
+        {
+            "name": "Aurelian",
+            "summary": "Roman emperor (c. 214 – 275)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg/250px-5305_-_Brescia_-_S._Giulia_-_Ritratto_di_Claudio_II_il_Gotico_-_Foto_Giovanni_Dall%27Orto%2C_25_Giu_2011.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aurelian"
+        },
+        {
+            "name": "Diocletian",
+            "summary": "Roman emperor from 284 to 305",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Istanbul_-_Museo_archeol._-_Diocleziano_%28284-305_d.C.%29_-_Foto_G._Dall%27Orto_28-5-2006_%28cropped%29.jpg/250px-Istanbul_-_Museo_archeol._-_Diocleziano_%28284-305_d.C.%29_-_Foto_G._Dall%27Orto_28-5-2006_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diocletian"
+        },
+        {
+            "name": "Gallienus",
+            "summary": "Roman emperor from 253 to 268",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ritratto_di_gallieno_dalla_casa_delle_vestali.jpg/250px-Ritratto_di_gallieno_dalla_casa_delle_vestali.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gallienus"
+        },
+        {
+            "name": "Postumus",
+            "summary": "Gallic emperor from 260 to 269",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Golden_coin_of_Postumus.png/250px-Golden_coin_of_Postumus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Postumus"
+        }
+    ],
+    "territory_geojson": null
+}

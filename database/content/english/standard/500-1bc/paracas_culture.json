@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1183,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:67254fb3c6c5189895f18502256e43efaeca1741b5f3b85599dcd72ed7f554f3",
+    "summary": "The Paracas Culture (c. 400–100 BC) was a pre-Columbian Andean culture on the Paracas Peninsula of Peru, renowned for producing some of the finest textiles in human history — intricately woven and embroidered wool fabrics with vibrant geometric designs — and for the remarkable preservation of mummified human remains in the desert that have yielded evidence of sophisticated medical practices including cranial surgery.\n\nParacas is divided into two phases: Paracas Cavernas (burial shaft tombs) and Paracas Necropolis (large mummy bundles wrapped in textiles). The Necropolis phase textiles — some over 30 meters long — are remarkable for their embroidery, which depicts complex supernatural beings, trophy heads, and ritual scenes in up to 200 distinct colors derived from plant and mineral dyes. Many Paracas skulls show evidence of trepanation (cranial surgery) with signs of healing, indicating patients survived the procedure — evidence of advanced medical knowledge. The Paracas culture appears to have been ancestral to the [[event:1182|Nazca Culture Origins]], with continuity in artistic motifs and social organization. The textiles have been extensively looted; controversially, a collection of elongated Paracas skulls was removed to Berlin, where their legal status remains disputed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paracas_culture",
+    "read_more_links": [
+        {
+            "title": "Paracas textiles",
+            "url": "https://en.wikipedia.org/wiki/Paracas_textiles"
+        },
+        {
+            "title": "Paracas skulls controversy",
+            "url": "https://en.wikipedia.org/wiki/Paracas_skulls"
+        },
+        {
+            "title": "Andean civilizations",
+            "url": "https://en.wikipedia.org/wiki/Andean_civilizations"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Oculate_Being%2C_Paracas_culture._350_BCE%E2%80%9360_CE_Met_Museum.jpg/300px-Oculate_Being%2C_Paracas_culture._350_BCE%E2%80%9360_CE_Met_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Oculate_Being%2C_Paracas_culture._350_BCE%E2%80%9360_CE_Met_Museum.jpg",
+            "caption": "https://www.metmuseum.org/art/collection/search/310222\nThis bowl depicts the ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Border_Fragment_MET_h1_1994.35.120.jpg/300px-Border_Fragment_MET_h1_1994.35.120.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Border_Fragment_MET_h1_1994.35.120.jpg",
+            "caption": "Paracas; Border fragment; Textiles-Woven",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Turban%2C_Paracas%2C_300_B.C.E.-100_C.E%2C34.1594.jpg/300px-Turban%2C_Paracas%2C_300_B.C.E.-100_C.E%2C34.1594.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Turban%2C_Paracas%2C_300_B.C.E.-100_C.E%2C34.1594.jpg",
+            "caption": "Paracas. Turban, 300 B.C.E.-100 C.E. Cotton, camelid fiber, feathers, 336 x 2...",
+            "attribution": "Wikimedia Commons, No restrictions"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Paracas_Ceramic_Evolution.jpg/300px-Paracas_Ceramic_Evolution.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Paracas_Ceramic_Evolution.jpg",
+            "caption": "Timeline demonstrating the development of Paracas ceramics.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 97,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:e8705299a86adeb96a6120eb29fad43075687260ba86ef732b03a4e6ba0ae0a7",
+    "summary": "The Age of Exploration (c. 1400–1600 AD) was the period of sustained European maritime expansion that fundamentally transformed the world, establishing direct sea routes between Europe, sub-Saharan Africa, Asia, and the Americas and initiating the process of globalization that continues to shape the modern world. Driven by the desire to bypass Ottoman-controlled overland routes to Asian spices and luxury goods, by advances in navigation and ship design, and by the competitive ambitions of the Iberian monarchies, Portuguese and Spanish explorers systematically extended European knowledge of the world's oceans and coastlines across barely a century.\n\nPortugal led the early exploration under the systematic program of [[event:3055|Henry the Navigator]], progressing down the African coast, establishing trading posts in West and East Africa, and culminating in [[event:3056|Bartholomew Dias rounding the Cape of Good Hope]] (1488) and [[event:2290|Vasco da Gama reaching India]] (1498). Spain, unwilling to be left behind, funded [[event:2288|Columbus's westward voyage]] (1492) that reached the Caribbean, initiating the connection between Europe and the Americas. The [[event:2289|Treaty of Tordesillas]] (1494) divided the non-European world between Portugal and Spain, an extraordinary document that reveals the confidence with which European powers now assumed global dominion. Ferdinand Magellan's circumnavigation (1519–1522) demonstrated the true scale and connectivity of the world's oceans.\n\nThe consequences of the Age of Exploration were world-historical. For Europe, it opened access to the enormous wealth of Asian trade and American silver that funded the rise of Atlantic commercial powers. For the Americas, it initiated the catastrophic Columbian Exchange — the transfer of diseases, peoples, plants, and animals — that killed up to 90% of indigenous populations within a century and permanently altered the biological makeup of the globe. For Africa, it established the Atlantic slave trade that would forcibly displace millions over the following centuries. The Age of Exploration ended the isolated development of world civilizations and created for the first time a truly interconnected global system.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+    "read_more_links": [
+        {
+            "title": "Portuguese exploration African coast",
+            "url": "https://en.wikipedia.org/wiki/Portuguese_discoveries"
+        },
+        {
+            "title": "Columbian Exchange disease population collapse",
+            "url": "https://en.wikipedia.org/wiki/Columbian_exchange"
+        },
+        {
+            "title": "Spanish exploration New World conquest",
+            "url": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1598_map_of_the_Polar_Regions_by_Willem_Barentsz.jpg/300px-1598_map_of_the_Polar_Regions_by_Willem_Barentsz.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1598_map_of_the_Polar_Regions_by_Willem_Barentsz.jpg",
+            "caption": "1598 map of the Polar Regions by Willem Barentsz",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Quarta_et_Ultima_Affrice_Tabula_NLI.jpg/300px-Quarta_et_Ultima_Affrice_Tabula_NLI.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Quarta_et_Ultima_Affrice_Tabula_NLI.jpg",
+            "caption": "Map of Africe by Lienhart Hol, 15th century.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kolumbus-Santa-Maria.jpg/300px-Kolumbus-Santa-Maria.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kolumbus-Santa-Maria.jpg",
+            "caption": "Replica of the Spanish carrack Santa María. Dry plate negative. 8x10 inches.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cosmographia_Claudii_Ptolomaei_ante_1467_%287455943%29_%28cropped%29.jpg/300px-Cosmographia_Claudii_Ptolomaei_ante_1467_%287455943%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Cosmographia_Claudii_Ptolomaei_ante_1467_%287455943%29_%28cropped%29.jpg",
+            "caption": "Adres wydawniczy: [Florencja?, ante 1467]Współtwórcy: Germanus, NicolausOpis ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        },
+        {
+            "name": "Grande Hermine",
+            "summary": "Ship believed to have brought Jacques Cartier to Saint-Pierre in 1535",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Grande_Hermine.jpg/250px-Grande_Hermine.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Grande_Hermine"
+        },
+        {
+            "name": "Jacques Cartier",
+            "summary": "French maritime explorer of North America (1491–1557)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jacques_Cartier_1851-1852.jpg/250px-Jacques_Cartier_1851-1852.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cartier"
+        },
+        {
+            "name": "Vasco da Gama",
+            "summary": "Portuguese explorer (c. 1460s – 1524)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/250px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vasco_da_Gama"
+        },
+        {
+            "name": "Juan Sebastián Elcano",
+            "summary": "Spanish seafarer and circumnavigator",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Juan_Sebasti%C3%A1n_Elcano%2C_anonymous_19th_century_painting.jpg/250px-Juan_Sebasti%C3%A1n_Elcano%2C_anonymous_19th_century_painting.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Juan_Sebasti%C3%A1n_Elcano"
+        },
+        {
+            "name": "Prince Henry the Navigator",
+            "summary": "Portuguese prince and governor (1394–1460)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Henry_the_Navigator1.jpg/250px-Henry_the_Navigator1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator"
+        }
+    ],
+    "territory_geojson": null
+}

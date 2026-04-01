@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1403,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:8158d5f00bb087571290a6a338279fb7934f0f4a73e92a684e7b657ecde4f3f1",
+    "summary": "The Hassuna culture was an early Neolithic culture of northern Mesopotamia, named after the type site of Tell Hassuna near Mosul in modern Iraq and dating to approximately 6500 to 6000 BCE. It represents one of the earliest fully pottery-using farming cultures in northern Mesopotamia and is notable for its distinctive ceramic tradition, which includes both simple coarse wares and finer painted and incised vessels. Hassuna communities were settled farming villages subsisting on cultivated cereals and herded livestock, with evidence of [[event:24|early irrigation]] practices in some areas.\n\nArchaeological excavations at Tell Hassuna by the Iraq Museum in the 1940s revealed a sequence of occupation levels with mud-brick architecture, grain storage facilities, and an array of ceramic and stone tools. The pottery of the Hassuna phase is characterized by incised and painted geometric decorations, providing archaeologists with important chronological markers. The culture is considered one of the precursors of the more elaborate [[event:1404|Samarra culture]] that followed in the same region, and it represents an important stage in the chain of development leading toward the complex societies of later Mesopotamia.\n\nThe Hassuna culture overlaps geographically and chronologically with the early Samarra culture, and the two traditions share some stylistic features, suggesting contact and exchange between communities using these different ceramic traditions. The northern Mesopotamian zone where Hassuna communities lived received sufficient rainfall for dry farming in some areas, distinguishing it from the irrigation-dependent agriculture of the southern alluvial plains.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hassuna_culture",
+    "read_more_links": [
+        {
+            "title": "Mesopotamia Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mesopotamia"
+        },
+        {
+            "title": "Samarra Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Samarra_culture"
+        },
+        {
+            "title": "Neolithic Mesopotamia - Britannica",
+            "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%C5%9Eanl%C4%B1urfa_M%C3%BCzesi_Akar%C3%A7ay_Tepe.jpg/300px-%C5%9Eanl%C4%B1urfa_M%C3%BCzesi_Akar%C3%A7ay_Tepe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%C5%9Eanl%C4%B1urfa_M%C3%BCzesi_Akar%C3%A7ay_Tepe.jpg",
+            "caption": "Akarçay Tepe, 2nd century B.C.E. Millennium Pottery Neolithic Age Revival of ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%C5%9Eanl%C4%B1urfa_M%C3%BCzesi_Akar%C3%A7ay_Tepe_%282%29.jpg/300px-%C5%9Eanl%C4%B1urfa_M%C3%BCzesi_Akar%C3%A7ay_Tepe_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%C5%9Eanl%C4%B1urfa_M%C3%BCzesi_Akar%C3%A7ay_Tepe_%282%29.jpg",
+            "caption": "Akarçay Tepe, 2nd century B.C.E. Millennium Pottery Neolithic Age Revival of ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Poterie_d%C3%A9cor_incis%C3%A9_Hassuna_Louvre_28122017_5.jpg/300px-Poterie_d%C3%A9cor_incis%C3%A9_Hassuna_Louvre_28122017_5.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Poterie_d%C3%A9cor_incis%C3%A9_Hassuna_Louvre_28122017_5.jpg",
+            "caption": "Fragment of pottery with incised and painted decor. From Tell Hassuna, 6500 -...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Poterie_d%C3%A9cor_incis%C3%A9_Hassuna_Louvre_28122017_6.jpg/300px-Poterie_d%C3%A9cor_incis%C3%A9_Hassuna_Louvre_28122017_6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Poterie_d%C3%A9cor_incis%C3%A9_Hassuna_Louvre_28122017_6.jpg",
+            "caption": "Fragment of pottery with incised and painted decor. From Tell Hassuna, 6500 -...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Idlib Governorate",
+            "summary": "Governorate in Syria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Idlib%2C_Syria%2C_Dead_Cities%2C_Al-Bara_2.jpg/250px-Idlib%2C_Syria%2C_Dead_Cities%2C_Al-Bara_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Idlib_Governorate"
+        }
+    ],
+    "territory_geojson": null
+}

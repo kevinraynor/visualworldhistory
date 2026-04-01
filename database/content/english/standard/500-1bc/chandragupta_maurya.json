@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1097,
+    "parent_id": 74,
+    "granularity": "notable",
+    "content_hash": "sha256:e525919fc48f6e52c93bae5a8a765befdc612ccf1b38669e48bb3d9495b9cd3e",
+    "summary": "Chandragupta Maurya (r. 322–298 BC) was the founder of the [[event:74|Maurya Empire (India)]], who unified most of the Indian subcontinent for the first time in history after overthrowing the Nanda dynasty of Magadha with the assistance of his advisor Kautilya (Chanakya), the brilliant political theorist who authored the [[event:1108|Arthashastra of Kautilya]]. Chandragupta created one of antiquity's most sophisticated states and successfully resisted the [[event:1041|Seleucid Empire]] when Seleucus I attempted to recover Alexander's eastern conquests.\n\nChandragupta's origins are obscure and disputed — some traditions suggest a low caste background, others a connection to the Nanda dynasty. What is clear is that he raised an army, organized by Kautilya's strategic thinking, that overthrew the Nanda dynasty of Magadha (the dominant power of the Ganges plain) around 322 BC. He then consolidated control over northwestern India, filling the power vacuum left by [[event:75|Alexander the Great's Empire]]'s withdrawal. The [[event:1051|Seleucid-Maurya War]] ended with Chandragupta gaining the Indus Valley provinces in exchange for 500 war elephants.\n\nChandragupta reportedly abdicated in favor of his son Bindusara and became a Jain monk, according to Jain tradition eventually dying of voluntary fasting (santhara) at Sravanabelagola in Karnataka — one of the earliest examples of a world conqueror renouncing power for spiritual reasons, a pattern his grandson [[event:1098|Ashoka the Great]] would follow spiritually if not literally.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya",
+    "read_more_links": [
+        {
+            "title": "Kautilya",
+            "url": "https://en.wikipedia.org/wiki/Chanakya"
+        },
+        {
+            "title": "Maurya Empire",
+            "url": "https://en.wikipedia.org/wiki/Maurya_Empire"
+        },
+        {
+            "title": "Nanda Empire",
+            "url": "https://en.wikipedia.org/wiki/Nanda_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tijara_Jain_temple_painting_32.jpg/300px-Tijara_Jain_temple_painting_32.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Tijara_Jain_temple_painting_32.jpg",
+            "caption": "Tijara Jain temple paintings",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/300px-Lomas_Rishi_entrance.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Lomas_Rishi_entrance.jpg",
+            "caption": "Lomas Rishi entrance",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chandragupta_Maurya_stamp.jpg/300px-Chandragupta_Maurya_stamp.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Chandragupta_Maurya_stamp.jpg",
+            "caption": "Chandragupta Maurya Stamp issued by Indian Government in 2001.",
+            "attribution": "Wikimedia Commons, GODL-India"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India_2007-01-29.jpg/300px-Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India_2007-01-29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India_2007-01-29.jpg",
+            "caption": "Asokan pillar at Vaishali, Bihar, India. Build by Emperor Asoka in about 250 ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bindusara",
+            "summary": "Mauryan emperor from 297 to 273 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bindusara"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Ashoka",
+            "summary": "Mauryan emperor from 269 to 232 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/250px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "name": "Onesicritus",
+            "summary": "Ancient Greek historical writer and philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Thalestris%2C_Queen_of_the_Amazons%2C_visits_Alexander_%281696%29.jpg/250px-Thalestris%2C_Queen_of_the_Amazons%2C_visits_Alexander_%281696%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Onesicritus"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Arrian",
+            "summary": "2nd century Greek historian, official and philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Arrian7.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arrian"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2185,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fceea8ab24293bc89c3e57f423db70d4297c2acefcb92a0ea7c7f41eda8109e8",
+    "summary": "The Mississippian Culture (c. 800–1600 AD) was the most complex pre-Columbian civilization of North America east of the Rockies — a network of chiefdom societies across the Mississippi River valley and eastern woodlands characterized by platform mound construction, maize agriculture, long-distance trade, social stratification, and a shared ceremonial religion (the Southeastern Ceremonial Complex, also called the Southern Death Cult) that connected communities from the Great Lakes to the Gulf of Mexico. Its most spectacular manifestation was Cahokia, near modern St. Louis, which at its peak (c. 1050–1150 AD) housed approximately 10,000–20,000 people — the largest pre-Columbian city north of Mexico.\n\nCahokia's Monk's Mound — a flat-topped earthen platform 30 meters high and covering 6.5 hectares, larger at the base than the Great Pyramid of Giza — was the center of a planned city with a central plaza, hundreds of mounds, wooden palisade walls, and residential neighborhoods organized on a grid. The Mississippian culture's sudden emergence around 800–1000 AD appears linked to the adoption of maize agriculture, which enabled the food surpluses needed to support urban populations and specialist craftspeople. The Mississippian chiefdom system involved hereditary elites, tribute collection, craft specialization, and elaborate mortuary rituals in which rulers were buried with sacrificed retainers and vast quantities of prestige goods — copper plates, marine shell artifacts, and chipped stone weapons traded across enormous distances. Most Mississippian centers were abandoned before European contact, probably due to warfare, drought, and disease.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mississippian_culture",
+    "read_more_links": [
+        {
+            "title": "Cahokia largest city North America",
+            "url": "https://en.wikipedia.org/wiki/Cahokia"
+        },
+        {
+            "title": "Monk's Mound earthen pyramid",
+            "url": "https://en.wikipedia.org/wiki/Monks_Mound"
+        },
+        {
+            "title": "Southeastern Ceremonial Complex religion",
+            "url": "https://en.wikipedia.org/wiki/Southeastern_Ceremonial_Complex"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Native_American_homestead_-_Wisconsin_Historical_Museum_-_DSC02854.JPG/300px-Native_American_homestead_-_Wisconsin_Historical_Museum_-_DSC02854.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Native_American_homestead_-_Wisconsin_Historical_Museum_-_DSC02854.JPG",
+            "caption": "Replica of house built over 1000 years ago and discovered at Aztalan on the C...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mississippian_cultures_HRoe_2010.jpg/300px-Mississippian_cultures_HRoe_2010.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mississippian_cultures_HRoe_2010.jpg",
+            "caption": "A map showing the various Mississippian cultures, including the Caddoan Missi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DeSoto_Map_HRoe_2008.jpg/300px-DeSoto_Map_HRoe_2008.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/DeSoto_Map_HRoe_2008.jpg",
+            "caption": "A map showing the proposed route of the de Soto Expedition, based on the 1997...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Etowah_statues_HRoe_2007.jpg/300px-Etowah_statues_HRoe_2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Etowah_statues_HRoe_2007.jpg",
+            "caption": "Stone effigies found at the en:Etowah Indian Mounds Site.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hernando de Soto",
+            "summary": "Spanish explorer and conquistador (c.1479–1542)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/De_Soto_by_Telfer_%26_Sartain.jpg/250px-De_Soto_by_Telfer_%26_Sartain.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hernando_de_Soto"
+        },
+        {
+            "name": "Cross County, Arkansas",
+            "summary": "County in Arkansas, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cross_County_Courthouse_in_Wynne%2C_Arkansas.jpg/250px-Cross_County_Courthouse_in_Wynne%2C_Arkansas.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cross_County%2C_Arkansas"
+        },
+        {
+            "name": "Earthworks (archaeology)",
+            "summary": "General term to describe artificial changes in land level in history and pre-history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De_Offa_Dyke.JPG/250px-De_Offa_Dyke.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Earthworks_%28archaeology%29"
+        },
+        {
+            "name": "Mound 72",
+            "summary": "Ridgetop Mississippian mound in Madison County, Illinois",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cahokia_Mound_72.jpg/250px-Cahokia_Mound_72.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mound_72"
+        }
+    ],
+    "territory_geojson": null
+}

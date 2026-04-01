@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1732,
+    "parent_id": 1626,
+    "granularity": "detailed",
+    "content_hash": "sha256:85622f628db74b1bd75001b0811f2c30f6af0611b864af073e8c0833d2ed4003",
+    "summary": "The Stele of the Vultures, carved around 2500–2460 BC, is one of the earliest surviving historical monuments commemorating a specific military victory and is one of the most important artefacts from the Early Dynastic Period of Mesopotamia. It was created to celebrate the victory of the city-state of Lagash, under King Eannatum, over its rival city-state Umma in a long-standing dispute over agricultural territory. The stele now stands in the Louvre and provides crucial evidence for early Sumerian warfare, religion, and political ideology.\n\nThe stele's imagery is divided between a divine scene — showing the god Ningirsu holding a net full of captured enemies, with vultures (hence the monument's name) picking at the bodies — and a historical scene depicting Eannatum leading his soldiers in a tight phalanx formation, the earliest known depiction of this military tactic. The phalanx, in which soldiers advance in a tightly packed formation with overlapping shields and projecting spears, represents a significant innovation in ancient warfare and suggests a level of military discipline and training that implies a professional or at least regularly practised fighting force.\n\nThe Stele of the Vultures illustrates the intimate connection between religion and warfare in early Sumerian society. Victory in battle was understood as divine judgement in favour of the winning city's patron god, and military campaigns were presented as acts of cosmic justice rather than mere political aggression. The monument thus served as both a historical record and a theological statement, embedding the city-state's military history within a narrative of divine support and order.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stele_of_the_Vultures",
+    "read_more_links": [
+        {
+            "title": "Eannatum",
+            "url": "https://en.wikipedia.org/wiki/Eannatum"
+        },
+        {
+            "title": "Lagash",
+            "url": "https://en.wikipedia.org/wiki/Lagash"
+        },
+        {
+            "title": "Phalanx – Military Formation",
+            "url": "https://en.wikipedia.org/wiki/Phalanx"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg/300px-Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg",
+            "caption": "Stele of the Vultures in the Louvre Museum (enhanced composite)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Stele_of_the_vultures_%28war%29.jpg/300px-Stele_of_the_vultures_%28war%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Stele_of_the_vultures_%28war%29.jpg",
+            "caption": "Stele of the vultures (war)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Stele_of_Vultures_historical_side.jpg/300px-Stele_of_Vultures_historical_side.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Stele_of_Vultures_historical_side.jpg",
+            "caption": "Reconstitution of the victory stele of the king Eannatum of Lagash over Umma,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stele_of_Vultures_mythological_side.jpg/300px-Stele_of_Vultures_mythological_side.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Stele_of_Vultures_mythological_side.jpg",
+            "caption": "Reconstitution of the victory stele of the king Eannatum of Lagash over Umma,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Eannatum",
+            "summary": "King of Lagash",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG/250px-P1130735_Louvre_st%C3%A8le_des_Vautours_rwk.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eannatum"
+        },
+        {
+            "name": "Ush, king of Umma",
+            "summary": "King of Umma",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg/250px-Imprisoned_man_of_Umma_on_the_Stele_of_the_Vultures.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ush%2C_king_of_Umma"
+        },
+        {
+            "name": "Akurgal",
+            "summary": "King of Lagash",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Akurgal_as_son_of_Ur-Nanshe%2C_on_the_votive_relief_of_Ur-Nanshe.jpg/250px-Akurgal_as_son_of_Ur-Nanshe%2C_on_the_votive_relief_of_Ur-Nanshe.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Akurgal"
+        },
+        {
+            "name": "Ur-Nanshe",
+            "summary": "King of Lagash",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Ur-Nanshe.jpg/250px-Ur-Nanshe.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Nanshe"
+        }
+    ],
+    "territory_geojson": null
+}

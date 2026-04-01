@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1058,
+    "parent_id": 1052,
+    "granularity": "detailed",
+    "content_hash": "sha256:4fc9a4079c69d4277900de95594be35a8a5b198854a877dec902d34087b04442",
+    "summary": "The Third Punic War (149–146 BC) was the final and most one-sided of the [[event:1052|Punic Wars]], essentially a Roman siege and destruction of the city of Carthage that ended with the complete obliteration of the Carthaginian state. Unlike the first two wars, the Third was driven less by military necessity than by Roman political will — specifically the decades-long campaign of the Roman senator Cato the Elder, who reportedly ended every speech in the Senate with 'Carthage must be destroyed' (Carthago delenda est).\n\nCarthage, despite the restrictions of the [[event:1054|Second Punic War]] peace treaty, had recovered its commercial prosperity and grown populous again, alarming Rome and its North African ally Numidia. When Carthage went to war with the Numidian king Masinissa in violation of the treaty, Rome declared war. The initial Roman demands were progressive and escalating — ultimately demanding that Carthage be entirely abandoned and its population relocated inland — terms that Carthage refused when it realized they amounted to the city's death.\n\nThe siege lasted three years, with fierce Carthaginian resistance including production of new weapons within the city walls. The consul Scipio Aemilianus (grandson by adoption of Scipio Africanus) broke through the defenses; fighting continued street-by-street until 50,000 survivors surrendered. The city was razed and its ruins plowed. The story that Rome salted the earth to prevent regrowth is a post-medieval legend with no ancient attestation, but the [[event:1059|Destruction of Carthage]] was thorough and deliberate.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Third_Punic_War",
+    "read_more_links": [
+        {
+            "title": "Scipio Aemilianus",
+            "url": "https://en.wikipedia.org/wiki/Scipio_Aemilianus"
+        },
+        {
+            "title": "Cato the Elder",
+            "url": "https://en.wikipedia.org/wiki/Cato_the_Elder"
+        },
+        {
+            "title": "Carthago delenda est",
+            "url": "https://en.wikipedia.org/wiki/Carthago_delenda_est"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hannibal_Slodtz_Louvre_MR2093.png/300px-Hannibal_Slodtz_Louvre_MR2093.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hannibal_Slodtz_Louvre_MR2093.png",
+            "caption": "Hannibal Barca counting the rings of the Roman knights killed at the Battle o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Punic_Quarter%2C_Carthage.jpg/300px-The_Punic_Quarter%2C_Carthage.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Punic_Quarter%2C_Carthage.jpg",
+            "caption": "The Punic Quarter, Carthage, Tunisia.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Catapulta_by_Edward_Poynter.jpg/300px-Catapulta_by_Edward_Poynter.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Catapulta_by_Edward_Poynter.jpg",
+            "caption": "In 1868 Poynter produced another of his most celebrated Roman spectaculars, T...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/City_of_Carthage_circa_149_BC.png/300px-City_of_Carthage_circa_149_BC.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/City_of_Carthage_circa_149_BC.png",
+            "caption": "A map of the key locations and features in the city of Carthage around 149 BC...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Scipio Aemilianus",
+            "summary": "Roman politician and general (185–129 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg/250px-Bronze_statue_of_a_Hellenistic_prince%2C_1st_half_of_2nd_century_BC%2C_found_on_the_Quirinal_in_Rome%2C_Palazzo_Massimo_alle_Terme%2C_Rome_%2831479801364%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scipio_Aemilianus"
+        },
+        {
+            "name": "Masinissa",
+            "summary": "First King of Numidia from 202 BC to 148 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MASSINISSA_-_MAA_23_-_87000716.jpg/250px-MASSINISSA_-_MAA_23_-_87000716.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Masinissa"
+        },
+        {
+            "name": "Blockade runner",
+            "summary": "Merchant ship used to evade a naval blockade",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SS_Banshee.jpg/250px-SS_Banshee.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Blockade_runner"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        }
+    ],
+    "territory_geojson": null
+}

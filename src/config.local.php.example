@@ -1,0 +1,12 @@
+<?php
+// Copy this file to config.local.php and fill in your credentials.
+// config.local.php is gitignored and should NOT be committed.
+
+return [
+    'db' => [
+        'host' => 'localhost',
+        'name' => 'your_db_name',
+        'user' => 'your_db_user',
+        'pass' => 'your_db_password',
+    ],
+];

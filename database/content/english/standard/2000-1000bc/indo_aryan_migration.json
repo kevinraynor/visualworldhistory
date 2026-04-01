@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1849,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ca2a98a9fafd265cccd375b0f020c5d4bb92185f017f76b85c6ea3f85c90c466",
+    "summary": "The Indo-Aryan migration refers to the movement of peoples speaking early Indo-Aryan languages — a branch of the Indo-European language family — into the Indian subcontinent, generally dated to roughly 1500–1200 BC. This migration is supported by convergent evidence from historical linguistics, archaeology, and increasingly from ancient DNA studies. Linguists have long recognized that the Sanskrit of the Rigveda and related texts shares unmistakable grammatical and lexical correspondences with ancient Iranian, Greek, Latin, and other Indo-European languages, pointing to a common ancestral language spoken in the Eurasian steppe.\n\nGenetic studies published in the 2010s and 2020s identified a significant influx of ancestry related to the Yamnaya and later steppe cultures of the Pontic-Caspian steppe region into South Asia, arriving in pulses that correlate temporally with the proposed migration dates and with the decline of the [[event:1848|Indus Valley Civilization]]. This genetic signal is found most strongly in ancient and modern populations associated with historically upper-caste and North Indian communities, consistent with the geographic and social distribution one would expect from a migration bringing Indo-Aryan language and culture.\n\nThe Indo-Aryan migrants brought with them the religious and cultural traditions that gave rise to the [[event:1847|Rigveda]], the domesticated horse — an animal largely absent from the Indus archaeological record — and the spoke-wheeled chariot. Their interaction with the pre-existing populations of South Asia, including the descendants of the Indus Valley Civilization and earlier hunter-gatherers, produced the complex synthesis that became early Vedic and eventually classical Hindu civilization. The question of continuities versus ruptures between Indus Valley and Vedic culture continues to be actively researched and debated.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations",
+    "read_more_links": [
+        {
+            "title": "Aryan Migration Theory - Britannica",
+            "url": "https://www.britannica.com/topic/Aryan"
+        },
+        {
+            "title": "Vedic Period",
+            "url": "https://en.wikipedia.org/wiki/Vedic_period"
+        },
+        {
+            "title": "Steppe Ancestry in South Asia",
+            "url": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations#Genetic_evidence"
+        },
+        {
+            "title": "Indo-European Languages",
+            "url": "https://en.wikipedia.org/wiki/Indo-European_languages"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Indo-European_migrations.jpg/300px-Indo-European_migrations.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Indo-European_migrations.jpg",
+            "caption": "Indo-European expansions, based on Anthony (2007), Nordqvist & Heyd (2020), N...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Yuezhi_migrations.jpg/300px-Yuezhi_migrations.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Yuezhi_migrations.jpg",
+            "caption": "Yuezhi migrations",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Aryans_settling_in_India.jpg/300px-Aryans_settling_in_India.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Aryans_settling_in_India.jpg",
+            "caption": "Hutchinson's story of the nations, containing the Egyptians, the Chinese, Ind...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/R1a_origins_%28Underhill_2010%29_and_R1a1a_oldest_expansion_and_highest_frequency_%282014%29.jpg/300px-R1a_origins_%28Underhill_2010%29_and_R1a1a_oldest_expansion_and_highest_frequency_%282014%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/R1a_origins_%28Underhill_2010%29_and_R1a1a_oldest_expansion_and_highest_frequency_%282014%29.jpg",
+            "caption": "R1a origins (Underhill 2010; R1a1a origins (Pamjav 2012); possible migration ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mitanni",
+            "summary": "Ancient Hurrian-speaking state in northern Syria and southeast Anatolia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Carte_du_Mitanni-en.svg/250px-Carte_du_Mitanni-en.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mitanni"
+        },
+        {
+            "name": "Friedrich Schlegel",
+            "summary": "German poet, critic, philosopher, and Indologist (1772–1829)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Franz_Gareis_Portrait_Friedrich_Schlegel.jpg/250px-Franz_Gareis_Portrait_Friedrich_Schlegel.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Friedrich_Schlegel"
+        }
+    ],
+    "territory_geojson": null
+}

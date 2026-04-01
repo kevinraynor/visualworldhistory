@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2358,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7b95694f5c336c9167c481643d93ee40838b4f5d2188a38cab86885eb045e233",
+    "summary": "The British East India Company (EIC, founded 1600) was the chartered trading corporation that served as the instrument of British expansion in Asia, transforming over two centuries from a commercial trading enterprise into a territorial empire governing hundreds of millions of people — the most extraordinary example in history of a private company acquiring sovereign power. Founded by London merchants seeking a share of the lucrative Asian spice and textile trade, the Company competed with the Dutch VOC in Southeast Asia (largely unsuccessfully) before focusing on India, establishing trading posts (factories) at Surat, Madras (1640), Bombay (1668), and Calcutta (1690). The Company's transformation into a territorial power began with the [[event:2333|Battle of Plassey]] (1757), after which it took over Bengal's revenues and became effectively the ruler of India's richest province.\n\nThe Company's governance of India — through the concept of 'dual government' (Company collects revenues, Mughal emperor retains nominal sovereignty) developed after Plassey — was driven by the systematic extraction of Bengal's agricultural wealth, funded the conquest of further territories, and produced the fiscal-military state that gradually absorbed the entire subcontinent. The Company's army — primarily composed of Indian sepoys trained in European military methods — was the instrument of conquest. The [[event:2446|Mughal Decline]] and the fragmentation of Indian political power after Aurangzeb created the power vacuum into which the Company expanded. Parliamentary acts (Pitt's India Act, 1784; Charter Acts) progressively imposed government oversight on Company governance, and the Indian Rebellion of 1857 (the 'Sepoy Mutiny') led Parliament to dissolve the Company entirely in 1858, transferring its territories directly to the British Crown and creating the British Raj.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/East_India_Company",
+    "read_more_links": [
+        {
+            "title": "East India Company Bengal territorial expansion India",
+            "url": "https://en.wikipedia.org/wiki/Company_rule_in_India"
+        },
+        {
+            "title": "EIC sepoy army conquest Indian subcontinent",
+            "url": "https://en.wikipedia.org/wiki/East_India_Company#Military"
+        },
+        {
+            "title": "Indian Rebellion 1857 dissolution Company Crown rule",
+            "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/India%2C_by_British_Information_Services%2C_1944_restored_version.jpg/300px-India%2C_by_British_Information_Services%2C_1944_restored_version.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/India%2C_by_British_Information_Services%2C_1944_restored_version.jpg",
+            "caption": "India, by British Information Services, 1944. Scale 1:8,000,000. 76 x 51 cm.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Portrait_of_East_India_Company_official.jpg/300px-Portrait_of_East_India_Company_official.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Portrait_of_East_India_Company_official.jpg",
+            "caption": "The pictures made by Indian artists for the British in India are called Compa...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jameslancaster.jpg/300px-Jameslancaster.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Jameslancaster.jpg",
+            "caption": "Portrait of Sir James Lancaster",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1_Pice_copper_coin_of_the_Bombay_Presidency.jpg/300px-1_Pice_copper_coin_of_the_Bombay_Presidency.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/1_Pice_copper_coin_of_the_Bombay_Presidency.jpg",
+            "caption": "1 Pice (1/64 Rupee) copper coin of the Bombay Presidency with the United East...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Public company",
+            "summary": "Company that offers its securities for sale to the general public",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/250px-New_York_Stock_Exchange_Facade_2015.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Public_company"
+        },
+        {
+            "name": "Thomas Smythe",
+            "summary": "English merchant and colonial administrator",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sir_Thomas_Smythe.jpg/250px-Sir_Thomas_Smythe.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Smythe"
+        },
+        {
+            "name": "Francis Drake's circumnavigation",
+            "summary": "1577–1580 trip by the English explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Francis_Drake%27s_journey_1577-1580%2C_by_unknown_c1590.jpg/250px-Francis_Drake%27s_journey_1577-1580%2C_by_unknown_c1590.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Drake%27s_circumnavigation"
+        },
+        {
+            "name": "Babullah of Ternate",
+            "summary": "Sultan of Ternate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Babullah_1579_by_De_Bry.jpg/250px-Babullah_1579_by_De_Bry.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Babullah_of_Ternate"
+        },
+        {
+            "name": "Elizabeth I",
+            "summary": "Queen of England and Ireland from 1558 to 1603",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/250px-Darnley_stage_3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_I"
+        },
+        {
+            "name": "Walter Raleigh",
+            "summary": "English statesman and explorer (1552–1618)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg/250px-Sir_Walter_Ralegh_by_%27H%27_monogrammist.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Raleigh"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2549,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3ccf8c0f792564d6fd9476f28f787422bdd732ca94ccabb54c01527ef97319d9",
+    "summary": "The opening of the Suez Canal on 17 November 1869 was one of the defining engineering and commercial events of the nineteenth century, linking the Mediterranean and Red Seas through a 193-kilometer channel across the Egyptian Isthmus of Suez and fundamentally transforming global shipping routes and the geopolitics of the eastern Mediterranean.\n\nThe canal was conceived and promoted by the French diplomat and entrepreneur Ferdinand de Lesseps, who secured a concession from the Khedive of Egypt and organized the Suez Canal Company to finance and build it. Construction began in 1859 and employed forced labor on a large scale in its early stages, a practice that drew international criticism. The project took a decade to complete at an enormous financial cost that helped contribute to Egypt's eventual financial crisis and British intervention.\n\nThe canal's commercial impact was immediate and revolutionary. Sailing from Europe to India around the Cape of Good Hope had taken months; the Suez route reduced transit time dramatically, from around six months to about a month. The canal strongly favored steam-powered ships (which could navigate it reliably) over sailing vessels and accelerated the transition to steam in oceanic commerce. Trade volumes between Europe and Asia grew substantially, and the canal became one of the world's busiest waterways almost immediately after opening.\n\nThe political consequences were equally significant. Britain, which had initially opposed the canal fearing it would benefit France, reversed course and purchased the Egyptian government's stake in the Suez Canal Company in 1875 when the heavily indebted Khedive was forced to sell. The resulting British financial presence led to deeper political involvement, culminating in the [[event:2611|British occupation of Egypt in 1882]] and effective control of the canal that lasted until 1956. The Suez Canal became the jugular of the British Empire — the vital link to India and the Far East — whose security shaped British strategic calculations for generations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suez_Canal",
+    "read_more_links": [
+        {
+            "title": "Suez Canal – Britannica",
+            "url": "https://www.britannica.com/topic/Suez-Canal"
+        },
+        {
+            "title": "Ferdinand de Lesseps – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps"
+        },
+        {
+            "title": "History of the Suez Canal – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_Suez_Canal"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Admiralty_Chart_No_233_The_Suez_Canal_-_The_Soundings_in_the_Canal_were_taken_by_Captain_Nares_and_the_Officers_of_H.M.S._Newport_in_February_1870_and_April_1871_RMG_F0136%2C_Published_1870_%28cropped%29.tiff/300px-Admiralty_Chart_No_233_The_Suez_Canal_-_The_Soundings_in_the_Canal_were_taken_by_Captain_Nares_and_the_Officers_of_H.M.S._Newport_in_February_1870_and_April_1871_RMG_F0136%2C_Published_1870_%28cropped%29.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Admiralty_Chart_No_233_The_Suez_Canal_-_The_Soundings_in_the_Canal_were_taken_by_Captain_Nares_and_the_Officers_of_H.M.S._Newport_in_February_1870_and_April_1871_RMG_F0136%2C_Published_1870_%28cropped%29.tiff",
+            "caption": "The Suez Canal.......The Soundings in the Canal were taken by Captain Nares a...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_Ship_in_the_Suez_Canal.tif/300px-A_Ship_in_the_Suez_Canal.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/A_Ship_in_the_Suez_Canal.tif",
+            "caption": "A ship sailing down the Suez Canal, 1955.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg/300px-Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg",
+            "caption": "Aerial view of Suez Canal / Gulf of Suez / City of Suez, Egypt. Africa is at ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ferdinand de Lesseps",
+            "summary": "French diplomat (1805–1894)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ferdinand_de_Lesseps_by_Nadar.jpg/250px-Ferdinand_de_Lesseps_by_Nadar.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps"
+        },
+        {
+            "name": "Gamal Abdel Nasser",
+            "summary": "President of Egypt from 1956 to 1970",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962.jpg/250px-Stevan_Kragujevic%2C_Gamal_Abdel_Naser_u_Beogradu%2C_1962.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser"
+        },
+        {
+            "name": "Senusret II",
+            "summary": "Pharaoh of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Upper_part_of_portrait_statue_of_pharaoh_Sesostris_II_with_nemes_and_ritual_beard_01_%28cropped%29.jpg/250px-Upper_part_of_portrait_statue_of_pharaoh_Sesostris_II_with_nemes_and_ritual_beard_01_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Senusret_II"
+        },
+        {
+            "name": "Sesostris",
+            "summary": "Legendary pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/The_great_Sesostris_%28Rameses_II%29_in_the_Battle_of_Khadesh.jpg/250px-The_great_Sesostris_%28Rameses_II%29_in_the_Battle_of_Khadesh.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sesostris"
+        },
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Necho II",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Necho-KnellingStatue_BrooklynMuseum.png/250px-Necho-KnellingStatue_BrooklynMuseum.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Necho_II"
+        }
+    ],
+    "territory_geojson": null
+}

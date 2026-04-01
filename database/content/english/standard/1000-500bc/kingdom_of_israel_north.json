@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1918,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c887593dadb15996dfb529be70188de63dc06c36a2f8029361c375aa1ec8c73c",
+    "summary": "The Kingdom of Israel (c. 930–722 BC) was the northern Israelite state that emerged from the division of the united monarchy after Solomon's death, comprising ten of the twelve Israelite tribes and the territory of Samaria. With capitals at Shechem, Tirzah, and eventually Samaria (built by Omri, c. 880 BC), Israel was the larger and initially more prosperous of the two successor kingdoms, with better agricultural land and control of important trade routes.\n\nIsrael's history was marked by political instability — multiple dynasties rose and fell through coups and assassinations — and the religious conflict described in Kings between the official cult (which the biblical authors condemn as idolatrous) and the Yahwist prophets like Elijah and Elisha who opposed it. The Omride dynasty (Omri and his son Ahab) was politically sophisticated, creating alliances through the marriage of Ahab to the Phoenician princess Jezebel, but was condemned by the biblical sources for introducing Baal worship. Israel's relative prosperity made it a target for Assyrian expansion: [[event:3082|Assyrian Conquest Israel]] under Tiglath-Pileser III began tributary relationships, and [[event:1900|Sargon II]] finally destroyed Samaria in 721 BC, deporting approximately 27,000 of its leading citizens and resettling the region with people from other parts of the empire — the origin of the Samaritans.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)",
+    "read_more_links": [
+        {
+            "title": "Omride dynasty archaeology",
+            "url": "https://en.wikipedia.org/wiki/Omrides"
+        },
+        {
+            "title": "Fall of Samaria 721 BC",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Samaria"
+        },
+        {
+            "title": "Origins of the Samaritans",
+            "url": "https://en.wikipedia.org/wiki/Samaritans#Origins"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg/300px-William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg",
+            "caption": "The Kingdoms of Judah and Israel. By W. Hughes Printed from stone by Standidg...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Arthur_Szyk_%281894-1951%29._Visual_History_of_Nations%2C_Israel_%281948%29%2C_New_Canaan%2C_CT.jpg/300px-Arthur_Szyk_%281894-1951%29._Visual_History_of_Nations%2C_Israel_%281948%29%2C_New_Canaan%2C_CT.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Arthur_Szyk_%281894-1951%29._Visual_History_of_Nations%2C_Israel_%281948%29%2C_New_Canaan%2C_CT.jpg",
+            "caption": "Four thousand years of Jewish history come to life in Arthur Szyk's Visual Hi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Achav_palace_2.jpg/300px-Achav_palace_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Achav_palace_2.jpg",
+            "caption": "מבט על ארמון אחאב לאורך בחלק העליון",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Black_Obelisk%2C_Jewish_delegation_to_Shalmaneser_III.jpg/300px-Black_Obelisk%2C_Jewish_delegation_to_Shalmaneser_III.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Black_Obelisk%2C_Jewish_delegation_to_Shalmaneser_III.jpg",
+            "caption": "Black Obelisk, Israelite delegation to Shalmaneser III",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hoshea",
+            "summary": "19th and last King of Northern Israel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hoshea_King.png/250px-Hoshea_King.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hoshea"
+        },
+        {
+            "name": "Davidic line",
+            "summary": "Lineage of the Israelite king David",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/250px-Star_of_David.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Davidic_line"
+        },
+        {
+            "name": "Sargon II",
+            "summary": "King of the Neo-Assyrian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sargon_II%2C_Iraq_Museum_in_Baghdad.jpg/250px-Sargon_II%2C_Iraq_Museum_in_Baghdad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sargon_II"
+        },
+        {
+            "name": "Shoshenq I",
+            "summary": "Pharaoh of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Shoshenq_I_by_Rosellini.jpg/250px-Shoshenq_I_by_Rosellini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shoshenq_I"
+        },
+        {
+            "name": "Shalmaneser III",
+            "summary": "King of Assyria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Shalmaneser_III_%28relief_detail%29.jpg/250px-Shalmaneser_III_%28relief_detail%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shalmaneser_III"
+        },
+        {
+            "name": "Mesha",
+            "summary": "9th-century BC king of Moab",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mesha_Stele_%28511142469%29.jpg/250px-Mesha_Stele_%28511142469%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mesha"
+        }
+    ],
+    "territory_geojson": null
+}

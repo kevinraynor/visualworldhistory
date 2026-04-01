@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1468,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:32a5ca829964756c1c5e4c9166a0dcfe22664b13c60b409cb2bb54cb49135eda",
+    "summary": "Hacilar is a Neolithic and Chalcolithic site located near the city of Burdur in southwestern Turkey, excavated by James Mellaart in the late 1950s and early 1960s. Occupied in two major phases — a Neolithic phase from approximately 7000 to 6000 BCE and a later Chalcolithic phase around 5700 to 5000 BCE — the site provides important evidence for the sequence of cultural development in southwestern Anatolia during this crucial period of early farming community development.\n\nThe earlier Neolithic levels at Hacilar predate the use of pottery and reflect a Pre-Pottery Neolithic community with mud-brick architecture and a mixed economy of cultivated cereals and herded livestock. The later Chalcolithic phase is notable for producing highly distinctive painted pottery of remarkable artistic quality, featuring stylized female figurines and geometric designs in red on cream backgrounds. These ceramics are among the most aesthetically accomplished of the period and have attracted considerable attention for what they reveal about the artistic traditions of southwestern Anatolian communities.\n\nHacilar is often discussed alongside [[event:11|Çatalhöyük]], which it somewhat overlaps chronologically and with which it shares certain cultural features. Together, the two sites demonstrate the cultural richness and sophistication of Neolithic Anatolia, which produced one of the densest and most culturally complex clusters of early farming communities anywhere in the prehistoric world. Hacilar's later Chalcolithic phase represents the continuation of this Anatolian Neolithic tradition into the age of emerging metallurgy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hacilar",
+    "read_more_links": [
+        {
+            "title": "Çatalhöyük - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk"
+        },
+        {
+            "title": "Prehistoric Anatolia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Anatolia"
+        },
+        {
+            "title": "Chalcolithic Anatolia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frauenstatuetten_Hacilar.jpg/300px-Frauenstatuetten_Hacilar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Frauenstatuetten_Hacilar.jpg",
+            "caption": "Frauenstatuetten aus Hacilar, Südost-Anatolien, Türkei\n\nCollection: Museum fü...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MNAO-OllaHacilar.jpg/300px-MNAO-OllaHacilar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/MNAO-OllaHacilar.jpg",
+            "caption": "Globular terracotta painted in red. Haçilar (Southwestern Anatolia). Late neo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Archeologico_firenze%2C_statuetta_idolo_in_terracotta%2C_5250-5000_a.c.%2C_da_hacilar_%28turchia%29_02.JPG/300px-Archeologico_firenze%2C_statuetta_idolo_in_terracotta%2C_5250-5000_a.c.%2C_da_hacilar_%28turchia%29_02.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Archeologico_firenze%2C_statuetta_idolo_in_terracotta%2C_5250-5000_a.c.%2C_da_hacilar_%28turchia%29_02.JPG",
+            "caption": "Archeologico firenze, statuetta idolo in terracotta, 5250-5000 a.c., da hacil...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2660,
+    "parent_id": 112,
+    "granularity": "major",
+    "content_hash": "sha256:0bfbf0b0acd8fb6c3e479c1541af101c3ca731b16eeecf72413412356a95f546",
+    "summary": "The Holocaust was the systematic, state-sponsored persecution and genocide of six million Jews by the Nazi German regime and its collaborators between 1941 and 1945. The process of extermination began with legal discrimination and escalated through forced emigration, mass shootings by mobile killing units known as Einsatzgruppen, and eventually the construction of dedicated extermination camps equipped with gas chambers at sites including Auschwitz-Birkenau, Treblinka, Sobibor, and Belzec. The implementation of the \"Final Solution\" was formalized at the Wannsee Conference in January 1942, where senior Nazi officials coordinated the logistics of continental-scale murder.\n\nThe victims were drawn from across German-occupied Europe, rounded up in ghettos and transported by rail to killing centers under the guise of \"resettlement to the East.\" By war's end, approximately two-thirds of the European Jewish population had been murdered. Alongside Jews, the Nazi regime also targeted Roma, people with disabilities, Soviet prisoners of war, political dissidents, homosexuals, and Jehovah's Witnesses, resulting in millions of additional victims.\n\nThe Holocaust was not an inevitable outcome of centuries of European antisemitism but rather a deliberate policy choice carried out by a modern industrial state. Its perpetrators included not only SS and police forces but ordinary German soldiers, civil servants, railway workers, and local collaborators across occupied territories. The bureaucratic machinery of genocide required the participation of tens of thousands of individuals.\n\nSurvivors and liberating Allied forces documented conditions in the camps through testimony, photographs, and film. The scale of atrocity shocked the postwar world and contributed directly to the 1948 [[event:3346|Universal Declaration of Human Rights]] and the 1948 Genocide Convention, both designed to prevent future mass crimes. The [[event:2712|Nuremberg Trials]] prosecuted senior Nazi leaders for crimes against humanity, establishing precedents in international law.\n\nThe Holocaust fundamentally altered Jewish identity and world politics. The shared trauma of genocide strengthened the Zionist cause and accelerated international support for the [[event:2672|creation of the State of Israel]] in 1948. Memorialization became central to postwar Jewish life, with Yad Vashem in Jerusalem and hundreds of memorials across Europe preserving the memory of victims.\n\nHistorically, the Holocaust stands as a defining event of the twentieth century, demonstrating how modern states can mobilize bureaucratic and technological resources in the service of mass murder. Its study remains essential to understanding genocide, totalitarianism, racism, and the fragility of civil rights in societies under political stress. The legacy continues to shape education, law, and international human rights norms worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Holocaust",
+    "read_more_links": [
+        {
+            "title": "The Holocaust – United States Holocaust Memorial Museum",
+            "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
+        },
+        {
+            "title": "Holocaust – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Holocaust"
+        },
+        {
+            "title": "Yad Vashem – The World Holocaust Remembrance Center",
+            "url": "https://www.yadvashem.org/holocaust.html"
+        },
+        {
+            "title": "Wannsee Conference – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wannsee_Conference"
+        },
+        {
+            "title": "Auschwitz-Birkenau – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg/300px-Memorial_to_the_Murdered_Jews_of_Europeabove.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Memorial_to_the_Murdered_Jews_of_Europeabove.jpg",
+            "caption": "View from Ministergärten towards Memorial to the Murdered Jews of Europe (own...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/300px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg",
+            "caption": "\"Selection\" of Hungarian Jews on the ramp at Auschwitz-II-Birkenau in German-...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Synagoge_Pegnitz_Nuernberg_1900.jpg/300px-Synagoge_Pegnitz_Nuernberg_1900.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Synagoge_Pegnitz_Nuernberg_1900.jpg",
+            "caption": "Nürnberg mit Pegnitz und Synagoge um 1900",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Wehrmacht",
+            "summary": "Unified armed forces of Nazi Germany from 1935 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Balkenkreuz.svg/250px-Balkenkreuz.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wehrmacht"
+        },
+        {
+            "name": "Adolf Hitler's rise to power",
+            "summary": "Events leading to Hitler's dictatorship of Germany",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hitler_as_young_man.jpg/250px-Hitler_as_young_man.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adolf_Hitler%27s_rise_to_power"
+        },
+        {
+            "name": "Adolf Hitler",
+            "summary": "Dictator of Germany from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/250px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+            "name": "Heinrich Himmler",
+            "summary": "German Nazi leader of the SS (1900–1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bundesarchiv_Bild_183-S72707%2C_Heinrich_Himmler_%28cropped%29%282%29%28b%29.jpg/250px-Bundesarchiv_Bild_183-S72707%2C_Heinrich_Himmler_%28cropped%29%282%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Himmler"
+        }
+    ],
+    "territory_geojson": null
+}

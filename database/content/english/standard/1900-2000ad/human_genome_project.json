@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2739,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:42de718a5fb993769f136a714eaf0534fb5e07c8bddeead41349ee5f4b6f8afb",
+    "summary": "The Human Genome Project (HGP) was an international scientific research project that began in 1990, coordinated by the US National Institutes of Health and the Department of Energy, with contributions from research centers in the United Kingdom, France, Germany, Japan, and China. Its goal was to determine the complete sequence of the approximately three billion base pairs in human DNA and to identify all human genes. The project was declared complete in April 2003, with 92 percent of the human genome sequenced to high accuracy.\n\nBuilding on the earlier discovery of the structure of DNA by Watson and Crick in 1953 and decades of subsequent molecular biology research, the HGP represented a massive international scientific collaboration on an unprecedented scale. It generated enormous quantities of genetic data and developed new sequencing technologies that dramatically reduced the cost and time required to sequence DNA.\n\nThe announcement of a working draft in June 2000 was made jointly by the public consortium and the private company Celera Genomics, whose competitive effort — led by Craig Venter — accelerated the public project's timeline. The mapping of the human genome has profound implications for medicine, enabling the identification of genetic risk factors for disease, the development of targeted therapies, and a fundamentally new understanding of human biology, evolution, and the genetic basis of inherited conditions.\n\nThe HGP also raised important ethical questions about genetic privacy, discrimination based on genetic information, and the commodification of biological data, prompting legislative protections in several countries. It established the foundation for the subsequent field of genomics and the rapidly expanding capabilities of personalized medicine.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+    "read_more_links": [
+        {
+            "title": "Human Genome Project - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Human-Genome-Project"
+        },
+        {
+            "title": "National Human Genome Research Institute",
+            "url": "https://www.genome.gov/human-genome-project"
+        },
+        {
+            "title": "DNA Structure Discovery - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Human_karyotype_with_bands_and_sub-bands.png/300px-Human_karyotype_with_bands_and_sub-bands.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Human_karyotype_with_bands_and_sub-bands.png",
+            "caption": "Schematic and relatively language-neutral karyogram of a human. Even at low m...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wellcome.jpg/300px-Wellcome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wellcome.jpg",
+            "caption": "Wellcome",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Evidence_as_to_Man%27s_Place_in_Naturep2.jpg/300px-Evidence_as_to_Man%27s_Place_in_Naturep2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Evidence_as_to_Man%27s_Place_in_Naturep2.jpg",
+            "caption": "SKELETONS OF THE Gibbon.  Orang.  Chimpanzee.  Gorilla.  Man.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wellcome_genome_bookcase.png/300px-Wellcome_genome_bookcase.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Wellcome_genome_bookcase.png",
+            "caption": "The first printout of the human genome to be presented as a series of books, ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Walter Gilbert",
+            "summary": "American biochemist, physicist and Nobel laureate (born 1932)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Walter_Gilbert_HD2008_portrait.JPG/250px-Walter_Gilbert_HD2008_portrait.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Gilbert"
+        },
+        {
+            "name": "Charles DeLisi",
+            "summary": "American geneticist (born 1941)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Charles_DeLisi.jpg/250px-Charles_DeLisi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_DeLisi"
+        },
+        {
+            "name": "Pete Domenici",
+            "summary": "American politician (1932–2017)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pete_Domenici_official_portrait_2.jpg/250px-Pete_Domenici_official_portrait_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pete_Domenici"
+        },
+        {
+            "name": "William Flynn Martin",
+            "summary": "American energy economist and diplomat (born 1950)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/William_Flynn_Martin_Photo.jpg/250px-William_Flynn_Martin_Photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Flynn_Martin"
+        },
+        {
+            "name": "John S. Herrington",
+            "summary": "American politician (born 1939)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/John_S._Herrington%2C_Assistant_Secretary_of_the_Navy%2C_Manpower_and_Reserve_Affairs.jpg/250px-John_S._Herrington%2C_Assistant_Secretary_of_the_Navy%2C_Manpower_and_Reserve_Affairs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_S._Herrington"
+        },
+        {
+            "name": "Aristides Patrinos",
+            "summary": "American scientist and engineer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/302852main_patrinos-hi.jpeg/250px-302852main_patrinos-hi.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristides_Patrinos"
+        }
+    ],
+    "territory_geojson": null
+}

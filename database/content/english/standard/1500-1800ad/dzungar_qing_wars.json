@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3298,
+    "parent_id": 2337,
+    "granularity": "detailed",
+    "content_hash": "sha256:589d2fb57445415cc23cf74f4bd9790878aa3382536aa738ba7e31096149fdcf",
+    "summary": "The Dzungar-Qing Wars (1687–1757 AD) were the prolonged military struggle between the [[event:2337|Qing dynasty]] and the [[event:3297|Dzungar Khanate]] for control of Inner Asia — a conflict lasting 70 years that required three Qing emperors' sustained attention and resources and ultimately ended in the Qing's total victory and the elimination of the Dzungar people. Emperor Kangxi conducted three personal military expeditions against Dzungar Khan Galdan in the 1690s, eventually defeating and killing him at the Battle of Jao Modo (1696); Galdan's death did not end the Dzungar challenge — successive Dzungar rulers continued to pressure the Qing periphery, invade Tibet, and destabilize Mongolia. The Yongzheng Emperor's campaigns in the 1720s-1730s achieved costly stalemates.\n\nThe decisive campaign came under the [[event:2463|Qianlong Emperor]], who took advantage of Dzungar succession conflicts to invade Dzungaria with multiple army columns in 1755. Initially the Qing installed a friendly Dzungar ruler, but renewed revolt in 1756-1757 led Qianlong to order the systematic genocide of the Dzungar population — an order executed with appalling thoroughness by Qing armies. The wars are significant beyond their military history: they determined that Central Asia's nomadic steppe zone would be absorbed into Chinese sovereignty rather than remaining independent, they required the Qing to develop permanent administrative and military infrastructure in the far northwest, and they demonstrated that the Qing could wage and sustain large-scale warfare far from its population centers — military capacities that earlier Chinese dynasties had not possessed to the same degree.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dzungar%E2%80%93Qing_Wars",
+    "read_more_links": [
+        {
+            "title": "Battle Jao Modo 1696 Kangxi Galdan Dzungar defeat",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_J%C3%A0o_M%C3%B3do"
+        },
+        {
+            "title": "Dzungar Tibet invasion 1717 Qing response Tibet campaigns",
+            "url": "https://en.wikipedia.org/wiki/Dzungar_invasion_of_Tibet"
+        },
+        {
+            "title": "Qing Inner Asia control sovereignty nomad absorption",
+            "url": "https://en.wikipedia.org/wiki/Dzungar%E2%80%93Qing_Wars#Significance"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Emperor_at_the_Kherlen_river.jpg/300px-The_Emperor_at_the_Kherlen_river.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Emperor_at_the_Kherlen_river.jpg",
+            "caption": "A fragment of a scroll painting depicting the Emperor's encampment on the Khe...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Battle_of_Oroi-Jalatu.jpg/300px-Battle_of_Oroi-Jalatu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Battle_of_Oroi-Jalatu.jpg",
+            "caption": "The Battle of Oroi-Jalatu,1756. Chinese general Zhao Hui attacked the Zunghar...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Battle_of_Khurungui.jpg/300px-Battle_of_Khurungui.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Battle_of_Khurungui.jpg",
+            "caption": "Battle of Khurungui, 1758. General Zhao Hui ambushes and defeats the Zungaria...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/The_Victory_of_Khorgos1.jpg/300px-The_Victory_of_Khorgos1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/The_Victory_of_Khorgos1.jpg",
+            "caption": "Battle of Khorgos, Prince Cäbdan-jab defeats the forces of the Zungarian Prin...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Amursana",
+            "summary": "Dzungar Leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Amursana.jpg/250px-Amursana.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amursana"
+        },
+        {
+            "name": "Kangxi Emperor",
+            "summary": "Emperor of China from 1661 to 1722",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F.jpg/250px-%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kangxi_Emperor"
+        },
+        {
+            "name": "Yongzheng Emperor",
+            "summary": "Emperor of China from 1722 to 1735",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E9%9B%8D%E6%AD%A3%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.jpg/250px-%E9%9B%8D%E6%AD%A3%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yongzheng_Emperor"
+        },
+        {
+            "name": "Nian Gengyao",
+            "summary": "Qing military commander (1679–1726)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/%E5%B9%B4%E7%BE%B9%E5%B0%A7.jpg/250px-%E5%B9%B4%E7%BE%B9%E5%B0%A7.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nian_Gengyao"
+        },
+        {
+            "name": "Qianlong Emperor",
+            "summary": "Emperor of China from 1735 to 1796",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/250px-%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qianlong_Emperor"
+        },
+        {
+            "name": "Agui",
+            "summary": "Manchu noble general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Agui.jpg/250px-Agui.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Agui"
+        }
+    ],
+    "territory_geojson": null
+}

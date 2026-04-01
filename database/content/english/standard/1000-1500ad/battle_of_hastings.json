@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2234,
+    "parent_id": 2233,
+    "granularity": "notable",
+    "content_hash": "sha256:c60cbae70e39b29c6985e3a7486a3146316e3cd29cb703679e329b50d6c94d01",
+    "summary": "The Battle of Hastings (October 14, 1066 AD) was the decisive engagement of the [[event:2233|Norman Conquest of England]], in which William Duke of Normandy defeated and killed the English King Harold Godwinson, opening England to Norman rule. Harold had just days earlier marched his exhausted army south after defeating the Norwegian King Harald Hardrada at the Battle of Stamford Bridge in Yorkshire — one of the remarkable coincidences of history that saw England face two separate invasion threats in the same autumn. Harold's decision to march south immediately rather than rest his army has been debated by historians ever since.\n\nThe battle was fought on a ridge near Hastings for most of the day, with Harold's shield-wall of English houscarls and fyrd holding firm against Norman cavalry and archery assaults. The tide turned — according to tradition — when Harold was killed by an arrow through the eye (depicted in the Bayeux Tapestry, though the details are disputed), causing the English formation to break. Norman pursuit turned the English retreat into a rout. The battle's outcome was far from inevitable: Harold's shield-wall was a formidable defensive formation that had repelled multiple Norman cavalry charges, and had he maintained discipline through the afternoon the result might have been different. The Norman victory reshaped England's ruling class, language, architecture, and ecclesiastical organization within a generation. The Bayeux Tapestry — an embroidered narrative of the conquest roughly 70 meters long, created within decades of the battle — remains one of the most remarkable historical documents of the medieval world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+    "read_more_links": [
+        {
+            "title": "Battle Hastings Harold Godwinson death",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Hastings#Death_of_Harold"
+        },
+        {
+            "title": "Bayeux Tapestry Norman Conquest narrative",
+            "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry"
+        },
+        {
+            "title": "Harold Stamford Bridge Hastings campaign",
+            "url": "https://en.wikipedia.org/wiki/Harold_Godwinson#1066"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hastingsbattlefieldandbattleabbeyruinsbeta.jpg/300px-Hastingsbattlefieldandbattleabbeyruinsbeta.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hastingsbattlefieldandbattleabbeyruinsbeta.jpg",
+            "caption": "Battle Abbey viewed from across the battlefield of the Battle of Hastings",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg/300px-Bayeux_Tapestry_scene57_Harold_death.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg",
+            "caption": "Bayeux Tapestry - Scene 57: the death of King Harold at the Battle of Hasting...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bayeux_Tapestry_scene51_Battle_of_Hastings_Norman_knights_and_archers.jpg/300px-Bayeux_Tapestry_scene51_Battle_of_Hastings_Norman_knights_and_archers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bayeux_Tapestry_scene51_Battle_of_Hastings_Norman_knights_and_archers.jpg",
+            "caption": "Bayeux Tapestry - Scene 51 (extract)- The Battle of Hastings: Norman knights ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pevensey_Castle_aerial_alt.jpg/300px-Pevensey_Castle_aerial_alt.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pevensey_Castle_aerial_alt.jpg",
+            "caption": "Aerial photograph of Pevensey castle and surroundings, England. The church at...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Harold Godwinson",
+            "summary": "King of England in 1066",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bayeux_tapestry_stitches_detail..jpg/250px-Bayeux_tapestry_stitches_detail..jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harold_Godwinson"
+        },
+        {
+            "name": "William the Conqueror",
+            "summary": "King of England from 1066 to 1087",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/250px-William_the_Conqueror_%28TFA%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+        },
+        {
+            "name": "Eustace II, Count of Boulogne",
+            "summary": "Count of Boulogne from 1049 to 1087",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bayeux_Tapestry_scene55_Eustach.jpg/250px-Bayeux_Tapestry_scene55_Eustach.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eustace_II%2C_Count_of_Boulogne"
+        },
+        {
+            "name": "Edward the Confessor",
+            "summary": "King of England from 1042 to 1066",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bayeux_Tapestry_scene1_EDWARD_REX.jpg/250px-Bayeux_Tapestry_scene1_EDWARD_REX.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+        },
+        {
+            "name": "Harald Hardrada",
+            "summary": "King of Norway from 1046 to 1066",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Harold-III-Coin.png/250px-Harold-III-Coin.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harald_Hardrada"
+        },
+        {
+            "name": "Charles the Simple",
+            "summary": "King of West Francia from 898 to 922",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Denier_sous_Charles_III_le_Simple.jpg/250px-Denier_sous_Charles_III_le_Simple.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_the_Simple"
+        }
+    ],
+    "territory_geojson": null
+}

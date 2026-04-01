@@ -1,0 +1,67 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2978,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f48f78ecb7c98901e56ba7fb3f61d030b70dadcfe5d86fe86eb09c695ff5c287",
+    "summary": "The Battle of Ain Jalut (September 3, 1260 AD) was one of the most historically significant military engagements of the medieval world, as the [[event:2275|Mamluk Sultanate]] of Egypt decisively defeated a [[event:2306|Mongol Ilkhanate]] force at a spring (Ain Jalut, 'Spring of Goliath') in the Jezreel Valley of modern Israel — the first major defeat of a Mongol army in open battle and the event that halted the Mongol westward advance into Africa and the Islamic heartland. Coming just two years after the [[event:2228|destruction of Baghdad]], the battle's outcome was of existential importance to the Islamic world.\n\nThe Mamluks under Sultan Qutuz and General Baybars used a feigned retreat — ironically a classic Mongol tactical device — to lure the Mongol vanguard into a trap, then attacked with their main force. The Mongol army, weakened by the simultaneous death of the Great Khan Möngke (causing Hulagu Khan to withdraw most of his forces from the Levant) and numbering perhaps only 10,000–20,000 at Ain Jalut, was destroyed; its commander Kitbuqa was captured and executed. The battle was followed by Mamluk campaigns that systematically expelled remaining Mongol forces from Syria. Ain Jalut's significance has been debated — some historians argue the Mongols were already too overextended and weakened to sustain further conquest regardless — but it definitively demonstrated that Mongol armies could be defeated, and the Mamluk victory established Egypt as the dominant power of the Arab world. General Baybars subsequently became Sultan and oversaw the systematic destruction of the remaining [[event:92|Crusader]] strongholds.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut",
+    "read_more_links": [
+        {
+            "title": "Baybars Mamluk victory Ain Jalut",
+            "url": "https://en.wikipedia.org/wiki/Baybars"
+        },
+        {
+            "title": "Ain Jalut halting Mongol expansion debate",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut#Significance"
+        },
+        {
+            "title": "Mamluk feigned retreat tactical deception",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut#Battle"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Qutuz",
+            "summary": "Sultan of Egypt from 1259 to 1260",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg/250px-%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qutuz"
+        },
+        {
+            "name": "Baybars",
+            "summary": "Sultan of Egypt and Syria from 1260 to 1277",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Baybars%2C_Medallion_IV%2C_Baptist%C3%A8re_de_Saint-Louis.jpg/250px-Baybars%2C_Medallion_IV%2C_Baptist%C3%A8re_de_Saint-Louis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baybars"
+        },
+        {
+            "name": "Light cavalry",
+            "summary": "Type of highly mobile soldier on horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Krell_Battle_of_Orsha_%28detail%29_31.jpg/250px-Krell_Battle_of_Orsha_%28detail%29_31.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Light_cavalry"
+        },
+        {
+            "name": "Hulegu Khan",
+            "summary": "Western Asian Mongol ruler (c. 1217–1265)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hulagu_Khan.jpg/250px-Hulagu_Khan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hulegu_Khan"
+        },
+        {
+            "name": "Envoy (title)",
+            "summary": "Diplomatic function, head of a delegation",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Yvon_Delbos_and_Walter_Stucki_French_Foreign_Office_Paris.jpg/250px-Yvon_Delbos_and_Walter_Stucki_French_Foreign_Office_Paris.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Envoy_%28title%29"
+        },
+        {
+            "name": "Möngke Khan",
+            "summary": "Khan of the Mongol Empire from 1251 to 1259",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/M%C3%B6ngke_Khan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/M%C3%B6ngke_Khan"
+        }
+    ],
+    "territory_geojson": null
+}

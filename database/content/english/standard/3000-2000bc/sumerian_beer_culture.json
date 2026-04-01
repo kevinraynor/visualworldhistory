@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1781,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c27444586840cd101ebeaee26a561148b880c5c9163221123545e764ee437517",
+    "summary": "Beer production and consumption in ancient Mesopotamia, well-attested from approximately 2800–2400 BC, was one of the most central features of Sumerian economic and social life. Cuneiform administrative tablets from this period record the large-scale production and distribution of beer by temple and palace institutions, where it was provided as rations to workers and officials. The Hymn to Ninkasi — a Sumerian poem in praise of the goddess of beer dating to approximately 1800 BC but preserving older traditions — doubles as a detailed recipe for brewing, providing historians with remarkable insight into ancient beer-making technology.\n\nSumerian beer was brewed from barley or emmer wheat and varied widely in type and strength, with different varieties designated for different social contexts: workers' rations, divine offerings, royal banquets, and tavern sale. The scale of production was substantial; administrative records from sites like Drehem document hundreds of litres of beer distributed daily to institutional workers. Women played a central role in both household and commercial beer production, and tavern-keeping by women was common in Mesopotamian cities, as reflected in the law codes of the period.\n\nThe social and ritual importance of beer in Sumerian civilisation is reflected in the fact that it appears as a divine gift, a component of religious offerings, and a symbol of civilised life as opposed to the wild existence of animals. In the [[event:1728|Epic of Gilgamesh]], when the wild man Enkidu is being civilised by a temple prostitute, one of the markers of his transition to civilised humanity is learning to drink beer. Beer thus occupied in ancient Mesopotamia something of the cultural role that wine would play in later Mediterranean civilisations — a marker of social membership and a product of the agricultural way of life.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beer#Mesopotamia",
+    "read_more_links": [
+        {
+            "title": "Beer in Mesopotamia and Egypt",
+            "url": "https://en.wikipedia.org/wiki/Beer_in_Mesopotamia_and_Egypt"
+        },
+        {
+            "title": "Hymn to Ninkasi",
+            "url": "https://en.wikipedia.org/wiki/Hymn_to_Ninkasi"
+        },
+        {
+            "title": "Ninkasi – Sumerian Goddess of Beer",
+            "url": "https://en.wikipedia.org/wiki/Ninkasi"
+        },
+        {
+            "title": "Sumerian economy",
+            "url": "https://en.wikipedia.org/wiki/Sumer#Economy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg/300px-Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg",
+            "caption": "A waitress from the Hacker-Pschorr brewery in a dirndl carries beer mugs in f...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dreher_S%C3%B6rgy%C3%A1rak_Zrt._%2811%29.jpg/300px-Dreher_S%C3%B6rgy%C3%A1rak_Zrt._%2811%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Dreher_S%C3%B6rgy%C3%A1rak_Zrt._%2811%29.jpg",
+            "caption": "Dreher Sörgyárak Zrt. on the 22nd of February, 2019.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg/300px-Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Humulus_Lupulus_Hopfendolde-mit-hopfengarten.jpg",
+            "caption": "Hop (Humulus Lupulus): Umbel, Location: Hallertau",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fran%C3%A7ois_Louis_Jaques_Paysans_fribourgeois_au_bistrot.jpg/300px-Fran%C3%A7ois_Louis_Jaques_Paysans_fribourgeois_au_bistrot.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Fran%C3%A7ois_Louis_Jaques_Paysans_fribourgeois_au_bistrot.jpg",
+            "caption": "Paysans fribourgeois au bistrot",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gilgamesh",
+            "summary": "Sumerian ruler and protagonist of the Epic of Gilgamesh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chaos_Monster_and_Sun_God.png/250px-Chaos_Monster_and_Sun_God.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gilgamesh"
+        },
+        {
+            "name": "Alewife (trade)",
+            "summary": "Historical term for female ale trader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mother_Louse%2C_Alewife_Wellcome_L0000658.jpg/250px-Mother_Louse%2C_Alewife_Wellcome_L0000658.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alewife_%28trade%29"
+        }
+    ],
+    "territory_geojson": null
+}

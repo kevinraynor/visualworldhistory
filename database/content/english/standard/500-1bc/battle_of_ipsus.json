@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3562,
+    "parent_id": 1039,
+    "granularity": "detailed",
+    "content_hash": "sha256:010c64f8177b8090fed3a6515ca37fce8f3faa255d3d8e265514a57a0adefdf6",
+    "summary": "The Battle of Ipsus (301 BC) was the decisive engagement of the Wars of the Diadochi (Successors of Alexander), fought in Phrygia (central Anatolia) between a coalition of Lysimachus, Seleucus, and Cassander against Antigonus I Monophthalmus ('the One-Eyed') and his son Demetrius Poliorcetes. Antigonus, then the most powerful of the successors and the last serious contender to reunify Alexander's empire, was killed in the battle, and the dream of a single successor state died with him.\n\nThe battle was settled by Seleucus's war elephants (480 of them, acquired from Chandragupta Maurya in exchange for territory in eastern provinces) — when Demetrius's victorious cavalry pursued too far, Seleucus's elephant screen prevented their return, leaving Antigonus's infantry exposed. Antigonus died fighting despite being 80 years old. The peace settlement of Ipsus definitively carved Alexander's empire into the major successor kingdoms: Lysimachus received Thrace and Anatolia, Seleucus took Syria and the east, and Ptolemy kept Egypt (though absent from the battle). The [[event:1039|Wars of the Diadochi]] thus concluded their most important phase, establishing the geopolitical framework of the Hellenistic world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Ipsus",
+    "read_more_links": [
+        {
+            "title": "Antigonus I Monophthalmus",
+            "url": "https://en.wikipedia.org/wiki/Antigonus_I_Monophthalmus"
+        },
+        {
+            "title": "Diadochi successor wars",
+            "url": "https://en.wikipedia.org/wiki/Wars_of_the_Diadochi"
+        },
+        {
+            "title": "Seleucus elephant deal Chandragupta",
+            "url": "https://en.wikipedia.org/wiki/Seleucid%E2%80%93Mauryan_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/West_Asia_non_political_with_water_system.jpg/300px-West_Asia_non_political_with_water_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/West_Asia_non_political_with_water_system.jpg",
+            "caption": "West Asia non political with water system",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Seleuco_I_Nicatore.JPG/300px-Seleuco_I_Nicatore.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Seleuco_I_Nicatore.JPG",
+            "caption": "Seleuco I Nicatore",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 it"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lisymachus%2C_marble_-_Ephesus_Museum.JPG/300px-Lisymachus%2C_marble_-_Ephesus_Museum.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Lisymachus%2C_marble_-_Ephesus_Museum.JPG",
+            "caption": "Bust of Lysimachus",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Diadochen1.png/300px-Diadochen1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Diadochen1.png",
+            "caption": "States of the Diadochi, c. 300 BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pyrrhus of Epirus",
+            "summary": "King of Epirus from 297 to 272 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pyrrhus_MAN_Napoli_Inv6150_n03.jpg/250px-Pyrrhus_MAN_Napoli_Inv6150_n03.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pyrrhus_of_Epirus"
+        },
+        {
+            "name": "Antiochus I Soter",
+            "summary": "Ruler of the Seleucid Empire from 281 to 261 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Antiochos_I_Soter_tetradrachm_obverse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antiochus_I_Soter"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Cassander",
+            "summary": "King of Macedonia, Antipatrid dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kassander316BC.jpg/250px-Kassander316BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassander"
+        },
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        }
+    ],
+    "territory_geojson": null
+}

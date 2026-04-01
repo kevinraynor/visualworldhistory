@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3465,
+    "parent_id": 114,
+    "granularity": "detailed",
+    "content_hash": "sha256:663503e538c4ea5afd7a63ffd6dca9c3e9bb10b552e84229707491b677d86d75",
+    "summary": "Ghana became the first sub-Saharan African country to achieve independence from European colonial rule when the former Gold Coast became the Republic of Ghana on March 6, 1957. The independence movement was led by Kwame Nkrumah, who had organized mass political action through his Convention People's Party from the late 1940s. Nkrumah had been imprisoned by the British, but his party's success in elections while he was jailed forced the colonial authorities to release him and negotiate the transition to independence.\n\nGhana's independence was a landmark event in African history and the broader process of [[event:114|decolonization]]. Nkrumah articulated a pan-African vision in which Ghana's liberation was meaningful only in the context of the liberation of all Africa. His rhetoric and the model of peaceful mass political mobilization influenced independence movements across the continent. However, Nkrumah's government grew increasingly authoritarian, and he was overthrown in a military coup in 1966 while visiting Hanoi. Ghana's post-independence history of military coups and political instability reflected broader challenges facing newly independent African states in building stable democratic institutions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghana#Independence",
+    "read_more_links": [
+        {
+            "title": "Kwame Nkrumah",
+            "url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah"
+        },
+        {
+            "title": "Convention People's Party",
+            "url": "https://en.wikipedia.org/wiki/Convention_People%27s_Party_(Ghana)"
+        },
+        {
+            "title": "History of Ghana",
+            "url": "https://en.wikipedia.org/wiki/History_of_Ghana"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Elmina_Castle_-_Ghana.jpg/300px-Elmina_Castle_-_Ghana.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Elmina_Castle_-_Ghana.jpg",
+            "caption": "Elmina Castle also known as St. George of the Mine Castle in Ghana.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Predominant_tribe_in_the_area_-_%28Ghana%29_LOC_88692692.jpg/300px-Predominant_tribe_in_the_area_-_%28Ghana%29_LOC_88692692.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Predominant_tribe_in_the_area_-_%28Ghana%29_LOC_88692692.jpg",
+            "caption": "Available also through the Library of Congress Web site as a raster image.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Jollof_rice_by_Chef_Phizzle._Native_Delight._04.jpg/300px-Jollof_rice_by_Chef_Phizzle._Native_Delight._04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jollof_rice_by_Chef_Phizzle._Native_Delight._04.jpg",
+            "caption": "This is an image with the theme \"Farm to Plate\" from:",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ghana_Regions_map.png/300px-Ghana_Regions_map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Ghana_Regions_map.png",
+            "caption": "Map of Ghana for use on Wikivoyage, English version",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Mahama",
+            "summary": "President of Ghana (2012–2017; since 2025)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/John_Mahama_in_Yokohama_%28cropped%29.jpg/250px-John_Mahama_in_Yokohama_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Mahama"
+        },
+        {
+            "name": "Jane Naana Opoku-Agyemang",
+            "summary": "Vice President of Ghana since 2025 (born 1951)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jane_Naana_Opoku-Agyemang.jpg/250px-Jane_Naana_Opoku-Agyemang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jane_Naana_Opoku-Agyemang"
+        },
+        {
+            "name": "Chief Justice of Ghana",
+            "summary": "Highest-ranking judge of the Supreme Court of Ghana",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Coat_of_arms_of_Ghana.svg/250px-Coat_of_arms_of_Ghana.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chief_Justice_of_Ghana"
+        },
+        {
+            "name": "Kwame Nkrumah",
+            "summary": "Ghanaian politician (1909–1972)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg/250px-Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah"
+        }
+    ],
+    "territory_geojson": null
+}

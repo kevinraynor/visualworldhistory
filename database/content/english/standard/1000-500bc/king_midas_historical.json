@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1952,
+    "parent_id": 1951,
+    "granularity": "detailed",
+    "content_hash": "sha256:c0366427be6d9bff1c239dd5d82e138df93a780faffba24c8e7c8920bed0556f",
+    "summary": "King Midas (r. c. 738–696 BC) was a historical Phrygian king, attested in both Phrygian and Assyrian records (as 'Mita of Mushki'), whose legendary fame in Greek tradition as the king with the 'golden touch' bears little relation to his historical context. The real Midas was a powerful ruler who sent gifts to the sanctuary at Delphi (the first foreigner to do so, according to Herodotus) and corresponded diplomatically with the Assyrian king Sargon II. He died, according to tradition, by suicide after the Cimmerian invasion destroyed Gordion around 696 BC.\n\nThe archaeological tomb at Gordion (Tumulus MM, the 'Midas Mound') yielded one of the richest Iron Age burials ever found in Anatolia — a wooden chamber containing an elderly male with elaborate feasting equipment, textiles, and furniture demonstrating extraordinary craftsmanship, though no gold (the legend of the golden touch is entirely mythological). Modern DNA analysis tentatively identified the skeletal remains as consistent with a 60-65 year old man. The golden touch myth, as told by Ovid, served as a moral tale about the dangers of greed. The unrelated story of Midas and the donkey's ears (punishment for preferring Pan's music to Apollo's) also became proverbially famous.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Midas",
+    "read_more_links": [
+        {
+            "title": "Gordion Tumulus MM burial",
+            "url": "https://en.wikipedia.org/wiki/Gordion#Midas_Mound"
+        },
+        {
+            "title": "Midas golden touch myth Ovid",
+            "url": "https://en.wikipedia.org/wiki/Midas#The_golden_touch"
+        },
+        {
+            "title": "Cimmerian invasion Phrygia",
+            "url": "https://en.wikipedia.org/wiki/Cimmerians#Destruction_of_Phrygia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Apollo_and_Daphne_%28Bernini%29.jpg/300px-Apollo_and_Daphne_%28Bernini%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Apollo_and_Daphne_%28Bernini%29.jpg",
+            "caption": "Apollo and Daphne (Bernini)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Abraham_Janssens_-_The_judgement_of_Midas.jpg/300px-Abraham_Janssens_-_The_judgement_of_Midas.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Abraham_Janssens_-_The_judgement_of_Midas.jpg",
+            "caption": "Competition between Pan and Apollo ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gordion69.JPG/300px-Gordion69.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gordion69.JPG",
+            "caption": "Gordion Museum, at Ankara, in Turkey",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Turkey-1428_%282216632594%29.jpg/300px-Turkey-1428_%282216632594%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Turkey-1428_%282216632594%29.jpg",
+            "caption": "Tomb of King Midas \nMonumental tombs are the tombs of the nobles and leading ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Arrian",
+            "summary": "2nd century Greek historian, official and philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Arrian7.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arrian"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

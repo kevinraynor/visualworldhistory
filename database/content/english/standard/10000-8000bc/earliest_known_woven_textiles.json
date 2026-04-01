@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1331,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:475a41eb349cf95e44830ed6362dbf4b62452f818774175ff9372cc34feaa5e4",
+    "summary": "Woven textiles represent a significant technological achievement in human prehistory, enabling the production of durable, flexible fabrics for clothing, bags, mats, and cordage. The earliest direct evidence of woven textiles is fragmentary and often preserved only in unusual conditions — carbonized impressions in clay, imprints on plaster surfaces, or preserved organic material in waterlogged or arid contexts. Some of the earliest claimed textile impressions come from sites in the Czech Republic and Moldova (Upper Palaeolithic), but robust evidence for woven fabrics in the Near East begins to appear in Neolithic contexts from approximately 8000–7000 BCE.\n\nPlant fiber textiles made from [[event:1327|flax]] (linen) and from plant basts such as reeds or sedges were likely the first woven materials, predating the use of wool from [[event:5|domesticated sheep]] by several thousand years. Fragments of apparent woven linen fabric have been reported from early Neolithic sites in the Levant and southeastern Europe. In the Americas, [[event:1287|Guitarrero Cave]] in Peru has yielded cord and textile remains suggesting weaving technologies of considerable antiquity in the Andean region as well. The development of spinning and weaving technology transformed human material culture, clothing production, and eventually trade, as textiles became one of the most important and widely exchanged commodities of ancient economies.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_clothing_and_textiles",
+    "read_more_links": [
+        {
+            "title": "Linen - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Linen"
+        },
+        {
+            "title": "Textile Archaeology - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Archaeological_textile"
+        },
+        {
+            "title": "Weaving History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Weaving"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ma_Lin_-_Emperor_Yao.jpg/300px-Ma_Lin_-_Emperor_Yao.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ma_Lin_-_Emperor_Yao.jpg",
+            "caption": "Emperor Yao (堯) as imagined by the Song Dynasty painter Ma Lin (馬麟). \nHanging...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Renaldis_muslin_woman.jpg/300px-Renaldis_muslin_woman.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Renaldis_muslin_woman.jpg",
+            "caption": "Renaldis muslin woman",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Isabella_Rubens.jpg/300px-Isabella_Rubens.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Isabella_Rubens.jpg",
+            "caption": "Isabella Rubens",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/T%C3%9C_RKA_Gaudeamusel_L%C3%A4tis.JPG/300px-T%C3%9C_RKA_Gaudeamusel_L%C3%A4tis.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/T%C3%9C_RKA_Gaudeamusel_L%C3%A4tis.JPG",
+            "caption": "Tartu Ülikooli Rahvakunstiansambel Gaudeamusel.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

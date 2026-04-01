@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1330,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:91418a754f17577a361a2d3136c082e0a928d111ee19cd43c3cfcbeae8f115e9",
+    "summary": "The soybean (Glycine max) was domesticated in East Asia from its wild ancestor Glycine soja, with the domestication process believed to have occurred primarily in northeastern China, the Korean peninsula, and adjacent areas. While the full domestication of the soybean — with morphological changes distinguishing it clearly from wild relatives — is generally dated to approximately 3000–1500 BCE, evidence for the intensive use of wild soybeans by hunter-gatherers and early agriculturalists in East Asia extends back considerably earlier, potentially into the period 10,000–8,000 BCE.\n\nWild soybean seeds have been recovered from early Holocene archaeological contexts in Japan and Korea, suggesting that these legumes were being gathered and possibly managed by early [[event:1268|Jomon]] communities in Japan and contemporaneous hunter-gatherers on the Korean peninsula. The soybean's high protein and oil content made it an exceptionally valuable food resource, and its nitrogen-fixing capacity benefited agricultural soils. The eventual domestication of the soybean complemented millet and rice cultivation in East Asia, providing the protein component of a grain-legume agricultural system parallel to the wheat-lentil or barley-pea combinations of the Near Eastern Neolithic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Soybean#History",
+    "read_more_links": [
+        {
+            "title": "Soybean History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Soybean"
+        },
+        {
+            "title": "East Asian Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture#East_Asia"
+        },
+        {
+            "title": "Jomon Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period"
+        },
+        {
+            "title": "Legume Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Legume"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Soybeans_01.jpg/300px-Soybeans_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Soybeans_01.jpg",
+            "caption": "Soybeans",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Soyabean_field.jpg/300px-Soyabean_field.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Soyabean_field.jpg",
+            "caption": "Soyabean field in the area of Jamthi Kh. village, Tq. & Dist. Hingoli, Mahara...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Graded_Seed.jpg/300px-Graded_Seed.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Graded_Seed.jpg",
+            "caption": "Graded Soyabean Seed",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tempeh_003.jpg/300px-Tempeh_003.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tempeh_003.jpg",
+            "caption": "インドネシアの大豆発酵食品であるテンペ",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

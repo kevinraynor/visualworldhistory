@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2037,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:09630738196838ed943dd19f00623e8affee41c56f244628bf53970781e4f3d5",
+    "summary": "The Vandal Sack of Rome (June 455 AD) was the second major sack of the city in the 5th century, carried out by the Vandals under their king Gaiseric, who had established a powerful kingdom in North Africa (modern Tunisia and Algeria). Unlike [[event:2033|Alaric's sack of Rome]] in 410, the Vandals came by sea and plundered the city systematically for fourteen days — stripping it of treasure, precious metals, artworks, and even the gilded roof tiles of the Capitoline Temple. They also carried off thousands of captives, including the Empress Eudoxia and her daughters.\n\nThe sack followed the murder of Emperor Valentinian III, whose widow Eudoxia had reportedly invited Gaiseric to intervene. The Vandals had already established themselves as the dominant naval power in the western Mediterranean, raiding Sicily, Sardinia, and the Italian coast at will — which is why the word 'vandalism' (meaning wanton destruction) derives from their name, though the association is somewhat unfair to the historical Vandals, who were actually more restrained than common legend suggests. The 455 sack confirmed that Rome could no longer defend itself and accelerated the political chaos that culminated in [[event:85|the fall of the Western Roman Empire]] in 476. Pope Leo I reportedly negotiated to spare the lives of the population, achieving a partial success.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(455)",
+    "read_more_links": [
+        {
+            "title": "Gaiseric king of Vandals",
+            "url": "https://en.wikipedia.org/wiki/Gaiseric"
+        },
+        {
+            "title": "Vandal Kingdom North Africa",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Vandals"
+        },
+        {
+            "title": "Pope Leo I negotiation",
+            "url": "https://en.wikipedia.org/wiki/Pope_Leo_I"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Genseric_sacking_rome_456.jpg/300px-Genseric_sacking_rome_456.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Genseric_sacking_rome_456.jpg",
+            "caption": "Genseric sacking rome 456",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2_DS-213_%28cropped%29.jpg/300px-Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2_DS-213_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Archive-ugent-be-79D46426-CC9D-11E3-B56B-4FBAD43445F2_DS-213_%28cropped%29.jpg",
+            "caption": "Excerpt from the manuscript \"Théâtre de tous les peuples et nations de la ter...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Avitus",
+            "summary": "Western Roman emperor from 455 to 456",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Solidus_Avitus_Arles_%28obverse%29.jpg/250px-Solidus_Avitus_Arles_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Avitus"
+        },
+        {
+            "name": "Petronius Maximus",
+            "summary": "Western Roman emperor in 455",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Solidus_of_Petronius_Maximus.png/250px-Solidus_of_Petronius_Maximus.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Petronius_Maximus"
+        },
+        {
+            "name": "Gaiseric",
+            "summary": "King of the Vandals and Alans (r. 428–477)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Siliqua_of_Gaiseric%2C_ca._455-476.jpg/250px-Siliqua_of_Gaiseric%2C_ca._455-476.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaiseric"
+        },
+        {
+            "name": "Valentinian III",
+            "summary": "Western Roman emperor from 425 to 455",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bust_of_Valentinian_III%2C_Louvre_%28cropped%29.jpg/250px-Bust_of_Valentinian_III%2C_Louvre_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valentinian_III"
+        },
+        {
+            "name": "Pope Leo I",
+            "summary": "Head of the Catholic Church from 440 to 461",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pope_St._Leo_I_the_Great.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Leo_I"
+        },
+        {
+            "name": "Alaric I",
+            "summary": "King of the Visigoths from 395 to 410",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alaric_entering_Athens.jpg/250px-Alaric_entering_Athens.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alaric_I"
+        }
+    ],
+    "territory_geojson": null
+}

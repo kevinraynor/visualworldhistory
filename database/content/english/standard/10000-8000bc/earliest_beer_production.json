@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1322,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:216d90bcbd77ca98c1e42052d890413212acb22edb55f36a5ed9bfea7d380133",
+    "summary": "The production of fermented grain beverages — beer — is one of humanity's oldest known food technologies, with evidence pushing its origins back to the period of the early Neolithic transition. Residue analysis from stone vessels at Raqefet Cave in Israel, associated with [[event:4|Natufian culture]] deposits dated to approximately 11,700–9,700 BCE, has been interpreted as evidence of beer-making from wild or early-cultivated cereal grains, potentially predating the widespread adoption of farming.\n\nThe relationship between beer production and the origins of agriculture has been a topic of considerable scholarly debate. The \"beer hypothesis\" — that the desire to produce fermented grain beverages was a significant motivator for the cultivation and domestication of cereals — was proposed as early as the 1950s and remains a minority but persistent position. Whether or not beer-making drove domestication, the evidence that fermentation of grain was practiced by late Natufian communities reinforces the picture of complex food culture preceding and accompanying the agricultural transition.\n\nBy the [[event:18|Pre-Pottery Neolithic B]] period and beyond, grain storage, processing, and fermentation were central to the social and economic life of Near Eastern farming communities. Beer and its production infrastructure appear prominently in the archaeological record of early Mesopotamian cities, where large-scale brewing was a major economic activity, and evidence of communal beer consumption is associated with feasting and social bonding at sites like [[event:3|Gobekli Tepe]] itself.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_beer",
+    "read_more_links": [
+        {
+            "title": "Beer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Beer"
+        },
+        {
+            "title": "Raqefet Cave - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Raqefet_Cave"
+        },
+        {
+            "title": "Beer and Agriculture Origins - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-agriculture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Philistine_pottery_beer_Jug.JPG/300px-Philistine_pottery_beer_Jug.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Philistine_pottery_beer_Jug.JPG",
+            "caption": "Philistine pottery\nקרמיקה פלשתית\nFrom Tel Eton\n\nפך בירה מעוטר בציפורים, דגים ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tutankhamunale.JPG/300px-Tutankhamunale.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tutankhamunale.JPG",
+            "caption": "Tutankhamun Ale. Foto di Mark Nesbitt",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FuneraryModel-BakeryAndBrewery_MetropolitanMuseum.png/300px-FuneraryModel-BakeryAndBrewery_MetropolitanMuseum.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FuneraryModel-BakeryAndBrewery_MetropolitanMuseum.png",
+            "caption": "A funerary model of a bakery and brewery, dating the 11th dynasty, circa 2009...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Caledonian_Brewery.jpg/300px-Caledonian_Brewery.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Caledonian_Brewery.jpg",
+            "caption": "Caledonian Brewery",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cambridgeshire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ely_Cathedral_from_Quanea_Drove_A.jpg/250px-Ely_Cathedral_from_Quanea_Drove_A.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cambridgeshire"
+        },
+        {
+            "name": "Xenophon",
+            "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/250px-Bust_of_Xenophon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xenophon"
+        },
+        {
+            "name": "Drinking straw",
+            "summary": "Thin tube for drinking liquids",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Eight_drinking_straws_%284273846588%29.jpg/250px-Eight_drinking_straws_%284273846588%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Drinking_straw"
+        },
+        {
+            "name": "Hammurabi",
+            "summary": "Sixth king of Babylon (r. 1792–1750 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg/250px-F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hammurabi"
+        }
+    ],
+    "territory_geojson": null
+}

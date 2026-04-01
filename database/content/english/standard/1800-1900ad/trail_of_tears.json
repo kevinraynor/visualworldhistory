@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2564,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:045c331016dbb58f41dfc24ccbfe2f8c33b700fb03301d5a32d0080a119d6752",
+    "summary": "The Trail of Tears refers to the forced removal of the Five Civilized Tribes — Cherokee, Choctaw, Creek, Chickasaw, and Seminole — from their ancestral homelands in the southeastern United States to Indian Territory (present-day Oklahoma) under the Indian Removal Act of 1830, signed by President Andrew Jackson. The removals, carried out primarily between 1830 and 1850, resulted in the deaths of thousands of Native Americans and represent one of the most tragic episodes of American ethnic cleansing.\n\nThe Indian Removal Act was driven by the desire of southern white settlers and state governments to acquire fertile lands occupied by Native nations. Jackson and his supporters argued that removal would protect Native peoples from white encroachment and allow them to develop without interference — an argument that cynically inverted the actual policy of dispossession. The Cherokee Nation challenged the removal in the U.S. Supreme Court in Worcester v. Georgia (1832), where Chief Justice John Marshall ruled that the Cherokee constituted a 'domestic dependent nation' with rights that Georgia could not unilaterally override. Jackson reportedly responded with defiant disregard for the ruling.\n\nThe Cherokee removal of 1838–39 was the most brutal and most remembered. The U.S. Army rounded up some 16,000 Cherokee people and held them in stockades before marching them west. The march through winter conditions was devastating — estimates suggest that between 4,000 and 8,000 Cherokee died from disease, exposure, and starvation along the route, earning it the name Nunna daul Tsuny ('The Trail Where They Cried') in Cherokee. Other nations suffered comparable losses during their own removals.\n\nThe Trail of Tears is a foundational trauma in the history of Native American peoples and a profound stain in American national memory. It reflects the central contradiction of a republic founded on liberty and rights implementing a policy of ethnic cleansing against the peoples whose land that republic occupied. The removal established the reservation system and the pattern of broken treaties that defined U.S.-Native relations throughout the nineteenth century, continuing through tragedies like the [[event:2631|Wounded Knee Massacre]] of 1890.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Trail_of_Tears",
+    "read_more_links": [
+        {
+            "title": "Trail of Tears – Britannica",
+            "url": "https://www.britannica.com/event/Trail-of-Tears"
+        },
+        {
+            "title": "Indian Removal Act – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_Removal_Act"
+        },
+        {
+            "title": "Cherokee Nation v. Georgia – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cherokee_Nation_v._Georgia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cherokee_Removal_Map.jpg/300px-Cherokee_Removal_Map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cherokee_Removal_Map.jpg",
+            "caption": "Map depicting the path of the Cherokee people on the Trail of Tears at the Ch...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Military_Road_Marker_US_64_Marion_AR.jpg/300px-Military_Road_Marker_US_64_Marion_AR.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Military_Road_Marker_US_64_Marion_AR.jpg",
+            "caption": "Historic marker of US 64/Military Road in Marion, AR near the junction of US ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Trails_of_Tears_en.png/300px-Trails_of_Tears_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Trails_of_Tears_en.png",
+            "caption": "Map of the route of the Trails of Tears — depicting the route taken to reloca...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Alexis_de_tocqueville.jpg/300px-Alexis_de_tocqueville.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Alexis_de_tocqueville.jpg",
+            "caption": "Alexis de tocqueville",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Indian Removal Act",
+            "summary": "Law authorizing the removal of Native Americans from US states",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/250px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Indian_Removal_Act"
+        },
+        {
+            "name": "Andrew Jackson",
+            "summary": "President of the United States from 1829 to 1837",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/250px-Andrew_jackson_head_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Jackson"
+        },
+        {
+            "name": "George Washington",
+            "summary": "U.S. Founding Father, president from 1789 to 1797",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/250px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Washington"
+        },
+        {
+            "name": "Davy Crockett",
+            "summary": "American politician and frontiersman (1786–1836)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Davy_Crockett_Portrait_by_Chester_Harding.jpg/250px-Davy_Crockett_Portrait_by_Chester_Harding.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Davy_Crockett"
+        },
+        {
+            "name": "Presidency of Andrew Jackson",
+            "summary": "U.S. presidential administration from 1829 to 1837",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/250px-Andrew_jackson_head.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Presidency_of_Andrew_Jackson"
+        },
+        {
+            "name": "Squatting",
+            "summary": "Unauthorized occupation of property",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CircleN.svg/250px-CircleN.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Squatting"
+        }
+    ],
+    "territory_geojson": null
+}

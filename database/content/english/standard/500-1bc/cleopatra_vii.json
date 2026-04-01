@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1048,
+    "parent_id": 1040,
+    "granularity": "notable",
+    "content_hash": "sha256:7cc53035e88d01467e0f3e3c4c9da20f4a3b802143112c4953e144032264a366",
+    "summary": "Cleopatra VII Philopator (r. 51–30 BC) was the last ruler of the [[event:1040|Ptolemaic Kingdom]] of Egypt and one of antiquity's most famous and consequential figures — a highly intelligent, multilingual monarch who navigated the dangerous world of late Roman politics with remarkable skill before being ultimately overcome by forces beyond her control. She is frequently reduced to her romantic relationships with Julius Caesar and Mark Antony, but she was primarily a sovereign of extraordinary capability in a desperately difficult situation.\n\nCleopatra came to power in a Ptolemaic Egypt weakened by decades of dynastic strife and increasingly dependent on Roman goodwill. She was reportedly the first of the Ptolemaic line to learn Egyptian (they had ruled the country for 250 years primarily in Greek), and she also spoke several other languages. Her alliance with Julius Caesar, whom she met when he arrived in Egypt during [[event:1077|Caesar's Civil War]] in 48 BC, allowed her to defeat her brother Ptolemy XIII and consolidate sole rule. She bore Caesar a son, Caesarion (Ptolemy XV).\n\nAfter Caesar's [[event:1079|Assassination of Julius Caesar]], Cleopatra allied with Mark Antony during the [[event:1080|Second Triumvirate]] period, providing him with enormous Egyptian resources for his eastern campaigns. Their relationship was both political and romantic; she bore him three children. Their combined power alarmed Octavian (the future [[event:1083|Augustus - First Roman Emperor]]), leading to the political break that ended in war. After the defeat at the [[event:1082|Battle of Actium]] in 31 BC and Antony's suicide, Cleopatra negotiated with Octavian but ultimately chose death — by snakebite according to tradition, though the method is uncertain — rather than be paraded in a Roman triumph. With her death ended the [[event:1040|Ptolemaic Kingdom]] and the last of the Hellenistic successor states.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra",
+    "read_more_links": [
+        {
+            "title": "Mark Antony",
+            "url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "title": "Battle of Actium",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Actium"
+        },
+        {
+            "title": "Julius Caesar",
+            "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "title": "Egypt under the Ptolemies",
+            "url": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/300px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "caption": "(Venice) Pompey the Great, Museo Archeologico Nazionale",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg/300px-Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Giambattista_Tiepolo_-_The_Banquet_of_Cleopatra_-_Google_Art_Project.jpg",
+            "caption": "Giambattista Tiepolo - The Banquet of Cleopatra - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Limestone_stela_of_a_high_priest_of_god_Ptah._It_bears_the_cartouches_of_Cleopatra_and_Caesarion._From_Egypt._Ptolemaic_Period._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/300px-Limestone_stela_of_a_high_priest_of_god_Ptah._It_bears_the_cartouches_of_Cleopatra_and_Caesarion._From_Egypt._Ptolemaic_Period._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Limestone_stela_of_a_high_priest_of_god_Ptah._It_bears_the_cartouches_of_Cleopatra_and_Caesarion._From_Egypt._Ptolemaic_Period._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+            "caption": "Limestone stela of a high-priest of god Ptah. It bears the cartouches of Cleo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_%283%29.jpg/300px-Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_%283%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_%283%29.jpg",
+            "caption": "Altes Museum - Berlin - Germany",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Ptolemy XII Auletes",
+            "summary": "Ptolemaic King of Egypt, 80–51 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ptolemy_XII_Auletes_Louvre_Ma3449.jpg/250px-Ptolemy_XII_Auletes_Louvre_Ma3449.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_XII_Auletes"
+        },
+        {
+            "name": "Ptolemy XIII Theos Philopator",
+            "summary": "Pharaoh of Egypt from 51 to 47 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ptol%C3%A9m%C3%A9e_XIII_%28Torlonia%29.jpg/250px-Ptol%C3%A9m%C3%A9e_XIII_%28Torlonia%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_XIII_Theos_Philopator"
+        },
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Caesarion",
+            "summary": "Pharaoh of Egypt from 44 to 30 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Caesarion_granite_head.jpg/250px-Caesarion_granite_head.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Caesarion"
+        },
+        {
+            "name": "Alexander Helios",
+            "summary": "Son of Egyptian Pharaoh Cleopatra VII",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alexander_Helios_bronze_statuette_of_a_boy_in_Eastern_dress_%283x4_cropped%29.jpg/250px-Alexander_Helios_bronze_statuette_of_a_boy_in_Eastern_dress_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Helios"
+        }
+    ],
+    "territory_geojson": null
+}

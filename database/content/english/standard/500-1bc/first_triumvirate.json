@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1073,
+    "parent_id": 72,
+    "granularity": "notable",
+    "content_hash": "sha256:488b2c0276f79733fa72d1e3fa8cc42bd413971c03d3dd4cdaff72038f3a3f45",
+    "summary": "The First Triumvirate (60–53 BC) was an informal political alliance between three of Rome's most powerful men — Julius Caesar, Gnaeus Pompey, and Marcus Licinius Crassus — that dominated Roman politics for a decade by pooling their complementary resources: Caesar's political skill and popular support, Pompey's military prestige and veterans, and Crassus's enormous wealth. Unlike the later [[event:1080|Second Triumvirate]], the First Triumvirate had no legal status — it was a private arrangement.\n\nThe alliance was formed when all three found themselves blocked by the Senate: Pompey wanted land grants for his eastern veterans, Crassus wanted tax relief for his business interests in Asia, and Caesar wanted a consulship and a major military command. By cooperating, they steamrolled senatorial opposition. Caesar's consulship of 59 BC passed legislation benefiting all three partners despite fierce opposition. Caesar then received the command of Gaul, which produced the [[event:1074|Gallic Wars]] and made him fabulously wealthy with devoted veteran soldiers.\n\nThe alliance was held together partly by personal bonds — Pompey married Caesar's daughter Julia in 59 BC — and dissolved when those bonds weakened. Julia died in 54 BC; Crassus died at the [[event:1144|Battle of Carrhae]] against Parthia in 53 BC. Without the shared interests and personal ties, Pompey drifted toward the Senate and against Caesar. The competition between the two surviving partners escalated until Caesar's [[event:1076|Crossing of the Rubicon]] in 49 BC launched the [[event:1077|Caesar's Civil War]] that destroyed both the alliance and the Republic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+    "read_more_links": [
+        {
+            "title": "Julius Caesar",
+            "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "title": "Pompey",
+            "url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "title": "Marcus Licinius Crassus",
+            "url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/300px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "caption": "(Venice) Pompey the Great, Museo Archeologico Nazionale",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Head_of_Marcus_Licinius_Crassus%2C_middle_of_1st_century_BC%2C_from_Italy%2C_Moi%2C_Auguste%2C_Empereur_de_Rome_exhibition%2C_Grand_Palais%2C_Paris_-_14649017884.jpg/300px-Head_of_Marcus_Licinius_Crassus%2C_middle_of_1st_century_BC%2C_from_Italy%2C_Moi%2C_Auguste%2C_Empereur_de_Rome_exhibition%2C_Grand_Palais%2C_Paris_-_14649017884.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Head_of_Marcus_Licinius_Crassus%2C_middle_of_1st_century_BC%2C_from_Italy%2C_Moi%2C_Auguste%2C_Empereur_de_Rome_exhibition%2C_Grand_Palais%2C_Paris_-_14649017884.jpg",
+            "caption": "Louvre Museum, Paris",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/C%C3%A9sar_%2813667960455%29.jpg/300px-C%C3%A9sar_%2813667960455%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/C%C3%A9sar_%2813667960455%29.jpg",
+            "caption": "Bust of Julius Caesar. A member of the triumvirate. ",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cato_Volubilis_bronze_bust.jpg/300px-Cato_Volubilis_bronze_bust.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cato_Volubilis_bronze_bust.jpg",
+            "caption": "Bronze bust of Cato the Younger from the Archaeological Museum of Rabat, Moro...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Marcus Licinius Crassus",
+            "summary": "Roman general and statesman (115–53 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bust_of_a_Roman%2C_Ny_Carlsberg_Glyptotek.jpg/250px-Bust_of_a_Roman%2C_Ny_Carlsberg_Glyptotek.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        },
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "name": "Marcus Terentius Varro",
+            "summary": "Roman polymath and author (116–27 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Marco_Terenzio_Varrone.jpg/250px-Marco_Terenzio_Varrone.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Terentius_Varro"
+        },
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Lepidus",
+            "summary": "Roman politician and general (89–13/12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg/250px-Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lepidus"
+        }
+    ],
+    "territory_geojson": null
+}

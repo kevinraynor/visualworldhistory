@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1157,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:41f1bfc85638eb4a46fe873a44ea0ed794fc02df516147082ca178414aa77dd4",
+    "summary": "The Kingdom of Meroe (c. 300 BC – 350 AD) was an African kingdom on the middle Nile in modern Sudan, successor to the Kushite kingdom that had once ruled Egypt, which developed its own script, distinctive architecture (pyramid tombs), and iron-smelting industry while maintaining trade connections reaching from the Mediterranean to sub-Saharan Africa.\n\nMeroe was the capital city of the Kushite kingdom after the Kushites retreated from Egypt following the Assyrian invasion. The city grew into a major urban center with temples, palaces, and distinctive cluster pyramid tombs (steeper and smaller than Egyptian pyramids) marking its royal necropolis. The Meroitic script, developed in the 2nd century BC, remains only partially deciphered — one of the few undeciphered ancient scripts in Africa, meaning much Meroitic history remains inaccessible. The kingdom's [[event:1163|Nubian Iron Smelting]] industry produced weapons and tools traded widely. Meroe controlled trade routes bringing luxury goods from sub-Saharan Africa (ivory, ebony, gold, exotic animals) northward to Egypt and the Mediterranean. The kingdom eventually succumbed to the rising power of Aksum (Ethiopia) in the 4th century AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+    "read_more_links": [
+        {
+            "title": "Meroitic script",
+            "url": "https://en.wikipedia.org/wiki/Meroitic_language"
+        },
+        {
+            "title": "Nubian pyramids",
+            "url": "https://en.wikipedia.org/wiki/Nubian_pyramids"
+        },
+        {
+            "title": "Kingdom of Kush",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kush"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/LRM_20190101_130853-Pano.jpg/300px-LRM_20190101_130853-Pano.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/LRM_20190101_130853-Pano.jpg",
+            "caption": "Found in pyramid No. 4 at Nuri, exposed in Sudan National Musuem in Khartoum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Necklace_from_Mero%C3%AB._50-320_AD._Museum_of_Fine_Arts%2C_Boston._%C2%A9Hans_Ollermann.jpg/300px-Necklace_from_Mero%C3%AB._50-320_AD._Museum_of_Fine_Arts%2C_Boston._%C2%A9Hans_Ollermann.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Necklace_from_Mero%C3%AB._50-320_AD._Museum_of_Fine_Arts%2C_Boston._%C2%A9Hans_Ollermann.jpg",
+            "caption": "Necklace from Meroë. 50-320 AD. Museum of Fine Arts, Boston. ©Hans Ollermann\n...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Karkamani%27s_pyramid%2C_Nuri%2C_Sudan%2C_North-east_Africa.jpg/300px-Karkamani%27s_pyramid%2C_Nuri%2C_Sudan%2C_North-east_Africa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Karkamani%27s_pyramid%2C_Nuri%2C_Sudan%2C_North-east_Africa.jpg",
+            "caption": "Karkamani's pyramid, Nuri, Sudan, North-east Africa\nPyramid Nu 7 (Karkamani: ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Stamp_or_thumb_ring_in_the_form_of_3_cartouches_%28enclosing_dot_pattern%29._Each_topped_with_2_plumes_and_sun_disc._Faience._From_Meroe._Meroitic_period._Petrie_Museum_of_Egyptian_Archaeology.jpg/300px-Stamp_or_thumb_ring_in_the_form_of_3_cartouches_%28enclosing_dot_pattern%29._Each_topped_with_2_plumes_and_sun_disc._Faience._From_Meroe._Meroitic_period._Petrie_Museum_of_Egyptian_Archaeology.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Stamp_or_thumb_ring_in_the_form_of_3_cartouches_%28enclosing_dot_pattern%29._Each_topped_with_2_plumes_and_sun_disc._Faience._From_Meroe._Meroitic_period._Petrie_Museum_of_Egyptian_Archaeology.jpg",
+            "caption": "Stamp or thumb ring in the form of 3 cartouches, enclosing dot pattern. Each ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cambyses II",
+            "summary": "Ruler of the Achaemenid Empire from 530 to 522 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Stela_Cambyses_Apis_closeup.jpg/250px-Stela_Cambyses_Apis_closeup.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cambyses_II"
+        },
+        {
+            "name": "Aspelta",
+            "summary": "Kushite King",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Aspelta_statue_reconstruction%2C_with_Egyptian_headdress.jpg/250px-Aspelta_statue_reconstruction%2C_with_Egyptian_headdress.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aspelta"
+        },
+        {
+            "name": "Psamtik II",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Statue_Psamtik_II_Louvre.jpg/250px-Statue_Psamtik_II_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Psamtik_II"
+        },
+        {
+            "name": "Analmaye",
+            "summary": "Kushite King of Meroë who ruled in the 6th century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pyramid_Nu_XVIII_King_Analmaye_r._6th_cent_BCE.jpg/250px-Pyramid_Nu_XVIII_King_Analmaye_r._6th_cent_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Analmaye"
+        },
+        {
+            "name": "Nastasen",
+            "summary": "Kushite King of Meroe from 335 to 315/310 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/PHARAOHS_OF_EGYPT-_NASTASEN_ANKHKHARE_%28reign_c.330_BC%29%2C_Berlin.jpg/250px-PHARAOHS_OF_EGYPT-_NASTASEN_ANKHKHARE_%28reign_c.330_BC%29%2C_Berlin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nastasen"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        }
+    ],
+    "territory_geojson": null
+}

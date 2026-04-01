@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2459,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:4e7f56dc4aa54fb6bd0aaea0fa88232be4d66a596ca3dc976dbbe38631e00af2",
+    "summary": "Benjamin Franklin's Electrical Experiments (c. 1745–1752 AD) were among the most celebrated scientific investigations of the 18th-century [[event:2346|Enlightenment]], demonstrating that lightning was a form of electricity through the famous kite experiment and making Franklin the first American to achieve international scientific fame, while his practical invention of the lightning rod illustrated how scientific knowledge could be directly harnessed for human benefit. Franklin, a self-educated printer and journalist from Philadelphia with no formal scientific training, became fascinated by electricity after witnessing demonstrations of the recently discovered phenomenon of 'electrical fire.'\n\nFranklin's key contribution was the identification of electricity as a single fluid with positive and negative states (the terms 'positive' and 'negative' in electricity are his invention), and the demonstration that lightning was electrical discharge rather than divine judgment. His kite experiment (reportedly conducted in June 1752, though the exact details have been disputed — he may never have actually flown the kite) involved flying a kite with a metal point in a thunderstorm; electrical charge traveled down the wet string to a key at the bottom, from which sparks were drawn, proving the identification. His invention of the lightning rod (a pointed metal rod mounted on buildings, connected to the ground by a conductor) was an immediate practical application: buildings protected by lightning rods were no longer destroyed by lightning strikes. The lightning rod became the era's most tangible demonstration that science could conquer nature — prompting theological objections from clergy who argued it was impious to prevent divine lightning, and generating political symbolism (in France, the pointed rod associated with republicans vs. the blunt rod preferred by royalists). Franklin's Experiments and Observations on Electricity (1751) made him a Fellow of the Royal Society.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+    "read_more_links": [
+        {
+            "title": "Franklin kite experiment lightning electricity 1752",
+            "url": "https://en.wikipedia.org/wiki/Kite_experiment"
+        },
+        {
+            "title": "Lightning rod invention Franklin practical science",
+            "url": "https://en.wikipedia.org/wiki/Lightning_rod"
+        },
+        {
+            "title": "Franklin positive negative electricity terminology",
+            "url": "https://en.wikipedia.org/wiki/Benjamin_Franklin#Electricity"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

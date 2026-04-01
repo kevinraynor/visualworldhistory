@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1161,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:54011343cddca608daeceda2d116c76114fa8d658f0f759812b966015b8e45a0",
+    "summary": "The Numidian Kingdoms (c. 300–46 BC) were Berber kingdoms in North Africa (modern Algeria) that played a crucial role in the [[event:1052|Punic Wars]] and the [[event:1090|Jugurthine War]] — initially as Rome's allies whose cavalry proved decisive at the [[event:1057|Battle of Zama]], later as a source of the corruption and military challenge that exposed Rome's republican weaknesses.\n\nNumidia comprised two main kingdoms — the Massaesyli in the west under Syphax, and the Massyli in the east under [[event:1162|Masinissa of Numidia]] — which were bitter rivals. During the Second Punic War, Syphax allied with Carthage while Masinissa (after changing sides) allied with Rome and contributed devastating cavalry at the [[event:1057|Battle of Zama]]. Rome rewarded Masinissa by unifying Numidia under his rule, and he built it into a prosperous agricultural kingdom. His successors quarreled over succession; one of them, Jugurtha, who seized power by murdering rivals, triggered the [[event:1090|Jugurthine War]] — during which his reported bribery of Roman senators shocked public opinion and fueled the populist politics that launched [[event:1069|Marian Reforms]]'s Marius's career. Julius Caesar finally ended Numidian independence in 46 BC, creating the Roman province of Africa Nova.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Numidia",
+    "read_more_links": [
+        {
+            "title": "Berber kingdoms",
+            "url": "https://en.wikipedia.org/wiki/Berber_kingdoms_of_ancient_North_Africa"
+        },
+        {
+            "title": "Numidian cavalry",
+            "url": "https://en.wikipedia.org/wiki/Numidian_cavalry"
+        },
+        {
+            "title": "Roman Africa",
+            "url": "https://en.wikipedia.org/wiki/Africa_(Roman_province)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Royal_Mausoleum_of_Mauretania_2014.jpg/300px-Royal_Mausoleum_of_Mauretania_2014.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Royal_Mausoleum_of_Mauretania_2014.jpg",
+            "caption": "Le Mausolée royal de Maurétanie",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Augusto_M%C3%BCller_-_Jugurta.jpg/300px-Augusto_M%C3%BCller_-_Jugurta.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Augusto_M%C3%BCller_-_Jugurta.jpg",
+            "caption": "Augusto Müller - Jugurta",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cherchell_Neopunic_inscriptions_%28141%29.jpg/300px-Cherchell_Neopunic_inscriptions_%28141%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Cherchell_Neopunic_inscriptions_%28141%29.jpg",
+            "caption": "Louvre 2022 01",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Massinissa_el_khroub.JPG/300px-Massinissa_el_khroub.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Massinissa_el_khroub.JPG",
+            "caption": "Tombeau de Massinissa à El-Khroub",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Masinissa",
+            "summary": "First King of Numidia from 202 BC to 148 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MASSINISSA_-_MAA_23_-_87000716.jpg/250px-MASSINISSA_-_MAA_23_-_87000716.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Masinissa"
+        },
+        {
+            "name": "Micipsa",
+            "summary": "King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tridrachme%2C_Argent%2C_Numidie%2C_Micipsa2.png/250px-Tridrachme%2C_Argent%2C_Numidie%2C_Micipsa2.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Micipsa"
+        },
+        {
+            "name": "Gulussa",
+            "summary": "King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pi%C3%A8ce_de_Gulussa.jpg/250px-Pi%C3%A8ce_de_Gulussa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gulussa"
+        },
+        {
+            "name": "Mastanabal",
+            "summary": "King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bronze_head%2C_north_African%2C_300_BC%2C_Cyrene%2C_BM_Bronze_268%2C_143107.jpg/250px-Bronze_head%2C_north_African%2C_300_BC%2C_Cyrene%2C_BM_Bronze_268%2C_143107.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mastanabal"
+        },
+        {
+            "name": "Hiempsal I",
+            "summary": "Berber King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Numidian_coin_uncertain_kings.png/250px-Numidian_coin_uncertain_kings.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hiempsal_I"
+        },
+        {
+            "name": "Adherbal (king of Numidia)",
+            "summary": "2nd-century BC King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Monnaie_Adherbal.jpg/250px-Monnaie_Adherbal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adherbal_%28king_of_Numidia%29"
+        }
+    ],
+    "territory_geojson": null
+}

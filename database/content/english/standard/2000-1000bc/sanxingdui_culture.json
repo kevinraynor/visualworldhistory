@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1870,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:66112c77558c84beb1570ec9821c0c38460f543733dd5673fc1704e5eb4b860a",
+    "summary": "Sanxingdui was a remarkable Bronze Age civilization centered in the Chengdu Plain of Sichuan province in southwestern China, flourishing approximately 1700–1150 BC. Unlike the contemporaneous [[event:55|Shang dynasty]] of the Yellow River valley, Sanxingdui developed in relative geographic isolation behind mountain barriers and produced a material culture of extraordinary strangeness and sophistication that has no close parallel anywhere in the ancient world. The site takes its name from the modern archaeological discovery location in Guanghan, Sichuan, where major bronze ritual pits were discovered in 1986.\n\nThe most striking characteristics of Sanxingdui culture are its large bronze sculptures, which include towering human figures, standing up to 2.6 meters tall, with elongated heads, enormous stylized eyes, and exaggerated features quite unlike anything produced by the Shang or any other known Bronze Age culture. A famous life-size bronze standing figure holding a now-lost object in its hands is the largest known freestanding bronze figure from the ancient world. The culture also produced [[event:1871|bronze masks]] of varying sizes, bronze trees (called shen树 or divine trees), and jade objects.\n\nSanxingdui society appears to have had sophisticated religious and ritual practices, with the bronze objects serving as cult equipment in ceremonial contexts. The two major pits discovered in 1986 appear to represent deliberate ritual depositions rather than burials, with objects sometimes broken or burned before burial. Additional pits discovered after 2019 have continued to yield extraordinary finds. Despite the culture's material accomplishments, the Sanxingdui people left no known written records, and their language, political structure, and precise relationship to contemporaneous Chinese cultures remain largely unknown.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sanxingdui",
+    "read_more_links": [
+        {
+            "title": "Sanxingdui - Britannica",
+            "url": "https://www.britannica.com/place/Sanxingdui"
+        },
+        {
+            "title": "Bronze Age China",
+            "url": "https://en.wikipedia.org/wiki/Bronze_Age_China"
+        },
+        {
+            "title": "Shu Kingdom",
+            "url": "https://en.wikipedia.org/wiki/Shu_(state)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2014_Jinsha_Gold_Mask_a.jpg/300px-2014_Jinsha_Gold_Mask_a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/2014_Jinsha_Gold_Mask_a.jpg",
+            "caption": "Jinsha Site Museum, Chengdu, Sichuan. Complete indexed photo collection at Wo...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/%E4%B8%89%E6%98%9F%E5%A0%86-%E9%9D%92%E9%93%9C%E6%89%AD%E5%A4%B4%E8%B7%AA%E5%9D%90%E4%BA%BA%E5%83%8F_sanxingdui.jpg/300px-%E4%B8%89%E6%98%9F%E5%A0%86-%E9%9D%92%E9%93%9C%E6%89%AD%E5%A4%B4%E8%B7%AA%E5%9D%90%E4%BA%BA%E5%83%8F_sanxingdui.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/%E4%B8%89%E6%98%9F%E5%A0%86-%E9%9D%92%E9%93%9C%E6%89%AD%E5%A4%B4%E8%B7%AA%E5%9D%90%E4%BA%BA%E5%83%8F_sanxingdui.jpg",
+            "caption": "​2021年新发现三星堆青铜扭头跪坐人像",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bronze_Ge_Dagger-axe%2C_Sanxingdui_1.jpg/300px-Bronze_Ge_Dagger-axe%2C_Sanxingdui_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bronze_Ge_Dagger-axe%2C_Sanxingdui_1.jpg",
+            "caption": "Sanxingdui Museum Gallery 1, Sichuan Province, 2010. Complete indexed photo c...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Shiji",
+            "summary": "Historical accounts of ancient China to Western Han",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%E5%8F%B2%E8%AE%B0.jpg/250px-%E5%8F%B2%E8%AE%B0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shiji"
+        },
+        {
+            "name": "Vyvyan Donnithorne",
+            "summary": "Anglican missionary (1886–1968)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Vyvyan_Donnithorne.jpg/250px-Vyvyan_Donnithorne.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vyvyan_Donnithorne"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3394,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c8f9cac538eb8e133fb9afaa3b7b676ebba345abafd076ccd7ec2b3f3d31b90e",
+    "summary": "The International Space Station represents one of the most complex and expensive engineering projects in history, a joint undertaking involving NASA, Roscosmos, the European Space Agency, JAXA, and the Canadian Space Agency. Assembly began in November 1998 with the launch of the Russian Zarya module, followed in December by the American Unity node. The project grew from the ashes of the post-Cold War thaw, merging the planned American Space Station Freedom with the Russian Mir-2 program into a single collaborative venture.\n\nThe ISS serves as a long-duration microgravity research laboratory and a symbol of international scientific cooperation. Continuous human habitation began in November 2000. The station orbits Earth at an altitude of approximately 400 kilometers, completing sixteen orbits per day. By the century's end, its full assembly was still underway, but it had already demonstrated that the former adversaries of the [[event:113|Cold War]] could maintain sustained joint operations in space, a development unthinkable just a decade earlier.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/International_Space_Station",
+    "read_more_links": [
+        {
+            "title": "History of the International Space Station",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_International_Space_Station"
+        },
+        {
+            "title": "Zarya module",
+            "url": "https://en.wikipedia.org/wiki/Zarya"
+        },
+        {
+            "title": "Space Station Freedom",
+            "url": "https://en.wikipedia.org/wiki/Space_Station_Freedom"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/ISS-43_Food_table_in_the_Unity_module.jpg/300px-ISS-43_Food_table_in_the_Unity_module.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/ISS-43_Food_table_in_the_Unity_module.jpg",
+            "caption": "A view of the food table located in the Russian Zvezda service module Unity n...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ISS-43_Samantha_Cristoforetti_on_the_Biolab_in_the_Columbus_module.jpg/300px-ISS-43_Samantha_Cristoforetti_on_the_Biolab_in_the_Columbus_module.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/ISS-43_Samantha_Cristoforetti_on_the_Biolab_in_the_Columbus_module.jpg",
+            "caption": "ESA (European Space Agency) astronaut Samantha Cristoforetti, Expedition 43 f...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Artist%27s_view_of_the_Argonaut_lunar_lander_%28Argonaut_cropped%29.jpg/300px-Artist%27s_view_of_the_Argonaut_lunar_lander_%28Argonaut_cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Artist%27s_view_of_the_Argonaut_lunar_lander_%28Argonaut_cropped%29.jpg",
+            "caption": "Artist's view of the ESA Argonaut lunar lander",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 igo"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sergey Kud-Sverchkov",
+            "summary": "Russian engineer and cosmonaut (born 1983)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Roscosmos_cosmonaut_and_Soyuz_MS-27_Backup_Commander_Sergey_Kud-Sverchkov_%28jsc2025e033531%29.jpg/250px-Roscosmos_cosmonaut_and_Soyuz_MS-27_Backup_Commander_Sergey_Kud-Sverchkov_%28jsc2025e033531%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sergey_Kud-Sverchkov"
+        },
+        {
+            "name": "Michael Foale",
+            "summary": "British-American astrophysicist and astronaut (born 1957)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Michael_Foale_-_official_astronaut_portrait.jpg/250px-Michael_Foale_-_official_astronaut_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Foale"
+        },
+        {
+            "name": "Space medicine",
+            "summary": "For health conditions encountered during spaceflight",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NASA_Medical_Monitoring_2.jpg/250px-NASA_Medical_Monitoring_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Space_medicine"
+        }
+    ],
+    "territory_geojson": null
+}

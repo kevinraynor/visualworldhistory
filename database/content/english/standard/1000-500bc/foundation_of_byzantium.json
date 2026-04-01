@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1990,
+    "parent_id": 1927,
+    "granularity": "detailed",
+    "content_hash": "sha256:2ead87e84f45650fb34f388b53704264f90a6f3371a9f97d6c640d51e51e7662",
+    "summary": "The Foundation of Byzantium (traditionally 657 BC) by Megarian colonists led by the legendary Byzas was the establishment of a city at the southern entrance of the Bosphorus strait — one of the most strategically important locations in the ancient world, controlling passage between the Black Sea and the Mediterranean. The site on a promontory surrounded by water on three sides with a magnificent natural harbor (the Golden Horn) was described by ancient sources as an obvious choice for a trading city.\n\nByzantium's entire subsequent history flowed from its geography: it controlled the crucial waterway through which grain from the Black Sea (Ukraine and Crimea) reached the Mediterranean world, enabling the city to extract tolls and grow wealthy without exceptional agricultural land. The Macedonians, Persians, Athenians, Spartans, and Romans all competed for control of the city or its alliance. The Roman Emperor Constantine I recognized its unique strategic position and refounded it in 330 AD as Constantinople — New Rome — which became the capital of the Eastern Roman Empire and survived as the center of Byzantine civilization until 1453, making Byzantium's founding arguably one of the most consequential acts of colonization in ancient history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Byzantium",
+    "read_more_links": [
+        {
+            "title": "Byzas legendary founder",
+            "url": "https://en.wikipedia.org/wiki/Byzas"
+        },
+        {
+            "title": "Bosphorus strategic importance",
+            "url": "https://en.wikipedia.org/wiki/Bosphorus"
+        },
+        {
+            "title": "Constantinople foundation Constantine",
+            "url": "https://en.wikipedia.org/wiki/Constantinople#Foundation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Lysimachos.jpg/300px-Lysimachos.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lysimachos.jpg",
+            "caption": "AR tetradrachm struck in Byzantion 150-100 BC in the name of Lysimachos \nobve...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Locator_map_Byzantion.PNG/300px-Locator_map_Byzantion.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Locator_map_Byzantion.PNG",
+            "caption": "Locator map of Byzantion (Byzantium). Based on File:Europe topography map.png",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Byzas",
+            "summary": "Greek mythical character, founder of Byzantium",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Coinage_with_Byzas_2nd_3rd_century_CE.jpg/250px-Coinage_with_Byzas_2nd_3rd_century_CE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Byzas"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Hieronymus Wolf",
+            "summary": "German historian and humanist (1516 - 1580)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hieronymus_wolf2.JPG/250px-Hieronymus_wolf2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hieronymus_Wolf"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Eusebius",
+            "summary": "Greek Christian bishop and scholar (c. 260 – 339)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Eusebius_of_Caesarea_Rabbula_Gospels_Icon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eusebius"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1017,
+    "parent_id": 64,
+    "granularity": "detailed",
+    "content_hash": "sha256:9db7392eb81755b646b9275eb82ceb5841c717c8c1acdba9e548313b029252c3",
+    "summary": "The Thirty Tyrants (404–403 BC) were an oligarchic junta installed by Sparta as Athens's government following the city's defeat in the [[event:1010|Peloponnesian War]]. Led by the extreme oligarch Critias, the Thirty rapidly descended into a reign of terror, executing or exiling an estimated 1,500 Athenians — many to seize their property — and disenfranchising thousands more. Athenian democrats were stripped of political rights and their weapons confiscated.\n\nThe regime lasted only eight months. Democratic exiles regrouped under Thrasybulus in Phyle, a fortified position near the Boeotian border, and gradually gathered strength. They seized the port of Piraeus in 403 BC; Critias was killed in the fighting that followed. The democracy was restored through negotiation and a remarkable amnesty — the first political amnesty in recorded Western history — that formally prohibited prosecutions for offenses committed under the Thirty, allowing the city to heal its wounds and resume normal political life. The philosopher Socrates, however, was tried and executed in 399 BC under the restored democracy, in a case that some historians connect to lingering resentments from this period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thirty_Tyrants",
+    "read_more_links": [
+        {
+            "title": "Critias",
+            "url": "https://en.wikipedia.org/wiki/Critias"
+        },
+        {
+            "title": "Thrasybulus",
+            "url": "https://en.wikipedia.org/wiki/Thrasybulus"
+        },
+        {
+            "title": "Athenian Democracy",
+            "url": "https://en.wikipedia.org/wiki/Athenian_democracy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/300px-Bust_of_Xenophon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bust_of_Xenophon.jpg",
+            "caption": "Marble bust of Xenophon of Athens (l. 430 to c. 354 BCE), dated to 120 CE.Bib...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Parthenon_from_west.jpg/300px-Parthenon_from_west.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
+            "caption": "Parthenon from west",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/300px-Socrate_du_Louvre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Socrate_du_Louvre.jpg",
+            "caption": "Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Achillis_Bocchii_Bonon._symbolicarum_quaestionum_de_Universo_genere_quas_serio_ludebat_%28Emblems_of_Achilles_Bocchius.%29_%28BM_H%2C5.100%29.jpg/300px-Achillis_Bocchii_Bonon._symbolicarum_quaestionum_de_Universo_genere_quas_serio_ludebat_%28Emblems_of_Achilles_Bocchius.%29_%28BM_H%2C5.100%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Achillis_Bocchii_Bonon._symbolicarum_quaestionum_de_Universo_genere_quas_serio_ludebat_%28Emblems_of_Achilles_Bocchius.%29_%28BM_H%2C5.100%29.jpg",
+            "caption": "Plate 139. Theramenes seated next to a young man emptying a flask, to the rig...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tyrant",
+            "summary": "Absolute ruler unrestrained by law or constitution",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%A4%8F%E6%A1%80%E5%83%8F.png/250px-%E5%A4%8F%E6%A1%80%E5%83%8F.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tyrant"
+        },
+        {
+            "name": "Lysander",
+            "summary": "Spartan military and political leader (died 395 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg/250px-Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lysander"
+        },
+        {
+            "name": "Theramenes",
+            "summary": "Athenian statesman (died 404 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Achillis_Bocchii_Bonon._symbolicarum_quaestionum_de_Universo_genere_quas_serio_ludebat_%28Emblems_of_Achilles_Bocchius.%29_%28BM_H%2C5.100%29.jpg/250px-Achillis_Bocchii_Bonon._symbolicarum_quaestionum_de_Universo_genere_quas_serio_ludebat_%28Emblems_of_Achilles_Bocchius.%29_%28BM_H%2C5.100%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theramenes"
+        },
+        {
+            "name": "Xenophon",
+            "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/250px-Bust_of_Xenophon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xenophon"
+        },
+        {
+            "name": "Aeschines",
+            "summary": "Greek orator and statesman (389 BC-314 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Aeschines_bust.jpg/250px-Aeschines_bust.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aeschines"
+        },
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        }
+    ],
+    "territory_geojson": null
+}

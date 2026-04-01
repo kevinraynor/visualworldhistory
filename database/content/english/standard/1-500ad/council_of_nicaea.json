@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2029,
+    "parent_id": 2027,
+    "granularity": "notable",
+    "content_hash": "sha256:161df2b9e088ca7ad74ea4b8e3d5a9f1e042c3c0cc34baff6b059975bf1e09a6",
+    "summary": "The First Council of Nicaea (325 AD) was the first ecumenical (universal) church council, convened by Emperor Constantine at Nicaea in Bithynia (modern Turkey) to resolve the Arian controversy — a dispute over whether Christ was fully divine (coequal and coeternal with God the Father) or a created being of lesser status, as Arius of Alexandria taught. The council produced the Nicene Creed, which affirmed that the Son was 'of the same substance' (homoousios) as the Father — the Trinitarian orthodoxy that defines mainstream Christianity to this day.\n\nThe council's approximately 300 bishops also addressed the dating of Easter (establishing a uniform calculation independent of the Jewish calendar) and various disciplinary questions of church order. Arianism was condemned but did not immediately disappear — it remained influential for decades, particularly among the Germanic peoples who converted to Christianity in its Arian form. The Nicene settlement was reaffirmed and expanded at the First Council of Constantinople (381 AD) under [[event:2031|Theodosius I Christianity State]], producing the fuller Nicene-Constantinopolitan Creed still recited in Catholic, Orthodox, and many Protestant liturgies. The council established the precedent of the ecumenical council as the mechanism for resolving major doctrinal disputes — a constitutional innovation of enormous importance for church governance.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+    "read_more_links": [
+        {
+            "title": "Nicene Creed text",
+            "url": "https://en.wikipedia.org/wiki/Nicene_Creed"
+        },
+        {
+            "title": "Arianism controversy",
+            "url": "https://en.wikipedia.org/wiki/Arianism"
+        },
+        {
+            "title": "Homoousios debate substance",
+            "url": "https://en.wikipedia.org/wiki/Homoousios"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg/300px-%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg",
+            "caption": "The First Council of Nicea by Michael Damaskinos (1591). From Vronitissiou mo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg/300px-Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Christ_Pantocrator_mosaic_from_Hagia_Sophia_2744_x_2900_pixels_3.1_MB.jpg",
+            "caption": "Mosaic of Christ Pantocrator (“ruler over all”) from the Hagia Sophia in Ista...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/300px-046CupolaSPietro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+            "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/COUNCIL_OF_NICEA_Fresco_in_the_Sistine_Salon_Vatican_t.jpg/300px-COUNCIL_OF_NICEA_Fresco_in_the_Sistine_Salon_Vatican_t.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/COUNCIL_OF_NICEA_Fresco_in_the_Sistine_Salon_Vatican_t.jpg",
+            "caption": "One of the frescoes of the Ecumenical Councils in the Sistine Salon at Vatica...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Michael Damaskinos",
+            "summary": "Greek painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Detail_of_Kings_Adoration_of_the_Kings_Damaskinos.png/250px-Detail_of_Kings_Adoration_of_the_Kings_Damaskinos.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Damaskinos"
+        },
+        {
+            "name": "First Council of Constantinople",
+            "summary": "381 AD council of Christian bishops",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CouncilOfConstantinople381BnFMSGr510.jpg/250px-CouncilOfConstantinople381BnFMSGr510.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/First_Council_of_Constantinople"
+        },
+        {
+            "name": "Constantine the Great",
+            "summary": "Roman emperor from 306 to 337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/250px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        },
+        {
+            "name": "Hosius of Corduba",
+            "summary": "Spanish bishop (256–359)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/El_obispo_Osio_-_%C3%81ngel_Mar%C3%ADa_de_Barcia_Pav%C3%B3n.jpg/250px-El_obispo_Osio_-_%C3%81ngel_Mar%C3%ADa_de_Barcia_Pav%C3%B3n.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hosius_of_Corduba"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Consensus decision-making",
+            "summary": "Group decision-making aiming for universal agreement",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Occupy_Wall_Street_Washington_Square_Park_2011_Shankbone.JPG/250px-Occupy_Wall_Street_Washington_Square_Park_2011_Shankbone.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Consensus_decision-making"
+        }
+    ],
+    "territory_geojson": null
+}

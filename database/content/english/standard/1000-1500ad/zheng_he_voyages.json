@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2247,
+    "parent_id": 100,
+    "granularity": "notable",
+    "content_hash": "sha256:2b8da1760cf6b0e302c9aaafc276a404536e2bc4a1cb8648107c9a2009fdafd0",
+    "summary": "The Zheng He voyages (1405–1433 AD) were a series of seven enormous maritime expeditions launched by the [[event:100|Ming Dynasty]] Yongle Emperor under the command of Admiral Zheng He — a Muslim eunuch of Hui ethnicity — that collectively constituted the largest naval enterprise in world history before the modern era, visiting Southeast Asia, the Indian subcontinent, Arabia, and East Africa with fleets that dwarfed anything Europe could produce. The largest voyages carried perhaps 27,000 men on over 300 vessels, including the legendary 'treasure ships' (bao chuan) reportedly up to 130 meters long — five times the length of Columbus's Santa María.\n\nThe voyages' purpose was primarily diplomatic: to extend Chinese tributary relationships, collect exotic goods and animals (including giraffes, which were identified with the auspicious qilin), and demonstrate Ming power. Zheng He did not conquer territories but established trade relationships and installed friendly rulers in several port cities. The expeditions demonstrated that Chinese naval technology and organizational capacity in 1400 exceeded anything elsewhere in the world — had China continued and expanded this maritime program, it might have established contact with the Americas before Columbus. Instead, the Ming court abruptly halted the voyages after Zheng He's death (1433), burned the treasure ship blueprints, and turned inward — a decision that remains one of history's most debated policy reversals. Within decades, Portuguese explorers were probing the African coast, eventually reaching the same Indian Ocean ports Zheng He had visited, and establishing the European commercial dominance of the seas that would define the next five centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Zheng_He",
+    "read_more_links": [
+        {
+            "title": "Treasure ships Zheng He size scale",
+            "url": "https://en.wikipedia.org/wiki/Treasure_ship"
+        },
+        {
+            "title": "Ming Dynasty end maritime voyages decision",
+            "url": "https://en.wikipedia.org/wiki/Zheng_He#Cessation_of_voyages"
+        },
+        {
+            "title": "Zheng He East Africa giraffe tribute",
+            "url": "https://en.wikipedia.org/wiki/Zheng_He#East_Africa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/300px-2016_Malakka%2C_Stadhuys_%2809%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg",
+            "caption": "This is a photo of a monument in Malaysia, identified by ID",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E3%80%8A%E9%84%AD%E5%92%8C%E6%AD%B8%E4%BE%86%E3%80%8B%E3%80%82_%E8%97%9D%E8%A1%93%E5%AE%B6%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E7%88%BE%C2%B7%E7%A7%91%E7%B4%A2%E5%A4%AB_2018.jpg/300px-%E3%80%8A%E9%84%AD%E5%92%8C%E6%AD%B8%E4%BE%86%E3%80%8B%E3%80%82_%E8%97%9D%E8%A1%93%E5%AE%B6%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E7%88%BE%C2%B7%E7%A7%91%E7%B4%A2%E5%A4%AB_2018.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E3%80%8A%E9%84%AD%E5%92%8C%E6%AD%B8%E4%BE%86%E3%80%8B%E3%80%82_%E8%97%9D%E8%A1%93%E5%AE%B6%E5%BC%97%E6%8B%89%E5%9F%BA%E7%B1%B3%E7%88%BE%C2%B7%E7%A7%91%E7%B4%A2%E5%A4%AB_2018.jpg",
+            "caption": "The Return of Zheng He by Vladimir Kosov",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Admiral_Zhenghe.jpg/300px-Admiral_Zhenghe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Admiral_Zhenghe.jpg",
+            "caption": "Zheng He wax statue in the Quanzhou Maritime Museum",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kunyang_-_Zheng_He_Park_-_P1350545.JPG/300px-Kunyang_-_Zheng_He_Park_-_P1350545.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kunyang_-_Zheng_He_Park_-_P1350545.JPG",
+            "caption": "Zheng He Park on the Moon Mountain (Yue Shan) in Kunyang",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Yongle Emperor",
+            "summary": "Emperor of China from 1402 to 1424",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yongle_Emperor"
+        },
+        {
+            "name": "Xuande Emperor",
+            "summary": "Emperor of China from 1425 to 1435",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ming_Xuanzong.jpg/250px-Ming_Xuanzong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xuande_Emperor"
+        },
+        {
+            "name": "Fu Youde",
+            "summary": "Chinese general (1327–1394)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ming_Dynasty_Portrait_of_Fu_Youde.jpg/250px-Ming_Dynasty_Portrait_of_Fu_Youde.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fu_Youde"
+        },
+        {
+            "name": "Hongxi Emperor",
+            "summary": "Emperor of China from 1424 to 1425",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Portrait_assis_de_l%27empereur_Ming_Renzong.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Renzong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hongxi_Emperor"
+        },
+        {
+            "name": "Hongwu Emperor",
+            "summary": "Emperor of China from 1368 to 1398",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+        },
+        {
+            "name": "Malindi",
+            "summary": "Municipality in Kilifi County, Kenya",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pillar_of_Vasco_da_Gama.jpg/250px-Pillar_of_Vasco_da_Gama.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Malindi"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3390,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3201ca84cf11b8ae505ba708cdc5ce9bad2142f1e126b973d90babf15122a50b",
+    "summary": "The microprocessor, a complete central processing unit fabricated on a single integrated circuit chip, was invented in 1971 when Intel released the 4004, designed by engineers Federico Faggin, Ted Hoff, and Stanley Mazor. This development consolidated what had previously required rooms full of equipment into a component smaller than a fingernail. The 4004 was followed by increasingly powerful designs — the 8008, 8080, and eventually the 8086 family — that became the basis for the personal computer industry.\n\nThe microprocessor's significance lay in making computing economically accessible. Before the microprocessor, computers were expensive capital equipment owned by corporations and governments. After it, computing power became a commodity that could be embedded in consumer products, industrial equipment, and communications systems. The microprocessor underpinned the [[event:2743|personal computer revolution]] of the late 1970s and 1980s and, by extension, the broader digital transformation of the global economy by century's end.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Microprocessor",
+    "read_more_links": [
+        {
+            "title": "Intel 4004",
+            "url": "https://en.wikipedia.org/wiki/Intel_4004"
+        },
+        {
+            "title": "Federico Faggin",
+            "url": "https://en.wikipedia.org/wiki/Federico_Faggin"
+        },
+        {
+            "title": "History of the microprocessor",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_microprocessor"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Scan_des_AMD_Ryzen_Threadripper_7970X_20240407_075.jpg/300px-Scan_des_AMD_Ryzen_Threadripper_7970X_20240407_075.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Scan_des_AMD_Ryzen_Threadripper_7970X_20240407_075.jpg",
+            "caption": "Scan of the AMD Ryzen Threadripper 7970X with the top side. Scanned with Epso...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Abit_dual_celeron_pc_motherboard.jpg/300px-Abit_dual_celeron_pc_motherboard.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Abit_dual_celeron_pc_motherboard.jpg",
+            "caption": "A picture of the two way pc motherboard manufactured by Abit",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/KL_IBM_PowerPC_601.jpg/300px-KL_IBM_PowerPC_601.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/KL_IBM_PowerPC_601.jpg",
+            "caption": "CPU IBM PowerPC 601v, 90 MHz",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Intel_4004_ad.jpg/300px-Intel_4004_ad.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Intel_4004_ad.jpg",
+            "caption": "Intel 4004 ad in Electronic News magazine from 1971",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "X86-64",
+            "summary": "64-bit version of x86 architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/AMD_Opteron_146_Venus%2C_2005.jpg/250px-AMD_Opteron_146_Venus%2C_2005.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/X86-64"
+        },
+        {
+            "name": "Federico Faggin",
+            "summary": "Physicist, engineer, inventor and entrepreneur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Federico_Faggin_%28cropped%29.jpg/250px-Federico_Faggin_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Federico_Faggin"
+        }
+    ],
+    "territory_geojson": null
+}

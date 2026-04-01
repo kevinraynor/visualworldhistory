@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1102,
+    "parent_id": 74,
+    "granularity": "detailed",
+    "content_hash": "sha256:663bbc190dfb91c965c8f8a711a4f58044bed9c3cef6b3248a6056e501a13b23",
+    "summary": "The Decline of the Maurya Empire (232–185 BC) followed the death of [[event:1098|Ashoka the Great]] and saw the progressive fragmentation of the subcontinent's first pan-Indian state, culminating in the assassination of the last Mauryan emperor and the rise of successor kingdoms.\n\nAshoka's successors lacked his administrative genius and moral authority. The empire proved too vast to govern effectively without strong central leadership, and regional governors — many of them Mauryan princes — increasingly acted as independent rulers. Repeated division of the empire among heirs compounded the problem. Military weakness became apparent as Greek kingdoms in the northwest and local powers across the Deccan reasserted independence. The last Mauryan emperor, Brihadratha, was assassinated by his own general Pushyamitra Shunga in 185 BC, who then founded the [[event:1103|Shunga Dynasty]] that replaced Mauryan rule in the Gangetic plain.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maurya_Empire#Decline",
+    "read_more_links": [
+        {
+            "title": "Maurya Empire",
+            "url": "https://en.wikipedia.org/wiki/Maurya_Empire"
+        },
+        {
+            "title": "Pushyamitra Shunga",
+            "url": "https://en.wikipedia.org/wiki/Pushyamitra_Shunga"
+        },
+        {
+            "title": "Shunga Empire",
+            "url": "https://en.wikipedia.org/wiki/Shunga_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sarnath_capital.jpg/300px-Sarnath_capital.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sarnath_capital.jpg",
+            "caption": "Sarnath Lion Capital, Mauryan period, circa 250 BCE. The capital in 1905 at t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ashokan_Pillar_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4361.JPG/300px-Ashokan_Pillar_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4361.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ashokan_Pillar_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4361.JPG",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pataliputra_capital%2C_Bihar_Museum%2C_Patna%2C_3rd_century_BCE.jpg/300px-Pataliputra_capital%2C_Bihar_Museum%2C_Patna%2C_3rd_century_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Pataliputra_capital%2C_Bihar_Museum%2C_Patna%2C_3rd_century_BCE.jpg",
+            "caption": "Pataliputra capital, Bihar Museum, Patna, 3rd century BCE. See the descriptio...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/World_in_200_BCE.png/300px-World_in_200_BCE.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/World_in_200_BCE.png",
+            "caption": "World in 200 BCE",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Pushyamitra Shunga",
+            "summary": "Shunga Emperor from 185 to 149 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bharhut_Sunga_individual.jpg/250px-Bharhut_Sunga_individual.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pushyamitra_Shunga"
+        },
+        {
+            "name": "Ashoka",
+            "summary": "Mauryan emperor from 269 to 232 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/250px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "name": "Chandragupta Maurya",
+            "summary": "Founder of the Maurya Empire (340–295 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        },
+        {
+            "name": "Bindusara",
+            "summary": "Mauryan emperor from 297 to 273 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bindusara"
+        },
+        {
+            "name": "Dasharatha Maurya",
+            "summary": "Mauryan emperor from 232 to 224 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dasharatha_Maurya"
+        }
+    ],
+    "territory_geojson": null
+}

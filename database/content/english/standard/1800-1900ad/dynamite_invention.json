@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2638,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:cc7fd67f9fc58629d860db33595b90429b660914b78c6d4134736e867a562a78",
+    "summary": "Alfred Nobel's invention of dynamite in 1867 solved one of the great practical problems of industrial engineering: how to use the immense explosive power of nitroglycerin without the catastrophic unpredictability that made pure nitroglycerin deadly to handle. By mixing nitroglycerin with diatomaceous earth (kieselguhr) to create a stable, mouldable explosive, Nobel created a material that could be transported, stored, and deployed safely — and that transformed mining, tunneling, railway construction, and warfare.\n\nNitroglycerin had been synthesized in 1847 but was extremely sensitive to shock or heat, causing numerous fatal accidents including an explosion at Nobel's own laboratory in Stockholm in 1864 that killed his younger brother Emil. Nobel's key insight was that absorbing nitroglycerin into a porous inert material not only stabilized it but created a paste that could be shaped into sticks and inserted into drilled boreholes — ideal for blasting rock. He patented dynamite in 1867 and established factories across Europe to produce it.\n\nThe commercial success was immediate and enormous. Dynamite enabled the excavation of tunnels through the Alps, the construction of the [[event:2576|Panama Canal]], the development of mining operations worldwide, and the rapid extension of railway networks through previously impassable terrain. It also transformed military explosives and became the basis for the arms industry.\n\nNobel amassed an enormous fortune from dynamite but was troubled by its use in warfare. According to family tradition, reading his own premature obituary — 'the merchant of death is dead' — in 1888 when a French newspaper confused him with his brother — prompted him to establish the Nobel Prizes in his will, reserving most of his estate to fund annual prizes in physics, chemistry, medicine, literature, and peace. The Nobel Prizes remain among the world's most prestigious honors.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dynamite",
+    "read_more_links": [
+        {
+            "title": "Alfred Nobel – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Alfred_Nobel"
+        },
+        {
+            "title": "Alfred Nobel – Britannica",
+            "url": "https://www.britannica.com/biography/Alfred-Nobel"
+        },
+        {
+            "title": "Nobel Prize – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nobel_Prize"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aetna_dynamite.jpg/300px-Aetna_dynamite.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Aetna_dynamite.jpg",
+            "caption": "Advertisement for the Aetna Dynamite Company. Poster shows workman with a red...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Women_mixing_dynamite_at_Nobel%E2%80%99s_Ardeer_Factory_in_1897.jpg/300px-Women_mixing_dynamite_at_Nobel%E2%80%99s_Ardeer_Factory_in_1897.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Women_mixing_dynamite_at_Nobel%E2%80%99s_Ardeer_Factory_in_1897.jpg",
+            "caption": "Women mixing nitroglycerine together with sorbents (such as powdered shells o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nobels_Extradynamit_label.jpg/300px-Nobels_Extradynamit_label.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nobels_Extradynamit_label.jpg",
+            "caption": "Label on a package of \"Nobels Extradynamit\" produced by Nitroglycerin Aktiebo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Inserting_dynamite_into_hole.jpg/300px-Inserting_dynamite_into_hole.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Inserting_dynamite_into_hole.jpg",
+            "caption": "Tennessee Valley Authority. Construction of Douglas Dam. Placing a dynamite c...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Alfred Nobel",
+            "summary": "Swedish chemist and inventor (1833–1896)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/250px-Alfred_Nobel3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_Nobel"
+        },
+        {
+            "name": "Immanuel Nobel",
+            "summary": "Swedish architect, engineer, inventor, and industrialist (1801–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Immanuel_Nobel_dy.jpg/250px-Immanuel_Nobel_dy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Immanuel_Nobel"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1787,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:2c21016ecb3ff06853b68a60f87208a3c0d534afae04efb75f7ebc47aeb09c4e",
+    "summary": "The Standard of Ur, discovered by Leonard Woolley in the [[event:1727|Royal Cemetery of Ur]] and dating to approximately 2600–2400 BC, is a small trapezoidal wooden box approximately 21 by 47 centimetres, decorated on both sides and the ends with mosaic panels made from shell, red limestone, and lapis lazuli set in bitumen. It is one of the most important and evocative artefacts from the Early Dynastic period of Mesopotamia, providing a uniquely vivid visual record of Sumerian society at its height.\n\nThe two main panels of the Standard depict contrasting scenes across three registers. The 'War' side shows a Sumerian army — with its four-wheeled war chariots drawn by onagers (wild asses), heavily armed infantry in phalanx formation, and captured enemies being led before a seated king. The 'Peace' side shows a royal banquet scene with feasting, musicians, servants, and tribute-bearers bringing goods to the royal court. Together the two sides present the dual aspects of Early Dynastic rulership: military dominance and ceremonial feasting as expressions of royal authority.\n\nThe function of the Standard of Ur remains debated. It may have been a sound box for a musical instrument, a royal standard carried on a pole (hence its traditional name), or a decorative box whose purpose was purely ceremonial or funerary. Whatever its original use, it has become one of the iconic images of ancient Mesopotamia. The detail of its imagery — the specific costumes, weapons, vehicles, and social arrangements depicted — makes it an invaluable primary source for Early Dynastic Sumerian material culture and social organisation.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Standard_of_Ur",
+    "read_more_links": [
+        {
+            "title": "Royal Cemetery at Ur",
+            "url": "https://en.wikipedia.org/wiki/Royal_Cemetery_at_Ur"
+        },
+        {
+            "title": "Early Dynastic Period (Mesopotamia)",
+            "url": "https://en.wikipedia.org/wiki/Early_Dynastic_Period_(Mesopotamia)"
+        },
+        {
+            "title": "Sumerian art",
+            "url": "https://en.wikipedia.org/wiki/Art_of_ancient_Sumer"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg/300px-Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Denis_Bourez_-_British_Museum%2C_London_%288747049029%29_%282%29.jpg",
+            "caption": "Standard of Ur, British Museum, London.",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Standard_of_Ur_901bis.jpg/300px-Standard_of_Ur_901bis.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Standard_of_Ur_901bis.jpg",
+            "caption": "Standard of Ur. Sumerian artwork, ca. 2600-2400 BC. From tomb 779 Ur. British...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ur_lyre.jpg/300px-Ur_lyre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ur_lyre.jpg",
+            "caption": "Ur lyre",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ur_chariot.jpg/300px-Ur_chariot.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ur_chariot.jpg",
+            "caption": "detail of the Standard of Ur, ca. 2500 BC.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ur-Pabilsag",
+            "summary": "King of Ur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ur-Palbisag.jpg/250px-Ur-Palbisag.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Pabilsag"
+        },
+        {
+            "name": "Stele of the Vultures",
+            "summary": "Historical and mythical limestone account / depiction",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg/250px-Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stele_of_the_Vultures"
+        }
+    ],
+    "territory_geojson": null
+}

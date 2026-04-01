@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2741,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:4c3c43e33f31982a1a05b2271f5c09f916d28829164efd084e4637edb01dd031",
+    "summary": "The transistor was invented on December 23, 1947, at Bell Laboratories in Murray Hill, New Jersey, by physicists John Bardeen, Walter Brattain, and William Shockley. The device was a semiconductor amplifier that could replace the bulky, fragile, and power-hungry vacuum tubes that had served as the basis of electronic circuits since the early twentieth century. Bardeen, Brattain, and Shockley were awarded the Nobel Prize in Physics in 1956 for this achievement.\n\nThe transistor fundamentally altered the economics and scale of electronics. Vacuum tubes were large, generated substantial heat, burned out regularly, and required significant electrical power. Transistors were compact, durable, operated at low voltages, and could be manufactured cheaply. Their adoption in consumer electronics began with the portable transistor radio, first marketed by Texas Instruments in 1954, which brought radio into a genuinely personal device that could be carried anywhere.\n\nThe miniaturization of transistors was further accelerated by Jack Kilby and Robert Noyce's independently developed integrated circuits in 1958–1959, which placed multiple transistors on a single semiconductor chip. This led directly to the microprocessor and then to the [[event:2743|personal computer revolution]] of the 1970s and 1980s. By the early twenty-first century, a single computer chip could contain billions of transistors smaller than a wavelength of visible light.\n\nThe transistor is widely regarded as one of the most significant inventions of the twentieth century, and possibly of all time. It forms the foundational component of virtually every piece of modern electronic equipment, from smartphones and computers to medical imaging devices and satellite communications systems.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Transistor",
+    "read_more_links": [
+        {
+            "title": "Transistor - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/transistor"
+        },
+        {
+            "title": "John Bardeen - Nobel Prize Biography",
+            "url": "https://www.nobelprize.org/prizes/physics/1956/bardeen/biographical/"
+        },
+        {
+            "title": "History of the Transistor - Computer History Museum",
+            "url": "https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kt315b.jpg/300px-Kt315b.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Kt315b.jpg",
+            "caption": "KT315 transistor",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bardeen_Shockley_Brattain_1948.JPG/300px-Bardeen_Shockley_Brattain_1948.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bardeen_Shockley_Brattain_1948.JPG",
+            "caption": "Photo of (from left) John Bardeen, William Shockley and Walter Brattain, the ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Transistor_on_portuguese_pavement.jpg/300px-Transistor_on_portuguese_pavement.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Transistor_on_portuguese_pavement.jpg",
+            "caption": "The symbol for a transistor in mosaic on a portuguese pavement at the Univers...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Darlington_transistor_MJ1000.jpg/300px-Darlington_transistor_MJ1000.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Darlington_transistor_MJ1000.jpg",
+            "caption": "View of the chip of an MJ1000 (TO-3 case, cover removed).  NPN Darlington tra...",
+            "attribution": "Wikimedia Commons, Attribution"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Bardeen",
+            "summary": "American condensed matter physicist (1908–1991)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bardeen.jpg/250px-Bardeen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Bardeen"
+        },
+        {
+            "name": "Walter Brattain",
+            "summary": "American solid-state physicist (1902–1987)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Brattain.jpg/250px-Brattain.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Brattain"
+        },
+        {
+            "name": "William Shockley",
+            "summary": "American solid-state physicist (1910–1989)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Shockley.jpg/250px-Shockley.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Shockley"
+        },
+        {
+            "name": "Physicist",
+            "summary": "Scientist specializing in the field of physics",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Albert_Einstein_1947.jpg/250px-Albert_Einstein_1947.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Physicist"
+        },
+        {
+            "name": "Julius Edgar Lilienfeld",
+            "summary": "20th century electrical engineer and physicist (1882–1963)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Julius_Edgar_Lilienfeld_%281881-1963%29.jpg/250px-Julius_Edgar_Lilienfeld_%281881-1963%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Edgar_Lilienfeld"
+        },
+        {
+            "name": "William Eccles (physicist)",
+            "summary": "English physicist (1875–1966)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/William_Eccles_%281925%29.jpg/250px-William_Eccles_%281925%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Eccles_%28physicist%29"
+        }
+    ],
+    "territory_geojson": null
+}

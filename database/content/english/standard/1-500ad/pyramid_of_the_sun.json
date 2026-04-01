@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2069,
+    "parent_id": 1181,
+    "granularity": "notable",
+    "content_hash": "sha256:90dda920ba622ccdfeccd5a0fb6cb4cb829e74bb1fef27d3f11a6d85397a95df",
+    "summary": "The Pyramid of the Sun at Teotihuacan (constructed c. 100–250 AD) is the third-largest pyramid in the world by volume — a massive ritual structure 65 meters tall and over 220 meters per side at its base, built by the inhabitants of Teotihuacan, the largest city in pre-Columbian America, whose population at its peak (c. 400–600 AD) may have reached 125,000–200,000 people. The pyramid stands at the heart of Teotihuacan's grand ceremonial complex, aligned with the Avenue of the Dead and oriented to mark astronomical events — including the setting of the Pleiades, a significant date in Mesoamerican calendrical systems.\n\nTeotihuacan's builders and their ethnic identity remain uncertain — no deciphered writing system has been found, and the city was already an ancient, abandoned ruin when the Aztecs encountered it and gave it the name 'City of the Gods' (Teotihuacan). A cave system directly beneath the Pyramid of the Sun, discovered in the 1970s, appears to have been ritually significant — the pyramid was likely built above a sacred cave considered an entrance to the underworld. The city's extraordinary urban planning — a grid layout, uniform apartment compounds, specialized craft districts, and a multiethnic population — suggests a sophisticated state organization. Teotihuacan's influence extended throughout Mesoamerica, including to the [[event:2071|Maya city of Tikal]], and its artistic styles, ritual practices, and political power made it the dominant force in the region for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun",
+    "read_more_links": [
+        {
+            "title": "Teotihuacan city overview",
+            "url": "https://en.wikipedia.org/wiki/Teotihuacan"
+        },
+        {
+            "title": "Cave beneath pyramid",
+            "url": "https://en.wikipedia.org/wiki/Pyramid_of_the_Sun#Cave"
+        },
+        {
+            "title": "Teotihuacan influence on Maya",
+            "url": "https://en.wikipedia.org/wiki/Teotihuacan#Influence_on_other_cultures"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Panorama_Sun_Pyramid_Teotihuacan3.jpg/300px-Panorama_Sun_Pyramid_Teotihuacan3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Panorama_Sun_Pyramid_Teotihuacan3.jpg",
+            "caption": "Panoramic view of the pyramid of the Sun, Teotihuacan, Mexico.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg/300px-2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg",
+            "caption": "Archäologische Bauten in der Ruinenstadt Teotihuacán",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sun_Pyramid_05_2015_Teotihuacan_3304.JPG/300px-Sun_Pyramid_05_2015_Teotihuacan_3304.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sun_Pyramid_05_2015_Teotihuacan_3304.JPG",
+            "caption": "Panoramic view of the pyramid of the Sun, Teotihuacan, Mexico.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ciudadela_-_Blick_zur_Sonnenpyramide.jpg/300px-Ciudadela_-_Blick_zur_Sonnenpyramide.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ciudadela_-_Blick_zur_Sonnenpyramide.jpg",
+            "caption": "La Ciudadela, Teotihuacán. View to the Pyramid of the Sun",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

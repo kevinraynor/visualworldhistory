@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1738,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fc4f782d61c784bbd72fbfc42a3b813db6e07882f82515a76166885808268a74",
+    "summary": "The sexagesimal (base-60) number system, developed by the Sumerians of Mesopotamia approximately 2800–2500 BC, is one of the most enduring mathematical legacies of the ancient world. Unlike the decimal (base-10) system most commonly used today, the Sumerian system used 60 as its base unit for certain calculations, and its influence persists in the modern division of an hour into 60 minutes, a minute into 60 seconds, and a circle into 360 degrees — all direct inheritances from ancient Mesopotamian mathematical practice.\n\nThe choice of 60 as a mathematical base was practical: 60 is divisible by 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, and 30, making it an exceptionally versatile number for calculations involving fractions, divisions, and proportions. Sumerian mathematicians used this system for commercial arithmetic, land measurement, and astronomical calculations. Cuneiform tablets from this period preserve mathematical tables, including multiplication tables, tables of reciprocals, and problems involving the calculation of areas and volumes.\n\nThe sexagesimal system was adopted by the Babylonians and became the basis for the sophisticated astronomical mathematics developed in the first millennium BC. Through Greek intermediaries who learned from Babylonian astronomers, the sexagesimal system was transmitted into the Greek and then the Western intellectual tradition. The modern world thus measures time and angles in a system invented by Sumerian accountants and administrators nearly five thousand years ago, a remarkable example of cultural continuity across millennia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sexagesimal",
+    "read_more_links": [
+        {
+            "title": "Babylonian mathematics",
+            "url": "https://en.wikipedia.org/wiki/Babylonian_mathematics"
+        },
+        {
+            "title": "History of mathematics",
+            "url": "https://en.wikipedia.org/wiki/History_of_mathematics"
+        },
+        {
+            "title": "Cuneiform numerals",
+            "url": "https://en.wikipedia.org/wiki/Cuneiform_numerals"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ybc7289-bw.jpg/300px-Ybc7289-bw.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ybc7289-bw.jpg",
+            "caption": "A black and white rendition of \nmy own photograph of the Yale Babylonian Coll...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        },
+        {
+            "name": "John Wallis",
+            "summary": "English mathematician (1616–1703)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/John_Wallis_by_Sir_Godfrey_Kneller%2C_Bt.jpg/250px-John_Wallis_by_Sir_Godfrey_Kneller%2C_Bt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Wallis"
+        }
+    ],
+    "territory_geojson": null
+}

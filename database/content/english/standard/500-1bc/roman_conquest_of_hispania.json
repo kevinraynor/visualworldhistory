@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1093,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:c2ccd8b6edc46a40a1239df591dcf495f655510018e83c67bf6b00cd20c7b8b8",
+    "summary": "The Roman Conquest of Hispania (218–19 BC) was a two-century process by which Rome gradually extended its control over the Iberian Peninsula from its initial toehold during the [[event:1054|Second Punic War]] to the final pacification of the Cantabrian peoples under Augustus. The conquest transformed Iberia into one of the Empire's most important provinces and laid the cultural groundwork for modern Spanish and Portuguese civilization.\n\nRome first entered Spain during the Second Punic War, when Scipio's campaigns there cut off Carthaginian reinforcements for Hannibal in Italy. After the war, Rome found itself with two Iberian provinces (Hispania Citerior and Ulterior) populated by numerous independent Celtic, Iberian, and Celtiberian peoples who did not welcome Roman rule. The next 150 years saw persistent, costly guerrilla warfare in the peninsula's interior. The Celtiberian Wars (154–133 BC) and the brutal Lusitanian War (155–139 BC) — featuring the guerrilla leader Viriathus, who repeatedly outmaneuvered Roman armies — demonstrated how difficult the conquest would be. The fall of Numantia in 133 BC after a long Roman siege ended major Celtiberian resistance. Augustus's Cantabrian Wars (29–19 BC) finally pacified the northwest. Within two generations, Hispania was one of Rome's most Latinized provinces, birthplace of the emperors Trajan and Hadrian.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_conquest_of_the_Iberian_Peninsula",
+    "read_more_links": [
+        {
+            "title": "Viriathus",
+            "url": "https://en.wikipedia.org/wiki/Viriathus"
+        },
+        {
+            "title": "Roman Hispania",
+            "url": "https://en.wikipedia.org/wiki/Hispania"
+        },
+        {
+            "title": "Numantia",
+            "url": "https://en.wikipedia.org/wiki/Numantia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ruinas_cividade_terroso.JPG/300px-Ruinas_cividade_terroso.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ruinas_cividade_terroso.JPG",
+            "caption": "Ruins in Cividade de Terroso",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Roman_Wall_-_Emp%C3%BAries_2005-03-27.jpg/300px-Roman_Wall_-_Emp%C3%BAries_2005-03-27.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Roman_Wall_-_Emp%C3%BAries_2005-03-27.jpg",
+            "caption": "Roman Wall - Empúries 2005-03-27",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Hamilcar Barca",
+            "summary": "Carthaginian general (c. 275 – 228 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hannibal_as_a_child%2C_accompanied_by_a_Roman_soldier.jpg/250px-Hannibal_as_a_child%2C_accompanied_by_a_Roman_soldier.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hamilcar_Barca"
+        },
+        {
+            "name": "Balearic slinger",
+            "summary": "Ancient warrior",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Balearic_Slinger.jpg/250px-Balearic_Slinger.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Balearic_slinger"
+        },
+        {
+            "name": "Hasdrubal the Fair",
+            "summary": "Carthaginian military leader and politician (c. 270–221 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/AsdrubalBusto.jpg/250px-AsdrubalBusto.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hasdrubal_the_Fair"
+        },
+        {
+            "name": "Hannibal",
+            "summary": "Carthaginian general and statesman (247–183/181 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/250px-Hannibal_Barca_bust_from_Capua_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "name": "Publius Cornelius Scipio (consul 218 BC)",
+            "summary": "Roman general and statesman (died 211 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elhafen_Battle_of_Hannibal_and_Scipio.jpg/250px-Elhafen_Battle_of_Hannibal_and_Scipio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Publius_Cornelius_Scipio_%28consul_218_BC%29"
+        }
+    ],
+    "territory_geojson": null
+}

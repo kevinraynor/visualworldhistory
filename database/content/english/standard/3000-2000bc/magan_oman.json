@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1748,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:716f4a0269f8729cd03ff3b0df06e1f5dad816caf7de7ed6d1fb83e1cc57a3c6",
+    "summary": "Magan, identified by most scholars with the region of modern Oman and the eastern United Arab Emirates, was a significant Bronze Age civilisation and copper-exporting polity active approximately 2800–2000 BC. Mesopotamian cuneiform texts from the Akkadian Empire and Ur III periods frequently mention Magan as a major source of copper — one of the essential metals of the Bronze Age — as well as diorite stone (used for prestigious statues) and certain types of timber and exotic goods.\n\nThe Hafit and Umm an-Nar cultures of Oman, which correspond archaeologically to the Magan period, are known from hundreds of beehive-shaped stone tombs and settlement sites across the region. The Umm an-Nar culture (approximately 2600–2000 BC) represents the peak of this Bronze Age society, with evidence of organised copper smelting and an extensive maritime trade reaching [[event:1747|Dilmun]], Mesopotamia, [[event:46|the Indus Valley]], and Iran. The distinctive Umm an-Nar pottery and soft-stone vessels have been found at sites across the entire Gulf region, testifying to wide commercial connections.\n\nMagan's copper trade was of strategic importance to Mesopotamian civilisation. The copper ores of Oman's Hajar Mountains were among the most accessible and productive in the ancient Near East, and Magan merchants supplied the raw material that Mesopotamian craftsmen worked into tools, weapons, and ceremonial objects. The decline of Magan as a major trading partner coincides approximately with the end of the Indus Valley Civilisation and the collapse of the integrated Bronze Age trade network of the Persian Gulf around 2000 BC.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Magan_(civilization)",
+    "read_more_links": [
+        {
+            "title": "Umm an-Nar culture",
+            "url": "https://en.wikipedia.org/wiki/Umm_an-Nar_culture"
+        },
+        {
+            "title": "Copper in the Bronze Age",
+            "url": "https://en.wikipedia.org/wiki/Copper_Age"
+        },
+        {
+            "title": "Bronze Age Oman",
+            "url": "https://en.wikipedia.org/wiki/History_of_Oman"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Model_of_Magan_Boat0307pdf.jpg/300px-Model_of_Magan_Boat0307pdf.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Model_of_Magan_Boat0307pdf.jpg",
+            "caption": "Model of Magan Boat\nCherry wood and straw bundles\nLength: 0.8 m (Scale 1:15)\n...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gudea_cylinder_A_%28IX_19%29_Magan_Meluha_with_transcription.jpg/300px-Gudea_cylinder_A_%28IX_19%29_Magan_Meluha_with_transcription.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Gudea_cylinder_A_%28IX_19%29_Magan_Meluha_with_transcription.jpg",
+            "caption": "Gudea cylinder A (IX 19) Magan Meluha with transcription",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Naram-Sin of Akkad",
+            "summary": "Ruler of the Akkadian Empire (c. 2254–2218 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stele_of_Naram-Sin_of_Akkad.jpg/250px-Stele_of_Naram-Sin_of_Akkad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad"
+        },
+        {
+            "name": "Gudea",
+            "summary": "Sumerian king of Lagash (died c. 2124 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gudea_of_Lagash_Girsu.jpg/250px-Gudea_of_Lagash_Girsu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gudea"
+        },
+        {
+            "name": "Sargon of Akkad",
+            "summary": "Founder of Akkadian Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg/250px-Sargon_of_Akkad_on_his_victory_stele.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sargon_of_Akkad"
+        },
+        {
+            "name": "Ur-Nammu",
+            "summary": "King of Ur",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/King_Ur-Nammu.jpg/250px-King_Ur-Nammu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ur-Nammu"
+        }
+    ],
+    "territory_geojson": null
+}

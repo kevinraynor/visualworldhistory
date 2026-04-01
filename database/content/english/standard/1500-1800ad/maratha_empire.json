@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2368,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3529a24a2628bfe203b0b4850caca7feebcc4e9814bfe6160cba67e72b81dc82",
+    "summary": "The Maratha Empire (c. 1674–1818 AD) was the last major Hindu empire in India, founded by the brilliant guerrilla military leader Shivaji Bhonsle, who carved an independent Maratha kingdom out of [[event:2507|Mughal]] and Bijapur territories in the Deccan highlands of western India through a combination of audacious tactics, mountain warfare, and political skill. At its 18th-century peak under the Peshwas (hereditary prime ministers who became the de facto rulers), the Maratha Confederacy controlled most of peninsular India and made the Mughal emperor in Delhi effectively a puppet — collecting tribute from Bengal to Punjab and representing the primary obstacle to British domination of the subcontinent.\n\nShivaji (1627–1680), who was crowned Chhatrapati (paramount sovereign) in 1674, developed a distinctive military system exploiting the Sahyadri mountain ranges: light cavalry raids against [[event:2507|Aurangzeb's]] much larger Mughal armies, fortified hill forts as retreat bases, and a navy that challenged Portuguese and Mughal sea power. The [[event:2391|Mughal-Maratha Wars]] under Aurangzeb (1681–1707) devastated both empires — Aurangzeb spent the last 27 years of his reign fighting Marathas, bankrupting the Mughal state and dying in the Deccan without achieving victory. After Aurangzeb's death, the Marathas rapidly expanded, reaching their greatest extent under the Peshwas Bajirao I and II. The [[event:2448|Third Battle of Panipat]] (1761), in which an Afghan army under Ahmad Shah Durrani decisively defeated the Marathas, shattered Maratha power and opened northern India to British expansion. Three Anglo-Maratha Wars (1775–1818) progressively dismantled the Confederacy, with the final war ending Maratha sovereignty entirely.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maratha_Empire",
+    "read_more_links": [
+        {
+            "title": "Shivaji Bhonsle Maratha founder guerrilla warfare",
+            "url": "https://en.wikipedia.org/wiki/Shivaji"
+        },
+        {
+            "title": "Peshwa Maratha prime ministers power expansion",
+            "url": "https://en.wikipedia.org/wiki/Peshwa"
+        },
+        {
+            "title": "Anglo-Maratha Wars British conquest India",
+            "url": "https://en.wikipedia.org/wiki/Anglo-Maratha_Wars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/India_in_1785.png/300px-India_in_1785.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/India_in_1785.png",
+            "caption": "India at the time of Warren Hastings.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/India_in_1798.png/300px-India_in_1798.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/India_in_1798.png",
+            "caption": "India in 1798.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/India_in_1805.png/300px-India_in_1805.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/India_in_1805.png",
+            "caption": "India in 1805.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/India_in_1836.png/300px-India_in_1836.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/India_in_1836.png",
+            "caption": "India in 1836.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Shivaji",
+            "summary": "Chhatrapati of the Marathas from 1674 to 1680",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Shivaji_British_Museum.jpg/250px-Shivaji_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shivaji"
+        },
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Aurangzeb",
+            "summary": "Mughal emperor from 1658 to 1707",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aurangzeb-portrait.jpg/250px-Aurangzeb-portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aurangzeb"
+        },
+        {
+            "name": "Shahu I",
+            "summary": "Chhatrapati of the Marathas from 1708 to 1749",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Shahu_I_cropped.png/250px-Shahu_I_cropped.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shahu_I"
+        },
+        {
+            "name": "Baroda State",
+            "summary": "Princely state of India (1721–1949)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Baroda_flag.svg/250px-Baroda_flag.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Baroda_State"
+        },
+        {
+            "name": "Sambhaji",
+            "summary": "Chhatrapati of the Marathas from 1681 to 1689",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sambhaji_painting_late_17th_century.png/250px-Sambhaji_painting_late_17th_century.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sambhaji"
+        }
+    ],
+    "territory_geojson": null
+}

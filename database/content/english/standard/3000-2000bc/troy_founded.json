@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 47,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3b92ac03fdebb5eb8e2a37ccd6b40bd18ea1b87baa343b255e1e992af5599506",
+    "summary": "The site of Troy, known in ancient Turkish as Hisarlik, was first settled around 3000 BCE on a strategic promontory near the entrance to the Hellespont in northwestern Anatolia. This location gave its inhabitants commanding control over the maritime route between the Aegean Sea and the Black Sea, and the resulting wealth from trade and tolls allowed Troy to develop into a succession of fortified cities across more than two millennia of continuous occupation.\n\nArchaeologists have identified at least nine major settlement phases at Hisarlik, labeled Troy I through Troy IX. The earliest layers, Troy I and II (c. 3000–2200 BCE), reveal a small but prosperous citadel with substantial mudbrick fortification walls and evidence of metalworking, including bronze and gold objects. The so-called Treasure of Priam, excavated by Heinrich Schliemann in 1873 and now recognized as dating to the Troy II period rather than to any Homeric-era city, included gold diadems, vessels, and weapons representing considerable wealth for the period. Later analysis determined Schliemann had actually dug past the Homeric-era layers in his haste, but his identification of the site as Homer's Troy gave Hisarlik its enduring fame.\n\nThe city's strategic position ensured its importance persisted across millennia. Later phases, particularly Troy VI and VIIa (c. 1700–1180 BCE), were large and prosperous Bronze Age cities with high stone walls, multi-roomed buildings, and imported Mycenaean pottery, suggesting active commercial ties with the broader Aegean world. Whether any phase of the archaeological record corresponds to the legendary Trojan War remains a question that archaeology alone cannot resolve, though the destruction layer of Troy VIIa around 1180 BCE has attracted the most scholarly attention in this regard.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Troy",
+    "read_more_links": [
+        {
+            "title": "Hisarlik - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hisarlik"
+        },
+        {
+            "title": "Heinrich Schliemann - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Heinrich_Schliemann"
+        },
+        {
+            "title": "Troy - Britannica",
+            "url": "https://www.britannica.com/place/Troy-ancient-city-Turkey"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Troya_3.jpg/300px-Troya_3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Troya_3.jpg",
+            "caption": "Troya",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Troya_6.jpg/300px-Troya_6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Troya_6.jpg",
+            "caption": "Troya",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Troya_9.jpg/300px-Troya_9.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Troya_9.jpg",
+            "caption": "Troya",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Troy_Museum_9913.jpg/300px-Troy_Museum_9913.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Troy_Museum_9913.jpg",
+            "caption": "The Troy Museum is essentially a box. On the web I found: \"a weathering-steel...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Virgil",
+            "summary": "1st-century-BC Roman poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/250px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil"
+        },
+        {
+            "name": "Buttress",
+            "summary": "Architectural structure",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MIAG-AO_CHURCH_2.JPG/250px-MIAG-AO_CHURCH_2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Buttress"
+        }
+    ],
+    "territory_geojson": null
+}

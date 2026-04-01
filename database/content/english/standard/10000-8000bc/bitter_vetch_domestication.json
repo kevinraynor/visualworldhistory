@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1396,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:24c649dd96c26d83d5ced239f31b65bacb88e94d3c34310f3b39478c84aa8c81",
+    "summary": "Bitter vetch (Vicia ervilia) is one of the eight founder crops of Near Eastern agriculture, domesticated in the Levant and Anatolia during the early Neolithic period around 9000–7500 BCE. It is a small-seeded legume that, in the wild, contains compounds requiring careful preparation (soaking, boiling, draining) to neutralize before consumption — processes that early Neolithic communities clearly developed. Despite its bitter taste requiring processing, it was widely cultivated in the ancient Near East and Mediterranean as an important protein source.\n\nBitter vetch was typically grown mixed with other legumes and cereals, contributing to the dietary diversity of early farming communities. Like other founder crop legumes, it provides nitrogen fixation when planted in rotation with cereals, improving soil fertility over time. Bitter vetch appears in the botanical assemblages of early Neolithic sites across the Levant and southeastern Anatolia as part of the package of founder crops that included the two wheats, barley, peas, lentils, [[event:1395|chickpeas]], and flax. Though it fell from cultivation in many areas as other crops came to dominate, bitter vetch remained in use in parts of the Mediterranean and Near East into the modern period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vicia_ervilia",
+    "read_more_links": [
+        {
+            "title": "Founder Crops - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Founder_crops"
+        },
+        {
+            "title": "Neolithic Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Revolution"
+        },
+        {
+            "title": "Legume History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Legume"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vicia_ervilia_Sturm7.jpg/300px-Vicia_ervilia_Sturm7.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Vicia_ervilia_Sturm7.jpg",
+            "caption": "Vicia ervilia (L.) Willd.\n\nOriginal Description\nErwenlinse, Vicia ervilia",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        }
+    ],
+    "territory_geojson": null
+}

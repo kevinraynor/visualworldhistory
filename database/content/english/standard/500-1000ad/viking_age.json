@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 88,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d4b2ec4d272ed379b1a689de0e912618cad5bcafe66ffe009db9a37e81284ea0",
+    "summary": "The Viking Age (c. 793–1066 AD) was the era of Scandinavian Norse expansion across Europe and the North Atlantic — a period in which Norwegian, Danish, and Swedish seafarers raided, traded, settled, and colonized territories from the British Isles and Normandy to Russia, Iceland, Greenland, and briefly North America. The conventional starting date is the [[event:2143|raid on Lindisfarne]] monastery in 793 AD; the end is usually marked by the Norman Conquest of England in 1066 (the Normans themselves being Viking descendants). The Vikings' sophisticated longships — shallow-drafted vessels that could navigate both open oceans and shallow rivers — gave them extraordinary geographic reach.\n\nThe Viking impact varied enormously by region: in England they raided, extorted Danegeld payments, settled the [[event:2144|Danelaw]], and nearly conquered the whole island before [[event:2150|Alfred the Great]] checked their advance; in Ireland they founded Dublin and other coastal towns; in France they raided Paris multiple times and eventually received Normandy as a fiefdom; in Russia they established the [[event:2148|Kievan Rus]] trading network; in [[event:2145|Iceland]] and [[event:2146|Greenland]] they established permanent European colonies; and in [[event:2147|Vinland]] (North America) they made the first documented European contact with the Americas, 500 years before Columbus. The Vikings were also traders, colonizers, and diplomats — the stereotypical image of purely destructive raiders obscures their role as merchants and state-builders.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Viking_Age",
+    "read_more_links": [
+        {
+            "title": "Viking longship technology",
+            "url": "https://en.wikipedia.org/wiki/Longship"
+        },
+        {
+            "title": "Viking Age overview",
+            "url": "https://en.wikipedia.org/wiki/Viking_Age#Overview"
+        },
+        {
+            "title": "Norse society culture",
+            "url": "https://en.wikipedia.org/wiki/Norse_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Catoira_060905_033.JPG/300px-Catoira_060905_033.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Catoira_060905_033.JPG",
+            "caption": "Statue in Catoira, Galicia, commemorating the Viking invasions.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hvalsey_Church.jpg/300px-Hvalsey_Church.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hvalsey_Church.jpg",
+            "caption": "Hvalsey Church",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bildsten_med_skepp_800-1099_Tj%C3%A4ngvide%2C_Gotland.jpg/300px-Bildsten_med_skepp_800-1099_Tj%C3%A4ngvide%2C_Gotland.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bildsten_med_skepp_800-1099_Tj%C3%A4ngvide%2C_Gotland.jpg",
+            "caption": "Detalj från bildsten med skepp 800-1099 Tjängvide, Gotland.",
+            "attribution": "Wikimedia Commons, CC BY 2.5 se"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Model_of_viking_age_Aarhus_02.JPG/300px-Model_of_viking_age_Aarhus_02.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Model_of_viking_age_Aarhus_02.JPG",
+            "caption": "Model in Vikingemuseet in Aarhus in Denmark showing how Aarhus may have looke...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vikings",
+            "summary": "Norse seafarers, merchants and raiders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg/250px-Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vikings"
+        },
+        {
+            "name": "Viking activity in the British Isles",
+            "summary": "Aspect of Viking expansion",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cnutcoin.jpg/250px-Cnutcoin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Viking_activity_in_the_British_Isles"
+        },
+        {
+            "name": "Varangians",
+            "summary": "Slavic and Greek designation of Vikings",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Varangian_routes.png/250px-Varangian_routes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Varangians"
+        },
+        {
+            "name": "Primary source",
+            "summary": "First-hand account of information",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pompeii-couple.jpg/250px-Pompeii-couple.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Primary_source"
+        },
+        {
+            "name": "Northumberland",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bamburgh_MMB_55_Bamburgh_Castle_%28edited%2C_cropped%29.jpg/250px-Bamburgh_MMB_55_Bamburgh_Castle_%28edited%2C_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Northumberland"
+        },
+        {
+            "name": "Thomas Bartholin",
+            "summary": "Danish physician, mathematician and theologian (1616–1680)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Thomas_bartholin.jpg/250px-Thomas_bartholin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Bartholin"
+        }
+    ],
+    "territory_geojson": null
+}

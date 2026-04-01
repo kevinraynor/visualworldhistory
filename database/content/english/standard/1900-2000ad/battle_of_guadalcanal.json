@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3341,
+    "parent_id": 3340,
+    "granularity": "detailed",
+    "content_hash": "sha256:e33e3965f852e0fe115c0a2e27dc51bc568c444e9f800fe544ffdc36e5b5d2a4",
+    "summary": "The Guadalcanal campaign (August 1942 – February 1943) was the first major offensive operation by Allied forces against the Japanese Empire in the [[event:3340|Pacific War]] and the first test of the island-hopping strategy. American Marines landed on Guadalcanal in the Solomon Islands in August 1942 to capture a nearly complete Japanese airfield, renamed Henderson Field. The campaign became a prolonged struggle for the island fought simultaneously on land, at sea, and in the air.\n\nThe naval dimension was particularly intense, with numerous night surface actions fought in the waters around Guadalcanal — collectively named Iron Bottom Sound for the ships sunk there. Japan and the United States each lost numerous cruisers and destroyers, and the campaign consumed significant naval resources on both sides. Japanese attempts to reinforce and resupply their garrison through the Tokyo Express (destroyer supply runs) gradually became unsustainable as American air power strengthened.\n\nAfter six months of fighting, Japan evacuated approximately 10,000 surviving troops in early February 1943. The campaign cost Japan approximately 24,000 killed and massive quantities of aircraft and pilots that could not be replaced at the same rate as American losses. Guadalcanal confirmed that the Japanese defensive perimeter could be broken and established the operational template for subsequent island-hopping campaigns toward Japan.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guadalcanal_campaign",
+    "read_more_links": [
+        {
+            "title": "Guadalcanal - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Guadalcanal-Campaign"
+        },
+        {
+            "title": "Henderson Field - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Henderson_Field"
+        },
+        {
+            "title": "Iron Bottom Sound - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ironbottom_Sound"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marines_rest_in_the_field_on_Guadalcanal.jpg/300px-Marines_rest_in_the_field_on_Guadalcanal.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Marines_rest_in_the_field_on_Guadalcanal.jpg",
+            "caption": "Marines rest in the field on Guadalcanal",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg/300px-Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg",
+            "caption": "The U.S. Navy heavy cruiser USS Chicago (CA-29) low in the water on 30 Januar...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg/300px-Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Torpedoed_cruiser_USS_Chicago_%28CA-29%29_low_in_the_water_on_30_January_1943.jpg",
+            "caption": "The U.S. Navy heavy cruiser USS Chicago (CA-29) low in the water on 30 Januar...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Robert L. Ghormley",
+            "summary": "United States Navy admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ghormley%3Bg12864.jpg/250px-Ghormley%3Bg12864.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_L._Ghormley"
+        },
+        {
+            "name": "William Halsey Jr.",
+            "summary": "United States Navy admiral (1882–1959)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/W_Halsey.jpg/250px-W_Halsey.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Halsey_Jr."
+        },
+        {
+            "name": "Richmond K. Turner",
+            "summary": "American admiral (1885–1961)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Richmond_Kelly_Turner_%28cropped%29.jpg/250px-Richmond_Kelly_Turner_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richmond_K._Turner"
+        },
+        {
+            "name": "Frank Jack Fletcher",
+            "summary": "USN admiral, Medal of Honor recipient (1885–1973)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Frank_Jack_Fletcher-g14193.jpg/250px-Frank_Jack_Fletcher-g14193.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frank_Jack_Fletcher"
+        },
+        {
+            "name": "William H. Rupertus",
+            "summary": "United States Marine Corps general (1889–1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/William_H._Rupertus.jpg/250px-William_H._Rupertus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_H._Rupertus"
+        },
+        {
+            "name": "Merritt A. Edson",
+            "summary": "United States Marine Corps general and Medal of Honor recipient (1897–1955)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/EdsonMikeRed.jpg/250px-EdsonMikeRed.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merritt_A._Edson"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2177,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:efa9a99b185263e1e8e1fce9a6f5e3922900156e236926761fa8eb757bd25600",
+    "summary": "Great Zimbabwe (origins c. 9th–11th centuries AD, peak c. 11th–15th centuries) was the largest stone structure in sub-Saharan Africa — a city of over 18,000 people at its peak, built entirely without mortar from precisely fitted granite blocks, that served as the capital of a powerful Shona kingdom controlling the gold trade between the interior of southern Africa and the [[event:2178|Swahili Coast]] trading ports. The name 'Zimbabwe' derives from the Shona dzimba-dza-mabwe ('houses of stone'), and modern Zimbabwe takes its national name from this site.\n\nThe massive stone enclosures of Great Zimbabwe — particularly the Great Enclosure (with its 11-meter walls and 250-meter circumference, the largest ancient structure in sub-Saharan Africa) and the Hill Complex — were built by Shona-speaking peoples over centuries, with construction beginning around the 9th century and reaching its peak in the 14th–15th centuries. Great Zimbabwe was a major trade center: Chinese porcelain, Persian glass, and Arab coins found at the site attest to its connections with the Indian Ocean trade network via the Swahili Coast cities. The city controlled the gold and ivory trade routes from inland Zimbabwe to the coast, enabling the accumulation of wealth that funded its construction. The site was abandoned around 1450 AD, probably due to environmental degradation and the shifting of trade routes. Colonial-era Europeans denied that Africans had built it — a racist denial now thoroughly refuted by archaeology.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+    "read_more_links": [
+        {
+            "title": "Great Enclosure walls construction",
+            "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe#Great_Enclosure"
+        },
+        {
+            "title": "Colonial denial African authorship",
+            "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe#Colonial-era_controversy"
+        },
+        {
+            "title": "Great Zimbabwe trade connections",
+            "url": "https://en.wikipedia.org/wiki/Great_Zimbabwe#Trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_037_-_Detail_of_a_Great_Zimbabwe_wall_with_lichen_-_Masvingo%2C_Zimbabwe.jpg/300px-ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_037_-_Detail_of_a_Great_Zimbabwe_wall_with_lichen_-_Masvingo%2C_Zimbabwe.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/ASC_Leiden_-_Rietveld_Collection_-_East_Africa_1975_-_05_-_037_-_Detail_of_a_Great_Zimbabwe_wall_with_lichen_-_Masvingo%2C_Zimbabwe.jpg",
+            "caption": "Detail of a Great Zimbabwe wall with lichen.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg/300px-Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg",
+            "caption": "Great Zimbabwe",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Great-zim-aerial-looking-SE.JPG/300px-Great-zim-aerial-looking-SE.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Great-zim-aerial-looking-SE.JPG",
+            "caption": "ę Part of the Hill Fort is visible in the foreground.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/300px-Great-zim-aerial-looking-West.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Great-zim-aerial-looking-West.JPG",
+            "caption": "Aerial view of Great Zimbabwe's Great Enclosure (circumference 250 m, maximum...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

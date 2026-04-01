@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1164,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:bc9b2c6fe5aaaf3b37b1a0af4e2b8b2c2efe0720f408d6e0a37d614226637544",
+    "summary": "The Early Phase of Bantu Migration (c. 500 BC – 1 AD) was the gradual expansion of Bantu-speaking peoples from their homeland near the Nigeria-Cameroon border southward and eastward across central and eastern Africa — one of the largest and most consequential migrations in human prehistory, reshaping the linguistic, cultural, and demographic map of the African continent.\n\nThe Bantu expansion is reconstructed from linguistic evidence (the family tree of Bantu languages) and archaeological traces of the Urewe culture, which spread Iron Age technology through central Africa. The early phase saw movement through the Congo basin into East Africa; a later phase (from roughly 0–1000 AD) continued southward toward southern Africa. The Bantu-speaking migrants carried iron-working technology, agricultural practices (sorghum, millet), and pottery styles that gave them economic advantages over the hunter-gatherer peoples they encountered. The migration was not a rapid military conquest but a slow, multigenerational process of settlement, intermarriage, and displacement over centuries. Its result was that Bantu languages — now numbering over 500 — are spoken by roughly 350 million people across sub-Saharan Africa today, making the Bantu expansion one of the most linguistically transformative events in human history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bantu_expansion",
+    "read_more_links": [
+        {
+            "title": "Bantu languages",
+            "url": "https://en.wikipedia.org/wiki/Bantu_languages"
+        },
+        {
+            "title": "Urewe culture",
+            "url": "https://en.wikipedia.org/wiki/Urewe"
+        },
+        {
+            "title": "African Iron Age",
+            "url": "https://en.wikipedia.org/wiki/Iron_Age_in_Africa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rock_painting_of_men_with_sheilds.jpg/300px-Rock_painting_of_men_with_sheilds.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Rock_painting_of_men_with_sheilds.jpg",
+            "caption": "A photograph of a San rock art painting on display at the Iziko Museum in Cap...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/East_and_southern_africa_early_iron_age.png/300px-East_and_southern_africa_early_iron_age.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/East_and_southern_africa_early_iron_age.png",
+            "caption": "Spread of the \"Early Iron Age\" in Eastern, Central and Southern Africa, a pro...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bantu_Phillipson.png/300px-Bantu_Phillipson.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bantu_Phillipson.png",
+            "caption": "Bantu Phillipson",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Kwale County",
+            "summary": "County in Kenya",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kwale_County_in_Kenya.svg/250px-Kwale_County_in_Kenya.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kwale_County"
+        }
+    ],
+    "territory_geojson": null
+}

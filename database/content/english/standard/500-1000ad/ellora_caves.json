@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2174,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:92b33ad857008112e1e0398d6879b4ab9ef9ca5301c15cd3748f8f458b862e4b",
+    "summary": "The Ellora Caves (carved c. 600–1000 AD in Maharashtra, India) are a complex of 34 rock-cut temples representing Buddhism, Hinduism, and Jainism carved from a basalt cliff face over four centuries — a remarkable testament to religious pluralism and architectural ambition in medieval India. The 12 Buddhist caves (c. 600–800 AD) include multi-story monasteries and assembly halls; the 17 Hindu caves (c. 600–900 AD) include the extraordinary Kailasa Temple; and the 5 Jain caves (c. 800–1000 AD) feature intricate decorative carving. All three traditions coexisted in the same cliff, reflecting the religious diversity patronized by the [[event:2172|Rashtrakuta]] and earlier Chalukya rulers.\n\nThe crowning achievement is the Kailasa Temple (Cave 16), commissioned by Rashtrakuta king Krishna I around 760 AD — carved top-down from the living rock to create a free-standing temple complex representing Mount Kailash (Shiva's cosmic home in the Himalayas). The complex includes a main shrine, subsidiary shrines, galleries, and massive elephant and obelisk sculptures, all carved from a single basalt outcrop. The scale and technical difficulty are staggering: an estimated 200,000 tons of rock were removed by chiseling, and the finished complex rivals the Parthenon in size. The Kailasa Temple has been called 'a miracle carved in stone' and represents the supreme achievement of Indian rock-cut architecture. Ellora is a UNESCO World Heritage Site.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ellora_Caves",
+    "read_more_links": [
+        {
+            "title": "Kailasa Temple Ellora supreme",
+            "url": "https://en.wikipedia.org/wiki/Kailasa_temple,_Ellora"
+        },
+        {
+            "title": "Ellora three religions caves",
+            "url": "https://en.wikipedia.org/wiki/Ellora_Caves#Description"
+        },
+        {
+            "title": "Rock-cut architecture India",
+            "url": "https://en.wikipedia.org/wiki/Rock-cut_architecture_in_India"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ellora_Caves_86.jpg/300px-Ellora_Caves_86.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ellora_Caves_86.jpg",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ELLORA_CAVE_NO._16_%286%29.jpg/300px-ELLORA_CAVE_NO._16_%286%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/ELLORA_CAVE_NO._16_%286%29.jpg",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ellora%2C_Aurangabad%2C_Maharashtra.jpg/300px-Ellora%2C_Aurangabad%2C_Maharashtra.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Ellora%2C_Aurangabad%2C_Maharashtra.jpg",
+            "caption": "This beautiful temple was made from one huge enormous rock.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Digitally_restored_Ellora_mural.png/300px-Digitally_restored_Ellora_mural.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Digitally_restored_Ellora_mural.png",
+            "caption": "Digitally restored Ellora mural of the Rashtrakuta period. The image depicts ...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Krishna I",
+            "summary": "Rashtrakuta emperor from 756 to 774",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Old_Kannada_inscription_%28765_AD%29_from_Hattimattur_inscription_of_Rashtrakuta_King_Krishna_I.jpg/250px-Old_Kannada_inscription_%28765_AD%29_from_Hattimattur_inscription_of_Rashtrakuta_King_Krishna_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Krishna_I"
+        },
+        {
+            "name": "Dravidian architecture",
+            "summary": "Architectural idiom in Hindu temple architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thiruvannamalai%2C_Arunachalesvara_Temple%2C_Annamalaiyar_Temple%2C_India.jpg/250px-Thiruvannamalai%2C_Arunachalesvara_Temple%2C_Annamalaiyar_Temple%2C_India.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dravidian_architecture"
+        },
+        {
+            "name": "Shikhara",
+            "summary": "Tower or spire in Indian temple architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Khajuraho3.jpg/250px-Khajuraho3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shikhara"
+        },
+        {
+            "name": "Dantidurga",
+            "summary": "Founder of the Rashtrakuta Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rashtrakutas_Coins_25-07-23_15-44-48-445.png/250px-Rashtrakutas_Coins_25-07-23_15-44-48-445.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dantidurga"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2159,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ede65cd2e3b4a614873ae62b5b0ee3268648f85d25489c8248d017873539c245",
+    "summary": "The Diamond Sutra (printed May 11, 868 AD) is the world's oldest dated printed book — a scroll of the Vajracchedika Prajnaparamita Sutra (a key Mahayana Buddhist text on the nature of reality and non-attachment) produced using [[event:2158|woodblock printing]] in Tang China, discovered in the sealed library cave at [[event:3551|Dunhuang]] in 1900. The colophon at the end reads: 'Reverently made for universal free distribution by Wang Jie on behalf of his two parents on the 13th of the 4th moon of the 9th year of Xiantong [868 AD]' — a pious act of merit-making through the reproduction of sacred text.\n\nThe Diamond Sutra is significant both as a technological artifact and as a religious document. As an artifact, it demonstrates that woodblock printing had by 868 AD already achieved high quality — the text is clear, the printing is precise, and the format is sophisticated, suggesting the technology had been developing for generations before this dated example. As a religious document, the Diamond Sutra is one of the most influential texts in East Asian Buddhism, teaching that reality as perceived is illusory and that attachment to concepts (including the concept of 'self') causes suffering — a teaching that profoundly influenced [[event:2096|Zen/Chan Buddhism]]. The scroll was acquired by British archaeologist Aurel Stein from the monk Wang Yuanlu in 1907 and is now in the British Library in London, where it remains one of the most important objects in the collection. Its presence in London rather than China is a source of ongoing cultural heritage controversy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+    "read_more_links": [
+        {
+            "title": "Diamond Sutra Buddhist text",
+            "url": "https://en.wikipedia.org/wiki/Vajracchedika_Prajnaparamita_Sutra"
+        },
+        {
+            "title": "Aurel Stein Dunhuang acquisition",
+            "url": "https://en.wikipedia.org/wiki/Aurel_Stein"
+        },
+        {
+            "title": "Oldest printed books history",
+            "url": "https://en.wikipedia.org/wiki/History_of_printing_in_East_Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Diamond_Sutra_Rev_12-12-24.jpg/300px-Diamond_Sutra_Rev_12-12-24.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Diamond_Sutra_Rev_12-12-24.jpg",
+            "caption": "repainted based on a sketch of the Diamond Sutra found in the Mogao Caves",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jingangjing.jpg/300px-Jingangjing.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jingangjing.jpg",
+            "caption": "Frontispiece, Diamond Sutra from Cave 17, Dunhuang, ink on paper.\nA page from...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Soyambhu_Kathmandu_Nepal_%285112575694%29.jpg/300px-Soyambhu_Kathmandu_Nepal_%285112575694%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Soyambhu_Kathmandu_Nepal_%285112575694%29.jpg",
+            "caption": "Soyambhu Kathmandu Nepal",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kumarajiva_at_Kizil_Caves%2C_Kuqa.jpg/300px-Kumarajiva_at_Kizil_Caves%2C_Kuqa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kumarajiva_at_Kizil_Caves%2C_Kuqa.jpg",
+            "caption": "Kumarajiva in front of Kizil Caves, Kuqa, Xinjiang, China",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Yizong of Tang",
+            "summary": "Emperor of Tang China from 859 to 873",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/TangYizong.jpg/250px-TangYizong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Yizong_of_Tang"
+        },
+        {
+            "name": "Vasubandhu",
+            "summary": "4th/5th century Buddhist monk",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vasubandhu.png/250px-Vasubandhu.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vasubandhu"
+        },
+        {
+            "name": "Kumārajīva",
+            "summary": "Kuchan Buddhist monk and translator (344-413)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kumarajiva_at_Kizil_Caves%2C_Kuqa_%28cropped%29.jpg/250px-Kumarajiva_at_Kizil_Caves%2C_Kuqa_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva"
+        },
+        {
+            "name": "Xuanzang",
+            "summary": "Chinese Buddhist monk and scholar (602–664)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Xuanzang_w.jpg/250px-Xuanzang_w.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xuanzang"
+        },
+        {
+            "name": "Yijing (monk)",
+            "summary": "Chinese Buddhist monk (635–713 CE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yi_Jing.JPG/250px-Yi_Jing.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yijing_%28monk%29"
+        },
+        {
+            "name": "Kuiji",
+            "summary": "Chinese monk and disciple of Xuanzang (632–682)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jion_Daishi.jpg/250px-Jion_Daishi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kuiji"
+        }
+    ],
+    "territory_geojson": null
+}

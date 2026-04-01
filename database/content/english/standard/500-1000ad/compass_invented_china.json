@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2941,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:652c4d66c0bc2c992029ec180f9b6da623a928f2a3798126db2afb51afa27acf",
+    "summary": "The invention of the magnetic compass in China (c. 9th–11th centuries AD) was a foundational navigational achievement that would eventually enable the age of oceanic exploration and global interconnection. The earliest Chinese compasses were not navigational instruments but geomantic tools used in feng shui and divination: lodestone spoons (which naturally align to magnetic north) mounted on polished divination boards are attested from the Han Dynasty, but the deliberate use of magnetized needles as directional instruments appears in Chinese texts from the 9th century onward, with a clear description of a fish-shaped magnetized iron float used for navigation appearing in Shen Kuo's 'Dream Pool Essays' (1088 AD).\n\nThe Song Dynasty military and commercial use of the compass for maritime navigation is well documented by the 11th century. Chinese merchant vessels were using compass navigation in the South China Sea and Indian Ocean trade routes, giving them reliable directional capability regardless of cloud cover and enabling more confident open-ocean sailing. The technology spread to the Arab world by the 12th century and to Europe by approximately 1190, where it was described almost simultaneously in English, French, and Italian sources — suggesting rapid transmission through Mediterranean trading networks. European adoption of the compass, combined with improvements in ship design and astronomical navigation, directly enabled the Portuguese exploration of African coastlines and eventually the voyages of Columbus and da Gama in the late 15th century — making the Chinese compass one of the causal links in the chain leading to European global expansion.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Compass",
+    "read_more_links": [
+        {
+            "title": "Shen Kuo Dream Pool Essays compass description",
+            "url": "https://en.wikipedia.org/wiki/Dream_Pool_Essays"
+        },
+        {
+            "title": "Magnetic compass Chinese history navigation",
+            "url": "https://en.wikipedia.org/wiki/Compass#Chinese_compasses"
+        },
+        {
+            "title": "Compass spread Europe maritime navigation",
+            "url": "https://en.wikipedia.org/wiki/Compass#Medieval_Europe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%D7%9E%D7%A6%D7%A4%D7%9F.jpg/300px-%D7%9E%D7%A6%D7%A4%D7%9F.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%D7%9E%D7%A6%D7%A4%D7%9F.jpg",
+            "caption": "Close up of a geological compass",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/CompassWick.jpg/300px-CompassWick.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/CompassWick.jpg",
+            "caption": "A Greek maritime liquid compass with an additional wick compartment for illum...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Brunton.JPG/300px-Brunton.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brunton.JPG",
+            "caption": "A Brunton Pocket Transit, a specialized compass used by geologists and other ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/300px-2016_Busola.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG",
+            "caption": "Compass with sighting",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thales of Miletus",
+            "summary": "Ancient Greek philosopher (c. 624 – c. 545 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/250px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thales_of_Miletus"
+        },
+        {
+            "name": "Geomancy",
+            "summary": "Method of divination that interprets markings on the ground",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ghoreh_001.JPG/250px-Ghoreh_001.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Geomancy"
+        },
+        {
+            "name": "Shen Kuo",
+            "summary": "Chinese scientist and statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg/250px-Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shen_Kuo"
+        }
+    ],
+    "territory_geojson": null
+}

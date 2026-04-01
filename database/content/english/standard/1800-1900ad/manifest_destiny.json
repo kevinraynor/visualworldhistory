@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2566,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b83b15cd5bc1cc59aa0034714f9df2cf427d27c1537f3c5ecf43837bc3f8f268",
+    "summary": "Manifest Destiny was the widely held nineteenth-century American belief that the United States was destined — by God, by history, or by the inherent superiority of its civilization — to expand its territory across the North American continent from the Atlantic to the Pacific. Coined by journalist John L. O'Sullivan in 1845, the phrase captured an expansionist ideology that justified and propelled American territorial acquisitions that more than tripled the country's size between 1803 and 1853.\n\nThe doctrine provided moral and ideological cover for a series of territorial expansions. The [[event:2601|Louisiana Purchase]] of 1803 doubled the country's territory. Florida was acquired from Spain in 1819. The Republic of Texas was annexed in 1845, triggering the [[event:2567|Mexican-American War]] that added California, New Mexico, and the present-day American Southwest. The Oregon Territory was negotiated with Britain in 1846. The Gadsden Purchase of 1853 completed the continental expansion of the contiguous United States.\n\nManifest Destiny operated on several interlocking beliefs: the providential mission of American democracy to spread across the continent, the racial superiority of Anglo-Saxon Americans over Mexican, Native American, and other populations in their path, and the economic necessity of access to markets and resources. These beliefs were deeply contested — the abolitionist movement, for example, feared that territorial expansion would create new slave states and intensify sectional conflict, which it did.\n\nFor Native American peoples, Manifest Destiny meant dispossession, the [[event:2564|Trail of Tears]], wars of extermination, and confinement to reservations on ever-shrinking land. The buffalo herds of the Great Plains were deliberately destroyed to starve the Plains nations into submission. The [[event:2558|transcontinental railroad]] sliced through their territories. By the time of the [[event:2631|Wounded Knee Massacre]] in 1890, the military conquest of Native America was essentially complete, and the census bureau declared the American frontier officially closed. The ideology of Manifest Destiny did not stop at the Rio Grande or the Pacific Coast: it was later invoked to justify the [[event:2551|Spanish-American War]] and the acquisition of overseas territories from Cuba to the Philippines.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manifest_destiny",
+    "read_more_links": [
+        {
+            "title": "Manifest Destiny – Britannica",
+            "url": "https://www.britannica.com/event/Manifest-Destiny"
+        },
+        {
+            "title": "American Westward Expansion – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Westward_expansion_of_the_United_States"
+        },
+        {
+            "title": "Mexican-American War – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Annexation_Here_to_Stay.jpg/300px-Annexation_Here_to_Stay.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Annexation_Here_to_Stay.jpg",
+            "caption": "Annexation announcement in the Pacific Commerical Advertiser, July 14, 1898.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mitchell_A_New_Map_of_Texas%2C_Oregon%2C_and_California_1846_UTA.jpg/300px-Mitchell_A_New_Map_of_Texas%2C_Oregon%2C_and_California_1846_UTA.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Mitchell_A_New_Map_of_Texas%2C_Oregon%2C_and_California_1846_UTA.jpg",
+            "caption": "Published just before the War with Mexico, Mitchell's map embodies the theme ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Battle_of_San_Jacinto_%281895%29.jpg/300px-The_Battle_of_San_Jacinto_%281895%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_Battle_of_San_Jacinto_%281895%29.jpg",
+            "caption": "The Battle of San Jacinto",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/American_Progress_%28John_Gast_painting%29.jpg/300px-American_Progress_%28John_Gast_painting%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/American_Progress_%28John_Gast_painting%29.jpg",
+            "caption": "This painting shows Manifest Destiny, the belief in westward expansion of the...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Gast (painter)",
+            "summary": "American painter & lithographer (1842–1896)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/American_Progress_%28John_Gast_painting%29.jpg/250px-American_Progress_%28John_Gast_painting%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Gast_%28painter%29"
+        },
+        {
+            "name": "Abraham Lincoln",
+            "summary": "President of the United States from 1861 to 1865",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/250px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+        },
+        {
+            "name": "John Quincy Adams",
+            "summary": "President of the United States from 1825 to 1829",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/JQA_Photo_Crop_%28cropped%29.jpg/250px-JQA_Photo_Crop_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Quincy_Adams"
+        },
+        {
+            "name": "William McKinley",
+            "summary": "President of the United States from 1897 to 1901",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/McKinley_%28cropped%29.jpg/250px-McKinley_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_McKinley"
+        },
+        {
+            "name": "Andrew Jackson",
+            "summary": "President of the United States from 1829 to 1837",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/250px-Andrew_jackson_head_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Jackson"
+        },
+        {
+            "name": "John L. O'Sullivan",
+            "summary": "American columnist and politician (1813–1895)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_O%27Sullivan.jpg/250px-John_O%27Sullivan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_L._O%27Sullivan"
+        }
+    ],
+    "territory_geojson": null
+}

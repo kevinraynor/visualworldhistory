@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2038,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d7c7fbd99250c3a3e41f715a622eb829bbd7b7357ea9703f547275dc034893d0",
+    "summary": "The Germanic Migration Period (c. 375–568 AD, also called the Völkerwanderung) was the massive movement of Germanic and other peoples — Goths, Vandals, Burgundians, Franks, Angles, Saxons, Lombards, and others — across the collapsing frontiers of the Western Roman Empire, fundamentally reshaping the ethnic, political, and cultural map of Europe. Triggered in part by Hunnic pressure from the east, which pushed western nomadic and semi-nomadic peoples into Roman territory, the migrations transformed the Roman provinces into the predecessor kingdoms of medieval Europe.\n\nThe migrations unfolded over roughly two centuries in overlapping waves: Visigoths crossed the Danube in 376, eventually sacking Rome in 410 ([[event:2033|Sack of Rome by Visigoths]]); Vandals swept through Gaul, crossed into Spain, then into North Africa; Angles and Saxons crossed the North Sea into Britain; Franks settled northern Gaul and became the dominant western power under Clovis ([[event:2041|Frankish Kingdom under Clovis]]). The process was not simple invasion but complex interaction — mercenary service, treaty settlement, intermarriage with Roman aristocracy, and gradual Christianization were all part of how Germanic peoples became Romans while also dismantling Roman political structures. The resulting patchwork of Germanic kingdoms formed the foundations of medieval France, Germany, Spain, England, and Italy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Migration_Period",
+    "read_more_links": [
+        {
+            "title": "Völkerwanderung overview",
+            "url": "https://en.wikipedia.org/wiki/Migration_Period#Overview"
+        },
+        {
+            "title": "Hunnic pressure as trigger",
+            "url": "https://en.wikipedia.org/wiki/Huns#Impact_on_Migration_Period"
+        },
+        {
+            "title": "Germanic kingdoms list",
+            "url": "https://en.wikipedia.org/wiki/Germanic_peoples#Kingdoms"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pair_of_radiate-head_bow_brooches%2C_Slavic%2C_2_of_2%2C_c._600-650_AD%2C_copper_alloy%2C_gilding_-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06620.jpg/300px-Pair_of_radiate-head_bow_brooches%2C_Slavic%2C_2_of_2%2C_c._600-650_AD%2C_copper_alloy%2C_gilding_-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06620.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pair_of_radiate-head_bow_brooches%2C_Slavic%2C_2_of_2%2C_c._600-650_AD%2C_copper_alloy%2C_gilding_-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06620.jpg",
+            "caption": "Exhibit in the Morgan Library & Museum - New York City, New York, USA.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/East-Hem_100ad.jpg/300px-East-Hem_100ad.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/East-Hem_100ad.jpg",
+            "caption": "Eastern Hemisphere in 100 AD.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Europe_and_the_Near_East_at_476_AD.png/300px-Europe_and_the_Near_East_at_476_AD.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Europe_and_the_Near_East_at_476_AD.png",
+            "caption": "Political division in Europe, North Africa and Near East after the end of the...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Old_Great_Bulgaria_and_migration_of_Bulgarians.png/300px-Old_Great_Bulgaria_and_migration_of_Bulgarians.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Old_Great_Bulgaria_and_migration_of_Bulgarians.png",
+            "caption": "Fall of the Old Great Bulgaria (665) and migration of Bulgarians.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vikings",
+            "summary": "Norse seafarers, merchants and raiders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg/250px-Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vikings"
+        },
+        {
+            "name": "Varangians",
+            "summary": "Slavic and Greek designation of Vikings",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Varangian_routes.png/250px-Varangian_routes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Varangians"
+        },
+        {
+            "name": "Gaius Marius",
+            "summary": "Roman general and statesman (c. 157–86 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png/250px-RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Tacitus",
+            "summary": "Roman historian and senator (56–120)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/250px-Wien-_Parlament-Tacitus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tacitus"
+        },
+        {
+            "name": "Odoacer",
+            "summary": "Ruler of Italy (c. 433 – 493)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png/250px-Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Odoacer"
+        }
+    ],
+    "territory_geojson": null
+}

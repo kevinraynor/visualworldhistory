@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2017,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:0d012c5adbf53d19b0fdd496d95b085f6af0d3ab7e344b96cd5fea9a143ffc63",
+    "summary": "The Great Fire of Rome (64 AD) burned for six days and seven nights, destroying or damaging 10 of Rome's 14 districts and leaving hundreds of thousands homeless. The fire started near the Circus Maximus and spread rapidly through the densely packed wooden insulae (apartment blocks) of the city. Emperor Nero's response was extensive: he opened his palaces as emergency shelters, organized food supplies, and launched an ambitious rebuilding program that created wider streets and fire-resistant construction — genuinely improved urban planning.\n\nNero's reputation, however, was destroyed by rumors that he had started the fire deliberately to clear land for his enormous Domus Aurea ('Golden House') palace complex, and by the legend that he 'fiddled while Rome burned' (anachronistic, since the fiddle did not exist — he supposedly played the lyre and sang). To deflect blame, Nero attributed the fire to the Christians — launching the first official Roman persecution of the new sect, in which Peter and Paul were reportedly executed. Whether the fire was deliberate, accidental, or started naturally remains unknown. The Tacitean account in Annals 15 is our primary source; Tacitus himself does not definitively assign blame to Nero while recording the rumors.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+    "read_more_links": [
+        {
+            "title": "Nero Domus Aurea palace",
+            "url": "https://en.wikipedia.org/wiki/Domus_Aurea"
+        },
+        {
+            "title": "Tacitus Annals account",
+            "url": "https://en.wikipedia.org/wiki/Annals_(Tacitus)#The_Great_Fire_of_Rome"
+        },
+        {
+            "title": "Christian persecution aftermath",
+            "url": "https://en.wikipedia.org/wiki/Nero%27s_persecution_of_Christians"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Siemiradski_Fackeln.jpg/300px-Siemiradski_Fackeln.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Siemiradski_Fackeln.jpg",
+            "caption": "Siemiradski Fackeln",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg/300px-Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert%2C_Hubert_-_Incendie_%C3%A0_Rome_-.jpg",
+            "caption": "Robert, Hubert - Incendie à Rome -",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hubert Robert",
+            "summary": "French painter (1733–1808)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%C3%89lisabeth-Louise_Vig%C3%A9e-Le_Brun_-_Hubert_Robert_%281788%29.jpg/250px-%C3%89lisabeth-Louise_Vig%C3%A9e-Le_Brun_-_Hubert_Robert_%281788%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hubert_Robert"
+        },
+        {
+            "name": "Tacitus",
+            "summary": "Roman historian and senator (56–120)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/250px-Wien-_Parlament-Tacitus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tacitus"
+        },
+        {
+            "name": "Nero",
+            "summary": "Roman emperor from AD 54 to 68",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/250px-Nero_Glyptothek_Munich_321.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nero"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Poppaea Sabina",
+            "summary": "Roman empress from 62 to 65 AD",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Poppea_Sabina_-_MNR_Palazzo_Massimo.jpg/250px-Poppea_Sabina_-_MNR_Palazzo_Massimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Poppaea_Sabina"
+        },
+        {
+            "name": "Agrippina the Younger",
+            "summary": "Roman empress from AD 49 to 54",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rome_Agrippina_Minor.jpg/250px-Rome_Agrippina_Minor.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Agrippina_the_Younger"
+        }
+    ],
+    "territory_geojson": null
+}

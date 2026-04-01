@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3322,
+    "parent_id": 110,
+    "granularity": "detailed",
+    "content_hash": "sha256:189e51a73b916754177d7ed3558bdb9a7dc36fecc0ae0438b8eb9632efd942a8",
+    "summary": "The First Battle of the Marne, fought September 5–12, 1914, halted the German advance into France and ended any prospect of a quick German victory in the west, transforming [[event:110|World War I]] into the prolonged attritional conflict that would last four years. The German Schlieffen Plan had aimed to knock France out of the war in six weeks by sweeping through Belgium and encircling Paris. German forces came within forty kilometers of the French capital before the Allied counteroffensive at the Marne forced a German retreat to the Aisne River.\n\nThe battle is notable for the taxis of the Marne — a celebrated episode in which Parisian taxi cabs were requisitioned to rush reinforcements to the front, transporting around 6,000 soldiers. While militarily modest in scale, the episode became a powerful symbol of civilian mobilization and improvised defense. The battle involved approximately two million men on both sides and resulted in heavy casualties.\n\nThe German retreat to the Aisne led to the Race to the Sea as both sides attempted to outflank each other northward, ultimately establishing the trench line from Switzerland to the English Channel that defined the Western Front for most of the war. The Marne was thus the moment at which the war of movement ended and the war of attrition began, dooming Germany's short-war strategy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne",
+    "read_more_links": [
+        {
+            "title": "Battle of the Marne - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/First-Battle-of-the-Marne"
+        },
+        {
+            "title": "Schlieffen Plan - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Schlieffen_Plan"
+        },
+        {
+            "title": "Western Front WWI - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Western_Front_(World_War_I)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_battle_of_Meaux_September_1914.jpg/300px-The_battle_of_Meaux_September_1914.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/The_battle_of_Meaux_September_1914.jpg",
+            "caption": "Der Krieg 1914-19 in Wort und Bild, published 1919.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Taxi_de_la_Marne%2C_Mus%C3%A9e_de_l%27Arm%C3%A9e-IMG_0987.jpg/300px-Taxi_de_la_Marne%2C_Mus%C3%A9e_de_l%27Arm%C3%A9e-IMG_0987.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Taxi_de_la_Marne%2C_Mus%C3%A9e_de_l%27Arm%C3%A9e-IMG_0987.jpg",
+            "caption": "Renault Type AG-1, Ausführung G 7, Taxi de la Marne.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0 fr"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Infanterie-fran%C3%A7aise-rol.jpg/300px-Infanterie-fran%C3%A7aise-rol.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Infanterie-fran%C3%A7aise-rol.jpg",
+            "caption": "French infantrymen bayonet charge",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_the_Marne%2C_west_flank_1914.jpg/300px-Battle_of_the_Marne%2C_west_flank_1914.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Battle_of_the_Marne%2C_west_flank_1914.jpg",
+            "caption": "Map Marne 1914a",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph Joffre",
+            "summary": "French general (1852–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Portrait_de_Joseph_Joffre_%28cropped%29%28b%29.jpg/250px-Portrait_de_Joseph_Joffre_%28cropped%29%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Joffre"
+        },
+        {
+            "name": "Joseph Gallieni",
+            "summary": "French Army general (1849–1916)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Gen._Gallieni_LCCN2014697689_%28cropped%29.jpg/250px-Gen._Gallieni_LCCN2014697689_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Gallieni"
+        },
+        {
+            "name": "Michel-Joseph Maunoury",
+            "summary": "French Military Commander",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Michel-Joseph_Maunoury.jpg/250px-Michel-Joseph_Maunoury.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michel-Joseph_Maunoury"
+        },
+        {
+            "name": "Ferdinand Foch",
+            "summary": "French general and military theorist (1851–1929)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg/250px-Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Foch"
+        },
+        {
+            "name": "John French, 1st Earl of Ypres",
+            "summary": "British Army general (1852–1925)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Field_Marshal_Sir_John_French_2.jpg/250px-Field_Marshal_Sir_John_French_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_French%2C_1st_Earl_of_Ypres"
+        },
+        {
+            "name": "Helmuth von Moltke the Younger",
+            "summary": "Chief of the German General Staff (1848–1916)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Generalleutnant_von_Moltke%2C_der_neue_Chef_des_Generalstabs%2C_1906_%28cropped%29.jpg/250px-Generalleutnant_von_Moltke%2C_der_neue_Chef_des_Generalstabs%2C_1906_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Helmuth_von_Moltke_the_Younger"
+        }
+    ],
+    "territory_geojson": null
+}

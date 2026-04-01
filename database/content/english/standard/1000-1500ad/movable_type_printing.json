@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3025,
+    "parent_id": 3024,
+    "granularity": "notable",
+    "content_hash": "sha256:f0fb012c943debc96785559816d70eea198c43df36f502d937b6be95b0315f8f",
+    "summary": "Movable type printing, developed in [[event:3024|Song Dynasty China]] by Bi Sheng around 1040 AD using ceramic characters and later refined in wood (Wang Zhen, c. 1298) and metal (Korea, 13th century, and Gutenberg in Europe, c. 1440), was one of the most consequential technologies in the history of human communication, enabling the mechanized reproduction of text at scale and initiating the age of mass literacy, widespread book ownership, and rapid information dissemination that transformed the world's great civilizations. The concept predated Gutenberg's implementation by four centuries in East Asia.\n\nIn China, movable type faced the challenge of thousands of required characters versus the European alphabet's mere 26 letters, limiting its transformative impact relative to block printing in the East Asian context. In Korea, the Goryeo Dynasty developed bronze movable type by the 13th century, producing sophisticated printed texts including the Jikji (1377), the world's oldest surviving book printed with metal movable type. In Europe, Gutenberg's specific synthesis of the concept with a practical alphabet, oil-based ink, and the screw press created a technology of extraordinary efficiency: a trained compositor could set several hundred characters per hour, and a press could print hundreds of identical pages per day — compared to a scribe's perhaps four pages. Within fifty years of Gutenberg's Bible, thousands of print shops operated across Europe, millions of books had been printed, and the information monopoly of Church and court had been permanently broken. The connection between movable type's diffusion and the Protestant Reformation, Scientific Revolution, and rise of national vernacular literatures is direct and well-documented.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Movable_type",
+    "read_more_links": [
+        {
+            "title": "Bi Sheng ceramic type Song Dynasty",
+            "url": "https://en.wikipedia.org/wiki/Bi_Sheng"
+        },
+        {
+            "title": "Jikji Korean metal type oldest book",
+            "url": "https://en.wikipedia.org/wiki/Jikji"
+        },
+        {
+            "title": "Gutenberg European movable type printing",
+            "url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jingangjing.jpg/300px-Jingangjing.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jingangjing.jpg",
+            "caption": "Frontispiece, Diamond Sutra from Cave 17, Dunhuang, ink on paper.\nA page from...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%E6%B4%BB%E5%AD%97%E3%80%8A%E4%BD%9B%E8%AF%B4%E8%A7%82%E6%97%A0%E9%87%8F%E5%AF%BF%E4%BD%9B%E7%BB%8F%E3%80%8B%E6%AE%8B%E5%8F%B6.jpg/300px-%E6%B4%BB%E5%AD%97%E3%80%8A%E4%BD%9B%E8%AF%B4%E8%A7%82%E6%97%A0%E9%87%8F%E5%AF%BF%E4%BD%9B%E7%BB%8F%E3%80%8B%E6%AE%8B%E5%8F%B6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/%E6%B4%BB%E5%AD%97%E3%80%8A%E4%BD%9B%E8%AF%B4%E8%A7%82%E6%97%A0%E9%87%8F%E5%AF%BF%E4%BD%9B%E7%BB%8F%E3%80%8B%E6%AE%8B%E5%8F%B6.jpg",
+            "caption": "​活字《佛说观无量寿佛经》残叶，温州白象塔出土，温州博物馆藏。被认为是现存最早的活字印刷品。",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mikl%C3%B3s_Andor_in_the_page-setting_room_of_Athenaeum_Printing_House_-_cca._1920_%281%29.tiff/300px-Mikl%C3%B3s_Andor_in_the_page-setting_room_of_Athenaeum_Printing_House_-_cca._1920_%281%29.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mikl%C3%B3s_Andor_in_the_page-setting_room_of_Athenaeum_Printing_House_-_cca._1920_%281%29.tiff",
+            "caption": "Scanned by and courtesy of Derzsi Elekes Andor. Miklós Andor joined Athenaeum...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Die_Buchdruckerei_by_Daniel_Chodowiecki_%28150289207%29.jpg/300px-Die_Buchdruckerei_by_Daniel_Chodowiecki_%28150289207%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Die_Buchdruckerei_by_Daniel_Chodowiecki_%28150289207%29.jpg",
+            "caption": "Tab. XXI c. Die Buchdruckerei. (Beschreibung lt. Quelle)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bi Sheng",
+            "summary": "Chinese inventor of moveable type (972–1051)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg/250px-Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bi_Sheng"
+        },
+        {
+            "name": "Shen Kuo",
+            "summary": "Chinese scientist and statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg/250px-Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shen_Kuo"
+        },
+        {
+            "name": "Wang Zhen (inventor)",
+            "summary": "Officer and inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%E6%B0%B4%E7%A3%A8.jpg/250px-%E6%B0%B4%E7%A3%A8.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wang_Zhen_%28inventor%29"
+        },
+        {
+            "name": "Johannes Gutenberg",
+            "summary": "German inventor and craftsman (died 1468)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg/250px-Mainz_Gutenbergdenkmal_2016_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Gutenberg"
+        },
+        {
+            "name": "Emperor Guangwu of Han",
+            "summary": "Emperor of China from 25 to 57 AD",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Han_Guangwu_Di.jpg/250px-Han_Guangwu_Di.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han"
+        },
+        {
+            "name": "Kublai Khan",
+            "summary": "Emperor of Yuan China from 1271 to 1294",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/250px-YuanEmperorAlbumKhubilaiPortrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kublai_Khan"
+        }
+    ],
+    "territory_geojson": null
+}

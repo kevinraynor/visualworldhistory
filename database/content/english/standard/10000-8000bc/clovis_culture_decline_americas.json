@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1283,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2378b113300c12570920cfc0beda678266d5f0dd9fd337d2ac2c56e1c3a10d5f",
+    "summary": "The Clovis culture was the earliest well-documented tradition of big-game hunters in North America, characterized by distinctive fluted bifacial spear points and other stone tools, with dates spanning roughly 13,000 to 12,700 BCE. By approximately 10,800 BCE, the Clovis pattern disappears from the archaeological record across North America, replaced by more regionally diverse tool traditions — a transition known as the Clovis decline or Clovis collapse.\n\nThe causes of the Clovis decline coincide with multiple major events: the onset of the [[event:1261|Younger Dryas]] cold reversal, the [[event:1289|extinction of North American megafauna]] including mammoths, mastodons, horses, and camels, and possible demographic disruption within the human population. The relative contributions of hunting pressure, climate change, and disease to the megafaunal extinctions — and thus to the Clovis decline — remain actively debated. A highly controversial hypothesis proposed that a comet or asteroid airburst triggered a biomass-burning event at approximately 12,900 BCE (the Younger Dryas Boundary), potentially causing ecological collapse, though this impact hypothesis has not achieved scientific consensus.\n\nFrom the Clovis decline emerged a variety of regional successor traditions including the [[event:1284|Folsom tradition]] in the Great Plains and numerous other Late Paleo-Indian cultures adapted to the changing post-megafauna environments of North America. These cultures demonstrate the resilience and adaptability of early American populations as they adjusted to dramatically altered ecological circumstances at the close of the Pleistocene.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clovis_culture",
+    "read_more_links": [
+        {
+            "title": "Younger Dryas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Younger_Dryas"
+        },
+        {
+            "title": "Paleo-Indians - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Paleo-Indians"
+        },
+        {
+            "title": "North American Megafauna Extinction - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Quaternary_extinction_event"
+        },
+        {
+            "title": "Clovis Culture - Britannica",
+            "url": "https://www.britannica.com/topic/Clovis-culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Valley_of_Mexico_in_Pleistocene_%289778653573%29.jpg/300px-Valley_of_Mexico_in_Pleistocene_%289778653573%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Valley_of_Mexico_in_Pleistocene_%289778653573%29.jpg",
+            "caption": "Prehistoric Mexico Gallery, INAH, National Anthropology Museum, Mexico City. ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Clovis_spearpoints_-_Cleveland_Museum_of_Natural_History.jpg/300px-Clovis_spearpoints_-_Cleveland_Museum_of_Natural_History.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Clovis_spearpoints_-_Cleveland_Museum_of_Natural_History.jpg",
+            "caption": "Clovis spearpoints on display at the Cleveland Museum of Natural History in C...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Clovis_spear_shaft_diagram.png/300px-Clovis_spear_shaft_diagram.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Clovis_spear_shaft_diagram.png",
+            "caption": "Sketch of assembled Clovis pike concept with tapered, stout mainshaft (brown)...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Clovis_beveled_rod_replica.png/300px-Clovis_beveled_rod_replica.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Clovis_beveled_rod_replica.png",
+            "caption": "From source:Two views of a reassembled beveled bone rod or foreshaft from the...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

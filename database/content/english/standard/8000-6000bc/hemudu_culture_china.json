@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1424,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e63f5a253f649b0a77814531124252933950c71d43bb982a55112ae13d6a160b",
+    "summary": "The Hemudu culture, located along the southern shore of Hangzhou Bay in Zhejiang province of eastern China, was an important Neolithic culture of the Yangtze River delta region dated from approximately 7000 to 5000 BCE. Excavated beginning in 1973 after its discovery during construction work near the town of Hemudu, the site revealed remarkable organic preservation conditions caused by waterlogged deposits, yielding an extraordinary range of well-preserved wooden objects, plant remains, and other organic materials rarely encountered in Chinese archaeological sites.\n\nThe Hemudu culture is celebrated above all for its early and well-documented [[event:16|rice cultivation]]. Large quantities of carbonized rice grains, rice husks, and rice straw were found at the site, along with wooden paddles and spades interpreted as agricultural tools. The site demonstrates sophisticated management of a wetland environment suited to rice growing, and represents one of the clearest early examples of organized rice agriculture in East Asia. Alongside rice, Hemudu communities exploited a diverse range of wild aquatic and terrestrial resources including fish, turtles, crocodiles, deer, and wild plants.\n\nAmong the most remarkable finds from Hemudu are elaborately carved bone and wooden objects, including tools decorated with incised bird motifs, and the remains of a large pile-dwelling settlement built on wooden stilts above the marshy ground. The lacquered red bowls found at the site are among the earliest evidence of lacquerware in the world. The Hemudu culture demonstrates that Neolithic communities of the Yangtze delta had developed sophisticated craft traditions, complex symbolic lives, and an adapted architecture suited to their wetland environment — a cultural florescence that proceeded independently of and in parallel with the better-known Neolithic developments of the Yellow River valley to the north.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hemudu_culture",
+    "read_more_links": [
+        {
+            "title": "History of Rice Cultivation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_rice_cultivation"
+        },
+        {
+            "title": "Neolithic China - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_China"
+        },
+        {
+            "title": "Prehistoric China - Britannica",
+            "url": "https://www.britannica.com/place/China/Prehistoric-period"
+        },
+        {
+            "title": "Chinese Neolithic Cultures",
+            "url": "https://en.wikipedia.org/wiki/List_of_Neolithic_cultures_of_China"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Neolithic_ivory_phoenix.jpg/300px-Neolithic_ivory_phoenix.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Neolithic_ivory_phoenix.jpg",
+            "caption": "Neolithic ivory phoenix. Hemudu Culture. National Museum: China Through the A...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CMOC_Treasures_of_Ancient_China_exhibit_-_black_pottery_cauldron.jpg/300px-CMOC_Treasures_of_Ancient_China_exhibit_-_black_pottery_cauldron.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/CMOC_Treasures_of_Ancient_China_exhibit_-_black_pottery_cauldron.jpg",
+            "caption": "Black Pottery Cauldron\nHemudu Culture\nNeolithic Period (ca. 5000 - 3000 B.C.)...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hangzhou_2006_18-64.jpg/300px-Hangzhou_2006_18-64.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hangzhou_2006_18-64.jpg",
+            "caption": "Neolithic Bow with Pig Image, 4,000 BC, excavated at Hemudu Site, exhibited i...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

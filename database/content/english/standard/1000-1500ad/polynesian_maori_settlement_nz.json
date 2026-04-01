@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2302,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:0154e15665fa32f3249b26ca1c011f4db84321c95d399531bf0de30ed964e76e",
+    "summary": "The Polynesian settlement of New Zealand (Aotearoa, c. 1250–1300 AD) was the last major human settlement of a large landmass, as Eastern Polynesian voyagers — ancestors of the Māori people — navigated the vast South Pacific using traditional wayfinding techniques (stars, currents, bird flight, wave patterns) to reach the most remote large islands in the ocean. New Zealand, located over 2,000 kilometers southeast of the nearest Polynesian islands, was the last substantial territory on Earth to be permanently settled by humans.\n\nThe settlers arrived in multiple waves, likely from the Society Islands or Cook Islands region, bringing with them the foundational elements of Polynesian culture: the kumara (sweet potato), dogs, rats, and a sophisticated material culture including adze technology, weaving, and oral tradition. New Zealand's unique environment — temperate rather than tropical, with enormous moa birds (flightless birds reaching 3.6 meters in height) and no terrestrial predators — both challenged and rewarded the settlers. The first centuries saw intensive hunting of moa and other birds; by 1400, the moa were likely extinct, representing one of the earliest documented human-caused megafaunal extinctions. The Māori adapted their Polynesian culture to New Zealand's temperate environment, developing the pā (fortified hilltop settlement), intensive kumara cultivation, and a rich tradition of carving, tattooing, and oratory. When European navigator Abel Tasman made first European contact in 1642 and James Cook arrived in 1769, he encountered a population of perhaps 100,000–200,000 Māori with a sophisticated society.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Māori_people",
+    "read_more_links": [
+        {
+            "title": "Polynesian navigation wayfinding Pacific",
+            "url": "https://en.wikipedia.org/wiki/Polynesian_navigation"
+        },
+        {
+            "title": "Moa extinction New Zealand Maori hunting",
+            "url": "https://en.wikipedia.org/wiki/Moa"
+        },
+        {
+            "title": "New Zealand Aotearoa settlement history",
+            "url": "https://en.wikipedia.org/wiki/History_of_New_Zealand#Polynesian_settlement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Te_Matatini_2015_027.jpg/300px-Te_Matatini_2015_027.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Te_Matatini_2015_027.jpg",
+            "caption": "2015 Te Matatini in Hagley Park, Christchurch",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TeReoMaori2013.png/300px-TeReoMaori2013.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/TeReoMaori2013.png",
+            "caption": "Map of New Zealand showing the percentage of people in each census area unit ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wahine_Toa_Leadership_Conference%2C_October_28_2016_%2829981680323%29.jpg/300px-Wahine_Toa_Leadership_Conference%2C_October_28_2016_%2829981680323%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Wahine_Toa_Leadership_Conference%2C_October_28_2016_%2829981680323%29.jpg",
+            "caption": "Wahine Toa Gala Dinner",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/New_Zealand_-_Maori_rowing_-_8444.jpg/300px-New_Zealand_-_Maori_rowing_-_8444.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/New_Zealand_-_Maori_rowing_-_8444.jpg",
+            "caption": "New Zealand Maori rowing ceremonial coreography",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Abel Tasman",
+            "summary": "Dutch seafarer, explorer and merchant (1603–1659)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Abel_Tasman_-_Cuyp_%28cropped%29_%28adjusted%29.jpg/250px-Abel_Tasman_-_Cuyp_%28cropped%29_%28adjusted%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abel_Tasman"
+        },
+        {
+            "name": "James Cook",
+            "summary": "British explorer and naval officer (1728–1779)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/250px-Captainjamescookportrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Cook"
+        },
+        {
+            "name": "Marc-Joseph Marion du Fresne",
+            "summary": "French explorer and cartographer (1724–1772)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Marc-Joseph_Marion_du_Fresne_jpg.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marc-Joseph_Marion_du_Fresne"
+        },
+        {
+            "name": "Rangatira",
+            "summary": "Hereditary Māori leaders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ihaia_Te_Kirikumara.jpg/250px-Ihaia_Te_Kirikumara.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rangatira"
+        }
+    ],
+    "territory_geojson": null
+}

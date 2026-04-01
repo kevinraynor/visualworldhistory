@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 4,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:15086cb5c60abf074451b8f7d50eca15a6c024f8c08769692036030606900fbf",
+    "summary": "The Natufian culture was a sedentary or semi-sedentary hunter-gatherer society that flourished in the Levant — modern-day Israel, Palestine, Jordan, Lebanon, and Syria — between approximately 14,500 and 11,500 BCE. Named after Wadi en-Natuf in the West Bank where the culture was first identified, the Natufians represent a crucial transitional phase between mobile foraging and settled agricultural life. They are considered the direct cultural ancestors of the first Neolithic farmers in the region.\n\nNatufian communities built the first known permanent or semi-permanent structures in the Levant, using stone foundations with perishable superstructures of wood and brush. Their settlements, such as those at Ain Mallaha (Eynan) and Hayonim Cave, could house dozens of individuals year-round, sustained by the intensive harvesting of wild cereals, legumes, nuts, and game animals. Stone mortars, pestles, and sickle blades with a characteristic silica sheen from cutting grasses are hallmarks of the culture.\n\nThe Natufians maintained elaborate mortuary practices, including [[event:3840|complex burial customs]] involving grave goods, personal ornaments, and in some cases the deliberate burial of dogs alongside humans — one of the earliest known examples of human-canid social bonding. Their art included carved stone and bone figurines, decorated tools, and personal ornaments made from shells traded over considerable distances.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Natufian_culture",
+    "read_more_links": [
+        {
+            "title": "Natufian Culture - Britannica",
+            "url": "https://www.britannica.com/topic/Natufian-culture"
+        },
+        {
+            "title": "Origins of Sedentism - Oxford Handbook of the Archaeology of Death and Burial",
+            "url": "https://en.wikipedia.org/wiki/Ain_Mallaha"
+        },
+        {
+            "title": "Hayonim Cave - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hayonim_Cave"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Limestone_%26_basalt_mortars_from_Eynan%2C_early_Natufian_circa_12500_BC.jpg/300px-Limestone_%26_basalt_mortars_from_Eynan%2C_early_Natufian_circa_12500_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Limestone_%26_basalt_mortars_from_Eynan%2C_early_Natufian_circa_12500_BC.jpg",
+            "caption": "Limestone & Basalt Mortars Early Natufian circa 12000 BC Israel Museum, Jerus...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stone_Mortars_from_Eynan%2C_Natufian_period.jpg/300px-Stone_Mortars_from_Eynan%2C_Natufian_period.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Stone_Mortars_from_Eynan%2C_Natufian_period.jpg",
+            "caption": "Stone Mortars from Eynan, Natufian period\nIsrael Museum, Jerusalem, Israel. C...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Basalt_%26_Limestone_Mortar_%26_Pestle%2C_Natufian_Culture.jpg/300px-Basalt_%26_Limestone_Mortar_%26_Pestle%2C_Natufian_Culture.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Basalt_%26_Limestone_Mortar_%26_Pestle%2C_Natufian_Culture.jpg",
+            "caption": "Basalt & Limestone Mortar & Pestle, Natufian Culture\nIsrael Museum, Jerusalem...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Israel_Museum_Stone_Age_Artifact.jpg/300px-Israel_Museum_Stone_Age_Artifact.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Israel_Museum_Stone_Age_Artifact.jpg",
+            "caption": "Israel Museum Stone Age Artifact Israel Museum, Jerusalem, Israel. Complete i...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

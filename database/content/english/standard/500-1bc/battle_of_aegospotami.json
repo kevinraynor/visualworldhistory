@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1013,
+    "parent_id": 1010,
+    "granularity": "detailed",
+    "content_hash": "sha256:422b463722058a52244a5c4c2e043c4b0ca6f2d7ac02cabb68bc7de79d375638",
+    "summary": "The Battle of Aegospotami (405 BC) was the final naval engagement of the [[event:1010|Peloponnesian War]], in which the Spartan admiral Lysander destroyed the Athenian fleet almost entirely while it was beached on the Thracian shore of the Hellespont. The battle effectively ended the war by cutting off Athens's grain supply from the Black Sea region, forcing the city to surrender the following year.\n\nLysander had spent years patiently rebuilding Sparta's naval power with Persian funding, and he was a cunning commander who waited for the right moment. For four days, the Athenian fleet under multiple generals challenged Lysander to battle; he declined each time. On the fifth day, as the Athenians pulled ashore in disorder to forage for food, Lysander's fleet struck. Most of the Athenian ships were captured with minimal resistance; only a handful escaped under Conon. Some 3,000–4,000 Athenian captives were executed by Lysander, who singled them out for retribution over Athenian wartime atrocities. The destruction of the fleet was the final blow that led to Athens's [[event:1016|Surrender of Athens]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Aegospotami",
+    "read_more_links": [
+        {
+            "title": "Lysander",
+            "url": "https://en.wikipedia.org/wiki/Lysander"
+        },
+        {
+            "title": "Hellespont",
+            "url": "https://en.wikipedia.org/wiki/Dardanelles"
+        },
+        {
+            "title": "Peloponnesian War",
+            "url": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Agean_Sea_map_geographical.jpg/300px-Agean_Sea_map_geographical.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Agean_Sea_map_geographical.jpg",
+            "caption": "Agean Sea map geographical",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Meeting_between_Cyrus_the_Younger_and_Lysander%2C_by_Francesco_Antonio_Grue_%281618-1673%29%2C_maiolica_with_a_dusting_technique%2C_Castelli_manufacture%2C_Abruzzo._Italy%2C_17th_century.jpg/300px-Meeting_between_Cyrus_the_Younger_and_Lysander%2C_by_Francesco_Antonio_Grue_%281618-1673%29%2C_maiolica_with_a_dusting_technique%2C_Castelli_manufacture%2C_Abruzzo._Italy%2C_17th_century.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Meeting_between_Cyrus_the_Younger_and_Lysander%2C_by_Francesco_Antonio_Grue_%281618-1673%29%2C_maiolica_with_a_dusting_technique%2C_Castelli_manufacture%2C_Abruzzo._Italy%2C_17th_century.jpg",
+            "caption": "Meeting between Cyrus the Younger and Lysander, by Francesco Antonio Grue (16...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_across_the_Hellespont_to_Aigospotamoi.jpg/300px-View_across_the_Hellespont_to_Aigospotamoi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/View_across_the_Hellespont_to_Aigospotamoi.jpg",
+            "caption": "View across the Hellespont to Aigospotamoi",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lysander",
+            "summary": "Spartan military and political leader (died 395 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg/250px-Lysander_outside_the_walls_of_Athens_19th_century_lithograph.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lysander"
+        },
+        {
+            "name": "Conon",
+            "summary": "5th/4th-century BCE Athenian statesman and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Conon.jpg/250px-Conon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conon"
+        },
+        {
+            "name": "Xenophon",
+            "summary": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/250px-Bust_of_Xenophon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xenophon"
+        },
+        {
+            "name": "Cyrus the Younger",
+            "summary": "Achaemenid prince, satrap of Lydia from 408 to 401 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Portrait_of_an_anonymous_Satrap_IONIA%2C_Phokaia._Circa_478-387_BC.jpg/250px-Portrait_of_an_anonymous_Satrap_IONIA%2C_Phokaia._Circa_478-387_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Younger"
+        },
+        {
+            "name": "Darius II",
+            "summary": "King of Kings of the Achaemenid Empire from 423 to 405/4 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Darius_II_%28reduced_shadow%29.jpg/250px-Darius_II_%28reduced_shadow%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_II"
+        },
+        {
+            "name": "Alcibiades",
+            "summary": "Athenian general and statesman (c. 450–404 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Detail_of_Alcibiades_from_Alcibiades_Being_Taught_by_Socrates_%281776%29_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg/250px-Detail_of_Alcibiades_from_Alcibiades_Being_Taught_by_Socrates_%281776%29_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alcibiades"
+        }
+    ],
+    "territory_geojson": null
+}

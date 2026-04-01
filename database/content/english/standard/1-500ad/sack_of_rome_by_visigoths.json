@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2033,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f3ce043f8305d5f60d1c0bab0b5431ecb2d6bd85a4bb4c9fac34b793d9f4dc47",
+    "summary": "The Visigothic Sack of Rome (August 24–27, 410 AD) was the first time the city of Rome had been sacked by an enemy in 800 years (since the Gauls in 390 BC) and sent psychological shockwaves through the entire Roman world. Led by the Visigothic king Alaric — himself a former Roman general who had repeatedly sought official imperial recognition and land for his people — the sack followed years of fruitless negotiation with the Western court, which repeatedly promised and withheld settlements.\n\nThe sack lasted three days and was relatively controlled by ancient standards — the Visigoths spared churches and Christian property (being themselves Arian Christians) and did not destroy the city. But the psychological impact was enormous: Augustine of Hippo began writing The City of God (413–426 AD) partly in response to pagan arguments that the catastrophe resulted from Rome abandoning its gods for Christianity. Jerome in Bethlehem wrote 'The city that had taken the whole world was itself taken.' The sack demonstrated that Rome could no longer guarantee its own security, accelerating the political fragmentation of the Western Empire and the [[event:2038|Germanic Migration Period]] process that would culminate in the [[event:85|Fall of Western Roman Empire]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)",
+    "read_more_links": [
+        {
+            "title": "Alaric Visigothic king",
+            "url": "https://en.wikipedia.org/wiki/Alaric_I"
+        },
+        {
+            "title": "Augustine City of God response",
+            "url": "https://en.wikipedia.org/wiki/The_City_of_God"
+        },
+        {
+            "title": "Roman reactions to the sack",
+            "url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)#Reaction"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visigoths_sack_Rome.jpg/300px-Visigoths_sack_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Visigoths_sack_Rome.jpg",
+            "caption": "Painting by Joseph-Noel Silvestre \"The Plunder of Rome\"",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/John_William_Waterhouse_-_The_Favorites_of_the_Emperor_Honorius_-_1883.jpg/300px-John_William_Waterhouse_-_The_Favorites_of_the_Emperor_Honorius_-_1883.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/John_William_Waterhouse_-_The_Favorites_of_the_Emperor_Honorius_-_1883.jpg",
+            "caption": "John William Waterhouse - The Favorites of the Emperor Honorius - 1883",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Roman_empire_395.jpg/300px-Roman_empire_395.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Roman_empire_395.jpg",
+            "caption": "Das römische Reich zum Zeitpunkt des Todes Theodosius' I. 395 n. Chr.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alaric_entering_Athens.jpg/300px-Alaric_entering_Athens.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Alaric_entering_Athens.jpg",
+            "caption": "Alaric entering Athens",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph-Noël Sylvestre",
+            "summary": "French painter (1847–1926)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ferdinand_Mulnier_-_Portrait_de_Joseph-No%C3%ABl_Sylvestre.jpg/250px-Ferdinand_Mulnier_-_Portrait_de_Joseph-No%C3%ABl_Sylvestre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph-No%C3%ABl_Sylvestre"
+        },
+        {
+            "name": "Uldin",
+            "summary": "Chieftain of the Huns",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Caravaggio%2C_martirio_di_sant%27orsola%2C_1610%2C_02.JPG/250px-Caravaggio%2C_martirio_di_sant%27orsola%2C_1610%2C_02.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Uldin"
+        },
+        {
+            "name": "Radagaisus",
+            "summary": "Gothic king (died 406)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Giorgio_Vasari_-_Defeat_of_Radagasio_below_Fiesole_-_Google_Art_Project.jpg/250px-Giorgio_Vasari_-_Defeat_of_Radagasio_below_Fiesole_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Radagaisus"
+        },
+        {
+            "name": "Alaric I",
+            "summary": "King of the Visigoths from 395 to 410",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alaric_entering_Athens.jpg/250px-Alaric_entering_Athens.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alaric_I"
+        },
+        {
+            "name": "Jerome",
+            "summary": "Priest and theologian (c. 342/347–420)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/MatthiasStom-SaintJerome-Nantes.jpg/250px-MatthiasStom-SaintJerome-Nantes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jerome"
+        },
+        {
+            "name": "Valens",
+            "summary": "Roman emperor from 364 to 378",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/INC-3015-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4._%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82_II._%D0%9E%D0%BA._364_%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png/250px-INC-3015-a_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B4._%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82_II._%D0%9E%D0%BA._364_%D0%B3._%28%D0%B0%D0%B2%D0%B5%D1%80%D1%81%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Valens"
+        }
+    ],
+    "territory_geojson": null
+}

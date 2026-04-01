@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1778,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a754f521808a052406d371b44d388568f356aab233110b0a5af9640efbc3bb2e",
+    "summary": "The ancient Egyptian civil calendar, developed approximately 2800–2600 BC, was one of the most sophisticated time-keeping systems of the ancient world and was the first known solar calendar to closely approximate the true length of the solar year. The calendar consisted of 365 days divided into 12 months of 30 days each, plus 5 epagomenal days at the year's end associated with the birthdays of five major deities. This structure provided a stable, arithmetic framework for administrative scheduling, agricultural planning, and religious festival organisation.\n\nThe Egyptian calendar was closely tied to the heliacal rising of the star Sirius (Sothis), which the Egyptians observed typically coincided with the annual Nile flood — a correlation of enormous practical importance for agricultural society. The 365-day calendar, however, drifts by approximately one day every four years relative to the solar year (lacking a leap year), so over centuries the calendar date of the Sirius rising shifted significantly. This drift was observed by Egyptian astronomers and was eventually addressed in the Ptolemaic period when Ptolemy III introduced a leap year system in 238 BC.\n\nThe Egyptian 365-day calendar is historically significant because it provided the model eventually adopted by Julius Caesar for his Julian calendar reform of 45 BC, which formed the basis of the calendar used in much of the world until the Gregorian reform of 1582. The influence of Egyptian calendar science thus persists in the modern calendar system, a direct inheritance from the administrative and astronomical practices developed along the Nile more than four thousand years ago.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_calendar",
+    "read_more_links": [
+        {
+            "title": "Julian calendar",
+            "url": "https://en.wikipedia.org/wiki/Julian_calendar"
+        },
+        {
+            "title": "Sirius in ancient Egypt",
+            "url": "https://en.wikipedia.org/wiki/Sothic_cycle"
+        },
+        {
+            "title": "History of calendars",
+            "url": "https://en.wikipedia.org/wiki/Calendar"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Th%C3%A9odule_Dev%C3%A9ria_%28French_-_%28Elephanta_Calendar%29_-_Google_Art_Project.jpg/300px-Th%C3%A9odule_Dev%C3%A9ria_%28French_-_%28Elephanta_Calendar%29_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Th%C3%A9odule_Dev%C3%A9ria_%28French_-_%28Elephanta_Calendar%29_-_Google_Art_Project.jpg",
+            "caption": "Théodule Devéria (French - (Elephanta Calendar) - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Astronomical_Ceiling%2C_Tomb_of_Senenmut_MET_DT207429.jpg/300px-Astronomical_Ceiling%2C_Tomb_of_Senenmut_MET_DT207429.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Astronomical_Ceiling%2C_Tomb_of_Senenmut_MET_DT207429.jpg",
+            "caption": "Facsimile, Senenmut (TT 353), astronomical ceiling",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kom_Ombo_Temple_Calendar_2.JPG/300px-Kom_Ombo_Temple_Calendar_2.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kom_Ombo_Temple_Calendar_2.JPG",
+            "caption": "Calendar in the temple of Kom Ombo. The calendar shows the hieroglyphics for ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Goddess_Nut_1.JPG/300px-Goddess_Nut_1.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Goddess_Nut_1.JPG",
+            "caption": "Nut, Egyptian goddess of the sky in the tomb of Ramses VI.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Neferirkare Kakai",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Neferirkare_Kakai_2.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neferirkare_Kakai"
+        }
+    ],
+    "territory_geojson": null
+}

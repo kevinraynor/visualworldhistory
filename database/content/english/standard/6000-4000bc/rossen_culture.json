@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1554,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:b5d009f9632f1697aa8404e679741fc423337a36742895ed7298dc4cf2dec764",
+    "summary": "The Rössen culture (or Rossen culture) was a Middle Neolithic culture of central Germany, occupying the region between the Elbe and Rhine rivers during approximately 4600–4300 BCE. It developed from the earlier [[event:1551|Linear Pottery culture]] and represents one of several post-LBK regional cultures that diversified and adapted the Neolithic farming tradition across central Europe in the fifth millennium BCE.\n\nRössen communities were farmers cultivating wheat and barley and herding cattle, pigs, and sheep. Their settlements consisted of rectangular long houses, continuing the building tradition of the LBK but with some regional modifications. The characteristic pottery is decorated with complex incised geometric patterns, distinguishing it from the pottery of neighboring contemporary cultures and demonstrating regional cultural differentiation within the post-LBK Neolithic landscape of central Europe.\n\nThe Rössen culture is significant primarily as one link in the chain of central European Neolithic cultures that bridged the initial LBK colonization of the region and the later cultural transformations of the Chalcolithic and early Bronze Age. Its geographic position in the heart of Europe means that its communities interacted with a wide range of neighboring cultural traditions, participating in the exchange networks that circulated prestige goods, ideas, and technologies across prehistoric Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R%C3%B6ssen_culture",
+    "read_more_links": [
+        {
+            "title": "Post-LBK Neolithic Germany - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Linear_Pottery_culture#Successor_cultures"
+        },
+        {
+            "title": "Central European Neolithic - Britannica",
+            "url": "https://www.britannica.com/topic/Neolithic-Period/Central-Europe"
+        },
+        {
+            "title": "Neolithic Europe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Neolithic_Pottery_%2828650539532%29.jpg/300px-Neolithic_Pottery_%2828650539532%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Neolithic_Pottery_%2828650539532%29.jpg",
+            "caption": "Stone Age Gallery, Neues Museum, Berlin, Germany. Complete indexed photo coll...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rossen1.png/300px-Rossen1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Rossen1.png",
+            "caption": "Rossen culture burial\nStone Age Gallery, Neues Museum, Berlin, Germany.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Torso_of_richly_decorated_neolithic_potttery%2C_Museum_of_Western_Bohemia%2C_187710.jpg/300px-Torso_of_richly_decorated_neolithic_potttery%2C_Museum_of_Western_Bohemia%2C_187710.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Torso_of_richly_decorated_neolithic_potttery%2C_Museum_of_Western_Bohemia%2C_187710.jpg",
+            "caption": "Torso of richly decorated neolithic potttery with the \"rössen\" double stroke....",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Halle_%28Saale%29%2C_Landesmuseum_f%C3%BCr_Vorgeschichte%2C_Schale_und_Fu%C3%9Fschale.jpg/300px-Halle_%28Saale%29%2C_Landesmuseum_f%C3%BCr_Vorgeschichte%2C_Schale_und_Fu%C3%9Fschale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Halle_%28Saale%29%2C_Landesmuseum_f%C3%BCr_Vorgeschichte%2C_Schale_und_Fu%C3%9Fschale.jpg",
+            "caption": "Halle (Saale), State Museum of Prehistory, bowl and footed bowl, locations: N...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Earthworks (archaeology)",
+            "summary": "General term to describe artificial changes in land level in history and pre-history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De_Offa_Dyke.JPG/250px-De_Offa_Dyke.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Earthworks_%28archaeology%29"
+        }
+    ],
+    "territory_geojson": null
+}

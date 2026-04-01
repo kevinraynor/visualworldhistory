@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1319,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:d4a3929f67b526486ba74c167dca201733a46f8f6f73dea1e4f3aa88f563b561",
+    "summary": "Doggerland was a wide landmass occupying what is now the southern North Sea, connecting the British Isles to continental Europe (primarily the modern Netherlands, Germany, Denmark, and Belgium) during the Last Glacial Maximum when sea levels were approximately 120 meters below their current level. At its greatest extent, Doggerland encompassed an estimated 220,000 square kilometers of diverse terrain including river valleys, marshes, coastal plains, and upland areas — a productive landscape teeming with animal life and inhabited by Mesolithic hunter-gatherer communities.\n\nAs global temperatures rose and the ice sheets melted following the [[event:1262|Last Ice Age]], sea levels began to rise steadily. Doggerland was progressively inundated from its southern margins, with the land shrinking gradually over millennia. By approximately 8,000–6,500 BCE, Doggerland had been reduced to a series of islands and was nearing its final submersion, with what is now Dogger Bank persisting as an island until around 5,500–5,000 BCE. The final severance of the land bridge between Britain and continental Europe, likely accelerated by a catastrophic North Sea tsunami caused by the Storegga submarine landslide off Norway around 6200 BCE, isolated Britain as an island for the first time since the glacial maximum.\n\nDoggerland was inhabited throughout much of its existence by Mesolithic communities related to those of the [[event:1282|Maglemosian culture]] and other northwestern European traditions. Archaeological evidence recovered from the sea floor — including mammoth remains, stone tools, human bones, and wooden artifacts brought up by trawlers — confirms dense human occupation of this now-submerged landscape. The flooding of Doggerland represents one of the most dramatic examples of the effects of post-glacial sea level rise on human populations in Europe, displacing communities that had lived on a large, resource-rich landmass over the course of several thousand years.\n\nDoggerland occupies a special place in modern European archaeology and popular culture as a \"lost world\" — a vast inhabited territory now hidden beneath the North Sea, preserving the remains of thousands of years of human activity in excellent condition due to the cold, low-oxygen conditions of the sea floor.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doggerland",
+    "read_more_links": [
+        {
+            "title": "North Sea Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/North_Sea"
+        },
+        {
+            "title": "Storegga Slide - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Storegga_Slide"
+        },
+        {
+            "title": "Mesolithic Britain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mesolithic_Britain"
+        },
+        {
+            "title": "Post-glacial Sea Level Rise - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Post-glacial_rebound"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/200805231215_Wollhaarmammut_Millie_Sch%C3%A4del.jpeg/300px-200805231215_Wollhaarmammut_Millie_Sch%C3%A4del.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/200805231215_Wollhaarmammut_Millie_Sch%C3%A4del.jpeg",
+            "caption": "This is the Skull of the woolly mammoth called Millie. It was discovered in M...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Early_Holocene_landscape_features_mapped_by_the_North_Sea_Palaeolandscapes_Project.png/300px-Early_Holocene_landscape_features_mapped_by_the_North_Sea_Palaeolandscapes_Project.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Early_Holocene_landscape_features_mapped_by_the_North_Sea_Palaeolandscapes_Project.png",
+            "caption": "Early Holocene landscape features mapped by the North Sea Palaeolandscapes Pr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Doggerland.png/300px-Doggerland.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Doggerland.png",
+            "caption": "From source: North Sea coastline reconstructions for: a) Doggerland c. 10 000...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Doggerland3er_en.png/300px-Doggerland3er_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Doggerland3er_en.png",
+            "caption": "Land bridge between the mainland and Britain - Doggerland and Dogger Bank. Co...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Norfolk",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kings_Lynn_Guild_Hall_%28geograph_4626827%29.jpg/250px-Kings_Lynn_Guild_Hall_%28geograph_4626827%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Norfolk"
+        }
+    ],
+    "territory_geojson": null
+}

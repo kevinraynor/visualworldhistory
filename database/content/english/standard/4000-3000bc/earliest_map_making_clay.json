@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3706,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c932f0e60c05278d716b9b56caf67630e27a5eea4cf57eaff51e71c87dd113ca",
+    "summary": "The earliest known maps in the world are clay tablets from Mesopotamia, dating to approximately 2300–2500 BCE, but precursors to formal cartography appear in the Chalcolithic period. A clay tablet from Ga-Sur (Nuzi) in northern Iraq, dating to around 2300 BCE, depicts a river valley with settlements and hills marked by conventional signs and is often cited as among the oldest surviving maps. Earlier schematic representations of space — land surveys, property boundary markers, and architectural plans drawn on clay tablets — appear in the [[event:1617|Uruk period]] administrative record from the late fourth millennium BCE.\n\nThe emergence of map-making is closely tied to the administrative needs of the first cities: surveying agricultural land for taxation, planning irrigation systems, and recording property rights all required graphic representations of space. The [[event:1619|cuneiform]] writing system developed in tandem with these spatial recording practices, and many early clay tablets combine textual and graphic information. These early maps reflect a fundamentally practical cartographic tradition that predates the theoretical and cosmographic mapping traditions of later antiquity by many centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_cartography",
+    "read_more_links": [
+        {
+            "title": "Babylonian Map of the World - British Museum",
+            "url": "https://www.britishmuseum.org/collection/object/W_1882-0714-509"
+        },
+        {
+            "title": "Early Maps - Britannica",
+            "url": "https://www.britannica.com/science/map/History-of-cartography"
+        },
+        {
+            "title": "Mesopotamian Land Surveys - Oxford Handbooks",
+            "url": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199589425.001.0001/oxfordhb-9780199589425"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Karte_Pomponius_Mela_rotated.jpg/300px-Karte_Pomponius_Mela_rotated.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Karte_Pomponius_Mela_rotated.jpg",
+            "caption": "World Map of Pomponius Mela, rotated for north up and be comparable with mode...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Propaganda_Map.jpg/300px-Propaganda_Map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Propaganda_Map.jpg",
+            "caption": "c. 1887 reproduction on two sheets of the 1529 Propaganda world map, believed...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Map_of_Mexico_1847.jpg/300px-Map_of_Mexico_1847.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Map_of_Mexico_1847.jpg",
+            "caption": "\"Map of the United States of Mexico, according to what has been organized and...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Waldseemuller_map_2.jpg/300px-Waldseemuller_map_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Waldseemuller_map_2.jpg",
+            "caption": "Waldseemüller map from 1507 is the first map to include the name \"America\" an...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Necho II",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Necho-KnellingStatue_BrooklynMuseum.png/250px-Necho-KnellingStatue_BrooklynMuseum.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Necho_II"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        },
+        {
+            "name": "Strabo",
+            "summary": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/250px-Strabo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strabo"
+        },
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        },
+        {
+            "name": "Works and Days",
+            "summary": "Poem written by the ancient Greek poet Hesiod",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Werke_und_Tage.jpg/250px-Werke_und_Tage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Works_and_Days"
+        }
+    ],
+    "territory_geojson": null
+}

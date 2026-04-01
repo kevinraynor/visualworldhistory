@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3428,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ee0c477e02992cfe857dbd202fdea01c103aa11096ed47685f46951133c3cbe5",
+    "summary": "The sail is one of the transformative technologies of antiquity, allowing watercraft to harness wind power and dramatically expand the range, cargo capacity, and speed of water-based travel. The earliest direct evidence of sailing comes from ancient Egypt: a depiction of a sail on a painted pottery vessel from the Naqada phase (approximately 3200–3100 BCE), and from Mesopotamia where boat models and pictographs suggest sailing was practiced on the Tigris, Euphrates, and Persian Gulf by at least 3500 BCE.\n\nThe invention of the sail coincided with the growth of long-distance trade networks linking Mesopotamia, the Indus Valley, and Egypt during the [[event:1617|Uruk period]] and its successors. Early sails were almost certainly square sails of woven plant fiber or animal hide, used primarily to run before the wind. The ability to sail opened the Gulf, the Red Sea, and the eastern Mediterranean to regular commerce, facilitating the exchange of metals, timber, textiles, and luxury goods that underpinned the economies of the first urban civilizations. Sailing technology would gradually improve over the following millennia, eventually enabling transoceanic exploration.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sail",
+    "read_more_links": [
+        {
+            "title": "History of Sailing - Britannica",
+            "url": "https://www.britannica.com/technology/sail"
+        },
+        {
+            "title": "Ancient Seafaring - Oxford Handbooks",
+            "url": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199219544.001.0001/oxfordhb-9780199219544"
+        },
+        {
+            "title": "Egyptian Boats and Sailing - Metropolitan Museum",
+            "url": "https://www.metmuseum.org/toah/hd/egsh/hd_egsh.htm"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/DN_ice_boat--Ice_Nine--Lake_Sunapee_NH.jpg/300px-DN_ice_boat--Ice_Nine--Lake_Sunapee_NH.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/DN_ice_boat--Ice_Nine--Lake_Sunapee_NH.jpg",
+            "caption": "DN class iceboat, sailing on Lake Sunapee, New Hampshire in the U.S.A. Shown ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Amante_Choate_48_photo_D_Ramey_Logan.jpg/300px-Amante_Choate_48_photo_D_Ramey_Logan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Amante_Choate_48_photo_D_Ramey_Logan.jpg",
+            "caption": "\"Amante\" 10 A 1983 Peterson designed Choate 48 sailboat photo D Ramey Logan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sailboat_on_broad_reach_with_spinnaker.jpg/300px-Sailboat_on_broad_reach_with_spinnaker.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Sailboat_on_broad_reach_with_spinnaker.jpg",
+            "caption": "Boats and their spinnaker sails in a regatta in Lorient, France.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Atlas_pittoresque_pl_096.jpg/300px-Atlas_pittoresque_pl_096.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Atlas_pittoresque_pl_096.jpg",
+            "caption": "Pirogue des naturels de l'île Obalahou. Atlas pittoresque, planche 96",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

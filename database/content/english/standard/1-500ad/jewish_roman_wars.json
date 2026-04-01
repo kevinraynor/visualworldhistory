@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2077,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:990b8b6f357e02901d61fff35c7e11f11e98374a44ac9b91f9816aba0daf0293",
+    "summary": "The Jewish-Roman Wars (66–135 AD) were a series of major Jewish revolts against Roman rule in Judea that ended in catastrophic defeat, the destruction of [[event:2016|the Jerusalem Temple]], the mass exile of the Jewish population from their homeland, and the reshaping of Judaism from a Temple-centered sacrificial religion into the rabbinic, Torah-centered Judaism that has persisted to the present day. The First Jewish-Roman War (66–73 AD) began with a revolt against Roman taxation and religious grievances, and ended with the Roman general Titus destroying Jerusalem and the Temple in 70 AD, an event of such traumatic significance that it is still mourned in Judaism on the fast of Tisha B'Av.\n\nThe final major revolt, the [[event:2078|Bar Kokhba revolt]] (132–135 AD), ended with the Roman emperor Hadrian destroying Jerusalem completely, rebuilding it as the pagan city Aelia Capitolina (Jews were forbidden to enter), and renaming the province Syria Palaestina — erasing the name Judea from the map. The [[event:2079|Masada siege]] (73 AD) became the iconic last stand of Jewish resistance in the First War. The combined effect of these wars was the Jewish Diaspora — the dispersal of the Jewish population around the Mediterranean world and beyond, where they would live as a minority people for nearly two millennia. The rabbinic response to the Temple's destruction — the development of synagogue worship, Torah study, and legal interpretation as substitutes for Temple sacrifice — was one of the most creative and consequential adaptations in religious history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jewish%E2%80%93Roman_wars",
+    "read_more_links": [
+        {
+            "title": "First Jewish-Roman War",
+            "url": "https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War"
+        },
+        {
+            "title": "Rabbinic Judaism development",
+            "url": "https://en.wikipedia.org/wiki/Rabbinic_Judaism"
+        },
+        {
+            "title": "Jewish diaspora origins",
+            "url": "https://en.wikipedia.org/wiki/Jewish_diaspora"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Roman_Empire_-_Jewish_Revolt_%28117_AD%29.png/300px-Roman_Empire_-_Jewish_Revolt_%28117_AD%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Roman_Empire_-_Jewish_Revolt_%28117_AD%29.png",
+            "caption": "Roman provinces involved in the Diaspora Revolt, 117 AD. Based on File:Roman ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gamla_ruin.jpg/300px-Gamla_ruin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Gamla_ruin.jpg",
+            "caption": "Old 1st-century CE ruin of Gamla in the Golan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Masada_Massada_3.JPG/300px-Masada_Massada_3.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Masada_Massada_3.JPG",
+            "caption": "Masada, Israel",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Beitar-169.jpg/300px-Beitar-169.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Beitar-169.jpg",
+            "caption": "Khirbat el-yahud (ancient Beitar) near Batir.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Titus",
+            "summary": "Roman emperor from AD 79 to 81",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Titus_Ny_Carlsberg_Glyptotek_IN3159.jpg/250px-Titus_Ny_Carlsberg_Glyptotek_IN3159.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Titus"
+        },
+        {
+            "name": "Vespasian",
+            "summary": "Roman emperor from AD 69 to 79",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg/250px-Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian"
+        },
+        {
+            "name": "Lusius Quietus",
+            "summary": "2nd century Roman general and governor of Judaea",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Lusius_Quietus_on_Column_of_Trajan.jpg/250px-Lusius_Quietus_on_Column_of_Trajan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lusius_Quietus"
+        },
+        {
+            "name": "Hadrian",
+            "summary": "Roman emperor from 117 to 138",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg/250px-M%C3%BCnchen_SMAEK_2019-03-23n.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian"
+        },
+        {
+            "name": "Sextus Julius Severus",
+            "summary": "2nd-century Roman general, consul and governor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mainz0099.jpg/250px-Mainz0099.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sextus_Julius_Severus"
+        },
+        {
+            "name": "Simon bar Kokhba",
+            "summary": "Leader of the Bar Kokhba revolt (132–136 CE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Arthur_Szyk_%281894-1951%29._Bar_Kochba_%281927%29%2C_Paris.jpg/250px-Arthur_Szyk_%281894-1951%29._Bar_Kochba_%281927%29%2C_Paris.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Simon_bar_Kokhba"
+        }
+    ],
+    "territory_geojson": null
+}

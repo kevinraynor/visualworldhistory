@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1002,
+    "parent_id": 1001,
+    "granularity": "notable",
+    "content_hash": "sha256:8d0436228d4483f58b25a117996a29f5f133b1e7025ef14556d5fadc92943da9",
+    "summary": "The Ionian Revolt (499–493 BC) was an uprising of Greek cities along the western coast of Anatolia and in Cyprus against Persian rule, serving as the immediate trigger for the [[event:1001|Greco-Persian Wars]]. The Ionian cities had been under Persian control since Cyrus the Great's conquest of Lydia in 547 BC, governed through local tyrants loyal to the Achaemenid court. Resentment of these puppet rulers and economic grievances provided fertile ground for rebellion.\n\nThe revolt was instigated by Aristagoras of Miletus, who sought Athenian and Spartan military support. Sparta refused to send troops, but Athens dispatched twenty warships and the city of Eretria five more — a contribution Darius I of Persia later famously vowed to avenge. The rebels initially achieved surprising successes, including the burning of Sardis, the Persian provincial capital of western Anatolia, in 498 BC. However, Sardis's destruction unified Persian resolve and exposed the Greeks' inability to hold the interior.\n\nThe Persians systematically reconquered the rebel territories. The decisive engagement came at the [[event:1003|Battle of Marathon]]'s precursor — the naval Battle of Lade in 494 BC — where a combined Ionian fleet was routed, partly due to defections among the Samian contingent. Miletus, the revolt's epicenter, was captured and its population deported to the Persian Gulf. The suppression was brutal and thorough, effectively ending Ionian independence and setting the stage for Darius's punitive campaigns against mainland Greece.\n\nThe revolt's broader significance lay in revealing both the potential and limits of Greek resistance to Persian power, and in transforming the conflict into a personal vendetta for Darius against Athens, whose small intervention at Sardis would ultimately precipitate one of antiquity's most consequential military confrontations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ionian_Revolt",
+    "read_more_links": [
+        {
+            "title": "Aristagoras",
+            "url": "https://en.wikipedia.org/wiki/Aristagoras"
+        },
+        {
+            "title": "Battle of Lade",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Lade"
+        },
+        {
+            "title": "Miletus",
+            "url": "https://en.wikipedia.org/wiki/Miletus"
+        },
+        {
+            "title": "Greco-Persian Wars",
+            "url": "https://en.wikipedia.org/wiki/Greco-Persian_Wars"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Darius_detail_on_the_Darius_vase.jpg/300px-Darius_detail_on_the_Darius_vase.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Darius_detail_on_the_Darius_vase.jpg",
+            "caption": "Darius detail on the Darius vase\n\n\n\n\n\nThis image was originally posted to Fli...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Achaemenid_cavalry_in_Asia_Minor.jpg/300px-Achaemenid_cavalry_in_Asia_Minor.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Achaemenid_cavalry_in_Asia_Minor.jpg",
+            "caption": "Achaemenid cavalry in Asia Minor",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Miletus_agora.jpg/300px-Miletus_agora.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Miletus_agora.jpg",
+            "caption": "Stoa in the agora of Miletus.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ionian_revolt_Carian_campaign.jpg/300px-Ionian_revolt_Carian_campaign.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ionian_revolt_Carian_campaign.jpg",
+            "caption": "Ionian revolt Carian campaign",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Histiaeus",
+            "summary": "Greek ruler of Miletus (died 493 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/IONIA%2C_Miletos._Circa_600-550_BC.jpg/250px-IONIA%2C_Miletos._Circa_600-550_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Histiaeus"
+        },
+        {
+            "name": "Megabates",
+            "summary": "Late 6th/early 5th century BC Persian general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Achaemenid_lineage_%28extended%29.jpg/250px-Achaemenid_lineage_%28extended%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Megabates"
+        },
+        {
+            "name": "Datis",
+            "summary": "5th-century BC Median/Persian admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Datis_fighting_Kallimachos_at_the_Battle_of_Marathon_in_the_Stoa_Poikile_%28reconstitution%29.jpg/250px-Datis_fighting_Kallimachos_at_the_Battle_of_Marathon_in_the_Stoa_Poikile_%28reconstitution%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Datis"
+        },
+        {
+            "name": "Tyrant",
+            "summary": "Absolute ruler unrestrained by law or constitution",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/%E5%A4%8F%E6%A1%80%E5%83%8F.png/250px-%E5%A4%8F%E6%A1%80%E5%83%8F.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tyrant"
+        },
+        {
+            "name": "Satrap",
+            "summary": "Ruler of a province in ancient Persia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Achaemenid_Satrap_Asia_Minor_end_of_6th_century_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Satrap"
+        },
+        {
+            "name": "Darius the Great",
+            "summary": "Persian ruler from 522 to 486 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Darius_I.jpg/250px-Darius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

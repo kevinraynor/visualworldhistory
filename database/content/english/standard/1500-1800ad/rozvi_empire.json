@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3243,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:496ee96df05c0739290350b594adc6ee1a0626bd8282d68e14df63989db041f3",
+    "summary": "The Rozvi Empire (c. 1680–1866 AD) was a successor state to the Mutapa kingdom in the Zimbabwe plateau region, established by the Changamire dynasty of the Rozvi Shona people after Changamire Dombo defeated both the declining Mutapa state and expelled the Portuguese from the plateau region in the 1690s. The Rozvi ('destroyers') built upon the existing Great Zimbabwe stone-building tradition, constructing stone enclosures (dzimbabwe) and controlling the plateau's cattle-herding and gold trade. Changamire Dombo's military victories, using concentrated cattle-driving tactics and night attacks, successfully ended Portuguese influence in the interior of southeastern Africa for nearly two centuries.\n\nThe Rozvi Empire's political system centered on the Mambo (paramount ruler) at Khami and later other stone-walled capitals, which served as administrative, religious, and commercial centers. The empire controlled extensive cattle herds and the gold trade, maintaining trade relations with the Swahili coast without direct European penetration of their territory — a remarkable achievement in the era of European coastal expansion. The Rozvi state was eventually destroyed not by European colonizers but by the Nguni (Ndebele) migrations during the Mfecane upheaval of the 1830s — the southward expansion of Zulu-related peoples displaced by warfare in Natal. The Ndebele king Mzilikazi established a new state in the former Rozvi territory (modern Zimbabwe), though the Rozvi stone-building traditions and political memory influenced subsequent Shona identity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rozvi_Empire",
+    "read_more_links": [
+        {
+            "title": "Changamire Dombo Rozvi Portuguese expulsion Zimbabwe",
+            "url": "https://en.wikipedia.org/wiki/Changamire_Dombo"
+        },
+        {
+            "title": "Khami ruins Rozvi capital Zimbabwe stone enclosures",
+            "url": "https://en.wikipedia.org/wiki/Khami_ruins"
+        },
+        {
+            "title": "Ndebele Mfecane Zimbabwe Rozvi destruction Mzilikazi",
+            "url": "https://en.wikipedia.org/wiki/Mfecane"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Empire-rozvi.png/300px-Empire-rozvi.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Empire-rozvi.png",
+            "caption": "D'après Histoire générale de l'Afrique, vol. 5, p. 715\nCarte de l'Empire rozvi",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Shaka",
+            "summary": "King of the Zulu Kingdom from 1816 to 1828",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/KingShaka.jpg/250px-KingShaka.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shaka"
+        }
+    ],
+    "territory_geojson": null
+}

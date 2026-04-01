@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2222,
+    "parent_id": 92,
+    "granularity": "notable",
+    "content_hash": "sha256:8ab7d7d3e6ff02dcc244f689121005a48a2861fdf5fd27a2e9e40c558f7d4fe6",
+    "summary": "The Third Crusade (1189–1192 AD) was launched in response to [[event:2273|Saladin's]] recapture of Jerusalem following the [[event:2274|Battle of Hattin]] (1187), and brought together the three most powerful monarchs of Western Europe — Richard I of England ('the Lionheart'), Philip II of France, and Frederick I Barbarossa of Germany — in a campaign that became one of the most celebrated military confrontations of the medieval world. Frederick Barbarossa drowned crossing a river in Anatolia, and Philip II returned home after the capture of Acre, leaving [[event:3535|Richard I]] to wage a brilliant but ultimately incomplete campaign against Saladin.\n\nRichard's campaign was a masterpiece of medieval logistics and tactics. His victory at the Battle of Arsuf (1191), achieved by maintaining formation discipline under arrow fire from Saladin's cavalry, was a significant tactical achievement, and his resupply system allowed the Crusader army to march down the coast in conditions that would have destroyed a less well-organized force. Yet Richard was unable to capture Jerusalem itself — approaching twice but withdrawing both times, calculating that even if he took the city he lacked the manpower to hold it. The result was the Treaty of Jaffa (1192), which left Jerusalem in Muslim hands but granted Christian pilgrims free access and secured the Crusader coastal strip. The Third Crusade's failure to recover Jerusalem established the template for the subsequent, increasingly desperate and theologically creative Crusading campaigns of the 13th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Third_Crusade",
+    "read_more_links": [
+        {
+            "title": "Richard I Lionheart Third Crusade campaigns",
+            "url": "https://en.wikipedia.org/wiki/Richard_I_of_England#Third_Crusade"
+        },
+        {
+            "title": "Battle Arsuf 1191 Crusader victory",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Arsuf"
+        },
+        {
+            "title": "Treaty Jaffa 1192 Jerusalem access",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Jaffa_(1192)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Third_Crusade_%281189-1192%29.png/300px-The_Third_Crusade_%281189-1192%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png",
+            "caption": "The Third Crusade (1189-1192)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Varka_and_Golshah._Battle_scene_1._Mid_13th_century_Seljuk_Anatolia.jpg/300px-Varka_and_Golshah._Battle_scene_1._Mid_13th_century_Seljuk_Anatolia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Varka_and_Golshah._Battle_scene_1._Mid_13th_century_Seljuk_Anatolia.jpg",
+            "caption": "Varka and Golshah. Battle scene 1. Mid 13th century Seljuk Anatolia",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Asia_minor_1140.jpg/300px-Asia_minor_1140.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Asia_minor_1140.jpg",
+            "caption": "Asia Minor and the States of the Crusaders in Syria, about 1140",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ayyubid.png/300px-Ayyubid.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ayyubid.png",
+            "caption": "This map has been uploaded by Electionworld from en.wikipedia.org to enable t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Richard I of England",
+            "summary": "King of England from 1189 to 1199",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/250px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_I_of_England"
+        },
+        {
+            "name": "Philip II of France",
+            "summary": "King of France from 1180 to 1223",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sceau_de_Philippe_Auguste._-_Archives_Nationales_-_SC-D157.jpg/250px-Sceau_de_Philippe_Auguste._-_Archives_Nationales_-_SC-D157.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_II_of_France"
+        },
+        {
+            "name": "Frederick Barbarossa",
+            "summary": "Holy Roman Emperor from 1155 to 1190",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedrich_I._Barbarossa.jpg/250px-Friedrich_I._Barbarossa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+        },
+        {
+            "name": "Guy of Lusignan",
+            "summary": "King of Jerusalem from 1186 to 1192",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coin_issued_by_Guy_de_Lusignan_during_when_he_was_Lord_of_Cyprus_%28Crop%29.png/250px-Coin_issued_by_Guy_de_Lusignan_during_when_he_was_Lord_of_Cyprus_%28Crop%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guy_of_Lusignan"
+        },
+        {
+            "name": "Conrad of Montferrat",
+            "summary": "Italian nobleman and crusader, King of Jerusalem from 1190 to 1192",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/IsabelaKOnrad.jpg/250px-IsabelaKOnrad.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conrad_of_Montferrat"
+        },
+        {
+            "name": "Robert IV of Sablé",
+            "summary": "Grand Master of the Knights Templar from 1191 to 1192",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Blason_Robert_de_Sabl%C3%A9.svg/250px-Blason_Robert_de_Sabl%C3%A9.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_IV_of_Sabl%C3%A9"
+        }
+    ],
+    "territory_geojson": null
+}

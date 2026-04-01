@@ -1,0 +1,87 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "2.0",
+    "event_id": 3864,
+    "summary": "Isaac Newton's Principia Mathematica (Philosophiæ Naturalis Principia Mathematica, 1687 AD) is the most important scientific work ever published — the book in which Newton laid out the laws of motion and universal gravitation that explained the physical behavior of everything from falling apples to orbiting planets, creating the framework of classical mechanics that described the physical world with unprecedented precision for over two centuries. Newton demonstrated that the same gravitational force that made objects fall to Earth explained the Moon's orbit, the planets' elliptical orbits (confirming and explaining [[event:2474|Kepler's laws]]), the behavior of tides, the precession of Earth's axis, and the paths of comets — unifying terrestrial and celestial physics into a single mathematical framework. The three laws of motion (inertia, force equals mass times acceleration, action and reaction) and the law of universal gravitation (inverse square law) became the foundations of physics.\n\nThe Principia was famously written in classical Latin in a deliberately difficult mathematical form — Newton reportedly used geometric proofs throughout to prevent casual readers from criticizing conclusions they might not understand. Edmund Halley (of Halley's comet fame) recognized the manuscript's importance and personally financed its publication when the Royal Society's funds were exhausted. The Principia's reception was the defining triumph of the [[event:104|Scientific Revolution]]: it demonstrated that the natural world was governed by rational, mathematical laws discoverable by human reason — and that those laws applied universally to the entire cosmos. This conviction, that the universe was a rational, law-governed machine understandable through mathematics, became the foundation of both 18th-century physics and the [[event:2346|Enlightenment's]] confidence in human reason.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+    "read_more_links": [
+        {
+            "title": "Newton three laws motion mechanics gravitational force",
+            "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion"
+        },
+        {
+            "title": "Newton universal gravitation inverse square law planets",
+            "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation"
+        },
+        {
+            "title": "Edmund Halley Principia publication finance Royal Society",
+            "url": "https://en.wikipedia.org/wiki/Edmond_Halley#Relationship_with_Newton"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Newton%27s_Annotated_copy_of_his_Principia_Mathematica.jpg/300px-Newton%27s_Annotated_copy_of_his_Principia_Mathematica.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Newton%27s_Annotated_copy_of_his_Principia_Mathematica.jpg",
+            "caption": "Isaac Newton's personal copy of the first edition of Philosophiæ Naturalis Pr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Newton-4-3.jpg/300px-Newton-4-3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Newton-4-3.jpg",
+            "caption": "Title page to a 1848 copy of \"Newton's Principia. Mathematical Principles of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Manchester_John_Rylands_Library_Isaac_Newton_16-10-2009_13-54-26.JPG/300px-Manchester_John_Rylands_Library_Isaac_Newton_16-10-2009_13-54-26.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Manchester_John_Rylands_Library_Isaac_Newton_16-10-2009_13-54-26.JPG",
+            "caption": "De \"Philosophiae Naturalis Principia Mathematica\" van Isaac Newton in de \"Joh...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/300px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+            "caption": "Justus Sustermans - Portrait of Galileo Galilei, 1636",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Samuel Pepys",
+            "summary": "English writer and politician (1633–1703)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samuel_Pepys.jpg/250px-Samuel_Pepys.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_Pepys"
+        },
+        {
+            "name": "Johannes Kepler",
+            "summary": "German astronomer and mathematician (1571–1630)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/250px-JKepler.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Kepler"
+        },
+        {
+            "name": "Godfrey Kneller",
+            "summary": "German-born British painter (1646–1723)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Godfrey_Kneller_Selfportrait.jpg/250px-Godfrey_Kneller_Selfportrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Godfrey_Kneller"
+        },
+        {
+            "name": "René Descartes",
+            "summary": "French philosopher and mathematician (1596–1650)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/250px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+        },
+        {
+            "name": "John Flamsteed",
+            "summary": "English astronomer (1646–1719)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/John_Flamsteed_%28Gem%C3%A4lde%29.jpg/250px-John_Flamsteed_%28Gem%C3%A4lde%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Flamsteed"
+        },
+        {
+            "name": "Edmond Halley",
+            "summary": "English astronomer (1656–1742)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Edmund_Halley.jpg/250px-Edmund_Halley.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edmond_Halley"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 44,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:04f6ece443ca5bf39ddcfe4d83d4e536afa34914137cd135d591efc9f8f5fc13",
+    "summary": "The Bronze Age in the Near East began around 3300 BCE with the first systematic production and use of bronze — an alloy of copper and tin — for tools, weapons, and ceremonial objects. This technological transition, which unfolded gradually across several centuries, fundamentally altered the material capabilities of human societies, enabling harder, more durable implements than pure copper and fueling the growth of complex trade networks required to source tin from distant regions.\n\nCopper had been worked in the Near East since the sixth millennium BCE (the Chalcolithic or Copper Age), but pure copper is relatively soft and difficult to maintain at a useful edge. The discovery that adding approximately ten percent tin to molten copper produced a significantly harder and more workable alloy was a transformative metallurgical insight, one that appears to have occurred in multiple locations around the same time. The earliest bronzes found in the Near East date to roughly 3300-3200 BCE, appearing in Mesopotamia and surrounding regions during the height of the [[event:1617|Uruk Period]].\n\nA critical aspect of the Bronze Age transition was the development of the long-distance trade networks required to supply tin. Copper was widely available across the ancient Near East, but usable tin deposits are rare and geographically concentrated — major sources included Anatolia, Afghanistan, the Balkans, and later Cornwall in Britain. The need to import tin across hundreds or thousands of kilometers stimulated the growth of merchant networks, diplomatic relations, and maritime commerce, integrating regions that had previously been economically isolated into a web of interdependence.\n\nBronze's impact on warfare was significant. Bronze weapons — swords, spearheads, helmets, and armor — gave better-equipped armies decisive advantages, contributing to the militarization of inter-polity competition that characterizes much of Near Eastern history from the third millennium BCE onward. Agricultural and craft tools also benefited: bronze plows, chisels, and axes were more durable than their copper or stone predecessors, increasing productivity across multiple economic sectors.\n\nThe Bronze Age lasted in the Near East until approximately 1200 BCE, when the Iron Age transition — itself connected to the Bronze Age Collapse — fundamentally restructured the region's political and economic order. During its three thousand years, bronze technology underpinned the rise of Mesopotamian city-states, the Egyptian Old Kingdom and Empire, the Aegean civilizations of Minoa and Mycenae, and the Hittite Empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bronze_Age",
+    "read_more_links": [
+        {
+            "title": "Bronze Age Near East - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bronze_Age#Near_East"
+        },
+        {
+            "title": "Bronze Age - Britannica",
+            "url": "https://www.britannica.com/event/Bronze-Age"
+        },
+        {
+            "title": "Chalcolithic Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic"
+        },
+        {
+            "title": "History of Metallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Metallurgy#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Solvognen-00100.jpg/300px-Solvognen-00100.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Solvognen-00100.jpg",
+            "caption": "The Trundholm sun chariot (Solvognen)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Zwaard_van_Jutphaas_%2824466600427%29.jpg/300px-Zwaard_van_Jutphaas_%2824466600427%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Zwaard_van_Jutphaas_%2824466600427%29.jpg",
+            "caption": "Zwaard van Jutphaas. Zwaard uit de Bronstijd (Plougrescant-Ommerschans) Rijks...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Egypt%2C_New_Kingdom%2C_Dynasty_18_-_Caryatid_Mirror_-_1983.196_-_Cleveland_Museum_of_Art.tif/300px-Egypt%2C_New_Kingdom%2C_Dynasty_18_-_Caryatid_Mirror_-_1983.196_-_Cleveland_Museum_of_Art.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Egypt%2C_New_Kingdom%2C_Dynasty_18_-_Caryatid_Mirror_-_1983.196_-_Cleveland_Museum_of_Art.tif",
+            "caption": "Bronze mirror discolored with red and black speckles in the shape of an oval ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Spoked_wheel_from_Arokalja.jpg/300px-Spoked_wheel_from_Arokalja.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Spoked_wheel_from_Arokalja.jpg",
+            "caption": "4) Spoked wheel with bronze sheeting from Árokalja. 1000 BC. 3) Bronze carria...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thutmose III",
+            "summary": "Pharaoh of Egypt from 1479 to 1425 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thutmosis_III-2_%28cropped%29.jpg/250px-Thutmosis_III-2_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thutmose_III"
+        }
+    ],
+    "territory_geojson": null
+}

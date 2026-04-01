@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2194,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:907f2e155965e85664d0240d292131c310ede0c3b25bcfa7e10f95c9da4ac058",
+    "summary": "The Fatimid Caliphate (909–1171 AD) was the major Shia Islamic dynasty — a state founded in North Africa by followers of Ismaili Shia Islam who claimed descent from Fatima (Muhammad's daughter) and Ali, hence 'Fatimid.' Founded in Tunisia in 909 AD, the Fatimids conquered Egypt in 969 AD and founded Cairo (al-Qahira, 'the Victorious') as their new capital — a planned city that would grow into the largest city in the medieval world. The Fatimids challenged the Sunni [[event:2133|Abbasid Caliphate]] in Baghdad, establishing a rival caliphate in Cairo that controlled Egypt, the Levant, North Africa, and Sicily at its height.\n\nFatimid Cairo was a center of extraordinary intellectual and commercial life: the al-Azhar Mosque (founded 970 AD), established as a center for Ismaili learning, eventually became (under Sunni successors) the world's oldest continuously operating university and remains the most prestigious Islamic institution of learning today. The Fatimids maintained a remarkable policy of religious tolerance — employing Coptic Christian and Jewish administrators alongside Muslims — and Cairo's markets were the center of the Indian Ocean-Mediterranean trade nexus, making the dynasty enormously wealthy. The Fatimid library reputedly contained 1.6 million volumes. The dynasty declined from the mid-11th century due to military setbacks (losing Palestine to the Seljuk Turks), economic disruption, and internal civil wars, and was abolished by Saladin in 1171 AD when he restored Sunni supremacy in Egypt.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fatimid_Caliphate",
+    "read_more_links": [
+        {
+            "title": "Cairo founded Fatimid al-Qahira",
+            "url": "https://en.wikipedia.org/wiki/Cairo#History"
+        },
+        {
+            "title": "Al-Azhar mosque university",
+            "url": "https://en.wikipedia.org/wiki/Al-Azhar_University"
+        },
+        {
+            "title": "Saladin end Fatimid dynasty",
+            "url": "https://en.wikipedia.org/wiki/Fatimid_Caliphate#Demise"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rock_Crystal_Ewer.jpg/300px-Rock_Crystal_Ewer.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Rock_Crystal_Ewer.jpg",
+            "caption": "Rock Crystal Ewer. Rock crystal, enameled gold. 29.21 × 16.51 × 16.51 cm with...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Leningrad_Codex_Folio_474a.jpg/300px-Leningrad_Codex_Folio_474a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Leningrad_Codex_Folio_474a.jpg",
+            "caption": "Leningrad Codex cover page E (Folio 474a). A very old manuscript of the Hebre...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Al-Azhar_2019-11-02q.jpg/300px-Al-Azhar_2019-11-02q.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Al-Azhar_2019-11-02q.jpg",
+            "caption": "en:Cairo, Egypt: en:Al-Azhar Mosque",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Khalili_Collection_Islamic_Art_av_272.jpg/300px-Khalili_Collection_Islamic_Art_av_272.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Khalili_Collection_Islamic_Art_av_272.jpg",
+            "caption": "Gold Dinar",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 igo"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Muhammad",
+            "summary": "Founder of Islam (c. 570–632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Al-Masjid_AL-Nabawi_Door.jpg/250px-Al-Masjid_AL-Nabawi_Door.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad"
+        },
+        {
+            "name": "Fatima",
+            "summary": "Daughter of Muhammad (died 632)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/FatimaalZahra_%28cropped%29.jpg/250px-FatimaalZahra_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fatima"
+        },
+        {
+            "name": "Ali",
+            "summary": "1st Shia Imam and 4th Rashidun caliph (656–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG/250px-Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ali"
+        },
+        {
+            "name": "Abbasid Caliphate",
+            "summary": "Third Islamic caliphate",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/250px-Abbasid_banner.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate"
+        },
+        {
+            "name": "Al-Mu'izz li-Din Allah",
+            "summary": "Fatimid caliph from 953 to 975",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fatimiden-_Abu_Tamim_al-Muizz_-_M%C3%BCnzkabinett%2C_Berlin_-_5545286.jpg/250px-Fatimiden-_Abu_Tamim_al-Muizz_-_M%C3%BCnzkabinett%2C_Berlin_-_5545286.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Mu%27izz_li-Din_Allah"
+        },
+        {
+            "name": "Al-Hakim bi-Amr Allah",
+            "summary": "6th Fatimid caliph (r. 996–1021) and 16th Ismaili Imam",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gold_dinar_of_al-Hakim_bi-Amr_Allah%2C_AH_391.jpg/250px-Gold_dinar_of_al-Hakim_bi-Amr_Allah%2C_AH_391.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Hakim_bi-Amr_Allah"
+        }
+    ],
+    "territory_geojson": null
+}

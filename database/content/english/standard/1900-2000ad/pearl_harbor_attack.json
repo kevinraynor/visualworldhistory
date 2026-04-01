@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2662,
+    "parent_id": 112,
+    "granularity": "major",
+    "content_hash": "sha256:85b6dd37ce5ade354d272e3db0938d4ed915f10598b015b24ba9de53d1a3b3b5",
+    "summary": "On the morning of December 7, 1941, Imperial Japan launched a surprise military strike against the United States naval base at Pearl Harbor, Hawaii, killing 2,403 Americans, wounding nearly 1,200 more, and destroying or damaging eighteen naval vessels including eight battleships. The attack was carried out by 353 Japanese aircraft launched from six aircraft carriers, striking in two waves over the course of two hours. Simultaneously, Japan launched coordinated attacks on British Malaya, Singapore, Hong Kong, the Philippines, Guam, Wake Island, and Midway.\n\nJapan's strategic motivation was to neutralize the U.S. Pacific Fleet long enough to establish a defensive perimeter around its newly conquered resource-rich territories in Southeast Asia. Japanese military planners, particularly Admiral Isoroku Yamamoto who designed the operation, believed that a swift, decisive blow would force the United States to negotiate rather than fight a prolonged war. The calculation proved catastrophically miscalculated.\n\nPresident Franklin D. Roosevelt addressed Congress the following day, December 8, calling it \"a date which will live in infamy,\" and Congress declared war on Japan within hours. Germany and Italy declared war on the United States on December 11, formally bringing America into [[event:112|World War II]] on both the Atlantic and Pacific fronts. The attack galvanized American public opinion, ending the domestic debate between isolationists and interventionists that had paralyzed U.S. foreign policy since 1939.\n\nThe attack carried a crucial tactical failure: U.S. aircraft carriers, which happened to be at sea on training exercises, escaped destruction entirely. These carriers — the Yorktown, Lexington, and Enterprise — would become the decisive weapons of the [[event:3340|Pacific War]]. The subsequent [[event:2759|Battle of Midway]] in June 1942, in which American carriers sank four Japanese fleet carriers, reversed the momentum of the Pacific War within six months of Pearl Harbor.\n\nThe attack also triggered one of the most controversial domestic policy decisions of the war: Executive Order 9066, signed by Roosevelt in February 1942, which authorized the forced relocation and incarceration of approximately 120,000 Japanese Americans in internment camps for the duration of the war. This action, driven by racial prejudice and wartime hysteria, was later acknowledged as a grave injustice. The U.S. government issued a formal apology and reparations under the Civil Liberties Act of 1988.\n\nPearl Harbor remains a defining moment in American memory, a symbol of the dangers of military unpreparedness and the catastrophic costs of miscalculation in international relations. The attack transformed the United States from a reluctant observer to the decisive military and industrial power of the twentieth century, and its entry into the war ultimately determined the outcome of both the European and Pacific theaters.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+    "read_more_links": [
+        {
+            "title": "Pearl Harbor – National Park Service",
+            "url": "https://www.nps.gov/valr/index.htm"
+        },
+        {
+            "title": "Pearl Harbor – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Pearl-Harbor-attack"
+        },
+        {
+            "title": "Franklin Roosevelt's Day of Infamy Speech – National Archives",
+            "url": "https://www.archives.gov/historical-docs/todays-doc/?dod-date=107"
+        },
+        {
+            "title": "Japanese American Internment – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Japanese_American_internment"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Remember_December_7th_full.jpg/300px-Remember_December_7th_full.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Remember_December_7th_full.jpg",
+            "caption": "\"Remember December 7th\" US Government propaganda poster of 1942.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/300px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+            "caption": "Photograph taken from a Japanese plane during the torpedo attack on ships moo...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pearl_Harbor_looking_southwest-Oct41.jpg/300px-Pearl_Harbor_looking_southwest-Oct41.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pearl_Harbor_looking_southwest-Oct41.jpg",
+            "caption": "Aerial view of the U.S. Naval Operating Base, Pearl Harbor, Oahu, Hawaii (USA...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Husband E. Kimmel",
+            "summary": "United States Navy admiral (1882–1968)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Admiral_Husband_E._Kimmel%2C_USN.jpg/250px-Admiral_Husband_E._Kimmel%2C_USN.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Husband_E._Kimmel"
+        },
+        {
+            "name": "Walter Short",
+            "summary": "U.S. Army Major general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Walter-short_l.jpg/250px-Walter-short_l.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Short"
+        },
+        {
+            "name": "Isoroku Yamamoto",
+            "summary": "Japanese admiral (1884–1943)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_of_Yamamoto_Isoroku.jpg/250px-Portrait_of_Yamamoto_Isoroku.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isoroku_Yamamoto"
+        },
+        {
+            "name": "Chūichi Nagumo",
+            "summary": "Japanese admiral (1887–1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Chuichi_Nagumo.jpg/250px-Chuichi_Nagumo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ch%C5%ABichi_Nagumo"
+        },
+        {
+            "name": "Franklin D. Roosevelt",
+            "summary": "President of the United States from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/250px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        },
+        {
+            "name": "Day of Infamy speech",
+            "summary": "1941 speech by President Franklin D. Roosevelt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fdr_delivers_speech.jpg/250px-Fdr_delivers_speech.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Day_of_Infamy_speech"
+        }
+    ],
+    "territory_geojson": null
+}

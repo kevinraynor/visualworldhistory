@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1291,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:7d0d36ff55c3f9f3329992037377397bc76c6b30431ab96e5057fa5ef00b666e",
+    "summary": "The Nile Valley and its flanking deserts experienced significant human settlement expansion during the period 10,000–8,000 BCE, driven by the improving climate of the early Holocene and the productive ecological zones of the valley itself. Hunter-gatherer communities occupied riverine and lacustrine environments along the length of the Nile corridor, exploiting fish, waterfowl, aquatic plants, and the game animals that gathered at the river's margins.\n\nThis period precedes the full adoption of farming in the Nile Valley, which came later than in the Near East. However, communities in the Nile Valley during this interval were already intensively harvesting wild plant foods including grasses and tubers, and the [[event:17|Green Sahara]] conditions created by the African Humid Period expanded habitable territory well beyond the narrow river corridor into what is today uninhabitable desert. Sites such as [[event:1292|Nabta Playa]] — a seasonal lake basin in the Eastern Sahara of Egypt — demonstrate that communities ranged widely across the Saharan landscape during the humid period, herding cattle and constructing ceremonial stone structures. This period of Saharan and Nile Valley settlement expansion laid important demographic and cultural groundwork for the later development of pharaonic Egyptian civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nile#History",
+    "read_more_links": [
+        {
+            "title": "Nile - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nile"
+        },
+        {
+            "title": "Prehistoric Egypt - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_Egypt"
+        },
+        {
+            "title": "Nabta Playa - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nabta_Playa"
+        },
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Abyssinia_1619_map_by_Jodocus_Hondius.jpg/300px-Abyssinia_1619_map_by_Jodocus_Hondius.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Abyssinia_1619_map_by_Jodocus_Hondius.jpg",
+            "caption": "Map of central Africa, 1619, by Jodocus Hondius",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Murchison_Falls%2C_Uganda_%2823475021234%29.jpg/300px-Murchison_Falls%2C_Uganda_%2823475021234%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Murchison_Falls%2C_Uganda_%2823475021234%29.jpg",
+            "caption": "Uganda Natural World",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Murchison_falls_National_Park.2.jpg/300px-Murchison_falls_National_Park.2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Murchison_falls_National_Park.2.jpg",
+            "caption": "Tourists having a boat cruise along River Nile to have a better glimpse of th...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Desert_agriculture_in_Egypt_%28Copernicus_2024-02-03%29.jpg/300px-Desert_agriculture_in_Egypt_%28Copernicus_2024-02-03%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Desert_agriculture_in_Egypt_%28Copernicus_2024-02-03%29.jpg",
+            "caption": "Egypt is largely a desert country. The Nile has been its most important resou...",
+            "attribution": "Wikimedia Commons, Attribution"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        }
+    ],
+    "territory_geojson": null
+}

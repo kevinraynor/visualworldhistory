@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1393,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fae4ca85336eaf289a14e7c415bead384041e8647cc31a22c991902325b18843",
+    "summary": "Emmer wheat (Triticum dicoccum) was domesticated from wild emmer (Triticum dicoccoides) in the Fertile Crescent, with genetic studies suggesting the primary domestication occurred in the Karacadag region of southeastern Anatolia, similar to [[event:1392|einkorn wheat]], or in a broader arc spanning from the southern Levant through the northern Euphrates basin. Emmer domestication was underway by approximately 9,000–8,500 BCE and the crop became one of the most important cereals of the ancient Near East and Mediterranean world.\n\nEmmer wheat is a tetraploid species (containing four sets of chromosomes), derived from the natural hybridization of two wild grass ancestors, and its genetic complexity contributed to the difficulty of achieving complete domestication in a single location or event. The domestic form of emmer, like einkorn, is distinguished from wild emmer primarily by its tough rachis that prevents seed dispersal, facilitating harvesting. Emmer was a principal grain at early Neolithic sites throughout the Levant and Anatolia and remained an important crop in ancient Egypt, where it was used to make bread and beer, for thousands of years. It was eventually largely replaced in the ancient Mediterranean by the higher-yielding free-threshing wheats (bread wheat and durum wheat) that descended in part from emmer genetics, but emmer itself survives as a specialty grain — known as farro in Italian cuisine — to the present day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emmer",
+    "read_more_links": [
+        {
+            "title": "Wheat Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wheat#History"
+        },
+        {
+            "title": "Founder Crops - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Founder_crops"
+        },
+        {
+            "title": "Ancient Egyptian Grain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_cuisine"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Triticum_turgidum_subsp._dicoccum_var._atratum_2023_08_11_JM.jpg/300px-Triticum_turgidum_subsp._dicoccum_var._atratum_2023_08_11_JM.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Triticum_turgidum_subsp._dicoccum_var._atratum_2023_08_11_JM.jpg",
+            "caption": "Ripe triticum turgidum subsp. dicoccum var. atratum (emmer) affected by lodgi...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Flora_of_Israel_-_Triticum_turgidum_subsp._dicoccoides.jpg/300px-Flora_of_Israel_-_Triticum_turgidum_subsp._dicoccoides.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Flora_of_Israel_-_Triticum_turgidum_subsp._dicoccoides.jpg",
+            "caption": "Wild wheat (Triticum turgidum subsp. dicoccoides) growing in a stand of mustard",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/USDA_wheat.jpg/300px-USDA_wheat.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/USDA_wheat.jpg",
+            "caption": "A variety of foods made from wheat.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RiedenburgerEmmer.jpg/300px-RiedenburgerEmmer.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/RiedenburgerEmmer.jpg",
+            "caption": "A bottle of Riedenburger Emmer beer",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Carl Friedrich Kotschy",
+            "summary": "Austrian Protestant theologian and botanist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carl_Kotschy.jpg/250px-Carl_Kotschy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Friedrich_Kotschy"
+        },
+        {
+            "name": "Saqqara",
+            "summary": "Burial ground in Giza Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/250px-Saqqara_pyramid_ver_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        }
+    ],
+    "territory_geojson": null
+}

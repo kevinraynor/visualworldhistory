@@ -1,0 +1,72 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1490,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fdab082abcff026ed10eb9b834486005ae3966bd793a2534066513be10dac792",
+    "summary": "The domestication of the aurochs (Bos primigenius) — the massive wild ancestor of modern cattle — into domestic cattle (Bos taurus) occurred during the eighth millennium BCE, with genetic and archaeological evidence pointing to two primary centers of domestication: the Near East (Anatolia and the Fertile Crescent) and independently in South Asia and Africa. The aurochs was a formidable animal, standing up to 1.8 meters at the shoulder and weighing up to a metric ton in the largest males, making its taming and domestication one of the most impressive achievements of prehistoric human communities.\n\nGenetic studies indicate that domestic cattle in most of the world trace their ancestry to a domestication event in the Near East involving a relatively small founding population of aurochs. The process involved the gradual habituation and selective breeding of wild aurochs — possibly beginning with the management of smaller, less aggressive individuals — over many generations until a genuinely domestic population emerged. The archaeological signature of this transition is visible in declining average body size of cattle at Near Eastern sites during the eighth and seventh millennia BCE, as domestic animals were typically smaller than their wild ancestors.\n\nCattle domestication had enormous and far-reaching consequences. Cattle provided meat, milk, hides, bone, sinew, and dung (for fuel), and in later periods served as draft animals for pulling plows and carts — transforming agriculture's productivity and reach. The keeping of cattle became central to the economies, social structures, and religious practices of agricultural societies from the Near East to Europe, Africa, and South Asia, with their importance reflected in the sacred status of cattle in many cultures to this day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aurochs#Domestication",
+    "read_more_links": [
+        {
+            "title": "Aurochs Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Aurochs"
+        },
+        {
+            "title": "Cattle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cattle"
+        },
+        {
+            "title": "History of Cattle Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cattle#Domestication_and_husbandry"
+        },
+        {
+            "title": "Animal Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Domestication"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bos_primigenius_%28100866183%29_%28grey%29.jpg/300px-Bos_primigenius_%28100866183%29_%28grey%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bos_primigenius_%28100866183%29_%28grey%29.jpg",
+            "caption": "Aurochs",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Indian_Aurochs_B_p_namadicus_3.jpg/300px-Indian_Aurochs_B_p_namadicus_3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Indian_Aurochs_B_p_namadicus_3.jpg",
+            "caption": "Live reconstruction of an Indian aurochs (Bos (primigenius) namadicus).  \nTra...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Copenhagen_Aurochse.jpg/300px-Copenhagen_Aurochse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Copenhagen_Aurochse.jpg",
+            "caption": "Auerochs bull in Copenhagen, from Vig",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pleuroceras_ammonite_with_no_background.png/300px-Pleuroceras_ammonite_with_no_background.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Pleuroceras_ammonite_with_no_background.png",
+            "caption": "Pleuroceras solare, Amaltheidae; Pyritic specimen; Diameter 3.2 cm; Upper Pli...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Drinking horn",
+            "summary": "Horn of a bovid used as a drinking vessel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Drinkhoorn_roordahuizum.JPG/250px-Drinkhoorn_roordahuizum.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Drinking_horn"
+        },
+        {
+            "name": "Hugh Falconer",
+            "summary": "Scottish scientist and evolutionary theorist (1808–1865)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hugh_Falconer.jpeg/250px-Hugh_Falconer.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_Falconer"
+        }
+    ],
+    "territory_geojson": null
+}

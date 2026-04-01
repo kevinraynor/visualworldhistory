@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1735,
+    "parent_id": 1734,
+    "granularity": "detailed",
+    "content_hash": "sha256:3c477645549205fb2c4fe7421029abe8b5763ce0c7d413aa9ed9ba59aa5640cc",
+    "summary": "The Ebla Tablets, dating approximately 2400–2300 BC and discovered at Tell Mardikh (ancient Ebla) in northwestern Syria by Italian archaeologists beginning in 1974, constitute one of the most significant archaeological finds of the twentieth century. The archive of some 17,000 complete and fragmentary clay tablets, found in the ruins of the [[event:1734|palace at Ebla]], preserve administrative records, commercial texts, diplomatic correspondence, and literary compositions in both Sumerian and the Semitic language now known as Eblaite — making them the earliest substantial evidence of a Semitic language in written form.\n\nThe tablets illuminate the sophisticated bureaucratic and commercial life of Ebla at its peak. They record transactions in textiles (the city's primary export commodity), grain, metals, and livestock; they list diplomatic gifts exchanged with distant cities; and they preserve vocabulary lists, bilingual dictionaries, and mythological texts. Among the most significant findings is evidence of Ebla's extensive trade network, which connected it with partners from Mesopotamia to the Aegean and from Anatolia to Egypt.\n\nThe discovery of the Ebla Tablets generated considerable scholarly and public excitement, partly because early (and subsequently disputed) readings suggested possible connections to biblical narratives. While more sober assessment has revised many of these initial claims, the tablets remain an invaluable window into Bronze Age urban life in Syria and the linguistic diversity of the ancient Near East. They demonstrate that literate, commercially sophisticated urban civilisations existed across a much wider geographic range than the traditional Mesopotamia-Egypt model of ancient history would suggest.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ebla_tablets",
+    "read_more_links": [
+        {
+            "title": "Ebla",
+            "url": "https://en.wikipedia.org/wiki/Ebla"
+        },
+        {
+            "title": "Eblaite language",
+            "url": "https://en.wikipedia.org/wiki/Eblaite_language"
+        },
+        {
+            "title": "Semitic languages – History",
+            "url": "https://en.wikipedia.org/wiki/Semitic_languages"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG/300px-Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG",
+            "caption": "South-west gate, Ebla in 2004",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg/300px-Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg",
+            "caption": "Proveniente dagli archivi del Palazzo Reale di Ebla",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1769,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ef356f4558d128c351a7d3518fb4fd49d6cdcf9952372525a82a4945ba16e266",
+    "summary": "The Xia dynasty is the earliest dynasty described in traditional Chinese historical sources, said to have been founded by the legendary hero Yu the Great approximately 2070 BC and lasting until around 1600 BC. According to these accounts, Yu won divine favour by devising a system to control catastrophic floods, receiving from heaven the mandate to rule and the right to found a hereditary dynasty — marking the transition from the earlier system of meritocratic succession (the Three Sovereigns and Five Emperors) to hereditary kingship. The Xia is thus presented in Chinese tradition as the foundational political institution of Chinese civilisation.\n\nThe historical status of the Xia dynasty has been a matter of scholarly debate. No contemporary written records from the Xia period have been discovered, and the accounts preserved in texts such as the Shiji (Records of the Grand Historian) by Sima Qian were written more than a thousand years after the supposed Xia period. Some scholars, particularly outside China, treat the Xia as legendary rather than historical. However, the archaeological site of [[event:1768|Erlitou]] in Henan province, whose dates and location correspond reasonably well to the traditional accounts of Xia territory and chronology, is regarded by many Chinese archaeologists as the physical remains of the Xia state.\n\nThe significance of the Xia dynasty in Chinese cultural history transcends the question of its literal historicity. The concept of the Xia as the first dynasty established the framework of the dynastic cycle that would structure Chinese political thought for millennia: the idea that legitimate rule depends on the Mandate of Heaven, that dynasties rise and fall according to the virtue of their rulers, and that historical continuity requires each dynasty to be the proper successor of those before it. Whether or not the Xia as described existed exactly as traditional accounts claim, it represents a foundational myth about the origins of Chinese civilisation and governance.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Xia_dynasty",
+    "read_more_links": [
+        {
+            "title": "Yu the Great",
+            "url": "https://en.wikipedia.org/wiki/Yu_the_Great"
+        },
+        {
+            "title": "Erlitou culture",
+            "url": "https://en.wikipedia.org/wiki/Erlitou_culture"
+        },
+        {
+            "title": "Mandate of Heaven",
+            "url": "https://en.wikipedia.org/wiki/Mandate_of_Heaven"
+        },
+        {
+            "title": "Chinese historiography",
+            "url": "https://en.wikipedia.org/wiki/Historiography_of_China"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/China_at_the_End_of_the_Shang_or_Yin_Dynasty%2C_ca_1110_BC.jpg/300px-China_at_the_End_of_the_Shang_or_Yin_Dynasty%2C_ca_1110_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/China_at_the_End_of_the_Shang_or_Yin_Dynasty%2C_ca_1110_BC.jpg",
+            "caption": "\"China at the End of the Shang or Yin Dynasty, ca. 1110 B.C.\", a map displayi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nine_Provinces_of_China.png/300px-Nine_Provinces_of_China.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nine_Provinces_of_China.png",
+            "caption": "Map showing the Nine provinces defined by Yu, the Great during the legendary ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%E5%A4%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4%E5%9C%96.jpg/300px-%E5%A4%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4%E5%9C%96.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%E5%A4%A7%E7%A6%B9%E6%B2%BB%E6%B0%B4%E5%9C%96.jpg",
+            "caption": "Dayu Water Control Map",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Xia_Dynasty_pottery_jue.jpg/300px-Xia_Dynasty_pottery_jue.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Xia_Dynasty_pottery_jue.jpg",
+            "caption": "Xia Dynasty pottery jue",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Shun",
+            "summary": "Legendary ruler of ancient China, one of the Five Emperors",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/EmperorShun.jpg/250px-EmperorShun.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Shun"
+        },
+        {
+            "name": "Shiji",
+            "summary": "Historical accounts of ancient China to Western Han",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%E5%8F%B2%E8%AE%B0.jpg/250px-%E5%8F%B2%E8%AE%B0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shiji"
+        },
+        {
+            "name": "Sima Qian",
+            "summary": "Chinese historian (c. 145 – c. 86 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/250px-Sima_Qian_%28painted_portrait%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sima_Qian"
+        },
+        {
+            "name": "Zhuanxu",
+            "summary": "Legendary ancient Chinese emperor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/EmperorZhuanxu.jpg/250px-EmperorZhuanxu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhuanxu"
+        },
+        {
+            "name": "Ban Gu",
+            "summary": "Chinese historian, politician and poet (AD 32–92)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ban_Gu.jpg/250px-Ban_Gu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ban_Gu"
+        },
+        {
+            "name": "Qi of Xia",
+            "summary": "King of the Xia dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%E5%A4%8F%E7%8E%8B%E5%90%AF.png/250px-%E5%A4%8F%E7%8E%8B%E5%90%AF.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qi_of_Xia"
+        }
+    ],
+    "territory_geojson": null
+}

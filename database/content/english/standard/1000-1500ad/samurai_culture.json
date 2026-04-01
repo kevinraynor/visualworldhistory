@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2279,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f38d8173e854e812b9a9ecd20eab55ebf4e92a66b2aa793e93de1a419f805d5b",
+    "summary": "Samurai culture emerged and crystallized during the [[event:2278|Kamakura Period]] (1185–1333 AD) and subsequent centuries of Japanese military rule, developing from the mounted warriors (bushi) of the Heian Period into a distinct hereditary military aristocracy with a sophisticated code of values, aesthetics, and social obligations that defined Japanese elite culture for seven centuries. The samurai class — whose name derives from saburau, 'to serve' — were retainers bound to their lords by bonds of loyalty, service, and reciprocal obligation formalized in the feudal land-grant system.\n\nThe samurai ideal combined martial excellence with cultural refinement in ways that often surprised Western observers: the same warrior who trained obsessively in swordsmanship was expected to practice calligraphy, compose poetry, and cultivate an aesthetic sensibility informed by Zen Buddhism. Zen's emphasis on intuitive action, present-moment awareness, and transcendence of fear resonated deeply with the warrior's need to face death with equanimity, and Zen monasteries became centers of samurai education and cultural life. The Japanese sword (katana) was elevated to a sacred object — the physical and spiritual embodiment of the samurai's soul — and the craft of Japanese swordmaking (involving folded steel with differential hardening) represents one of the high points of premodern metallurgical art. The code of bushido ('Way of the Warrior') — emphasizing loyalty, honor, martial skill, and readiness to die — was articulated systematically only in the Edo period (17th–19th centuries) but reflected values that had developed across centuries of samurai practice. Samurai culture's aesthetic legacy — Zen gardens, the tea ceremony, Noh theatre, ink painting — profoundly shaped Japanese art and continues to influence global popular culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai",
+    "read_more_links": [
+        {
+            "title": "Bushido samurai code values loyalty",
+            "url": "https://en.wikipedia.org/wiki/Bushido"
+        },
+        {
+            "title": "Japanese sword katana sacred object",
+            "url": "https://en.wikipedia.org/wiki/Japanese_sword"
+        },
+        {
+            "title": "Zen Buddhism samurai culture Japan",
+            "url": "https://en.wikipedia.org/wiki/Zen#Samurai"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hangaku_Gozen_by_Yoshitoshi.jpg/300px-Hangaku_Gozen_by_Yoshitoshi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Hangaku_Gozen_by_Yoshitoshi.jpg",
+            "caption": "\"Hangakujo\". The female warrior samurai Hangaku Gozen by Yoshitoshi (1839-189...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sekigahara_Kassen_By%C5%8Dbu-zu_%28Gifu_History_Museum%29.jpg/300px-Sekigahara_Kassen_By%C5%8Dbu-zu_%28Gifu_History_Museum%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sekigahara_Kassen_By%C5%8Dbu-zu_%28Gifu_History_Museum%29.jpg",
+            "caption": "Sekigahara Kassen Byōbu (『関ヶ原合戦屏風』), Japanese screen depicting the Battle of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABkan_no_zu.jpg/300px-Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABkan_no_zu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Taik%C5%8D_gosai_rakut%C5%8D_y%C5%ABkan_no_zu.jpg",
+            "caption": "Toyotomi Hideyoshi with his wives and concubines.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Himeji_castle_in_may_2015.jpg/300px-Himeji_castle_in_may_2015.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Himeji_castle_in_may_2015.jpg",
+            "caption": "Himeji castle in may 2015 after the five year renovation of the roof and walls.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Saga",
+            "summary": "Emperor of Japan from 809 to 823",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Emperor_Saga_large.jpg/250px-Emperor_Saga_large.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Saga"
+        },
+        {
+            "name": "Emperor Go-Shirakawa",
+            "summary": "Emperor of Japan from 1155 to 1158",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Emperor_Goshirakawa%2Cmy%C5%8Dh%C5%8Din.jpg/250px-Emperor_Goshirakawa%2Cmy%C5%8Dh%C5%8Din.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Shirakawa"
+        },
+        {
+            "name": "Taira no Kiyomori",
+            "summary": "12th-century Japanese military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Taira_no_Kiyomori%2CTenshiSekkanMiei.jpg/250px-Taira_no_Kiyomori%2CTenshiSekkanMiei.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taira_no_Kiyomori"
+        },
+        {
+            "name": "Emperor Antoku",
+            "summary": "Emperor of Japan from 1180 to 1185",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Emperor_Antoku.jpg/250px-Emperor_Antoku.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Antoku"
+        },
+        {
+            "name": "Minamoto no Yoritomo",
+            "summary": "Japanese Samurai, Daimyo and Military ruler of Japan from 1192 to 1199",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Minamoto_no_Yoritomo.jpg/250px-Minamoto_no_Yoritomo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Minamoto_no_Yoritomo"
+        },
+        {
+            "name": "Emperor Go-Toba",
+            "summary": "Emperor of Japan from 1183 to 1198",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Emperor_Go-Toba.jpg/250px-Emperor_Go-Toba.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Go-Toba"
+        }
+    ],
+    "territory_geojson": null
+}

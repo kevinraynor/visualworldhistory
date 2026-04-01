@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2341,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:0fea4117a8090100fda3c38c37026c559befe6792864d714f43a85012694d9c8",
+    "summary": "The Atlantic Slave Trade (c. 1501–1867 AD) was the forced transportation of approximately 12.5 million enslaved Africans across the Atlantic Ocean to the Americas, constituting the largest forced migration in history and one of the most consequential and catastrophic events in the human past, with effects on African demography, culture, and political economy that shaped the continent for centuries. The trade operated within the triangular trade system: European manufactured goods were carried to West Africa and exchanged for enslaved people; the enslaved were transported in horrific conditions across the Middle Passage (averaging 10–12 weeks, with mortality rates of 10–20%); and American colonial products (sugar, tobacco, cotton, coffee) were returned to Europe. The trade's peak was the 18th century, when [[event:3836|approximately 6 million people]] were transported — primarily to the sugar plantations of Brazil, the Caribbean, and the cotton fields of North America.\n\nThe trade's human cost was incalculable. The Middle Passage subjected captives to extreme overcrowding, disease (dysentery, smallpox), malnutrition, violence, and psychological trauma; an estimated 1.8 million died during the ocean crossing alone. In Africa, the trade's demographic and political consequences were severe: it removed approximately 12.5 million people (predominantly young men and women) from the most productive age groups, fueled inter-African warfare as coastal kingdoms raided interior peoples for slave markets, and destabilized political structures across a vast region. The plantation [[event:2484|system]] it sustained in the Americas generated the capital that funded much of Europe's [[event:108|Industrial Revolution]]. The abolition movement, driven by Quakers, evangelical Christians, and Enlightenment philosophy, succeeded in ending the British trade in 1807; the institution of slavery itself was abolished in stages across the Americas from the Haitian Revolution ([[event:2335|1804]]) through Brazil's final abolition in 1888.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+    "read_more_links": [
+        {
+            "title": "Middle Passage mortality conditions Atlantic crossing",
+            "url": "https://en.wikipedia.org/wiki/Middle_Passage"
+        },
+        {
+            "title": "Triangular trade system Europe Africa Americas",
+            "url": "https://en.wikipedia.org/wiki/Triangular_trade"
+        },
+        {
+            "title": "Abolition movement Britain 1807 slave trade end",
+            "url": "https://en.wikipedia.org/wiki/Slave_Trade_Act_1807"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Agostino_Brunias_-_A_Linen_Market_with_a_Linen-stall_and_Vegetable_Seller_in_the_West_Indies_-_Google_Art_Project.jpg/300px-Agostino_Brunias_-_A_Linen_Market_with_a_Linen-stall_and_Vegetable_Seller_in_the_West_Indies_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Agostino_Brunias_-_A_Linen_Market_with_a_Linen-stall_and_Vegetable_Seller_in_the_West_Indies_-_Google_Art_Project.jpg",
+            "caption": "Agostino Brunias - A Linen Market with a Linen-stall and Vegetable Seller in the West Indies - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Punishing_negroes_at_Cathabouco%2C_Rio_de_Janeiro.png/300px-Punishing_negroes_at_Cathabouco%2C_Rio_de_Janeiro.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Punishing_negroes_at_Cathabouco%2C_Rio_de_Janeiro.png",
+            "caption": "Punishing negroes at Cathabouco, Rio de Janeiro",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Agostino_Brunias_-_West_Indian_Creole_woman%2C_with_her_Black_Servant_-_Google_Art_Project.jpg/300px-Agostino_Brunias_-_West_Indian_Creole_woman%2C_with_her_Black_Servant_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Agostino_Brunias_-_West_Indian_Creole_woman%2C_with_her_Black_Servant_-_Google_Art_Project.jpg",
+            "caption": "Agostino Brunias - West Indian Creole woman, with her Black Servant - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/March%C3%A9_aux_Negres_by_Johann_Moritz_Rugendas_2.jpg/300px-March%C3%A9_aux_Negres_by_Johann_Moritz_Rugendas_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/March%C3%A9_aux_Negres_by_Johann_Moritz_Rugendas_2.jpg",
+            "caption": "\"Slave Market\" (caption translation). This image shows men, women and childre...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Conquistador",
+            "summary": "Spanish and Portuguese conquerors of the Age of Discovery",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg/250px-Hern%C3%A1n_Cort%C3%A9s_an%C3%B3nimo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Conquistador"
+        },
+        {
+            "name": "Christopher Columbus",
+            "summary": "Italian navigator and explorer (1451–1506)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/250px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christopher_Columbus"
+        }
+    ],
+    "territory_geojson": null
+}

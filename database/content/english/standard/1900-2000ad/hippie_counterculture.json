@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2745,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:01a602ff9ba9d24837780f1cc6b988f716df535908f92427055e5ecbce81fbce",
+    "summary": "The hippie counterculture emerged in the mid-1960s in the United States, centered initially in the Haight-Ashbury district of San Francisco, and spread rapidly among young people across North America and Western Europe. The movement rejected mainstream American values of materialism, conformity, and militarism, advocating instead for peace, communal living, personal freedom, and spiritual exploration. Opposition to the [[event:2674|Vietnam War]] was central to its political expression. The Summer of Love in 1967, when an estimated 100,000 young people converged on San Francisco, marked the movement's cultural peak.\n\nThe counterculture produced lasting influences on music, art, fashion, and social norms. Rock festivals such as Woodstock in August 1969 drew hundreds of thousands of attendees and symbolized a generational challenge to established culture. The use of psychedelic drugs, particularly LSD, was widespread in the movement and influenced musical experimentation in bands such as the Grateful Dead, Jefferson Airplane, and the Beatles. Eastern religious traditions, including Buddhism and Hinduism, attracted significant interest among counterculture participants seeking alternatives to Western materialism.\n\nThe hippie movement's longer-term cultural legacy was complex. Many of its surface elements — long hair, rock music, relaxed sexual norms — were absorbed into mainstream consumer culture with remarkable speed. Its more radical critiques of capitalism and militarism had limited political effect, though the anti-war movement contributed to growing public opposition to the Vietnam War. Some participants' interest in organic food, environmentalism, and alternative communities presaged later environmental and sustainability movements.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hippie",
+    "read_more_links": [
+        {
+            "title": "Counterculture of the 1960s - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Counterculture_of_the_1960s"
+        },
+        {
+            "title": "Woodstock - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Woodstock-Festival"
+        },
+        {
+            "title": "Summer of Love - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Summer_of_Love"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Miss_Beatnik_of_1959_contestants.jpg/300px-Miss_Beatnik_of_1959_contestants.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Miss_Beatnik_of_1959_contestants.jpg",
+            "caption": "Posing before a sample of beatnik art are Miss Beatnik of 1959 contestants in...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jefferson_Airplane_-_Cash_Box_1967.jpg/300px-Jefferson_Airplane_-_Cash_Box_1967.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jefferson_Airplane_-_Cash_Box_1967.jpg",
+            "caption": "Jefferson Airplane featured on the cover of Cash Box magazine, 29 July 1967.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Furthur_02.jpg/300px-Furthur_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Furthur_02.jpg",
+            "caption": "\"Further\" (also known as \"Furthur\"), Ken Kesey and the Merry Pranksters' famo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cornflake_%26_Vivian.jpg/300px-Cornflake_%26_Vivian.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cornflake_%26_Vivian.jpg",
+            "caption": "\"Cornflake\" and Vivian McPeak, Snoqualmie Moondance festival.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jesse Sheidlower",
+            "summary": "American lexicographer (born 1968)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jesse_Sheidlower_%286874864316%29.jpg/250px-Jesse_Sheidlower_%286874864316%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jesse_Sheidlower"
+        },
+        {
+            "name": "George V. Hobart",
+            "summary": "American writer and lyricist (1867–1926)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/George_Vere_Hobart.jpg/250px-George_Vere_Hobart.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_V._Hobart"
+        },
+        {
+            "name": "Andrew Loog Oldham",
+            "summary": "English record producer, talent manager, impresario and author (born 1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alo_bio_2010_Small.jpg/250px-Alo_bio_2010_Small.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Loog_Oldham"
+        }
+    ],
+    "territory_geojson": null
+}

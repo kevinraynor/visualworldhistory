@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1527,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5fbade7bf104da35aec2d12fc810ce9289bc830e31f61d04671a0a8ef92b7188",
+    "summary": "The Majiayao culture flourished in the upper Yellow River valley in present-day Gansu and Qinghai provinces of northwestern China from approximately 5300 to 2900 BCE, with its early phase running from around 5300 to 4000 BCE. It is recognized as one of the most important Neolithic cultures in the region and is particularly renowned for its extraordinarily fine painted pottery. Majiayao ceramic vessels are decorated with spiraling, flowing geometric patterns painted in black on an orange-red ground — widely regarded as among the most aesthetically accomplished pottery of prehistoric China.\n\nMajiayao communities inhabited a transitional environmental zone between the loess plateau of the Yellow River basin and the highland grasslands of the Tibetan plateau fringe. They cultivated millet and raised pigs and sheep, supplementing their diet with hunting and fishing. Their villages were typically modest in size, consisting of pit houses set in small clusters. The culture developed through several phases — Majiayao, Banshan, and Machang — each with distinct ceramic styles, spanning over two millennia of continuity in the same general region.\n\nThe Majiayao culture provides important evidence for the cultural and demographic history of western China, occupying a position between the [[event:36|Yangshao culture]] to its east and the pastoral cultures of Central Asia to its west. Its sophisticated ceramic tradition and long-term cultural continuity make it a significant chapter in the deep prehistory of the Gansu corridor — a route that would later become part of the Silk Road.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Majiayao_culture",
+    "read_more_links": [
+        {
+            "title": "Chinese Neolithic - Britannica",
+            "url": "https://www.britannica.com/place/China/The-Neolithic-period"
+        },
+        {
+            "title": "Gansu prehistoric cultures",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_China"
+        },
+        {
+            "title": "Yangshao and related cultures - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/824/yangshao-culture/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MET_DP-12231-006.jpg/300px-MET_DP-12231-006.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/MET_DP-12231-006.jpg",
+            "caption": "China; Jar; Ceramics",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cultura_de_Majiayao.JPG/300px-Cultura_de_Majiayao.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cultura_de_Majiayao.JPG",
+            "caption": "París, Musée Guimet. Jarra de la cultura de Majiayao, fase Banshan.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Banshan_Seattle.JPG/300px-Banshan_Seattle.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Banshan_Seattle.JPG",
+            "caption": "Seattle Asian Art Museum. Cerámica de Banshan, China, ca. 2600-2300 a.C.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Machang_Period_Pottery_%28Swastika_symbol%29.jpg/300px-Machang_Period_Pottery_%28Swastika_symbol%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Machang_Period_Pottery_%28Swastika_symbol%29.jpg",
+            "caption": "Machang Period Pottery (Swastika symbol)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Lintao County",
+            "summary": "County in Gansu, China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%E4%B8%B4%E6%B4%AE%E8%A1%97%E6%99%AF-1_-_panoramio_%281%29.jpg/250px-%E4%B8%B4%E6%B4%AE%E8%A1%97%E6%99%AF-1_-_panoramio_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lintao_County"
+        },
+        {
+            "name": "Dongxiang Autonomous County",
+            "summary": "Autonomous county in Gansu, China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/5895-Linxia-County-Daxiahe-valley.jpg/250px-5895-Linxia-County-Daxiahe-valley.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dongxiang_Autonomous_County"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 112,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:4162a6bb36ad72042add98a6a7c66915a51fd6483406515d5eae5dfb43c12069",
+    "summary": "World War II, waged from 1939 to 1945, was the deadliest conflict in human history, killing an estimated 70 to 85 million people — roughly three percent of the world's population at the time. It grew from the unresolved tensions of [[event:110|World War I]], the economic collapse of the [[event:2650|Great Depression]], and the rise of aggressive totalitarian regimes: [[event:2653|Nazi Germany]] under Adolf Hitler, Fascist Italy under Mussolini, and Imperial Japan. The war was fought across Europe, Asia, Africa, and the oceans simultaneously, making it truly global in scope.\n\nThe war in Europe began with Germany's [[event:2655|invasion of Poland]] on 1 September 1939, prompting Britain and France to declare war. Germany rapidly conquered much of Western Europe in 1940, including the [[event:3337|fall of France]] and the [[event:2764|Dunkirk evacuation]]. The [[event:2656|Battle of Britain]] saw the Royal Air Force narrowly defeat the Luftwaffe's attempt to gain air supremacy, thwarting a planned German invasion of Britain. Hitler then launched [[event:2657|Operation Barbarossa]] in June 1941 — the largest land invasion in history — targeting the Soviet Union, transforming it from a co-conspirator (via the Molotov-Ribbentrop Pact) into a vital Allied partner.\n\nJapan's surprise [[event:2662|attack on Pearl Harbor]] in December 1941 drew the United States into the war. The [[event:3340|Pacific War]] spread across vast ocean distances, with pivotal naval engagements at [[event:2759|Midway]] and brutal island-hopping campaigns. Meanwhile, [[event:2660|the Holocaust]] — Nazi Germany's systematic murder of six million Jews and millions of others — represented an unprecedented crime against humanity, carried out through death camps, mobile killing units, and industrial-scale genocide.\n\nThe tide turned against the Axis on multiple fronts in 1942–43. The [[event:2658|Battle of Stalingrad]] was the decisive turning point in the east, destroying the German Sixth Army and beginning a Soviet advance that would not stop until Berlin. In the west, [[event:2659|D-Day]] on 6 June 1944 opened the long-awaited second front in France, as Allied forces liberated Western Europe over the following months. Germany's [[event:2762|fall of Berlin]] in May 1945 ended the European war.\n\nIn Asia, Japan fought tenaciously despite mounting losses. The [[event:2765|Manhattan Project]] had secretly produced the world's first atomic bombs, and the United States used them against [[event:2661|Hiroshima and Nagasaki]] in August 1945. Japan surrendered shortly afterward, ending the war. The bombings killed approximately 200,000 people and opened the nuclear age, fundamentally altering the nature of international security.\n\nThe war's aftermath reshaped the entire world order. The [[event:2712|Nuremberg Trials]] established the principle that leaders could be held criminally accountable for war crimes and crimes against humanity. The [[event:2663|United Nations]] was founded to promote international peace. Europe lay devastated, accelerating the decline of the old colonial empires and the [[event:114|decolonization]] of Asia and Africa. The [[event:113|Cold War]] between the United States and Soviet Union — the two superpowers that emerged victorious — came to define the second half of the twentieth century, reshaping politics, culture, and technology for generations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/World_War_II",
+    "read_more_links": [
+        {
+            "title": "World War II – Britannica",
+            "url": "https://www.britannica.com/event/World-War-II"
+        },
+        {
+            "title": "Causes of World War II – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Causes_of_World_War_II"
+        },
+        {
+            "title": "The Holocaust – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Holocaust"
+        },
+        {
+            "title": "World War II Casualties – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/World_War_II_casualties"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg/300px-Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mamoru_Shigemitsu_signs_the_Instrument_of_Surrender%2C_officially_ending_the_Second_World_War.jpg",
+            "caption": "Japanese Foreign Minister Mamoru Shigemitsu signs the Instrument of Surrender...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Japanese_torpedo_bombers_fly_past_USS_Yorktown_%28CV-5%29_on_4_June_1942.jpg/300px-Japanese_torpedo_bombers_fly_past_USS_Yorktown_%28CV-5%29_on_4_June_1942.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Japanese_torpedo_bombers_fly_past_USS_Yorktown_%28CV-5%29_on_4_June_1942.jpg",
+            "caption": "Two Type 97 shipboard attack aircraft from the Japanese aircraft carrier Hiry...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg/300px-Raising_a_flag_over_the_Reichstag_-_Restoration.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Raising_a_flag_over_the_Reichstag_-_Restoration.jpg",
+            "caption": "The iconic \"Raising a flag over the Reichstag\" photo by Yevgeny Khaldei. Publ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joseph Stalin",
+            "summary": "Leader of the Soviet Union from 1924 to 1953",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg/250px-Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Stalin"
+        },
+        {
+            "name": "Franklin D. Roosevelt",
+            "summary": "President of the United States from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/250px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        },
+        {
+            "name": "Winston Churchill",
+            "summary": "British statesman and writer (1874–1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/250px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Winston_Churchill"
+        },
+        {
+            "name": "Chiang Kai-shek",
+            "summary": "Leader of the Republic of China from 1928 to 1975",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/250px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek"
+        },
+        {
+            "name": "Adolf Hitler",
+            "summary": "Dictator of Germany from 1933 to 1945",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/250px-Hitler_portrait_crop_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adolf_Hitler"
+        },
+        {
+            "name": "Hirohito",
+            "summary": "Emperor of Japan from 1926 to 1989",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hirohito_in_dress_uniform_%28cropped%29.jpg/250px-Hirohito_in_dress_uniform_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hirohito"
+        }
+    ],
+    "territory_geojson": null
+}

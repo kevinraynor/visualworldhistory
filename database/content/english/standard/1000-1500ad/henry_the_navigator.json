@@ -1,0 +1,37 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3055,
+    "parent_id": 3054,
+    "granularity": "detailed",
+    "content_hash": "sha256:d5b55565c941f45234033b2899071eae371393a641afe323358637822e27f7b6",
+    "summary": "Prince Henry the Navigator (Infante Dom Henrique, 1394–1460 AD) was the Portuguese royal prince who organized, funded, and directed the systematic [[event:3054|Portuguese exploration]] of the African coast — one of the most consequential organizational achievements in the history of exploration. Henry himself rarely sailed, preferring to direct expeditions from his center at Sagres on Portugal's southwestern tip, where he assembled cartographers, astronomers, navigators, and shipbuilders and deployed them year after year toward the unknown south. His title 'the Navigator' was bestowed posthumously by English writers in the 19th century; his contemporaries knew him as 'the Constant' for his relentless pursuit of exploration.\n\nHenry's motivations were multiple: religious crusading zeal (he was Grand Master of the Order of Christ and hoped to outflank Islam by reaching sub-Saharan Africa and its legendary Christian kingdom of Prester John), commercial ambition (access to the African gold and slave trade without Islamic middlemen), and genuine intellectual curiosity about what lay beyond the known world. His organizational genius was to institutionalize exploration — making it a sustained, systematic program rather than one-off adventures. Under his direction, Portuguese captains progressively extended knowledge of the Canary Islands, Madeira, the Azores, and the African coast south of Cape Bojador. By the time of his death in 1460, Portuguese expeditions had reached the Gulf of Guinea and the Cape Verde Islands, laying the groundwork for the generation that would round Africa and reach India. Henry's model of state-directed exploration for commercial and strategic advantage became the template for all subsequent European oceanic expansion.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_the_Navigator",
+    "read_more_links": [
+        {
+            "title": "Sagres Henry Navigator center exploration",
+            "url": "https://en.wikipedia.org/wiki/Henry_the_Navigator#Sagres_school"
+        },
+        {
+            "title": "Henry Navigator motivations religion commerce",
+            "url": "https://en.wikipedia.org/wiki/Henry_the_Navigator#Motivations"
+        },
+        {
+            "title": "Order Christ Henry Navigator Crusade",
+            "url": "https://en.wikipedia.org/wiki/Order_of_Christ_(Portugal)"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Prince Henry the Navigator",
+            "summary": "Portuguese prince and governor (1394–1460)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Henry_the_Navigator1.jpg/250px-Henry_the_Navigator1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator"
+        }
+    ],
+    "territory_geojson": null
+}

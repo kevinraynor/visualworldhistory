@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 51,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:24f539cb4607abc25f40a0aa67c341d80d4fd2447e1958b4909b4f9a3bc0e94c",
+    "summary": "The Middle Kingdom of Egypt, spanning approximately 2055 to 1650 BCE and encompassing the Eleventh through Fourteenth Dynasties, marked the reunification of Egypt after the fragmentation of the First Intermediate Period and inaugurated what many Egyptologists regard as the classical age of Egyptian literature and art. The period began when Mentuhotep II of Thebes defeated the rival Herakleopolitan rulers of Lower Egypt around 2055 BCE, reasserting centralized pharaonic authority and making Thebes — previously a provincial city — a major political and religious center for the first time.\n\nThe Middle Kingdom is celebrated above all for its literary production. Texts composed during this era, including the Tale of Sinuhe, the Eloquent Peasant, the Story of the Shipwrecked Sailor, and the Instructions of Amenemhat, represent a sophisticated narrative tradition that would serve as the canonical model for Egyptian prose and wisdom literature for centuries. These works explore themes of royal legitimacy, individual virtue, the experience of exile and return, and the proper relationship between subjects and the crown. The Middle Egyptian dialect in which they were written became the prestige form of the language, used by scribes for formal compositions long after it had ceased to be spoken in daily life.\n\nMilitary and territorial expansion characterized the reign of the Twelfth Dynasty pharaohs, who built a series of massive mud-brick fortresses in Nubia along the Second Cataract of the Nile, extending Egyptian control southward and securing access to gold, ivory, and other resources. Campaigns into the Levant and Sinai maintained Egyptian influence in these resource-rich regions, while a complex of irrigation works in the Fayyum Depression — directed by Twelfth Dynasty rulers — transformed a large swampy area into productive agricultural land, significantly increasing the country's food-producing capacity.\n\nRoyal ideology underwent a significant shift during the Middle Kingdom. The pharaoh was still divine but was increasingly portrayed as a shepherd of his people, responsible for their welfare in a more personally engaged way than the remote god-kings of the [[event:41|Old Kingdom]]. Royal portraiture reflects this change: Middle Kingdom statues of pharaohs such as Senusret III display faces of unusual psychological complexity — heavy-lidded, seemingly care-worn expressions that depart markedly from the serene idealized faces of Old Kingdom royal sculpture. Whether this reflects genuine artistic individualism or a deliberate royal propaganda strategy emphasizing the burden of kingship remains debated.\n\nThe Middle Kingdom declined through the Second Intermediate Period beginning around 1650 BCE, when the Hyksos — a Semitic-speaking people from the Levant who had been settling in the Delta region for generations — seized control of Lower Egypt and established the Fifteenth Dynasty at Avaris. Their adoption of horse-drawn chariots and composite bows introduced military technologies new to Egypt that would later be turned against them. The Hyksos interlude ended when Ahmose I expelled them around 1550 BCE and founded the Eighteenth Dynasty, inaugurating the [[event:60|New Kingdom of Egypt]] — a period of unprecedented imperial expansion across the Near East.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt",
+    "read_more_links": [
+        {
+            "title": "Tale of Sinuhe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Story_of_Sinuhe"
+        },
+        {
+            "title": "Senusret III - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Senusret_III"
+        },
+        {
+            "title": "Hyksos - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hyksos"
+        },
+        {
+            "title": "Middle Kingdom Egypt - Britannica",
+            "url": "https://www.britannica.com/topic/Middle-Kingdom"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%C3%84gypten_1999_%28237%29_Luxor-Museum_%2828186790096%29.jpg/300px-%C3%84gypten_1999_%28237%29_Luxor-Museum_%2828186790096%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/%C3%84gypten_1999_%28237%29_Luxor-Museum_%2828186790096%29.jpg",
+            "caption": "Ägypten 1999 (237) Luxor-Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C3%84gyptisches_Museum_Leipzig_104.jpg/300px-%C3%84gyptisches_Museum_Leipzig_104.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%C3%84gyptisches_Museum_Leipzig_104.jpg",
+            "caption": "Head of a statue of king Senwosret I; provenance unknown, 12th dynasty",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_Asia_physical_%28continental%29.png/300px-Map_Asia_physical_%28continental%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Map_Asia_physical_%28continental%29.png",
+            "caption": "Map Asia physical (continental)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Merneferre Ay",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Merneferre_Ay.jpg/250px-Merneferre_Ay.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merneferre_Ay"
+        },
+        {
+            "name": "Christian Charles Josias von Bunsen",
+            "summary": "German diplomat and scholar (1791–1860)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Christian_karl_josias_von_bunsen.jpg/250px-Christian_karl_josias_von_bunsen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Charles_Josias_von_Bunsen"
+        },
+        {
+            "name": "Mentuhotep III",
+            "summary": "Pharaoh of Eleventh Dynasty of Ancient Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mentuhotep-OsirideStatue-CloseUp_MuseumOfFineArtsBoston.png/250px-Mentuhotep-OsirideStatue-CloseUp_MuseumOfFineArtsBoston.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mentuhotep_III"
+        },
+        {
+            "name": "Mentuhotep IV",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Relief_Mentuhotep_IV_Lepsius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mentuhotep_IV"
+        },
+        {
+            "name": "Amenemhat II",
+            "summary": "Pharaoh of Ancient Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amenemhat_II.jpg/250px-Amenemhat_II.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amenemhat_II"
+        },
+        {
+            "name": "Nomarch",
+            "summary": "Ancient Egyptian local governor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nomarch.svg/250px-Nomarch.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nomarch"
+        }
+    ],
+    "territory_geojson": null
+}

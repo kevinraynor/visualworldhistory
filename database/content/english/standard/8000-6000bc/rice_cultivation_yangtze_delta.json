@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 16,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2f760c3f770dfa259c1a2783cf673ea5d6a43975a9075dcf8e7a933bcf8ee148",
+    "summary": "The domestication of rice in the Yangtze River delta region of central China represents one of the most consequential agricultural developments in world history. Evidence from sites such as Hemudu, Kuahuqiao, and Kujialing indicates that communities in this subtropical, wetland-rich environment were cultivating Oryza sativa — Asian rice — from at least 7000 to 6000 BCE, with some researchers proposing even earlier exploitation of wild rice beginning around 8000 BCE or before. The process of rice domestication, like other crop domestications worldwide, involved the gradual selection of plants with non-shattering seed heads and higher yields through generations of preferential harvesting.\n\nThe Yangtze delta provided ideal conditions for early rice cultivation: abundant freshwater, warm temperatures, and the silty, waterlogged soils in which wild rice naturally thrived. Early farmers likely began by managing natural rice stands before progressing to intentional planting and eventually the construction of simple water-management features. The [[event:1424|Hemudu culture]], flourishing along the Yangtze estuary from approximately 7000 to 5000 BCE, provides particularly rich evidence of early rice agriculture, including carbonized grains, cultivation tools, and evidence of pile-dwelling architecture suited to the wetland environment.\n\nRice cultivation enabled population densities that transformed East Asian demography over subsequent millennia. Unlike wheat and barley agriculture of the Near East, rice farming was particularly productive in warm, humid environments, yielding caloric returns per unit area that supported dense settlements. The spread of rice cultivation southward into mainland Southeast Asia and eventually across maritime Southeast Asia to Japan fundamentally shaped the cultural and genetic landscapes of much of the Asian world. The influence of this agricultural system on the global food supply remains paramount today, with rice serving as the primary staple for more than half the world's population.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_rice_cultivation",
+    "read_more_links": [
+        {
+            "title": "Rice - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rice"
+        },
+        {
+            "title": "Hemudu Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hemudu_culture"
+        },
+        {
+            "title": "Agriculture in China - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-China"
+        },
+        {
+            "title": "Neolithic China - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_China"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Hoeing_Rice.jpg/300px-Hoeing_Rice.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hoeing_Rice.jpg",
+            "caption": "The photograph below was retrieved from the National Museum of African Americ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/300px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png",
+            "caption": "Chronological dispersal of Austronesian people across the Pacific (per Benton et al, 2012, adapted from Bellwood, 2011)",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png/300px-Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Chronological_dispersal_of_Austronesian_people_across_the_Pacific_%28per_Benton_et_al%2C_2012%2C_adapted_from_Bellwood%2C_2011%29.png",
+            "caption": "Chronological dispersal of Austronesian people across the Pacific (per Benton et al, 2012, adapted from Bellwood, 2011)",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Horta%2C_plantant_arr%C3%B2s%2C_1949_%28Cano_d%27Alginet-Pa%C3%ADs_Valenci%C3%A0%29.jpg/300px-Horta%2C_plantant_arr%C3%B2s%2C_1949_%28Cano_d%27Alginet-Pa%C3%ADs_Valenci%C3%A0%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Horta%2C_plantant_arr%C3%B2s%2C_1949_%28Cano_d%27Alginet-Pa%C3%ADs_Valenci%C3%A0%29.jpg",
+            "caption": "Projecte de col·laboració de l'Arxiu Ismael Latorre Mendoza amb Wikimedia Com...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

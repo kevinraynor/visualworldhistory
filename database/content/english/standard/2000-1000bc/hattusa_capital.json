@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1818,
+    "parent_id": 54,
+    "granularity": "detailed",
+    "content_hash": "sha256:3a349ebbd5ec77d59a82402872773687e95c3e4918d689312a65c9542c00c3c9",
+    "summary": "Hattusa, located near modern Bogazkoy in north-central Turkey, served as the capital of the [[event:54|Hittite Empire]] from around 1600 BC until its destruction at the end of the Bronze Age around 1178 BC. The city occupied a naturally defensible ridge surrounded by deep ravines and was enclosed by massive stone walls stretching approximately eight kilometers in circumference, punctuated by monumental gates decorated with sculptural reliefs including the famous lion and sphinx gates.\n\nAt its height, Hattusa covered an area of approximately 180 hectares and housed royal palaces, temples (over thirty have been identified), administrative buildings, and vast storage magazines. The city's archives, preserved in thousands of clay cuneiform tablets, constitute one of the most important written sources for the ancient Near East, containing royal annals, treaties, religious texts, mythological narratives, and the oldest surviving Indo-European literature. Hattusa was destroyed and abandoned around 1180 BC, apparently by invaders possibly connected to the [[event:1815|Bronze Age Collapse]]. The site was rediscovered and identified in the nineteenth century and has been excavated continuously since 1906.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hattusa",
+    "read_more_links": [
+        {
+            "title": "Hittite Empire",
+            "url": "https://en.wikipedia.org/wiki/Hittites"
+        },
+        {
+            "title": "Hattusa - Britannica",
+            "url": "https://www.britannica.com/place/Hattusa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sphinx_Gate%2C_Hattusa_01.jpg/300px-Sphinx_Gate%2C_Hattusa_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sphinx_Gate%2C_Hattusa_01.jpg",
+            "caption": "Sphinx Gate, Hattusa, Turkey",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hattusa%2C_capital_of_the_Hittite_Empire_04.jpg/300px-Hattusa%2C_capital_of_the_Hittite_Empire_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hattusa%2C_capital_of_the_Hittite_Empire_04.jpg",
+            "caption": "The area of the Great Temple with storerooms surrounding the temple proper, H...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%E1%B8%AAattu%C5%A1a_B%C3%BCy%C3%BCkkaya_04.jpg/300px-%E1%B8%AAattu%C5%A1a_B%C3%BCy%C3%BCkkaya_04.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/%E1%B8%AAattu%C5%A1a_B%C3%BCy%C3%BCkkaya_04.jpg",
+            "caption": "Ḫattuša, hethitische Hauptstadt bei Boğazkale, Zentraltürkei, Büyükkaya mit S...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Museum_Bo%C4%9Fazkale_13.jpg/300px-Museum_Bo%C4%9Fazkale_13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Museum_Bo%C4%9Fazkale_13.jpg",
+            "caption": "Ḫattuša, Hauptstadt der Hethiter, Museum Boğazkale, Zentraltürkei",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Anitta (king)",
+            "summary": "King of Kussara",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DolchAnitta.jpg/250px-DolchAnitta.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anitta_%28king%29"
+        },
+        {
+            "name": "Muwatalli II",
+            "summary": "Hittite king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Felsrelief-Sirkeli.jpg/250px-Felsrelief-Sirkeli.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muwatalli_II"
+        },
+        {
+            "name": "Heinrich Barth",
+            "summary": "German explorer (1821–1865)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Barth_Unterschrift.jpg/250px-Barth_Unterschrift.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Barth"
+        },
+        {
+            "name": "Daniel Krencker",
+            "summary": "Alsatian-German architectural historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Littmann_gruppenfoto.JPG/250px-Littmann_gruppenfoto.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Krencker"
+        },
+        {
+            "name": "Kurt Bittel",
+            "summary": "German prehistorian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bittel1907_z.jpg/250px-Bittel1907_z.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kurt_Bittel"
+        },
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        }
+    ],
+    "territory_geojson": null
+}

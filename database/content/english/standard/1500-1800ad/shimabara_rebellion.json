@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2417,
+    "parent_id": 2336,
+    "granularity": "detailed",
+    "content_hash": "sha256:613c33f802846110478adcc1c9a9fe1ffc1d23d35f327339396114587d42e34b",
+    "summary": "The Shimabara Rebellion (1637–1638 AD) was the last major armed uprising in Japan until the 19th century and the most serious domestic challenge to the [[event:2336|Tokugawa Shogunate]] in its early decades — a rebellion of approximately 37,000 peasants and masterless samurai (ronin) in the Shimabara peninsula and Amakusa islands of Kyushu, many of them Japanese Christians, driven by extreme taxation, famine, and religious persecution, and suppressed by a Tokugawa army of over 125,000 with Dutch naval assistance. The rebellion crystallized the Shogunate's fears about Christianity as a subversive foreign religion: the rebels adopted Christian imagery and rallied behind a young charismatic leader, Amakusa Shiro (the 'Heavenly Master'), whose messianic charisma and tactical ability gave the rebellion remarkable cohesion.\n\nThe rebels fortified the ruins of Hara Castle and held out for three months against a vastly superior government force. The Tokugawa government, initially humiliated by repeated failed assaults (including a repulse that cost the attacking commander his life), eventually reduced the castle through siege and hunger; when the walls were finally breached, an estimated 27,000–37,000 rebels and civilians were massacred. Amakusa Shiro was beheaded. The rebellion's suppression directly intensified the [[event:2418|Sakoku]] isolation policy: the Dutch East India Company (VOC), which had provided naval bombardment against the rebel castle, was moved from Hirado to the isolated artificial island of Dejima in Nagasaki harbor, where all subsequent European trade was conducted under strict government supervision. The rebellion effectively ended Christianity in Japan: the few remaining hidden Christians (kakure kirishitan) maintained their faith in secret for the next two centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shimabara_Rebellion",
+    "read_more_links": [
+        {
+            "title": "Amakusa Shiro Christian rebellion leader Shimabara",
+            "url": "https://en.wikipedia.org/wiki/Amakusa_Shir%C5%8D"
+        },
+        {
+            "title": "Hara Castle siege Tokugawa Shimabara Christianity",
+            "url": "https://en.wikipedia.org/wiki/Hara_Castle"
+        },
+        {
+            "title": "Hidden Christians Japan kakure kirishitan after Shimabara",
+            "url": "https://en.wikipedia.org/wiki/Kakure_Kirishitan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Shimabara_Rebellion_Battle_Folding_Screen_by_Saito_Shuho.jpg/300px-Shimabara_Rebellion_Battle_Folding_Screen_by_Saito_Shuho.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Shimabara_Rebellion_Battle_Folding_Screen_by_Saito_Shuho.jpg",
+            "caption": "\"Shimabara Jinzu Gobyobu (Battle)\" Asakura City Designated Cultural Property\n...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Shimabara-Battle-Map-c17th-century.png/300px-Shimabara-Battle-Map-c17th-century.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Shimabara-Battle-Map-c17th-century.png",
+            "caption": "This is an Important Cultural Property. A map depicting the Amakusa / Shimaba...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Topographic_map_of_Kyushu.webp/300px-Topographic_map_of_Kyushu.webp",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Topographic_map_of_Kyushu.webp",
+            "caption": "九州地方の地形図",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ship_Vessel_De_Ryp_at_the_Shimabara_Rebellion.png/300px-Ship_Vessel_De_Ryp_at_the_Shimabara_Rebellion.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ship_Vessel_De_Ryp_at_the_Shimabara_Rebellion.png",
+            "caption": "A rare and important Nanban four-fold screen probably depicting the vessel 'D...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Samurai",
+            "summary": "Japanese warrior class",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/250px-Samurai_on_horseback0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samurai"
+        },
+        {
+            "name": "Tokugawa Iemitsu",
+            "summary": "Japanese Samurai, Daimyo and Military leader of Japan from 1623 to 1651",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Iemitu.jpg/250px-Iemitu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tokugawa_Iemitsu"
+        },
+        {
+            "name": "Miyamoto Musashi",
+            "summary": "Japanese swordsman, strategist, writer, artist, and rōnin (c. 1583–1645)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Miyamoto_Musashi_Self-Portrait.jpg/250px-Miyamoto_Musashi_Self-Portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
+        }
+    ],
+    "territory_geojson": null
+}

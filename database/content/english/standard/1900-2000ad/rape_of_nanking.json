@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3455,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:8d5beb1e8c6953a6a68f65228926b7426c6b3305d74ff7fd947a99d48f871037",
+    "summary": "The Nanjing Massacre, also known as the Rape of Nanjing, occurred in December 1937 and January 1938 after Japanese Imperial Army forces captured the then-capital of the Republic of China. Over a period of six to eight weeks, Japanese soldiers engaged in systematic mass murder, rape, and looting on a massive scale. Chinese and international estimates of the death toll range from 100,000 to over 300,000 Chinese civilians and prisoners of war killed, while tens of thousands of women were sexually assaulted.\n\nInternational witnesses to the atrocities, including Western businessmen and missionaries who established a Safety Zone where some 200,000 to 300,000 Chinese civilians sought refuge, documented the killings and sent accounts to the outside world. The Safety Zone was led by German businessman John Rabe, whose diaries provided extensive evidence of the massacre. The events were prosecuted at the Tokyo War Crimes Tribunal after World War II, where Japanese commanders were convicted and executed.\n\nThe Nanjing Massacre has remained deeply sensitive in Sino-Japanese relations. The scale of the killings was acknowledged in Japanese war crimes trials but became contested in Japan through the late twentieth century, where some nationalist historians disputed the death tolls or characterized the events differently. For China, the massacre serves as a central element of national memory of wartime suffering at Japanese hands, commemorated at the Memorial Hall of the Victims in Nanjing.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nanjing_Massacre",
+    "read_more_links": [
+        {
+            "title": "John Rabe",
+            "url": "https://en.wikipedia.org/wiki/John_Rabe"
+        },
+        {
+            "title": "International Military Tribunal for the Far East",
+            "url": "https://en.wikipedia.org/wiki/International_Military_Tribunal_for_the_Far_East"
+        },
+        {
+            "title": "Nanjing Safety Zone",
+            "url": "https://en.wikipedia.org/wiki/Nanjing_Safety_Zone"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Some_members_of_the_International_Committee_for_Nanking_Safety_Zone_on_Dec_13%2C_1937.jpg/300px-Some_members_of_the_International_Committee_for_Nanking_Safety_Zone_on_Dec_13%2C_1937.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Some_members_of_the_International_Committee_for_Nanking_Safety_Zone_on_Dec_13%2C_1937.jpg",
+            "caption": "From left to Right: A. Zial, Rupert R. Hatz, John Rabe, John Magee, Cola Pods...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Residence_of_John_Rabe%2C_Nanjing.jpg/300px-Residence_of_John_Rabe%2C_Nanjing.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Residence_of_John_Rabe%2C_Nanjing.jpg",
+            "caption": "Residence of John Rabe, Nanjing",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Skeletons_of_victims_in_Nanjing_Massacre.jpg/300px-Skeletons_of_victims_in_Nanjing_Massacre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Skeletons_of_victims_in_Nanjing_Massacre.jpg",
+            "caption": "Exif_JPEG_PICTURE\nthe memorial hall of the victims in nanjing massacre by jap...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Victims_in_Nanjing_massacre.jpg/300px-Victims_in_Nanjing_massacre.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Victims_in_Nanjing_massacre.jpg",
+            "caption": "Exif_JPEG_PICTURE\nthe memorial hall of the victims in nanjing massacre by jap...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Looting",
+            "summary": "Indiscriminate taking of goods by force",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pluenderung_der_Judengasse_1614.png/250px-Pluenderung_der_Judengasse_1614.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Looting"
+        },
+        {
+            "name": "Prince Yasuhiko Asaka",
+            "summary": "Japanese prince and general (1887–1981)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prince_Asaka_Yasuhiko_01.jpg/250px-Prince_Asaka_Yasuhiko_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Yasuhiko_Asaka"
+        },
+        {
+            "name": "Isamu Chō",
+            "summary": "Japanese general (1895–1945)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cho_Isamu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isamu_Ch%C5%8D"
+        },
+        {
+            "name": "John Rabe",
+            "summary": "German diplomat and businessman (1882–1950)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/John_Rabe.jpeg/250px-John_Rabe.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Rabe"
+        },
+        {
+            "name": "Tang Shengzhi",
+            "summary": "Chinese warlord (1889–1970)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tang_Shengzhi.jpg/250px-Tang_Shengzhi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tang_Shengzhi"
+        },
+        {
+            "name": "Chiang Kai-shek",
+            "summary": "Leader of the Republic of China from 1928 to 1975",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/250px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek"
+        }
+    ],
+    "territory_geojson": null
+}

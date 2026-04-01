@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1346,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:49d4473ca3c2454d49af7303401f18e149a426be41994c9a0803f16fa06170d6",
+    "summary": "Lake Turkana, the world's largest permanent desert lake, located in the arid Turkana Basin of northwestern Kenya and southern Ethiopia, was significantly larger and more productive during the early Holocene than it is today, as the [[event:17|African Humid Period]] brought increased rainfall across the region. By 10,000–8,000 BCE, communities around Lake Turkana were exploiting the lake's abundant fish and wildlife resources, establishing one of the earliest known fishery-based economies in sub-Saharan Africa.\n\nThe site of Lothagam North Pillar Site on the western shore of Lake Turkana preserves evidence of a mortuary tradition from approximately 5,800–4,200 BCE — a massive megalithic cemetery used by pastoralist communities — that reflects the social complexity emerging among Lake Turkana Basin populations. Earlier occupation around 10,000 BCE, documented by lithic and faunal assemblages from various lakeside sites, represents the pre-pastoral, hunter-fisher-gatherer phase of human occupation in the basin. The early Holocene productivity of Lake Turkana, like that of the [[event:1295|Gobero lakes in Niger]], demonstrates that the [[event:17|Green Sahara]] and associated humid conditions created productive lacustrine environments across the African interior that supported dense and culturally complex human populations long before the adoption of agriculture in sub-Saharan Africa.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Turkana",
+    "read_more_links": [
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "East African Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_East_Africa"
+        },
+        {
+            "title": "Lothagam North Pillar Site - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lothagam_North_Pillar_Site"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_map_of_Lake_Rudolf_and_the_region_to_the_south-west._Reprinted_from_the_Geographical_Journal_April_1935._%28WOMAT-AFR-BEA-305-5%29.jpg/300px-A_map_of_Lake_Rudolf_and_the_region_to_the_south-west._Reprinted_from_the_Geographical_Journal_April_1935._%28WOMAT-AFR-BEA-305-5%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/A_map_of_Lake_Rudolf_and_the_region_to_the_south-west._Reprinted_from_the_Geographical_Journal_April_1935._%28WOMAT-AFR-BEA-305-5%29.jpg",
+            "caption": "Shows an area in the north-western portion of Kenya.",
+            "attribution": "Wikimedia Commons, OGL v1.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Lake_Turkana_in_Kenya_01.jpg/300px-Lake_Turkana_in_Kenya_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lake_Turkana_in_Kenya_01.jpg",
+            "caption": "A view of Lake Turkana in Kenya with a boat in foreground and mountains in th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Equus_grevyi_%28Z%C3%A8bre_de_Gr%C3%A9vy%29_-_390.jpg/300px-Equus_grevyi_%28Z%C3%A8bre_de_Gr%C3%A9vy%29_-_390.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Equus_grevyi_%28Z%C3%A8bre_de_Gr%C3%A9vy%29_-_390.jpg",
+            "caption": "Equus grevyi (Grévy's zebra) in the ZooParc de Beauval in Saint-Aignan-sur-Ch...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Heterotis_niloticus_154613099.jpg/300px-Heterotis_niloticus_154613099.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Heterotis_niloticus_154613099.jpg",
+            "caption": "African Arowana (Heterotis niloticus)",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jomo Kenyatta",
+            "summary": "President of Kenya from 1964 to 1978",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Jomo_Kenyatta_%28cropped%29_in_June_15th%2C_1966.jpg/250px-Jomo_Kenyatta_%28cropped%29_in_June_15th%2C_1966.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jomo_Kenyatta"
+        },
+        {
+            "name": "Sámuel Teleki (explorer)",
+            "summary": "Hungarian explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Count_Teleki.jpg/250px-Count_Teleki.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A1muel_Teleki_%28explorer%29"
+        },
+        {
+            "name": "Ludwig von Höhnel",
+            "summary": "Austrian naval officer and explorer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ludwig-von-H%C3%B6hnel-%281892%29.jpg/250px-Ludwig-von-H%C3%B6hnel-%281892%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ludwig_von_H%C3%B6hnel"
+        }
+    ],
+    "territory_geojson": null
+}

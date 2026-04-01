@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3280,
+    "parent_id": 2348,
+    "granularity": "notable",
+    "content_hash": "sha256:09defd64abef14fe4e8e3e7bd5562fcea935d3ce388d50f3b987019dd536ccbc",
+    "summary": "The Battle of Poltava (July 8, 1709 AD) was the decisive engagement of the [[event:2348|Great Northern War]] — a crushing Russian victory over Charles XII of Sweden's invading army in the Ukrainian steppe that ended Sweden's era as a major European power and confirmed Russia under [[event:2349|Peter the Great]] as the dominant force in northeastern Europe. Charles XII, who had led an undefeated Swedish army from victory to victory since 1700, had made the fateful decision to invade Russia rather than consolidate his previous conquests — marching deep into Ukraine in alliance with the Cossack Hetman Mazepa. The devastating winter of 1708–1709 weakened his army, and by June 1709 he was besieging Poltava with a force reduced to perhaps 22,000 men, many sick or frostbitten.\n\nPeter the Great arrived with a Russian army that now outnumbered the Swedes nearly two to one and had been transformed by the military reforms Peter had implemented in the years since Sweden's earlier victories. The battle lasted barely two hours before the Swedish army was routed — about 9,000 Swedes were killed or captured in the battle itself, and the remaining 16,000 surrendered at Perevolochna three days later. Charles XII escaped to Ottoman territory with Mazepa and a small escort, spending five years in Turkish exile before returning to Sweden. The battle's geopolitical consequences were immediate: Sweden's coalition collapsed, its empire in the Baltic began its rapid disintegration, and Russia emerged as the preeminent power in the Baltic region — validating the reforms Peter had undertaken and confirming the [[event:2389|founding of St. Petersburg]] as the seat of a genuinely European great power.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Poltava",
+    "read_more_links": [
+        {
+            "title": "Charles XII Sweden Ukraine invasion catastrophic campaign",
+            "url": "https://en.wikipedia.org/wiki/Charles_XII_of_Sweden"
+        },
+        {
+            "title": "Mazepa Cossack alliance Sweden Poltava betrayal result",
+            "url": "https://en.wikipedia.org/wiki/Ivan_Mazepa"
+        },
+        {
+            "title": "Peter Great military reforms Russian transformation Poltava",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Poltava#Significance"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lomonosov_Poltava_1762_1764.jpg/300px-Lomonosov_Poltava_1762_1764.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lomonosov_Poltava_1762_1764.jpg",
+            "caption": "Battle of Poltava. M. Lomonosov's mosaic. Academy of Sciences. S.-Petersburg....",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Reliefkarte_Ukraine_2022.png/300px-Reliefkarte_Ukraine_2022.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Reliefkarte_Ukraine_2022.png",
+            "caption": "Reliefkarte Ukraine",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marten%27s_Poltava.jpg/300px-Marten%27s_Poltava.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Marten%27s_Poltava.jpg",
+            "caption": "Marten's Poltava",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%27The_Victory_at_Poltava%27_by_Alexander_Evstafyevich_Kotzebue%2C_1862%2C_Hermitage.JPG/300px-%27The_Victory_at_Poltava%27_by_Alexander_Evstafyevich_Kotzebue%2C_1862%2C_Hermitage.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/%27The_Victory_at_Poltava%27_by_Alexander_Evstafyevich_Kotzebue%2C_1862%2C_Hermitage.JPG",
+            "caption": "'The Victory at Poltava' by Alexander Evstafyevich Kotzebue, 1862, Hermitage",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles XII of Sweden",
+            "summary": "King of Sweden from 1697 to 1718",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Copy_Charles_XII_-_Nationalmuseum_-_17886.png/250px-Copy_Charles_XII_-_Nationalmuseum_-_17886.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_XII_of_Sweden"
+        },
+        {
+            "name": "Carl Gustav Rehnskiöld",
+            "summary": "Swedish field marshal (1651–1722)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Carl_Gustaf_Rehnski%C3%B6ld.PNG/250px-Carl_Gustaf_Rehnski%C3%B6ld.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Gustav_Rehnski%C3%B6ld"
+        },
+        {
+            "name": "Carl Gustaf Creutz",
+            "summary": "Swedish general (1660–1728)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Carl_Gustaf_Creutz.PNG/250px-Carl_Gustaf_Creutz.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Gustaf_Creutz"
+        },
+        {
+            "name": "Adam Ludwig Lewenhaupt",
+            "summary": "Swedish general (1659–1719)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Adam_Ludvig_Lewenhaupt_2.jpg/250px-Adam_Ludvig_Lewenhaupt_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adam_Ludwig_Lewenhaupt"
+        },
+        {
+            "name": "Ivan Mazepa",
+            "summary": "Hetman of the Cossack Hetmanate from 1687 to 1709",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Iwan_Mazepa_crop.jpg/250px-Iwan_Mazepa_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_Mazepa"
+        },
+        {
+            "name": "Peter the Great",
+            "summary": "Tsar of Russia from 1682 to 1725",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/250px-Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

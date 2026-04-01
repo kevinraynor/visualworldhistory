@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1823,
+    "parent_id": 57,
+    "granularity": "notable",
+    "content_hash": "sha256:8e3145263d91903263b2f03db0425d84a032597fc83e8a192d03b84603aa5b5d",
+    "summary": "Linear B was the writing system used by [[event:57|Mycenaean Greece]] from approximately 1400 to 1200 BC, representing the earliest attested form of the Greek language. Adapted from the earlier Minoan Linear A script (which remains undeciphered), Linear B is a syllabic script of approximately 87 signs used primarily for administrative record-keeping at palatial centers such as Knossos, Pylos, Mycenae, and Thebes.\n\nLinear B tablets were deciphered in 1952 by the English architect and amateur cryptographer Michael Ventris, one of the greatest achievements in the history of linguistic scholarship. Working from the insight that the underlying language might be an early form of Greek, Ventris systematically matched phonetic values to the signs and demonstrated their coherence — a finding initially surprising to classicists who had expected a non-Greek language. The subsequent analysis by Ventris and linguist John Chadwick established the content of the tablets: they are almost exclusively bureaucratic records, listing inventories of personnel, livestock, land allocations, agricultural produce, military equipment, and tribute payments.\n\nThe loss of Linear B writing during the [[event:1815|Bronze Age Collapse]] around 1200 BC left Greece without any writing system for approximately four centuries until the adoption of an alphabet derived from [[event:1835|Phoenician]] around 800 BC. The tablets survived only because they were accidentally fired hard in the destruction of the palace centers, preserving the clay where it would otherwise have dissolved. Linear B provides invaluable evidence for Mycenaean economy, religion (including the names of Greek gods attested for the first time), and social organization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Linear_B",
+    "read_more_links": [
+        {
+            "title": "Michael Ventris",
+            "url": "https://en.wikipedia.org/wiki/Michael_Ventris"
+        },
+        {
+            "title": "Mycenaean Greek",
+            "url": "https://en.wikipedia.org/wiki/Mycenaean_Greek"
+        },
+        {
+            "title": "Linear B - Britannica",
+            "url": "https://www.britannica.com/topic/Linear-B"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Linear_B_%28Mycenaean_Greek%29_NAMA_Tablette_7671.jpg/300px-Linear_B_%28Mycenaean_Greek%29_NAMA_Tablette_7671.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Linear_B_%28Mycenaean_Greek%29_NAMA_Tablette_7671.jpg",
+            "caption": "Linear B (Mycenaean Greek) NAMA Tablette 7671",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Clay_Tablet_inscribed_with_Linear_B_script.jpg/300px-Clay_Tablet_inscribed_with_Linear_B_script.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Clay_Tablet_inscribed_with_Linear_B_script.jpg",
+            "caption": "The clay tablet KN Fp 13, dated to 1450-1375 BC, is Minoan and was found at K...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Michael Ventris",
+            "summary": "English architect who deciphered Linear B (1922–1956)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Michael_Ventris_obituary_photo.jpg/250px-Michael_Ventris_obituary_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Ventris"
+        },
+        {
+            "name": "Number",
+            "summary": "Used to count, measure, and label",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NumberSetinR2.svg/250px-NumberSetinR2.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Number"
+        },
+        {
+            "name": "Kylix",
+            "summary": "Ancient Greek or Etruscan drinking cup",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kylix_61.7_with_Helen_and_Hermes%2C_ca._420_BC%2C_part_of_the_Vassil_Bojkov_collection%2C_Sofia%2C_Bulgaria.png/250px-Kylix_61.7_with_Helen_and_Hermes%2C_ca._420_BC%2C_part_of_the_Vassil_Bojkov_collection%2C_Sofia%2C_Bulgaria.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kylix"
+        }
+    ],
+    "territory_geojson": null
+}

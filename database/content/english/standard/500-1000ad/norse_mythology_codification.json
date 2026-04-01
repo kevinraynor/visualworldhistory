@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2200,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a9003bd1fb9ecef2c1601182557f58cc711e9f6a19ee954c709e483a8d587753",
+    "summary": "The codification of Norse mythology (primarily through the Prose Edda, c. 1220 AD by Snorri Sturluson, and the Poetic Edda, collected c. 1270 AD) occurred largely after the [[event:88|Viking Age]] proper but preserved traditions from the pre-Christian Germanic and Norse world going back centuries. The Norse mythological tradition — with its pantheon of Aesir and Vanir gods (Odin, Thor, Frigg, Freyr, Loki), its cosmological framework (the nine worlds connected by Yggdrasil, the World Tree), its eschatology (Ragnarok, the twilight of the gods), and its heroic tradition — was the dominant religious and cultural framework of Scandinavia and Iceland until Christianization.\n\nThe Norse myths were transmitted orally through the Viking Age and codified in writing only after Christianization — primarily in Iceland, where Snorri Sturluson wrote the Prose Edda (a manual for poets explaining mythological allusions) and where the older Poetic Edda (a collection of mythological and heroic poems) was compiled. The days of the week in English preserve Norse divine names: Tuesday (Tyr), Wednesday (Woden/Odin), Thursday (Thor), Friday (Frigg). The Norse mythological tradition has had enormous cultural influence: Wagner's Ring Cycle drew on it; Tolkien's Middle-earth was deeply shaped by Norse cosmology; Marvel Comics' Thor and Loki; and countless fantasy works derive from the Norse tradition preserved in Icelandic literature. The survival of this rich mythological tradition is almost entirely due to Iceland's literary culture in the 12th–13th centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norse_mythology",
+    "read_more_links": [
+        {
+            "title": "Prose Edda Snorri Sturluson",
+            "url": "https://en.wikipedia.org/wiki/Prose_Edda"
+        },
+        {
+            "title": "Poetic Edda collection",
+            "url": "https://en.wikipedia.org/wiki/Poetic_Edda"
+        },
+        {
+            "title": "Norse cosmology Yggdrasil Ragnarok",
+            "url": "https://en.wikipedia.org/wiki/Norse_cosmology"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tj%C3%A4ngvide.jpg/300px-Tj%C3%A4ngvide.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tj%C3%A4ngvide.jpg",
+            "caption": "Picture stone from Tjängvide, Alskog Parish, Gotland, Sweden.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Ash_Yggdrasil_by_Friedrich_Wilhelm_Heine.jpg/300px-The_Ash_Yggdrasil_by_Friedrich_Wilhelm_Heine.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/The_Ash_Yggdrasil_by_Friedrich_Wilhelm_Heine.jpg",
+            "caption": "Caption reads \"The Ash Yggdrasil\". The world tree Yggdrasil and some of its i...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/The_Wolves_Pursuing_Sol_and_Mani.jpg/300px-The_Wolves_Pursuing_Sol_and_Mani.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/The_Wolves_Pursuing_Sol_and_Mani.jpg",
+            "caption": "The Wolves Pursuing Sol and Mani (the title given to the work in the list of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Edda.jpg/300px-Edda.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Edda.jpg",
+            "caption": "Title page of a manuscript of the Prose Edda, showing Odin, Heimdallr, Sleipn...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tjängvide image stone",
+            "summary": "Viking Age image stone on Gotland, Sweden",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Tj%C3%A4ngvide.jpg/250px-Tj%C3%A4ngvide.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tj%C3%A4ngvide_image_stone"
+        },
+        {
+            "name": "Norse cosmology",
+            "summary": "Account of the universe and its laws by the ancient North Germanic peoples",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/M%C3%A1ni_and_S%C3%B3l_by_Lorenz_Fr%C3%B8lich.jpg/250px-M%C3%A1ni_and_S%C3%B3l_by_Lorenz_Fr%C3%B8lich.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Norse_cosmology"
+        },
+        {
+            "name": "Snorri Sturluson",
+            "summary": "Icelandic historian, poet and politician (1179–1241)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Snorre_Sturluson-Christian_Krohg.jpg/250px-Snorre_Sturluson-Christian_Krohg.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Snorri_Sturluson"
+        },
+        {
+            "name": "Skald",
+            "summary": "Old Norse poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olav_den_helliges_saga_-_Skalden_Berse_-_C._Krogh.jpg/250px-Olav_den_helliges_saga_-_Skalden_Berse_-_C._Krogh.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Skald"
+        },
+        {
+            "name": "Heimskringla",
+            "summary": "C. 1230 Old Norwegian kings' sagas",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lbs_fragm_82%2C_0001r_-_0.jpg/250px-Lbs_fragm_82%2C_0001r_-_0.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heimskringla"
+        },
+        {
+            "name": "Saxo Grammaticus",
+            "summary": "Danish historian (c. 1150 – c. 1220)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Saxo_Grammaticus.jpg/250px-Saxo_Grammaticus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saxo_Grammaticus"
+        }
+    ],
+    "territory_geojson": null
+}

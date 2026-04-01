@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1230,
+    "parent_id": 77,
+    "granularity": "detailed",
+    "content_hash": "sha256:2636d972f35ddb0e9445d31e29c68fd6127fd7f020d2e2d6edbae22a611a2ad7",
+    "summary": "The Rebellion of the Seven States (154 BC) was a major armed uprising by seven semi-autonomous kingdoms within the Han Empire against Emperor Jing's policy of curtailing the power of the feudal lords. Instigated primarily by Wu and Chu — the two largest and wealthiest kingdoms — the rebels justified their revolt under the banner of removing imperial advisors (particularly Chao Cuo, who had proposed the reduction policy), but their real goal was to reverse the centralization of Han imperial power.\n\nEmperor Jing, panicking briefly, executed Chao Cuo in hopes of appeasing the rebels — but the revolt continued regardless. The imperial general Zhou Yafu defeated the rebels within three months through methodical strategy: cutting the rebels' supply lines and refusing pitched battle until the armies weakened. The swift suppression was decisive: the kingdoms were stripped of their independence, their territories broken up and redistributed, and the feudal threat to imperial authority effectively ended. The rebellion's failure accelerated the centralization that Emperor Wu of Han would complete, transforming the Han state from a loose feudal confederation into a tightly administered empire.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rebellion_of_the_Seven_States",
+    "read_more_links": [
+        {
+            "title": "Emperor Jing of Han",
+            "url": "https://en.wikipedia.org/wiki/Emperor_Jing_of_Han"
+        },
+        {
+            "title": "Zhou Yafu general",
+            "url": "https://en.wikipedia.org/wiki/Zhou_Yafu"
+        },
+        {
+            "title": "Han dynasty feudalism",
+            "url": "https://en.wikipedia.org/wiki/Han_dynasty#Political_structure"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Han_bronze_helmet.jpg/300px-Han_bronze_helmet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Han_bronze_helmet.jpg",
+            "caption": "Western Han bronze helmet",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dinastia_han%2C_lastra_parietale_a_uso_funerario_con_scena_di_caccia%2C_206_a.c.-220_dc._ca%2C_02.JPG/300px-Dinastia_han%2C_lastra_parietale_a_uso_funerario_con_scena_di_caccia%2C_206_a.c.-220_dc._ca%2C_02.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dinastia_han%2C_lastra_parietale_a_uso_funerario_con_scena_di_caccia%2C_206_a.c.-220_dc._ca%2C_02.JPG",
+            "caption": "Dinastia han, lastra parietale a uso funerario con scena di caccia, 206 a.c.-...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg/300px-CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "caption": "Detail of a painted figure of a cavalryman.\nWestern Han Dynasty (206 B.C. -  ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Han_Guangling_Tomb_Museum_-_Queens_Tomb_-_chariot_and_horses_-_P1130018.JPG/300px-Han_Guangling_Tomb_Museum_-_Queens_Tomb_-_chariot_and_horses_-_P1130018.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Han_Guangling_Tomb_Museum_-_Queens_Tomb_-_chariot_and_horses_-_P1130018.JPG",
+            "caption": "Han Guangling Tomb Museum, Yangzhou. The Queen's Tomb  hall contains an ancie...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Jing of Han",
+            "summary": "Emperor of the Han dynasty from 157 to 141 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SancaiJingdiHan.jpg/250px-SancaiJingdiHan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Jing_of_Han"
+        },
+        {
+            "name": "Emperor Gaozu of Han",
+            "summary": "Founder and Emperor of Han Dynasty of China from 202 to 195 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Liu-bang.jpg/250px-Liu-bang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han"
+        },
+        {
+            "name": "Emperor Wen of Han",
+            "summary": "Emperor of the Han dynasty from 180 to 157 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/EmperorWenOfHan.jpg/250px-EmperorWenOfHan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Wen_of_Han"
+        },
+        {
+            "name": "Qin Shi Huang",
+            "summary": "Emperor of China from 221 to 210 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png/250px-Assassination_attempt_on_Qin_Shi_Huang_%28Cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qin_Shi_Huang"
+        },
+        {
+            "name": "Empress Dowager Bo",
+            "summary": "Empress dowager of Han Dynasty of China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/%E4%BA%B2%E5%B0%9D%E6%B1%A4%E8%8D%AF.JPG/250px-%E4%BA%B2%E5%B0%9D%E6%B1%A4%E8%8D%AF.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empress_Dowager_Bo"
+        },
+        {
+            "name": "Wu Commandery",
+            "summary": "Commandery of imperial China",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Yangtze_River_Delta.gif/250px-Yangtze_River_Delta.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wu_Commandery"
+        }
+    ],
+    "territory_geojson": null
+}

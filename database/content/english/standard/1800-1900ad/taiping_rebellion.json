@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2543,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e7a2de1d63e6625a8884313c76c2c5400b0c79f7b3af924b987accf9eb0d3bd9",
+    "summary": "The Taiping Rebellion (1850–1864) was one of the deadliest civil conflicts in human history, a massive uprising against [[event:2337|Qing dynasty]] rule in China that may have killed between 20 and 30 million people and devastated some of the empire's most populous and prosperous provinces. It remains the bloodiest civil war on record and a catastrophic episode in Chinese history that weakened the Qing state and accelerated its long decline.\n\nThe rebellion was led by Hong Xiuquan, a Cantonese man who had repeatedly failed the imperial civil service examinations and who, after reading Christian missionary tracts, came to believe he was the younger brother of Jesus Christ, called to establish the Taiping Tianguo ('Heavenly Kingdom of Great Peace') on earth. His message combined a radical syncretic Christianity with social egalitarianism — promising equality between men and women, the abolition of foot-binding, communal land ownership, and liberation from Manchu Qing rule — and attracted a massive following among the poor and dispossessed in southern China.\n\nFrom their initial base in Guangxi province, the Taiping forces swept northward, capturing the major city of Nanjing in 1853 and making it their capital, which they renamed the Heavenly Capital (Tianjing). At its height the Taiping Heavenly Kingdom controlled a substantial swath of eastern China and fielded armies of hundreds of thousands. The Qing government, its own armies badly weakened by the [[event:2540|Opium Wars]], struggled to mount effective resistance.\n\nThe tide turned against the Taiping through several factors. Internal divisions and brutal power struggles within the Heavenly Kingdom's leadership weakened cohesion. The Qing government supported the formation of regional armies led by Chinese Confucian literati — most notably Zeng Guofan's Xiang Army — who provided more effective resistance than the regular Manchu bannermen. Western powers, initially neutral, eventually lent support to the Qing, and the Ever Victorious Army commanded by Frederick Townsend Ward and later Charles Gordon assisted in suppressing the rebellion around Shanghai.\n\nThe final collapse came with the [[event:2624|fall of Nanjing]] in 1864. Hong Xiuquan died — probably by suicide — shortly before the city fell, and the remaining Taiping forces were gradually destroyed over the following years. The human and material toll was staggering: entire provinces were depopulated, cities were reduced to ruins, and agricultural production collapsed. The rebellion also had long-term political consequences, strengthening the regional military commanders who had suppressed it at the expense of central Qing authority — a shift that would have significant consequences in the twentieth century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+    "read_more_links": [
+        {
+            "title": "Taiping Rebellion – Britannica",
+            "url": "https://www.britannica.com/topic/Taiping-Rebellion"
+        },
+        {
+            "title": "Hong Xiuquan – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hong_Xiuquan"
+        },
+        {
+            "title": "Taiping Heavenly Kingdom – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jiangsu_Zhejiang_Anhui_Population_1865.png/300px-Jiangsu_Zhejiang_Anhui_Population_1865.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Jiangsu_Zhejiang_Anhui_Population_1865.png",
+            "caption": "Population changes by prefecture in Jiangsu, Zhejiang and Anhui from 1851 to ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Model-of-palace-of-heavenly-kingdom.JPG/300px-Model-of-palace-of-heavenly-kingdom.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Model-of-palace-of-heavenly-kingdom.JPG",
+            "caption": "Model-of-palace-of-heavenly-kingdom",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Taiping_Rebellion_map.jpg/300px-Taiping_Rebellion_map.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Taiping_Rebellion_map.jpg",
+            "caption": "map of the Taiping Rebellion from Ti-ping tien-kwoh: The History of the Ti-Pi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mengshan.JPG/300px-Mengshan.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mengshan.JPG",
+            "caption": "A historic monument to the Tai Ping Heavenly Kingdom, which was an early seat...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Xianfeng Emperor",
+            "summary": "Emperor of China from 1850 to 1861",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/250px-%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xianfeng_Emperor"
+        },
+        {
+            "name": "Zeng Guofan",
+            "summary": "Chinese politician and military commander (1811–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tseng_Kwo-Fan.tif/lossy-page1-250px-Tseng_Kwo-Fan.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeng_Guofan"
+        },
+        {
+            "name": "Sengge Rinchen",
+            "summary": "Jasagh & Prince Bodlogotoi of the Horqin Left Rear Banner",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sengge_Rinchen.jpg/250px-Sengge_Rinchen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sengge_Rinchen"
+        },
+        {
+            "name": "Guanwen",
+            "summary": "Qing official and general (1798 – 1871)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/%E5%B9%B3%E5%AE%9A%E7%B2%B5%E5%8C%AA%E5%8A%9F%E8%87%A3%E5%83%8F%E2%94%80%E5%AE%98%E6%96%87%E5%83%8F.jpg/250px-%E5%B9%B3%E5%AE%9A%E7%B2%B5%E5%8C%AA%E5%8A%9F%E8%87%A3%E5%83%8F%E2%94%80%E5%AE%98%E6%96%87%E5%83%8F.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guanwen"
+        },
+        {
+            "name": "Li Hongzhang",
+            "summary": "Chinese politician and general (1823–1901)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Li_Hung_Chang_in_1896.jpg/250px-Li_Hung_Chang_in_1896.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Li_Hongzhang"
+        },
+        {
+            "name": "Zuo Zongtang",
+            "summary": "Chinese statesman and army officer (1812–1885)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zuo_Zongtang_1875.jpg/250px-Zuo_Zongtang_1875.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zuo_Zongtang"
+        }
+    ],
+    "territory_geojson": null
+}

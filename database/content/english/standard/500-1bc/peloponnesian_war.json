@@ -1,0 +1,100 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1010,
+    "parent_id": 64,
+    "granularity": "major",
+    "content_hash": "sha256:2f4561d37ef24ab7812bc3a175fca54c349df668e13c6d230a41bc6ee6d915a3",
+    "summary": "The Peloponnesian War (431–404 BC) was a catastrophic conflict between Athens and its empire on one side and a Spartan-led Peloponnesian League on the other, drawing virtually every major Greek city-state into a generation-long struggle that shattered the golden age of Greek civilization. Thucydides, who lived through and wrote about the war with unparalleled analytical rigor, called it the greatest war that had ever been fought among Greeks — a judgment history has not disputed.\n\nThe war grew from decades of rising tension over Athenian imperial expansion. The [[event:1009|Delian League]] had transformed under Pericles into an Athenian empire whose wealth and power Sparta and Corinth found intolerable. The immediate pretext was a dispute over Corcyra (Corfu) and Potidaea in 433–432 BC, but the underlying cause, as Thucydides famously stated, was the growth of Athenian power and the fear it inspired in Sparta. Pericles advised the Athenians to avoid land battle — Sparta's strength — and rely on their naval superiority to wear down Peloponnesian resources through annual raids on the coast.\n\nThis strategy was devastated by the [[event:1011|Plague of Athens]], which struck in 430 BC and killed roughly a quarter of the population, including Pericles himself in 429 BC. Athens continued fighting under less capable leaders, suffering the catastrophic [[event:1012|Sicilian Expedition]] in 415–413 BC — an ambitious attempt to conquer Sicily that ended in the complete destruction of the Athenian expeditionary force. This disaster, one of the worst military catastrophes in antiquity, critically damaged Athenian power and morale.\n\nPersia entered the conflict in the war's later stages, providing Sparta with the financial resources to build and maintain a fleet capable of challenging Athens at sea — a development with profound irony given Sparta's role as defender of Greek liberty against Persia in the [[event:1001|Greco-Persian Wars]]. With Persian silver, the Spartans built and deployed a fleet under Lysander, who destroyed the Athenian fleet at the [[event:1013|Battle of Aegospotami]] in 405 BC, cutting off Athens's grain supply.\n\nAthens, starving and blockaded, surrendered in 404 BC. Its Long Walls were demolished, its fleet reduced to twelve ships, the [[event:1009|Delian League]] was dissolved, and the [[event:1017|Thirty Tyrants of Athens]] were installed as an oligarchic puppet government. The settlement marked Athens's fall from imperial greatness, though the city recovered politically and culturally within decades.\n\nThe war's long-term consequences were devastating for Greece as a whole. No single polis emerged strong enough to dominate after Sparta's own hegemony quickly frayed. The depopulation, economic disruption, and erosion of civic trust — the savage civil conflicts in Corcyra becoming a model of how war dissolved social bonds — left the Greek world weakened and fractious. Within sixty years, it would fall to a power from its own cultural periphery: [[event:1027|Rise of Macedonia]] under Philip II and ultimately [[event:75|Alexander the Great's Empire]].\n\nThucydides's account of the war remains one of the foundational texts of political science and international relations, its analysis of how fear, honor, and interest drive states toward conflict as relevant in the modern world as in antiquity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peloponnesian_War",
+    "read_more_links": [
+        {
+            "title": "Thucydides",
+            "url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "title": "Pericles",
+            "url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "title": "Lysander",
+            "url": "https://en.wikipedia.org/wiki/Lysander"
+        },
+        {
+            "title": "Sicilian Expedition",
+            "url": "https://en.wikipedia.org/wiki/Sicilian_Expedition"
+        },
+        {
+            "title": "Alcibiades",
+            "url": "https://en.wikipedia.org/wiki/Alcibiades"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/La_mort_d%27Alcibiade_Philippe_Ch%C3%A9ry_1791.jpg/300px-La_mort_d%27Alcibiade_Philippe_Ch%C3%A9ry_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/La_mort_d%27Alcibiade_Philippe_Ch%C3%A9ry_1791.jpg",
+            "caption": "The death of Alcibiade (1791). Musée des Beaux-Arts, La Rochelle, France ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Houghton_STC_24058_%28B%29_-_Thucydides.jpg/300px-Houghton_STC_24058_%28B%29_-_Thucydides.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Houghton_STC_24058_%28B%29_-_Thucydides.jpg",
+            "caption": "Title page: Eight bookes of the Peloponnesian Warre written by Thucydides the...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Battle_of_Potidaea_431_BCE.jpg/300px-Battle_of_Potidaea_431_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Battle_of_Potidaea_431_BCE.jpg",
+            "caption": "Battle of Potidaea. Athenians against Corinthians, 431 BCE; Socrates saves Al...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pelop_war_en.png/300px-Pelop_war_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pelop_war_en.png",
+            "caption": "Map of the Peloponnesian War, translated into English based on w:de:Image:Pel...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cyrus the Younger",
+            "summary": "Achaemenid prince, satrap of Lydia from 408 to 401 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Portrait_of_an_anonymous_Satrap_IONIA%2C_Phokaia._Circa_478-387_BC.jpg/250px-Portrait_of_an_anonymous_Satrap_IONIA%2C_Phokaia._Circa_478-387_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Younger"
+        },
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "name": "Nicias",
+            "summary": "Athenian politician and general (5th century BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg/250px-Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicias"
+        },
+        {
+            "name": "Alcibiades",
+            "summary": "Athenian general and statesman (c. 450–404 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Detail_of_Alcibiades_from_Alcibiades_Being_Taught_by_Socrates_%281776%29_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg/250px-Detail_of_Alcibiades_from_Alcibiades_Being_Taught_by_Socrates_%281776%29_by_Fran%C3%A7ois-Andr%C3%A9_Vincent.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alcibiades"
+        },
+        {
+            "name": "Archidamus II",
+            "summary": "Eurypontid king of Sparta from 469/8 to 427/6 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Archidamos_II_1629_woodprint.jpg/250px-Archidamos_II_1629_woodprint.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archidamus_II"
+        },
+        {
+            "name": "Brasidas",
+            "summary": "5th century BC Spartan general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/He_became_a_target_for_every_arrow_%28cropped%29.jpg/250px-He_became_a_target_for_every_arrow_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brasidas"
+        }
+    ],
+    "territory_geojson": null
+}

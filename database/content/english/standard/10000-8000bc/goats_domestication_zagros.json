@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1355,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5d7fc1de17b2633a4b9a0a83a5bcdc15f0f8e50b39d7732f439376df1f828437",
+    "summary": "The domestication of goats from the wild bezoar ibex (Capra aegagrus) in the Zagros Mountains of western Iran is documented by faunal assemblages from a series of key early Neolithic sites in the region. Ganj Dareh, in the Kermanshah Province of Iran, and [[event:1357|Ali Kosh]] in Khuzestan provide the most detailed early evidence for goat management in the Zagros, with herd demographic patterns consistent with controlled slaughter of young male animals appearing by approximately 8000–7500 BCE.\n\nThe Zagros Neolithic — sometimes called the eastern wing of the Fertile Crescent's agricultural revolution — contributed importantly to the overall Neolithic package of domesticated animals. While the domestication of goats overlaps with [[event:1258|the broader story of goat domestication]], the Zagros focus was distinct: the highlands and piedmont of the Zagros supported wild bezoar ibex in substantial numbers, and the communities of the region developed the management practices that would eventually produce fully domesticated goat lineages. Genetic studies confirm that at least one major domestication event for goats occurred in the Zagros region, producing a goat lineage ancestral to most domestic goats worldwide. The Zagros Neolithic goat-herding tradition complemented the crop-based agricultural revolution developing simultaneously in the Levant to the west.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ganj_Dareh",
+    "read_more_links": [
+        {
+            "title": "Goat Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Goat#Domestication"
+        },
+        {
+            "title": "Zagros Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zagros_Mountains"
+        },
+        {
+            "title": "Ali Kosh - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ali_Kosh"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Admixture_graph_of_deep_Eurasian_lineages.png/300px-Admixture_graph_of_deep_Eurasian_lineages.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Admixture_graph_of_deep_Eurasian_lineages.png",
+            "caption": "Admixture graph of deep Eurasian lineages: Admixture graph fit relating deep ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Principal_Components_Analysis_of_Ancient_West_Eurasians.jpg/300px-Principal_Components_Analysis_of_Ancient_West_Eurasians.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Principal_Components_Analysis_of_Ancient_West_Eurasians.jpg",
+            "caption": "Principal Components Analysis of Ancient West Eurasians:\nEigenvectors were in...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ganj_Dareh_site.jpg/300px-Ganj_Dareh_site.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ganj_Dareh_site.jpg",
+            "caption": "Ganj Dareh site",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Near_East_non_political.png/300px-Near_East_non_political.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Near_East_non_political.png",
+            "caption": "Near East non political",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

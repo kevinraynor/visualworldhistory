@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1893,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:52d297308f171f974c0b85a53f5bfb30fc5ab9726bf0b2a0d4d6ffc487f93a88",
+    "summary": "The Ebers Papyrus, dating to approximately 1550 BC, is one of the oldest and most comprehensive medical documents to survive from the ancient world. Named after the German Egyptologist Georg Ebers who purchased it in 1874, the papyrus is approximately 20 meters long when unrolled and contains 877 prescriptions and treatments for a wide range of medical conditions including skin diseases, intestinal disorders, gynecological conditions, eye diseases, and injuries. It was likely copied from older originals, and its contents reflect several centuries of accumulated Egyptian medical knowledge.\n\nThe Ebers Papyrus combines rational empirical observations with magical incantations, reflecting the ancient Egyptian view that disease had both natural and supernatural causes. Many of its remedies involve mixtures of plant, animal, and mineral ingredients in measured quantities, suggesting a systematic pharmacological approach. Some of the herbal remedies described — including aloe vera, opium poppy, and castor oil — have recognized therapeutic properties that explain their inclusion. The papyrus also contains the earliest known description of what appears to be diabetes and possibly of cardiovascular conditions.\n\nAlongside the contemporaneous [[event:1894|Rhind Mathematical Papyrus]] and other New Kingdom Egyptian texts, the Ebers Papyrus demonstrates the intellectual sophistication of [[event:60|New Kingdom Egypt]]. It provides direct evidence that Egyptian medical knowledge, while embedded in a magical-religious framework, was also grounded in careful observation and systematic recording of clinical experience. The papyrus is now held in the University of Leipzig library.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ebers_Papyrus",
+    "read_more_links": [
+        {
+            "title": "Ebers Papyrus - Britannica",
+            "url": "https://www.britannica.com/topic/Ebers-papyrus"
+        },
+        {
+            "title": "Ancient Egyptian Medicine",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_medicine"
+        },
+        {
+            "title": "Edwin Smith Papyrus",
+            "url": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/PEbers_c41-bc.jpg/300px-PEbers_c41-bc.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/PEbers_c41-bc.jpg",
+            "caption": "Papyrus Ebers, column 41",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Papyrus_Ebers.png/300px-Papyrus_Ebers.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Papyrus_Ebers.png",
+            "caption": "Ebers Papyrus from National Library of Medicine, Found in Egypt in the 1870s,...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

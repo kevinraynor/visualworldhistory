@@ -1,0 +1,88 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1007,
+    "parent_id": 1001,
+    "granularity": "detailed",
+    "content_hash": "sha256:399dc5d64e22f4dbc28710134e46146627b04c63bcac774cf3ae4149ec2a6062",
+    "summary": "The invasion of Greece by the Persian king Xerxes I in 480–479 BC was the largest military expedition the ancient world had yet seen, mustering forces from across the Achaemenid Empire's vast territories in a campaign to subjugate the Greek peninsula once and for all. Xerxes spent years preparing the invasion, constructing a bridge of boats across the Hellespont and digging a canal through the Athos peninsula to allow his fleet to avoid the dangerous cape.\n\nThe invasion is best understood as the campaign that encompassed the [[event:1004|Battle of Thermopylae]], [[event:1005|Battle of Salamis]], and ultimately [[event:1006|Battle of Plataea]]. Despite initial successes — the capture and burning of Athens being among the most dramatic — Xerxes's campaign was undone by the strategic naval defeat at Salamis, which severed his supply lines and made the army's position in Greece untenable. The withdrawal of Xerxes with most of his army left a rearguard that was ultimately destroyed at Plataea, ending Persian hopes of European conquest.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece",
+    "read_more_links": [
+        {
+            "title": "Xerxes I",
+            "url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        },
+        {
+            "title": "Hellespont Bridge",
+            "url": "https://en.wikipedia.org/wiki/Xerxes%27_Pontoon_Bridges"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Xerxes_all_ethnicities.jpg/300px-Xerxes_all_ethnicities.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Xerxes_all_ethnicities.jpg",
+            "caption": "Xerxes all ethnicities Analysis List with corresponding drawings",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thermopylae_ancient_coastline_large.jpg/300px-Thermopylae_ancient_coastline_large.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Thermopylae_ancient_coastline_large.jpg",
+            "caption": "View of the Thermopylae pass at the area of the Phocian Wall. In ancient time...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Snake_column_Hippodrome_Constantinople_2007.jpg/300px-Snake_column_Hippodrome_Constantinople_2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Snake_column_Hippodrome_Constantinople_2007.jpg",
+            "caption": "So-called \"Snake column\" or \"Serpents column\" that used to be in the centre o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_Capture_of_the_Acropolis_by_the_Persians.jpg/300px-The_Capture_of_the_Acropolis_by_the_Persians.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Capture_of_the_Acropolis_by_the_Persians.jpg",
+            "caption": "The Capture of the Acropolis by the Persians",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Leonidas I",
+            "summary": "King of Sparta from c. 489 BC to 480 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/250px-Helmed_Hoplite_Sparta.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leonidas_I"
+        },
+        {
+            "name": "Themistocles",
+            "summary": "Athenian politician and general (c. 524–459 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Illustrerad_Verldshistoria_band_I_Ill_116.png/250px-Illustrerad_Verldshistoria_band_I_Ill_116.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Themistocles"
+        },
+        {
+            "name": "Pausanias the Regent",
+            "summary": "Spartan general and regent (died c. 477 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pausanias_in_the_Capitoline_Museums%2C_Rome.jpg/250px-Pausanias_in_the_Capitoline_Museums%2C_Rome.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_the_Regent"
+        },
+        {
+            "name": "Aristides",
+            "summary": "Athenian general and statesman (530–468 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Boston_%282019%29_-_194.jpg/250px-Boston_%282019%29_-_194.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristides"
+        },
+        {
+            "name": "Xerxes I",
+            "summary": "King of Kings of the Achaemenid Empire from 486 to 465 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_%28785%29.JPG/250px-National_Museum_of_Iran_Darafsh_%28785%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        },
+        {
+            "name": "Hoplite",
+            "summary": "Ancient Greek soldier in a phalanx",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hoplite1.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hoplite"
+        }
+    ],
+    "territory_geojson": null
+}

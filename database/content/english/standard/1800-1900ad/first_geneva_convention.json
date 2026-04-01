@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3768,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a9ddf461ed1d05bc82ffa0caf0553d2b7e26017bab44ea51a6247230163a6970",
+    "summary": "The First Geneva Convention of 1864 was the founding document of modern international humanitarian law, establishing for the first time binding treaty obligations among nations regarding the treatment of wounded soldiers and medical personnel on the battlefield. It was the direct product of the humanitarian campaigning of Swiss businessman Henry Dunant, who had witnessed the carnage at the Battle of Solferino in 1859 and organized emergency care for the thousands of wounded left without medical attention on both sides.\n\nDunant's 1862 memoir 'A Memory of Solferino' described the horror of thousands of men dying of treatable wounds for want of organized care, and proposed two remedies: permanent national volunteer relief societies to assist military medical services, and an international convention to grant those volunteers neutral status on the battlefield. His proposals found a receptive audience among Swiss philanthropists, leading to the creation of the International Committee for Relief to the Wounded (later the International Committee of the Red Cross, ICRC) in 1863, and the diplomatic conference of August 1864 at which twelve states signed the Convention.\n\nThe 1864 Convention was brief but revolutionary: it required belligerents to care for wounded enemy soldiers, granted protected status to medical personnel and facilities marked with the red cross emblem (the Swiss flag's colors inverted), and established the principle of neutrality for humanitarian workers. The ICRC emblem — the red cross on white — became one of the most recognized symbols in the world. The Convention was progressively expanded in subsequent decades, extended to maritime warfare in 1906, updated in 1929, and comprehensively revised after the Second World War into the four Geneva Conventions of 1949 that remain the foundation of the laws of armed conflict.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Geneva_Convention",
+    "read_more_links": [
+        {
+            "title": "Henry Dunant – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Henry_Dunant"
+        },
+        {
+            "title": "International Committee of the Red Cross – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross"
+        },
+        {
+            "title": "Geneva Conventions – Britannica",
+            "url": "https://www.britannica.com/topic/Geneva-Conventions"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Original_Geneva_Conventions.jpg/300px-Original_Geneva_Conventions.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Original_Geneva_Conventions.jpg",
+            "caption": "Facsimile of the original first Geneva Convention from 1864, on loan to the I...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Signing_of_the_first_geneva_convention.jpg/300px-Signing_of_the_first_geneva_convention.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Signing_of_the_first_geneva_convention.jpg",
+            "caption": "Picture of the signing of the First Geneva Convention",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Henry_Dunant-young.jpg/300px-Henry_Dunant-young.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Henry_Dunant-young.jpg",
+            "caption": "Henry Dunant (1828–1910), Swiss philanthropist and co-founder of the Internat...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Henry Dunant",
+            "summary": "Swiss co-founder of the Red Cross (1828–1910)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Henry_Dunant-young.jpg/250px-Henry_Dunant-young.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Dunant"
+        },
+        {
+            "name": "Napoleon",
+            "summary": "French general and emperor (1769–1821)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon"
+        },
+        {
+            "name": "Napoleon III",
+            "summary": "Emperor of the French from 1852 to 1870",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre_Cabanel_002.jpg/250px-Alexandre_Cabanel_002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon_III"
+        },
+        {
+            "name": "Guillaume Henri Dufour",
+            "summary": "Swiss soldier, engineer, and topographer (1787–1875)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Guillaume_Henri_Dufour.jpg/250px-Guillaume_Henri_Dufour.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guillaume_Henri_Dufour"
+        },
+        {
+            "name": "Francis Lieber",
+            "summary": "German-American jurist, gymnast and political philosopher (1798–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Francis_Lieber_-_Brady-Handy.jpg/250px-Francis_Lieber_-_Brady-Handy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Lieber"
+        }
+    ],
+    "territory_geojson": null
+}

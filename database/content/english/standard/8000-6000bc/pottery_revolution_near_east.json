@@ -1,0 +1,63 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 22,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:cdbca7b6ae08c07edc01711ae01d8b4c3b8a4b480c2f78ab24a6636b344e4df2",
+    "summary": "The development and widespread adoption of fired ceramic pottery in the Near East, beginning around 7000 to 6500 BCE, transformed food preparation, storage, and social life in ways that reverberate across subsequent millennia. Prior to this innovation, Neolithic communities of the Pre-Pottery Neolithic B period had developed remarkably sophisticated settlements, architecture, and social organization without ceramics, relying instead on baskets, stone vessels, and leather containers. The introduction of fired clay vessels represented a leap in technological capability that enabled new cooking methods, more efficient grain storage, and the accumulation of food surpluses that supported growing populations.\n\nThe earliest pottery in the Near East appears in contexts across northern Mesopotamia, the Levant, and Anatolia within a relatively short archaeological horizon around 7000 to 6500 BCE. Sites associated with early pottery production, including those of the [[event:1403|Hassuna culture]] in northern Iraq and [[event:1402|Pottery Neolithic]] communities in the Levant, demonstrate that the technology emerged and spread rapidly across a wide area. Whether pottery was invented in one location and diffused outward, or arose independently in multiple places, remains an open question, but the rapidity of its adoption suggests the innovation met a widely felt need.\n\nEarly Near Eastern pottery was often quite thin-walled and fired at relatively low temperatures, sometimes decorated with incised patterns or painted geometric designs. Over subsequent generations, potters in different regions developed distinctive decorative traditions that serve as important chronological and cultural markers for archaeologists. The [[event:1404|Samarra culture]] of northern Mesopotamia, for instance, is renowned for its elegantly painted pottery featuring naturalistic and geometric motifs. These regional ceramic traditions reflect not only technological variation but also distinct cultural identities and exchange networks.\n\nThe ceramic revolution also had indirect consequences for metallurgy. The kiln technology developed for firing pottery at high temperatures provided the technical foundation for the subsequent emergence of copper smelting, as the skills required to achieve and control high temperatures — critical for metalworking — were closely related to advanced pottery firing. In this way, the [[event:15|early copper working of Anatolia]] and the Near East built directly on knowledge systems first developed in the context of ceramic production.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery#History",
+    "read_more_links": [
+        {
+            "title": "Pottery History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "title": "Pre-Pottery Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic"
+        },
+        {
+            "title": "Hassuna Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hassuna_culture"
+        },
+        {
+            "title": "Samarra Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Samarra_culture"
+        },
+        {
+            "title": "Neolithic Revolution - Britannica",
+            "url": "https://www.britannica.com/event/Neolithic-Revolution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Japan%2C_Muromachi_period_-_Storage_Jar-_Tamba_Ware_-_2002.66_-_Cleveland_Museum_of_Art.tif/300px-Japan%2C_Muromachi_period_-_Storage_Jar-_Tamba_Ware_-_2002.66_-_Cleveland_Museum_of_Art.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Japan%2C_Muromachi_period_-_Storage_Jar-_Tamba_Ware_-_2002.66_-_Cleveland_Museum_of_Art.tif",
+            "caption": "This vessel served as a storage container for rice or other grains in medieva...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Marcy_Ball_Mill_-_Shenandoah-Dives_Mill%2C_135_County_Road_2%2C_Silverton%2C_San_Juan_County%2C_CO_HAER_CO-91_%28sheet_21_of_27%29_%28cropped%29.png/300px-Marcy_Ball_Mill_-_Shenandoah-Dives_Mill%2C_135_County_Road_2%2C_Silverton%2C_San_Juan_County%2C_CO_HAER_CO-91_%28sheet_21_of_27%29_%28cropped%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Marcy_Ball_Mill_-_Shenandoah-Dives_Mill%2C_135_County_Road_2%2C_Silverton%2C_San_Juan_County%2C_CO_HAER_CO-91_%28sheet_21_of_27%29_%28cropped%29.png",
+            "caption": "Marcy Ball Mill - Shenandoah-Dives Mill, 135 County Road 2, Silverton, San Juan County, CO HAER CO-91 (sheet 21 of 27) (cropped)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/S%C3%A8vres_-_brunissage_13.jpg/300px-S%C3%A8vres_-_brunissage_13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/S%C3%A8vres_-_brunissage_13.jpg",
+            "caption": "Burnishing workshop of the manufacture nationale de Sèvres.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/S%C3%A8vres_-_brunissage_54.jpg/300px-S%C3%A8vres_-_brunissage_54.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/S%C3%A8vres_-_brunissage_54.jpg",
+            "caption": "Burnishing workshop of the manufacture nationale de Sèvres.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

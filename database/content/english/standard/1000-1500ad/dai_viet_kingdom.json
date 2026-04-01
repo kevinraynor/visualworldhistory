@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3040,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a119847a3bc12f8d844d29d54871202791c694f1056df652af5cecedfa917156",
+    "summary": "The Đại Việt Kingdom (1054–1400 AD, with continuations), established by Emperor Lý Thánh Tông of the Lý Dynasty who gave the country this name meaning 'Great Viet,' was the independent Vietnamese state that successfully maintained its independence against Chinese pressure and Mongol invasion through a combination of military resilience, administrative Sinicization, and fierce national identity — establishing the political and cultural foundations of modern Vietnam. Vietnam had been under Chinese rule from 111 BC to 938 AD, and the Lý, Trần, and Lê dynasties that ruled Đại Việt consciously synthesized Chinese cultural models (Confucian administration, Buddhist patronage, imperial ceremonial) with distinct Vietnamese identity.\n\nThe most celebrated chapter of Đại Việt's history was its resistance to the [[event:91|Mongol]] invasions: between 1258 and 1288, the Mongol Yuan Dynasty invaded three times, and three times the Vietnamese forces — using guerrilla warfare, strategic withdrawal, and exploitation of the tropical climate and terrain — defeated the Mongol armies and expelled them. The third invasion ended at the famous Battle of Bạch Đằng (1288), where the Vietnamese general Trần Hưng Đạo drove iron-tipped stakes into the riverbed and lured the Mongol fleet into the river at low tide, impaling the ships as the tide fell — one of the most ingenious military victories in medieval history. These victories became foundational myths of Vietnamese national resistance. The state also pressed southward in the 'march south' (Nam tiến) that gradually extended Vietnamese territory at the expense of the Hindu-Buddhist Cham civilization — a process of cultural replacement that continued for centuries and is still reflected in the ethnic geography of modern Vietnam.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t",
+    "read_more_links": [
+        {
+            "title": "Bach Dang battle 1288 Mongol defeat",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA_B1ng_(1288)"
+        },
+        {
+            "title": "Tran Hung Dao Vietnamese general Mongols",
+            "url": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o"
+        },
+        {
+            "title": "Nam tien Vietnamese march south Cham",
+            "url": "https://en.wikipedia.org/wiki/Nam_ti%E1%BA%BFn"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tabula_Rogeriana_1929_copy_by_Konrad_Miller.jpg/300px-Tabula_Rogeriana_1929_copy_by_Konrad_Miller.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Tabula_Rogeriana_1929_copy_by_Konrad_Miller.jpg",
+            "caption": "Reconstitution of the map Tabula Rogeriana by arab geographer Al Idrisi, by G...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Le_Dynasty_Ceramic_Plate_%289735631777%29.jpg/300px-Le_Dynasty_Ceramic_Plate_%289735631777%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Le_Dynasty_Ceramic_Plate_%289735631777%29.jpg",
+            "caption": "Post Tran Dynasty Gallery, National Museum of Vietnamese History, Hanoi. Comp...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pho_Minh_Pagoda_during_festival_-_Th%C3%A1p_Ph%E1%BB%95_Minh_m%C3%B9a_l%E1%BB%85_h%E1%BB%99i_002.jpg/300px-Pho_Minh_Pagoda_during_festival_-_Th%C3%A1p_Ph%E1%BB%95_Minh_m%C3%B9a_l%E1%BB%85_h%E1%BB%99i_002.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Pho_Minh_Pagoda_during_festival_-_Th%C3%A1p_Ph%E1%BB%95_Minh_m%C3%B9a_l%E1%BB%85_h%E1%BB%99i_002.jpg",
+            "caption": "Tháp chùa Phổ Minh - Thành phố Nam Định.Mùa Xuân năm Tân Sửu 2021.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ThienMuPagoda.jpg/300px-ThienMuPagoda.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/ThienMuPagoda.jpg",
+            "caption": "Tháp Phước Duyên, Chùa Thiên Mụ",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Đinh Bộ Lĩnh",
+            "summary": "Emperor of Đại Cồ Việt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/VuaDinhTienHoang.jpg/250px-VuaDinhTienHoang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C4%90inh_B%E1%BB%99_L%C4%A9nh"
+        },
+        {
+            "name": "Nguyễn Kim",
+            "summary": "Vietnamese statesman",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tri%E1%BB%87u_T%E1%BB%95_Mi%E1%BA%BFu.jpg/250px-Tri%E1%BB%87u_T%E1%BB%95_Mi%E1%BA%BFu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Kim"
+        }
+    ],
+    "territory_geojson": null
+}

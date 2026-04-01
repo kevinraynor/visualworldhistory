@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2097,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c18997cc22c702ed786456929d118a2114a27492b103b9108877dc87eeaf3bf9",
+    "summary": "The Polynesian settlement of Hawaii (c. 300–600 AD, with subsequent waves c. 1000–1200 AD) represents one of the most audacious feats of navigation and colonization in human history — open-ocean voyages of 3,800 kilometers across the North Pacific from the Marquesas Islands, accomplished in double-hulled voyaging canoes without instruments, using the stars, currents, swells, winds, birds, and cloud patterns to navigate. The first Polynesian settlers brought with them the plants (taro, yam, breadfruit, banana, sugarcane), animals (pigs, chickens, dogs), and tools necessary to establish viable communities on previously uninhabited islands.\n\nHawaii's isolation — the most remote island group on Earth — meant that the founding population, though small, evolved a distinctive Hawaiian culture over the following centuries. Hawaiian society developed into a highly stratified chiefdom system with powerful ali'i (chiefs) and kapu (taboo) system regulating behavior, resource use, and social hierarchy. The native Hawaiian population grew to perhaps 300,000–800,000 before European contact in 1778. The Polynesian expansion across the Pacific — which also settled [[event:2098|Easter Island]], [[event:2099|New Zealand]], and dozens of other island groups — represents the final major human colonization of the Earth's habitable surface. Modern genetic and linguistic analysis confirms the remarkable single-origin dispersal of Polynesian people from a Taiwanese/Austronesian ancestral population.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/History_of_Hawaii#Polynesian_settlement",
+    "read_more_links": [
+        {
+            "title": "Polynesian navigation techniques",
+            "url": "https://en.wikipedia.org/wiki/Polynesian_navigation"
+        },
+        {
+            "title": "Polynesian voyaging canoe design",
+            "url": "https://en.wikipedia.org/wiki/Polynesian_outrigger"
+        },
+        {
+            "title": "Hawaiian culture ali'i system",
+            "url": "https://en.wikipedia.org/wiki/Hawaiian_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pearlharborcolork13513.jpg/300px-Pearlharborcolork13513.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Pearlharborcolork13513.jpg",
+            "caption": "The forward magazines of the U.S. Navy battleship USS Arizona (BB-39) explode...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kamehameha_IV_%28PP-97-8-006%29.jpg/300px-Kamehameha_IV_%28PP-97-8-006%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Kamehameha_IV_%28PP-97-8-006%29.jpg",
+            "caption": "Kamehameha IV, born Alexander ʻIolani Liholiho Keawenui (1834–1863), reigned ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Na_mokupuni_o_Hawaii_nei_LOC_98680907.jpg/300px-Na_mokupuni_o_Hawaii_nei_LOC_98680907.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Na_mokupuni_o_Hawaii_nei_LOC_98680907.jpg",
+            "caption": "\"Maraki 9, 1837.\" Relief shown pictorially and by hachures. Available also th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Milwaukee_Public_Museum_February_2023_17_%28Oceania--Religion%2C_Hawaiian_Islands%2C_Northern_Polynesia%29.jpg/300px-Milwaukee_Public_Museum_February_2023_17_%28Oceania--Religion%2C_Hawaiian_Islands%2C_Northern_Polynesia%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Milwaukee_Public_Museum_February_2023_17_%28Oceania--Religion%2C_Hawaiian_Islands%2C_Northern_Polynesia%29.jpg",
+            "caption": "The Religion, Hawaiian Islands, Northern Polynesia diorama in the Oceania exh...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "James Cook",
+            "summary": "British explorer and naval officer (1728–1779)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/250px-Captainjamescookportrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Cook"
+        },
+        {
+            "name": "Kamehameha I",
+            "summary": "King of Hawaii from 1795 to 1819",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_Choris_%281795-1828%29_-_Kamehameha%2C_King_of_the_Sandwich_Islands_by_Louis_Choris%2C_%28Russian%29%2C_pen_and_watercolor.jpg/250px-Louis_Choris_%281795-1828%29_-_Kamehameha%2C_King_of_the_Sandwich_Islands_by_Louis_Choris%2C_%28Russian%29%2C_pen_and_watercolor.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kamehameha_I"
+        },
+        {
+            "name": "Liliʻuokalani",
+            "summary": "Queen of Hawaii from 1891 to 1893",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lili%CA%BBuokalani.jpg/250px-Lili%CA%BBuokalani.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani"
+        },
+        {
+            "name": "House arrest",
+            "summary": "Confinement of a person to their residence by law enforcement authorities",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tsarevich_Alexei_and_Grand_Duchess_Tatiana_in_the_Park_at_Tsarskoye_Selo_in_1917.jpg/250px-Tsarevich_Alexei_and_Grand_Duchess_Tatiana_in_the_Park_at_Tsarskoye_Selo_in_1917.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/House_arrest"
+        },
+        {
+            "name": "Kealakekua Bay",
+            "summary": "Bay and historic place in Hawaii County, Hawaii",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kealakekua_Bay_in_the_morning.jpg/250px-Kealakekua_Bay_in_the_morning.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kealakekua_Bay"
+        },
+        {
+            "name": "Princess",
+            "summary": "Regal rank and the feminine equivalent of prince",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sigrid_Eriksdotter_Vasa.jpg/250px-Sigrid_Eriksdotter_Vasa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princess"
+        }
+    ],
+    "territory_geojson": null
+}

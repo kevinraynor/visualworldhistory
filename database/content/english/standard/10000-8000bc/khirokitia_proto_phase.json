@@ -1,0 +1,51 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1400,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:6f5d1fae5ff6f47ec861b1df156721c69219ee9fecfe20e0d3e55530b914f735",
+    "summary": "Khirokitia (Choirokoitia) is one of the best-preserved Neolithic settlements in the eastern Mediterranean, located in the Maroni river valley of southern Cyprus, with its main occupation dated to approximately 7000–4000 BCE. The site's \"proto-phase\" — the earliest Neolithic occupation of Cyprus before the classic Khirokitia culture — dates to approximately 9800–8000 BCE and is associated with the initial Pre-Pottery Neolithic colonization of the island from the Levantine mainland.\n\nThe site was declared a UNESCO World Heritage Site in 1998 due to its exceptional preservation of Neolithic architecture and cultural remains. The classic Khirokitia settlement, while slightly later than the period of this era, features a dense agglomeration of circular stone-built structures (tholoi) arranged along a cobbled street, with elaborate plastered floors, hearths, and burial practices including inhumation beneath house floors. The earlier proto-phase occupation at Khirokitia represents the pioneer agricultural communities that crossed from the Levant as part of the [[event:1399|earliest maritime voyages to Cyprus]] and established the island's Neolithic culture. The site provides uniquely well-preserved evidence for the economic and social organization of an early Mediterranean island community during the centuries immediately following initial colonization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khirokitia",
+    "read_more_links": [
+        {
+            "title": "Prehistory of Cyprus - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_Cyprus"
+        },
+        {
+            "title": "Neolithic Cyprus - Britannica",
+            "url": "https://www.britannica.com/place/Cyprus/History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Khirokitia_near_Larnaca_01-2017_img7.jpg/300px-Khirokitia_near_Larnaca_01-2017_img7.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Khirokitia_near_Larnaca_01-2017_img7.jpg",
+            "caption": "Neolithic Archaeological Site of Khirokitia near Larnaca, Cyprus",
+            "attribution": "Wikimedia Commons, FAL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Khirokitia1.jpg/300px-Khirokitia1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Khirokitia1.jpg",
+            "caption": "Reconstructed circular structures Khirokitia, between 7000 and 5800 BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Khirokitia3.jpg/300px-Khirokitia3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Khirokitia3.jpg",
+            "caption": "Unit IA and XIIA Khirokitia, between 7000 and 5800 BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Khirokitia4.jpg/300px-Khirokitia4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Khirokitia4.jpg",
+            "caption": "General Overview with Unit IA and XIIAKhirokitia, between 7000 and 5800 BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

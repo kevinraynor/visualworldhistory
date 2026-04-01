@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 108,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:89d163cde2f2a31b356b5fffc7c5189797bfaa82e352da13a3dc1b55ef95f4fc",
+    "summary": "The Industrial Revolution (c. 1760–1840 AD), beginning in Britain and spreading to Europe and North America, was the most consequential economic transformation in human history since the Neolithic agricultural revolution — a shift from hand production methods to machine manufacturing, from animate to inanimate energy sources, and from rural to urban living that permanently altered the material conditions of human existence and set the template for modern economic growth. Britain's particular suitability as the revolution's birthplace derived from a confluence of advantages: abundant coal and iron deposits, a culture of practical mechanical innovation, an agricultural revolution that had freed rural labor for factory work, a financial system capable of mobilizing investment capital, a global empire providing raw materials and markets, and institutional protections for private property and contract that encouraged entrepreneurial risk-taking.\n\nThe revolution's key technological drivers were the improvement of the [[event:2442|steam engine]] by James Watt (patented improved version 1769), which provided a universal power source adaptable to factories, mines, and transportation; textile machinery (the [[event:2441|spinning jenny]], water frame, power loom) that mechanized cloth production on an unprecedented scale; and iron and steel production methods (coke smelting, puddling) that enabled the construction of machines, railways, and bridges. The social consequences were as profound as the economic: rapid urbanization created factory cities (Manchester, Birmingham, Leeds) with appalling working conditions, child labor, and pollution; the factory system replaced artisanal craft production with wage labor; new social classes — the industrial bourgeoisie and the urban proletariat — emerged as the dominant forces whose conflict would shape 19th- and 20th-century politics. The revolution also accelerated Britain's imperial expansion, as industrial output required raw material inputs and markets on a global scale, deepening the economic integration of Asia, Africa, and the Americas into a British-centered world economy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+    "read_more_links": [
+        {
+            "title": "James Watt steam engine improvement patent 1769",
+            "url": "https://en.wikipedia.org/wiki/James_Watt"
+        },
+        {
+            "title": "Textile machinery spinning jenny power loom",
+            "url": "https://en.wikipedia.org/wiki/Textile_manufacture_during_the_British_Industrial_Revolution"
+        },
+        {
+            "title": "Urbanization factory system social consequences",
+            "url": "https://en.wikipedia.org/wiki/Industrial_Revolution#Social_effects"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bomullsfabrik.jpg/300px-Bomullsfabrik.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bomullsfabrik.jpg",
+            "caption": "Cotton mill in the 1830s.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/James_Pollard_-_The_Louth-London_Royal_Mail_Travelling_by_Train_from_Peterborough_East%2C_Northamptonshire_-_Google_Art_Project.jpg/300px-James_Pollard_-_The_Louth-London_Royal_Mail_Travelling_by_Train_from_Peterborough_East%2C_Northamptonshire_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/James_Pollard_-_The_Louth-London_Royal_Mail_Travelling_by_Train_from_Peterborough_East%2C_Northamptonshire_-_Google_Art_Project.jpg",
+            "caption": "James Pollard - The Louth-London Royal Mail Travelling by Train from Peterborough East, Northamptonshire - Google Art Project",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Luddite.jpg/300px-Luddite.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Luddite.jpg",
+            "caption": "The Leader of the Luddites",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "British industrial architecture",
+            "summary": "Architecture of industries in UK",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hoover_Building_in_Perivale_%28cropped%29.jpg/250px-Hoover_Building_in_Perivale_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/British_industrial_architecture"
+        },
+        {
+            "name": "Eric Hobsbawm",
+            "summary": "British academic historian and Marxist historiographer (1917–2012)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eminent_Historian_Professor_Eric_Hobsbawm_at_the_interactive_session_with_the_students_of_Delhi_University%2C_Jawaharlal_Nehru_University_and_Jamia_Millia_in_New_Delhi_on_December_21%2C_2004.jpg/250px-thumbnail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eric_Hobsbawm"
+        },
+        {
+            "name": "T. S. Ashton",
+            "summary": "English economist, historian & scholar (1889–1968)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TS_ashton.jpg/250px-TS_ashton.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/T._S._Ashton"
+        },
+        {
+            "name": "Louis-Guillaume Otto",
+            "summary": "Germano-French diplomat (1754–1817)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Le_comte_Otto_de_Mosloy_et_le_comte_Pelet.jpg/250px-Le_comte_Otto_de_Mosloy_et_le_comte_Pelet.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis-Guillaume_Otto"
+        },
+        {
+            "name": "Robert Southey",
+            "summary": "English romantic poet (1774–1843)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Robert_Southey_%281774%E2%80%931843%29%2C_Aged_31_John_Opie_%281761%E2%80%931807%29_Keswick_Museum.jpg/250px-Robert_Southey_%281774%E2%80%931843%29%2C_Aged_31_John_Opie_%281761%E2%80%931807%29_Keswick_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Southey"
+        },
+        {
+            "name": "Robert Owen",
+            "summary": "Welsh textile manufacturer and social reformer (1771–1858)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Robert_Owen_by_William_Henry_Brooke.jpg/250px-Robert_Owen_by_William_Henry_Brooke.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Owen"
+        }
+    ],
+    "territory_geojson": null
+}

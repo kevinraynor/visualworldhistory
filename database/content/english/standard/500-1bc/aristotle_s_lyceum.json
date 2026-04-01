@@ -1,0 +1,79 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "2.0",
+    "event_id": 1026,
+    "summary": "Aristotle's Lyceum (335–86 BC) was the philosophical school founded by Aristotle near a temple of Apollo Lykeios in Athens, after he returned from serving as tutor to the young Alexander of Macedon (later [[event:75|Alexander the Great's Empire]]). The Lyceum became the home of the Peripatetic school of philosophy — named allegedly for the habit of walking (peripatein) while teaching — and produced systematic investigations into virtually every domain of knowledge that shaped intellectual inquiry for two millennia.\n\nUnlike [[event:1025|Plato's Academy]], which emphasized mathematics and the transcendent Forms, the Lyceum under Aristotle was characterized by systematic empirical investigation. Aristotle and his colleagues collected observations of biological specimens from across the Mediterranean world, catalogued constitutions of 158 Greek city-states, and developed formal logic, the first systematic attempt to analyze the structure of valid reasoning. His works covered biology, physics, metaphysics, ethics, politics, rhetoric, poetics, and logic — a breadth of coverage that earned him the title 'the Philosopher' in the Middle Ages.\n\nAfter Alexander's death, anti-Macedonian sentiment in Athens made Aristotle's position dangerous — he had been too closely associated with Macedonian power. He withdrew to Chalcis in Euboea, where he died the following year in 322 BC. The Lyceum continued under his successor Theophrastus and remained active for centuries, though never regaining the personal centrality it had under Aristotle. Through Arabic translations and eventually Latin scholarship, Aristotle's works were transmitted to medieval Europe, becoming the dominant intellectual authority of the High Middle Ages.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lyceum_(classical)",
+    "read_more_links": [
+        {
+            "title": "Aristotle",
+            "url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "title": "Peripatetic school",
+            "url": "https://en.wikipedia.org/wiki/Peripatetic_school"
+        },
+        {
+            "title": "Theophrastus",
+            "url": "https://en.wikipedia.org/wiki/Theophrastus"
+        },
+        {
+            "title": "Aristotelian Logic",
+            "url": "https://en.wikipedia.org/wiki/Term_logic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Athens_Aristotle%27s_Lyceum.jpg/300px-Athens_Aristotle%27s_Lyceum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Athens_Aristotle%27s_Lyceum.jpg",
+            "caption": "Excavations at what is called Aristotle's Lyceum (Lykeion), Athens.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Sanzio_01_cropped.png/300px-Sanzio_01_cropped.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sanzio_01_cropped.png",
+            "caption": "cropped",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Raphael",
+            "summary": "Italian painter and architect (1483–1520)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/250px-Raffaello_Sanzio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raphael"
+        },
+        {
+            "name": "Sulla",
+            "summary": "Roman general and dictator (138–78 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg/250px-Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sulla"
+        },
+        {
+            "name": "Prodicus",
+            "summary": "Greek philosopher (c. 465 – c. 395 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CarracciHercules.jpg/250px-CarracciHercules.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prodicus"
+        },
+        {
+            "name": "Protagoras",
+            "summary": "Pre-Socratic Greek philosopher (c.490–c.420 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ribera_-_Protagoras%2C_1637.jpg/250px-Ribera_-_Protagoras%2C_1637.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Protagoras"
+        }
+    ]
+}

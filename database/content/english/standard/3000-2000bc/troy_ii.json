@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1752,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ed2355d182ef23f39d6a5ccd89e1287c3f5de145f04472a0439d5aeb8c62167a",
+    "summary": "Troy II, the second major settlement phase at the ancient site of Hisarlik in northwestern Anatolia, flourished approximately 2600–2250 BC during the Early Bronze Age. It represents a significant expansion of the settlement relative to Troy I, with monumental stone fortification walls, a large central building (megaron) interpreted as a palace or chieftain's hall, and evidence of considerable wealth in the form of spectacular gold and silver treasures. The site's strategic position commanding the Dardanelles strait made it a natural hub for trade between the Aegean world and the resources of Anatolia and the Black Sea region.\n\nThe [[event:1753|Priam's Treasure]] — a hoard of gold, silver, and electrum objects discovered by Heinrich Schliemann in 1873 — came from the Troy II level. Schliemann, convinced he had found the Troy of Homer's Iliad, dramatically declared these objects to be the treasure of King Priam. Subsequent scholarship has established that Troy II predates the probable date of the Trojan War by more than a thousand years, and the treasure therefore has no connection to the Homeric narrative. Nevertheless, the objects are among the finest examples of Early Bronze Age metalwork ever discovered.\n\nTroy II ended in a massive destruction, evidenced by burned debris and collapsed walls. The cause — whether conquest, earthquake, or other catastrophe — remains uncertain. The settlement was rebuilt as Troy III–V in subsequent centuries, though these phases show a decline in prosperity relative to Troy II. The site's long occupation history, spanning from approximately 3000 BC to the early centuries AD, makes it one of the most continuously inhabited places in the ancient world and an invaluable record of Bronze Age and later Aegean history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Troy#Troy_II",
+    "read_more_links": [
+        {
+            "title": "Troy",
+            "url": "https://en.wikipedia.org/wiki/Troy"
+        },
+        {
+            "title": "Priam's Treasure",
+            "url": "https://en.wikipedia.org/wiki/Priam%27s_Treasure"
+        },
+        {
+            "title": "Heinrich Schliemann",
+            "url": "https://en.wikipedia.org/wiki/Heinrich_Schliemann"
+        },
+        {
+            "title": "Early Bronze Age Anatolia",
+            "url": "https://en.wikipedia.org/wiki/Bronze_Age_Turkey"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Troya_3.jpg/300px-Troya_3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Troya_3.jpg",
+            "caption": "Troya",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Troya_6.jpg/300px-Troya_6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Troya_6.jpg",
+            "caption": "Troya",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Troya_9.jpg/300px-Troya_9.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Troya_9.jpg",
+            "caption": "Troya",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Troy_Museum_9913.jpg/300px-Troy_Museum_9913.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Troy_Museum_9913.jpg",
+            "caption": "The Troy Museum is essentially a box. On the web I found: \"a weathering-steel...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Diodorus Siculus",
+            "summary": "1st-century BC Greek historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg/250px-Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Diodorus_Siculus"
+        },
+        {
+            "name": "Virgil",
+            "summary": "1st-century-BC Roman poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/250px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil"
+        },
+        {
+            "name": "Buttress",
+            "summary": "Architectural structure",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MIAG-AO_CHURCH_2.JPG/250px-MIAG-AO_CHURCH_2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Buttress"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2126,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ad6a8fab1923210e0aef2485af5ecd5c45500ad9e28add1545b77a10bdae1981",
+    "summary": "The Rashidun Caliphate (632–661 AD) — the caliphate of the 'Rightly Guided' first four caliphs (Abu Bakr, Umar, Uthman, Ali) who succeeded [[event:2124|Muhammad]] — was the vehicle for the most explosive military expansion in history, transforming the fledgling Islamic community of Arabia into an empire that within 30 years conquered Persia ([[event:2127|Islamic Conquest of Persia]]), Egypt ([[event:2908|Islamic Conquest of Egypt]]), Syria, Palestine, and Mesopotamia. The speed and scale of these conquests — achieved against the exhausted but still formidable Byzantine and Sassanid empires — astonished contemporaries and has puzzled historians ever since.\n\nThe factors enabling such rapid expansion included: the deep exhaustion of the Byzantine and Sassanid empires from decades of mutual warfare; the military effectiveness and religious motivation of the Arab armies; significant support from non-Chalcedonian Christian populations in the Near East who preferred Muslim to Byzantine rule; the effective military organization under generals like Khalid ibn al-Walid (undefeated in over 100 battles); and the Rashidun policy of religious tolerance that allowed conquered peoples to keep their religion in exchange for a tax (jizya). The Rashidun period ended in civil war: the assassination of Uthman and the dispute over Ali's succession produced the First Fitna, splitting Islam into Sunni (who accepted the Umayyads) and Shia (who maintained Ali's line had exclusive legitimacy) branches — a division that structures Islamic politics to this day.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun_Caliphate",
+    "read_more_links": [
+        {
+            "title": "Khalid ibn al-Walid general",
+            "url": "https://en.wikipedia.org/wiki/Khalid_ibn_al-Walid"
+        },
+        {
+            "title": "Sunni Shia split origins",
+            "url": "https://en.wikipedia.org/wiki/Early_Muslim_community#Succession_dispute"
+        },
+        {
+            "title": "Islamic conquests reasons speed",
+            "url": "https://en.wikipedia.org/wiki/Early_Muslim_conquests#Reasons_for_the_success_of_the_conquests"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/20131203_Istanbul_118.jpg/300px-20131203_Istanbul_118.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/20131203_Istanbul_118.jpg",
+            "caption": "2013-12-03 in Istanbul.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20131203_Istanbul_091.jpg/300px-20131203_Istanbul_091.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/20131203_Istanbul_091.jpg",
+            "caption": "2013-12-03 in Istanbul",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cairo_-_Coptic_area_-_Roman_Tower.JPG/300px-Cairo_-_Coptic_area_-_Roman_Tower.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cairo_-_Coptic_area_-_Roman_Tower.JPG",
+            "caption": "Cairo - Coptic area - Roman Tower",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Arte_Alhambra_I_%28cropped%29.jpg/300px-Arte_Alhambra_I_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Arte_Alhambra_I_%28cropped%29.jpg",
+            "caption": "Arte Alhambra",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Uthman",
+            "summary": "3rd Rashidun caliph from 644 to 656",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ayasofya_13_%28cropped%29.JPG/250px-Ayasofya_13_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Uthman"
+        },
+        {
+            "name": "Umar",
+            "summary": "2nd Rashidun caliph from 634 to 644",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Hagia_Sopia_6163502494_%28cropped%29.jpg/250px-Hagia_Sopia_6163502494_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umar"
+        },
+        {
+            "name": "Election of Uthman",
+            "summary": "Appointment of the third Rashidun caliph",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Balami_-_Tarikhnama_-_the_election_of_%27Othman_as_the_caliphate_of_Medina_%28cropped%29.jpg/250px-Balami_-_Tarikhnama_-_the_election_of_%27Othman_as_the_caliphate_of_Medina_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Election_of_Uthman"
+        },
+        {
+            "name": "Abu Bakr",
+            "summary": "First caliph of Rashidun Caliphate from 632 to 634",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/20131203_Istanbul_091.jpg/250px-20131203_Istanbul_091.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abu_Bakr"
+        },
+        {
+            "name": "Ali",
+            "summary": "1st Shia Imam and 4th Rashidun caliph (656–661)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG/250px-Istanbul_-_Santa_Sofia_-_Medall%C3%B3_%28cropped%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ali"
+        },
+        {
+            "name": "Rashidun",
+            "summary": "First four caliphs following the death of Muhammad",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Turkish_miniature_paintings_depicting_Muhammad_and_the_first_four_Caliphs_of_Islam_%28Abu_Bakr%2C_Umar%2C_Uthman%2C_and_Ali%29_surrounding_him%2C_circa_16th_century.jpg/250px-Turkish_miniature_paintings_depicting_Muhammad_and_the_first_four_Caliphs_of_Islam_%28Abu_Bakr%2C_Umar%2C_Uthman%2C_and_Ali%29_surrounding_him%2C_circa_16th_century.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rashidun"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1387,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:12142fbe11dcf5342ba3c22fd52a31d873ec7ae63ce9bd6a9f8250d76eb34c36",
+    "summary": "Obsidian from volcanic sources in central and eastern Anatolia was exchanged across distances of 500–1,000 kilometers or more during the Pre-Pottery Neolithic period, creating one of the first documented long-distance trade networks in human history. Geochemical sourcing (trace element analysis) can identify the specific volcanic source of any obsidian artifact, allowing archaeologists to track the movement of obsidian from quarry to final use-location with remarkable precision.\n\nBy 9,500–8,000 BCE, obsidian from sources at Ciftlik and Acigol in Cappadocia and from sources near Lake Van in eastern Anatolia was reaching sites in the Jordan Valley — a straight-line distance of 700–900 kilometers — in quantities sufficient to supply a significant fraction of the knapped stone tool technology at these sites. The mechanism of obsidian distribution is debated: it may have passed through down-the-line exchange networks where each community traded with its neighbors, or may have involved more specialized procurement by traveling groups. The [[event:8|Obsidian Trade Networks of Anatolia]] that supplied the Levant are the best-documented early long-distance exchange systems, but comparable networks were developing simultaneously for other materials including marine shells, greenstone, and selected flint types. Together they demonstrate that early Neolithic communities were far from isolated — they were embedded in regional interaction networks that spanned hundreds of kilometers.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Obsidian#Historical_use",
+    "read_more_links": [
+        {
+            "title": "Prehistoric Trade Networks - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_trade"
+        },
+        {
+            "title": "Obsidian Sourcing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Obsidian_hydration_dating"
+        },
+        {
+            "title": "Neolithic Exchange - Britannica",
+            "url": "https://www.britannica.com/topic/Neolithic-Period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Obsidian_from_Milos_in_Crete%2C_3000-2300_BC%2C_AMH%2C_144707.jpg/300px-Obsidian_from_Milos_in_Crete%2C_3000-2300_BC%2C_AMH%2C_144707.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Obsidian_from_Milos_in_Crete%2C_3000-2300_BC%2C_AMH%2C_144707.jpg",
+            "caption": "Large amounts of obsidian imported from Melos (Milos), at various stages of t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spiro_Mounds_Obsidian_Scraper_with_Mesoamerican_origin%2C_Dorsal%2C_Craig_Skinner_of_the_Northwest_Research_Obsidian_Studies_Laboratory.jpg/300px-Spiro_Mounds_Obsidian_Scraper_with_Mesoamerican_origin%2C_Dorsal%2C_Craig_Skinner_of_the_Northwest_Research_Obsidian_Studies_Laboratory.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Spiro_Mounds_Obsidian_Scraper_with_Mesoamerican_origin%2C_Dorsal%2C_Craig_Skinner_of_the_Northwest_Research_Obsidian_Studies_Laboratory.jpg",
+            "caption": "Dorsal view of a obsidian scraper found at Spiro Mounds in Oklahoma.\nSpiro Mo...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/ObsidianWareLopezMAPHidalgo2.JPG/300px-ObsidianWareLopezMAPHidalgo2.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/ObsidianWareLopezMAPHidalgo2.JPG",
+            "caption": "Obsidian plates and other wares by Victor Lopez Pelcastre of Nopalillo, Epazo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lipari-Obsidienne_%285%29.jpg/300px-Lipari-Obsidienne_%285%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lipari-Obsidienne_%285%29.jpg",
+            "caption": "Echantillon d'obsidienne récolté près du Monte Pilato, dans l'île de Lipari (...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pliny the Elder",
+            "summary": "Roman military commander and writer (AD23/24–79)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg/250px-Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+        },
+        {
+            "name": "Hiking",
+            "summary": "Walking as a hobby, sport, or leisure activity",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest%2C_Colorado.jpg/250px-Hiking_to_the_Ice_Lakes._San_Juan_National_Forest%2C_Colorado.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hiking"
+        },
+        {
+            "name": "Mammoth Hot Springs",
+            "summary": "Hot spring complex in Yellowstone National Park, Park County, Wyoming, U.S.",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dead_trees_at_Mammoth_Hot_Springs.jpg/250px-Dead_trees_at_Mammoth_Hot_Springs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mammoth_Hot_Springs"
+        }
+    ],
+    "territory_geojson": null
+}

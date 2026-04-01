@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2036,
+    "parent_id": 2035,
+    "granularity": "notable",
+    "content_hash": "sha256:80a7b657ca608ece89747126bbad0c3981b4c644a38b22e2986a52414c663435",
+    "summary": "The Battle of the Catalaunian Plains (June 451 AD, also called Battle of Châlons) was the largest battle fought in the Western Roman Empire's final decades — a massive engagement in which a combined Roman-Visigothic force under the Roman general Flavius Aetius defeated [[event:2035|Attila the Hun]]'s invasion of Gaul and turned back the Hunnic advance. Fought somewhere in the Champagne region of modern France, the battle involved hundreds of thousands of soldiers on each side (ancient estimates are exaggerated, but it was genuinely enormous) and was extraordinarily bloody.\n\nAetius, known as 'the last of the Romans,' had spent years as a hostage among the Huns in his youth and understood their tactics better than anyone. The battle's outcome was inconclusive in tactical terms — Attila withdrew but was not destroyed — but strategic in its effect: Gaul was saved from Hunnic domination. Attila returned the following year to attack Italy, but withdrew (partly due to plague, partly due to Pope Leo I's famous embassy to his camp) and died in 453 AD. Aetius himself was murdered by the emperor Valentinian III in 454 AD (who feared his power), and the Western Empire's military capacity never recovered — hastening the final [[event:85|Fall of Western Roman Empire]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Catalaunian_Plains",
+    "read_more_links": [
+        {
+            "title": "Flavius Aetius last of Romans",
+            "url": "https://en.wikipedia.org/wiki/Flavius_Aetius"
+        },
+        {
+            "title": "Pope Leo Attila embassy",
+            "url": "https://en.wikipedia.org/wiki/Pope_Leo_I#Meeting_with_Attila"
+        },
+        {
+            "title": "Hunnic withdrawal from Italy",
+            "url": "https://en.wikipedia.org/wiki/Attila#Invasion_of_Italy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Thur%C3%B3czy_kr%C3%B3nika_-_Attila_kir%C3%A1ly_csat%C3%A1ja_a_catalaunumi_s%C3%ADkon.jpg/300px-Thur%C3%B3czy_kr%C3%B3nika_-_Attila_kir%C3%A1ly_csat%C3%A1ja_a_catalaunumi_s%C3%ADkon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Thur%C3%B3czy_kr%C3%B3nika_-_Attila_kir%C3%A1ly_csat%C3%A1ja_a_catalaunumi_s%C3%ADkon.jpg",
+            "caption": "Chronica Hungarorum - The battle of King Attila at the Catalaunian Plains",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chalons_disposition.jpg/300px-Chalons_disposition.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Chalons_disposition.jpg",
+            "caption": "Disposition and movements of the forces arrayed at the Battle of Chalons. Dra...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Flavius Aetius",
+            "summary": "Roman general and statesman (c. 390 – 454)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/8746_-_Roma%2C_museo_civilt%C3%A0_Romana_-_Sarcofago_di_Stilicone_-_Foto_Giovanni_Dall%27Orto_12-Apr-2008_%28cropped%29.jpg/250px-8746_-_Roma%2C_museo_civilt%C3%A0_Romana_-_Sarcofago_di_Stilicone_-_Foto_Giovanni_Dall%27Orto_12-Apr-2008_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Flavius_Aetius"
+        },
+        {
+            "name": "Theodoric I",
+            "summary": "King of the Visigoths",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/F%C3%A9lix_Castello%2C_%22Teodorico%2C_rey_godo%22%2C_1635.jpg/250px-F%C3%A9lix_Castello%2C_%22Teodorico%2C_rey_godo%22%2C_1635.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodoric_I"
+        },
+        {
+            "name": "Merovech",
+            "summary": "Salian Frankish king (c. 450–458)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/M%C3%A9daille_Roi_de_France_M%C3%A9rov%C3%A9e.png/250px-M%C3%A9daille_Roi_de_France_M%C3%A9rov%C3%A9e.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merovech"
+        },
+        {
+            "name": "Attila",
+            "summary": "Ruler of the Hunnic Empire from 434 to 453",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Attila_%28K%C3%A9pes_kr%C3%B3nika%29_%28cropped%29.jpg/250px-Attila_%28K%C3%A9pes_kr%C3%B3nika%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Attila"
+        },
+        {
+            "name": "Childeric I",
+            "summary": "Frankish king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/CHILDERICI_REGIS.jpg/250px-CHILDERICI_REGIS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Childeric_I"
+        },
+        {
+            "name": "Laudaricus",
+            "summary": "Hunnic chieftain",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Battle_of_the_Catalaunian_plains.jpg/250px-Battle_of_the_Catalaunian_plains.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Laudaricus"
+        }
+    ],
+    "territory_geojson": null
+}

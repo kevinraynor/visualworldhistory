@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3246,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9ce5d2a2bf3bbd63775ee7b6622c7b6db0ea2c74cdc80db235fe428aeb82b24c",
+    "summary": "The Burmese-Siamese Wars (c. 1547–1855 AD) were a series of devastating conflicts between Burma (Myanmar) and Siam (Thailand) that repeatedly disrupted Southeast Asian civilization, resulting in the destruction of multiple capital cities, mass deportations of populations, and the near-extinction of several cultural traditions. The first major war cycle, under the Taungoo dynasty's King Bayinnaung (r. 1551–1581), saw Burma conquer Siam and capture the Siamese capital Ayutthaya twice (1548 and 1568–69), with Bayinnaung building the largest empire in Southeast Asian history at its height. The second major conflict under the Konbaung dynasty in the 18th century culminated in the destruction of Ayutthaya (1767) — the catastrophic end of the [[event:2422|Ayutthaya Kingdom]] after 417 years.\n\nThe destruction of Ayutthaya in 1767 was comprehensive: the Burmese forces burned the city after a 14-month siege, destroying centuries of manuscripts, art, and religious objects, and deporting perhaps 30,000 people to Burma. The trauma of Ayutthaya's fall remains central to Thai historical memory. However, Burmese overextension in Siam allowed the Siamese general Taksin to rally resistance, establish the [[event:3247|Thonburi Kingdom]], and expel the Burmese within months — demonstrating the limits of conquest without stable administration. The repeated Burmese-Siamese conflicts weakened both states, contributed to their vulnerability to European colonial pressure in the 19th century, and created cultural cross-fertilization as deported craftsmen, dancers, and scholars introduced Siamese artistic traditions to Burma and vice versa.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_wars",
+    "read_more_links": [
+        {
+            "title": "Bayinnaung Taungoo Burma largest Southeast Asian empire",
+            "url": "https://en.wikipedia.org/wiki/Bayinnaung"
+        },
+        {
+            "title": "Ayutthaya fall 1767 Burmese destruction Thai kingdom end",
+            "url": "https://en.wikipedia.org/wiki/Fall_of_Ayutthaya_(1767)"
+        },
+        {
+            "title": "Konbaung dynasty Burma Siamese wars 18th century",
+            "url": "https://en.wikipedia.org/wiki/Konbaung_dynasty"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Taksin",
+            "summary": "King of Siam from 1767 to 1782",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_in_Wat_Kungtapao_002.jpg/250px-King_Taksin_%26_Phraya_Pichai_Dabhak_Monument_in_Wat_Kungtapao_002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taksin"
+        },
+        {
+            "name": "Rama I",
+            "summary": "King of Siam from 1782 to 1809",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/King_Rama_I_of_Siam_%28Yodfa_Chulalok%29_Portrait.jpg/250px-King_Rama_I_of_Siam_%28Yodfa_Chulalok%29_Portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rama_I"
+        },
+        {
+            "name": "Rama III",
+            "summary": "King of Siam from 1824 to 1851",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/King_Rama_III_of_Siam_%28Nangklao%29_Portrait_2.jpg/250px-King_Rama_III_of_Siam_%28Nangklao%29_Portrait_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rama_III"
+        },
+        {
+            "name": "Our Wars with the Burmese",
+            "summary": "1917–1920 Thai history book by Prince Damrong Rajanubhab",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%9E%E0%B8%A1%E0%B9%88%E0%B8%B2_-_%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87_-_%E0%B9%92%E0%B9%94%E0%B9%96%E0%B9%93_%28%E0%B9%91%29.pdf/page1-250px-%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%9E%E0%B8%A1%E0%B9%88%E0%B8%B2_-_%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87_-_%E0%B9%92%E0%B9%94%E0%B9%96%E0%B9%93_%28%E0%B9%91%29.pdf.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Our_Wars_with_the_Burmese"
+        }
+    ],
+    "territory_geojson": null
+}

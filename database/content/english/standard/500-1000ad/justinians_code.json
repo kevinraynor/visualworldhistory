@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2121,
+    "parent_id": 2119,
+    "granularity": "notable",
+    "content_hash": "sha256:a1f81224558701ee64f8196a10060ca0393888c3f004db14efcd54e5d9acf0b6",
+    "summary": "The Corpus Juris Civilis (Body of Civil Law, 529–534 AD), compiled under Emperor [[event:2119|Justinian I]] by a commission led by the jurist Tribonian, was the most comprehensive codification of Roman law ever produced — a systematic collection of imperial edicts (the Codex), juristic writings (the Digest/Pandects), an introductory textbook (the Institutes), and later additional laws (the Novels) that preserved and organized the entire tradition of Roman legal thought accumulated over a thousand years. Compiled in just three years, the Digest alone synthesized the opinions of 38 classical Roman jurists into 50 books.\n\nThe Corpus Juris Civilis' importance to world history is difficult to overstate. Lost to western Europe after Rome's fall, it was rediscovered at Bologna in the late 11th century and became the foundational text of the university law curriculum that spread across medieval Europe. From Bologna, Roman law training and Justinianic legal concepts spread to France, Germany, Spain, Portugal, and their colonial successors — meaning that most of continental Europe, Latin America, Quebec, Louisiana, South Africa, and many other jurisdictions today use legal systems ultimately derived from the Corpus Juris Civilis. Concepts including contract law, property rights, the distinction between public and private law, the presumption of innocence, and the principle that 'what touches all must be approved by all' trace directly to the Justinianic compilation. The common law tradition of England and its former colonies (including the United States) is virtually alone among major legal systems in not deriving primarily from this source.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Corpus_Juris_Civilis",
+    "read_more_links": [
+        {
+            "title": "Tribonian jurist compilation",
+            "url": "https://en.wikipedia.org/wiki/Tribonian"
+        },
+        {
+            "title": "Roman law Bologna rediscovery",
+            "url": "https://en.wikipedia.org/wiki/School_of_Bologna"
+        },
+        {
+            "title": "Civil law tradition worldwide",
+            "url": "https://en.wikipedia.org/wiki/Civil_law_(legal_system)"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

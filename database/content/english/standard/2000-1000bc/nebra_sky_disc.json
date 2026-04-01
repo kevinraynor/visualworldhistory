@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1863,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3e3b4bc7a36dbcf6c20a1600b3a8cff7272205b1e8d032e4591035ac898a86a6",
+    "summary": "The Nebra sky disc is a bronze disc approximately 30 centimeters in diameter, decorated with gold symbols representing celestial objects, found near Nebra in the Saxony-Anhalt region of modern Germany and dated to approximately 1600 BC. It is widely regarded as the oldest known concrete depiction of astronomical phenomena in the world. The disc's gold overlay shows a crescent moon, a full circle interpreted as either the sun or a full moon, a cluster of seven stars representing the Pleiades, and two arcs along the edges that correspond to the angle between the summer and winter solstice sunsets as seen from the site of discovery.\n\nThe disc was illegally excavated in 1999 and reached German authorities through a series of antiquities dealers before its importance was recognized. Scientific analysis including isotope studies of the copper and gold traced the raw materials to specific ore sources and confirmed its authenticity and antiquity. It was found alongside bronze swords, axes, and other objects in what appears to have been a deliberately cached deposit.\n\nThe Nebra disc suggests that the peoples of Bronze Age central Europe, associated with the [[event:1865|Tumulus culture]] or its predecessors, possessed sophisticated astronomical knowledge and incorporated it into ritual objects of great material value. The Pleiades grouping is significant because in central European Bronze Age agriculture, the first appearance and disappearance of the Pleiades marked the beginning and end of the agricultural year. The disc may have functioned as a lunisolar calendar device. It is now displayed at the State Museum of Prehistory in Halle and was added to the UNESCO Memory of the World Register in 2013.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nebra_sky_disc",
+    "read_more_links": [
+        {
+            "title": "Nebra Sky Disc - Britannica",
+            "url": "https://www.britannica.com/topic/Nebra-sky-disk"
+        },
+        {
+            "title": "Bronze Age Europe",
+            "url": "https://en.wikipedia.org/wiki/European_Bronze_Age"
+        },
+        {
+            "title": "History of Astronomy",
+            "url": "https://en.wikipedia.org/wiki/History_of_astronomy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Himmelsscheibe_von_Nebra_-_Landesmuseum_f%C3%BCr_Vorgeschichte_in_Halle_-_HD.jpg/300px-Himmelsscheibe_von_Nebra_-_Landesmuseum_f%C3%BCr_Vorgeschichte_in_Halle_-_HD.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Himmelsscheibe_von_Nebra_-_Landesmuseum_f%C3%BCr_Vorgeschichte_in_Halle_-_HD.jpg",
+            "caption": "Nebra Sky Disc - State Museum of Prehistory in Halle ",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Beifund.Himmelsscheibe.P1034161.jpg/300px-Beifund.Himmelsscheibe.P1034161.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Beifund.Himmelsscheibe.P1034161.jpg",
+            "caption": "Beifund der Himmelsscheibe von Nebra",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Looting",
+            "summary": "Indiscriminate taking of goods by force",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pluenderung_der_Judengasse_1614.png/250px-Pluenderung_der_Judengasse_1614.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Looting"
+        },
+        {
+            "name": "Deutsche Mark",
+            "summary": "Currency of Germany from 1948 to 2002",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GIF_of_Series_4_of_Deutsche_Mark_Banknotes.gif/250px-GIF_of_Series_4_of_Deutsche_Mark_Banknotes.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Deutsche_Mark"
+        },
+        {
+            "name": "Cornwall",
+            "summary": "Ceremonial county in England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Michael%27s_Mount_View.jpg/250px-St_Michael%27s_Mount_View.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cornwall"
+        },
+        {
+            "name": "Mining in Cornwall and Devon",
+            "summary": "Mining in the English counties of Cornwall and Devon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Wheal_Owles_historic_tin_mine_Cornwall_UK.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mining_in_Cornwall_and_Devon"
+        },
+        {
+            "name": "Earthworks (archaeology)",
+            "summary": "General term to describe artificial changes in land level in history and pre-history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De_Offa_Dyke.JPG/250px-De_Offa_Dyke.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Earthworks_%28archaeology%29"
+        }
+    ],
+    "territory_geojson": null
+}

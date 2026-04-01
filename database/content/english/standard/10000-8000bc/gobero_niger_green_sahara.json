@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1295,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:960d4d4efe69ce2cb4e78cc5dc764a84bd0d01d5535215207e565a52878889f1",
+    "summary": "Gobero is a prehistoric cemetery site in the Tenere Desert of northern Niger, discovered in 2000 by paleontologist Paul Sereno and subsequently excavated by a team including archaeologist Elena Garcea. The site lies at the edge of a now-dry paleolake basin in the central Sahara and preserves two distinct cemeteries — the earliest dating to approximately 9600–8200 BCE and the second to approximately 7700–6200 BCE — separated by a hiatus during which the lake dried up and the site was abandoned.\n\nThe Gobero cemeteries contain the remains of more than 200 individuals, making it the largest known collection of Stone Age human skeletons from sub-Saharan Africa. The burials offer remarkable evidence for life and death during the [[event:17|Green Sahara period]], when the Sahara was a productive landscape of lakes, rivers, and grasslands capable of supporting substantial human populations. One burial of particular note depicts a woman and two children buried clasping hands — one of the most evocative prehistoric burial images ever discovered. The physical stature of the Gobero individuals was notably tall, and isotopic analysis confirms a fish-rich diet consistent with lakeside habitation. The people buried at Gobero are associated with the Kiffian culture (earlier burials) and the Tenerian culture (later burials), distinct archaeological traditions now recognized as significant chapters in the human history of the Saharan region.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gobero",
+    "read_more_links": [
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "Kiffian Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kiffian_culture"
+        },
+        {
+            "title": "Green Sahara - National Geographic",
+            "url": "https://www.nationalgeographic.com/science/article/when-the-sahara-was-green"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gobero.jpg/300px-Gobero.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Gobero.jpg",
+            "caption": "Aerial view of Gobero archaeological site in Niger from Holocene.",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Paul Sereno",
+            "summary": "American paleontologist (born 1957)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Paul_Sereno_Lab_Photo_%28cropped%29.jpg/250px-Paul_Sereno_Lab_Photo_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Sereno"
+        },
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        }
+    ],
+    "territory_geojson": null
+}

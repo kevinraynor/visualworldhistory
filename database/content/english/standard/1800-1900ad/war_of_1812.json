@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2603,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3268bf6b9c4ea03d778c8ea640f98e462493a3f208fbef0283f48a11fe91aaf5",
+    "summary": "The War of 1812, fought between the United States and Britain from June 1812 to February 1815, was a conflict that emerged from American grievances about British interference with American shipping, impressment of American sailors into the Royal Navy, and British support for Native American resistance to American westward expansion. Often called 'America's Second War of Independence,' it ended inconclusively but confirmed American sovereignty and set the stage for the long peace between the two countries.\n\nThe war began with American invasions of Canada that failed to achieve their objectives, as the Canadians — British regulars, Canadian militia, and Native American allies under Tecumseh — repulsed the American advances. The British capture and burning of Washington D.C. in August 1814, including the White House and Capitol, was the low point for the Americans. The brilliant American naval victories on the Great Lakes (particularly Oliver Hazard Perry at Lake Erie in 1813) and the defense of Baltimore — which inspired Francis Scott Key to write The Star-Spangled Banner — helped restore American morale.\n\nThe most famous American victory, the Battle of New Orleans in January 1815 under Andrew Jackson, was fought after the peace treaty had already been signed in Ghent in December 1814, as news had not yet reached Louisiana. The Treaty of Ghent restored the prewar boundaries with Britain, settling nothing explicitly about the issues that had caused the war. Nevertheless, the war had important consequences: it eliminated the British-allied Native American confederacy in the Old Northwest, accelerated American westward expansion, and produced the series of diplomatic agreements that eventually demilitarized the U.S.-Canadian border, establishing the remarkably peaceful relationship between the two nations that has endured to the present.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/War_of_1812",
+    "read_more_links": [
+        {
+            "title": "War of 1812 – Britannica",
+            "url": "https://www.britannica.com/event/War-of-1812"
+        },
+        {
+            "title": "Battle of New Orleans – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_New_Orleans"
+        },
+        {
+            "title": "Treaty of Ghent – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Ghent"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Floating_dock_Bermuda_at_HM_Dockyard_Bermuda.jpeg/300px-Floating_dock_Bermuda_at_HM_Dockyard_Bermuda.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Floating_dock_Bermuda_at_HM_Dockyard_Bermuda.jpeg",
+            "caption": "The Royal Navy floating drydock Bermuda at the Royal Naval Dockyard on Irelan...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BattleofNewOrleans2.jpg/300px-BattleofNewOrleans2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/BattleofNewOrleans2.jpg",
+            "caption": "The Battle of New Orleans. January 1815. Copy of engraving by H.B. Hall after...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Battle_of_Chateauguay_1896.jpg/300px-Battle_of_Chateauguay_1896.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Battle_of_Chateauguay_1896.jpg",
+            "caption": "Battle of Chateauguay 1896",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Thomas_Birch_-_Engagement_Between_the_%22Constitution%22_and_the_%22Guerri%C3%A8re%22.jpg/300px-Thomas_Birch_-_Engagement_Between_the_%22Constitution%22_and_the_%22Guerri%C3%A8re%22.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Thomas_Birch_-_Engagement_Between_the_%22Constitution%22_and_the_%22Guerri%C3%A8re%22.jpg",
+            "caption": "Thomas Birch - Engagement Between the \"Constitution\" and the \"Guerrière\"",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Tecumseh",
+            "summary": "Shawnee Native American military leader (1768-1813)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tecumseh02.jpg/250px-Tecumseh02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tecumseh"
+        },
+        {
+            "name": "Andrew Jackson",
+            "summary": "President of the United States from 1829 to 1837",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Andrew_jackson_head_%28cropped%29.jpg/250px-Andrew_jackson_head_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Andrew_Jackson"
+        },
+        {
+            "name": "James Madison",
+            "summary": "Founding Father, U.S. president from 1809 to 1817",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/250px-James_Madison.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Madison"
+        },
+        {
+            "name": "William Henry Harrison",
+            "summary": "President of the United States in 1841",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/William_Henry_Harrison_crop.jpg/250px-William_Henry_Harrison_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Henry_Harrison"
+        },
+        {
+            "name": "William Hull",
+            "summary": "American military officer and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/William_Hull_Portrait.jpg/250px-William_Hull_Portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Hull"
+        },
+        {
+            "name": "Winfield Scott",
+            "summary": "United States Army general (1786–1866)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Winfield_Scott_by_Fredricks%2C_1862_crop.jpg/250px-Winfield_Scott_by_Fredricks%2C_1862_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Winfield_Scott"
+        }
+    ],
+    "territory_geojson": null
+}

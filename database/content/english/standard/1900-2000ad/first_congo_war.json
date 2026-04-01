@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3667,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e3526d18c2f1962d050397fada56085e37897391a1a30140c3fd319de992a86d",
+    "summary": "The First Congo War (1996–1997) was a brief but decisive conflict that overthrew the long-standing dictatorship of Mobutu Sese Seko in Zaire and installed Laurent-Désiré Kabila as president of the renamed Democratic Republic of the Congo. The war was primarily driven by Rwanda and Uganda, which backed a rebellion led by Kabila's Alliance of Democratic Forces for the Liberation of Congo-Zaire. Rwanda's immediate motivation was to destroy Hutu extremist camps in eastern Zaire from which génocidaires were attacking Rwanda following the [[event:2695|Rwandan Genocide]].\n\nMobutu's government had been severely weakened by decades of kleptocracy and the withdrawal of Western support after the Cold War. Rebel forces swept across the vast country with remarkable speed, facing little effective military resistance. Mobutu fled into exile in May 1997 and died of cancer in September. The war appeared to promise a new beginning for the long-suffering DRC, but Kabila's government quickly disappointed hopes for democratic reform, and he was overthrown by Rwanda and Uganda the following year, triggering the far more devastating [[event:3387|Second Congo War]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Congo_War",
+    "read_more_links": [
+        {
+            "title": "Laurent-Désiré Kabila",
+            "url": "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila"
+        },
+        {
+            "title": "Mobutu Sese Seko",
+            "url": "https://en.wikipedia.org/wiki/Mobutu_Sese_Seko"
+        },
+        {
+            "title": "Zaire",
+            "url": "https://en.wikipedia.org/wiki/Zaire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mobutu.jpg/300px-Mobutu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mobutu.jpg",
+            "caption": "U.S. Secretary of Defense Caspar W. Weinberger meets with President Mobutu of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Visit_of_Laurent_D%C3%A9sir%C3%A9_Kabila%2C_President_of_the_Democratic_Republic_of_Congo%2C_to_the_EC_%28cropped2%29.jpg/300px-Visit_of_Laurent_D%C3%A9sir%C3%A9_Kabila%2C_President_of_the_Democratic_Republic_of_Congo%2C_to_the_EC_%28cropped2%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Visit_of_Laurent_D%C3%A9sir%C3%A9_Kabila%2C_President_of_the_Democratic_Republic_of_Congo%2C_to_the_EC_%28cropped2%29.jpg",
+            "caption": "João de Deus Pinheiro, Member of the EC in charge of External Relations with ...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Rwandan_refugee_camp_in_east_Zaire.jpg/300px-Rwandan_refugee_camp_in_east_Zaire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Rwandan_refugee_camp_in_east_Zaire.jpg",
+            "caption": "Refugee camp for Rwandans in Kimbumba, eastern Zaire (current Democratic Repu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zaire_96map.png/300px-Zaire_96map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Zaire_96map.png",
+            "caption": "Zaire 96map",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mobutu Sese Seko",
+            "summary": "President of DR Congo and Zaire from 1965 to 1997",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mobutu_%28cropped%29.jpg/250px-Mobutu_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mobutu_Sese_Seko"
+        },
+        {
+            "name": "Donatien Mahele Lieko Bokungu",
+            "summary": "Zairean general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/General_Mahele_during_a_speech_to_the_Zairian_Armed_Forces%2C_1991-1993.png/250px-General_Mahele_during_a_speech_to_the_Zairian_Armed_Forces%2C_1991-1993.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Donatien_Mahele_Lieko_Bokungu"
+        },
+        {
+            "name": "Omar al-Bashir",
+            "summary": "President of Sudan from 1989 to 2019",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Omar_al-Bashir%2C_12th_AU_Summit_%283x4_cropped%29.jpg/250px-Omar_al-Bashir%2C_12th_AU_Summit_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_al-Bashir"
+        },
+        {
+            "name": "Jonas Savimbi",
+            "summary": "Angolan politician and rebel leader (1934–2002)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Johnas_Savimbi%2C_leader_of_Unita%2C_the_Angolan_Rebels_%28larger_picture%29_%28cropped%29.png/250px-Johnas_Savimbi%2C_leader_of_Unita%2C_the_Angolan_Rebels_%28larger_picture%29_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jonas_Savimbi"
+        },
+        {
+            "name": "Paul Kagame",
+            "summary": "President of Rwanda since 2000",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paul_Kagame_2024_%28cropped%29.jpg/250px-Paul_Kagame_2024_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Kagame"
+        },
+        {
+            "name": "James Kabarebe",
+            "summary": "Rwandan military officer (born 1959)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/James_Kabarebe.jpg/250px-James_Kabarebe.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Kabarebe"
+        }
+    ],
+    "territory_geojson": null
+}

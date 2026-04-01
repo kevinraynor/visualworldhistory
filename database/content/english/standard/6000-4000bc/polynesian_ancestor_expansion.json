@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1608,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:5e0f2f741c99a5dfe5b762c4b31b8052d6e11974c7bfa7f4e2e5137cdccd5221",
+    "summary": "Between approximately 5000 and 4000 BC, populations ancestral to the Austronesian-speaking peoples of Island Southeast Asia, Polynesia, and Micronesia began expanding outward from a homeland centered on Taiwan and the adjacent mainland coast of southeastern China. These communities were skilled maritime farmers who cultivated rice and millet, kept domesticated animals, and constructed seaworthy outrigger canoes. Their dispersal carried Austronesian languages, agricultural practices, and material traditions across an enormous arc of the Indo-Pacific world.\n\nThis early phase of expansion brought Austronesian ancestors into the Philippine archipelago and the northern islands of Island Southeast Asia. Genetic, linguistic, and archaeological evidence converges on Taiwan as a primary source for this dispersal, consistent with the remarkable diversity of Austronesian languages found there. The ancestors of the Polynesian peoples were still many centuries and many island-hopping generations away from reaching the central Pacific, but the demographic and maritime foundations of that later expansion were established during this formative period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Austronesian_peoples",
+    "read_more_links": [
+        {
+            "title": "Austronesian expansion - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Austronesian_expansion"
+        },
+        {
+            "title": "Out of Taiwan hypothesis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Out_of_Taiwan_hypothesis"
+        },
+        {
+            "title": "Polynesian origins - Britannica",
+            "url": "https://www.britannica.com/topic/Polynesian-culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Austronesia_with_hypothetical_greatest_expansion_extent_%28Blench%2C_2009%29_01.png/300px-Austronesia_with_hypothetical_greatest_expansion_extent_%28Blench%2C_2009%29_01.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Austronesia_with_hypothetical_greatest_expansion_extent_%28Blench%2C_2009%29_01.png",
+            "caption": "Austronesia with hypothetical greatest expansion extent per Blench, Roger (20...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Beinan_Taitung_Taiwan_Aboriginal-Stilt-House-01.jpg/300px-Beinan_Taitung_Taiwan_Aboriginal-Stilt-House-01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Beinan_Taitung_Taiwan_Aboriginal-Stilt-House-01.jpg",
+            "caption": "Beinan Taitung Taiwan Aboriginal-Stilt-House-01",
+            "attribution": "Wikimedia Commons"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Boracay_paraw_sailboats_015.jpg/300px-Boracay_paraw_sailboats_015.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Boracay_paraw_sailboats_015.jpg",
+            "caption": "Boracay paraw sailboats",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Blontakng_di_Lamin_Mancong_150823001.JPG/300px-Blontakng_di_Lamin_Mancong_150823001.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Blontakng_di_Lamin_Mancong_150823001.JPG",
+            "caption": "Deretan patung blontakng di depan Lamin Mancong. Lamin Mancong (ejaan: Lo'u M...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Rock art",
+            "summary": "Human-made markings on natural stone",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petroglyph_jqjacobs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_art"
+        },
+        {
+            "name": "Cornelis de Houtman",
+            "summary": "Dutch explorer (1565–1599)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cornelis_de_Houtman.jpg/250px-Cornelis_de_Houtman.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cornelis_de_Houtman"
+        },
+        {
+            "name": "James Cook",
+            "summary": "British explorer and naval officer (1728–1779)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/250px-Captainjamescookportrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Cook"
+        },
+        {
+            "name": "Johann Friedrich Blumenbach",
+            "summary": "German physiologist and anthropologist (1752-1840)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/JohannFriedrichBlumenbachLudwigEmilGrimm1823_%28cropped%29.jpg/250px-JohannFriedrichBlumenbachLudwigEmilGrimm1823_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Friedrich_Blumenbach"
+        }
+    ],
+    "territory_geojson": null
+}

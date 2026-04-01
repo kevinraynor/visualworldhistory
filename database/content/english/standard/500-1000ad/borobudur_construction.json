@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2168,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:8707aa4c0a72e176dcc2d5d554cbec02af2dc8498c28bf1fe021db53287adfe9",
+    "summary": "Borobudur (constructed c. 750–850 AD in central Java under the Sailendra dynasty) is the largest Buddhist monument in the world — a massive stepped pyramid-stupa complex covering over 2,500 square meters and rising 35 meters, decorated with 2,672 relief panels and 504 Buddha statues, built from 2 million stone blocks without mortar. Designed as a mandala (sacred diagram of the Buddhist universe) in three-dimensional architectural form, the monument was intended to be circumambulated along its galleries as a physical journey through the Buddhist cosmological hierarchy from the world of desire (lower levels) through the world of form (middle levels) to the formless world (upper circular terraces with latticed stupas containing Buddha figures) and ultimate liberation at the central stupa at the summit.\n\nBorobudur's relief panels constitute the world's largest and most complete ensemble of Buddhist narrative art — depicting the life of the Buddha, Jataka tales, and scenes of everyday 8th-century Javanese life with remarkable detail. The monument was abandoned and hidden under volcanic ash and jungle growth for centuries, probably when the Javanese converted from Buddhism to Hinduism and then to Islam. It was rediscovered by the British colonial official Stamford Raffles in 1814, and subsequently restored by the Dutch colonial government. UNESCO-supported restoration in 1975–1982 stabilized the structure. Today it is the most visited tourist site in Indonesia and a UNESCO World Heritage Site, demonstrating the extraordinary artistic and engineering capacity of early medieval Java.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Borobudur",
+    "read_more_links": [
+        {
+            "title": "Borobudur architecture mandala",
+            "url": "https://en.wikipedia.org/wiki/Borobudur#Architecture"
+        },
+        {
+            "title": "Borobudur relief panels Buddhist",
+            "url": "https://en.wikipedia.org/wiki/Borobudur#Reliefs"
+        },
+        {
+            "title": "Sailendra dynasty Java",
+            "url": "https://en.wikipedia.org/wiki/Sailendra"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Borobudur_as_Pilgrimage_Site_Painting_by_Hooijer_c1910s.jpg/300px-Borobudur_as_Pilgrimage_Site_Painting_by_Hooijer_c1910s.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Borobudur_as_Pilgrimage_Site_Painting_by_Hooijer_c1910s.jpg",
+            "caption": "Painting title: \"The Borobudur as Pilgrimage Site\" (Dutch title: De Borobudur...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pradaksina.jpg/300px-Pradaksina.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Pradaksina.jpg",
+            "caption": "Pradaksina biasanya dilakukan dengan mengelilingi Candi Borobudur sebanyak 3 ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-06.jpg/300px-Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-06.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-06.jpg",
+            "caption": "Borobudur temple Park, Indonesia: Early morning atmosphere in Borobudu Temple...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Borobudur_-_Gandavyuha_-_071_Level_2%2C_North_Wall_%288601009103%29.jpg/300px-Borobudur_-_Gandavyuha_-_071_Level_2%2C_North_Wall_%288601009103%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Borobudur_-_Gandavyuha_-_071_Level_2%2C_North_Wall_%288601009103%29.jpg",
+            "caption": "071 Gandavyuha, Level 2, North Wall Inner Wall at Borobudur\n\nPhotograph of a ...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dome",
+            "summary": "Architectural element similar to the hollow upper half of a sphere; there are many types",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cupola_without_text.png/250px-Cupola_without_text.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dome"
+        },
+        {
+            "name": "Buddhist art",
+            "summary": "Artistic practices influenced by Buddhism",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/250px-Gandhara_Buddha_%28tnm%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Buddhist_art"
+        },
+        {
+            "name": "Vesak",
+            "summary": "Buddhist festival marking the birth, enlightenment and death of the Buddha",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/1_Wesak_Day_%28in_Thailand%29_2007.jpg/250px-1_Wesak_Day_%28in_Thailand%29_2007.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vesak"
+        },
+        {
+            "name": "Samaratungga",
+            "summary": "Emperor of the Sailendra dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Borobudur_Northwest_View.jpg/250px-Borobudur_Northwest_View.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samaratungga"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2111,
+    "parent_id": 81,
+    "granularity": "detailed",
+    "content_hash": "sha256:0ae70af7a5d6fc471b60d6c00554a95327fd6ad538b7d827db2582e89e0b3907",
+    "summary": "Roman Britain (43–410 AD) was one of the most distant and challenging provinces of the [[event:81|Roman Empire]] — a militarized frontier zone that absorbed considerable imperial resources in exchange for lead, tin, grain, slaves, and prestige. The conquest began under Emperor Claudius in [[event:2844|43 AD]], though Julius Caesar had made two earlier raids (55 and 54 BC). The province was never fully pacified: the north remained unconquered (requiring [[event:2022|Hadrian's Wall]] to mark the frontier), and periodic revolts — most spectacularly [[event:2112|Boudicca's rebellion]] — required military responses. At its height, Roman Britain had three legions and substantial auxiliary forces.\n\nRoman Britain transformed the southeastern lowlands into a network of cities, towns, roads, and villas — Londinium (London) grew into the largest city in Britain, with a forum, basilica, amphitheater, and major port. York (Eboracum) was a major legionary fortress from which the emperor Constantine was proclaimed. Roman-British culture blended Roman urban forms with indigenous Celtic traditions. When the Roman legions were progressively withdrawn after 383 AD to fight civil wars on the continent, the province was left to fend for itself — the famous 'Rescript of Honorius' (411 AD) apparently told British cities to defend themselves. The Roman withdrawal left a power vacuum filled by the [[event:2117|Anglo-Saxon settlers]] who would give England its name and language.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Britain",
+    "read_more_links": [
+        {
+            "title": "Roman towns cities Britain",
+            "url": "https://en.wikipedia.org/wiki/Roman_cities_in_Britain"
+        },
+        {
+            "title": "Londinium Roman London",
+            "url": "https://en.wikipedia.org/wiki/Londinium"
+        },
+        {
+            "title": "Roman withdrawal from Britain",
+            "url": "https://en.wikipedia.org/wiki/Roman_Britain#End_of_Roman_rule"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Prima_Europe_tabula.jpg/300px-Prima_Europe_tabula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Prima_Europe_tabula.jpg",
+            "caption": "One of the earliest surviving copies of Ptolemy's 2nd century map of the Brit...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Britain.4th.century.Roman.infrastructure.jpg/300px-Britain.4th.century.Roman.infrastructure.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Britain.4th.century.Roman.infrastructure.jpg",
+            "caption": "Roman Infrastructure in 4th century Britain",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Roman.Britain.towns.villas.jpg/300px-Roman.Britain.towns.villas.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Roman.Britain.towns.villas.jpg",
+            "caption": "Roman Towns and Villas in 4th century Britain",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/British.coinage.Roman.invasion.jpg/300px-British.coinage.Roman.invasion.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/British.coinage.Roman.invasion.jpg",
+            "caption": "British Coin-Minting Tribes (pre Roman)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Claudius",
+            "summary": "Roman emperor from AD 41 to 54",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Claudius_crop.jpg/250px-Claudius_crop.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Claudius"
+        },
+        {
+            "name": "Septimius Severus",
+            "summary": "Roman emperor from 193 to 211",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Septimius_Severus_busto-Musei_Capitolini.jpg/250px-Septimius_Severus_busto-Musei_Capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Septimius_Severus"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Caligula",
+            "summary": "Roman emperor from AD 37 to 41",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Caligula.Carlsberg_Glyptotek.%28cropped%29.jpg/250px-Caligula.Carlsberg_Glyptotek.%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Caligula"
+        },
+        {
+            "name": "Suetonius",
+            "summary": "Roman historian (c. AD 69 – after AD 122)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Suetonius_etching_%28cropped%29.jpg/250px-Suetonius_etching_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suetonius"
+        }
+    ],
+    "territory_geojson": null
+}

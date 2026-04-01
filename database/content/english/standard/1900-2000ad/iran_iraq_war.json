@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2717,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a2678c937cf0a131cab7b049c408270748922fb71ee8af46ce13d7d65c7a9fbd",
+    "summary": "The Iran-Iraq War lasted from September 1980 to August 1988, making it one of the longest conventional military conflicts of the twentieth century. Iraq, under Saddam Hussein, launched an invasion of Iran on 22 September 1980, seeking to exploit the political instability following the [[event:2688|Iranian Revolution]] of 1979 and to seize disputed border territories, particularly the oil-rich Khuzestan province. Saddam Hussein also feared the revolutionary Iranian government's attempts to spread Shia Islam across the region might destabilize Iraq's own population.\n\nThe initial Iraqi advance was repelled, and the conflict settled into a grinding war of attrition with disturbing parallels to the First World War. Both sides used artillery barrages, infantry attacks on fortified lines, and mass mobilization. Iraq's use of chemical weapons — including mustard gas and nerve agents — against Iranian troops and Kurdish civilians marked one of the most extensive uses of chemical warfare since World War I. The Halabja chemical attack of 1988 killed thousands of Kurdish civilians.\n\nApproximately half a million to one million people died in the conflict, including large numbers of civilians. Both economies were severely damaged. The war ended in a UN-brokered ceasefire with essentially no territorial changes from the prewar status quo, a result that left both governments having gained nothing from immense sacrifice.\n\nThe war had lasting consequences for regional geopolitics. Iraq emerged deeply indebted, which contributed to Saddam Hussein's decision to invade Kuwait in 1990, triggering the [[event:2697|Gulf War]]. The conflict also deepened the sectarian and political divisions between Iraq and Iran that have shaped Middle Eastern politics ever since.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+    "read_more_links": [
+        {
+            "title": "Iran-Iraq War - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Iran-Iraq-War"
+        },
+        {
+            "title": "Halabja chemical attack - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Halabja_chemical_attack"
+        },
+        {
+            "title": "Iraq and Weapons of Mass Destruction - National Security Archive",
+            "url": "https://nsarchive.gwu.edu/special/iraq/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Iran_Iraq_War_Start_Attack_on_Tehran_Airport_1980-09-22.jpg/300px-Iran_Iraq_War_Start_Attack_on_Tehran_Airport_1980-09-22.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Iran_Iraq_War_Start_Attack_on_Tehran_Airport_1980-09-22.jpg",
+            "caption": "Iraqi forces attacked many locations including Tehran on Monday September 22,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bild-Prayingmantis5sahand.jpg/300px-Bild-Prayingmantis5sahand.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bild-Prayingmantis5sahand.jpg",
+            "caption": "The Iranian frigate IS Sahand (74) burns after being attacked by aircraft of ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Iran_2007_229_Golestan_War_Heros_%281732762968%29.jpg/300px-Iran_2007_229_Golestan_War_Heros_%281732762968%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Iran_2007_229_Golestan_War_Heros_%281732762968%29.jpg",
+            "caption": "Iran 2007 229 Golestan War Heros",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Iranian_Martyrs_Museum_08.JPG/300px-Iranian_Martyrs_Museum_08.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Iranian_Martyrs_Museum_08.JPG",
+            "caption": "Iranian Martyrs Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ruhollah Khomeini",
+            "summary": "Supreme Leader of Iran from 1979 to 1989",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ruhollah_Khomeini_by_Jamaran_1.jpg/250px-Ruhollah_Khomeini_by_Jamaran_1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini"
+        },
+        {
+            "name": "Ali Khamenei",
+            "summary": "Supreme Leader of Iran from 1989 to 2026",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ali_Khamenei_Nowruz_message_official_portrait_1397_02.jpg/250px-Ali_Khamenei_Nowruz_message_official_portrait_1397_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ali_Khamenei"
+        },
+        {
+            "name": "Mir-Hossein Mousavi",
+            "summary": "Prime Minister of Iran from 1981 to 1989",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zahra_Rahnavard%2C_Mir_Hossein_Mousavi_and_Hamed_Saber_%28cropped%29.jpg/250px-Zahra_Rahnavard%2C_Mir_Hossein_Mousavi_and_Hamed_Saber_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mir-Hossein_Mousavi"
+        },
+        {
+            "name": "Saddam Hussein",
+            "summary": "President of Iraq from 1979 to 2003",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saddam_Hussein_in_1998.png/250px-Saddam_Hussein_in_1998.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saddam_Hussein"
+        },
+        {
+            "name": "Adnan Khayr Allah",
+            "summary": "23rd Iraqi Minister of Defense",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Adnan_Khairallah_portrait.jpg/250px-Adnan_Khairallah_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adnan_Khayr_Allah"
+        },
+        {
+            "name": "Izzat Ibrahim al-Douri",
+            "summary": "6th Vice president of Iraq",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Izzat_Ibrahim_al-Douri_portrait.png/250px-Izzat_Ibrahim_al-Douri_portrait.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Izzat_Ibrahim_al-Douri"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2937,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9edfb4c28613bcea5242521e994bf5ea17c9efc0cb739705b136b97d870188f7",
+    "summary": "Great Moravia (c. 833–907 AD) was the first major Slavic state in Central Europe, centered in the territory of modern Czech Republic, Slovakia, and parts of Hungary, Poland, and Austria. Founded when Mojmir I unified the Moravian and Nitra principalities around 833 AD, the kingdom reached its greatest extent under Rastislav (reigned 846–870) and especially Svatopluk I (reigned 870–894), who expanded Moravian territory significantly and was recognized as a sovereign ruler by Pope John VIII in 880 AD.\n\nGreat Moravia's most enduring historical legacy was cultural and religious. Prince Rastislav, seeking to counterbalance German ecclesiastical influence by establishing a native Slavic church, requested missionaries from Byzantium in 862 AD. Emperor Michael III sent the brothers Constantine (later Cyril) and Methodius, who devised the Glagolitic alphabet — the first writing system designed specifically for a Slavic language — and translated the liturgy into Church Slavonic, the first Slavic literary language. This Cyrillo-Methodian mission, though it ultimately lost out to German-rite Christianity in Moravia itself, had enormous consequences: the Glagolitic and derived Cyrillic alphabets spread to Bulgaria, Serbia, and Russia, where they formed the basis of writing systems still used today. Great Moravia was destroyed around 906–907 AD by Magyar invasions from the east, fragmenting into the component principalities that would eventually become the medieval kingdoms of Bohemia, Poland, and Hungary.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Great_Moravia",
+    "read_more_links": [
+        {
+            "title": "Cyril Methodius Glagolitic alphabet mission",
+            "url": "https://en.wikipedia.org/wiki/Cyril_and_Methodius"
+        },
+        {
+            "title": "Church Slavonic first Slavic literary language",
+            "url": "https://en.wikipedia.org/wiki/Old_Church_Slavonic"
+        },
+        {
+            "title": "Magyar invasion Great Moravia collapse",
+            "url": "https://en.wikipedia.org/wiki/Magyar_invasion_of_Great_Moravia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Core_of_moravia_en.png/300px-Core_of_moravia_en.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Core_of_moravia_en.png",
+            "caption": "The core territories and important forts and towns of the medieval Moravian s...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Atlas_Van_der_Hagen-KW1049B10_052-REGNUM_BOHEMIA%2C_ANNEXAE_PROVINCIAE%2C_UT_DUCATUS_SILESIA%2C_Marchionatus_MORAVIA%2C_et_LUSATIA-_quae_sunt_TERRAE_HAEREDITARIAE_IMPERATORIS.jpeg/300px-Atlas_Van_der_Hagen-KW1049B10_052-REGNUM_BOHEMIA%2C_ANNEXAE_PROVINCIAE%2C_UT_DUCATUS_SILESIA%2C_Marchionatus_MORAVIA%2C_et_LUSATIA-_quae_sunt_TERRAE_HAEREDITARIAE_IMPERATORIS.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Atlas_Van_der_Hagen-KW1049B10_052-REGNUM_BOHEMIA%2C_ANNEXAE_PROVINCIAE%2C_UT_DUCATUS_SILESIA%2C_Marchionatus_MORAVIA%2C_et_LUSATIA-_quae_sunt_TERRAE_HAEREDITARIAE_IMPERATORIS.jpeg",
+            "caption": "Though this map was published by Frederik de Wit (1630-1706) only at the end ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Early_medieval_princely_burial_from_Kol%C3%ADn%2C_850-900_AD%2C_187612.jpg/300px-Early_medieval_princely_burial_from_Kol%C3%ADn%2C_850-900_AD%2C_187612.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Early_medieval_princely_burial_from_Kol%C3%ADn%2C_850-900_AD%2C_187612.jpg",
+            "caption": "Exhibition Among the tribes and the state. Room with the Early medieval princ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kostolec.JPG/300px-Kostolec.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kostolec.JPG",
+            "caption": "foundations of a romanesque rotunda",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mojmir I of Moravia",
+            "summary": "Ruler of Moravia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mojmir_kniieza_Velkomoravske.jpg/250px-Mojmir_kniieza_Velkomoravske.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mojmir_I_of_Moravia"
+        },
+        {
+            "name": "Rastislav of Moravia",
+            "summary": "Duke of Moravia from 846 to 870",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Prince_Rastislav.JPG/250px-Prince_Rastislav.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rastislav_of_Moravia"
+        },
+        {
+            "name": "Svatopluk I of Moravia",
+            "summary": "Ruler of Great Moravia from 870 to 894",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bratislava_Profesionalita_maestra_Kulicha.jpg/250px-Bratislava_Profesionalita_maestra_Kulicha.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Svatopluk_I_of_Moravia"
+        },
+        {
+            "name": "Mojmir II of Moravia",
+            "summary": "Ruler of Great Moravia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mojhmir2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mojmir_II_of_Moravia"
+        },
+    ],
+    "territory_geojson": null
+}

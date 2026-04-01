@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1139,
+    "parent_id": 71,
+    "granularity": "detailed",
+    "content_hash": "sha256:b98867ac5dae65b50abe6038a171df9090ffcc8eb27bceba05e6b0d04e2fd12f",
+    "summary": "The Reforms of Darius the Great (c. 500–486 BC) transformed the Achaemenid Persian Empire from a loosely administered collection of conquered territories into the ancient world's most sophisticated bureaucratic state, establishing systems of taxation, provincial administration, and communication that made governing an empire from India to Egypt possible.\n\nDarius reorganized the empire into twenty satrapies (provinces) with standardized tax assessments, each governed by a satrap (governor) who was typically a Persian nobleman, balanced by a military commander and royal secretary to prevent any single official from accumulating too much power. He introduced a unified gold currency (the daric) and silver shekels to facilitate taxation and trade across the empire's diverse economies. His ambitious construction projects — [[event:1137|Persepolis]] and the [[event:1138|Royal Road of Persia]] — served both as symbols of imperial power and as practical tools of administration. Darius also completed a canal connecting the Nile to the Red Sea, anticipating the Suez Canal by millennia. These administrative innovations allowed Persia to govern sixty million people across five million square kilometers — the largest empire the world had yet seen — and provided the model for subsequent empire-builders from the Seleucids to the Parthians.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Darius_the_Great",
+    "read_more_links": [
+        {
+            "title": "Achaemenid satrapy system",
+            "url": "https://en.wikipedia.org/wiki/Satrapy"
+        },
+        {
+            "title": "Daric coin",
+            "url": "https://en.wikipedia.org/wiki/Daric"
+        },
+        {
+            "title": "Darius canal",
+            "url": "https://en.wikipedia.org/wiki/Canal_of_the_Pharaohs"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_25.jpg/300px-Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_25.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Naghsh-e_rostam%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_25.jpg",
+            "caption": "Naghsh-e rostam, Iran",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/National_Meusem_Darafsh_6_%2842%29.JPG/300px-National_Meusem_Darafsh_6_%2842%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_Meusem_Darafsh_6_%2842%29.JPG",
+            "caption": "National Museum of Iran",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HibisGate3Dareios1AmunRaKamutef.jpg/300px-HibisGate3Dareios1AmunRaKamutef.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/HibisGate3Dareios1AmunRaKamutef.jpg",
+            "caption": "Relief showing Darius the Great offering lettuces the Amun-Ra Kamutef, Temple...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Persepolis_-_Tachara_01.jpg/300px-Persepolis_-_Tachara_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Persepolis_-_Tachara_01.jpg",
+            "caption": "Palace of Darius I (Tachara), Persepolis, Iran",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Xerxes I",
+            "summary": "King of Kings of the Achaemenid Empire from 486 to 465 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_%28785%29.JPG/250px-National_Museum_of_Iran_Darafsh_%28785%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        },
+        {
+            "name": "Atossa",
+            "summary": "Persian Achaemenid empress (550–475 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Achaemenid_prince%27s_head_2.jpg/250px-Achaemenid_prince%27s_head_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Atossa"
+        },
+        {
+            "name": "Gobryas (father of Mardonius)",
+            "summary": "Persian governor of Elam (c. 521 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Struggle_between_Gobryas_and_the_false_Smerdis.jpg/250px-Struggle_between_Gobryas_and_the_false_Smerdis.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gobryas_%28father_of_Mardonius%29"
+        },
+        {
+            "name": "Ariabignes",
+            "summary": "Persian admiral and prince (died 480 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/William_Rainey_-_Death_of_the_Persian_admiral_at_Salamis_%28cropped_to_focus_on_Ariabignes%29.jpg/250px-William_Rainey_-_Death_of_the_Persian_admiral_at_Salamis_%28cropped_to_focus_on_Ariabignes%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ariabignes"
+        },
+        {
+            "name": "Masistes",
+            "summary": "Persian prince (died c. 478 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Persian_empire_490bc_Bactria.gif/250px-Persian_empire_490bc_Bactria.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Masistes"
+        },
+        {
+            "name": "Satrap",
+            "summary": "Ruler of a province in ancient Persia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Achaemenid_Satrap_Asia_Minor_end_of_6th_century_BCE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Satrap"
+        }
+    ],
+    "territory_geojson": null
+}

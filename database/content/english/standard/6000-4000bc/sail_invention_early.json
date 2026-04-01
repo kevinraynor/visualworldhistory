@@ -1,0 +1,63 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1547,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:116a1352e958b4fa46347ba87985861bfccd90f7a2afece7d27b35d7603751a2",
+    "summary": "The invention of the sail — harnessing wind power for watercraft propulsion — fundamentally transformed maritime transport and trade in the ancient world. The earliest evidence for sailing comes from Mesopotamia and Egypt, with clay model boats and rock art images suggesting the use of simple square sails on river and coastal craft by around 5000–4000 BCE. A painted ceramic vessel from Mesopotamia dated to approximately 5000 BCE appears to depict a boat with a sail, and Egyptian rock art from the Predynastic period (c. 3500–3200 BCE) shows similar representations.\n\nThe practical significance of the sail is enormous. Human-paddled or oared boats require continuous muscular effort and are limited in range by the endurance of their crews. A sailed vessel can travel far greater distances with less human energy expenditure, can carry heavier cargo loads, and can exploit favorable winds to achieve speeds impossible with paddling alone. For early civilizations developing along rivers, coastlines, and inland seas, sailing vessels dramatically reduced the cost and increased the volume of goods that could be transported over water, knitting together regional economies and enabling long-distance trade on a scale previously impossible.\n\nIn Egypt, the Nile's prevailing northerly winds and the southward river current created ideal conditions for a simple sailing regime: boats could sail upstream with the wind and drift downstream with the current. This natural complementarity made the Nile one of the world's first great waterborne trade arteries, and sail-equipped boats were central to the economic and administrative integration of early Egyptian civilization. The sail also enabled Egyptian seafarers to venture into the Red Sea and eventually the Mediterranean, accessing the timber, metals, and other resources unavailable in Egypt's immediate hinterland.\n\nIn Mesopotamia, sailing enabled trade across the Persian Gulf with the [[event:33|Indus Valley]] and Arabian peninsula, connecting the urban centers of Sumer to sources of copper, tin, lapis lazuli, and other essential materials. The development of deep-water sailing, capable of crossing open seas rather than merely hugging coastlines, expanded the geographic reach of ancient trade networks enormously. Maritime trade routes eventually connected Mesopotamia, the Indus Valley, Arabia, Egypt, and East Africa into an integrated commercial system.\n\nTogether with the [[event:1545|wheel]] on land, the sail at sea constituted the twin transport revolutions of the fourth millennium BCE that fundamentally reshaped the scale of economic integration and cultural exchange in the ancient world. The ability to move goods cheaply and in bulk over both land and water created the preconditions for the specialized urban economies and long-distance exchange networks that characterized early civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sail#History",
+    "read_more_links": [
+        {
+            "title": "History of sailing - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sailing#History"
+        },
+        {
+            "title": "Sail - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sail"
+        },
+        {
+            "title": "Ancient maritime trade - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/971/ancient-maritime-trade/"
+        },
+        {
+            "title": "Ancient Egyptian boats - Britannica",
+            "url": "https://www.britannica.com/technology/ship/History-of-ships"
+        },
+        {
+            "title": "Mesopotamian seafaring - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Mesopotamia#Trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/DN_ice_boat--Ice_Nine--Lake_Sunapee_NH.jpg/300px-DN_ice_boat--Ice_Nine--Lake_Sunapee_NH.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/DN_ice_boat--Ice_Nine--Lake_Sunapee_NH.jpg",
+            "caption": "DN class iceboat, sailing on Lake Sunapee, New Hampshire in the U.S.A. Shown ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Amante_Choate_48_photo_D_Ramey_Logan.jpg/300px-Amante_Choate_48_photo_D_Ramey_Logan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Amante_Choate_48_photo_D_Ramey_Logan.jpg",
+            "caption": "\"Amante\" 10 A 1983 Peterson designed Choate 48 sailboat photo D Ramey Logan",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sailboat_on_broad_reach_with_spinnaker.jpg/300px-Sailboat_on_broad_reach_with_spinnaker.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Sailboat_on_broad_reach_with_spinnaker.jpg",
+            "caption": "Boats and their spinnaker sails in a regatta in Lorient, France.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Atlas_pittoresque_pl_096.jpg/300px-Atlas_pittoresque_pl_096.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Atlas_pittoresque_pl_096.jpg",
+            "caption": "Pirogue des naturels de l'île Obalahou. Atlas pittoresque, planche 96",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

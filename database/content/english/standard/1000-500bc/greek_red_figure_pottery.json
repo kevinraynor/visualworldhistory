@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1995,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a330e3a7ec12d6caf98037e836bbb81770214f23d1894152156e2e177a8c36d8",
+    "summary": "Greek red-figure pottery (c. 530–300 BC) was the revolutionary ceramic painting technique invented in Athens around 530 BC — a reversal of the black-figure method, leaving figures in the natural red-orange color of the clay while painting the background black. This inversion allowed painters to use a brush rather than an incising tool for detail work, enabling the depiction of foreshortening, musculature, facial expression, and spatial depth in ways impossible with incised lines.\n\nThe 'red-figure revolution' allowed Greek painters to achieve unprecedented naturalism and compositional sophistication. Masters of the technique like Euphronios (whose krater depicting the death of Sarpedon is one of the most admired surviving works), the Berlin Painter, and the Brygos Painter created paintings whose skill approaches the finest Greek sculpture. Red-figure pottery dominated Greek ceramic production for two centuries and was exported across the Mediterranean world. The scenes depicted range from mythology (symposia of the gods, Dionysiac revelries, heroic combat) to daily Athenian life (music lessons, athletic training, erotic scenes from symposia). The technique's ability to render the human figure naturalistically makes red-figure pottery the primary visual record of how ancient Greeks represented themselves and their world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red-figure_pottery",
+    "read_more_links": [
+        {
+            "title": "Euphronios krater masterwork",
+            "url": "https://en.wikipedia.org/wiki/Euphronios_krater"
+        },
+        {
+            "title": "Red-figure technique explained",
+            "url": "https://en.wikipedia.org/wiki/Red-figure_pottery#Technique"
+        },
+        {
+            "title": "Berlin Painter Attic red-figure",
+            "url": "https://en.wikipedia.org/wiki/Berlin_Painter"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Gnathia_Ware%2C_Southern_Italy%2C_310-260_BC%2C_Prague_Kinsky%2C_140912.jpg/300px-Gnathia_Ware%2C_Southern_Italy%2C_310-260_BC%2C_Prague_Kinsky%2C_140912.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gnathia_Ware%2C_Southern_Italy%2C_310-260_BC%2C_Prague_Kinsky%2C_140912.jpg",
+            "caption": "Gnathia Ware. Southern Italy, 310 to 260 BC. Prague, NM-H10 2141.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Athena_Poseidon_Louvre_CA7426.jpg/300px-Athena_Poseidon_Louvre_CA7426.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Athena_Poseidon_Louvre_CA7426.jpg",
+            "caption": "Athena and Poseidon. Side A from a Faliscan red-figure volute-krater.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Palaestra_scene_Louvre_G7.jpg/300px-Palaestra_scene_Louvre_G7.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Palaestra_scene_Louvre_G7.jpg",
+            "caption": "Palaestra scene. Tondo from an Attic red-figure plate, 520–510 BC. From Vulci.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Libation_Macron_Louvre_G149.jpg/300px-Libation_Macron_Louvre_G149.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Libation_Macron_Louvre_G149.jpg",
+            "caption": "Libation Macron Louvre G149",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Triptolemos Painter",
+            "summary": "Ancient Greek vase painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sexual_act_at_tondo_of_attic_red-figure_kylix_by_the_Triptolemos_Painter.jpg/250px-Sexual_act_at_tondo_of_attic_red-figure_kylix_by_the_Triptolemos_Painter.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Triptolemos_Painter"
+        },
+        {
+            "name": "Exekias",
+            "summary": "Ancient Athenian vase painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dionysos_Oinopion_BM_B210.jpg/250px-Dionysos_Oinopion_BM_B210.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Exekias"
+        },
+        {
+            "name": "Psiax",
+            "summary": "Late 6th-century BC Attic vase painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Dionysos_kantharos_BM_B589.jpg/250px-Dionysos_kantharos_BM_B589.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Psiax"
+        },
+        {
+            "name": "Euphronios",
+            "summary": "Greek vase painter and potter (c. 535 – after 470 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%CE%92%CE%AC%CF%83%CE%B7_%CE%B1%CE%BD%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82_%CF%84%CE%BF%CF%85_%CE%BA%CE%B5%CF%81%CE%B1%CE%BC%CE%AD%CE%B1_%CE%95%CF%85%CF%86%CF%81%CE%BF%CE%BD%CE%AF%CE%BF%CF%85_%CF%83%CF%84%CE%BF_%CE%95%CF%80%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C_%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF_%CF%83%CF%84%CE%B9%CF%82_6_%CE%9F%CE%BA%CF%84%CF%89%CE%B2%CF%81%CE%AF%CE%BF%CF%85_2021.jpg/250px-%CE%92%CE%AC%CF%83%CE%B7_%CE%B1%CE%BD%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%BF%CF%82_%CF%84%CE%BF%CF%85_%CE%BA%CE%B5%CF%81%CE%B1%CE%BC%CE%AD%CE%B1_%CE%95%CF%85%CF%86%CF%81%CE%BF%CE%BD%CE%AF%CE%BF%CF%85_%CF%83%CF%84%CE%BF_%CE%95%CF%80%CE%B9%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CF%8C_%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF_%CF%83%CF%84%CE%B9%CF%82_6_%CE%9F%CE%BA%CF%84%CF%89%CE%B2%CF%81%CE%AF%CE%BF%CF%85_2021.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Euphronios"
+        },
+        {
+            "name": "Pioneer Group",
+            "summary": "5th-century BCE red-figure vase painters",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Euphronios_krater_side_B_MET_L.2006.10.jpg/250px-Euphronios_krater_side_B_MET_L.2006.10.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pioneer_Group"
+        },
+        {
+            "name": "Euthymides",
+            "summary": "Late 6th century BCE Athenian potter and painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Phintias_ARV_23_7_two_hetairai_at_symposion_-_music_lesson_%2812%29.jpg/250px-Phintias_ARV_23_7_two_hetairai_at_symposion_-_music_lesson_%2812%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Euthymides"
+        }
+    ],
+    "territory_geojson": null
+}

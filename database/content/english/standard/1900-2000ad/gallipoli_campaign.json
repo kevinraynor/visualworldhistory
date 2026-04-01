@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2643,
+    "parent_id": 110,
+    "granularity": "notable",
+    "content_hash": "sha256:36eef40833f76310f1c4fd41ef12db166c11c46fe7c65b19a74624f9714f2aad",
+    "summary": "The Gallipoli Campaign of 1915–1916 was a disastrous Allied attempt to knock the Ottoman Empire out of [[event:110|World War I]] by seizing the Dardanelles strait and capturing Constantinople. Championed largely by First Lord of the Admiralty Winston Churchill, the strategy aimed to open a supply route to Russia and threaten the Central Powers from a new direction, breaking the stalemate on the Western Front. The naval attempt to force the strait in March 1915 failed when Allied ships struck minefields and were turned back by Ottoman shore defenses.\n\nThe subsequent land campaign began on 25 April 1915, when Allied forces — including British, French, Australian, and New Zealand Army Corps (ANZAC) troops — landed on the Gallipoli Peninsula. They faced well-prepared Ottoman defenses commanded by German general Liman von Sanders and featuring inspired resistance from Ottoman commanders including Mustafa Kemal, who would later found modern Turkey as [[event:2755|Atatürk]]. The landings succeeded in establishing beachheads but failed to break through the high ground above the beaches, leading to another grinding trench stalemate in terrain even more difficult than the Western Front.\n\nThe campaign became a byword for strategic miscalculation and tactical failure. Attempts to break out — at Krithia, Chunuk Bair, and Suvla Bay — all failed with heavy casualties. Disease, heat, and the psychological strain of combat in confined beachheads added to the toll. By the time the Allies completed their evacuation in January 1916, the campaign had cost approximately 250,000 Allied and 250,000 Ottoman casualties. Churchill resigned from the Cabinet in its aftermath.\n\nFor Australia and New Zealand, Gallipoli became a foundational national myth. ANZAC soldiers' courage, endurance, and sacrifice forged a sense of national identity independent of Britain. 25 April — ANZAC Day — remains the most solemn commemorative occasion in both countries. The campaign also confirmed Mustafa Kemal's reputation, contributing to his eventual leadership of the [[event:2754|Turkish War of Independence]] and the founding of the Turkish Republic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gallipoli_campaign",
+    "read_more_links": [
+        {
+            "title": "Gallipoli – Britannica",
+            "url": "https://www.britannica.com/event/Gallipoli-Campaign"
+        },
+        {
+            "title": "ANZAC Day – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anzac_Day"
+        },
+        {
+            "title": "Ottoman Empire in World War I – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ottoman_Empire_in_World_War_I"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/ANZAC_Mudros_harbourl_1915_SLNSW_FL685794.jpg/300px-ANZAC_Mudros_harbourl_1915_SLNSW_FL685794.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/ANZAC_Mudros_harbourl_1915_SLNSW_FL685794.jpg",
+            "caption": "Sunset at Port Moudros, Greece, 20 April 1915, by HC Marshall, Australian 1st...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gallipoli_Battlefield_%2815399670914%29.jpg/300px-Gallipoli_Battlefield_%2815399670914%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gallipoli_Battlefield_%2815399670914%29.jpg",
+            "caption": "Mehmetçiğe Saygı Anıtı, Çanakkale.Gallipoli Battlefield",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Indian_Soldiers_Herschel_1915_SLNSW_FL1538530.jpg/300px-Indian_Soldiers_Herschel_1915_SLNSW_FL1538530.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Indian_Soldiers_Herschel_1915_SLNSW_FL1538530.jpg",
+            "caption": "Indian Soldiers Herschel 1915 SLNSW FL1538530",
+            "attribution": "Wikimedia Commons"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Landing_of_Australian_troops_at_ANZAC_Cove%2C_25_April_1915_slnsw.jpg/300px-Landing_of_Australian_troops_at_ANZAC_Cove%2C_25_April_1915_slnsw.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Landing_of_Australian_troops_at_ANZAC_Cove%2C_25_April_1915_slnsw.jpg",
+            "caption": "The landing of Australian troops (4th Battalion) at ANZAC Cove, Gallipoli, Tu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ian Hamilton (British Army officer)",
+            "summary": "British Army general (1853–1947)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sir_Ian_Hamilton_%28cropped%29.jpg/250px-Sir_Ian_Hamilton_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ian_Hamilton_%28British_Army_officer%29"
+        },
+        {
+            "name": "John de Robeck",
+            "summary": "Royal Navy Admiral (1862–1928)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/DeRobeck.jpg/250px-DeRobeck.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_de_Robeck"
+        },
+        {
+            "name": "Henri Gouraud",
+            "summary": "French general (1867–1946)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Proprieted%27AlbertKahn-Boulogne-FranceLeGeneralHenriGouraud_A19033.jpg/250px-Proprieted%27AlbertKahn-Boulogne-FranceLeGeneralHenriGouraud_A19033.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Gouraud"
+        },
+        {
+            "name": "Maurice Bailloud",
+            "summary": "French general (1847–1921)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Maurice_Bailloud_%281847-1921%29.jpg/250px-Maurice_Bailloud_%281847-1921%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_Bailloud"
+        },
+        {
+            "name": "Émile Guépratte",
+            "summary": "French admiral (1856–1939)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C3%89mile_Gu%C3%A9pratte_1925.jpg/250px-%C3%89mile_Gu%C3%A9pratte_1925.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89mile_Gu%C3%A9pratte"
+        },
+        {
+            "name": "Enver Pasha",
+            "summary": "Turkish general and politician (1881–1922)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Enver_Pasha_1911.jpg/250px-Enver_Pasha_1911.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Enver_Pasha"
+        }
+    ],
+    "territory_geojson": null
+}

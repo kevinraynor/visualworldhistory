@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2722,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:918d30bd01cc47896f9bbe3246a56f2b244242fe85232b1bea7854092ffc0828",
+    "summary": "The handover of Hong Kong took place on 1 July 1997, when Britain transferred sovereignty over Hong Kong to the People's Republic of China, ending 156 years of British colonial administration. The handover was the result of the Sino-British Joint Declaration signed in 1984, in which Britain agreed to return Hong Kong when the lease on the New Territories — which constituted most of the colony's land area — expired. Under the principle of 'one country, two systems,' Hong Kong was designated a Special Administrative Region with a high degree of autonomy, its own legal system based on common law, and guaranteed civil liberties for fifty years.\n\nThe handover ceremony was watched by a global television audience and symbolized the end of the British imperial era in Asia. For China, it represented the recovery of territory lost during the period of national humiliation associated with the Opium Wars and the unequal treaties of the nineteenth century. Hundreds of thousands of Hong Kong residents had emigrated before the handover, uncertain about the territory's future under Chinese rule.\n\nHong Kong's status under Chinese sovereignty became increasingly contentious in subsequent decades. Protests in 2003, 2014, and most significantly 2019 to 2020 reflected deep popular concern about the erosion of the autonomy promised under the Joint Declaration. The imposition of a National Security Law in 2020 fundamentally altered the political landscape, provoking widespread international criticism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Handover_of_Hong_Kong",
+    "read_more_links": [
+        {
+            "title": "Hong Kong handover - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/handover-of-Hong-Kong"
+        },
+        {
+            "title": "Sino-British Joint Declaration - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sino-British_Joint_Declaration"
+        },
+        {
+            "title": "One Country Two Systems - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/One_country,_two_systems"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/EC1835_C_cut.jpg/300px-EC1835_C_cut.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/EC1835_C_cut.jpg",
+            "caption": "Robotron Personalcomputer EC 1835 Prototype (1990), recorded in \"Industriemus...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hkhistory.jpg/300px-Hkhistory.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hkhistory.jpg",
+            "caption": "Hkhistory",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jiang Zemin",
+            "summary": "Leader of China from 1989 to 2002",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jiang_Zemin_2002.jpg/250px-Jiang_Zemin_2002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jiang_Zemin"
+        },
+        {
+            "name": "Li Peng",
+            "summary": "Premier of China from 1987 to 1998",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Chinese_Premier_Li_Peng_1996.jpg/250px-Chinese_Premier_Li_Peng_1996.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Li_Peng"
+        },
+        {
+            "name": "Tung Chee-hwa",
+            "summary": "Politician and businessman from Hong Kong",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tung_Chee_Hwa_%28Feb_2011%29.jpg/250px-Tung_Chee_Hwa_%28Feb_2011%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tung_Chee-hwa"
+        },
+        {
+            "name": "Chris Patten",
+            "summary": "British politician (born 1944)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Official_portrait_of_Lord_Patten_of_Barnes_crop_2.jpg/250px-Official_portrait_of_Lord_Patten_of_Barnes_crop_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chris_Patten"
+        },
+        {
+            "name": "Charles III",
+            "summary": "King of the United Kingdom since 2022",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/250px-King_Charles_III_%28July_2023%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_III"
+        },
+        {
+            "name": "General Secretary of the Chinese Communist Party",
+            "summary": "Leader of the Chinese Communist Party",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_the_Chinese_Communist_Party.svg/250px-Flag_of_the_Chinese_Communist_Party.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/General_Secretary_of_the_Chinese_Communist_Party"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1187,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:32a713c725ccc16c95ddcf4ec97651459c9e7e380745aebd45e2d394f27f04e5",
+    "summary": "The Adena Culture (c. 500–100 BC) was a pre-Columbian Native American culture of the upper Ohio Valley known for building burial mounds, maintaining trade networks, and producing distinctive artifacts — including the famous Adena Pipe featuring a human figure — representing an early phase of the mound-building tradition that would reach its height in the subsequent [[event:1186|Hopewell Culture]].\n\nNamed after the estate in Ohio where their artifacts were first identified, the Adena people lived in small communities practicing a mixed economy of hunting, gathering, and horticulture. Their most visible legacy is their burial mounds — earthen tumuli ranging from small family mounds to large ceremonial structures — which contained elaborately prepared burials with grave goods indicating belief in an afterlife and social differentiation. The Great Serpent Mound of Ohio (though its precise dating is debated) represents the most spectacular Adena or possibly related earthwork — an effigy mound in the shape of an uncoiling serpent over 400 meters long. Adena trade networks brought copper from the Great Lakes region and marine shells from the Atlantic and Gulf coasts. The Adena tradition gradually merged into or was replaced by the Hopewell tradition around 100 BC, though the mound-building practices continued.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adena_culture",
+    "read_more_links": [
+        {
+            "title": "Great Serpent Mound",
+            "url": "https://en.wikipedia.org/wiki/Serpent_Mound"
+        },
+        {
+            "title": "Ohio Valley prehistory",
+            "url": "https://en.wikipedia.org/wiki/Ohio_Hopewell_culture"
+        },
+        {
+            "title": "Eastern Woodlands cultures",
+            "url": "https://en.wikipedia.org/wiki/Eastern_Woodlands"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/MoundElevation.jpg/300px-MoundElevation.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/MoundElevation.jpg",
+            "caption": "Miamisburg Mound, the largest conical mound in Ohio.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Enon_Mound_in_June.jpg/300px-Enon_Mound_in_June.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Enon_Mound_in_June.jpg",
+            "caption": "Western side of the Enon Mound, located inside of Mound Circle in Enon, Ohio,...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Grave_Creek_Mound.jpg/300px-Grave_Creek_Mound.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Grave_Creek_Mound.jpg",
+            "caption": "Grave Creek Mound in Moundsville, West Virginia",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Criel_Mound.jpg/300px-Criel_Mound.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Criel_Mound.jpg",
+            "caption": "The Criel Mound in South Charleston, West Virginia, USA.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thomas Worthington (governor)",
+            "summary": "Governor of Ohio (1773–1827)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Thomas_Worthington_at_statehouse.jpg/250px-Thomas_Worthington_at_statehouse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Worthington_%28governor%29"
+        },
+        {
+            "name": "Earthworks (archaeology)",
+            "summary": "General term to describe artificial changes in land level in history and pre-history",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/De_Offa_Dyke.JPG/250px-De_Offa_Dyke.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Earthworks_%28archaeology%29"
+        },
+        {
+            "name": "Greenup County, Kentucky",
+            "summary": "County in Kentucky, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Greenup_County%2C_Kentucky_courthouse.jpg/250px-Greenup_County%2C_Kentucky_courthouse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Greenup_County%2C_Kentucky"
+        },
+        {
+            "name": "Fayette County, Kentucky",
+            "summary": "County in Kentucky, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Robert_F._Stephens_Courthouse%2C_Fayette_County_Kentucky.jpg/250px-Robert_F._Stephens_Courthouse%2C_Fayette_County_Kentucky.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fayette_County%2C_Kentucky"
+        }
+    ],
+    "territory_geojson": null
+}

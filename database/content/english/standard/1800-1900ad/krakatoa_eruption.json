@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3774,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:0d0a8f21e31ce8fe2cb426ffc120e768de2ed8f93b786e280298b10e7df2c8a5",
+    "summary": "The eruption of Krakatoa on 26–27 August 1883 was one of the most violent volcanic events in recorded history, generating tsunamis that killed over 36,000 people across the Dutch East Indies (Indonesia), producing an explosion heard nearly 5,000 kilometers away, and ejecting enough ash and sulfur dioxide into the atmosphere to measurably lower global temperatures and create spectacular sunsets worldwide for several years. It was the first major natural disaster to unfold in the age of the telegraph, making it simultaneously a local catastrophe and a global media event.\n\nThe eruption began with increasing activity in May 1883 and culminated in a cataclysmic explosion on the morning of 27 August, when the island largely destroyed itself in a series of four massive blasts. The largest explosion, at approximately 10:02 AM local time, was caused by seawater rushing into the magma chamber — a phreatomagmatic explosion of extraordinary violence. The resulting tsunamis, some over 30 meters high, devastated coastal towns and villages across the Sunda Strait, sweeping away Merak, Anjer, and dozens of other settlements on the coasts of Java and Sumatra.\n\nKrakatoa's global impacts were scientifically documented in unprecedented detail because of the international telegraph network that allowed news and data to travel rapidly. The Royal Society of London published a comprehensive scientific report in 1888 drawing on observations from around the world. Sulfur dioxide in the stratosphere formed aerosols that scattered sunlight, reducing global temperatures by approximately 1.2°C in 1884 and producing vivid crimson and orange sunsets that were recorded by artists worldwide — some scholars have suggested that Edward Munch's 'The Scream' (1893) depicts the after-glow skies seen over Norway in the wake of the eruption. A new volcanic island, Anak Krakatau ('Child of Krakatoa'), emerged from the caldera in 1927 and remains active.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+    "read_more_links": [
+        {
+            "title": "Krakatoa – Britannica",
+            "url": "https://www.britannica.com/place/Krakatoa"
+        },
+        {
+            "title": "Anak Krakatau – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anak_Krakatau"
+        },
+        {
+            "title": "Volcanic Winter – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Volcanic_winter"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Krakatoa_eruption_lithograph.jpg/300px-Krakatoa_eruption_lithograph.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Krakatoa_eruption_lithograph.jpg",
+            "caption": "An 1888 lithograph of the 1883 eruption of Krakatoa.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rhyodacite_pumice_%28late_August_1883_eruption_of_Krakatoa_Volcano%2C_Indonesia%3B_collected_at_Takwa_Beach%2C_coastal_Kenya%2C_eastern_Africa%29_1.jpg/300px-Rhyodacite_pumice_%28late_August_1883_eruption_of_Krakatoa_Volcano%2C_Indonesia%3B_collected_at_Takwa_Beach%2C_coastal_Kenya%2C_eastern_Africa%29_1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Rhyodacite_pumice_%28late_August_1883_eruption_of_Krakatoa_Volcano%2C_Indonesia%3B_collected_at_Takwa_Beach%2C_coastal_Kenya%2C_eastern_Africa%29_1.jpg",
+            "caption": "Rhyodacite pumice from the late Holocene of Indonesia.  (8.6 cm across at its...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Houghton_71-1250_-_Krakatoa%2C_twilight_and_afterglow.jpg/300px-Houghton_71-1250_-_Krakatoa%2C_twilight_and_afterglow.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Houghton_71-1250_-_Krakatoa%2C_twilight_and_afterglow.jpg",
+            "caption": "Illustration: The eruption of Krakatoa, and subsequent phenomena, 1888. Edite...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/De_uitbarsting_van_de_Krakatau%2C_KITLV_5888.tiff/300px-De_uitbarsting_van_de_Krakatau%2C_KITLV_5888.tiff",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/De_uitbarsting_van_de_Krakatau%2C_KITLV_5888.tiff",
+            "caption": "Title: De uitbarsting van de KrakatauShelfmark: KITLV 5888Subject (topical): ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

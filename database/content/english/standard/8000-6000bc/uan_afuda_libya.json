@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1452,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:78c7a54b32f08d1190b3f69479cca67296b06e4d6ecd7392c70784f3336bbe51",
+    "summary": "Uan Afuda is a cave site in the Acacus Mountains of southwestern Libya, part of the broader Fezzan region of the central Sahara, with occupation evidence dating to approximately 8000 to 6000 BCE during the wetter conditions of the [[event:17|Saharan Green Period]]. The site, excavated by Italian archaeologists, provides important evidence for the human occupation of the central Sahara during this humid interval and contributes to understanding of the Saharan pastoral and hunter-gatherer traditions of the early Holocene.\n\nThe Acacus Mountains region, now one of the most arid and inhospitable parts of the world, was during this period a landscape of seasonal streams, grasslands, and scattered trees that supported a diverse fauna including cattle, aurochs, barbary sheep, and a range of smaller mammals. Communities at Uan Afuda exploited these resources through a combination of hunting and possibly early herding, and their presence is attested both by excavated material culture and by the remarkable rock art found throughout the Acacus Mountains region — paintings and engravings depicting wild animals, cattle, and human figures in vivid Saharan scenes.\n\nThe Uan Afuda evidence contributes to the picture of the Saharan Green Period as a time of widespread human habitation and cultural activity across what is now desert, and demonstrates the sensitivity of human settlement patterns to climate change in this region. The disappearance of human communities from the Acacus following the Saharan desiccation after 5000 BCE illustrates dramatically how climate-driven environmental change can depopulate entire regions.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Acacus_Mountains",
+    "read_more_links": [
+        {
+            "title": "Saharan Rock Art - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Saharan_rock_art"
+        },
+        {
+            "title": "African Humid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/African_humid_period"
+        },
+        {
+            "title": "Prehistoric Libya - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_Libya"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Akakus-Gebirge_-_Bizarre_Felsformationen.jpg/300px-Akakus-Gebirge_-_Bizarre_Felsformationen.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Akakus-Gebirge_-_Bizarre_Felsformationen.jpg",
+            "caption": "Akakus-Gebirge-Bizarre Felsformationen",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tadrart01.JPG/300px-Tadrart01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tadrart01.JPG",
+            "caption": "The Moul n'ga Cirque in the Tadrart region, Southeast Algeria, with wave clou...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Akakus_fozzigiaren.jpg/300px-Akakus_fozzigiaren.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Akakus_fozzigiaren.jpg",
+            "caption": "Arche de Fozzigiaren - Dans le désert Libyen d'Akakus. (région du Sahara situ...",
+            "attribution": "Wikimedia Commons, FAL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Akakus_tete_rocheuse.jpg/300px-Akakus_tete_rocheuse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Akakus_tete_rocheuse.jpg",
+            "caption": "Head rock - Rock with a human form in the desert of Akakus in Libya",
+            "attribution": "Wikimedia Commons, FAL"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Rock art",
+            "summary": "Human-made markings on natural stone",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petroglyph_jqjacobs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rock_art"
+        },
+        {
+            "name": "Muammar Gaddafi",
+            "summary": "Leader of Libya from 1969 to 2011",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg/250px-Moamer_el_Gadafi_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+        },
+        {
+            "name": "Sledgehammer",
+            "summary": "Heavy striking tool",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sledgehammers-1.jpg/250px-Sledgehammers-1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sledgehammer"
+        }
+    ],
+    "territory_geojson": null
+}

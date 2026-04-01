@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1090,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:fd45209031423c84d75c248707e3336ed75b7aeb4a7ac9677af6793d8053787d",
+    "summary": "The Jugurthine War (112–106 BC) was a conflict between Rome and the Numidian king Jugurtha over control of the North African kingdom of Numidia (modern Algeria). Though militarily relatively minor, it was politically significant for exposing corruption in the Roman Senate and launching the career of Gaius Marius, whose [[event:1069|Marian Reforms]] transformed the Roman army.\n\nJugurtha, an illegitimate nephew of the Numidian king Masinissa's successor, seized power by murdering his co-rulers — including a Roman citizen — while reportedly bribing Roman senators to gain their acquiescence. The historian Sallust's account of the war, Bellum Jugurthinum, portrays the Roman nobility's corruption in vivid terms: Jugurtha supposedly said Rome was 'a city for sale' when he visited. The war dragged on embarrassingly until the talented general Gaius Marius was elected consul partly on a populist anti-aristocratic platform and sent to end it. Marius's subordinate Lucius Cornelius Sulla (later [[event:1071|Sulla's Dictatorship]]) captured Jugurtha through a diplomatic stratagem. Jugurtha was paraded in Marius's triumph and strangled. The war established the pattern of a populist general challenging senatorial governance that would define the late Republic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jugurthine_War",
+    "read_more_links": [
+        {
+            "title": "Jugurtha",
+            "url": "https://en.wikipedia.org/wiki/Jugurtha"
+        },
+        {
+            "title": "Gaius Marius",
+            "url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "title": "Sallust – Bellum Jugurthinum",
+            "url": "https://en.wikipedia.org/wiki/The_Jugurthine_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Carte_de_la_R%C3%A9gence_d%27Alger_en_1650_%28Alg%C3%A9rie%29_et_du_Royaume_de_F%C3%A8s.jpg/300px-Carte_de_la_R%C3%A9gence_d%27Alger_en_1650_%28Alg%C3%A9rie%29_et_du_Royaume_de_F%C3%A8s.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carte_de_la_R%C3%A9gence_d%27Alger_en_1650_%28Alg%C3%A9rie%29_et_du_Royaume_de_F%C3%A8s.jpg",
+            "caption": "Map of the Regency of Algiers in 1650 (Algeria) and the Kingdom of Fez",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Jugurtha_captured.jpg/300px-Jugurtha_captured.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Jugurtha_captured.jpg",
+            "caption": "Jugurta es entregado prisionero a Mario por Sila. Grabado en talla dulce (rec...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sulla_Coin2.jpg/300px-Sulla_Coin2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sulla_Coin2.jpg",
+            "caption": "[Roman Moneyer Issues] Faustus Cornelius Sulla. 56 BC. AR Denarius (3.80 g, 5...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sallust",
+            "summary": "Roman historian and politician (86–35 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Salluste_%28cropped%29.jpg/250px-Salluste_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sallust"
+        },
+        {
+            "name": "Gaius Marius",
+            "summary": "Roman general and statesman (c. 157–86 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png/250px-RRC_326.1_Gaius_Fundanius_depicting_Gaius_Marius_triumphator.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        },
+        {
+            "name": "Sulla",
+            "summary": "Roman general and dictator (138–78 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg/250px-Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sulla"
+        },
+        {
+            "name": "Bocchus I",
+            "summary": "King of Mauretania",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Possible_coin_of_Bocchus_I.jpg/250px-Possible_coin_of_Bocchus_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bocchus_I"
+        },
+        {
+            "name": "Jugurtha",
+            "summary": "2nd-century BC King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Coin_of_Jugurtha.png/250px-Coin_of_Jugurtha.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jugurtha"
+        },
+        {
+            "name": "Micipsa",
+            "summary": "King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tridrachme%2C_Argent%2C_Numidie%2C_Micipsa2.png/250px-Tridrachme%2C_Argent%2C_Numidie%2C_Micipsa2.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Micipsa"
+        }
+    ],
+    "territory_geojson": null
+}

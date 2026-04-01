@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2380,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:75e8a662cb98da4169a8c902225d1cd51df3f9b588ee7a0b6201a06a206ca31e",
+    "summary": "The First Battle of Panipat (April 21, 1526 AD) was the decisive engagement at which [[event:2512|Babur]], the Timurid prince from Fergana (modern Uzbekistan), defeated the Delhi Sultan Ibrahim Lodi and established the [[event:103|Mughal Empire]], transforming the political map of northern India in a single day. Babur's force of approximately 12,000–15,000 was massively outnumbered by Ibrahim Lodi's army estimated at 100,000 with war elephants — but Babur possessed two decisive advantages: Ottoman-trained artillery (under Ustad Ali Quli and Mustafa Rumi) deployed in an innovative wagon-fort (tulughma) formation, and matchlock firearms, both technologies that the Delhi Sultanate lacked. His flanking cavalry tactics combined with artillery fire created a devastating envelopment.\n\nIbrahim Lodi was killed on the battlefield, effectively ending the Lodi dynasty. Babur marched to Delhi and Agra, seizing the treasury (including the Koh-i-Noor diamond, according to tradition) and establishing Mughal control of the Gangetic plain. The battle's significance extended beyond the immediate political change: it introduced artillery and firearms to Indian battlefield tactics at scale, beginning the gunpowder revolution in South Asian warfare. Babur himself, in his extraordinary autobiography the Baburnama — one of the great personal memoirs in world literature — described the campaign with remarkable candor and literary skill. Panipat itself became the recurring site of decisive battles for control of northern India: the [[event:2448|Third Battle of Panipat]] in 1761 would end Maratha dominance at the same field 235 years later.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+    "read_more_links": [
+        {
+            "title": "Babur Timurid Mughal founder Baburnama memoir",
+            "url": "https://en.wikipedia.org/wiki/Babur"
+        },
+        {
+            "title": "Battle Panipat 1526 artillery firearms India",
+            "url": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat#Tactics_and_weapons"
+        },
+        {
+            "title": "Ibrahim Lodi Delhi Sultanate defeat Mughal",
+            "url": "https://en.wikipedia.org/wiki/Ibrahim_Lodi"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/South_Asia_non_political%2C_with_rivers.jpg/300px-South_Asia_non_political%2C_with_rivers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/South_Asia_non_political%2C_with_rivers.jpg",
+            "caption": "South Asia non political, with rivers",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vaki%27at-i_Baburi_-_The_Battle_of_Panipat_%281526%29_by_Deo_Gujarati.jpg/300px-Vaki%27at-i_Baburi_-_The_Battle_of_Panipat_%281526%29_by_Deo_Gujarati.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vaki%27at-i_Baburi_-_The_Battle_of_Panipat_%281526%29_by_Deo_Gujarati.jpg",
+            "caption": "The battle of Panipat between the armies of Babur and Ibrahim Lodi (1526). An...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm%2C_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg/300px-The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm%2C_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm%2C_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg",
+            "caption": "Illustrations from the Manuscript of Baburnama (Memoirs of Babur) - Late 16th...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Babur",
+            "summary": "Mughal emperor from 1526 to 1530",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg/250px-Humayun_and_Babur_%28Late_Shah_Jahan_Album%29_Babur_detail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Babur"
+        },
+        {
+            "name": "Ibrahim Khan Lodi",
+            "summary": "Sultan of Delhi from 1517 to 1526",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ibrahim_Lodi_at_the_Battle_of_Panipat_%281526%29.jpg/250px-Ibrahim_Lodi_at_the_Battle_of_Panipat_%281526%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ibrahim_Khan_Lodi"
+        },
+        {
+            "name": "Muhammad Shaybani",
+            "summary": "Uzbek leader and warrior (1451–1510)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Muhammad_Shaybani.jpg/250px-Muhammad_Shaybani.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Shaybani"
+        },
+        {
+            "name": "Daulat Khan Lodi",
+            "summary": "Lodi governor of Lahore from 1500 to 1524",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Daulat_Khan_Lodhi_Searching_for_Baba_Nanak_in_the_River_Bein.jpg/250px-Daulat_Khan_Lodhi_Searching_for_Baba_Nanak_in_the_River_Bein.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daulat_Khan_Lodi"
+        },
+        {
+            "name": "Jadunath Sarkar",
+            "summary": "Indian historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jadunath_Sarkar_1927.jpg/250px-Jadunath_Sarkar_1927.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jadunath_Sarkar"
+        },
+        {
+            "name": "Rana Sanga",
+            "summary": "Maharana of Mewar from 1509 to 1528",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Photo_of_Rana_Sanga_from_Udaipur_Museum_%28From_my_Camera%29.jpg/250px-Photo_of_Rana_Sanga_from_Udaipur_Museum_%28From_my_Camera%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rana_Sanga"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3372,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:eb9f3f3ff699d6106195679ced6aafc06333d5d90f95a05bc90f9cb791aa8ff1",
+    "summary": "The Bhopal disaster occurred on the night of December 2–3, 1984, when approximately 40 tons of methyl isocyanate and other toxic gases leaked from a Union Carbide pesticide plant in Bhopal, India. The gas cloud spread over densely populated neighborhoods while residents slept, killing thousands within hours and exposing hundreds of thousands to toxic gases. Initial death tolls were estimated at 2,000–3,000; subsequent estimates of total deaths attributable to the disaster range from 15,000 to 25,000, making it the deadliest industrial accident in history.\n\nThe causes included plant safety failures, reduced maintenance staffing, deactivated safety systems, and management decisions that prioritized cost reduction over safety. The plant's proximity to a vast low-income urban population meant the consequences of any major release would be catastrophic. Victims who survived suffered permanent lung damage, blindness, and other lasting injuries, and the contamination of soil and groundwater around the plant site continued to affect local communities for decades afterward.\n\nUnion Carbide's legal response — arguing reduced liability for its Indian subsidiary and offering settlements widely considered inadequate — generated lasting controversy about the accountability of multinational corporations for disasters in developing countries. The Bhopal disaster became a defining case in industrial safety regulation, environmental justice, and corporate accountability, accelerating the development of the right-to-know movement and international standards for the management of hazardous industrial facilities.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+    "read_more_links": [
+        {
+            "title": "Bhopal Disaster - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Bhopal-disaster"
+        },
+        {
+            "title": "Union Carbide - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Union_Carbide"
+        },
+        {
+            "title": "Bhopal Medical Appeal",
+            "url": "https://www.bhopal.org/what-happened/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Dow_Chemical_banner%2C_Bhopal.jpg/300px-Dow_Chemical_banner%2C_Bhopal.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dow_Chemical_banner%2C_Bhopal.jpg",
+            "caption": "Dow Chemical banner, Bhopal, India.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bhopal_Plant_7.JPG/300px-Bhopal_Plant_7.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Bhopal_Plant_7.JPG",
+            "caption": "Tank 610 on the deserted site of Bhopal disaster.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ruth_Waterman_Memorial_Statue_of_the_Bhopal_disaster_in_1985.jpg/300px-Ruth_Waterman_Memorial_Statue_of_the_Bhopal_disaster_in_1985.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Ruth_Waterman_Memorial_Statue_of_the_Bhopal_disaster_in_1985.jpg",
+            "caption": "Ruth Waterman Memorial Statue of the Bhopal disaster",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Union_Carbide_pesticide_factory%2C_Bhopal%2C_India%2C_1985.jpg/300px-Union_Carbide_pesticide_factory%2C_Bhopal%2C_India%2C_1985.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Union_Carbide_pesticide_factory%2C_Bhopal%2C_India%2C_1985.jpg",
+            "caption": "Exterior view of the Union Carbide pesticide factory in Bhopal, India, scene ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "House arrest",
+            "summary": "Confinement of a person to their residence by law enforcement authorities",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tsarevich_Alexei_and_Grand_Duchess_Tatiana_in_the_Park_at_Tsarskoye_Selo_in_1917.jpg/250px-Tsarevich_Alexei_and_Grand_Duchess_Tatiana_in_the_Park_at_Tsarskoye_Selo_in_1917.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/House_arrest"
+        },
+        {
+            "name": "Pablo Bartholomew",
+            "summary": "Indian photographer (born 1955)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pablo_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pablo_Bartholomew"
+        },
+        {
+            "name": "Raghu Rai",
+            "summary": "Documentary photographer (born 1942)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Raghu_Rai_pix_by_Vikramjit_Kakati.jpg/250px-Raghu_Rai_pix_by_Vikramjit_Kakati.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Raghu_Rai"
+        }
+    ],
+    "territory_geojson": null
+}

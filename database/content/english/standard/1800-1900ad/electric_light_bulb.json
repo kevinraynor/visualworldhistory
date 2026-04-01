@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2557,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a9d9ba324a158555e7f6efe347c880a8a7b72befc8853d63b7f24d667d4509d8",
+    "summary": "The development of a practical incandescent electric light bulb by Thomas Edison in 1879 — and its rapid commercialization in the early 1880s — was a pivotal moment in technological history that transformed the relationship between human activity and time, enabling productive work, social life, and entertainment to extend reliably into the night for the first time on a mass scale.\n\nEdison was not the only inventor working on incandescent lighting — Joseph Swan in Britain developed a similar device contemporaneously and the two eventually merged their British interests — but Edison's achievement went significantly beyond inventing a bulb. He conceptualized and built an integrated electrical system: a central generating station (the Pearl Street Station in lower Manhattan, opened in 1882), distribution wiring, metering, and a variety of electrical appliances all designed to work together. This systems-engineering approach was Edison's distinctive contribution and set the template for electrical utilities.\n\nThe commercial rollout of electric lighting transformed urban life. Gas lighting, which had illuminated city streets and wealthy homes since the early nineteenth century, was gradually displaced. Factories could operate safely after dark. Department stores and entertainment venues extended their hours. The social and economic consequences were enormous: nighttime became a productive, commercial, and social space in a way it had never been before.\n\nEdison's direct-current (DC) electrical system was soon challenged by the alternating-current (AC) system promoted by George Westinghouse and developed by Nikola Tesla, which proved more efficient for long-distance power transmission. The 'War of Currents' between the two systems in the late 1880s and early 1890s was won by AC for power distribution, though DC continued to be used in various applications. The resulting electrical grid that spread across the industrialized world in the late nineteenth and early twentieth centuries was the infrastructure of the [[event:2583|Second Industrial Revolution]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Incandescent_light_bulb",
+    "read_more_links": [
+        {
+            "title": "Thomas Edison – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+        },
+        {
+            "title": "History of Electric Power – Britannica",
+            "url": "https://www.britannica.com/technology/history-of-technology/The-Industrial-Revolution"
+        },
+        {
+            "title": "Pearl Street Station – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pearl_Street_Station"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Thomas_edison_gl%C3%BChbirne_Getty_450854582.jpg/300px-Thomas_edison_gl%C3%BChbirne_Getty_450854582.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Thomas_edison_gl%C3%BChbirne_Getty_450854582.jpg",
+            "caption": "Thomas Edison (1847–1931)  with his invented white light bulbs from 1883.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Squirrel_Cage_filament_lamp.jpg/300px-Squirrel_Cage_filament_lamp.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Squirrel_Cage_filament_lamp.jpg",
+            "caption": "An early lamp with a tantalum filament. The zig-zag shape is referred to as a...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2200K_Spectrum.jpg/300px-2200K_Spectrum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/2200K_Spectrum.jpg",
+            "caption": "Emission spectrum of a 2200K blackbody radiator.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gloedelampe_fatninger.jpg/300px-Gloedelampe_fatninger.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gloedelampe_fatninger.jpg",
+            "caption": "Glødepærer med med forskellige fatninger: E10, E14 og E27. De to sidstnævnte ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vincenzo Balzani",
+            "summary": "Italian chemist (born 1936)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vincenzo_Balzani_chemist.jpg/250px-Vincenzo_Balzani_chemist.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vincenzo_Balzani"
+        },
+        {
+            "name": "Joseph Swan",
+            "summary": "British physicist and inventor (1828–1914)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Joseph_Wilson_Swan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Swan"
+        },
+        {
+            "name": "Thomas Edison",
+            "summary": "American inventor and businessman (1847–1931)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/250px-Thomas_Edison2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Edison"
+        },
+        {
+            "name": "Humphry Davy",
+            "summary": "British chemist and inventor (1778–1829)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sir_Humphry_Davy%2C_Bt_by_Thomas_Phillips.jpg/250px-Sir_Humphry_Davy%2C_Bt_by_Thomas_Phillips.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Humphry_Davy"
+        },
+        {
+            "name": "James Bowman Lindsay",
+            "summary": "Scottish Inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Lindsay_James_Bowman.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Bowman_Lindsay"
+        },
+        {
+            "name": "Marcellin Jobard",
+            "summary": "Belgian lithographer, photographer and inventor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Portrait_JBAM_Jobard.jpg/250px-Portrait_JBAM_Jobard.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcellin_Jobard"
+        }
+    ],
+    "territory_geojson": null
+}

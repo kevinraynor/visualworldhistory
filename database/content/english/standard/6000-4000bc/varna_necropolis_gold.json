@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1559,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:cdde28ee155183bbc0d7b897bdff4e97a3144acbcda88c206819c11685d7b5dc",
+    "summary": "The Varna Necropolis, located near the city of Varna on the Black Sea coast of present-day Bulgaria, is one of the most significant prehistoric archaeological discoveries of the twentieth century. Excavated from 1972 onward after its accidental discovery during construction, the cemetery dates to approximately 4600–4200 BCE and contains over 310 graves associated with the Varna culture, a regional expression of the broader Chalcolithic tradition of southeastern Europe. It has yielded the world's oldest known gold artifacts in significant quantities — over 3,000 gold objects weighing more than six kilograms in total.\n\nThe distribution of gold and other prestige goods across the cemetery is highly unequal, providing some of the clearest evidence for pronounced social stratification in prehistoric Europe. A small number of graves — particularly those identified as belonging to adult males — contained extraordinary concentrations of wealth: gold diadems, armbands, breastplates, scepters, and gold-sheathed weapons. One grave, known as Grave 43, contained over 1,500 gold objects including a solid gold phallus and a remarkable array of other gold ornaments, alongside copper weapons, flint blades, and pottery. By contrast, many graves in the same cemetery contained no metal objects at all.\n\nThe presence of so-called cenotaphs — graves containing grave goods but no human remains — is another striking feature of the Varna cemetery. These symbolic burials, which may represent individuals who died away from home, contained gold masks and full assemblages of prestige goods as if prepared for the real deceased. This practice suggests a sophisticated mortuary ideology in which the symbolic representation of the person was as important as the physical body.\n\nThe gold objects from Varna demonstrate that [[event:1558|early gold working]] had reached a high level of technical refinement. Craftspeople produced thin gold sheet, drew gold wire, and created elaborate multi-component ornaments. The sources of gold for the Varna community have not been definitively identified but were likely local river deposits in the Bulgarian mountains. The [[event:1567|copper mines and metalworking]] of the region were equally advanced, and the Varna culture represents a broader florescence of Chalcolithic sophistication in southeastern Europe.\n\nVarna demonstrates that complex social hierarchy, hereditary wealth, and ideologically elaborate funerary practices developed in prehistoric Europe independently and at a very early date, challenging earlier assumptions that social complexity in Europe was derivative of Near Eastern influences. The cemetery remains one of the most important windows into Chalcolithic social life and is a UNESCO heritage of significance recognized worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Varna_Necropolis",
+    "read_more_links": [
+        {
+            "title": "Varna culture gold - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/793/the-varna-culture-and-the-varna-necropolis/"
+        },
+        {
+            "title": "Chalcolithic Bulgaria - Britannica",
+            "url": "https://www.britannica.com/place/Bulgaria/Prehistory"
+        },
+        {
+            "title": "Prehistoric gold artifacts - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_gold_artifacts"
+        },
+        {
+            "title": "European Copper Age - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic#Europe"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Or_de_Varna_-_Bijoux.jpg/300px-Or_de_Varna_-_Bijoux.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Or_de_Varna_-_Bijoux.jpg",
+            "caption": "Bijoux exposés au musée archéologique de Varna (Bulgarie) et qui sont les plu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Or_de_Varna_-_N%C3%A9cropole.jpg/300px-Or_de_Varna_-_N%C3%A9cropole.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Or_de_Varna_-_N%C3%A9cropole.jpg",
+            "caption": "A tomb from the Varna necropolis (Bulgaria), circa 4600 BC, with the world's ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Grave_offerings.jpg/300px-Grave_offerings.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Grave_offerings.jpg",
+            "caption": "Varna necropolis, grave offerings on exhibit at the Varna Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Human-sized_clay_head_found_at_Varna_necropolis.png/300px-Human-sized_clay_head_found_at_Varna_necropolis.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Human-sized_clay_head_found_at_Varna_necropolis.png",
+            "caption": "Clay anthropomorphic head, Late Chalcolithic period, 4500-4000 BCE, Hamangia ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1455,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:89afae2302880ae8154927615ddda0e9b7240aed00fad5ed414daa4f35cece3b",
+    "summary": "The prehistoric communities of Thailand and mainland Southeast Asia during the period from approximately 7000 to 6000 BCE inhabited a lush tropical and subtropical landscape rich in plant and animal resources. While specific cultural designations for this era in the Thai prehistoric sequence are still being refined by archaeologists, the broad cultural tradition sometimes associated with early Hoabinhian and related complexes reflects communities that were skilled foragers exploiting forest, riverine, and coastal resources with sophisticated tool kits.\n\nMainland Southeast Asia during this period was characterized by dense tropical forests, extensive river systems, and a coastline modified by post-glacial sea-level rise that was still reshaping the geography of the region. Communities throughout this area lived by hunting, fishing, gathering wild plant foods, and exploiting shellfish from rivers and coasts. The warm, biologically diverse tropical environment provided abundant resources for hunter-gatherer communities and may have reduced the pressure to adopt agriculture compared to the more seasonally variable environments of the Near East or northern China.\n\nThe later development of wet-rice agriculture and bronze metallurgy in mainland Southeast Asia, evidenced at sites such as [[event:1454|Ban Chiang]], built on a foundation established by these earlier hunter-gatherer and early horticultural communities. The deep familiarity with tropical plants that these communities developed through generations of gathering and management likely contributed to the early exploitation and eventual cultivation of rice and other Southeast Asian crops.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prehistoric_Thailand",
+    "read_more_links": [
+        {
+            "title": "Hoabinhian Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hoabinhian"
+        },
+        {
+            "title": "Southeast Asian Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_Southeast_Asia"
+        },
+        {
+            "title": "History of Southeast Asia - Britannica",
+            "url": "https://www.britannica.com/topic/Southeast-Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carte_des_Royaumes_de_Siam%2C_Tunquin%2C_Pegu_%28Kingdoms_Map%29_1770_Bellin_Schley.jpg/300px-Carte_des_Royaumes_de_Siam%2C_Tunquin%2C_Pegu_%28Kingdoms_Map%29_1770_Bellin_Schley.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Carte_des_Royaumes_de_Siam%2C_Tunquin%2C_Pegu_%28Kingdoms_Map%29_1770_Bellin_Schley.jpg",
+            "caption": "Full color edition by Jakob van der Schley of Jacques Nicolas Bellin's map of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ban_Chaing._Prehistory.jpg/300px-Ban_Chaing._Prehistory.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ban_Chaing._Prehistory.jpg",
+            "caption": "This is a photo at Ban Chiang a prehistory tourist attraction known by many t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Museum_f%C3%BCr_Indische_Kunst_Dahlem_Berlin_Mai_2006_056.jpg/300px-Museum_f%C3%BCr_Indische_Kunst_Dahlem_Berlin_Mai_2006_056.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Museum_f%C3%BCr_Indische_Kunst_Dahlem_Berlin_Mai_2006_056.jpg",
+            "caption": "Bowl with base. Lopburi 2300 BCE. Thailand, Bang Chiang culture. 210-200 BCE....",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/River_Khwae_View_-_Sai_Yok_National_Park.jpg/300px-River_Khwae_View_-_Sai_Yok_National_Park.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/River_Khwae_View_-_Sai_Yok_National_Park.jpg",
+            "caption": "River Khwae View in Sai Yok National Park, Kanchanaburi, Thailand",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

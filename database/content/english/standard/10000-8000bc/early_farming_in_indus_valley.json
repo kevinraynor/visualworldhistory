@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 12,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a80ac3352fbe5a20e6f2d8faaa59cebe1ae9c07c2a6397d74c31ac4c217733db",
+    "summary": "The earliest farming communities in the Indus Valley region emerged around 9000 to 7000 BCE in the northwestern portion of the Indian subcontinent, a period that predates the later Indus Valley Civilization by several millennia. Evidence from key sites points to an independent or semi-independent development of agriculture in this zone, with communities experimenting with the cultivation of barley, wheat, and legumes while also domesticating cattle, sheep, and goats. The foothills of the Balochistan highlands and adjacent plains provided an environment conducive to these early experiments in food production.\n\nThe site of [[event:13|Mehrgarh]] in modern-day Pakistan stands as the most extensively excavated and well-documented example of this early farming transition in South Asia. It demonstrates a continuous sequence from aceramic Neolithic herding and cultivation through later phases involving elaborate craft production and long-distance exchange. However, Mehrgarh was not an isolated development; other small settlements throughout the greater Indus region participated in the gradual adoption of a food-producing economy during this same broad period.\n\nThis agricultural transition in the Indus Valley is significant not only for South Asian prehistory but also for global comparative studies of the Neolithic. The region's farmers cultivated crops and herded animals at roughly the same broad period as communities in the Levant and Mesopotamia, though whether this represents independent invention, stimulus diffusion from the west, or a combination of both remains debated among archaeologists. The subsistence innovations of this era ultimately laid the demographic and economic foundations upon which the mature urban Indus Valley Civilization would arise several thousand years later.\n\nAnimal husbandry appears to have been particularly central to early Indus Valley farming communities. Cattle played an especially important cultural and economic role, with evidence of ritual practices involving bovines appearing at early sites. This emphasis on cattle would persist as a defining feature of South Asian societies through subsequent millennia, suggesting deep cultural roots extending back to these formative Neolithic communities.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#Prehistory",
+    "read_more_links": [
+        {
+            "title": "Mehrgarh - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mehrgarh"
+        },
+        {
+            "title": "Neolithic South Asia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_South_Asia"
+        },
+        {
+            "title": "Agriculture in South Asia - Britannica",
+            "url": "https://www.britannica.com/topic/South-Asia"
+        },
+        {
+            "title": "History of Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Constitution_Page1_Rammanohar.jpg/300px-Constitution_Page1_Rammanohar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Constitution_Page1_Rammanohar.jpg",
+            "caption": "Humped/zebu taurus/bull motif of Indus Valley Civilization painted on page 1 ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Poids_cubiques_harapp%C3%A9ens_-_BM.jpg/300px-Poids_cubiques_harapp%C3%A9ens_-_BM.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Poids_cubiques_harapp%C3%A9ens_-_BM.jpg",
+            "caption": "Cubical weights made of chert, standardised throughout the Indus cultural zon...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Harappan_carnelian_and_terracotta_beads_-_Mohenjo-daro.jpg/300px-Harappan_carnelian_and_terracotta_beads_-_Mohenjo-daro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Harappan_carnelian_and_terracotta_beads_-_Mohenjo-daro.jpg",
+            "caption": "Two cornelian beads and four terracotta beads, from Mohenjo-daro (Pakistan), ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Harappan_%28Indus_Valley%29_Balance_%26_Weights.jpg/300px-Harappan_%28Indus_Valley%29_Balance_%26_Weights.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Harappan_%28Indus_Valley%29_Balance_%26_Weights.jpg",
+            "caption": "Harappan (Indus Valley) Balance & Weights. Harappan (Indus Valley) Civilizati...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jammu and Kashmir (state)",
+            "summary": "State administered by India (1952–2019)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Jammu_and_Kashmir_%281952-2019%29.svg/250px-Flag_of_Jammu_and_Kashmir_%281952-2019%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir_%28state%29"
+        },
+        {
+            "name": "Ruins",
+            "summary": "Remains of human-made architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg/250px-Gymnasion_und_Therme_aus_S%C3%BCdwest.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ruins"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

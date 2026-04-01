@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1031,
+    "parent_id": 75,
+    "granularity": "detailed",
+    "content_hash": "sha256:8f633dae66a086881904594e63c62b493732ef9f3ec4f90229ae6a158937e554",
+    "summary": "The Battle of Granicus (334 BC) was the first major engagement of [[event:75|Alexander the Great's Empire]]'s campaign against the Persian Achaemenid Empire, fought at the Granicus River in northwestern Anatolia. Alexander crossed into Asia with roughly 40,000 troops and immediately faced the Persian provincial forces drawn up on the far bank of the river.\n\nAlexander's generals urged caution — the crossing was difficult and the Persian cavalry held a strong defensive position on the far bank. Alexander reportedly dismissed these objections and led the Companion cavalry across the river directly against the Persian line, personally engaging in hand-to-hand combat and nearly being killed when a Persian nobleman struck him from behind with an axe, saved by the intervention of his bodyguard Cleitus the Black. The Persian cavalry was routed, and the Greek mercenary infantry, who had constituted the most professional Persian force, were surrounded and largely massacred — Alexander refused to grant them quarter for fighting against Greeks in Persian service. The victory opened Anatolia to Alexander's advance and demonstrated his aggressive personal style of leadership that would define the entire campaign.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_the_Granicus",
+    "read_more_links": [
+        {
+            "title": "Alexander the Great",
+            "url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "title": "Anatolia in the Classical Period",
+            "url": "https://en.wikipedia.org/wiki/Anatolia"
+        },
+        {
+            "title": "Achaemenid Empire",
+            "url": "https://en.wikipedia.org/wiki/Achaemenid_Empire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/West_Asia_non_political_with_water_system.jpg/300px-West_Asia_non_political_with_water_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/West_Asia_non_political_with_water_system.jpg",
+            "caption": "West Asia non political with water system",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cornelis_Troost_001.jpg/300px-Cornelis_Troost_001.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cornelis_Troost_001.jpg",
+            "caption": "Cornelis Troost 001",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charles_Le_Brun%2C_Le_Passage_du_Granique%2C_1665.png/300px-Charles_Le_Brun%2C_Le_Passage_du_Granique%2C_1665.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Charles_Le_Brun%2C_Le_Passage_du_Granique%2C_1665.png",
+            "caption": "Les Grecs franchissent le Granique qui leur fermait l'entrée de l'Asie, malgr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Battle_granicus.png/300px-Battle_granicus.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Battle_granicus.png",
+            "caption": "Battle of the Granicus",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Charles Le Brun",
+            "summary": "French painter and art theorist (1619–1690)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nicolas_de_Largilli%C3%A8re_-_Portrait_of_Charles_Le_Brun_-_WGA12471.jpg/250px-Nicolas_de_Largilli%C3%A8re_-_Portrait_of_Charles_Le_Brun_-_WGA12471.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Le_Brun"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Philotas",
+            "summary": "Macedonian general (365 BC – 330 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Philotas_and_other_conspirators_condemned_and_stoned_to_death_%281696%29.jpg/250px-Philotas_and_other_conspirators_condemned_and_stoned_to_death_%281696%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philotas"
+        },
+        {
+            "name": "Perdiccas",
+            "summary": "Macedonian general and regent (355–320 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Philip_III_Arrhidaios_Babylon_mint_struck_under_Perdikkas_circa_323_320_BC.jpg/250px-Philip_III_Arrhidaios_Babylon_mint_struck_under_Perdikkas_circa_323_320_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perdiccas"
+        },
+        {
+            "name": "Craterus",
+            "summary": "General of Alexander the Great (c.370–321 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg/250px-The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Craterus"
+        },
+        {
+            "name": "Calas (general)",
+            "summary": "4th-century BC Macedonian general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hellespontine_Phrygia.jpg/250px-Hellespontine_Phrygia.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Calas_%28general%29"
+        }
+    ],
+    "territory_geojson": null
+}

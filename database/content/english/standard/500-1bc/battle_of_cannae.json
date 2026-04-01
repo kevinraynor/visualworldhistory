@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1056,
+    "parent_id": 1054,
+    "granularity": "notable",
+    "content_hash": "sha256:17faffcd8b5dace560d3c5fd2f3e24433c2725ebf20e644a478c97efd9ac8001",
+    "summary": "The Battle of Cannae (216 BC) was Hannibal's tactical masterpiece and Rome's worst military disaster, in which a Carthaginian army of roughly 50,000 men completely encircled and annihilated a Roman army of approximately 70,000 — the largest Roman force ever assembled to that point — in a single day. The battle has been analyzed and studied more than almost any other in military history, and Hannibal's double envelopment became the template for encirclement tactics that military commanders still aspire to replicate.\n\nHannibal deliberately offered his weakened Gallic and Spanish infantry in the center as bait, drawing the Roman legions into a pushing match while his stronger African veterans on the flanks remained stationary. As the Roman center pushed the Carthaginian center back in a bulging arc, the African infantry pivoted inward on both sides, encircling the Roman mass. The Numidian and Spanish cavalry defeated the Roman cavalry on the wings and completed the encirclement from the rear. Trapped in a shrinking mass with no room to use their weapons, the Romans were systematically killed over several hours — roughly 50,000–70,000 Roman and allied dead, including two consuls and a large proportion of the Roman senatorial class.\n\nThe aftermath was extraordinary for what it did not produce: Rome did not seek peace. The Senate famously refused to ransom captives, calling them unworthy of Rome's honor for not dying in battle. Fresh armies were raised; the strategy of avoiding Hannibal in open battle was resumed under the [[event:1054|Second Punic War]]'s slow-but-steady approach. Cannae remains the paradigmatic example of military encirclement, studied at West Point, Sandhurst, and military academies worldwide.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Cannae",
+    "read_more_links": [
+        {
+            "title": "Hannibal",
+            "url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "title": "Tactical encirclement",
+            "url": "https://en.wikipedia.org/wiki/Pincer_movement"
+        },
+        {
+            "title": "Roman military",
+            "url": "https://en.wikipedia.org/wiki/Roman_army_of_the_mid-Republic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hannibal_Slodtz_Louvre_MR2093.jpg/300px-Hannibal_Slodtz_Louvre_MR2093.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hannibal_Slodtz_Louvre_MR2093.jpg",
+            "caption": "Hannibal Barca counting the rings of the Roman knights killed at the Battle o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Shield_of_Henry_II_of_France.jpg/300px-Shield_of_Henry_II_of_France.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Shield_of_Henry_II_of_France.jpg",
+            "caption": "Shield of Henry II of France.  Steel, embossed and damascened with silver and...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae_%28Yale_University_Art_Gallery_scan%29.jpg/300px-The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae_%28Yale_University_Art_Gallery_scan%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae_%28Yale_University_Art_Gallery_scan%29.jpg",
+            "caption": "The Death of Paulus Aemilius at the Battle of CannaePhoto credit: Yale Univer...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hannibal_Slodtz_Louvre_MR2093.png/300px-Hannibal_Slodtz_Louvre_MR2093.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hannibal_Slodtz_Louvre_MR2093.png",
+            "caption": "Hannibal Barca counting the rings of the Roman knights killed at the Battle o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Trumbull",
+            "summary": "American artist (1756–1843)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Self_Portrait_by_John_Trumbull_circa_1802.jpeg/250px-Self_Portrait_by_John_Trumbull_circa_1802.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Trumbull"
+        },
+        {
+            "name": "Lucius Aemilius Paullus (consul 219 BC)",
+            "summary": "Roman general and senator (died 216 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae_%28Yale_University_Art_Gallery_scan%29.jpg/250px-The_Death_of_Paulus_Aemilius_at_the_Battle_of_Cannae_%28Yale_University_Art_Gallery_scan%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lucius_Aemilius_Paullus_%28consul_219_BC%29"
+        },
+        {
+            "name": "Hannibal",
+            "summary": "Carthaginian general and statesman (247–183/181 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/250px-Hannibal_Barca_bust_from_Capua_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Polybius",
+            "summary": "Ancient Greek historian and politician of the 2nd century BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Stele_des_Polybios.jpg/250px-Stele_des_Polybios.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Polybius"
+        },
+        {
+            "name": "Heavy infantry",
+            "summary": "Heavily armed and armoured soldiers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Greek_Phalanx.jpg/250px-Greek_Phalanx.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heavy_infantry"
+        }
+    ],
+    "territory_geojson": null
+}

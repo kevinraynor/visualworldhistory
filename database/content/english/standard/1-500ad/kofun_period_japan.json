@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2090,
+    "parent_id": 2089,
+    "granularity": "detailed",
+    "content_hash": "sha256:1093b6bdaf411bf834d5db4431f91ee1ad1c175c6df6478352ab639c680bf15f",
+    "summary": "The Kofun Period (c. 250–538 AD) is named for the enormous keyhole-shaped burial mounds (kofun) that the emerging Japanese elite constructed for their rulers — mounds so large that Japan's 5th-century Emperor Nintoku's tomb (the Daisen Kofun) covers a larger ground footprint than any other burial monument in the world, though the Great Pyramid of Giza surpasses it in total volume. Over 160,000 kofun of varying sizes dot the Japanese landscape, reflecting a society in which burial rituals were a primary mechanism for displaying and legitimizing political authority.\n\nThe kofun were filled with grave goods reflecting elite status: iron tools and weapons, bronze mirrors (imported from or modeled on Chinese mirrors and used as ritual prestige objects), comma-shaped jade ornaments (magatama), and haniwa — distinctive unglazed terracotta figures placed around the mound exterior, depicting warriors, animals, houses, and ceremonial objects, providing an invaluable visual record of early Japanese material culture. The period saw the increasing influence of immigrants from the Korean kingdoms, who brought metalworking, horse culture, Chinese writing, and eventually Buddhist texts and traditions. The Kofun period ended with the Asuka period, when Buddhism became the state religion and Chinese-style governance transformed Japan's political organization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kofun_period",
+    "read_more_links": [
+        {
+            "title": "Daisen Kofun Emperor Nintoku",
+            "url": "https://en.wikipedia.org/wiki/Daisen_Kofun"
+        },
+        {
+            "title": "Haniwa terracotta figures",
+            "url": "https://en.wikipedia.org/wiki/Haniwa"
+        },
+        {
+            "title": "Korean influence on Kofun Japan",
+            "url": "https://en.wikipedia.org/wiki/Kofun_period#Continental_influence"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tanko_Armor_Kofun_period_5th_century_iron_plates_sewn_with_leather_strings_Tokyo_National_Museum_-_DSC06388.jpg/300px-Tanko_Armor_Kofun_period_5th_century_iron_plates_sewn_with_leather_strings_Tokyo_National_Museum_-_DSC06388.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tanko_Armor_Kofun_period_5th_century_iron_plates_sewn_with_leather_strings_Tokyo_National_Museum_-_DSC06388.jpg",
+            "caption": "Tanko Armor, Kofun period 5th century. Iron plates are sewn with leather stri...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Iron_Tanko_Armor%2C_Kofun_period%2C_5th_century%2C_from_Tsukando_Tumulus%2C_Yoshii-machi%2C_Ukiha-shi%2C_Fukuoka%2C_sewn_with_leather_strings_-_Tokyo_National_Museum_-_DSC06395.JPG/300px-Iron_Tanko_Armor%2C_Kofun_period%2C_5th_century%2C_from_Tsukando_Tumulus%2C_Yoshii-machi%2C_Ukiha-shi%2C_Fukuoka%2C_sewn_with_leather_strings_-_Tokyo_National_Museum_-_DSC06395.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Iron_Tanko_Armor%2C_Kofun_period%2C_5th_century%2C_from_Tsukando_Tumulus%2C_Yoshii-machi%2C_Ukiha-shi%2C_Fukuoka%2C_sewn_with_leather_strings_-_Tokyo_National_Museum_-_DSC06395.JPG",
+            "caption": "Exhibit in the Tokyo National Museum, Tokyo, Japan. This artwork is old enoug...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%E5%B2%A9%E6%88%B8%E5%B1%B1%E5%8F%A4%E5%A2%B3%E5%87%BA%E5%9C%9F_%E7%9F%B3%E4%BA%BA_%28J-831%29.JPG/300px-%E5%B2%A9%E6%88%B8%E5%B1%B1%E5%8F%A4%E5%A2%B3%E5%87%BA%E5%9C%9F_%E7%9F%B3%E4%BA%BA_%28J-831%29.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/%E5%B2%A9%E6%88%B8%E5%B1%B1%E5%8F%A4%E5%A2%B3%E5%87%BA%E5%9C%9F_%E7%9F%B3%E4%BA%BA_%28J-831%29.JPG",
+            "caption": "東京国立博物館展示。Saigen Jiroが撮影。",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Asuka_Museum_Keik%C3%B4.jpg/300px-Asuka_Museum_Keik%C3%B4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Asuka_Museum_Keik%C3%B4.jpg",
+            "caption": "A restored Kofun period (300 to 538 AD) lamellar armor from the Osaka Prefect...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Emperor Nintoku",
+            "summary": "Legendary emperor of Japan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nintoku-tenn%C5%8D_detail.jpg/250px-Nintoku-tenn%C5%8D_detail.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Nintoku"
+        },
+        {
+            "name": "Emperor Keitai",
+            "summary": "Emperor of Japan from 507 to 531",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Statue_of_Emperor_Keitai.jpg/250px-Statue_of_Emperor_Keitai.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Keitai"
+        },
+        {
+            "name": "Yamato Takeru",
+            "summary": "Japanese prince of the imperial house",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yamato_Takeru_by_Takahashi_Yuichi_%28Geidai_Museum%29.jpg/250px-Yamato_Takeru_by_Takahashi_Yuichi_%28Geidai_Museum%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yamato_Takeru"
+        }
+    ],
+    "territory_geojson": null
+}

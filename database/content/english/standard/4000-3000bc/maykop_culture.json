@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1654,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c5b49ad869212ca7513ba8e2ac1f9318b0d171676c3c68bd2f3ea90e04cf0c90",
+    "summary": "The Maykop culture, named after the city of Maykop in the northwestern Caucasus region of modern Russia where its defining burial mound was excavated in 1897, flourished between approximately 3700 and 3000 BCE in the northern Caucasus piedmont and steppe fringe. This culture represents one of the most advanced metalworking traditions of the fourth millennium BCE and played a significant role in transmitting metallurgical technology and possibly other innovations from the Near East into the Eurasian steppe zone where the [[event:1652|Yamnaya culture]] was developing.\n\nThe Maykop kurgan (burial mound) excavated in 1897 contained an extraordinary assemblage of grave goods including gold and silver vessels, elaborate jewelry of gold and semiprecious stones, copper tools and weapons, and a canopy of copper poles decorated with gold and silver figurines of bulls — indicating a wealthy and socially stratified society with access to high-quality metal resources. The objects show stylistic connections to contemporary Near Eastern art, suggesting either direct contact with Mesopotamia or shared participation in a broader zone of cultural exchange.\n\nThe Maykop culture is significant as a likely intermediary through which copper and bronze metallurgy and possibly wheeled vehicle technology spread from the Near Eastern and Anatolian metallurgical centers into the Pontic steppe, where they were adopted and elaborated by the Yamnaya and related groups. The geographic position of the Maykop culture — between the Caucasus mountains and the open steppe — made it a natural bridge between the two zones, and the high quality of Maykop metalwork suggests a society that had mastered sophisticated smelting and alloying techniques drawn from an advanced metallurgical tradition.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maykop_culture",
+    "read_more_links": [
+        {
+            "title": "Caucasus Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistory_of_the_Caucasus"
+        },
+        {
+            "title": "Yamnaya Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yamnaya_culture"
+        },
+        {
+            "title": "Ancient Metallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_metallurgy_in_South_Asia"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Distribution_of_archaeological_cultures_in_Europe_and_Caucasus_before_and_after_3000_BCE.png/300px-Distribution_of_archaeological_cultures_in_Europe_and_Caucasus_before_and_after_3000_BCE.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Distribution_of_archaeological_cultures_in_Europe_and_Caucasus_before_and_after_3000_BCE.png",
+            "caption": "Distribution of archaeological cultures in Europe and Caucasus before and aft...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Maykop_admixture.png/300px-Maykop_admixture.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Maykop_admixture.png",
+            "caption": "Maykop admixture",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Indo-European_migrations.gif/300px-Indo-European_migrations.gif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Indo-European_migrations.gif",
+            "caption": "Animated map of Indo-European migrations. Sources:\nJ.P. Mallory (1999) \"In Se...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Maikop_Plate.png/300px-Maikop_Plate.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Maikop_Plate.png",
+            "caption": "Майкопская плита",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hermitage Museum",
+            "summary": "Museum in Saint Petersburg, Russia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/5174-3._St._Petersburg._Greater_Hermitage.jpg/250px-5174-3._St._Petersburg._Greater_Hermitage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hermitage_Museum"
+        }
+    ],
+    "territory_geojson": null
+}

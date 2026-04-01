@@ -1,0 +1,78 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1494,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f28de9c5a5ed5b28d66bf0a10598700350806947e377773c882f24c18e94edc3",
+    "summary": "Evidence for the proto-domestication of cotton (Gossypium spp.) in the northwestern Indian subcontinent, particularly in the region of modern Pakistan and northwest India, dates to around 7000–6000 BCE. This early phase predates true cultivation; people were likely harvesting wild or semi-wild cotton plants for their fiber, beginning the long process of selection that would eventually produce domesticated varieties with longer, finer fibers.\n\nCotton fiber use in this period coincides with early evidence for spinning and weaving technologies in the same region. By the time the [[event:13|Mehrgarh settlement]] was fully established, fiber processing was part of the material culture. Full agricultural cultivation of cotton would emerge in later millennia, but these proto-domestication steps laid the groundwork for one of the world's most economically significant crops.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cotton#History",
+    "read_more_links": [
+        {
+            "title": "Cotton – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cotton"
+        },
+        {
+            "title": "Mehrgarh – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mehrgarh"
+        },
+        {
+            "title": "History of Textiles – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_clothing_and_textiles"
+        },
+        {
+            "title": "Domestication of Plants – Britannica",
+            "url": "https://www.britannica.com/science/plant-domestication"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/A_Cotton_Farm_%28South-West_Punjab%29.jpg/300px-A_Cotton_Farm_%28South-West_Punjab%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/A_Cotton_Farm_%28South-West_Punjab%29.jpg",
+            "caption": "A Cotton Farm (South-West Punjab, India)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cotton_field%2C_Floyd_County%2C_GA%2C_US.jpg/300px-Cotton_field%2C_Floyd_County%2C_GA%2C_US.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cotton_field%2C_Floyd_County%2C_GA%2C_US.jpg",
+            "caption": "Cotton field, Floyd County, Grorgia, US",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cotton_field%2C_late_in_season.jpg/300px-Cotton_field%2C_late_in_season.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cotton_field%2C_late_in_season.jpg",
+            "caption": "A cotton field, late in the season, after the plant has turned brown",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cotton_plant%2C_Ware_County%2C_GA%2C_US.jpg/300px-Cotton_plant%2C_Ware_County%2C_GA%2C_US.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Cotton_plant%2C_Ware_County%2C_GA%2C_US.jpg",
+            "caption": "Cotton plant, Ware County, Georgia, US",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Marco Polo",
+            "summary": "Venetian merchant, explorer, and writer (1254–1324)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Marco_Polo_-_costume_tartare.jpg/250px-Marco_Polo_-_costume_tartare.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marco_Polo"
+        },
+        {
+            "name": "Ferdowsi",
+            "summary": "Persian poet (940–1025)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg/250px-Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdowsi"
+        },
+        {
+            "name": "Herodotus",
+            "summary": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/250px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herodotus"
+        }
+    ],
+    "territory_geojson": null
+}

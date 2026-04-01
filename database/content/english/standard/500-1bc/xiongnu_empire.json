@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1133,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:90c9d3b77a6095ddd973130d4eeb731eff38a5555ab1159daef186af380b7d5f",
+    "summary": "The Xiongnu Empire (c. 209–128 BC at peak) was a powerful confederation of nomadic peoples on the Mongolian steppe, the first great steppe empire, whose military pressure prompted China's construction of the [[event:1121|Great Wall of China]] and whose eventual displacement set off migrations that reshaped Eurasia for centuries.\n\nUnified around 209 BC by the charismatic Modu Chanyu (who killed his own father to seize power), the Xiongnu quickly became the dominant military force on the steppe. Their mounted archers were devastating in open battle, and the early [[event:77|Han Dynasty]] was forced into a policy of appeasement (heqin), sending silk, grain, and royal brides in exchange for peace. At their height the Xiongnu controlled territory from Lake Baikal to the Great Wall and from Manchuria to Central Asia. The [[event:1130|Han-Xiongnu Wars]] under [[event:1127|Emperor Wu of Han]] broke Xiongnu dominance in the 2nd century BC. Eventually splitting into northern and southern factions, the northern Xiongnu migrated westward; their descendants or the peoples they displaced may have contributed to the Hunnic invasions that struck the Roman Empire in the 4th and 5th centuries AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Xiongnu",
+    "read_more_links": [
+        {
+            "title": "Modu Chanyu",
+            "url": "https://en.wikipedia.org/wiki/Modu_Chanyu"
+        },
+        {
+            "title": "Steppe nomads",
+            "url": "https://en.wikipedia.org/wiki/Nomad#Nomadic_empires"
+        },
+        {
+            "title": "Xiongnu-Han relations",
+            "url": "https://en.wikipedia.org/wiki/Xiongnu#Relations_with_Han_China"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Buckle_boar_hunting_NMAT_48-8_n06_%28composite%29.jpg/300px-Buckle_boar_hunting_NMAT_48-8_n06_%28composite%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Buckle_boar_hunting_NMAT_48-8_n06_%28composite%29.jpg",
+            "caption": "Buckle boar hunting NMAT 48-8 n06 (composite) ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Horse_stomping_a_Xiongnu_warrior._Tomb_of_Huo_Qubing%2C_%E8%8C%82%E9%99%B5_%28with_face_detail%2C_two_angles%29.jpg/300px-Horse_stomping_a_Xiongnu_warrior._Tomb_of_Huo_Qubing%2C_%E8%8C%82%E9%99%B5_%28with_face_detail%2C_two_angles%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Horse_stomping_a_Xiongnu_warrior._Tomb_of_Huo_Qubing%2C_%E8%8C%82%E9%99%B5_%28with_face_detail%2C_two_angles%29.jpg",
+            "caption": "Horse stomping a Xiongnu warrior. Tomb of Huo Qubing, 茂陵 (with face detail, t...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Indo-European_migrations_and_Ancient_Northeast_Asians.png/300px-Indo-European_migrations_and_Ancient_Northeast_Asians.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Indo-European_migrations_and_Ancient_Northeast_Asians.png",
+            "caption": "Indo-European migrations and Ancient Northeast Asians",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Warring_States_Xiongnu_Gold_Crown_-_b.jpg/300px-Warring_States_Xiongnu_Gold_Crown_-_b.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Warring_States_Xiongnu_Gold_Crown_-_b.jpg",
+            "caption": "Mongolia. Special Exhibit: Xiongnu, Henan Provincial Museum, Zhengzhou. Compl...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Chanyu",
+            "summary": "Emperor title of the Xiongnu",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Reconstruction_of_a_Xiongnu_chief_warrior%2C_2nd_century_BCE-1st_century_CE.jpg/250px-Reconstruction_of_a_Xiongnu_chief_warrior%2C_2nd_century_BCE-1st_century_CE.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chanyu"
+        },
+        {
+            "name": "Touman",
+            "summary": "Chanyu (ruler) of the Xiongnu from 220 to 209 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hsiung-nu-Empire.png/250px-Hsiung-nu-Empire.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Touman"
+        },
+        {
+            "name": "King You of Zhou",
+            "summary": "Last king of the Western Zhou (795–771 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%E5%91%A8%E5%B9%BD%E7%8E%8B.jpg/250px-%E5%91%A8%E5%B9%BD%E7%8E%8B.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/King_You_of_Zhou"
+        }
+    ],
+    "territory_geojson": null
+}

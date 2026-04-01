@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2394,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:73c76c615a89b789a2d230d467ef65c16d46f03fdfc86fe36a85d34df6d9cc2c",
+    "summary": "The Stamp Act (March 1765 AD) was a British Parliament tax requiring all printed materials in the American colonies — newspapers, pamphlets, legal documents, playing cards, almanacs — to carry an official revenue stamp purchased from British stamp distributors, and was the first direct internal tax Parliament had levied on the colonies, triggering the first major coordinated American colonial resistance movement and establishing the constitutional principle of 'no taxation without representation' as the central grievance of the [[event:106|American Revolution]]. Prime Minister George Grenville designed the Act to help recover the enormous costs of the [[event:2332|Seven Years' War]], during which Britain had spent heavily to defend the American colonies from French attack; to Grenville, asking colonists to contribute a fraction of the war's cost seemed entirely reasonable.\n\nThe colonial response was far more explosive than Grenville anticipated. The Virginia Resolves (Patrick Henry's inflammatory speech in the House of Burgesses), pamphlets by James Otis arguing that Parliament had no constitutional right to tax the unrepresented colonies, and the Stamp Act Congress (October 1765 — the first inter-colonial political gathering) united colonial opposition across previously fractious political lines. The Sons of Liberty organized boycotts of British goods and intimidated stamp distributors into refusing to collect the tax; by the time the Act took effect (November 1, 1765), there was effectively no one willing to enforce it. Parliament repealed the Stamp Act in March 1766 — but simultaneously passed the Declaratory Act, asserting Parliament's right to legislate for the colonies 'in all cases whatsoever.' This fundamental disagreement over parliamentary authority versus colonial rights could not be resolved within the British imperial framework, making subsequent conflict increasingly likely.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Stamp_Act_1765",
+    "read_more_links": [
+        {
+            "title": "No taxation without representation colonial protest",
+            "url": "https://en.wikipedia.org/wiki/No_taxation_without_representation"
+        },
+        {
+            "title": "Sons of Liberty Stamp Act boycott resistance",
+            "url": "https://en.wikipedia.org/wiki/Sons_of_Liberty"
+        },
+        {
+            "title": "Stamp Act Congress 1765 colonial unity meeting",
+            "url": "https://en.wikipedia.org/wiki/Stamp_Act_Congress"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/300px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+            "caption": "A painting of Benjamin Franklin ca. 1785",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Proof_sheet_of_one_penny_stamps_Stamp_Act_1765.jpg/300px-Proof_sheet_of_one_penny_stamps_Stamp_Act_1765.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Proof_sheet_of_one_penny_stamps_Stamp_Act_1765.jpg",
+            "caption": "The 1765 Stamp Act created a direct tax of one penny per sheet on newspapers ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stamp_Act_Repeal%27d_teapot_%28PEM_121493%29.jpg/300px-Stamp_Act_Repeal%27d_teapot_%28PEM_121493%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Stamp_Act_Repeal%27d_teapot_%28PEM_121493%29.jpg",
+            "caption": "Stamp Act Repeal'd teapot (PEM 121493)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/300px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
+            "caption": "John Trumbull's painting, Declaration of Independence, depicting the five-man...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "George Grenville",
+            "summary": "Prime Minister of Great Britain from 1763 to 1765",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/George_Grenville_%281712%E2%80%931770%29_by_William_Hoare_%281707-1792%29.jpg/250px-George_Grenville_%281712%E2%80%931770%29_by_William_Hoare_%281707-1792%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Grenville"
+        },
+        {
+            "name": "Chancellor of the Exchequer",
+            "summary": "Lead minister of His Majesty's Treasury",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg/250px-Coat_of_arms_of_the_United_Kingdom_%282024%2C_lesser_arms%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chancellor_of_the_Exchequer"
+        },
+        {
+            "name": "Daniel Dulany the Younger",
+            "summary": "American politician and lawyer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Daniel_Dulany%2C_1722-1797_LCCN2016646305.jpg/250px-Daniel_Dulany%2C_1722-1797_LCCN2016646305.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_Dulany_the_Younger"
+        },
+        {
+            "name": "John Stuart, 3rd Earl of Bute",
+            "summary": "Prime Minister of Great Britain from 1762 to 1763",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/John_Stuart%2C_3rd_Earl_of_Bute%2C_by_Joshua_Reynolds.jpg/250px-John_Stuart%2C_3rd_Earl_of_Bute%2C_by_Joshua_Reynolds.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Stuart%2C_3rd_Earl_of_Bute"
+        },
+        {
+            "name": "Standing army",
+            "summary": "Permanent army composed of full-time career soldiers or conscripts",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/250px-Gari-Melchers-War-Highsmith.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Standing_army"
+        },
+        {
+            "name": "Isaac Barré",
+            "summary": "British Army officer and politician (1726–1802)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Col_Barre.jpg/250px-Col_Barre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Barr%C3%A9"
+        }
+    ],
+    "territory_geojson": null
+}

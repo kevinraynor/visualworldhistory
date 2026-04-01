@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2837,
+    "parent_id": 2046,
+    "granularity": "notable",
+    "content_hash": "sha256:d5038e144dbc532b82135abeea1dd76c5862276b40dea95094078839330a7cb5",
+    "summary": "The Battle of Red Cliffs (208 AD) was the decisive engagement of the [[event:2046|Three Kingdoms Period]] — a naval battle on the Yangtze River in which the combined forces of Liu Bei and Sun Quan defeated the much larger northern army of Cao Cao, ending his bid to reunify China by conquest and cementing the three-way division of the country. Cao Cao had recently conquered northern China and moved south with a massive force (ancient sources vastly exaggerate the numbers — perhaps 200,000–240,000 men, though modern estimates are more conservative) to defeat his two main rivals simultaneously.\n\nThe alliance's key strategist, Zhou Yu (Sun Quan's commander), devised a plan exploiting Cao Cao's northerners' unfamiliarity with naval warfare and their vulnerability to disease and fire. A fire attack — using fire ships directed by favorable winds against Cao Cao's chained-together fleet — destroyed much of the northern navy, and Cao Cao's army retreated with heavy losses. The battle established the strategic stalemate that defined the Three Kingdoms: Cao Cao dominated the north (Wei), Liu Bei eventually secured the southwest (Shu Han), and Sun Quan held the southeast (Wu). The Battle of Red Cliffs became the most celebrated military engagement in Chinese history, immortalized in the 'Romance of the Three Kingdoms' novel and in Su Shi's famous 'Ode to Red Cliff' (1082 AD) — one of the masterpieces of classical Chinese literature.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+    "read_more_links": [
+        {
+            "title": "Zhou Yu stratagem fire attack",
+            "url": "https://en.wikipedia.org/wiki/Zhou_Yu"
+        },
+        {
+            "title": "Battle Red Cliffs in literature",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs#In_literature"
+        },
+        {
+            "title": "Su Shi Ode to Red Cliff",
+            "url": "https://en.wikipedia.org/wiki/Ode_on_Red_Cliff"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Battle_of_Red_Cliffs_Peking_Opera_4.jpg/300px-Battle_of_Red_Cliffs_Peking_Opera_4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Battle_of_Red_Cliffs_Peking_Opera_4.jpg",
+            "caption": "A en:Peking opera performance in en:Tianchan Theatre by en:Shanghai Jingju Th...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E4%B8%9C%E5%9D%A1%E8%B5%A4%E5%A3%81%E5%BB%BA%E7%AD%91%E7%BE%A4.JPG/300px-%E4%B8%9C%E5%9D%A1%E8%B5%A4%E5%A3%81%E5%BB%BA%E7%AD%91%E7%BE%A4.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/%E4%B8%9C%E5%9D%A1%E8%B5%A4%E5%A3%81%E5%BB%BA%E7%AD%91%E7%BE%A4.JPG",
+            "caption": "​东坡赤壁建筑群",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%E6%96%B0%E5%88%8A%E6%A0%A1%E6%AD%A3%E5%8F%A4%E6%9C%AC%E5%A4%A7%E5%AD%97%E9%9F%B3%E9%87%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89_%E6%98%8E%E4%B8%87%E5%8E%86%E5%8D%81%E4%B9%9D%E5%B9%B4%E4%B9%A6%E6%9E%97%E5%91%A8%E6%9B%B0%E6%A0%A1%E5%88%8A%E6%9C%AC_100.jpg/300px-%E6%96%B0%E5%88%8A%E6%A0%A1%E6%AD%A3%E5%8F%A4%E6%9C%AC%E5%A4%A7%E5%AD%97%E9%9F%B3%E9%87%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89_%E6%98%8E%E4%B8%87%E5%8E%86%E5%8D%81%E4%B9%9D%E5%B9%B4%E4%B9%A6%E6%9E%97%E5%91%A8%E6%9B%B0%E6%A0%A1%E5%88%8A%E6%9C%AC_100.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/%E6%96%B0%E5%88%8A%E6%A0%A1%E6%AD%A3%E5%8F%A4%E6%9C%AC%E5%A4%A7%E5%AD%97%E9%9F%B3%E9%87%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89_%E6%98%8E%E4%B8%87%E5%8E%86%E5%8D%81%E4%B9%9D%E5%B9%B4%E4%B9%A6%E6%9E%97%E5%91%A8%E6%9B%B0%E6%A0%A1%E5%88%8A%E6%9C%AC_100.jpg",
+            "caption": "​新刊校正古本大字音释三国志通俗演义 明万历十九年书林周曰校刊本",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg/300px-CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CMOC_Treasures_of_Ancient_China_exhibit_-_painted_figure_of_a_cavalryman%2C_horse_detail.jpg",
+            "caption": "Detail of a painted figure of a cavalryman.\nWestern Han Dynasty (206 B.C. -  ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sun Quan",
+            "summary": "Emperor of Eastern Wu from 229 to 252",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sun_Quan_Tang.jpg/250px-Sun_Quan_Tang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Quan"
+        },
+        {
+            "name": "Liu Bei",
+            "summary": "Emperor of Shu Han from 221 to 223",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Liu_Bei_Tang.jpg/250px-Liu_Bei_Tang.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Liu_Bei"
+        },
+        {
+            "name": "Cao Cao",
+            "summary": "Chinese warlord and statesman (155–220)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cao_Cao_scth.jpg/250px-Cao_Cao_scth.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cao_Cao"
+        },
+        {
+            "name": "Zhou Yu",
+            "summary": "Chinese general (175–210)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ZhouYu.jpg/250px-ZhouYu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zhou_Yu"
+        },
+        {
+            "name": "Emperor Xian of Han",
+            "summary": "Emperor of the Han dynasty from 189 to 220",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Emperor_Xian_Qing_illustration.jpg/250px-Emperor_Xian_Qing_illustration.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Xian_of_Han"
+        },
+        {
+            "name": "Liu Biao",
+            "summary": "Chinese general and warlord (c.151–c.208)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Liu_Biao_Qing_portait.jpg/250px-Liu_Biao_Qing_portait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Liu_Biao"
+        }
+    ],
+    "territory_geojson": null
+}

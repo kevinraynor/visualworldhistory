@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2563,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:3b1e236ac2bfd4ad950b297d1483a9974d8a28207b90b9c8b0042dfe12268996",
+    "summary": "The establishment of the British Raj — direct Crown rule over India — in 1858 represented the formal end of the East India Company's authority and the transformation of the Indian subcontinent into the centerpiece of the British Empire. The [[event:2562|Indian Rebellion of 1857]] had demonstrated the dangers of the Company's administration and prompted Parliament to assume direct responsibility for the governance of some 200 million people across the subcontinent.\n\nThe Government of India Act of 1858 transferred all powers of the East India Company to the British Crown. A Secretary of State for India in London and a Viceroy in India (replacing the Company's Governor-General) became the senior figures in an elaborate colonial bureaucracy. Queen Victoria issued a proclamation in November 1858 promising equal treatment and non-interference with religious customs — an implicit acknowledgment that insensitivity to Indian traditions had contributed to the rebellion. In 1877 Victoria was proclaimed Empress of India, the title Albert had conceived that formally expressed the jewel-in-the-crown status of India within the empire.\n\nBritish rule under the Raj brought significant material changes: an extensive railway network (one of the largest in the world by 1900), telegraphs, modern postal services, codified law, and Western-style universities that trained an English-educated Indian professional class. These investments served British economic and administrative interests, but they also created the infrastructure and educated elite from which the Indian independence movement would eventually emerge.\n\nThe economic consequences of British rule were deeply contested, then and now. Indian nationalists, most famously Dadabhai Naoroji, argued that British rule systematically drained India's wealth through the 'drain theory' — tribute, trade imbalances, and the costs of the Indian Army paid by Indian taxes to serve British imperial interests worldwide. The destruction of India's textile industry by British manufactured imports and the recurring famines that claimed tens of millions of lives under British governance (while grain continued to be exported) formed the heart of the nationalist economic critique. The Raj thus created both the conditions for Indian nationalism and a coherent grievance for it to mobilize around.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/British_Raj",
+    "read_more_links": [
+        {
+            "title": "British Rule in India – Britannica",
+            "url": "https://www.britannica.com/place/India/The-establishment-of-crown-rule"
+        },
+        {
+            "title": "Government of India Act 1858 – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1858"
+        },
+        {
+            "title": "Indian National Congress – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_National_Congress"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/India%2C_by_British_Information_Services%2C_1944_restored_version.jpg/300px-India%2C_by_British_Information_Services%2C_1944_restored_version.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/India%2C_by_British_Information_Services%2C_1944_restored_version.jpg",
+            "caption": "India, by British Information Services, 1944. Scale 1:8,000,000. 76 x 51 cm.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/British_Raj_and_surrounding_countries_1909.jpg/300px-British_Raj_and_surrounding_countries_1909.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/British_Raj_and_surrounding_countries_1909.jpg",
+            "caption": "The British Raj, commonly called India, and surrounding countries are shown i...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/India-or-British-Raj-in-British-Empire-1909.jpg/300px-India-or-British-Raj-in-British-Empire-1909.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/India-or-British-Raj-in-British-Empire-1909.jpg",
+            "caption": "The British Raj, commonly called India, in relation to the British Empire in ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/George_Curzon2.jpg/300px-George_Curzon2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/George_Curzon2.jpg",
+            "caption": "George, Lord Curzon, Viceroy of India.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Queen Victoria",
+            "summary": "Queen of the United Kingdom from 1837 to 1901",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/250px-Queen_Victoria_by_Bassano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Victoria"
+        },
+        {
+            "name": "Edward VII",
+            "summary": "King of the United Kingdom from 1901 to 1910",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/King-Edward-VII_%28cropped%29_%28b%29.jpg/250px-King-Edward-VII_%28cropped%29_%28b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_VII"
+        },
+        {
+            "name": "George V",
+            "summary": "King of the United Kingdom from 1910 to 1936",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/King_George_1923_LCCN2014715558_%28cropped%29.jpg/250px-King_George_1923_LCCN2014715558_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_V"
+        },
+        {
+            "name": "Edward VIII",
+            "summary": "King of the United Kingdom in 1936",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg/250px-HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_VIII"
+        },
+        {
+            "name": "George VI",
+            "summary": "King of the United Kingdom from 1936 to 1952",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/250px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_VI"
+        },
+        {
+            "name": "Charles Canning, 1st Earl Canning",
+            "summary": "English statesman and Governor-General of India",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Charles_Canning%2C_1st_Earl_Canning.jpg/250px-Charles_Canning%2C_1st_Earl_Canning.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Canning%2C_1st_Earl_Canning"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3833,
+    "parent_id": 2257,
+    "granularity": "notable",
+    "content_hash": "sha256:abc30e9095db76698d656138c1f4ec19145fcf2860a41546f29a7a6120838692",
+    "summary": "Timbuktu (Tombouctou) was founded around 1100 AD as a seasonal camp by Tuareg nomads on the southern edge of the Sahara Desert at a bend of the Niger River in what is now Mali, growing from a commercial waypoint into one of the most important cities in medieval Africa — a crossroads of trans-Saharan trade, Islamic scholarship, and sub-Saharan agricultural wealth. The city's position made it uniquely valuable: it was the northernmost point where river trade from the forest zones could meet camel caravan routes crossing the Sahara, making it a natural exchange point where gold and salt, kola nuts and slaves, manuscripts and scholars converged. Under the [[event:93|Mali Empire]] in the 14th century, and especially during [[event:2256|Mansa Musa's]] reign, Timbuktu began its transformation into a major Islamic scholarly center.\n\nTimbuktu reached its greatest prosperity and intellectual glory under the [[event:2259|Songhai Empire]] in the 15th–16th centuries, when the [[event:2257|Sankore mosque-university]] attracted scholars from across the Islamic world and the city's libraries housed an estimated 700,000 manuscripts on theology, law, mathematics, astronomy, history, and literature — the largest collection of written knowledge in sub-Saharan Africa and one of the great intellectual repositories of the medieval world. At its peak, Timbuktu's population reached 100,000–115,000, of whom approximately 25,000 were students. The city's legendary wealth — filtered through European imagination as a place of inexhaustible gold, giving rise to expressions like 'from here to Timbuktu' meaning an impossibly distant, fabulously wealthy place — derived from its role as the pivot of the gold-salt trade. The Moroccan invasion of 1591 ended Timbuktu's golden age, scattering its scholars and disrupting the trade networks that sustained it.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Timbuktu",
+    "read_more_links": [
+        {
+            "title": "Timbuktu trans-Saharan trade gold salt Niger",
+            "url": "https://en.wikipedia.org/wiki/Timbuktu#History"
+        },
+        {
+            "title": "Sankore mosque university Islamic scholarship",
+            "url": "https://en.wikipedia.org/wiki/Sankore_Madrasah"
+        },
+        {
+            "title": "Timbuktu manuscripts 700000 Islamic library",
+            "url": "https://en.wikipedia.org/wiki/Timbuktu_Manuscripts"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ASC_Leiden_-_van_Achterberg_Collection_-_04_-_61_-_Le_Touareg_Mohamed_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg/300px-ASC_Leiden_-_van_Achterberg_Collection_-_04_-_61_-_Le_Touareg_Mohamed_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/ASC_Leiden_-_van_Achterberg_Collection_-_04_-_61_-_Le_Touareg_Mohamed_-_Tombouctou%2C_Mali_-_Novembre-d%C3%A9cembre_1993.jpg",
+            "caption": "The Tuareg Mohamed is standing in a striped robe with a large white headscarf...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Timbuktu-139086.jpg/300px-Timbuktu-139086.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Timbuktu-139086.jpg",
+            "caption": "Reconstruction of the Ben Essayouti Library, Timbuktu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 igo"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Timbuktu-139085.jpg/300px-Timbuktu-139085.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Timbuktu-139085.jpg",
+            "caption": "Manuscripts of the Ahmed Baba Centre, Timbuktu",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 igo"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Timbuktu_market_women_sellers.jpg/300px-Timbuktu_market_women_sellers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Timbuktu_market_women_sellers.jpg",
+            "caption": "This is an image of \"African people at work\" from",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mansa Musa",
+            "summary": "Ruler of Mali from c. 1312 to c. 1337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/250px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mansa_Musa"
+        },
+        {
+            "name": "Leo Africanus",
+            "summary": "Maghrebi author (c. 1494-c. 1554)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sebastiano_del_Piombo_Portrait_of_a_Humanist.jpg/250px-Sebastiano_del_Piombo_Portrait_of_a_Humanist.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_Africanus"
+        },
+        {
+            "name": "René Caillié",
+            "summary": "French explorer (1799–1838)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ren%C3%A9_Cailli%C3%A9.jpg/250px-Ren%C3%A9_Cailli%C3%A9.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9"
+        },
+        {
+            "name": "Heinrich Barth",
+            "summary": "German explorer (1821–1865)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Barth_Unterschrift.jpg/250px-Barth_Unterschrift.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Barth"
+        },
+        {
+            "name": "Scientific consensus",
+            "summary": "Collective judgment, position, and opinion of the community of scientists",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Climate_science_opinion_graph_3.svg/250px-Climate_science_opinion_graph_3.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Scientific_consensus"
+        }
+    ],
+    "territory_geojson": null
+}

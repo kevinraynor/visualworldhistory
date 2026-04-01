@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2680,
+    "parent_id": 2679,
+    "granularity": "notable",
+    "content_hash": "sha256:3e4d4cb3030fcd190c5ac977faaceec88643a8d53e20938e67ea034f01312304",
+    "summary": "Martin Luther King Jr. (1929–1968) was an American Baptist minister and activist who became the most prominent leader of the [[event:2679|Civil Rights Movement]] in the United States from the mid-1950s until his assassination in 1968. Drawing on the philosophy of nonviolent resistance articulated by Mahatma Gandhi and rooted in the prophetic tradition of the Black church, King led campaigns against racial segregation and discrimination that transformed American law and society. He received the Nobel Peace Prize in 1964, at the time the youngest person ever to receive the honor.\n\nKing rose to national prominence during the [[event:3362|Montgomery Bus Boycott]] of 1955-56, which he helped lead as president of the Montgomery Improvement Association. The successful boycott, lasting 381 days, desegregated Montgomery's bus system and demonstrated the power of organized nonviolent economic pressure. King co-founded the Southern Christian Leadership Conference (SCLC) in 1957 to coordinate civil rights activities across the South.\n\nKing's leadership was most visibly expressed in a series of major campaigns: Birmingham, Alabama in 1963, where Bull Connor's violent response to nonviolent protesters created national outrage; the [[event:3363|March on Washington]] in August 1963, where King delivered his \"I Have a Dream\" speech before 250,000 people; and the Selma to Montgomery marches of 1965, which prompted the [[event:3365|Voting Rights Act]]. His ability to articulate the moral dimensions of racial justice in accessible, eloquent terms made him uniquely effective as both an organizer and a communicator.\n\nIn his later years, King expanded his focus beyond formal civil rights legislation to address poverty, economic inequality, and opposition to the [[event:2674|Vietnam War]]. His 1967 speech opposing the war created controversy and cost him support from the Johnson administration. He was planning a Poor People's Campaign to address economic injustice when he was [[event:3366|assassinated]] on April 4, 1968, at the Lorraine Motel in Memphis, Tennessee, by James Earl Ray. His death triggered urban uprisings in over 100 American cities.\n\nKing's legacy is immense. He is the only non-president to have a federal holiday named in his honor in the United States, observed on the third Monday of January. His speeches and writings remain among the most frequently quoted texts in American public discourse, and his image has been adopted by social movements worldwide. His emphasis on the power of nonviolent moral witness to transform political reality continues to inspire activists across generations and cultures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+    "read_more_links": [
+        {
+            "title": "Martin Luther King Jr. – The King Center",
+            "url": "https://thekingcenter.org/about-dr-king/"
+        },
+        {
+            "title": "Martin Luther King Jr. Papers – Stanford",
+            "url": "https://kinginstitute.stanford.edu/king-papers/about-papers-project"
+        },
+        {
+            "title": "Martin Luther King Jr. – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Martin-Luther-King-Jr"
+        },
+        {
+            "title": "Nobel Peace Prize 1964 – Nobel Prize Official Website",
+            "url": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lyndon_Johnson_signing_Civil_Rights_Act%2C_July_2%2C_1964.jpg/300px-Lyndon_Johnson_signing_Civil_Rights_Act%2C_July_2%2C_1964.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Lyndon_Johnson_signing_Civil_Rights_Act%2C_July_2%2C_1964.jpg",
+            "caption": "President Lyndon B. Johnson signs the 1964 Civil Rights Act as Martin Luther ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lorraine_Motel%2C_Memphis%2C_TN%2C_US.jpg/300px-Lorraine_Motel%2C_Memphis%2C_TN%2C_US.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lorraine_Motel%2C_Memphis%2C_TN%2C_US.jpg",
+            "caption": "The Lorraine Motel in Memphis, Tennessee, US\n\n\n\n\n\n\nThis is an image of a plac...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Martin_Luther_King%2C_Jr_Memorial_%28NHQ202501050005%29.jpg/300px-Martin_Luther_King%2C_Jr_Memorial_%28NHQ202501050005%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Martin_Luther_King%2C_Jr_Memorial_%28NHQ202501050005%29.jpg",
+            "caption": "The Martin Luther King, Jr. Memorial is seen in the foregound with the Washin...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ebenezer-Baptist-from-pulpit.jpg/300px-Ebenezer-Baptist-from-pulpit.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ebenezer-Baptist-from-pulpit.jpg",
+            "caption": "Martin Luther King, Jr. National Historic Site, Ebenezer Baptist Church, 407 ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ralph Abernathy",
+            "summary": "American activist and minister (1926–1990)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Reverend_Ralph_David_Abernathy%2C_head-and-shoulders_portrait%2C_facing_right%2C_speaking_at_a_National_Press_Club_luncheon%2C_Washington%2C_D.C._%283x4_cropped%29.jpg/250px-Reverend_Ralph_David_Abernathy%2C_head-and-shoulders_portrait%2C_facing_right%2C_speaking_at_a_National_Press_Club_luncheon%2C_Washington%2C_D.C._%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ralph_Abernathy"
+        },
+        {
+            "name": "Coretta Scott King",
+            "summary": "American civil rights leader (1927–2006)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coretta_Scott_King_1964.jpg/250px-Coretta_Scott_King_1964.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coretta_Scott_King"
+        },
+        {
+            "name": "Martin Luther King III",
+            "summary": "American civil rights activist (born 1957)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Martin_Luther_King_III_at_the_unveiling_of_The_Embrace_52625621619_o_%281%29.jpg/250px-Martin_Luther_King_III_at_the_unveiling_of_The_Embrace_52625621619_o_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_III"
+        },
+        {
+            "name": "Dexter King",
+            "summary": "Civil rights activist and son of Martin Luther King Jr",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dexter_King_1999.jpg/250px-Dexter_King_1999.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dexter_King"
+        },
+        {
+            "name": "Bernice King",
+            "summary": "American minister and daughter of Martin Luther King Jr.",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bernice_King_at_LBJ_Presidential_Library_and_Mueseum%2C_2014.png/250px-Bernice_King_at_LBJ_Presidential_Library_and_Mueseum%2C_2014.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bernice_King"
+        },
+        {
+            "name": "Martin Luther King Sr.",
+            "summary": "American Baptist preacher (1899–1984)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Martin_Luther_King_Sr%2C_c1977-81.jpg/250px-Martin_Luther_King_Sr%2C_c1977-81.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Sr."
+        }
+    ],
+    "territory_geojson": null
+}

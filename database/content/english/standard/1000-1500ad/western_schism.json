@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2295,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3b6103a3900fa372aaaf8bd59d5a095733b435ef6be8ca17e2b634bcb3aed051",
+    "summary": "The Western Schism (1378–1417 AD) was a catastrophic division within the Roman Catholic Church when two — and eventually three — rival claimants simultaneously claimed to be the legitimate pope, undermining the Church's authority, generating decades of religious confusion, and accelerating the intellectual movements that would eventually produce the Protestant Reformation. The Schism began when the cardinals who had elected the Italian Urban VI (1378) claimed his behavior was erratic and elected a French antipope, Clement VII, who returned to Avignon — while Urban VI remained in Rome. Both men died and were succeeded by further claimants.\n\nThe competing popes excommunicated each other and their followers, creating the absurd situation where devout Christians could not know with certainty which obedience was legitimate — and thus whether their sacraments were valid. European kingdoms split their allegiances largely along political lines (France, Scotland, and Aragon backed the Avignon line; England, the Holy Roman Empire, and most of Italy backed Rome). Attempts to resolve the schism through conciliar authority led to the Council of Constance (1414–1418), which ended the schism by deposing or accepting the resignations of all three claimants and electing Martin V as sole pope. The Council of Constance also burned the reforming theologians Jan Hus (1415) and Jerome of Prague (1416) for heresy — an act that ignited the Hussite Wars in Bohemia and demonstrated both the conciliarist movement's power and its limits. The intellectual tradition of conciliarism (the principle that a general council of the Church holds authority superior to the pope) that the Western Schism generated became an important precedent for Protestant arguments against papal infallibility.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Western_Schism",
+    "read_more_links": [
+        {
+            "title": "Council Constance end Western Schism",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Constance"
+        },
+        {
+            "title": "Jan Hus burning heresy Bohemia",
+            "url": "https://en.wikipedia.org/wiki/Jan_Hus"
+        },
+        {
+            "title": "Conciliarism papal authority council debate",
+            "url": "https://en.wikipedia.org/wiki/Conciliarism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Grandes_Chroniques_de_Frances_de_Charles_V_-_BNF_fr2813_f208_%28Clercs_se_disputant%29.jpg/300px-Grandes_Chroniques_de_Frances_de_Charles_V_-_BNF_fr2813_f208_%28Clercs_se_disputant%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Grandes_Chroniques_de_Frances_de_Charles_V_-_BNF_fr2813_f208_%28Clercs_se_disputant%29.jpg",
+            "caption": "Enluminure symbolisant le Schisme de 1130",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/300px-046CupolaSPietro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+            "caption": "Città del Vaticano - Cupola della Basilica di S. Pietro",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Habemus_Papam_1415.jpg/300px-Habemus_Papam_1415.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Habemus_Papam_1415.jpg",
+            "caption": "Habemus Papam 1415",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pope Gregory XI",
+            "summary": "Head of the Catholic Church from 1370 to 1378",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Duke_of_Anjou_leading_Pope_Gregory_XI_to_the_palace_at_Avignon%2C_while_cardinals_follow_%28cropped%29.png/250px-Duke_of_Anjou_leading_Pope_Gregory_XI_to_the_palace_at_Avignon%2C_while_cardinals_follow_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Gregory_XI"
+        },
+        {
+            "name": "Pope Urban VI",
+            "summary": "Head of the Catholic Church from 1378 to 1389",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Pope_Urban_6.jpg/250px-Pope_Urban_6.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Urban_VI"
+        },
+        {
+            "name": "Antipope Clement VII",
+            "summary": "Antipope from 1378 to 1394",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GiacMaster_Clement_VII.jpg/250px-GiacMaster_Clement_VII.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antipope_Clement_VII"
+        },
+        {
+            "name": "Pope Boniface IX",
+            "summary": "Head of the Catholic Church from 1389 to 1404",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cosmati%2C_bonifacio_IX_inginocchiato%2C_1390-1410_ca_%28cropped%29.jpg/250px-Cosmati%2C_bonifacio_IX_inginocchiato%2C_1390-1410_ca_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Boniface_IX"
+        },
+        {
+            "name": "Pope Innocent VII",
+            "summary": "Head of the Catholic Church from 1404 to 1406",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Nuremberg_Chronicle_f_235v_1_Innocentius_VII.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Innocent_VII"
+        },
+        {
+            "name": "Pope Gregory XII",
+            "summary": "Head of the Catholic Church from 1406 to 1415",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Joos_Van_Wassenhove_e_Pedro_Berruguete_%E2%80%93_San_Gregorio%2C_Galleria_Nazionale_delle_Marche.jpg/250px-Joos_Van_Wassenhove_e_Pedro_Berruguete_%E2%80%93_San_Gregorio%2C_Galleria_Nazionale_delle_Marche.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Gregory_XII"
+        }
+    ],
+    "territory_geojson": null
+}

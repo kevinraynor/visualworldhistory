@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2132,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:fab9e73a1c198f844fed96d5e9c06ae956aa27b7c09b5def33869a32ea25d8a6",
+    "summary": "The Battle of Tours (also called the Battle of Poitiers, October 732 AD) was the decisive engagement in which Frankish and Burgundian forces under Charles Martel (Grandfather of [[event:2138|Charlemagne]]) defeated an Umayyad army commanded by Abdul Rahman Al Ghafiqi that had crossed the Pyrenees from [[event:2131|Muslim Spain]] and was raiding deep into France. Abdul Rahman was killed in the battle; the Umayyad forces withdrew south of the Pyrenees and never again mounted a serious attempt to expand into Frankish territory. The battle is conventionally cited as the event that prevented the Islamization of western Europe.\n\nThe significance of Tours has been both celebrated and debated by historians. Western tradition — from Edward Gibbon onward — has portrayed it as a decisive civilizational watershed; modern historians tend to see it as one of several factors that limited Islamic expansion into Europe (the more important constraints being the geographic barrier of the Pyrenees, the over-extension of Umayyad supply lines, and the subsequent internal conflicts of the [[event:3521|Abbasid Revolution]]). Charles Martel's victory enhanced his political prestige enormously, providing the military credibility that would allow his son Pepin III to depose the last Merovingian king and establish the Carolingian dynasty. The battle earned Charles the epithet 'Martel' (the Hammer). Whether or not it was the decisive turning point some have claimed, it fixed the Pyrenees as the boundary between Christian and Muslim Iberia for the following 760 years.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Tours",
+    "read_more_links": [
+        {
+            "title": "Charles Martel biography",
+            "url": "https://en.wikipedia.org/wiki/Charles_Martel"
+        },
+        {
+            "title": "Battle of Tours significance debate",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Tours#Significance"
+        },
+        {
+            "title": "Umayyad Spain after Tours",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Tours#Aftermath"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Charles_Martel_fighting_the_Saracens_at_Tours-Poitiers_in_732%2C_Great_Chronicles_of_France_%2827408010460%29.jpg/300px-Charles_Martel_fighting_the_Saracens_at_Tours-Poitiers_in_732%2C_Great_Chronicles_of_France_%2827408010460%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Charles_Martel_fighting_the_Saracens_at_Tours-Poitiers_in_732%2C_Great_Chronicles_of_France_%2827408010460%29.jpg",
+            "caption": "Charles Martel fighting the Saracens at Tours-Poitiers in 732, Great Chronicl...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Charles_Martel_at_Battle_of_Tours%2C_Great_Chronicles_of_France_%2827686528435%29.jpg/300px-Charles_Martel_at_Battle_of_Tours%2C_Great_Chronicles_of_France_%2827686528435%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Charles_Martel_at_Battle_of_Tours%2C_Great_Chronicles_of_France_%2827686528435%29.jpg",
+            "caption": "Charles Martel at Battle of Tours, Great Chronicles of France",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Steuben_-_Bataille_de_Poitiers.png/300px-Steuben_-_Bataille_de_Poitiers.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Steuben_-_Bataille_de_Poitiers.png",
+            "caption": "Charles Martel in the Battle of Tours",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Saracen_Army_outside_Paris%2C_730-32_AD.png/300px-The_Saracen_Army_outside_Paris%2C_730-32_AD.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Saracen_Army_outside_Paris%2C_730-32_AD.png",
+            "caption": "The Saracen Army outside Paris, 730-32 AD",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Umayyad invasion of Gaul",
+            "summary": "Attempted invasion of southwest Francia by the Umayyad Caliphate (719–759 AD)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Umayyad_invasion_of_Gaul-en.svg/250px-Umayyad_invasion_of_Gaul-en.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_invasion_of_Gaul"
+        },
+        {
+            "name": "Charles de Steuben",
+            "summary": "German-born French painter (1788–1856)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Carl_von_Steuben%2C_Self-Portrait%2C_early_1840s%2C_Hermitage_Museum_%D0%93%D0%AD-7515.jpg/250px-Carl_von_Steuben%2C_Self-Portrait%2C_early_1840s%2C_Hermitage_Museum_%D0%93%D0%AD-7515.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_de_Steuben"
+        },
+        {
+            "name": "Umayyad Caliphate",
+            "summary": "Second Islamic caliphate (661–750)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/250px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+        },
+        {
+            "name": "Charles Martel",
+            "summary": "Frankish military and political leader (c. 688–741)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg/250px-Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Martel"
+        },
+        {
+            "name": "Abd al-Rahman ibn Abd Allah al-Ghafiqi",
+            "summary": "Muslim general of the 8th century",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Abdul_Rahman_Al_Ghafiqi.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abd_al-Rahman_ibn_Abd_Allah_al-Ghafiqi"
+        },
+        {
+            "name": "Edward Gibbon",
+            "summary": "British essayist, historian and politician (1737–1794)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_Emily_Gibbon.jpg/250px-Edward_Emily_Gibbon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Gibbon"
+        }
+    ],
+    "territory_geojson": null
+}

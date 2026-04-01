@@ -1,0 +1,43 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3726,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:13cef355b21ff7d391a9de13d5521dde07ff6d8a31672a5602e1ec1bbac5fe88",
+    "summary": "The ancient city of Ebla, located in what is now northwestern Syria, housed one of the earliest known archives in the ancient world. Excavations at Tell Mardikh beginning in the 1970s uncovered a royal palace archive containing approximately 17,000 clay tablets and fragments dating to around 2400–2300 BC. These tablets constituted a functioning administrative library organized on wooden shelving, making Ebla's archive the earliest documented example of a systematically organized document collection.\n\nThe tablets recorded commercial transactions, royal decrees, diplomatic correspondence, and lexical lists that served scribal education. The presence of bilingual Sumerian-Eblaite word lists suggests that Ebla's scribal school drew on Mesopotamian learning while developing its own administrative traditions. The archive was destroyed when the city was sacked, likely by [[event:45|the Akkadian Empire]], and the falling shelves preserved the tablets in the order they had been stored, providing archaeologists with an unprecedented snapshot of ancient record-keeping practice.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ebla_tablets",
+    "read_more_links": [
+        {
+            "title": "Ebla - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ebla"
+        },
+        {
+            "title": "Ebla - Britannica",
+            "url": "https://www.britannica.com/place/Ebla"
+        },
+        {
+            "title": "Ancient Libraries - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/1659/ancient-libraries/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG/300px-Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ebla_Porta_sud-Ovest_-_GAR_-_9-01.JPG",
+            "caption": "South-west gate, Ebla in 2004",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg/300px-Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Calco_di_tavoletta_in_terracotta_da_Ebla_-_Museo_d%27Arte_Orientale_Roma.jpg",
+            "caption": "Proveniente dagli archivi del Palazzo Reale di Ebla",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1577,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:711425b48745535123dc92ae46e2bc3db87abd449d450a617d3b710a1c4eb4bb",
+    "summary": "Tepe Gawra is an ancient tell site located near Mosul in northern Iraq (ancient Assyria), occupied continuously from approximately 5000 to 1500 BCE and excavated in the 1930s by a joint University of Pennsylvania and American Schools of Oriental Research expedition. The site is particularly important for understanding the Ubaid and early Uruk periods in northern Mesopotamia, with its well-preserved stratigraphy providing a detailed record of social and architectural development over several millennia.\n\nAmong Tepe Gawra's most important features is the so-called Round House (Level XI-X, c. 3500 BCE), an unusual circular building of unknown function, and three temples arranged around an open court in Level XIII — an architectural tripartite temple plan considered a precursor to later Mesopotamian temple architecture. The temples at Gawra, small but carefully constructed, demonstrate that the tradition of monumental sacred architecture documented at [[event:1518|Eridu]] in the south was also developing in the north during the same period.\n\nGrave goods from Tepe Gawra include quantities of gold, lapis lazuli, turquoise, and carnelian ornaments indicating both significant wealth and extensive long-distance trade networks connecting the site to sources hundreds of kilometers distant. The site's evidence of social hierarchy and craft specialization during the Ubaid period makes it a key reference for understanding the widespread nature of social complexity in prehistoric Mesopotamia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tepe_Gawra",
+    "read_more_links": [
+        {
+            "title": "Ubaid period northern Mesopotamia - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ubaid_period"
+        },
+        {
+            "title": "Mesopotamian temple origins - Britannica",
+            "url": "https://www.britannica.com/topic/temple/Mesopotamia"
+        },
+        {
+            "title": "Northern Iraq prehistory - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/article/177/the-ancient-city-of-eridu/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Northern_Ubaid_pottery_from_Tepe_Gawra_and_other_sites_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06940.JPG/300px-Northern_Ubaid_pottery_from_Tepe_Gawra_and_other_sites_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06940.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Northern_Ubaid_pottery_from_Tepe_Gawra_and_other_sites_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC06940.JPG",
+            "caption": "Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Ill...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Penn_Museum_Tepe_Gawra_Storage_Jar.jpg/300px-Penn_Museum_Tepe_Gawra_Storage_Jar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Penn_Museum_Tepe_Gawra_Storage_Jar.jpg",
+            "caption": "Painted Ceramic Storage Jar, ca. 4400 BCE, Tepe Gawra (Iraq) Level XII",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Early_Ubaid_pottery_5100-4500_BC_Tepe_Gawra_Louvre_Museum_DAO_3.jpg/300px-Early_Ubaid_pottery_5100-4500_BC_Tepe_Gawra_Louvre_Museum_DAO_3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Early_Ubaid_pottery_5100-4500_BC_Tepe_Gawra_Louvre_Museum_DAO_3.jpg",
+            "caption": "Early Ubaid pottery 5100-4500 BC Tepe Gawra Louvre Museum DAO 3",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Columbella_Rustica_snail_shell_necklace_from_Tepe_Gawra_%28modern_day_Iraq%29_4000_BCE.jpg/300px-Columbella_Rustica_snail_shell_necklace_from_Tepe_Gawra_%28modern_day_Iraq%29_4000_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Columbella_Rustica_snail_shell_necklace_from_Tepe_Gawra_%28modern_day_Iraq%29_4000_BCE.jpg",
+            "caption": "Columbella Rustica snail shell necklace from Tepe Gawra (modern day Iraq) 400...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pilaster",
+            "summary": "Decorative architectural element giving the appearance of a supporting column",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paris_06_-_St_Sulpice_int_01.jpg/250px-Paris_06_-_St_Sulpice_int_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pilaster"
+        }
+    ],
+    "territory_geojson": null
+}

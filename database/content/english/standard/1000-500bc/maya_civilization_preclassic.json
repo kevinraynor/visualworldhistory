@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1977,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:281ba2215c135e27c702248c787d2148fbfb624a96320db3f5d6c21cf16e0fa6",
+    "summary": "The Preclassic Maya civilization (c. 2000 BC – 250 AD, with the Middle Preclassic period c. 1000–300 BC being the focus here) saw the gradual development of Maya culture from small agricultural villages to increasingly complex chiefdoms and early states, centered in the lowlands of Guatemala, Belize, Mexico, and Honduras. The Middle and Late Preclassic periods produced the first Maya monumental architecture, early writing, and calendar systems that would reach their full elaboration in the Classic period.\n\nKey Middle and Late Preclassic sites include Nakbe (c. 1000–400 BC), which developed the first large Maya platforms and causeways connecting plazas, and El Mirador (c. 300 BC–150 AD), which reached extraordinary scale — the La Danta pyramid complex may be the largest pyramid by volume in the world. The Preclassic period saw the development of Maya writing (though the [[event:3560|Zapotec Writing]] is contemporaneous or earlier in Mesoamerica), the Long Count calendar (see [[event:2008|Mesoamerican Long Count Calendar]]), and the elaborate astronomical and divinatory traditions that characterize classic Maya culture. Maize agriculture, intensified through wetland farming systems, supported the population growth that enabled these developments.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maya_civilization#Preclassic_period",
+    "read_more_links": [
+        {
+            "title": "El Mirador preclassic site",
+            "url": "https://en.wikipedia.org/wiki/El_Mirador"
+        },
+        {
+            "title": "Nakbe early Maya center",
+            "url": "https://en.wikipedia.org/wiki/Nakbe"
+        },
+        {
+            "title": "Maya writing origins",
+            "url": "https://en.wikipedia.org/wiki/Maya_script#Origins"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/300px-Chichen_Itza_3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg",
+            "caption": "El Castillo (pyramid of Kukulcán) in Chichén Itzá",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/D%C3%ADa_Internacional_de_los_Pueblos_Ind%C3%ADgenas_%287852553230%29.jpg/300px-D%C3%ADa_Internacional_de_los_Pueblos_Ind%C3%ADgenas_%287852553230%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/D%C3%ADa_Internacional_de_los_Pueblos_Ind%C3%ADgenas_%287852553230%29.jpg",
+            "caption": "Quito (Ecuador), 24 de Agosto del 2012.-En el Ministerio de Relaciones Exteri...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hochob_II_2.jpg/300px-Hochob_II_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hochob_II_2.jpg",
+            "caption": "Hochob, Campeche, Mexico: building II, central part",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bonampak%2C_Chiapas._13.JPG/300px-Bonampak%2C_Chiapas._13.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bonampak%2C_Chiapas._13.JPG",
+            "caption": "Pinturas ancestrales en mítica zona arqueológica de Bonampak, Chiapas.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Maya architecture",
+            "summary": "Architecture style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Palenque%2C_Chiapas%2C_Mexico.JPG/250px-Palenque%2C_Chiapas%2C_Mexico.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maya_architecture"
+        },
+        {
+            "name": "Sacbe",
+            "summary": "Paved roads linking ancient Mayan cities",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Sacbe_Dzibilchaltun.jpg/250px-Sacbe_Dzibilchaltun.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sacbe"
+        }
+    ],
+    "territory_geojson": null
+}

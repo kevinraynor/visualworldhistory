@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1491,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fd3d1a1bc5f0d867ce3570a3a2383b5f448c7c8d8cfcd4c4214d68eda83546d4",
+    "summary": "The domestication of the water buffalo (Bubalus bubalis) took place in the Indian subcontinent and Southeast Asia, with genetic and archaeological evidence pointing to origins in the Indus Valley region and southern China around 7000–6000 BCE. Wild water buffalo, known as arni, were large, formidable animals that required sustained effort to bring under human management, suggesting that domestication was a gradual process driven by the agricultural communities of the period.\n\nDomesticated water buffalo became one of the most important draft animals in Asian agriculture, capable of plowing waterlogged paddy fields that oxen could not manage effectively. Their milk, hide, and dung for fuel provided additional resources, making them central to the agrarian economies of South and Southeast Asia for millennia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Water_buffalo#Domestication",
+    "read_more_links": [
+        {
+            "title": "Water Buffalo – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Water_buffalo"
+        },
+        {
+            "title": "Domestication of Animals – Britannica",
+            "url": "https://www.britannica.com/topic/animal-husbandry"
+        },
+        {
+            "title": "History of Agriculture – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_agriculture"
+        },
+        {
+            "title": "Indus Valley – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Buffalo_in_dirt_in_Yala_National_Park.jpg/300px-Buffalo_in_dirt_in_Yala_National_Park.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Buffalo_in_dirt_in_Yala_National_Park.jpg",
+            "caption": "Buffalo in dirt in Yala National Park",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Three_buffaloes_heads_above_water_in_Si_Phan_Don.jpg/300px-Three_buffaloes_heads_above_water_in_Si_Phan_Don.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Three_buffaloes_heads_above_water_in_Si_Phan_Don.jpg",
+            "caption": "Three Bubalus bubalis (water buffaloes) bathing in the Mekong in Don An (Si P...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PCC_Dairy_products.jpg/300px-PCC_Dairy_products.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/PCC_Dairy_products.jpg",
+            "caption": "PCC Dairy Plant, Milka Krem products Philippine Carabao Center[1] NATIONAL HE...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bubalus_bubalis_%28water_buffalo%29_calf%2C_looking_at_the_viewer%2C_the_feet_in_a_pond%2C_in_Laos.jpg/300px-Bubalus_bubalis_%28water_buffalo%29_calf%2C_looking_at_the_viewer%2C_the_feet_in_a_pond%2C_in_Laos.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bubalus_bubalis_%28water_buffalo%29_calf%2C_looking_at_the_viewer%2C_the_feet_in_a_pond%2C_in_Laos.jpg",
+            "caption": "Bubalus bubalis (water buffalo) calf, looking at the viewer, the feet in a po...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Piebald",
+            "summary": "Animal with white markings on a darker coat",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Irish_Tinker_horse_2.JPG/250px-Irish_Tinker_horse_2.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Piebald"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3682,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:7468fcb0e9e970fa2e4245d8aea3179609d9bab124f63bd5bc25dbc782742adf",
+    "summary": "The accelerating deforestation of the Amazon rainforest in Brazil became one of the defining environmental crises of the late twentieth century. While logging and agricultural clearing had occurred for centuries, the pace dramatically intensified from the 1970s onward as the Brazilian government encouraged settlement of the interior, the Trans-Amazonian Highway opened remote areas, and cattle ranching and soybean cultivation expanded at the expense of forest. Between 1970 and 2000, Brazil lost approximately 500,000 square kilometers of Amazon forest — an area larger than Spain.\n\nThe assassination of rubber tapper union leader Chico Mendes in 1988 by ranchers opposed to his campaign to protect the forest brought global attention to the conflict between development and conservation in the Amazon. The [[event:3374|Rio Earth Summit]] of 1992 drew attention to tropical deforestation as a global issue, linking it to biodiversity loss and climate change. By the end of the twentieth century, the Amazon was understood not merely as a regional environmental resource but as a critical global carbon sink and biodiversity reservoir, whose degradation would have planetary consequences. Annual deforestation rates peaked at over 27,000 square kilometers per year in the mid-1990s before international pressure and improved monitoring began to reduce the rate.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest",
+    "read_more_links": [
+        {
+            "title": "Chico Mendes",
+            "url": "https://en.wikipedia.org/wiki/Chico_Mendes"
+        },
+        {
+            "title": "Trans-Amazonian Highway",
+            "url": "https://en.wikipedia.org/wiki/Trans-Amazonian_Highway"
+        },
+        {
+            "title": "Amazon rainforest",
+            "url": "https://en.wikipedia.org/wiki/Amazon_rainforest"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/COP26-UNFCCC_%2851651689982%29.jpg/300px-COP26-UNFCCC_%2851651689982%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/COP26-UNFCCC_%2851651689982%29.jpg",
+            "caption": "Evento: COP26 Inovações - 26ª Conferência das Partes da Convenção-Quadro das ...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/300px-Earth_Day_Flag.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Earth_Day_Flag.png",
+            "caption": "Higher-quality PNG version of John McConnell's Earth Day flag, based on this ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sugarcane_Deforestation%2C_Bolivia%2C_2016-06-15_by_Planet_Labs.jpg/300px-Sugarcane_Deforestation%2C_Bolivia%2C_2016-06-15_by_Planet_Labs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sugarcane_Deforestation%2C_Bolivia%2C_2016-06-15_by_Planet_Labs.jpg",
+            "caption": "Sugarcane Deforestation Bolivia June 15, 2016\nAmazon forestry researchers obs...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Los_Llanos%2C_Venezuela_%2812832335223%29.jpg/300px-Los_Llanos%2C_Venezuela_%2812832335223%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Los_Llanos%2C_Venezuela_%2812832335223%29.jpg",
+            "caption": "Los Llanos, Venezuela",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jair Bolsonaro",
+            "summary": "President of Brazil from 2019 to 2023",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jair_Bolsonaro_2019_Portrait_%283x4_cropped%29.jpg/250px-Jair_Bolsonaro_2019_Portrait_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jair_Bolsonaro"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2235,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:9a4106e76b4e9cf97b51233841bd6317f140de02e006fc7868172c8d1e759ea5",
+    "summary": "The Hundred Years' War (1337–1453 AD) was a series of armed conflicts between the kingdoms of England and France that together lasted over a century, shaped by English dynastic claims to the French throne, competition for control of Gascony, and the intervention of Scottish, Burgundian, and other powers. Beginning when Edward III of England claimed the French crown through his mother, the war proceeded through several distinct phases and produced some of the most famous military and political events in medieval European history — the battles of [[event:2986|Crécy]] and Agincourt, the siege of Orléans, and the career of [[event:2236|Joan of Arc]].\n\nThe war was transformative for both countries. Military technology shifted dramatically: the English longbow — capable of penetrating plate armor at range — devastated French chivalric cavalry at Crécy (1346), Poitiers (1356), and [[event:2237|Agincourt]] (1415), demonstrating that massed archery could defeat the most expensive and supposedly invincible military force of the age. Gunpowder artillery gradually superseded the longbow, and by the war's end the French had developed the most effective artillery train in Europe. Politically, prolonged warfare accelerated the development of national identity in both kingdoms — the English expelled from France consolidated an English rather than Anglo-French identity, while French resistance under Joan of Arc and the Valois monarchy crystallized French national consciousness. The war ended with the English retaining only Calais of their French possessions, completing the transformation of England from a continental power into an island nation oriented toward the sea — a reorientation that would eventually lead to the [[event:97|Age of Exploration]].\n\nThe war also caused enormous civilian suffering through repeated raids (chevauchée — systematic devastation of enemy countryside), the [[event:95|Black Death]] that struck mid-war, and the political instability that generated popular revolts in both countries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+    "read_more_links": [
+        {
+            "title": "English longbow Hundred Years War battles",
+            "url": "https://en.wikipedia.org/wiki/Longbow#Hundred_Years%27_War"
+        },
+        {
+            "title": "Hundred Years War national identity formation",
+            "url": "https://en.wikipedia.org/wiki/Hundred_Years%27_War#Consequences"
+        },
+        {
+            "title": "Chevauchée warfare civilian devastation",
+            "url": "https://en.wikipedia.org/wiki/Chev%C3%Aluch%C3%A9e"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KarlVII.jpg/300px-KarlVII.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/KarlVII.jpg",
+            "caption": "Charles VII of France ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/KarlVII.jpg/300px-KarlVII.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/KarlVII.jpg",
+            "caption": "Charles VII of France ",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bataille_de_la_Rochelle.jpg/300px-Bataille_de_la_Rochelle.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bataille_de_la_Rochelle.jpg",
+            "caption": "Naval battle of La Rochelle, 1372",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hommage_d_%C3%89douard_Ier_%C3%A0_Philippe_le_Bel.jpg/300px-Hommage_d_%C3%89douard_Ier_%C3%A0_Philippe_le_Bel.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hommage_d_%C3%89douard_Ier_%C3%A0_Philippe_le_Bel.jpg",
+            "caption": "Tribute of Edward I to Philip the Fair, Great Chronicles of France, illuminat...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Joan of Arc",
+            "summary": "French folk heroine and saint (1412–1431)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/250px-Joan_of_Arc_miniature_graded.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joan_of_Arc"
+        },
+        {
+            "name": "Philip VI of France",
+            "summary": "Disputed King of France from 1328 to 1350",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Phil6france.jpg/250px-Phil6france.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_VI_of_France"
+        },
+        {
+            "name": "Edward III",
+            "summary": "King of England from 1327 to 1377",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg/250px-Edward_III_of_England_%28Order_of_the_Garter%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_III"
+        },
+        {
+            "name": "John II of France",
+            "summary": "King of France from 1350 to 1364",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jean_II_Le_Bon_-_BnF_-_Mus%C3%A9e_du_Louvre_Peinures_RF_2490.jpg/250px-Jean_II_Le_Bon_-_BnF_-_Mus%C3%A9e_du_Louvre_Peinures_RF_2490.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_II_of_France"
+        },
+        {
+            "name": "Charles V of France",
+            "summary": "King of France from 1364 to 1380",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Saint-Denis_%2893%29%2C_basilique%2C_gisant_de_Charles_V_sculpt%C3%A9_lorsqu%27il_avait_27_ans_2.jpg/250px-Saint-Denis_%2893%29%2C_basilique%2C_gisant_de_Charles_V_sculpt%C3%A9_lorsqu%27il_avait_27_ans_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_V_of_France"
+        },
+        {
+            "name": "Charles VI of France",
+            "summary": "King of France from 1380 to 1422",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Charles_VI_de_France_-_Dialogues_de_Pierre_Salmon_-_Bib_de_Gen%C3%A8ve_MsFr165f4.jpg/250px-Charles_VI_de_France_-_Dialogues_de_Pierre_Salmon_-_Bib_de_Gen%C3%A8ve_MsFr165f4.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_VI_of_France"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1571,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:c4e3af06c66eca79fdbed1a13eba98c280dbe17ac9367eea77cee31a1dfc5db9",
+    "summary": "The Ghassulian culture was a Chalcolithic culture of the southern Levant, centered in the Jordan Valley and its environs but extending into the Negev, coastal plain, and Galilee, dating to approximately 4400–3300 BCE. Named after the site of Tulaylat al-Ghassul in Jordan, the Ghassulian culture is the most extensively documented expression of the [[event:1570|Chalcolithic Levant]] tradition and is particularly notable for its remarkable painted wall art, copper metalworking, and sophisticated ceramic tradition.\n\nGhassulian communities practiced mixed agriculture, cultivating cereals, olives, and dates in the warm, irrigable valleys and terraces of the southern Levant. They constructed substantial above-ground buildings with plaster floors and, at Tulaylat al-Ghassul, produced extraordinary painted wall frescoes depicting geometric and symbolic motifs including a complex eight-pointed star design — among the earliest known narrative or ceremonial art in the Levant. Ossuaries — ceramic containers for secondary burial of human bones — represent a distinctive Ghassulian mortuary practice, suggesting ritual treatment of the dead involving disarticulation and redeposition of bones.\n\nGhassulian copper metallurgy reached considerable sophistication, anticipating the extraordinary objects of the [[event:1572|Nahal Mishmar hoard]]. The Ghassulian culture eventually gave way to the Bronze Age cultures of the region around 3300–3000 BCE, as the broader transformation of the ancient Near East associated with urban civilization spread through the Levant.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ghassulian",
+    "read_more_links": [
+        {
+            "title": "Tulaylat al-Ghassul - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tulaylat_al-Ghassul"
+        },
+        {
+            "title": "Chalcolithic Israel - Britannica",
+            "url": "https://www.britannica.com/place/ancient-Israel-and-Judah/Chalcolithic-period"
+        },
+        {
+            "title": "Southern Levant prehistory - World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Chalcolithic_Period/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Copper_Ibex_Scepter%2C_Lost_Wax_Process%2C_4500-3500_BC%2C_from_Cave_of_the_Treasures%2C_Judean_Desert_%2842312062225%29.jpg/300px-Copper_Ibex_Scepter%2C_Lost_Wax_Process%2C_4500-3500_BC%2C_from_Cave_of_the_Treasures%2C_Judean_Desert_%2842312062225%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Copper_Ibex_Scepter%2C_Lost_Wax_Process%2C_4500-3500_BC%2C_from_Cave_of_the_Treasures%2C_Judean_Desert_%2842312062225%29.jpg",
+            "caption": "Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldH...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Ghassulian_star.jpg/300px-The_Ghassulian_star.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/The_Ghassulian_star.jpg",
+            "caption": "Hakob Me'Sul - wall painting Tuluyot E'Sul",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/House_model.JPG/300px-House_model.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/House_model.JPG",
+            "caption": "Ossarium, Ghassul culture, around 3500 BC (Palestine); now in British Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sceptre",
+            "summary": "Staff held by a ruler to symbolize authority",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Darius_the_Great.jpg/250px-Darius_the_Great.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sceptre"
+        }
+    ],
+    "territory_geojson": null
+}

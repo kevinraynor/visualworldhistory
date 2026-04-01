@@ -1,0 +1,59 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1262,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:261f3954e46dfa8fa843c9244f351c853df6af468d1c62cc7f6a50cbdaae0b5a",
+    "summary": "The end of the last Ice Age — more precisely the termination of the Last Glacial Maximum (LGM) and the transition into the Holocene epoch — represents one of the most consequential environmental transformations in human prehistory. Beginning around 19,000 BCE with the onset of deglaciation and culminating approximately 11,700 BCE with the close of the [[event:1261|Younger Dryas]] cold reversal, this multi-millennial process fundamentally reshaped the physical geography, ecology, and human habitation patterns of the entire planet.\n\nAt the peak of the last glacial period around 26,500–20,000 BCE, ice sheets up to three kilometers thick covered northern North America, northern Europe, and portions of northern Asia. Global sea levels stood approximately 120–130 meters lower than today, exposing vast areas of continental shelf as dry land. The landmasses known as Beringia (connecting Asia and North America), Doggerland (connecting Britain to continental Europe), and [[event:1318|Sundaland]] (connecting the islands of Southeast Asia) were all dry land inhabited by humans and megafauna.\n\nAs temperatures rose from around 19,000 BCE onward, the great ice sheets retreated. The [[event:1363|Laurentide Ice Sheet]] covering North America, the Fennoscandian Ice Sheet over Europe, and the lesser glaciers of Asia and the Southern Hemisphere all melted, releasing enormous volumes of fresh water into the world's oceans. [[event:1364|Sea levels rose]] by over 120 meters in total, flooding coastal lowlands, severing island connections, and inundating what had been some of the most productive hunter-gatherer habitats on earth.\n\nThe warming created new ecological opportunities as forests, grasslands, and tundra zones rapidly shifted poleward. Climatic zones that had been compressed southward during the glacial maximum expanded into newly deglaciated territory, enabling human colonization of previously frozen regions including Scandinavia and central Canada. Simultaneously, the warm-adapted megafauna of the Pleistocene — mammoths, woolly rhinoceroses, giant ground sloths, and others — faced the combined pressures of rapidly changing habitats and human hunting, contributing to the [[event:1289|extinction of megafauna]] across the Americas, Europe, and Australia.\n\nThe stabilization of the Holocene climate beginning around 11,700 BCE created the relatively warm and predictable conditions that allowed the development of agriculture across multiple world regions. The [[event:1|Neolithic Revolution in the Fertile Crescent]], early rice cultivation in [[event:6|China's Yangtze basin]], and the beginnings of plant domestication in the Americas all unfolded against the backdrop of the stable, productive Holocene environment — making the end of the Ice Age a necessary precondition for the rise of civilization itself.\n\nThe glacial-interglacial cycle is driven by orbital variations in Earth's relationship to the Sun, known as Milankovitch cycles, combined with feedback mechanisms involving atmospheric carbon dioxide, ocean circulation, and ice-albedo effects. The current interglacial, the Holocene, is now recognized to have been significantly altered by human agricultural and industrial activity, leading many scientists to define a new epoch — the Anthropocene — in recognition of humanity's status as a planetary-scale geological force.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Last_Glacial_Maximum",
+    "read_more_links": [
+        {
+            "title": "Holocene - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Holocene"
+        },
+        {
+            "title": "Ice Age - Britannica",
+            "url": "https://www.britannica.com/science/ice-age"
+        },
+        {
+            "title": "Quaternary Glaciation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Quaternary_glaciation"
+        },
+        {
+            "title": "Deglaciation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Deglaciation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Global_sea_levels_during_the_last_Ice_Age.jpg/300px-Global_sea_levels_during_the_last_Ice_Age.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Global_sea_levels_during_the_last_Ice_Age.jpg",
+            "caption": "Global sea levels during the last Ice Age",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Northern_icesheet_hg.png/300px-Northern_icesheet_hg.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Northern_icesheet_hg.png",
+            "caption": "Northern Hemisphere glaciation during the last ice ages. The accumulation of ...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Europe20000ya.png/300px-Europe20000ya.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Europe20000ya.png",
+            "caption": "map of Europe 20,000 years ago.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CLIMAP.jpg/300px-CLIMAP.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/CLIMAP.jpg",
+            "caption": "CLIMAP",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

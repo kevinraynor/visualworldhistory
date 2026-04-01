@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3614,
+    "parent_id": 2135,
+    "granularity": "detailed",
+    "content_hash": "sha256:1e6342383b4291778c44ebe78cf834345ff60b12bc014ca4a1cd037203ba352d",
+    "summary": "Ibn Sina, known in the Latin West as Avicenna (980–1037 AD), was the most influential philosopher-physician of the [[event:2135|Islamic Golden Age]] and one of the most important thinkers in the history of Western civilization. Born near Bukhara in what is today Uzbekistan, Ibn Sina displayed extraordinary intellectual precocity — reportedly memorizing the Quran by age ten and mastering medicine by sixteen — before spending a peripatetic career serving as court physician and vizier to various Central Asian and Persian rulers while producing an enormous corpus of philosophical and scientific writing.\n\nIbn Sina's 'Canon of Medicine' (Al-Qanun fi al-Tibb) was one of the most consequential medical textbooks in history: a systematic synthesis of Greek (Hippocratic and Galenic), Persian, and Arab medical knowledge organized into a rigorous logical framework, covering anatomy, physiology, pathology, pharmacology, and clinical medicine in encyclopedic detail. Translated into Latin in the 12th century, the Canon became a standard textbook in European medical schools — used at institutions including Montpellier and Louvain — from the 12th through the 17th centuries, making Ibn Sina one of the most-read authors in medieval European education. His philosophical work was equally influential: his development and synthesis of Aristotelian philosophy with Neoplatonism and Islamic theology profoundly shaped both Islamic Kalam theology and medieval European scholasticism through the writings of Thomas Aquinas and other scholastics who engaged with his arguments. Ibn Sina's 'floating man' thought experiment — a precursor to Descartes' cogito argument — demonstrates the independence of the soul from the body, indicating his remarkable capacity for original philosophical reasoning centuries before European scholasticism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Avicenna",
+    "read_more_links": [
+        {
+            "title": "Canon Medicine Ibn Sina medical textbook",
+            "url": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine"
+        },
+        {
+            "title": "Ibn Sina floating man thought experiment soul",
+            "url": "https://en.wikipedia.org/wiki/Floating_man"
+        },
+        {
+            "title": "Avicenna influence medieval European medicine",
+            "url": "https://en.wikipedia.org/wiki/Avicenna#Legacy"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Monument_Avicenna_in_Qakh.JPG/300px-Monument_Avicenna_in_Qakh.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Monument_Avicenna_in_Qakh.JPG",
+            "caption": "İbn Sinanın Qaxdakı heykəli",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Persian_Scholar_pavilion_in_Viena_UN_%28Avicenna%29.jpg/300px-Persian_Scholar_pavilion_in_Viena_UN_%28Avicenna%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Persian_Scholar_pavilion_in_Viena_UN_%28Avicenna%29.jpg",
+            "caption": "Persian Scholar Pavilion in Vienna International Centre donated by Iran. Jun ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg/300px-Avicenna_Bust%2C_left_profile_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Avicenna_Bust%2C_left_profile_%28cropped%29.jpg",
+            "caption": "Format:\nStill image\nGenre(s):\nPortraits\nAbstract:\nBust, left profile.\nExtent:...",
+            "attribution": "Wikimedia Commons, No restrictions"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Avicenne_-_Avicenna_-_Ibn_Sina_%28980-1037%29_CIPB2067.jpg/300px-Avicenne_-_Avicenna_-_Ibn_Sina_%28980-1037%29_CIPB2067.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Avicenne_-_Avicenna_-_Ibn_Sina_%28980-1037%29_CIPB2067.jpg",
+            "caption": "Depicted person:  AVICENNE / AVICENNA / IBN SINA\n\n     .mw-parser-output .mes...",
+            "attribution": "Wikimedia Commons, Licence Ouverte"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Al-Kindi",
+            "summary": "Muslim Arab philosopher, mathematician and physician (c. 801–873)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stamp_IQ_1962_6f.jpg/250px-Stamp_IQ_1962_6f.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Kindi"
+        },
+        {
+            "name": "Nizami Aruzi",
+            "summary": "12th-century Persian poet and writer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Folio_of_a_copy_of_the_Chahar_Maqala_by_Nizami_Aruzi._Dated_1383%2C_likely_from_Jalayirid-era_Tabriz.jpg/250px-Folio_of_a_copy_of_the_Chahar_Maqala_by_Nizami_Aruzi._Dated_1383%2C_likely_from_Jalayirid-era_Tabriz.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nizami_Aruzi"
+        },
+        {
+            "name": "Nuh II",
+            "summary": "Amir of the Samanids from 976 to 997",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nuh%2C_son_of_Mansur_suppressing_rebels%2C_from_a_Manuscript_of_Hafiz-i_Abru%E2%80%99s_Majma%E2%80%99_al-tawarikh_%28cropped%29.jpg/250px-Nuh%2C_son_of_Mansur_suppressing_rebels%2C_from_a_Manuscript_of_Hafiz-i_Abru%E2%80%99s_Majma%E2%80%99_al-tawarikh_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nuh_II"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2616,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:db809d766d563d4a1098a3606075012ca000904ae052ae8da51d9fc784bf3bda",
+    "summary": "Dmitri Mendeleev's creation of the periodic table of elements in 1869 was one of the most important organizing achievements in the history of science. By arranging the 63 known elements in order of atomic weight and grouping them by chemical properties, Mendeleev revealed a fundamental pattern in the structure of matter and predicted the existence of several then-unknown elements — predictions that were confirmed by their subsequent discovery.\n\nMendeleev was working on a chemistry textbook and found himself needing to organize the elements systematically for his students. He noticed that when arranged by atomic weight, elements with similar properties recurred at regular intervals. He made the crucial decision to leave gaps in his table where the pattern predicted elements that had not yet been discovered, rather than forcing known elements into positions that violated their chemical properties. He predicted the properties of three missing elements he called eka-boron, eka-aluminum, and eka-silicon, which were later discovered as scandium (1879), gallium (1875), and germanium (1886), with properties closely matching his predictions.\n\nThe periodic table provided chemistry with its fundamental organizing framework — the concept that all elements are members of a systematic pattern governed by their atomic structure. The theoretical explanation of why the table works as it does came only with the development of quantum mechanics in the early twentieth century, which explained the electron shell structure that produces periodicity. Today the table contains 118 confirmed elements and remains one of science's most successful predictive and organizing tools.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Periodic_table",
+    "read_more_links": [
+        {
+            "title": "Dmitri Mendeleev – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev"
+        },
+        {
+            "title": "Periodic Table – Britannica",
+            "url": "https://www.britannica.com/science/periodic-table"
+        },
+        {
+            "title": "History of the Periodic Table – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_periodic_table"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg/300px-Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg",
+            "caption": "Sulfur crystals on the matrix (4.8 × 3.5 × 3 cm). Found from El Desierto mine...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iron_electrolytic_and_1cm3_cube.jpg/300px-Iron_electrolytic_and_1cm3_cube.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Iron_electrolytic_and_1cm3_cube.jpg",
+            "caption": "Pure (99.97 %+) iron chips, electrolytically refined, as well as a high purit...",
+            "attribution": "Wikimedia Commons, FAL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Glenn_Seaborg_-_1964.jpg/300px-Glenn_Seaborg_-_1964.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Glenn_Seaborg_-_1964.jpg",
+            "caption": "Physicist Glenn T. Seaborg, atomic pioneer and Commissioner of the Atomic Ene...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Atomic-orbital-clouds_spdf_m0.png/300px-Atomic-orbital-clouds_spdf_m0.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Atomic-orbital-clouds_spdf_m0.png",
+            "caption": "Collection of ten atomic hydrogen-like single-electron orbitals showing 1s, 2...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

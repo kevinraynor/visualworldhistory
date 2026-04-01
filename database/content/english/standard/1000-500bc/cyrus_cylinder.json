@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1912,
+    "parent_id": 1911,
+    "granularity": "notable",
+    "content_hash": "sha256:95fb7a949f116ba0645cfc0afe757fab4577a6d3ebab27ca4d94c04ca50b68db",
+    "summary": "The Cyrus Cylinder (539 BC) is a clay barrel inscription in Akkadian cuneiform, discovered at Babylon in 1879, which records Cyrus the Great's capture of Babylon and his policies toward the city's people and their gods. Written in the tradition of Babylonian royal inscriptions, it presents Cyrus as the legitimate successor of Babylonian kings chosen by Marduk to rescue the city from the impious Nabonidus, and announces the restoration of cult statues and displaced peoples to their homelands.\n\nThe cylinder became famous in the 20th century when it was promoted as the world's 'first declaration of human rights' by the Shah of Iran, who presented a replica to the United Nations in 1971. While scholars point out this characterization anachronistically reads modern concepts into an ancient political propaganda text — it makes no universal rights claims and was standard Babylonian royal boilerplate — the Cylinder does record genuine policies of religious tolerance and repatriation. Its relevance to Jewish history is significant: though it does not mention Jews by name, it describes exactly the policy that the Hebrew Bible attributes to Cyrus — returning exiled peoples and their sacred objects to their homelands. The original is in the British Museum.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
+    "read_more_links": [
+        {
+            "title": "Cyrus Cylinder British Museum",
+            "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+        },
+        {
+            "title": "Human rights debate Cyrus Cylinder",
+            "url": "https://en.wikipedia.org/wiki/Cyrus_Cylinder#Interpretation_as_charter_of_human_rights"
+        },
+        {
+            "title": "Edict of Cyrus Jewish return",
+            "url": "https://en.wikipedia.org/wiki/Edict_of_Cyrus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cyrus_Cylinder_back.jpg/300px-Cyrus_Cylinder_back.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Cyrus_Cylinder_back.jpg",
+            "caption": "Reverse side of the Cyrus Cylinder",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Cyrus_Cylinder_front.jpg/300px-Cyrus_Cylinder_front.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cyrus_Cylinder_front.jpg",
+            "caption": "Front of the Cyrus Cylinder. Can be seen in The British Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/London_307.JPG/300px-London_307.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/London_307.JPG",
+            "caption": "London 307",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Barrel_cylinder_of_Cyrus_%28transcription%29.jpg/300px-Barrel_cylinder_of_Cyrus_%28transcription%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Barrel_cylinder_of_Cyrus_%28transcription%29.jpg",
+            "caption": "Barrel cylinder of Cyrus (transcription)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Cyrus the Great",
+            "summary": "Founder of the Achaemenid Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/250px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+        },
+        {
+            "name": "Cambyses II",
+            "summary": "Ruler of the Achaemenid Empire from 530 to 522 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Stela_Cambyses_Apis_closeup.jpg/250px-Stela_Cambyses_Apis_closeup.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cambyses_II"
+        },
+        {
+            "name": "Neil MacGregor",
+            "summary": "British art historian (born 1946)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Neil_MacGregor%2C_Bill_Bryson%2C_Claire_Walker%2C_Huw_Edwards_%2828449155987%29_%28Neil_MacGregor_cropped%29.jpg/250px-Neil_MacGregor%2C_Bill_Bryson%2C_Claire_Walker%2C_Huw_Edwards_%2828449155987%29_%28Neil_MacGregor_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Neil_MacGregor"
+        },
+        {
+            "name": "Ashraf Pahlavi",
+            "summary": "Iranian princess (1919–2016)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/PrincessAshrafPahlavi2537.jpg/250px-PrincessAshrafPahlavi2537.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashraf_Pahlavi"
+        },
+        {
+            "name": "U Thant",
+            "summary": "UN Secretary-General from 1961 to 1971",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U_Thant_%281963%29.jpg/250px-U_Thant_%281963%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/U_Thant"
+        },
+        {
+            "name": "Mohammad Reza Pahlavi",
+            "summary": "Shah of Iran from 1941 to 1979",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mohammad_Reza_Pahlavi_1973_portrait_%284x5_cropped%29.jpg/250px-Mohammad_Reza_Pahlavi_1973_portrait_%284x5_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
+        }
+    ],
+    "territory_geojson": null
+}

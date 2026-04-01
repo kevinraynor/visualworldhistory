@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1811,
+    "parent_id": 60,
+    "granularity": "notable",
+    "content_hash": "sha256:bceb287b6b2594992c78ac31961265e735f4a61c0279fe4d40cdec9888ed5519",
+    "summary": "The Valley of the Kings, a dry desert ravine on the west bank of the Nile opposite Thebes (modern Luxor), served as the primary royal necropolis of [[event:60|New Kingdom Egypt]] from approximately 1539 to 1075 BC. During this period, pharaohs and high officials were buried in elaborate rock-cut tombs beneath the cliffs of the valley, their mummies protected by layers of funerary equipment, magical texts, and concealment from grave robbers.\n\nThe decision to move royal burials from the visible pyramid tombs of earlier periods to hidden underground chambers reflected a recognition that the great pyramids, despite their size, had failed to protect royal mummies from plunder. The New Kingdom burial strategy combined geographic isolation, complex tomb layouts, and concealed entrances to thwart robbers — a strategy ultimately unsuccessful, as most tombs were violated in antiquity, some within decades of the burial.\n\nThe valley contains over sixty tombs, including those of [[event:1807|Ramesses II]], [[event:1805|Akhenaten]]'s father Amenhotep III, Seti I (whose tomb is among the most elaborately decorated), and most famously [[event:1806|Tutankhamun]], whose nearly intact tomb was discovered by Howard Carter in 1922. The tomb walls are covered with extracts from religious texts such as the [[event:1812|Book of the Dead]], the Book of the Hidden Chamber (Amduat), and the Book of Gates, providing detailed maps of the underworld through which the deceased king was expected to journey.\n\nThe Valley of the Kings is a UNESCO World Heritage Site and one of the most intensively studied archaeological sites in the world. Modern excavations continue to reveal new chambers and tombs, and the application of ground-penetrating radar and other non-invasive technologies has suggested additional buried structures may remain undiscovered.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+    "read_more_links": [
+        {
+            "title": "Tomb of Tutankhamun (KV62)",
+            "url": "https://en.wikipedia.org/wiki/KV62"
+        },
+        {
+            "title": "Book of the Dead",
+            "url": "https://en.wikipedia.org/wiki/Book_of_the_Dead"
+        },
+        {
+            "title": "Valley of the Kings - Britannica",
+            "url": "https://www.britannica.com/place/Valley-of-the-Kings"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Belzoni%27s_Valley_of_the_Kings.jpg/300px-Belzoni%27s_Valley_of_the_Kings.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Belzoni%27s_Valley_of_the_Kings.jpg",
+            "caption": "Topographical map of the valley of Biban el Malook [Biban el-Muluk], in which...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Valley_of_the_Kings_KV6.jpg/300px-Valley_of_the_Kings_KV6.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Valley_of_the_Kings_KV6.jpg",
+            "caption": "Burial chamber of Ramses IX. in the Valley of the Kings",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/KV11_Tomb_of_Ramses_III_DSCF2941.jpg/300px-KV11_Tomb_of_Ramses_III_DSCF2941.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/KV11_Tomb_of_Ramses_III_DSCF2941.jpg",
+            "caption": "KV11, Tomb of Ramses III. The pillared hall and descent to lower level.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg/300px-KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/KV14_Tomb_of_Tausert_and_Setnakht_DSCF3116.jpg",
+            "caption": "KV14, Tomb of Tausert and Setnakht, one of the burial chambers.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Ramesses III",
+            "summary": "Pharaoh of Egypt from 1186 to 1155 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/KhonsuTemple-Karnak-RamessesIII-2.jpg/250px-KhonsuTemple-Karnak-RamessesIII-2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_III"
+        },
+        {
+            "name": "Amenmesse",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Amenmesses_drawn_by_Rosellini.jpg/250px-Amenmesses_drawn_by_Rosellini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Amenmesse"
+        },
+        {
+            "name": "KV14",
+            "summary": "Ancient Egyptian tomb in the Valley of the Kings",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/KV14_Tomb_of_Tausert_and_Setnakht_DSCF3117.jpg/250px-KV14_Tomb_of_Tausert_and_Setnakht_DSCF3117.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/KV14"
+        },
+        {
+            "name": "KV55",
+            "summary": "Egyptian tomb possibly of Pharaoh Akhenaten",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/KV55_defaced_coffin.JPG/250px-KV55_defaced_coffin.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/KV55"
+        }
+    ],
+    "territory_geojson": null
+}

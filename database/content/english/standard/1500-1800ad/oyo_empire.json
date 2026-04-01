@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2453,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:81781bf646387ec9fd27371ddaf46098afb8195a7f2fa041eb6496a0b2a0a995",
+    "summary": "The Oyo Empire (c. 1300–1836 AD), reaching its apex in the 17th–18th centuries, was the most powerful Yoruba state in West Africa — a sophisticated political entity controlling the savanna corridor between the forest zone and the Sahara, dominating trans-Saharan and later Atlantic trade, and supplying a disproportionate share of the enslaved Africans transported across the [[event:2341|Atlantic slave trade]]. The empire was governed through a complex constitutional monarchy: the Alafin (king) exercised power through a system of checks — the Oyo Mesi (council of seven chiefs) had the authority to command an Alafin to commit suicide if his rule became tyrannical, a constitutional provision unique in African political history. The empire's military power rested on its cavalry — horses were the decisive military technology of the West African savanna, and the Oyo's large cavalry forces gave them a decisive advantage over forest-zone neighbors who could not maintain horses due to tsetse fly disease.\n\nAt its 18th-century peak, the Oyo Empire controlled an area of approximately 150,000 square kilometers, collecting tribute from neighboring states including Dahomey (a highly militarized state that became one of the primary suppliers of enslaved people to European traders, paying tribute to Oyo for the privilege). The Oyo Empire's entanglement with the Atlantic slave trade was deeply damaging to its own society: the demand for enslaved people created incentives for internal raiding and warfare; the firearms purchased with slave-trade profits eventually armed rivals who could challenge Oyo's cavalry supremacy. Internal political crises (multiple Alafin suicides, factional conflicts) combined with these structural pressures to produce the empire's rapid collapse in the early 19th century, creating the political vacuum filled by the Sokoto Caliphate's expansion.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oyo_Empire",
+    "read_more_links": [
+        {
+            "title": "Oyo Empire Alafin constitutional monarchy Yoruba",
+            "url": "https://en.wikipedia.org/wiki/Oyo_Empire#Politics"
+        },
+        {
+            "title": "Oyo cavalry military power West Africa savanna",
+            "url": "https://en.wikipedia.org/wiki/Oyo_Empire#Military"
+        },
+        {
+            "title": "Oyo Dahomey slave trade Atlantic entanglement",
+            "url": "https://en.wikipedia.org/wiki/Oyo_Empire#Slave_trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/300px-African_Bush_Elephant.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+            "caption": "A female African Bush Elephant in Mikumi National Park, Tanzania",
+            "attribution": "Wikimedia Commons, GFDL 1.2"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oyo_Empire_at_Its_Greatest_Extent%2C_c._1780_%285%29.jpg/300px-Oyo_Empire_at_Its_Greatest_Extent%2C_c._1780_%285%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Oyo_Empire_at_Its_Greatest_Extent%2C_c._1780_%285%29.jpg",
+            "caption": "Oyo Empire at Its Greatest Extent, c. 1780",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Oyo-Ile_city_wall_map.png/300px-Oyo-Ile_city_wall_map.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Oyo-Ile_city_wall_map.png",
+            "caption": "Map of Oyo-Ile city wall.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oyo_pillar_15th_century.jpg/300px-Oyo_pillar_15th_century.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Oyo_pillar_15th_century.jpg",
+            "caption": "Creator: ; Date: 15th-18th Century; Material: Metal;Copper alloy (bronze, bra...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Abimbola Owoade",
+            "summary": "Nigerian traditional ruler (born 1975)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/HIM_Oba_Abimbola_Akeem_Owoade1.jpg/250px-HIM_Oba_Abimbola_Akeem_Owoade1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Abimbola_Owoade"
+        },
+        {
+            "name": "Alaafin",
+            "summary": "Title of the ruler of Oyo",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alafin_Oyo_%26_Sir_Walter_Egerton_-_Colorized.png/250px-Alafin_Oyo_%26_Sir_Walter_Egerton_-_Colorized.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alaafin"
+        },
+        {
+            "name": "Oba of Benin",
+            "summary": "Traditional ruler of the Edo people",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ovonramwen_Nogbaisi_with_his_two_wives_in_Calabar%2C_c1912_%28cropped%29.jpg/250px-Ovonramwen_Nogbaisi_with_his_two_wives_in_Calabar%2C_c1912_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oba_of_Benin"
+        },
+        {
+            "name": "Cavalry",
+            "summary": "Soldiers or warriors fighting from horseback",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg/250px-Edouard_Detaille_-_Vive_L%27Empereur_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalry"
+        },
+        {
+            "name": "Oduduwa",
+            "summary": "Yoruba divine king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Oduduwa_02.jpg/250px-Oduduwa_02.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oduduwa"
+        }
+    ],
+    "territory_geojson": null
+}

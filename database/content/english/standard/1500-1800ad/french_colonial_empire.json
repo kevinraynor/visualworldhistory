@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2399,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:43cb592772d0b3448a668427b5a62a4d411d9eec47cd6b36a04deac9d331b02a",
+    "summary": "The French Colonial Empire (c. 1534–1980) developed in two major phases: the 'First Empire' (c. 1534–1815) that dominated North America, the Caribbean, and parts of India before being largely lost to the British in the [[event:2332|Seven Years' War]] and the [[event:107|Napoleonic Wars]], and a 'Second Empire' (c. 1830–1962) centered on Africa and Indochina. The First Empire began with Jacques Cartier's exploration of the St. Lawrence River (1534–1542), leading eventually to the [[event:2455|founding of Quebec]] (1608) by Samuel de Champlain and the development of New France — a vast territory stretching from the Gulf of St. Lawrence to the Gulf of Mexico, sparsely settled compared to English colonies but economically valuable through the fur trade and strategically important as an encirclement of British North America.\n\nFrance's Caribbean colonies — Saint-Domingue (Haiti), Martinique, Guadeloupe — were the most economically productive colonies in the Americas per capita, supplying most of Europe's sugar and coffee through the labor of hundreds of thousands of enslaved Africans. The [[event:2335|Haitian Revolution]] destroyed the most valuable Caribbean colony in 1804. France's Indian trading posts (Pondicherry, Chandannagar) were largely lost after the Seven Years' War. Napoleon's sale of Louisiana to the United States in 1803 (the Louisiana Purchase) ended France's North American ambitions entirely, allowing him to concentrate resources on the European wars. The French colonial legacy is complex: the spread of the French language, the revolutionary ideals of liberty and equality that simultaneously justified colonialism and inspired independence movements, and the forced conversion of diverse African and Asian societies to French administrative systems created lasting tensions that shaped post-colonial politics across three continents.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/French_colonial_empire",
+    "read_more_links": [
+        {
+            "title": "New France Quebec Canada fur trade settlement",
+            "url": "https://en.wikipedia.org/wiki/New_France"
+        },
+        {
+            "title": "Saint-Domingue Haiti Caribbean sugar colony France",
+            "url": "https://en.wikipedia.org/wiki/Saint-Domingue"
+        },
+        {
+            "title": "Louisiana Purchase Napoleon United States 1803",
+            "url": "https://en.wikipedia.org/wiki/Louisiana_Purchase"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/LaGuerreAMadagascar.jpg/300px-LaGuerreAMadagascar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/LaGuerreAMadagascar.jpg",
+            "caption": "Depiction of the 1895 French war in Madagascar.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Le_Petit_Journal_-_Au_Maroc%2C_la_colonne_du_g%C3%A9n%C3%A9ral_Baumgarten_occupe_Taza.jpg/300px-Le_Petit_Journal_-_Au_Maroc%2C_la_colonne_du_g%C3%A9n%C3%A9ral_Baumgarten_occupe_Taza.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Le_Petit_Journal_-_Au_Maroc%2C_la_colonne_du_g%C3%A9n%C3%A9ral_Baumgarten_occupe_Taza.jpg",
+            "caption": "Le Petit Journal - Au Maroc, la colonne du général Baumgarten occupe Taza.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Attack_on_Goree%2C_29_December_1758_RMG_BHC0386.jpg/300px-Attack_on_Goree%2C_29_December_1758_RMG_BHC0386.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Attack_on_Goree%2C_29_December_1758_RMG_BHC0386.jpg",
+            "caption": "Attack on Goree, 29 December 1758\nThe island fortress of Goree lay off Dakar ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Point_d%27eau.jpg/300px-Point_d%27eau.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Point_d%27eau.jpg",
+            "caption": "Rassemblement autour d'un abreuvoir et paysage typique.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Jacques Cartier",
+            "summary": "French maritime explorer of North America (1491–1557)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jacques_Cartier_1851-1852.jpg/250px-Jacques_Cartier_1851-1852.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Cartier"
+        },
+        {
+            "name": "French franc",
+            "summary": "Currency of France from 1360 to 2002",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/French_franc_last_series_banknotes.png/250px-French_franc_last_series_banknotes.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/French_franc"
+        },
+        {
+            "name": "Jules Ferry",
+            "summary": "French Prime Minister in the 1800s",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jules_Ferry_-_The_Evolution_of_France_under_the_Third_Republic_%28cropped%29.jpg/250px-Jules_Ferry_-_The_Evolution_of_France_under_the_Third_Republic_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jules_Ferry"
+        },
+        {
+            "name": "Georges Leygues",
+            "summary": "Prime Minister of France (1857–1933)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Georges_Leygues_01.jpg/250px-Georges_Leygues_01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Leygues"
+        },
+        {
+            "name": "Charles de Gaulle",
+            "summary": "French general and statesman (1890–1970)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/De_Gaulle-OWI.jpg/250px-De_Gaulle-OWI.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_de_Gaulle"
+        },
+        {
+            "name": "Giovanni da Verrazzano",
+            "summary": "Florentine explorer of North America for France (1485–1528)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Giovanni_da_Verrazano.jpg/250px-Giovanni_da_Verrazano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Giovanni_da_Verrazzano"
+        }
+    ],
+    "territory_geojson": null
+}

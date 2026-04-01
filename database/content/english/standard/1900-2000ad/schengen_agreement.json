@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3487,
+    "parent_id": 115,
+    "granularity": "detailed",
+    "content_hash": "sha256:2c365604a1f3b7e6393982b341cc9e20105c49f214fe37262b900928d8dd2e6a",
+    "summary": "The Schengen Agreement, initially signed in June 1985 by France, West Germany, Belgium, Luxembourg, and the Netherlands aboard a boat on the Moselle River near the Luxembourg village of Schengen, created the framework for eliminating border controls between signatory states. The Schengen Convention of 1990 specified the practical arrangements, and the system came into force in 1995, initially among seven states. The agreement allowed citizens of member states to travel freely across shared borders without passport checks.\n\nThe Schengen Area gradually expanded to include most EU member states and several non-EU countries such as Switzerland, Norway, and Iceland, eventually creating a borderless zone of over 400 million people. It represented one of the most tangible everyday manifestations of European integration, transforming the experience of intra-European travel and work. The agreement required compensating measures — harmonized visa policies, shared information systems, and strengthened external border controls — to manage the security implications of internal border removal. The Schengen system faced significant stress during the 2015 migration crisis, when several member states temporarily reintroduced border controls.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Schengen_Agreement",
+    "read_more_links": [
+        {
+            "title": "Schengen Area",
+            "url": "https://en.wikipedia.org/wiki/Schengen_Area"
+        },
+        {
+            "title": "Freedom of movement in the European Union",
+            "url": "https://en.wikipedia.org/wiki/Freedom_of_movement_for_workers_in_the_European_Union"
+        },
+        {
+            "title": "Schengen Information System",
+            "url": "https://en.wikipedia.org/wiki/Schengen_Information_System"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Schengen_Agreement_place.jpg/300px-Schengen_Agreement_place.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Schengen_Agreement_place.jpg",
+            "caption": "Schengen, a village in Luxembourg. This is where the Schengen Agreement was s...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Schengen_Agreement_%281985%29_signatures.jpg/300px-Schengen_Agreement_%281985%29_signatures.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Schengen_Agreement_%281985%29_signatures.jpg",
+            "caption": "Schengen Agreement signed 1985-06-14, on display in the Schengen Treaty Museu...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ponteminho4.jpg/300px-Ponteminho4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ponteminho4.jpg",
+            "caption": "Saída da Ponte internacional sobre o Rio Minho, fronteira entre Espanha e Por...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pope Francis",
+            "summary": "Head of the Catholic Church from 2013 to 2025",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg/250px-Pope_Francis_Korea_Haemi_Castle_19_%284x5_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Francis"
+        }
+    ],
+    "territory_geojson": null
+}

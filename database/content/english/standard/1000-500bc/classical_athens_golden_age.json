@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 73,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e93e03054b174c541f55a7460b7f7b5bc1cd208efc60673731123e36799c2192",
+    "summary": "Classical Athens (c. 480–323 BC) was the city-state that produced the defining cultural achievements of ancient Greece — democracy, philosophy, drama, and art — while simultaneously governing a maritime empire and engaging in the wars that ultimately exhausted it. Athens under Pericles (461–429 BC) represented the fullest expression of the Athenian democratic ideal: citizens governed directly through the assembly, the courts, and elected magistracies, while the city's cultural life was unparalleled in the ancient world.\n\nThe physical and intellectual achievements of Classical Athens remain extraordinary: the Parthenon and the Acropolis program; the dramas of Aeschylus, Sophocles, Euripides, and Aristophanes; the philosophy of Socrates, Plato, and Aristotle; the historiography of [[event:1190|Herodotus Father of History]] and [[event:1222|Thucydides History]]; the medicine of Hippocrates. The Athenian democratic tradition — government by citizen self-rule, open deliberation, equality before the law — became the model against which all subsequent democratic theory defined itself, for better and worse. Athens's final defeat in the [[event:1010|Peloponnesian War]] and its subsequent decline under Macedonian hegemony did not diminish the cultural legacy that continued to shape the Mediterranean world and, through Rome, all of Western civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Classical_Athens",
+    "read_more_links": [
+        {
+            "title": "Athenian democracy overview",
+            "url": "https://en.wikipedia.org/wiki/Athenian_democracy"
+        },
+        {
+            "title": "Pericles statesman",
+            "url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "title": "Classical Greek culture",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Greece#Classical_Greece"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hephaistos_Temple.JPG/300px-Hephaistos_Temple.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hephaistos_Temple.JPG",
+            "caption": "The Temple of Hephaistos in Athens",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ath%C3%A8nes_Acropole_Caryatides.JPG/300px-Ath%C3%A8nes_Acropole_Caryatides.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ath%C3%A8nes_Acropole_Caryatides.JPG",
+            "caption": "Athènes : les Caryatides sur l'Acropole. Photo prise par Harrieta171 le 21/01/06",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Athens_academy.jpg/300px-Athens_academy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Athens_academy.jpg",
+            "caption": "Academy of Athens",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Akropolis_by_Leo_von_Klenze.jpg/300px-Akropolis_by_Leo_von_Klenze.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg",
+            "caption": "Akropolis by Leo von Klenze",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Socrates",
+            "summary": "Greek philosopher (c. 470–399 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/250px-Socrate_du_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Socrates"
+        },
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "name": "Aristophanes",
+            "summary": "Classical Athenian comic playwright (c. 446 – c. 386 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bust_of_Aristophanes.jpg/250px-Bust_of_Aristophanes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristophanes"
+        },
+        {
+            "name": "Sophocles",
+            "summary": "5th century BC Athenian tragic playwright",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sophocles_pushkin.jpg/250px-Sophocles_pushkin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sophocles"
+        }
+    ],
+    "territory_geojson": null
+}

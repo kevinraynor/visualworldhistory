@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 85,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:b7a1b789f148929ca42c59715b62e68098d256e8ea9ee5ee93ced15720909b54",
+    "summary": "The fall of the Western Roman Empire (conventionally dated to 476 AD when [[event:2861|Odoacer Deposes Romulus]] deposed the last emperor Romulus Augustulus) was a process stretching over centuries rather than a single event — the gradual unraveling of Roman political authority in the West through a combination of economic strain, military overextension, political fragmentation, the [[event:2038|Germanic Migration Period]] Germanic migrations, and the loss of fiscal and administrative coherence. The event has generated one of history's longest historiographical debates: Edward Gibbon's 18th-century attribution of decline to Christianity and barbarian invasions began a controversy that continues today.\n\nThe [[event:2025|Crisis of Third Century]] (235–284 AD) nearly destroyed the empire; [[event:2026|Diocletian Reforms]] and [[event:2027|Constantine the Great]] stabilized it temporarily through radical administrative restructuring and the [[event:2790|Division Roman Empire]]. But the [[event:2793|Battle of Adrianople]] (378 AD), where the Visigoths killed the Emperor Valens, showed the military's vulnerability. The [[event:2033|Sack of Rome by Visigoths]] (410 AD) shocked the empire's psychological self-confidence; the [[event:2037|Vandal Sack of Rome]] (455 AD) further stripped resources. By 476 AD, the Western imperial title had become meaningless — power rested with Germanic military commanders, and its formal abolition changed little practically. The Eastern Empire (Byzantine) survived the process intact, viewing itself as the legitimate continuation of Rome.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+    "read_more_links": [
+        {
+            "title": "Historiography decline and fall debate",
+            "url": "https://en.wikipedia.org/wiki/Historiography_of_the_fall_of_Rome"
+        },
+        {
+            "title": "Gibbon Decline and Fall",
+            "url": "https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire"
+        },
+        {
+            "title": "Germanic kingdoms succeed Rome",
+            "url": "https://en.wikipedia.org/wiki/Migration_Period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hispania_418_AD.PNG/300px-Hispania_418_AD.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Hispania_418_AD.PNG",
+            "caption": "Iberian peninsula in year 418, after the Rhine invaders had divided Hispania ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Europe_and_the_Near_East_at_476_AD.png/300px-Europe_and_the_Near_East_at_476_AD.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Europe_and_the_Near_East_at_476_AD.png",
+            "caption": "Political division in Europe, North Africa and Near East after the end of the...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/DN_Honorio_Florentissimo.jpg/300px-DN_Honorio_Florentissimo.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/DN_Honorio_Florentissimo.jpg",
+            "caption": "CIL VI 1194, Inscription dedicated to Honorius by Rufius Antonius Agrypnius V...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Invasions_of_the_Roman_Empire_1.png/300px-Invasions_of_the_Roman_Empire_1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Invasions_of_the_Roman_Empire_1.png",
+            "caption": "Map of the \"barbarian\" invasions by the Angles, Saxons, Jutes, Franks, Goths,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        },
+        {
+            "name": "Theodosius I",
+            "summary": "Roman emperor from 379 to 395",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bust_of_Theodosius_I.jpg/250px-Bust_of_Theodosius_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Theodosius_I"
+        },
+        {
+            "name": "Odoacer",
+            "summary": "Ruler of Italy (c. 433 – 493)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png/250px-Coin_of_Odoacer_at_the_British_Museum_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Odoacer"
+        },
+        {
+            "name": "Romulus Augustulus",
+            "summary": "Western Roman emperor from 475 to 476",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg/250px-Gold_Solidus_of_Romulus_Augustulus.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
+        },
+        {
+            "name": "Zeno (emperor)",
+            "summary": "Eastern Roman emperor (474–475; 476–491)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Solidus_of_Roman_emperor_Zeno.jpg/250px-Solidus_of_Roman_emperor_Zeno.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeno_%28emperor%29"
+        },
+        {
+            "name": "Edward Gibbon",
+            "summary": "British essayist, historian and politician (1737–1794)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_Emily_Gibbon.jpg/250px-Edward_Emily_Gibbon.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Gibbon"
+        }
+    ],
+    "territory_geojson": null
+}

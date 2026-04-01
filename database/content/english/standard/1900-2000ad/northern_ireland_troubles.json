@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3380,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:481b5904e926c36c828e354db7393f29318d48370f25e4cde3cc5f1c7a111a55",
+    "summary": "The Troubles was a period of ethno-nationalist conflict in Northern Ireland from approximately 1968 to 1998, involving republican paramilitary groups seeking unification with the Republic of Ireland, loyalist paramilitaries committed to maintaining the union with Britain, and British security forces. The conflict claimed approximately 3,500 lives and injured tens of thousands more. Its roots lay in the partition of Ireland in 1921, the creation of a Protestant-majority Northern Ireland under British rule, and the systematic discrimination faced by the Catholic nationalist minority.\n\nThe modern conflict ignited in 1968–1969 when civil rights marches by Catholic demonstrators were met with violence from loyalists and the Royal Ulster Constabulary. British troops were deployed to restore order. The Provisional IRA launched a bombing and assassination campaign, while loyalist paramilitaries targeted Catholics. Atrocities on all sides scarred the communities: Bloody Sunday in January 1972, when British soldiers shot dead 14 unarmed civil rights marchers in Derry; bombings on the British mainland; and sectarian murders throughout the region.\n\nPeace negotiations accelerated in the early 1990s, ultimately producing the [[event:2730|Good Friday Agreement]] signed on April 10, 1998. The agreement established power-sharing institutions, addressed the status of paramilitary prisoners, and set frameworks for cross-border cooperation. The Troubles demonstrated both the tenacity of ethnic and religious divisions in modern societies and the capacity of sustained diplomacy to negotiate settlements to seemingly intractable conflicts.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Troubles",
+    "read_more_links": [
+        {
+            "title": "Northern Ireland Troubles - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/the-Troubles-Northern-Ireland-history"
+        },
+        {
+            "title": "Good Friday Agreement - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Good_Friday_Agreement"
+        },
+        {
+            "title": "Bloody Sunday - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Red_hand_commando_Flag.png/300px-Red_hand_commando_Flag.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Red_hand_commando_Flag.png",
+            "caption": "There was issues on finding red hand commando flag and we find it, we suggest...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Shorland_armoured_car_mk1.jpg/300px-Shorland_armoured_car_mk1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Shorland_armoured_car_mk1.jpg",
+            "caption": "Photo of a Mk1 Shorland armoured car",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Derry_-_Mural_in_Catholic_Neighbourhood.jpg/300px-Derry_-_Mural_in_Catholic_Neighbourhood.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Derry_-_Mural_in_Catholic_Neighbourhood.jpg",
+            "caption": "Mural in a Catholic Neighbourhood in Derry, taken in June of 2017",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Derry_-_Mural_in_loyalist_Neighbourhood.jpg/300px-Derry_-_Mural_in_loyalist_Neighbourhood.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Derry_-_Mural_in_loyalist_Neighbourhood.jpg",
+            "caption": "Mural in a loyalist Neighbourhood in Derry, taken in June of 2017",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "3000-2000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1716,
+    "parent_id": 41,
+    "granularity": "notable",
+    "content_hash": "sha256:2b922a7dbeaa7b0e60d20f1ce8c4f151d1d5b0200808bae1cd66628a798ad76b",
+    "summary": "The Pyramid Texts are the oldest known corpus of religious writings in the world, first inscribed on the walls of the burial chambers of Pharaoh Unas at Saqqara around 2400–2300 BC during the [[event:1714|Fifth Dynasty of Egypt]]. The texts consist of nearly 800 individual spells, hymns, prayers, and incantations composed in formal hieroglyphic script and carved into the limestone walls and sarcophagi of royal pyramids. Their primary purpose was to protect the deceased pharaoh, ensure his safe passage through the dangerous realm of the dead, and secure his transformation into a divine being among the stars.\n\nThe content of the Pyramid Texts reveals a sophisticated and multi-layered Egyptian theology. They draw on several distinct religious traditions, including a stellar cult in which the deceased king joins the imperishable circumpolar stars, a solar tradition in which he travels with the sun god Ra, and an Osirian myth cycle in which the pharaoh is identified with the god Osiris. These traditions coexisted within the texts without apparent contradiction, reflecting the syncretic nature of Egyptian religious thought.\n\nThe language of the Pyramid Texts is archaic even by Old Kingdom standards, suggesting that some of the spells predate their first written appearance by many generations and may have been preserved through oral tradition. Scholars have identified parallels between certain passages and later literary works such as the Coffin Texts and the Book of the Dead, demonstrating that the Pyramid Texts established a template for Egyptian funerary literature that endured for over two thousand years.\n\nThe Pyramid Texts were originally restricted to royal burials, but by the First Intermediate Period and the Middle Kingdom, versions of the texts began to appear in the coffins of non-royal elites, a democratisation of funerary literature that reflects broader social changes in Egyptian society. This process of adaptation and transmission makes the Pyramid Texts not only the oldest known religious texts but also one of the most influential literary traditions in the ancient world.\n\nModern scholarship has benefited enormously from the systematic transcription and translation of the Pyramid Texts, beginning with the work of Kurt Sethe in the early twentieth century. The texts continue to provide crucial insights into Old Kingdom cosmology, ritual practice, and the concept of divine kingship, and they remain an indispensable source for the study of ancient Egyptian religion.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pyramid_Texts",
+    "read_more_links": [
+        {
+            "title": "Unas – Pyramid with the First Texts",
+            "url": "https://en.wikipedia.org/wiki/Unas"
+        },
+        {
+            "title": "Book of the Dead",
+            "url": "https://en.wikipedia.org/wiki/Book_of_the_Dead"
+        },
+        {
+            "title": "Coffin Texts",
+            "url": "https://en.wikipedia.org/wiki/Coffin_Texts"
+        },
+        {
+            "title": "Ancient Egyptian funerary texts",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_texts"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Relief_fragment_with_the_spells_354_and_255_with_the_Pyramid_Texts._From_Saqqara%2C_Egypt._Neues_Museum%2C_Berlin.jpg/300px-Relief_fragment_with_the_spells_354_and_255_with_the_Pyramid_Texts._From_Saqqara%2C_Egypt._Neues_Museum%2C_Berlin.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Relief_fragment_with_the_spells_354_and_255_with_the_Pyramid_Texts._From_Saqqara%2C_Egypt._Neues_Museum%2C_Berlin.jpg",
+            "caption": "Relief fragment with the spells 354 and 255 with the Pyramid Texts. From the ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cartouches_of_Pepi_I_and_Pyramid_Texts._Limestone_block_fragment_from_the_debris_of_the_north_wall_of_the_antechamber_within_the_pyramid_of_Pepi_I_at_Saqqara._Petrie_Museum.jpg/300px-Cartouches_of_Pepi_I_and_Pyramid_Texts._Limestone_block_fragment_from_the_debris_of_the_north_wall_of_the_antechamber_within_the_pyramid_of_Pepi_I_at_Saqqara._Petrie_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cartouches_of_Pepi_I_and_Pyramid_Texts._Limestone_block_fragment_from_the_debris_of_the_north_wall_of_the_antechamber_within_the_pyramid_of_Pepi_I_at_Saqqara._Petrie_Museum.jpg",
+            "caption": "This limestone block fragment came from the debris of the north wall of the a...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Piramide_di_teti%2C_interno_01.jpg/300px-Piramide_di_teti%2C_interno_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Piramide_di_teti%2C_interno_01.jpg",
+            "caption": "Pyramid of Teti",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg/300px-Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pyramid_Texts_in_Unas%E2%80%99_Pyramid_2017.jpg",
+            "caption": "The Pyramid of Unas at Saqqara dates back to the end of the 5th Dynasty (24th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Saqqara",
+            "summary": "Burial ground in Giza Governorate, Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/250px-Saqqara_pyramid_ver_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saqqara"
+        },
+        {
+            "name": "Udjebten",
+            "summary": "Egyptian queen consort",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Door_Queen_Wedjebten.jpg/250px-Door_Queen_Wedjebten.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Udjebten"
+        },
+        {
+            "name": "Merenre Nemtyemsaf I",
+            "summary": "23rd-century BC Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Merenre_Hatnub_%28Nemtyemsaf%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merenre_Nemtyemsaf_I"
+        },
+        {
+            "name": "Pyramid of Pepi II",
+            "summary": "Collapsed pyramid in Egypt, the tomb of Pharaoh Pepi II",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PepiIIPyramid.jpg/250px-PepiIIPyramid.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pyramid_of_Pepi_II"
+        },
+        {
+            "name": "Qakare Ibi",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/AbydosQakareIbi.jpg/250px-AbydosQakareIbi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qakare_Ibi"
+        },
+        {
+            "name": "Jean-Philippe Lauer",
+            "summary": "French architect and Egyptologist (1902–2001)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jean-Philippe_Lauer.jpg/250px-Jean-Philippe_Lauer.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Philippe_Lauer"
+        }
+    ],
+    "territory_geojson": null
+}

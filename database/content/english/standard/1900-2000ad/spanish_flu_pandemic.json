@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2700,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:20d75c440e1da95a3ddf935d88e00b54e225871ce5d3bf75aa226045c17bd2d6",
+    "summary": "The Spanish flu pandemic of 1918 to 1920 was the deadliest infectious disease outbreak in recorded human history. Caused by an H1N1 influenza A virus, it infected an estimated 500 million people — roughly one-third of the world's population at the time — and killed somewhere between 50 and 100 million people, though some estimates reach higher. The pandemic unfolded in three major waves, with the second wave in autumn 1918 proving by far the most lethal.\n\nDespite the name, the disease did not originate in Spain. Spain was simply one of the few countries that did not censor reporting of the illness during [[event:110|World War I]], leading to disproportionate coverage of Spanish cases and giving rise to the misleading name. The actual origin remains disputed, with credible hypotheses pointing to the United States, China, and Europe. The pandemic circled the globe with extraordinary speed, aided by the mass mobilization of troops and the disruption of civilian populations caused by the war.\n\nThe Spanish flu displayed an unusual mortality pattern, killing young adults — particularly those aged 20 to 40 — at unusually high rates in addition to the elderly and infants more commonly vulnerable to influenza. This pattern, likely caused by a cytokine storm response, contributed to the enormous death toll. Military camps, trenches, and civilian urban centers became sites of rapid transmission.\n\nThe pandemic had profound social and cultural consequences. It strained and overwhelmed medical services in nearly every affected country, demonstrating the inadequacy of contemporary public health infrastructure. Many cities enacted emergency measures including closing schools, churches, and public gatherings, banning handshaking, and requiring the wearing of masks — measures that anticipated responses to later pandemics.\n\nThe scale of suffering left deep marks on communities worldwide, yet the pandemic received surprisingly little attention in public memory for decades, overshadowed by the First World War and the tumultuous events that followed. It was not until the late twentieth and early twenty-first centuries that historians and scientists began systematically reconstructing its full impact.\n\nThe Spanish flu profoundly influenced the development of modern virology and epidemiology. The sequencing of the 1918 virus genome in the early 2000s provided crucial insights into how pandemic influenza strains emerge and evolve, directly informing preparations for subsequent outbreaks including the 2009 H1N1 pandemic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_flu",
+    "read_more_links": [
+        {
+            "title": "Spanish Influenza Pandemic - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/influenza-pandemic-of-1918-1919"
+        },
+        {
+            "title": "The Great Pandemic - US Department of Health and Human Services",
+            "url": "https://www.flu.gov/pandemic/history/1918/index.html"
+        },
+        {
+            "title": "1918 Pandemic Influenza Historic Timeline - CDC",
+            "url": "https://www.cdc.gov/flu/pandemic-resources/pandemic-timeline-1918.html"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/1918_flu_in_Oakland.jpg/300px-1918_flu_in_Oakland.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/1918_flu_in_Oakland.jpg",
+            "caption": "1918 flu epidemic: the Oakland Municipal Auditorium in use as a temporary hos...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/1918_at_Spanish_Flu_Ward_Walter_Reed_%28cropped%29.jpg/300px-1918_at_Spanish_Flu_Ward_Walter_Reed_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/1918_at_Spanish_Flu_Ward_Walter_Reed_%28cropped%29.jpg",
+            "caption": "\"Walter Reed Hospital Flu Ward\". \n\nPhoto of Walter Reed Hospital, Washington,...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/SpanishFluPosterAlberta.png/300px-SpanishFluPosterAlberta.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/SpanishFluPosterAlberta.png",
+            "caption": "A period photo of a poster issued by Alberta's Provincial Board of Health ale...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/300px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg",
+            "caption": "Emergency hospital during influenza epidemic, Camp Funston, Kansas. \nEmergenc...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Haskell County, Kansas",
+            "summary": "County in Kansas, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Haskell_County%2C_KS%2C_Courthouse_at_Sublette%2C_KS_IMG_5961.JPG/250px-Haskell_County%2C_KS%2C_Courthouse_at_Sublette%2C_KS_IMG_5961.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Haskell_County%2C_Kansas"
+        },
+        {
+            "name": "Alfonso XIII",
+            "summary": "King of Spain from 1886 to 1931",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rey_Alfonso_XIII_de_Espa%C3%B1a%2C_by_Kaulak.jpg/250px-Rey_Alfonso_XIII_de_Espa%C3%B1a%2C_by_Kaulak.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfonso_XIII"
+        }
+    ],
+    "territory_geojson": null
+}

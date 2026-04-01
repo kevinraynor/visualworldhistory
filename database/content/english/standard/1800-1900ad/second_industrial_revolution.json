@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2583,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:9e66d685b59a81ae97e44be825033f3b56b846b8b6abe60b2677c54d93640ad5",
+    "summary": "The Second Industrial Revolution, spanning roughly 1870 to 1914, was the second and in many respects more transformative phase of industrial development, characterized by the rise of heavy industry, the spread of electrification, the application of science to industrial production, and the emergence of new organizational forms — mass production, large corporations, and professional management — that created the modern industrial economy.\n\nWhere the first [[event:108|Industrial Revolution]] had been built on steam power, textiles, and iron, the Second was built on steel, electricity, chemicals, and petroleum. The Bessemer process (1856) and the open-hearth furnace made it possible to produce steel in enormous quantities at low cost, enabling the massive infrastructure of railways, skyscrapers, ships, and bridges that defined the era. The electrical systems pioneered by Edison, Westinghouse, and Tesla powered factories, lit cities, and enabled the [[event:2557|electric light bulb]] and the electric tram. The internal combustion engine, developed in the 1870s and 1880s, eventually enabled the [[event:2614|automobile]] and the aircraft.\n\nThe chemical industry emerged as a major sector, producing synthetic dyes (beginning with mauveine in 1856), fertilizers (including the Haber-Bosch process for nitrogen fixation, perfected just before the First World War), explosives (Alfred Nobel's [[event:2638|dynamite]], 1867), and pharmaceuticals. The petroleum industry, launched by Edwin Drake's oil well in Pennsylvania in 1859, grew to supply kerosene for lamps and eventually fuel for the internal combustion engine.\n\nThe United States and Germany emerged as the leading industrial powers of this era, overtaking Britain, which had led the first Industrial Revolution. American mass-production techniques — most famously in the Chicago meatpacking industry and later in Henry Ford's automobile factories — created productivity gains that seemed almost miraculous. The [[event:2622|Trans-Siberian Railway]] and similar projects in other countries integrated vast continental economies. The Second Industrial Revolution also intensified the social dislocations and labor conflicts that fueled the [[event:2584|labour movement]] and the political appeal of socialism.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Industrial_Revolution",
+    "read_more_links": [
+        {
+            "title": "Second Industrial Revolution – Britannica",
+            "url": "https://www.britannica.com/event/Industrial-Revolution"
+        },
+        {
+            "title": "Steel Industry – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_steel_industry_(1850%E2%80%931970)"
+        },
+        {
+            "title": "History of Electricity – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_electric_power_transmission"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Morsetaste.jpg/300px-Morsetaste.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Morsetaste.jpg",
+            "caption": "Morse Key (from 1900). This Morse key was originally used by Gotthard railway...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ford_assembly_line_-_1913_%28restored%29.jpg/300px-Ford_assembly_line_-_1913_%28restored%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ford_assembly_line_-_1913_%28restored%29.jpg",
+            "caption": "Конвейерная линия Генри Форда (фото 1913 года).",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gdp-maddison-project-database.png/300px-Gdp-maddison-project-database.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gdp-maddison-project-database.png",
+            "caption": "Growth in GDP between 1820 to 1913",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "James Beaumont Neilson",
+            "summary": "British inventor of the hot-blast process for smelting iron (1792-1865)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Beaumont_Neilson.jpg/250px-Beaumont_Neilson.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Beaumont_Neilson"
+        },
+        {
+            "name": "Coke (fuel)",
+            "summary": "Coal product used in making steel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Koks_Brennstoff.jpg/250px-Koks_Brennstoff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coke_%28fuel%29"
+        },
+        {
+            "name": "Sidney Gilchrist Thomas",
+            "summary": "British inventor (1850-1885)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/SidneyGilchristThomas.jpg/250px-SidneyGilchristThomas.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sidney_Gilchrist_Thomas"
+        },
+        {
+            "name": "Yorkshire",
+            "summary": "Historic county of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/250px-2015_Swaledale_from_Kisdon_Hill.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yorkshire"
+        }
+    ],
+    "territory_geojson": null
+}

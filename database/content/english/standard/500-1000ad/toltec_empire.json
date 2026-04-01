@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2182,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:cd32be435b2b1ba60b01861b3427108332f5f62f5ecacb0f67fef088d4f327f1",
+    "summary": "The Toltec Empire (c. 900–1150 AD), centered on Tula (Tollan) in the Hidalgo region of central Mexico, was the dominant power of post-classic Mesoamerica — a militaristic state that succeeded the collapsed [[event:2179|Teotihuacan]] as the reference point of political legitimacy in central Mexico, claiming the heritage of Quetzalcoatl and exercising cultural influence from northern Mexico to the [[event:3515|Yucatan Maya]]. The Aztecs (who came centuries later) claimed Toltec descent and idealized the Toltec period as a golden age of civilization, attributing to the Toltecs the origins of all arts, crafts, and urban refinement.\n\nThe historical Toltecs were a more complex and less idyllic reality than Aztec mythology suggested. Their capital Tula was a militaristic city featuring the famous Atlante warrior columns (4.6-meter basalt warrior statues that served as pillars), the chacmool sacrificial figures, and evidence of human sacrifice. The Toltecs apparently spread their military aristocratic culture widely — the presence of Toltec-style architecture, iconography, and artifacts at Chichen Itza in the Yucatan (notably similar warrior columns and serpent imagery) has fueled debate about Toltec military colonization or cultural diffusion to the Maya. The Toltec Empire collapsed around 1150 AD due to drought, internal revolt, and pressure from northern nomadic peoples (Chichimec); Tula was sacked and burned, and the Toltec refugees dispersed across Mesoamerica, spreading their cultural influence. Their legacy was claimed by virtually every subsequent Mesoamerican elite as a source of legitimacy.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Toltec",
+    "read_more_links": [
+        {
+            "title": "Tula Toltec capital city",
+            "url": "https://en.wikipedia.org/wiki/Tula,_Hidalgo"
+        },
+        {
+            "title": "Toltec Chichen Itza connection",
+            "url": "https://en.wikipedia.org/wiki/Toltec#Tula_and_Chich%C3%A9n_Itz%C3%A1"
+        },
+        {
+            "title": "Aztec idealization Toltec",
+            "url": "https://en.wikipedia.org/wiki/Toltec#Toltec_in_Aztec_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tula_Pyramide_reliefs.jpg/300px-Tula_Pyramide_reliefs.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tula_Pyramide_reliefs.jpg",
+            "caption": "Tula, Hidalgo, Mexico: Pyramid of Tlahuizcalpanteuctli, relieves",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Telamones_Tula.jpg/300px-Telamones_Tula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Telamones_Tula.jpg",
+            "caption": "Telamones, Tula, Mexico",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/PalacioQuemado_left-Tollan-Xicocotitlan-Hidalgo_Mexico.JPG/300px-PalacioQuemado_left-Tollan-Xicocotitlan-Hidalgo_Mexico.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/PalacioQuemado_left-Tollan-Xicocotitlan-Hidalgo_Mexico.JPG",
+            "caption": "Photograph from the ancient mexican place Tollan-Xicocotitlan. Now an archeol...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Piramide_tolteca_de_Tula_%281%29.jpg/300px-Piramide_tolteca_de_Tula_%281%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Piramide_tolteca_de_Tula_%281%29.jpg",
+            "caption": "Templo Tlahuizcalpantecuhtli. Zona arqueológica de Tollan Xicocotitlan (Tula)...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

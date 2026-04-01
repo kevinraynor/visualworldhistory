@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2385,
+    "parent_id": 2384,
+    "granularity": "detailed",
+    "content_hash": "sha256:71662d1745bc1b08431e6e7d920b9473b14e06fb364475c0f108bf5b0be60fc5",
+    "summary": "The Battle of Culloden (April 16, 1746 AD) was the last pitched battle fought on British soil and the final act of the [[event:2384|Jacobite Rising of 1745]], at which the Duke of Cumberland's government army decisively defeated the Highland Jacobite force of Charles Edward Stuart in a brief but catastrophic engagement on Culloden Moor near Inverness, Scotland, ending forever the Stuart dynasty's prospects of recovering the British throne. The Jacobite army of approximately 5,000 — exhausted after a failed night march, hungry, and outnumbered — faced Cumberland's 9,000 well-supplied, well-rested regulars. The choice of open, flat Culloden Moor was disastrously unsuitable for Highland warfare (which depended on terrain and shock charges); the government forces had specifically trained a tactic to counter the Highland charge (each infantryman was instructed to bayonet the unshielded side of the Highlander to his right, not his immediate opponent).\n\nThe battle lasted approximately 40 minutes. The Highland charge, launched in disorder under government artillery fire, was broken by disciplined musket volleys before it could close; when the Jacobite lines broke, government cavalry pursued and massacred fleeing soldiers and civilians across the surrounding countryside. Approximately 1,500–2,000 Jacobites died on the field or in the pursuit. Cumberland's systematic subjugation of the Highlands that followed earned him the nickname 'Butcher Cumberland': villages were burned, cattle seized, clan chiefs disarmed and imprisoned. The Disarming Acts and Heritable Jurisdictions Act (1746) destroyed the legal basis of Highland clan society; the wearing of tartan and playing of bagpipes was temporarily banned. The battle and its aftermath ended the distinctive Highland culture as a political force and accelerated the transformation of the Highlands through the subsequent Clearances.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Culloden",
+    "read_more_links": [
+        {
+            "title": "Duke Cumberland Bonnie Prince Charlie Culloden",
+            "url": "https://en.wikipedia.org/wiki/Prince_William,_Duke_of_Cumberland"
+        },
+        {
+            "title": "Highland charge failure Culloden Moor tactics",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Culloden#Battle"
+        },
+        {
+            "title": "Post-Culloden subjugation Highland clearances clan",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Culloden#Aftermath"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lost_Portrait_of_Charles_Edward_Stuart.jpg/300px-Lost_Portrait_of_Charles_Edward_Stuart.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Lost_Portrait_of_Charles_Edward_Stuart.jpg",
+            "caption": "Prince Charles Edward Stuart, 1720 - 1788. Eldest Son of Prince James Francis...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Culloden_Battlefield_Memorial_Cairn.jpg/300px-Culloden_Battlefield_Memorial_Cairn.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Culloden_Battlefield_Memorial_Cairn.jpg",
+            "caption": "This is a photo of listed building number",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Culloden_Cairn_at_Knoydart%2C_Nova_Scotia.jpg/300px-Culloden_Cairn_at_Knoydart%2C_Nova_Scotia.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Culloden_Cairn_at_Knoydart%2C_Nova_Scotia.jpg",
+            "caption": "The front facing of the Culloden Cairn at Knoydart, Nova Scotia. Knoydart",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Battle_of_Culloden.jpg/300px-The_Battle_of_Culloden.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Battle_of_Culloden.jpg",
+            "caption": "An Incident in the Rebellion of 1745, an oil on canvas, painting by David Mor...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Prince William, Duke of Cumberland",
+            "summary": "British prince (1721–1765)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/William_Augustus%2C_Duke_of_Cumberland_by_Sir_Joshua_Reynolds.jpg/250px-William_Augustus%2C_Duke_of_Cumberland_by_Sir_Joshua_Reynolds.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_William%2C_Duke_of_Cumberland"
+        },
+        {
+            "name": "Willem van Keppel, 2nd Earl of Albemarle",
+            "summary": "British Army officer, diplomat, courtier and colonial administrator (1702–1754)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/William_Anne_Keppel%2C_2nd_Earl_of_Albemarle%2C_by_Charles_Philips.jpg/250px-William_Anne_Keppel%2C_2nd_Earl_of_Albemarle%2C_by_Charles_Philips.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Willem_van_Keppel%2C_2nd_Earl_of_Albemarle"
+        },
+        {
+            "name": "John Huske",
+            "summary": "British Army general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/The_Grosvenor_Chapel_Mayfair.jpg/250px-The_Grosvenor_Chapel_Mayfair.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Huske"
+        },
+        {
+            "name": "John Mordaunt (British Army officer)",
+            "summary": "British soldier and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/General_Sir_John_Mordaunt.jpg/250px-General_Sir_John_Mordaunt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Mordaunt_%28British_Army_officer%29"
+        },
+        {
+            "name": "Charles Edward Stuart",
+            "summary": "Jacobite leader (1720–1788)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lost_Portrait_of_Charles_Edward_Stuart.jpg/250px-Lost_Portrait_of_Charles_Edward_Stuart.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Edward_Stuart"
+        },
+        {
+            "name": "John O'Sullivan (soldier)",
+            "summary": "Irish soldier",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/John_William_OSullivan.jpg/250px-John_William_OSullivan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_O%27Sullivan_%28soldier%29"
+        }
+    ],
+    "territory_geojson": null
+}

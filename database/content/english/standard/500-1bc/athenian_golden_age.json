@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3118,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:b4fe11b42064dc9c7e96dac331c731f8221976a104ad9d9983e5e68e63ca7776",
+    "summary": "The Athenian Golden Age (c. 480–404 BC) was the extraordinary period of Athenian cultural, intellectual, and political achievement that followed the Persian Wars, centered on the leadership of Pericles (461–429 BC) and the transformation of the Delian League into an Athenian empire. In the span of a single lifetime, Athens produced achievements in philosophy, drama, architecture, sculpture, history, and democratic governance that defined Western civilization's self-image for two and a half millennia.\n\nThe physical expression of this achievement was the construction program on the Acropolis — the Parthenon, Propylaea, Erechtheion, and Temple of Athena Nike — financed in part by tribute from Athens's 150-plus allied city-states and executed by the sculptor Pheidias under Pericles' direction. The Agora (civic center) hosted the democratic assembly and the courts that Athenian citizens — uniquely in the ancient world — governed collectively. Simultaneously, Athens was the birthplace of Western drama (Aeschylus, Sophocles, Euripides, Aristophanes), Western philosophy (Socrates, Plato, Aristotle), and Western historical writing ([[event:1190|Herodotus Father of History]] and [[event:1222|Thucydides History]]).\n\nThe social reality was more complex: the democracy excluded women, slaves (who made up perhaps a third of the population), and resident foreigners (metics). The empire was maintained by force, as the fate of Melos (exterminated 416 BC) demonstrated. The [[event:1010|Peloponnesian War]] ended Athenian supremacy in 404 BC, but the cultural achievements outlived the political power by millennia — preserved, transmitted, and continuously reinterpreted as the foundation of 'Western' thought. Pericles' Funeral Oration, as recorded by Thucydides, remains the most eloquent statement of democratic ideals from antiquity.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Classical_Athens",
+    "read_more_links": [
+        {
+            "title": "Age of Pericles",
+            "url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "title": "Athenian democracy",
+            "url": "https://en.wikipedia.org/wiki/Athenian_democracy"
+        },
+        {
+            "title": "Delian League Athenian empire",
+            "url": "https://en.wikipedia.org/wiki/Delian_League"
+        },
+        {
+            "title": "Classical Greek culture overview",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Greece#Classical_Greece"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hephaistos_Temple.JPG/300px-Hephaistos_Temple.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hephaistos_Temple.JPG",
+            "caption": "The Temple of Hephaistos in Athens",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ath%C3%A8nes_Acropole_Caryatides.JPG/300px-Ath%C3%A8nes_Acropole_Caryatides.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ath%C3%A8nes_Acropole_Caryatides.JPG",
+            "caption": "Athènes : les Caryatides sur l'Acropole. Photo prise par Harrieta171 le 21/01/06",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Athens_academy.jpg/300px-Athens_academy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Athens_academy.jpg",
+            "caption": "Academy of Athens",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Akropolis_by_Leo_von_Klenze.jpg/300px-Akropolis_by_Leo_von_Klenze.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg",
+            "caption": "Akropolis by Leo von Klenze",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Plato",
+            "summary": "Greek philosopher",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/250px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plato"
+        },
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Socrates",
+            "summary": "Greek philosopher (c. 470–399 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Socrate_du_Louvre.jpg/250px-Socrate_du_Louvre.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Socrates"
+        },
+        {
+            "name": "Pericles",
+            "summary": "Athenian statesman and general (c.495–429 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg/250px-Pericles_Pio-Clementino_Inv269_n2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pericles"
+        },
+        {
+            "name": "Aristophanes",
+            "summary": "Classical Athenian comic playwright (c. 446 – c. 386 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bust_of_Aristophanes.jpg/250px-Bust_of_Aristophanes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristophanes"
+        },
+        {
+            "name": "Sophocles",
+            "summary": "5th century BC Athenian tragic playwright",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sophocles_pushkin.jpg/250px-Sophocles_pushkin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sophocles"
+        }
+    ],
+    "territory_geojson": null
+}

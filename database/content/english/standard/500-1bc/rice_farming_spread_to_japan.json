@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1170,
+    "parent_id": 1169,
+    "granularity": "detailed",
+    "content_hash": "sha256:0776d510d235eea77f053ccaa76fde3aa5eb58127898e0de0d1689f6a78ab015",
+    "summary": "The Spread of Rice Farming to Japan (c. 300–100 BC) was the introduction of wet-rice agriculture from continental Asia (via Korea) to the Japanese islands, which transformed Japanese society from the hunter-gatherer and forager lifestyle of the Jomon period to the agricultural base that supported the [[event:1169|Yayoi Period Japan]]'s growing population and social complexity.\n\nRice cultivation, originating in the Yangtze River delta of China, had spread to Korea by around 1000 BC. During the [[event:1169|Yayoi Period]] migrants from the Korean peninsula brought wet-rice agriculture techniques to northern Kyushu, from where it spread eastward through Honshu over the following centuries. The transition from foraging to farming was not immediate or universal — Jomon populations in northeastern Japan and Hokkaido maintained their traditional lifestyle much longer. Where rice agriculture was adopted, it transformed: settlement patterns (villages near irrigable fields), social organization (hierarchies based on land control and surplus storage), material culture (pottery, metal tools), and religious practices (rice-related rituals that persist in Shinto to this day). The paddy field landscape of rural Japan, so central to Japanese aesthetics and identity, has its roots in this period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yayoi_period#Agriculture",
+    "read_more_links": [
+        {
+            "title": "Rice cultivation history",
+            "url": "https://en.wikipedia.org/wiki/Rice_production_in_Japan"
+        },
+        {
+            "title": "Jomon-Yayoi transition",
+            "url": "https://en.wikipedia.org/wiki/Yayoi_people#Jomon_ancestry"
+        },
+        {
+            "title": "Spread of rice from China",
+            "url": "https://en.wikipedia.org/wiki/History_of_rice_cultivation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yoshinogari_Ancient_Ruins_20170222.jpg/300px-Yoshinogari_Ancient_Ruins_20170222.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yoshinogari_Ancient_Ruins_20170222.jpg",
+            "caption": "Yoshinogari Ancient Ruins. It is a large and complex Yayoi archaeological site.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/King_of_Na_gold_seal_faces.jpg/300px-King_of_Na_gold_seal_faces.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/King_of_Na_gold_seal_faces.jpg",
+            "caption": "Seal face of the King of Na gold seal, with its mirror image on the right sid...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/DotakuBronzeBellLateYayoi3rdCenturyCE.jpg/300px-DotakuBronzeBellLateYayoi3rdCenturyCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/DotakuBronzeBellLateYayoi3rdCenturyCE.jpg",
+            "caption": "Dotaku Bronze Bell Late Yayoi 3rd Century CE",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Shiki_no_Fuji%2C_%C5%8Cmuro_fukin_by_Takahashi_Sh%C5%8Dtei.jpg/300px-Shiki_no_Fuji%2C_%C5%8Cmuro_fukin_by_Takahashi_Sh%C5%8Dtei.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Shiki_no_Fuji%2C_%C5%8Cmuro_fukin_by_Takahashi_Sh%C5%8Dtei.jpg",
+            "caption": "Near Mount Ōmuro, from the series Fuji in the four seasons (Shiki no Fuji), w...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Emperor Guangwu of Han",
+            "summary": "Emperor of China from 25 to 57 AD",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Han_Guangwu_Di.jpg/250px-Han_Guangwu_Di.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han"
+        },
+        {
+            "name": "Taibo",
+            "summary": "Legendary founder of the state of Wu",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Taibo_statue%2C_Taibo_Temple%2C_Wuxi.jpg/250px-Taibo_statue%2C_Taibo_Temple%2C_Wuxi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Taibo"
+        }
+    ],
+    "territory_geojson": null
+}

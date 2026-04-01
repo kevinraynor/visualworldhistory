@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2122,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:486dade903e44a9b67eb4631149a3c2de4aabf4587b0be092692e144c539cbdc",
+    "summary": "The Plague of Justinian (541–549 AD, with recurring waves to c. 750 AD) was the first pandemic of bubonic plague in recorded history — a catastrophic epidemic caused by Yersinia pestis that struck the Byzantine Empire and spread across the Mediterranean world, killing an estimated 25–50 million people (perhaps half the Mediterranean world's population) over its initial outbreak and subsequent waves. The plague arrived in Egypt from East Africa via grain ships, quickly spreading to Constantinople, where it reportedly killed 5,000–10,000 people per day at its peak, filling the streets with unburied corpses that Emperor [[event:2119|Justinian I]] was forced to have buried in mass graves.\n\nThe Plague of Justinian's consequences were profound and lasting. It undermined Justinian's reconquest projects by decimating the armies and tax base needed to hold newly conquered territories; it depopulated large areas of the Mediterranean world, contributing to economic decline; and it may have tipped the demographic and economic balance against Byzantium in ways that made the later Islamic conquests easier. Modern genetic analysis has confirmed the pathogen as Yersinia pestis (bubonic plague), closely related to the strains that would cause the Black Death 800 years later. The Byzantine historian Procopius left a detailed eyewitness account of the plague's symptoms and social impact in Constantinople that remains one of the most vivid descriptions of pandemic disease in ancient literature. The plague's recurrent waves over two centuries prevented the demographic recovery that would have been needed to restore the pre-plague population.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plague_of_Justinian",
+    "read_more_links": [
+        {
+            "title": "Plague of Justinian symptoms",
+            "url": "https://en.wikipedia.org/wiki/Plague_of_Justinian#Signs_and_symptoms"
+        },
+        {
+            "title": "Procopius eyewitness account",
+            "url": "https://en.wikipedia.org/wiki/Procopius#Secret_History"
+        },
+        {
+            "title": "Bubonic plague Yersinia pestis",
+            "url": "https://en.wikipedia.org/wiki/Bubonic_plague"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_imposing_basilica_next_to_the_Forum_and_its_gagantic_pillars%2C_also_known_as_Basilica_B%2C_Philippi_%287272621716%29.jpg/300px-The_imposing_basilica_next_to_the_Forum_and_its_gagantic_pillars%2C_also_known_as_Basilica_B%2C_Philippi_%287272621716%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/The_imposing_basilica_next_to_the_Forum_and_its_gagantic_pillars%2C_also_known_as_Basilica_B%2C_Philippi_%287272621716%29.jpg",
+            "caption": "In the VIth century the inhabitants of Philippi embarked on the construction ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Plaguet03.jpg/300px-Plaguet03.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Plaguet03.jpg",
+            "caption": "St Sebastian pleading for the life of a gravedigger afflicted with plague dur...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hand_necrosis_caused_by_plague.jpg/300px-Hand_necrosis_caused_by_plague.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hand_necrosis_caused_by_plague.jpg",
+            "caption": "sus patient presented with symptoms of plague that included gangrene of the r...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Byzantium550.png/300px-Byzantium550.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Byzantium550.png",
+            "caption": "Map of Byzantine Empire ca 550. Green indicates the conquests during Justinia...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Saint Sebastian",
+            "summary": "3rd-century Christian saint and martyr",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St._Sebastian_by_Sodoma.jpg/250px-St._Sebastian_by_Sodoma.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Sebastian"
+        },
+        {
+            "name": "Josse Lieferinxe",
+            "summary": "French painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Crucifixion_by_Josse_Lieferinxe_3.jpg/250px-Crucifixion_by_Josse_Lieferinxe_3.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Josse_Lieferinxe"
+        },
+        {
+            "name": "Justinian I",
+            "summary": "Roman emperor from 527 to 565",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/250px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Justinian_I"
+        },
+        {
+            "name": "Basilica",
+            "summary": "Type of building in classical and church architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BasilicaSemproniaReconstruction.jpg/250px-BasilicaSemproniaReconstruction.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Basilica"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        }
+    ],
+    "territory_geojson": null
+}

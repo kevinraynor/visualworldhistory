@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3604,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:27552218fcc2104eea2edaefa9a7b791ab2b0b608bdf291540492cb411267ebf",
+    "summary": "Among the most transformative developments in human prehistory was the emergence of permanent settled villages — communities where people ceased their nomadic or semi-nomadic existence and established lasting habitations in a single location. This shift began in earnest during the period roughly spanning 10,000 to 8,000 BCE, most prominently across the Fertile Crescent and adjacent regions of the Near East, though analogous developments occurred independently in other parts of the world. The transition was neither sudden nor universal, unfolding gradually as changing ecological conditions and the slow adoption of food-producing strategies made year-round residence in fixed locations increasingly viable.\n\nThe preconditions for settled village life were rooted in both environmental change and cultural innovation. The end of the Younger Dryas cold episode around 9,700 BCE ushered in warmer, wetter conditions that made plant cultivation and animal herding more productive. Communities such as [[event:4|the Natufian culture]] of the Levant had already begun experimenting with semi-sedentary living, exploiting dense wild cereal stands before formal agriculture developed. Over generations, the sustained harvesting and eventual cultivation of cereals such as einkorn and emmer wheat provided a reliable enough food base to anchor communities to the land. Sites like [[event:2|Jericho]] and [[event:1252|Abu Hureyra]] preserve some of the earliest evidence for villages that housed dozens to hundreds of inhabitants continuously across multiple generations.\n\nPhysically, the first settled villages were composed of simple but deliberately constructed dwellings — circular or oval pit houses in the earliest phases, gradually giving way to rectangular mud-brick structures as architectural conventions matured. Storage facilities for grain, communal work areas, and dedicated burial grounds all appear in the archaeological record of these sites, indicating that social life was becoming more complex and that relationships to land, property, and ancestry were being redefined. The construction of permanent architecture at sites such as [[event:1253|Nevali Cori]] and [[event:3|Gobekli Tepe]] demonstrates that labor could be organized collectively for purposes beyond mere subsistence.\n\nThe social consequences of settled village life were profound. Permanent residence in one location intensified relationships among community members while simultaneously creating new forms of inequality — those who accumulated surplus grain, controlled access to water, or managed communal storage gained social leverage unavailable to mobile hunter-gatherers. Kinship networks became more formalized, and the dead were often buried beneath house floors or in dedicated cemeteries, linking the living to specific places through ancestral ties. These social structures laid the foundations for the more complex hierarchies that would emerge in later millennia as villages grew into towns and eventually cities.\n\nThe global significance of the first settled villages extends well beyond their immediate region. Where sedentism took root, it accelerated the domestication of plants and animals, stimulated technological innovation in ceramics, textiles, and architecture, and ultimately created the demographic and organizational conditions that made civilization possible. While many human populations worldwide continued mobile lifestyles for millennia afterward, the transition to settled village life in the ancient Near East and elsewhere represents a pivotal reorientation of humanity's relationship to land, community, and accumulated knowledge.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neolithic",
+    "read_more_links": [
+        {
+            "title": "Sedentism - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sedentism"
+        },
+        {
+            "title": "Pre-Pottery Neolithic A - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A"
+        },
+        {
+            "title": "Neolithic Revolution - Britannica",
+            "url": "https://www.britannica.com/event/Neolithic-Revolution"
+        },
+        {
+            "title": "Origins of Agriculture - Britannica",
+            "url": "https://www.britannica.com/topic/agriculture/The-origins-of-agriculture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Neolithic_Stone_Spades_%26_Axes.jpg/300px-Neolithic_Stone_Spades_%26_Axes.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Neolithic_Stone_Spades_%26_Axes.jpg",
+            "caption": "Xinzheng City Museum, Henan Province, China. Complete indexed photo collectio...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Megaliths_Aswan_Nubia_museum.JPG/300px-Megaliths_Aswan_Nubia_museum.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Megaliths_Aswan_Nubia_museum.JPG",
+            "caption": "Megaliths from Nabta Playa displaid in the garden of the Aswan Nubia museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CucuteniAgriculture.JPG/300px-CucuteniAgriculture.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/CucuteniAgriculture.JPG",
+            "caption": "Plough Horn used in Cucuteni agriculture",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/20100923_amman37.JPG/300px-20100923_amman37.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/20100923_amman37.JPG",
+            "caption": "The statues of Ain Ghazal, at the Archaeological Museum of Jordan (Amman Cita...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Lubbock, 1st Baron Avebury",
+            "summary": "English banker and politician (1834–1913)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/John_Lubbock72.jpg/250px-John_Lubbock72.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Lubbock%2C_1st_Baron_Avebury"
+        }
+    ],
+    "territory_geojson": null
+}

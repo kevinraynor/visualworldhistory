@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2474,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ef0b352243e291abc7f8f6d50d3afd2eea8deb3b8bf8fe2060bfbcfd9907abff",
+    "summary": "Johannes Kepler's Laws of Planetary Motion (published 1609–1619 AD) were a pivotal achievement of the [[event:104|Scientific Revolution]], providing the mathematical framework that replaced Ptolemaic geocentric astronomy with a precise, predictive heliocentric model. Kepler, a German mathematician and astronomer who served as assistant to Tycho Brahe in Prague, inherited Brahe's extraordinary collection of precise naked-eye astronomical observations after the latter's death in 1601. Working for years with Brahe's data, particularly observations of Mars, Kepler arrived at three laws: that planets orbit the sun in ellipses (not perfect circles, as both Copernicus and Ptolemy had assumed) with the sun at one focus; that a planet sweeps equal areas in equal times (moving faster when closer to the sun); and that the square of a planet's orbital period is proportional to the cube of its semi-major axis.\n\nKepler's laws were empirically derived from observation rather than deduced from first principles — Kepler himself could not explain why planets followed elliptical orbits. It was left to [[event:2363|Isaac Newton]] to provide the physical explanation: that universal gravitation, following an inverse-square law, produced precisely the elliptical orbits Kepler had described. The combination of Kepler's mathematical laws and Newton's physical explanation created the framework of classical celestial mechanics that described planetary motion with extraordinary accuracy for two and a half centuries, until Einstein's general relativity provided a still more accurate framework. Kepler also made foundational contributions to optics, described the principles of the telescope, and wrote one of the earliest works of science fiction (Somnium, 1634, describing a journey to the moon).",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+    "read_more_links": [
+        {
+            "title": "Kepler first law elliptical orbits heliocentric model",
+            "url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#First_law"
+        },
+        {
+            "title": "Tycho Brahe observations Prague imperial mathematician",
+            "url": "https://en.wikipedia.org/wiki/Tycho_Brahe"
+        },
+        {
+            "title": "Astronomia Nova Kepler 1609 Mars orbit calculation",
+            "url": "https://en.wikipedia.org/wiki/Astronomia_nova"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

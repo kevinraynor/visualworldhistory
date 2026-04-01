@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 93,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f520bb7a91683b5943f65d19052027499d1cc57f0a9a13fe0529f20004451c66",
+    "summary": "The Mali Empire (c. 1235–1600 AD) was the greatest medieval state of West Africa, controlling the upper Niger River valley and the western Sahel from its heartland in modern Mali and Guinea, and dominating the trans-Saharan gold and salt trade that made West Africa the world's primary source of gold for over five centuries. Founded by Sundiata Keita, who defeated the Sosso king Sumanguru Kante at the Battle of Kirina (c. 1235), the Mali Empire unified the Mande-speaking peoples of the western Sudan and extended its reach across a territory larger than Western Europe.\n\nMali's wealth rested on control of the goldfields of Bambuk and Bure, the salt deposits of Taghaza in the Sahara, and the trade routes connecting them. The empire's [[event:2256|rulers made spectacular pilgrimages to Mecca]] — most famously [[event:2256|Mansa Musa]] in 1324–1325, whose caravan reportedly included 60,000 people and 100 camel-loads of gold — that announced West African wealth to the Mediterranean world and permanently placed the Mali Empire on European maps. The cities of Djenne, [[event:3833|Timbuktu]], and Gao became major Islamic centers of scholarship and commerce, with [[event:2257|Timbuktu at its peak]] housing several universities and tens of thousands of students. Mali declined gradually from the late 14th century under pressure from the Tuareg in the north and the rising [[event:2259|Songhai Empire]] in the east, which absorbed most of its territory by the late 15th century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mali_Empire",
+    "read_more_links": [
+        {
+            "title": "Sundiata Keita Mali Empire founder",
+            "url": "https://en.wikipedia.org/wiki/Sundiata_Keita"
+        },
+        {
+            "title": "Trans-Saharan gold salt trade Mali",
+            "url": "https://en.wikipedia.org/wiki/Trans-Saharan_trade"
+        },
+        {
+            "title": "Mali Empire decline Songhai",
+            "url": "https://en.wikipedia.org/wiki/Mali_Empire#Decline"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg/300px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+            "caption": "Sheet 6 out of 12. Detail showing Mansa Musa sitting on a throne and holding ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Mali_Empire.jpg/300px-The_Mali_Empire.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Mali_Empire.jpg",
+            "caption": "The Medieval Mali Empire at the end of Mansa Musa's reign (1337 CE)",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Map_of_the_Mali_Empire.png/300px-Map_of_the_Mali_Empire.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Map_of_the_Mali_Empire.png",
+            "caption": "Own work, based off of Gomez, M. (2018). African Dominion: A New History of E...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Targui8.jpg/300px-Targui8.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Targui8.jpg",
+            "caption": "Targui, Algérie",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mansa Musa",
+            "summary": "Ruler of Mali from c. 1312 to c. 1337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/250px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mansa_Musa"
+        },
+        {
+            "name": "Empire",
+            "summary": "Multiple states under one central authority, usually created by conquest",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Modern_Empires.svg/250px-Modern_Empires.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Empire"
+        },
+        {
+            "name": "Griot",
+            "summary": "Storyteller, singer, or musician of oral tradition in West Africa",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/GriotF%C3%AAte.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Griot"
+        },
+        {
+            "name": "Soumaoro Kanté",
+            "summary": "King of the Sosso people",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ghana_successor_map_1200.png/250px-Ghana_successor_map_1200.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Soumaoro_Kant%C3%A9"
+        },
+        {
+            "name": "Leo Africanus",
+            "summary": "Maghrebi author (c. 1494-c. 1554)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sebastiano_del_Piombo_Portrait_of_a_Humanist.jpg/250px-Sebastiano_del_Piombo_Portrait_of_a_Humanist.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_Africanus"
+        },
+        {
+            "name": "Ibn Khaldun",
+            "summary": "Arab Islamic scholar, historian and philosopher (1332–1406)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bust_of_Ibn_Khaldun_%28Casbah_of_Bejaia%2C_Algeria%29.jpg/250px-Bust_of_Ibn_Khaldun_%28Casbah_of_Bejaia%2C_Algeria%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ibn_Khaldun"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3841,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:fddead63557727b4bb8763ec9dd8e81a0e600bf3d3a6419541239e1238bd1b41",
+    "summary": "The African Humid Period, also known as the Green Sahara, reached its maximum extent around 7000–5500 BCE, when enhanced monsoon circulation driven by orbital forcing brought significantly greater rainfall to the Sahara. During this peak phase, regions that are today hyper-arid desert supported grasslands, savanna, lakes, rivers, and woodland. Lake Chad was vastly larger than its present extent, the Niger River system was more expansive, and numerous lakes occupied basins that are now dry.\n\nHuman populations flourished across the Green Sahara during this period. Rock art sites across the Sahara — including the Tassili n'Ajjer plateau in Algeria and the Fezzan region of Libya — depict cattle, hippos, crocodiles, and other animals that could only have lived in a much wetter environment, as well as human figures engaged in herding and ritual activities. The communities that thrived in this landscape developed cattle pastoralism and left material evidence across thousands of kilometers of what is now uninhabitable desert. The eventual desiccation of the Sahara from around 5500 BCE onward contributed to major population movements and may have stimulated the development of Nile Valley civilization as people concentrated along permanent water sources.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/African_humid_period",
+    "read_more_links": [
+        {
+            "title": "Saharan Rock Art – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Saharan_rock_art"
+        },
+        {
+            "title": "Green Sahara – Britannica",
+            "url": "https://www.britannica.com/place/Sahara"
+        },
+        {
+            "title": "Lake Chad History – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lake_Chad#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sahara_satellite_hires.jpg/300px-Sahara_satellite_hires.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sahara_satellite_hires.jpg",
+            "caption": "Sahara desert from space.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Journal.pone.0076514.g004.png/300px-Journal.pone.0076514.g004.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Journal.pone.0076514.g004.png",
+            "caption": "and early en:Holocene climate and vegetation of Africa",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/300px-All_Gizah_Pyramids.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+            "caption": "All Giza Pyramids in one shot.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ounianga_Lakes_from_ISS.jpg/300px-Ounianga_Lakes_from_ISS.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ounianga_Lakes_from_ISS.jpg",
+            "caption": "Ounianga Sérir group. This astronaut photograph features one of the largest o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Heinrich Barth",
+            "summary": "German explorer (1821–1865)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Barth_Unterschrift.jpg/250px-Barth_Unterschrift.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heinrich_Barth"
+        }
+    ],
+    "territory_geojson": null
+}

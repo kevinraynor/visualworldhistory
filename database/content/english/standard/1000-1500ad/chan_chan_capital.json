@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2315,
+    "parent_id": 2314,
+    "granularity": "detailed",
+    "content_hash": "sha256:303728ff3070739033f55491b91c3f36ed1f50a2d0e1298c9cd93f09114ec960",
+    "summary": "Chan Chan, capital of the [[event:2314|Chimú Empire]] on the north coast of Peru near modern Trujillo, was the largest pre-Columbian city in South America and the largest adobe (mud brick) city ever constructed, covering approximately 20 square kilometers at its peak (c. 1400 AD) with an estimated population of 30,000–60,000 people. Built in the arid coastal desert entirely from mud brick, Chan Chan's urban plan consisted of nine large royal compounds (ciudadelas) — massive walled enclosures containing the palace, treasury, and tomb of each successive Chimú king — surrounded by a vast urban periphery of workshops, residences, storehouses, and gardens.\n\nEach ciudadela was effectively a self-contained palace city, built by a new king at his accession and maintained by his royal descendants after his death as an administrative and ceremonial center — a system called 'split inheritance' in which each dead king's estate remained intact and was administered by his descendants, while the new king had to build his own compound from scratch. This system drove the Chimú's rapid territorial expansion (they needed new conquests to fund each new king's compound) and resulted in Chan Chan's extraordinary scale. The ciudadelas' interior walls are covered with elaborate geometric and figural relief carvings — fish, birds, sea creatures, and abstract patterns — executed in mud plaster at a level of precision and artistry that makes Chan Chan one of the great sculptural achievements of the Americas. Chan Chan is now a UNESCO World Heritage Site, though its adobe construction makes it vulnerable to the periodic El Niño rainfall events that erode the mud brick structures.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chan_Chan",
+    "read_more_links": [
+        {
+            "title": "Chan Chan ciudadelas royal compounds",
+            "url": "https://en.wikipedia.org/wiki/Chan_Chan#Ciudadelas"
+        },
+        {
+            "title": "Split inheritance Chimu political system",
+            "url": "https://en.wikipedia.org/wiki/Chimu#Split_inheritance"
+        },
+        {
+            "title": "Chan Chan relief carvings adobe art",
+            "url": "https://en.wikipedia.org/wiki/Chan_Chan#Architecture_and_art"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Chan_Chan_Ao%C3%BBt_2007_-_Place_Principale.jpg/300px-Chan_Chan_Ao%C3%BBt_2007_-_Place_Principale.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Chan_Chan_Ao%C3%BBt_2007_-_Place_Principale.jpg",
+            "caption": "Plaza in Chan Chan ruins",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Chan_Chan_Archaeological_Zone-10.jpg/300px-Chan_Chan_Archaeological_Zone-10.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Chan_Chan_Archaeological_Zone-10.jpg",
+            "caption": "Chan Chan Archaeological Zone- La Libertad Region, Peru",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Adobe_detail_at_Chan_Chan.JPG/300px-Adobe_detail_at_Chan_Chan.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Adobe_detail_at_Chan_Chan.JPG",
+            "caption": "Detail of adobe relief motif at the Chan Chan complex built by the Chimor cul...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chan_Chan_Archaeological_Zone-110903.jpg/300px-Chan_Chan_Archaeological_Zone-110903.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Chan_Chan_Archaeological_Zone-110903.jpg",
+            "caption": "Chan Chan Archaeological Zone (Peru)",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0 igo"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

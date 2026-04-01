@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1701,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:76e9f45620e8c06f70c22ea5f5d38d25df1d9cb58892278de98d21053e6ffc7d",
+    "summary": "The earliest candidates for Chinese writing are markings found on pottery sherds from Neolithic cultures including the Yangshao (approximately 5000–3000 BCE) and the Dawenkou culture (approximately 4300–2500 BCE). These incised signs have been found on ceramic vessels at sites across the Yellow River and Huai River basins. While some scholars argue these marks represent proto-writing or a system of symbols communicating ownership or identity, the question of whether they constitute genuine writing — a system capable of recording language — remains contested.\n\nMore systematic candidates for early Chinese writing appear at Liangzhu and Dawenkou sites in the late fourth and early third millennia BCE, where standardized signs occur on jade and pottery in consistent contexts. The direct connection between these Neolithic signs and the later Shang oracle bone script (from approximately 1250 BCE), which is clearly full writing, is debated but possible. The development of Chinese writing represents an independent invention distinct from [[event:1619|Cuneiform]] and [[event:1636|Egyptian Hieroglyphics]], making it one of the few cases of original script invention in human history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_characters#History",
+    "read_more_links": [
+        {
+            "title": "History of Writing - Britannica",
+            "url": "https://www.britannica.com/topic/writing/History-of-writing-systems"
+        },
+        {
+            "title": "Oracle Bone Script - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Oracle_bone_script"
+        },
+        {
+            "title": "Writing in Ancient China - Metropolitan Museum",
+            "url": "https://www.metmuseum.org/toah/hd/wrtg/hd_wrtg.htm"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chusa-Silsa_gusijang.jpg/300px-Chusa-Silsa_gusijang.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Chusa-Silsa_gusijang.jpg",
+            "caption": "The Korean calligraphy \"Silsa gusijang\", written by Kim Chŏnghŭi. The text in...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%E5%99%B9%E5%99%B9%E8%8C%B6%E9%A4%90%E5%BB%B32021%E5%B9%B47%E6%9C%88%E5%88%9D%E7%9A%84%E5%8D%88%E9%A4%90%E9%A4%90%E7%89%8C-tweaked.jpg/300px-%E5%99%B9%E5%99%B9%E8%8C%B6%E9%A4%90%E5%BB%B32021%E5%B9%B47%E6%9C%88%E5%88%9D%E7%9A%84%E5%8D%88%E9%A4%90%E9%A4%90%E7%89%8C-tweaked.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/%E5%99%B9%E5%99%B9%E8%8C%B6%E9%A4%90%E5%BB%B32021%E5%B9%B47%E6%9C%88%E5%88%9D%E7%9A%84%E5%8D%88%E9%A4%90%E9%A4%90%E7%89%8C-tweaked.jpg",
+            "caption": "A lunch menu for a tea restaurant in Hong Kong",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Shang_dynasty_inscribed_scapula.jpg/300px-Shang_dynasty_inscribed_scapula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Shang_dynasty_inscribed_scapula.jpg",
+            "caption": "Oracle bone recording divinations by Zhēng 爭, one of the Bīn 賓 group of divin...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%E5%A7%93%E8%A7%A3_Digidepo_1287529_00000014%282%29_%28cropped%29.jpg/300px-%E5%A7%93%E8%A7%A3_Digidepo_1287529_00000014%282%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/%E5%A7%93%E8%A7%A3_Digidepo_1287529_00000014%282%29_%28cropped%29.jpg",
+            "caption": "Page scan of the Song-era 姓解 surname dictionary by Shao Si (邵思)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Qiu Xigui",
+            "summary": "Chinese historian and paleographer (1935–2025)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Qiuxigui.jpg/250px-Qiuxigui.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qiu_Xigui"
+        }
+    ],
+    "territory_geojson": null
+}

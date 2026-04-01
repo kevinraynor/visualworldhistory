@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3389,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:dc98f8695ae24f330db3d3ce4d49dda44526b8f47a0357d63d9886db5a48458d",
+    "summary": "The semiconductor revolution transformed the material basis of computing and communication technology throughout the twentieth century. Semiconductors — materials whose electrical conductivity falls between that of conductors and insulators — became the foundation of modern electronics after the invention of the transistor at Bell Laboratories in 1947. The subsequent development of integrated circuits in 1958–1959 allowed thousands, then millions, of transistors to be etched onto a single silicon chip.\n\nGordon Moore's 1965 observation that the number of transistors on a chip roughly doubled every two years — a prediction that became known as Moore's Law — proved remarkably accurate for decades and drove continuous cost reductions and performance improvements. The semiconductor industry grew into one of the world's largest, concentrated in clusters like Silicon Valley in California and later in South Korea, Taiwan, and Japan. By the century's end, chips were embedded in everything from automobiles and household appliances to medical devices and financial systems, making the semiconductor the defining material of modern civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Semiconductor_industry",
+    "read_more_links": [
+        {
+            "title": "Transistor",
+            "url": "https://en.wikipedia.org/wiki/Transistor"
+        },
+        {
+            "title": "Integrated circuit",
+            "url": "https://en.wikipedia.org/wiki/Integrated_circuit"
+        },
+        {
+            "title": "Moore's Law",
+            "url": "https://en.wikipedia.org/wiki/Moore%27s_law"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/4-fach-NAND-C10.JPG/300px-4-fach-NAND-C10.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/4-fach-NAND-C10.JPG",
+            "caption": "NAND-Gatter mit 4 Eingängen in Transistor-Transistor-Logik; 7 Transistoren au...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "William Shockley",
+            "summary": "American solid-state physicist (1910–1989)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Shockley.jpg/250px-Shockley.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Shockley"
+        },
+        {
+            "name": "John Bardeen",
+            "summary": "American condensed matter physicist (1908–1991)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bardeen.jpg/250px-Bardeen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Bardeen"
+        },
+        {
+            "name": "Robert Noyce",
+            "summary": "American physicist and entrepreneur (1927–1990)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Robert_Noyce_with_Motherboard_1959.png/250px-Robert_Noyce_with_Motherboard_1959.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Noyce"
+        }
+    ],
+    "territory_geojson": null
+}

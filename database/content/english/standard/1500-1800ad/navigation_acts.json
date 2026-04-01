@@ -1,0 +1,61 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3502,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9621d58bd4af72f9d14030c02607e8fbf620e353c4d85fbc0552e61f3a2459d5",
+    "summary": "The Navigation Acts (1651–1849 AD) were a series of English and later British mercantilist statutes that regulated colonial trade by requiring that goods traded between Britain, its colonies, and foreign countries be carried in British-built and British-manned ships, and that certain 'enumerated commodities' (tobacco, sugar, cotton, indigo, and others) could only be exported to England. The first major Navigation Act (1651), passed by Cromwell's Commonwealth Parliament, was primarily aimed at the [[event:2326|Dutch]], who dominated the carrying trade of Europe; subsequent acts refined and extended the system. The Acts were the cornerstone of English mercantilist policy — the theory that national wealth was a zero-sum game in which colonies existed primarily to benefit the mother country.\n\nThe Navigation Acts had profound effects on both sides of the Atlantic. In Britain, they fostered a large merchant marine and supported the naval power that protected it. In the American colonies, they created genuine economic benefits (guaranteed British market access for colonial products, monopoly protection from foreign competition) alongside real resentments: enumerated goods could not be sold directly to the highest bidder in European markets, and colonial manufacturing was discouraged to prevent competition with British industries. These restrictions became a major grievance in the run-up to the [[event:106|American Revolution]] — the colonists' argument that Parliament lacked the right to tax them (the Stamp Act crisis) was partly rooted in the prior navigation system that had regulated their commerce for over a century. Adam Smith's [[event:2440|Wealth of Nations]] (1776) attacked the Navigation Acts as economically irrational mercantilist restrictions; they were gradually dismantled in the 19th century as free trade ideology triumphed.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+    "read_more_links": [
+        {
+            "title": "Navigation Acts 1651 Dutch carrying trade mercantilism",
+            "url": "https://en.wikipedia.org/wiki/Navigation_Acts#History"
+        },
+        {
+            "title": "Enumerated commodities tobacco sugar colonial trade restrictions",
+            "url": "https://en.wikipedia.org/wiki/Navigation_Acts#Enumerated_commodities"
+        },
+        {
+            "title": "Navigation Acts American Revolution colonial grievance trade",
+            "url": "https://en.wikipedia.org/wiki/Navigation_Acts#American_Revolution"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Oliver Cromwell",
+            "summary": "English military and political leader (1599–1658)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg/250px-Oliver_Cromwell_by_Samuel_Cooper.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_Cromwell"
+        },
+        {
+            "name": "Charles McLean Andrews",
+            "summary": "American historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Charles_McLean_Andrews.jpg/250px-Charles_McLean_Andrews.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_McLean_Andrews"
+        },
+        {
+            "name": "Oliver St John",
+            "summary": "English judge and politician (1598–1673)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oliver_St_John_by_Pieter_Nason.jpg/250px-Oliver_St_John_by_Pieter_Nason.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Oliver_St_John"
+        },
+        {
+            "name": "Walter Strickland",
+            "summary": "English politician and diplomat",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Walter_Strickland_by_Pieter_Nason.jpg/250px-Walter_Strickland_by_Pieter_Nason.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_Strickland"
+        },
+        {
+            "name": "Charles II of England",
+            "summary": "King of England, Scotland, and Ireland from 1660 to 1685",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg/250px-King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_II_of_England"
+        }
+    ],
+    "territory_geojson": null
+}

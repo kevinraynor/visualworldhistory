@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3522,
+    "parent_id": 2190,
+    "granularity": "detailed",
+    "content_hash": "sha256:783efa79b705145ba726612153d84a34a1e52bc935a8276f5acffe6e38d44b72",
+    "summary": "The Tang-Tibet relations (c. 618–842 AD) constituted one of the defining geopolitical rivalries of medieval Central Asia, as the [[event:87|Tang Dynasty China]] and the newly unified [[event:2190|Tibetan Empire]] competed for control of the Silk Road oasis cities and the strategic mountain passes connecting Central Asia with South and East Asia. The relationship began diplomatically: the Tibetan emperor Songtsen Gampo married a Tang princess (Princess Wencheng, 641 AD) as well as a Nepali princess, and the Buddhist cultural influences these marriages brought are credited in Tibetan tradition with laying the foundations for Buddhism's introduction to Tibet.\n\nThe Tang-Tibetan relationship quickly became militarily contentious as both empires expanded into Central Asia. Tibet at its height (c. 700–800 AD) controlled territory stretching from Yunnan in the east to Central Asian oasis cities like Kashgar in the northwest, and briefly occupied the Tang capital Chang'an itself in 763 AD during a period of Tang weakness following the [[event:2153|An Lushan Rebellion]]. The two powers fought recurrently over the Tarim Basin oasis cities, with control of Dunhuang — the critical Silk Road hub — changing hands multiple times. The rivalry was eventually resolved not by military victory but by the collapse of both empires: Tang declined after An Lushan, while the Tibetan Empire fragmented after the assassination of the anti-Buddhist king Langdarma in 842 AD. The cultural legacy of this era was enormous: Buddhist art and manuscripts preserved at Dunhuang — the Dunhuang caves — document the cultural mixing of Tang, Tibetan, and Central Asian traditions during this period.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tang%E2%80%93Tibet_relations",
+    "read_more_links": [
+        {
+            "title": "Princess Wencheng Tang Tibet diplomatic marriage",
+            "url": "https://en.wikipedia.org/wiki/Princess_Wencheng"
+        },
+        {
+            "title": "Dunhuang caves Silk Road manuscripts",
+            "url": "https://en.wikipedia.org/wiki/Mogao_Caves"
+        },
+        {
+            "title": "Tibet occupation Chang'an 763 Tang capital",
+            "url": "https://en.wikipedia.org/wiki/Tibetan_capture_of_Chang%27an"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tang_%28616-710%29.png/300px-Tang_%28616-710%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tang_%28616-710%29.png",
+            "caption": "Boundaries or area which where -at one time- vassal states of the Tang Dynast...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tang-Tibetan_alliance_stele.jpg/300px-Tang-Tibetan_alliance_stele.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tang-Tibetan_alliance_stele.jpg",
+            "caption": "The Sino-Tibetan Treaty Inscription (front side) which was erected in 823, st...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dunhuang_Zhang_Yichao_army.jpg/300px-Dunhuang_Zhang_Yichao_army.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Dunhuang_Zhang_Yichao_army.jpg",
+            "caption": "Section of mural depicting victory of general Zhang Yichao who expelled the T...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/King_Songsten_Gampo%27s_statue_in_his_meditation_cave_at_Yerpa.jpg/300px-King_Songsten_Gampo%27s_statue_in_his_meditation_cave_at_Yerpa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/King_Songsten_Gampo%27s_statue_in_his_meditation_cave_at_Yerpa.jpg",
+            "caption": "I took this photo myself in 1993 and I am happy for it to be in the Public Do...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Songtsen Gampo",
+            "summary": "Founder of the Tibetan Empire and 33rd King of Tibet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/The_King_Songtsen_Gampo.jpg/250px-The_King_Songtsen_Gampo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Songtsen_Gampo"
+        },
+        {
+            "name": "Emperor Taizong of Tang",
+            "summary": "Emperor of China from 626 to 649",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/250px-TangTaizong.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang"
+        },
+        {
+            "name": "Princess Wencheng",
+            "summary": "Chinese princess, Tibetan queen (628–680)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Princess_Wencheng.jpg/250px-Princess_Wencheng.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Princess_Wencheng"
+        },
+        {
+            "name": "Gar Tongtsen Yulsung",
+            "summary": "General of the Tibetan Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mgar_stong-btsan_yul-srung.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gar_Tongtsen_Yulsung"
+        },
+        {
+            "name": "Emperor Zhongzong of Tang",
+            "summary": "Emperor of Tang China (684, 705–710)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tang_Zhongzong.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Zhongzong_of_Tang"
+        },
+        {
+            "name": "Classic of Poetry",
+            "summary": "Collection of ancient Chinese poetry",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%E6%9C%A8%E9%90%B8_---_Confucian_wooden-clapper_bell.svg/250px-%E6%9C%A8%E9%90%B8_---_Confucian_wooden-clapper_bell.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Classic_of_Poetry"
+        }
+    ],
+    "territory_geojson": null
+}

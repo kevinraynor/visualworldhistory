@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2522,
+    "parent_id": 109,
+    "granularity": "major",
+    "content_hash": "sha256:3e9f2399ad54d73378e2825f80ecaa4ea18634bb7b69f77e5e7a01957f5c9edf",
+    "summary": "The Battle of Waterloo, fought on 18 June 1815 near the village of Waterloo in present-day Belgium, was the final engagement of the [[event:109|Napoleonic Wars]] and one of the most consequential battles in modern history. Napoleon Bonaparte's last campaign — known as the Hundred Days — ended here in a decisive defeat that permanently ended his rule and sealed the fate of French imperial ambitions in Europe.\n\nAfter Napoleon's escape from exile on Elba in March 1815 and his rapid reconsolidation of power in France, the European powers reconstituted a coalition determined to remove him. Napoleon sought to defeat his enemies in detail before they could combine, striking into Belgium to drive a wedge between the Anglo-allied army under the Duke of Wellington and the Prussian forces under Field Marshal Blücher.\n\nNapoleon's plan was sound in conception but undermined by execution. He defeated the Prussians at Ligny on 16 June and pushed Wellington back at Quatre Bras. But a crucial delay on the morning of 18 June — still debated by historians — allowed Wellington to occupy a strong defensive position along a ridge near Waterloo while the Prussians rallied and began marching to his support. Wellington's well-chosen ground, his experienced defensive tactics, and the tenacity of his multinational army absorbed a series of powerful French attacks throughout the day.\n\nLate in the afternoon, Napoleon committed his Imperial Guard — the elite reserve that had never been defeated — in a last attempt to break the Allied line. The Guard's repulse sent a psychological shock through the entire French army. At almost the same moment, the Prussian forces arrived on Napoleon's right flank in force, collapsing his position. The French retreat turned into a rout as combined Allied and Prussian pressure disintegrated what remained of the army.\n\nNapoleon abdicated for the second time four days later and was subsequently exiled to the remote island of Saint Helena in the South Atlantic, where he died in 1821. The campaign's outcome confirmed the decisions of the [[event:2523|Congress of Vienna]] and established the conservative European order that would define the continent's politics for the next generation. \"Waterloo\" entered the English language as a synonym for final, irreversible defeat.\n\nThe battle's legacy extended far beyond its immediate political consequences. The extraordinary drama of the campaign — the Hundred Days, the near-run quality of the fighting, the enormous casualties — made Waterloo one of the most written-about events of the nineteenth century. Wellington's famous remark that it was \"the nearest-run thing you ever saw in your life\" captured the contingent nature of the outcome and helped give the battle its enduring fascination.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+    "read_more_links": [
+        {
+            "title": "Battle of Waterloo – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Waterloo"
+        },
+        {
+            "title": "Duke of Wellington – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Duke_of_Wellington"
+        },
+        {
+            "title": "Hundred Days – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hundred_Days"
+        },
+        {
+            "title": "Congress of Vienna – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Congress_of_Vienna"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/De_Slag_bij_Waterloo_Rijksmuseum_SK-A-1115.jpeg/300px-De_Slag_bij_Waterloo_Rijksmuseum_SK-A-1115.jpeg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/De_Slag_bij_Waterloo_Rijksmuseum_SK-A-1115.jpeg",
+            "caption": "The Battle of Waterloo, 18 June 1815. View of the battle field on the moment ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Domaine_du_champ_de_bataille_de_Waterloo_13_02.jpg/300px-Domaine_du_champ_de_bataille_de_Waterloo_13_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Domaine_du_champ_de_bataille_de_Waterloo_13_02.jpg",
+            "caption": "Domaine du Champ de Bataille de Waterloo",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Belgium-6773_-_Battlefield_View_%2814152126362%29.jpg/300px-Belgium-6773_-_Battlefield_View_%2814152126362%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Belgium-6773_-_Battlefield_View_%2814152126362%29.jpg",
+            "caption": "A panoramic view of the battlefield.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Battle_of_Waterloo%2C_18_June_1815_-_sheet_1st%2C_morning_of_the_battle_%28Alison%29.jpg/300px-Battle_of_Waterloo%2C_18_June_1815_-_sheet_1st%2C_morning_of_the_battle_%28Alison%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Battle_of_Waterloo%2C_18_June_1815_-_sheet_1st%2C_morning_of_the_battle_%28Alison%29.jpg",
+            "caption": "Battle of Waterloo, 18 June 1815: sheet 2nd., crisis of the battle. A.K. John...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "William Sadler (painter)",
+            "summary": "Irish painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Battle_of_Waterloo_1815.PNG/250px-Battle_of_Waterloo_1815.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_Sadler_%28painter%29"
+        },
+        {
+            "name": "Michel Ney",
+            "summary": "French military commander (1769–1815)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Marechal_Ney.jpg/250px-Marechal_Ney.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michel_Ney"
+        },
+        {
+            "name": "Jean-de-Dieu Soult",
+            "summary": "Prime Minister of France and French Marshal (1769–1851)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Marshal_Nicolas_Jean_de_Dieu_Soult_Duc_de_Dalmatie%2C_by_George_Peter_Alexander_Healy_%28English_Heritage%2C_The_Wellington_Collection%2C_Apsley_House%29.jpg/250px-Marshal_Nicolas_Jean_de_Dieu_Soult_Duc_de_Dalmatie%2C_by_George_Peter_Alexander_Healy_%28English_Heritage%2C_The_Wellington_Collection%2C_Apsley_House%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-de-Dieu_Soult"
+        },
+        {
+            "name": "Georges Mouton",
+            "summary": "French soldier and political figure",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Georges_Mouton%2C_comte_de_Lobau_%281770-1838%29%2C_mar%C3%A9chal_de_France.jpg/250px-Georges_Mouton%2C_comte_de_Lobau_%281770-1838%29%2C_mar%C3%A9chal_de_France.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Mouton"
+        },
+        {
+            "name": "François Étienne de Kellermann",
+            "summary": "French cavalry general (1770–1835)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kellermann%2C_Francois_Etienne.jpg/250px-Kellermann%2C_Francois_Etienne.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_%C3%89tienne_de_Kellermann"
+        },
+        {
+            "name": "Édouard Jean Baptiste Milhaud",
+            "summary": "French politician and general (1766–1833)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Jean_Baptiste_Milhaud.jpg/250px-Jean_Baptiste_Milhaud.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89douard_Jean_Baptiste_Milhaud"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 72,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:228d76f26610fdc56e16d5b509405ff8b55643494cdde1f09c243aaf7df856cf",
+    "summary": "The Roman Republic (509–27 BC) was the political system under which Rome grew from a small Italian city-state to master of the Mediterranean world — a period of roughly 500 years during which Rome developed its distinctive constitution, conquered Italy, defeated Carthage, and absorbed the Hellenistic East, before collapsing under the weight of its own success into civil wars that produced the Principate. The Republic was governed by annually elected magistrates (consuls, praetors, censors, quaestors), a Senate of experienced ex-magistrates, and popular assemblies — a complex system of balanced powers that Romans called the 'mixed constitution.'\n\nThe Republic's history falls into distinct phases: the early centuries of internal class conflict (the Conflict of the Orders) between patricians and plebeians, resolved through gradual legal concessions including the [[event:1227|Tribune of the Plebs]] and the Twelve Tables (450 BC); the conquest of Italy and First Punic War (3rd century BC); the great struggle with Carthage in the Second Punic War and Roman expansion into the Hellenistic East (200s–100s BC); and the late Republic crisis of the Gracchi, Marius and Sulla, and ultimately the civil wars of Caesar, [[event:1073|First Triumvirate]], and the Battle of Actium.\n\nRoman Republican institutions, law, and political vocabulary profoundly shaped Western political thought. The concept of a 'republic' (res publica, 'public thing'), separation of powers, senatorial deliberation, consular executive authority, and Roman law (codified in Justinian's Corpus Juris Civilis) became foundational references for European and American constitutional framers. The founding fathers of the United States consciously modeled American institutions on Roman Republican precedents, naming their upper chamber the 'Senate' and designing a system of checks and balances explicitly drawn from Polybius's analysis of the Roman constitution.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_Republic",
+    "read_more_links": [
+        {
+            "title": "Roman constitution structure",
+            "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic"
+        },
+        {
+            "title": "Twelve Tables Roman law",
+            "url": "https://en.wikipedia.org/wiki/Twelve_Tables"
+        },
+        {
+            "title": "Conflict of the Orders",
+            "url": "https://en.wikipedia.org/wiki/Conflict_of_the_Orders"
+        },
+        {
+            "title": "Late Republic crisis",
+            "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Roman_Republic_before_the_First_Punic_War.png/300px-Roman_Republic_before_the_First_Punic_War.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Roman_Republic_before_the_First_Punic_War.png",
+            "caption": "Map of the central mediterranean sea before the start of the First Punic War",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg/300px-1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/1839_Monin_Map_of_Ancienne_Italy_Atlas_Universel_de_G%C3%A9ographie_Ancienne_and_Moderne.jpg",
+            "caption": "Monin Carte d'Ancienne Italie Atlas Universel de Géographie Ancienne et Moderne",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aqua_Anio_Vetus%2C_Tivoli_-_51072576848.jpg/300px-Aqua_Anio_Vetus%2C_Tivoli_-_51072576848.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Aqua_Anio_Vetus%2C_Tivoli_-_51072576848.jpg",
+            "caption": "Aqua Anio Novus, Tivoli",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Mausoleum_of_the_Julii%2C_about_40_BC%2C_Glanum_%2814793795492%29.jpg/300px-The_Mausoleum_of_the_Julii%2C_about_40_BC%2C_Glanum_%2814793795492%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/The_Mausoleum_of_the_Julii%2C_about_40_BC%2C_Glanum_%2814793795492%29.jpg",
+            "caption": "The Mausoleum of the Julii, located across the Via Domitia, to the north of, ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Sulla",
+            "summary": "Roman general and dictator (138–78 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg/250px-Q._Pompeius_Rufus%2C_denarius%2C_54_BC%2C_RRC_434-1_%28Sulla_only%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sulla"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Philip V of Macedon",
+            "summary": "King of Macedonia from 221 to 179 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg/250px-Bust_of_Philip_V_of_Macedon_in_Palazzo_Massimo_%28Rome%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Philip_V_of_Macedon"
+        },
+        {
+            "name": "Perseus of Macedon",
+            "summary": "King of Macedonia from 179 to 168 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Perseus_of_Macedon_coin_cropped.png/250px-Perseus_of_Macedon_coin_cropped.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perseus_of_Macedon"
+        },
+        {
+            "name": "Viriathus",
+            "summary": "Lusitanian leader and rebel (d. 139 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Viriato.JPG/250px-Viriato.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Viriathus"
+        },
+        {
+            "name": "Jugurtha",
+            "summary": "2nd-century BC King of Numidia",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Coin_of_Jugurtha.png/250px-Coin_of_Jugurtha.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jugurtha"
+        }
+    ],
+    "territory_geojson": null
+}

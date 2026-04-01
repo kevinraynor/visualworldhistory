@@ -1,0 +1,90 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1039,
+    "parent_id": 80,
+    "granularity": "notable",
+    "content_hash": "sha256:6b0edb3744ed2c2c63bc256f485d981b1fac5addb44b5c842b8f3f74d9b85314",
+    "summary": "The Wars of the Diadochi (322–281 BC) were the complex, multi-generational conflicts among the generals (diadochi = successors) of [[event:75|Alexander the Great's Empire]] following his [[event:1038|Death of Alexander the Great]] in 323 BC, ultimately resulting in the fragmentation of his empire into three major successor kingdoms. The wars involved shifting coalitions, brilliant generalship, treachery, assassinations, and the deaths of virtually every member of Alexander's immediate family.\n\nThe initial struggle was over regency for Alexander's unborn son (Alexander IV) and his mentally impaired half-brother Philip III, with Perdiccas serving as regent. Perdiccas was assassinated in 321 BC during an ill-fated campaign against Ptolemy in Egypt, and the empire began fracturing in earnest. The subsequent decades saw figures like Antigonus 'One-Eye' attempt to reunify the empire, only to be defeated at the Battle of Ipsus in 301 BC where he was killed — the last serious attempt to hold Alexander's empire together.\n\nThe final settlement emerged from the Battle of Corupedium (281 BC), after which the three major successor dynasties stabilized: the [[event:1040|Ptolemaic Kingdom]] under Ptolemy's descendants in Egypt, the [[event:1041|Seleucid Empire]] under Seleucus's heirs in Asia, and the [[event:1042|Antigonid Dynasty]] in Macedonia. The fragmentation meant that no successor ever achieved Alexander's universal reach, but the [[event:80|Hellenistic Period]] of Greek cultural dominance continued across all three kingdoms for generations. The wars also created opportunities for previously subject peoples: the [[event:1097|Chandragupta Maurya]] in India threw off Seleucid control while the Seleucids were distracted by Diadochi warfare.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wars_of_the_Diadochi",
+    "read_more_links": [
+        {
+            "title": "Antigonus I Monophthalmus",
+            "url": "https://en.wikipedia.org/wiki/Antigonus_I_Monophthalmus"
+        },
+        {
+            "title": "Ptolemy I Soter",
+            "url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+        },
+        {
+            "title": "Seleucus I Nicator",
+            "url": "https://en.wikipedia.org/wiki/Seleucus_I_Nicator"
+        },
+        {
+            "title": "Battle of Ipsus",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Ipsus"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Diadochi_satraps_babylon.png/300px-Diadochi_satraps_babylon.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Diadochi_satraps_babylon.png",
+            "caption": "Diadochi satraps babylon",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Diadochen1.png/300px-Diadochen1.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Diadochen1.png",
+            "caption": "States of the Diadochi, c. 300 BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg/300px-The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg",
+            "caption": "The fight of Eumenes of Cardia against Neoptolemus, Wars of the Diadochi",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Perdiccas",
+            "summary": "Macedonian general and regent (355–320 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Philip_III_Arrhidaios_Babylon_mint_struck_under_Perdikkas_circa_323_320_BC.jpg/250px-Philip_III_Arrhidaios_Babylon_mint_struck_under_Perdikkas_circa_323_320_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Perdiccas"
+        },
+        {
+            "name": "Antipater",
+            "summary": "Macedonian statesman and regent (4th century BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/KINGS_of_MACEDON._Alexander_III_%27the_Great%27._336-323_BC.jpg/250px-KINGS_of_MACEDON._Alexander_III_%27the_Great%27._336-323_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Antipater"
+        },
+        {
+            "name": "Craterus",
+            "summary": "General of Alexander the Great (c.370–321 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg/250px-The_fight_of_Eumenes_of_Cardia_against_Neoptolemus%2C_Wars_of_the_Diadochi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Craterus"
+        },
+        {
+            "name": "Ptolemy I Soter",
+            "summary": "Pharaoh of Egypt from 305 to 282 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ptolemy_I_Soter_Louvre_Ma849_A.jpg/250px-Ptolemy_I_Soter_Louvre_Ma849_A.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"
+        },
+        {
+            "name": "Eumenes",
+            "summary": "Greek general, satrap and Diadoch (361–315 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Coins_of_Philip_III_Arrhidaeus._323-317_BC.jpg/250px-Coins_of_Philip_III_Arrhidaeus._323-317_BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eumenes"
+        },
+        {
+            "name": "Cassander",
+            "summary": "King of Macedonia, Antipatrid dynasty",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kassander316BC.jpg/250px-Kassander316BC.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassander"
+        }
+    ],
+    "territory_geojson": null
+}

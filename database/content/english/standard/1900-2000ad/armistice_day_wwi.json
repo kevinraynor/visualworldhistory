@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3328,
+    "parent_id": 110,
+    "granularity": "notable",
+    "content_hash": "sha256:b48a6f2c3f53ecfd172684db78b434956601de23f22f5e0f49ed70af967452f2",
+    "summary": "The Armistice of November 11, 1918, ended the fighting of [[event:110|World War I]] on the Western Front, taking effect at the eleventh hour of the eleventh day of the eleventh month. German military representatives signed the armistice in a railway carriage in the Forest of Compiègne in northern France, accepting Allied terms that required Germany to evacuate occupied territories, surrender vast quantities of war materiel, and evacuate the Rhineland. The armistice was not a surrender treaty but a ceasefire pending final peace negotiations.\n\nThe German army's collapse had been precipitated by the failure of the Spring Offensives of 1918, the successful Allied counteroffensive beginning in August (the Hundred Days Offensive), the exhaustion of German reserves, internal revolution in Germany, and the defection of Germany's allies. The German government had appealed for an armistice to President Wilson based on his Fourteen Points before the military situation became completely catastrophic.\n\nThe armistice was greeted with celebrations across Allied countries and genuine relief among front-line soldiers of all nations. However, the circumstances of Germany's defeat sowed the seeds of later resentment: the German army had not been defeated on German soil, and nationalist politicians promoted the 'stab in the back' myth, which falsely attributed Germany's defeat to internal betrayal rather than military failure. This mythology was exploited by Adolf Hitler and the [[event:2653|Nazi movement]] in the 1920s and 1930s. November 11 is still commemorated as Armistice Day or Remembrance Day across many countries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918",
+    "read_more_links": [
+        {
+            "title": "Armistice Day - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Armistice-Day"
+        },
+        {
+            "title": "Stab in the back myth - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Stab-in-the-back_myth"
+        },
+        {
+            "title": "Hundred Days Offensive - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hundred_Days_Offensive"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_arrival_of_the_German_armistice_delegates_through_our_lines_to_beg_for_an_armistice_%2813983916643%29_%282%29.jpg/300px-The_arrival_of_the_German_armistice_delegates_through_our_lines_to_beg_for_an_armistice_%2813983916643%29_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_arrival_of_the_German_armistice_delegates_through_our_lines_to_beg_for_an_armistice_%2813983916643%29_%282%29.jpg",
+            "caption": "Format: Hand-coloured photograph from an exhibition of war photographs in nat...",
+            "attribution": "Wikimedia Commons, No restrictions"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/NYTimes-Page1-11-11-1918.jpg/300px-NYTimes-Page1-11-11-1918.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/NYTimes-Page1-11-11-1918.jpg",
+            "caption": "Armistice Day page from the New York Times",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Armistice_18_novembre_1918.jpg/300px-Armistice_18_novembre_1918.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Armistice_18_novembre_1918.jpg",
+            "caption": "Last page of the Armistice agreement of November the 11th 1918.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/The_Hundred_Days_Offensive%2C_August-november_1918_Q9271.jpg/300px-The_Hundred_Days_Offensive%2C_August-november_1918_Q9271.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/The_Hundred_Days_Offensive%2C_August-november_1918_Q9271.jpg",
+            "caption": "The Hundred Days Offensive, August-november 1918\nA crowd of German prisoners ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ferdinand Foch",
+            "summary": "French general and military theorist (1851–1929)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg/250px-Maarschalk_Ferdinand_Foch_%281851-1929%29%2C_Bestanddeelnr_158-1095_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_Foch"
+        },
+        {
+            "name": "Maxime Weygand",
+            "summary": "French general (1867–1965)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Maxime_Weygand_-_portrait_en_pied_%28cropped%29.jpg/250px-Maxime_Weygand_-_portrait_en_pied_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maxime_Weygand"
+        },
+        {
+            "name": "Woodrow Wilson",
+            "summary": "President of the United States from 1913 to 1921",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/250px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+        },
+        {
+            "name": "Pincer movement",
+            "summary": "Military tactic: simultaneously attacking both sides of an enemy formation",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pincer.png/250px-Pincer.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pincer_movement"
+        },
+        {
+            "name": "Erich Ludendorff",
+            "summary": "German general and politician (1865–1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg/250px-Erich_Ludendorff_1924_Portrait_%283x4_cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Erich_Ludendorff"
+        },
+        {
+            "name": "Prince Maximilian of Baden",
+            "summary": "Chancellor of Germany in 1918",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bundesarchiv_Bild_183-R04103%2C_Prinz_Max_von_Baden%28cropped%29.jpg/250px-Bundesarchiv_Bild_183-R04103%2C_Prinz_Max_von_Baden%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Prince_Maximilian_of_Baden"
+        }
+    ],
+    "territory_geojson": null
+}

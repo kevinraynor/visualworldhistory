@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1149,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:79588b519b17a1dd28893a71495e778124cd3462a82116782d05bf3972dae69e",
+    "summary": "The Dead Sea Scrolls Community (c. 150–68 BC) refers to the sectarian Jewish group, most likely Essenes, who inhabited the desert settlement of Qumran near the Dead Sea and preserved the [[event:3857|Dead Sea Scrolls Written]] — the oldest known manuscripts of the Hebrew Bible and a remarkable collection of sectarian texts that revolutionized understanding of Second Temple Judaism.\n\nThe Qumran community likely withdrew from mainstream Jerusalem society in protest against [[event:1147|Hasmonean Kingdom]] control of the High Priesthood, which they considered illegitimate. Their writings reveal a group expecting an imminent apocalyptic war between the Sons of Light and Sons of Darkness, practicing ritual purity through repeated immersion, holding property communally, and studying scripture intensively. Their biblical manuscripts — discovered by Bedouin shepherds in caves near Qumran between 1947 and 1956 — predate previously known Hebrew manuscripts by 1,000 years, and have proven remarkably consistent with the traditional texts. The community was destroyed by Roman forces during the First Jewish-Roman War (68 AD), when its members hid their library in jars in desert caves. The scrolls illuminate the diverse sectarian landscape of Jewish religion in the century before and during the time of Jesus.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+    "read_more_links": [
+        {
+            "title": "Qumran",
+            "url": "https://en.wikipedia.org/wiki/Qumran"
+        },
+        {
+            "title": "Essenes",
+            "url": "https://en.wikipedia.org/wiki/Essenes"
+        },
+        {
+            "title": "Dead Sea Scrolls discovery",
+            "url": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls#Discovery"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Great_Isaiah_Scroll.jpg/300px-Great_Isaiah_Scroll.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Great_Isaiah_Scroll.jpg",
+            "caption": "Photographic reproduction of the Great Isaiah Scroll, the best preserved of t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dead_Sea_Scroll_175%2C_Testimonia%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg/300px-Dead_Sea_Scroll_175%2C_Testimonia%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dead_Sea_Scroll_175%2C_Testimonia%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg",
+            "caption": "Dead Sea Scroll number 175 (4Q175), also known as Testimonia. From Qumran Cav...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Detail%2C_Dead_Sea_Scroll_175%2C_Testimonia%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg/300px-Detail%2C_Dead_Sea_Scroll_175%2C_Testimonia%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Detail%2C_Dead_Sea_Scroll_175%2C_Testimonia%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg",
+            "caption": "This is part of Dead Sea Scroll number 175 (4Q175), also known as Testimonia,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg/300px-Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg",
+            "caption": "Dead Sea Scroll, Pesher Isaiah. From Qumran Cave 4. From Qumran (Khirbet Qumr...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "John Hyrcanus",
+            "summary": "Hasmonean ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/John_Hyrcanus_medal.svg/250px-John_Hyrcanus_medal.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Hyrcanus"
+        },
+        {
+            "name": "Palestine pound",
+            "summary": "Currency of the British Mandate of Palestine and later Israel from 1927 to 1952",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/1_Palestine_Pound_1939_Obverse.jpg/250px-1_Palestine_Pound_1939_Obverse.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Palestine_pound"
+        }
+    ],
+    "territory_geojson": null
+}

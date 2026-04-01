@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1275,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:cdadcd656866223fab22755512989bb6e4f915580431c6c85e274c6cc10ab005",
+    "summary": "Star Carr is a Mesolithic hunter-gatherer site in the Vale of Pickering, North Yorkshire, England, dated to approximately 9000–8500 BCE. It is one of the best-preserved and most extensively studied Mesolithic sites in Britain and has yielded an extraordinary array of organic artifacts normally lost to decay, preserved by waterlogged peat conditions.\n\nExcavations at Star Carr, beginning with Grahame Clark in the 1940s and continuing with major research programs in the 2000s–2010s, have produced worked antler, bone, and wood objects including barbed points, mattock heads, and decorated artifacts. Most striking are twenty-one red deer skull frontlets with antlers that may have been worn as headdresses for ritual or hunting purposes, representing the largest assemblage of such objects from Mesolithic Europe. Star Carr also preserves the remains of what may be Britain's earliest known wooden platform and evidence for one of the island's earliest permanent or semi-permanent structures. At this time, Britain was still connected to continental Europe via the landmass of [[event:1319|Doggerland]], and Star Carr's inhabitants were part of a broader Mesolithic cultural world spanning northwestern Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Carr",
+    "read_more_links": [
+        {
+            "title": "Mesolithic Britain - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mesolithic_Britain"
+        },
+        {
+            "title": "Doggerland - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Doggerland"
+        },
+        {
+            "title": "Star Carr Project - University of York",
+            "url": "https://www.starcarr.com/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Carr_spear_tips_01.jpg/300px-Star_Carr_spear_tips_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Carr_spear_tips_01.jpg",
+            "caption": "Star Carr collection at Yorkshire museum - mesolithic spear tips from the ear...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Star_Carr_headdress_cropped.JPG/300px-Star_Carr_headdress_cropped.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Star_Carr_headdress_cropped.JPG",
+            "caption": "Star Carr collection at Yorkshire museum - mesolithic headdress made from dee...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/View_of_Star_Carr_site_looking_NWW..jpg/300px-View_of_Star_Carr_site_looking_NWW..jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/View_of_Star_Carr_site_looking_NWW..jpg",
+            "caption": "The site of the archaeological excavations at Star Carr. Showing the soil mar...",
+            "attribution": "Wikimedia Commons, FAL"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Star_Carr_Engraved_Pendant.gif/300px-Star_Carr_Engraved_Pendant.gif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Star_Carr_Engraved_Pendant.gif",
+            "caption": "A GIF that shows the sequence of engravings on a pendant excavated from the M...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "North Yorkshire",
+            "summary": "County of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2015_Ribblehead_Viaduct_1.jpg/250px-2015_Ribblehead_Viaduct_1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/North_Yorkshire"
+        }
+    ],
+    "territory_geojson": null
+}

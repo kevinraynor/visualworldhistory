@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1352,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8a22e9c2fb97af97ca03c67eba8752484c04f3b747dd49a36170a78ec14e679e",
+    "summary": "The dugout canoe — a watercraft made by hollowing out a single log — is one of the world's oldest known boat types, with the earliest surviving examples dating to approximately 8000 BCE. The Pesse canoe, found in the Netherlands and dated to approximately 8040–7510 BCE, is often cited as one of the world's oldest known boats, though evidence for earlier watercraft (possibly reed rafts, bark boats, or dugouts) exists in the form of indirect evidence including the presence of humans on islands that required sea crossings, such as the island of Melos in the Aegean, which was being visited for obsidian by approximately 13,000 BCE, implying some form of watercraft.\n\nDugout canoes represent a significant technological development that expanded human mobility, enabled fishing in deeper waters, facilitated trade and communication between communities separated by rivers and lakes, and in suitable environments supported the dispersal of communities along coasts and across water gaps. The [[event:1366|Pesse canoe]] from the Netherlands, along with contemporaneous wooden artifacts from [[event:1282|Maglemosian]] sites and other waterlogged Mesolithic deposits, provides rare direct evidence for the wooden technology of early Holocene hunter-gatherer communities. The development of watercraft was a prerequisite for many of the great human migrations of the prehistoric period, including the colonization of islands across the Pacific and Atlantic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dugout_canoe",
+    "read_more_links": [
+        {
+            "title": "Pesse Canoe - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pesse_canoe"
+        },
+        {
+            "title": "History of Boats - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_boats"
+        },
+        {
+            "title": "Prehistoric Seafaring - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_seafaring"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Komyaga_-_Boat_of_Peter_the_Great_museum.jpg/300px-Komyaga_-_Boat_of_Peter_the_Great_museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Komyaga_-_Boat_of_Peter_the_Great_museum.jpg",
+            "caption": "Dugout boat, end of 19th century. Museum-estate \"Boat of Peter I\".",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dugout_Canoe_Excavated_at_Kuahuqiao_Site_of_Hangzhou_02_2014-07.JPG/300px-Dugout_Canoe_Excavated_at_Kuahuqiao_Site_of_Hangzhou_02_2014-07.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dugout_Canoe_Excavated_at_Kuahuqiao_Site_of_Hangzhou_02_2014-07.JPG",
+            "caption": "Cross-lake Bridge Ruins Museum, canoes in the ruins hall.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Maori_canoe_%28waka%29_in_the_Otago_Museum%2C_2016-01-29.jpg/300px-Maori_canoe_%28waka%29_in_the_Otago_Museum%2C_2016-01-29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Maori_canoe_%28waka%29_in_the_Otago_Museum%2C_2016-01-29.jpg",
+            "caption": "Maori canoe (waka)label QS:Len,\"Maori canoe (waka)\"label QS:Lhu,\"Maori kenu (...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Do%C5%82banka.jpg/300px-Do%C5%82banka.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Do%C5%82banka.jpg",
+            "caption": "A boat made out of a single wooden log. Late 19th century, Ukraine.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Adze",
+            "summary": "Woodworking tool with the cutting edge perpendicular to the handle",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Adz_%28PSF%29.png/250px-Adz_%28PSF%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Adze"
+        },
+        {
+            "name": "John Atkins (naval surgeon)",
+            "summary": "English naval surgeon and writer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/A_voyage_to_Guinea%2C_Brasil%2C_and_the_West-Indies%3B_in_His_Majesty%27s_Ships%2C_the_Swallow_and_Weymouth_Fleuron_T087658-1.png/250px-A_voyage_to_Guinea%2C_Brasil%2C_and_the_West-Indies%3B_in_His_Majesty%27s_Ships%2C_the_Swallow_and_Weymouth_Fleuron_T087658-1.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Atkins_%28naval_surgeon%29"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1290,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:e80c9012fbc45823581ccdfa79572de6ca2d6f0ce8d868d2ddeb204931bcd0f6",
+    "summary": "The Paleo-Indian maritime adaptation refers to the evidence that at least some early American populations — particularly those living along the Pacific coast of North and South America — developed significant subsistence reliance on marine resources including fish, shellfish, sea mammals, and seabirds during the period 10,000–8,000 BCE and earlier. This maritime orientation has become increasingly relevant to discussions of how the Americas were first peopled, as it supports the hypothesis that early migrations may have followed a kelp highway along the Pacific Rim from northeastern Asia rather than — or in addition to — an interior land route through an ice-free corridor.\n\nDirect archaeological evidence for Pacific coastal Paleo-Indian occupation is limited by the fact that sea levels during and immediately after the glacial maximum were 60–120 meters lower than today, placing former coastlines and associated archaeological sites well offshore and beneath the modern ocean surface. Indirect evidence comes from sites near but not directly on the coast, from the faunal remains at sites like [[event:1285|Monte Verde]] that include seaweed and marine resources obtained from the Pacific, and from sites on islands that would have required watercraft to reach. The development of maritime economies allowed early coastal populations to exploit highly productive coastal ecosystems and facilitated rapid dispersal along coastlines.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Paleo-Indians",
+    "read_more_links": [
+        {
+            "title": "Kelp Highway Hypothesis - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kelp_highway_hypothesis"
+        },
+        {
+            "title": "Peopling of the Americas - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas"
+        },
+        {
+            "title": "Pacific Coast Migration - Britannica",
+            "url": "https://www.britannica.com/topic/Native-American/Migration-theories"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Valley_of_Mexico_in_Pleistocene_%289778653573%29.jpg/300px-Valley_of_Mexico_in_Pleistocene_%289778653573%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Valley_of_Mexico_in_Pleistocene_%289778653573%29.jpg",
+            "caption": "Prehistoric Mexico Gallery, INAH, National Anthropology Museum, Mexico City. ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/High_res_mastodon_rendering.jpg/300px-High_res_mastodon_rendering.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/High_res_mastodon_rendering.jpg",
+            "caption": "mastodon rendering",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/North_American_cultural_areas.png/300px-North_American_cultural_areas.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/North_American_cultural_areas.png",
+            "caption": "Classification of indigenous peoples of North America according to Alfred Kro...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Global_frequency_distribution_map_of_haplogroup_Q-M242_%28Y-DNA%29.png/300px-Global_frequency_distribution_map_of_haplogroup_Q-M242_%28Y-DNA%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Global_frequency_distribution_map_of_haplogroup_Q-M242_%28Y-DNA%29.png",
+            "caption": "Global frequency distribution map of haplogroup Q-M242. The map was construct...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Fluting (architecture)",
+            "summary": "Architectural practice of cutting grooves through an otherwise plain surface",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NGrange1No5-2426_%28cropped%29.jpg/250px-NGrange1No5-2426_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fluting_%28architecture%29"
+        }
+    ],
+    "territory_geojson": null
+}

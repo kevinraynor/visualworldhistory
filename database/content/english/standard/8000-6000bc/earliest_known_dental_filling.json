@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1487,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:347df1de82c6d002ec5314e14a96249b997030d0a5517001219dd98131b1c627",
+    "summary": "Evidence for the earliest known dental restorations has been found at the Neolithic site of [[event:13|Mehrgarh]] in what is now Pakistan, where drilled molar teeth dating to approximately 6500 to 5500 BCE have been identified. The holes in the teeth were made with flint drill bits, showing precision craftsmanship, and at least some appear to have contained organic filling material. This remarkable discovery, published by researchers in 2006, demonstrates that the communities of the early Mehrgarh settlement possessed sophisticated knowledge of dental anatomy and practical techniques for addressing tooth decay.\n\nThe Mehrgarh dental evidence is the oldest known in the world to show clear intentional drilling of living teeth — a procedure that must have been carried out on living patients, presumably to relieve the pain of dental caries or abscesses. The skill required to drill into a tooth in a controlled manner, without the anesthetics or sterilization available to modern dentistry, implies considerable practical knowledge and technique, as well as a social context in which specialists providing such services existed and were patronized by the community.\n\nThis finding significantly extends the known history of dental medicine and demonstrates that concern for oral health and the willingness to undergo invasive dental procedures are not uniquely modern phenomena. The sophisticated craft and medical knowledge of Mehrgarh's Neolithic community — also evident in the site's evidence for bead-making and early metallurgical experimentation — paints a picture of a remarkably accomplished early farming society.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dental_restoration#History",
+    "read_more_links": [
+        {
+            "title": "Dental Restoration History - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dental_restoration"
+        },
+        {
+            "title": "History of Dentistry - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_dentistry"
+        },
+        {
+            "title": "Mehrgarh - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Mehrgarh"
+        },
+        {
+            "title": "Neolithic Medicine - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Prehistoric_medicine"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Inlay_on_model.jpg/300px-Inlay_on_model.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Inlay_on_model.jpg",
+            "caption": "Inlay made of IPS e.max Press",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/GV-BLACK.JPG/300px-GV-BLACK.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/GV-BLACK.JPG",
+            "caption": "GV Black Classifications",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Onlay.jpg/300px-Onlay.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Onlay.jpg",
+            "caption": "Dental Onlay.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dental_Restoration.jpg/300px-Dental_Restoration.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Dental_Restoration.jpg",
+            "caption": "Dental restoration using composite bonding.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dental technician",
+            "summary": "Technician working on dental appliances",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/VMK-Krone2.jpg/250px-VMK-Krone2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dental_technician"
+        }
+    ],
+    "territory_geojson": null
+}

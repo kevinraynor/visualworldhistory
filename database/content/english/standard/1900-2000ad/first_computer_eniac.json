@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2742,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:699f4f8ebbc56d0eae1c84c37401708639557ff736b873759af65e07db2fb8c3",
+    "summary": "ENIAC (Electronic Numerical Integrator and Computer) was completed in 1945 at the University of Pennsylvania, built by engineers J. Presper Eckert and John Mauchly under a contract with the United States Army Ballistic Research Laboratory. Formally dedicated in February 1946, ENIAC was the first general-purpose, programmable, electronic digital computer. It contained approximately 17,468 vacuum tubes, weighed nearly 30 tonnes, occupied around 167 square meters of floor space, and consumed enormous quantities of electricity. It was capable of performing about 5,000 additions per second — far beyond any mechanical calculating device.\n\nENIAC was not, however, the only significant early computer. The British Colossus machines, developed secretly at Bletchley Park from 1943 onward to decode German ciphers, preceded ENIAC but were dedicated to a specific purpose rather than general-purpose computation. Konrad Zuse's Z3 in Germany (1941) was another important predecessor. Alan Turing's theoretical work on computation provided the intellectual foundation for understanding what universal computing machines could accomplish.\n\nENIAC's architecture directly influenced subsequent computing development. Its creators Eckert and Mauchly went on to build UNIVAC I in 1951, the first commercially produced computer, which was used by the United States Census Bureau. John von Neumann's proposal for stored-program architecture — where instructions and data are held in the same memory — became the standard design paradigm implemented in the computers that followed.\n\nThe era of ENIAC represents the transition from mechanical and electromechanical calculators to fully electronic computation. The path from ENIAC to the [[event:2743|personal computer revolution]] took roughly three decades, driven by the replacement of vacuum tubes with [[event:2741|transistors]] and then integrated circuits.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/ENIAC",
+    "read_more_links": [
+        {
+            "title": "ENIAC - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/technology/ENIAC"
+        },
+        {
+            "title": "History of Computing - Computer History Museum",
+            "url": "https://www.computerhistory.org/timeline/computers/"
+        },
+        {
+            "title": "John von Neumann Architecture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ENIAC%2C_Ft._Sill%2C_OK%2C_US_%2878%29.jpg/300px-ENIAC%2C_Ft._Sill%2C_OK%2C_US_%2878%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ENIAC%2C_Ft._Sill%2C_OK%2C_US_%2878%29.jpg",
+            "caption": "ENIAC computer on display at Fort Sill Museum, Lawton, Oklamoma, US",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Two_women_operating_ENIAC_%28full_resolution%29.jpg/300px-Two_women_operating_ENIAC_%28full_resolution%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Two_women_operating_ENIAC_%28full_resolution%29.jpg",
+            "caption": "Two of the ENIAC programmers, are preparing the computer for Demonstration Da...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ENIAC_on_a_Chip%2C_University_of_Pennsylvania_%281995%29_-_Computer_History_Museum.jpg/300px-ENIAC_on_a_Chip%2C_University_of_Pennsylvania_%281995%29_-_Computer_History_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/ENIAC_on_a_Chip%2C_University_of_Pennsylvania_%281995%29_-_Computer_History_Museum.jpg",
+            "caption": "ENIAC on a Chip from 1995 -- dime for size comparison.  The original ENIAC wa...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/ENIAC_function_table_at_Aberdeen.jpg/300px-ENIAC_function_table_at_Aberdeen.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/ENIAC_function_table_at_Aberdeen.jpg",
+            "caption": "Function table from ENIAC on display at Aberdeen Proving Grounds museum.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Betty Holberton",
+            "summary": "American computer scientist (1917–2001)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Betty-Holbeton-circa-1950s-600dpi.jpg/250px-Betty-Holbeton-circa-1950s-600dpi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Betty_Holberton"
+        },
+        {
+            "name": "John Mauchly",
+            "summary": "American physicist and computer scientist (1907–1980)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dr._J._W._Mauchly_%28cropped%29.jpg/250px-Dr._J._W._Mauchly_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Mauchly"
+        },
+        {
+            "name": "Gladeon M. Barnes",
+            "summary": "US Army general (1887–1961)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Major_General_Gladeon_M._Barnes.JPG/250px-Major_General_Gladeon_M._Barnes.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gladeon_M._Barnes"
+        },
+        {
+            "name": "Herman Goldstine",
+            "summary": "American mathematician (1913–2004)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Capt._Herman_H._Goldstine_%28cropped%29.jpg/250px-Capt._Herman_H._Goldstine_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Herman_Goldstine"
+        },
+        {
+            "name": "Jeffrey Chuan Chu",
+            "summary": "Computer scientist (1919–2011)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jeffreychu-e1522360542601.webp/250px-Jeffreychu-e1522360542601.webp.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jeffrey_Chuan_Chu"
+        },
+        {
+            "name": "Arthur Burks",
+            "summary": "American mathematician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arthur_Burks_1971.jpg/250px-Arthur_Burks_1971.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Arthur_Burks"
+        }
+    ],
+    "territory_geojson": null
+}

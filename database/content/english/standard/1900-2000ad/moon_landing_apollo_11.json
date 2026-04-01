@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2677,
+    "parent_id": 2676,
+    "granularity": "major",
+    "content_hash": "sha256:e1152e0701ced27461aa2e2a6abb029700728185edad2fda5435b94643c7141a",
+    "summary": "On July 20, 1969, American astronaut Neil Armstrong became the first human being to set foot on the Moon, stepping onto the lunar surface from the Apollo 11 lunar module Eagle and uttering the words: \"That's one small step for [a] man, one giant leap for mankind.\" Astronaut Buzz Aldrin joined him on the surface, while Michael Collins orbited above in the command module Columbia. The crew returned safely to Earth on July 24, fulfilling President Kennedy's 1961 challenge and decisively winning the manned lunar phase of the [[event:2676|Space Race]] against the Soviet Union.\n\nThe mission launched from Kennedy Space Center on July 16, 1969, atop a Saturn V rocket — the most powerful launch vehicle ever built, standing 111 meters tall and generating 7.6 million pounds of thrust at liftoff. The three-day journey to the Moon was largely uneventful. After achieving lunar orbit, Armstrong and Aldrin transferred to the Eagle lander and descended toward the Sea of Tranquility. With fuel nearly depleted and computer alarms sounding, Armstrong manually guided the lander past a boulder-strewn crater to a safe landing with approximately thirty seconds of fuel remaining.\n\nArmstrong and Aldrin spent two hours and thirty-one minutes on the lunar surface, collecting 21.5 kilograms of lunar rock and soil samples, deploying scientific instruments including a seismic detector and laser reflector, and planting an American flag. An estimated 600 million people — approximately one-fifth of the world's population — watched the live television transmission, making it one of the most-watched broadcasts in history. Armstrong and Aldrin spoke by telephone with President Nixon, who called it \"the most historic telephone call ever made from the White House.\"\n\nThe Apollo 11 success was built on the tragedy of the Apollo 1 fire in January 1967, which killed astronauts Gus Grissom, Ed White, and Roger Chaffee on the launch pad during a ground test. Massive redesign of the spacecraft followed, and ten subsequent flights over two years tested systems in Earth orbit, circumlunar flight, and increasingly difficult lunar operations before the actual landing attempt. The program also nearly ended with Apollo 13 in April 1970, when an oxygen tank explosion crippled the spacecraft on its way to the Moon and required an improvised emergency return that became one of history's great engineering rescues.\n\nFive more Apollo missions landed on the Moon between 1969 and 1972, bringing a total of twelve astronauts to the lunar surface. The collected scientific data transformed understanding of the Moon's origins, composition, and history. The Soviet Union, which had been competitive in the early Space Race, failed to develop a workable lunar lander and effectively conceded defeat after Apollo 11.\n\nThe Moon landing remains among the most celebrated achievements of human civilization, a demonstration of what determined collective effort, scientific knowledge, and technological ambition can accomplish. Recurring questions about whether the landing was genuine — conspiracy theories claiming it was staged — have been definitively refuted by independent analysis of physical evidence, retroreflectors on the lunar surface still used by scientists, and Soviet confirmation at the time. The event continues to inspire and is invoked whenever humanity confronts challenges that seem impossibly large.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apollo_11",
+    "read_more_links": [
+        {
+            "title": "Moon Landing – NASA",
+            "url": "https://www.nasa.gov/mission/apollo-11/"
+        },
+        {
+            "title": "Apollo Program – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Apollo_program"
+        },
+        {
+            "title": "Apollo 11 – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/topic/Apollo-11"
+        },
+        {
+            "title": "Neil Armstrong – Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Neil-Armstrong"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/300px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
+            "caption": "Apollo 11 Hasselblad image from film magazine 40/S - EVA. The image of astron...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg/300px-Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg",
+            "caption": "Apollo 11 Hasselblad image from film magazine 40/S - EVA\nThe NASA Special Pub...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NASM-NASM2013-02663.jpg/300px-NASM-NASM2013-02663.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/NASM-NASM2013-02663.jpg",
+            "caption": "View of the interior of Apollo 11 Command Module \"Columbia\" (A19700102000).  ...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Apollo_11_insignia.png/300px-Apollo_11_insignia.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Apollo_11_insignia.png",
+            "caption": "Apollo 11 Patch",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Buzz Aldrin",
+            "summary": "American astronaut (born 1930)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Buzz_Aldrin.jpg/250px-Buzz_Aldrin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Buzz_Aldrin"
+        },
+        {
+            "name": "Richard Nixon",
+            "summary": "President of the United States from 1969 to 1974",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/250px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_Nixon"
+        },
+        {
+            "name": "John F. Kennedy",
+            "summary": "President of the United States from 1961 to 1963",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/250px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+        },
+        {
+            "name": "Dwight D. Eisenhower",
+            "summary": "President of the United States from 1953 to 1961",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/250px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+        },
+        {
+            "name": "Norbert Wiener",
+            "summary": "American mathematician and philosopher (1894–1964)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Norbert_Wiener.png/250px-Norbert_Wiener.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Norbert_Wiener"
+        },
+        {
+            "name": "Nikita Khrushchev",
+            "summary": "Leader of the Soviet Union from 1953 to 1964",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg/250px-1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
+        }
+    ],
+    "territory_geojson": null
+}

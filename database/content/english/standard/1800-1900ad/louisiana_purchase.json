@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2601,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:8927d4f4230f99c4719528cd14bd6cd22033d2ed2e196c225846b9d6c7331213",
+    "summary": "The Louisiana Purchase of 1803 was the acquisition by the United States of approximately 2.1 million square kilometers of territory from France — roughly doubling the size of the young republic — for the sum of 15 million dollars. It stands as one of the most consequential real estate transactions in history and fundamentally shaped the future development of North America.\n\nThe purchase came about through a remarkable combination of circumstance and diplomacy. Napoleon had re-acquired Louisiana from Spain in 1800 with plans for a revived French empire in the Americas, but the catastrophic failure of a French expedition to suppress the Haitian Revolution led by Toussaint Louverture — which cost France an army of 50,000 men to disease — eliminated any prospect of maintaining a western hemisphere empire. With renewed European war against Britain imminent, Napoleon decided to sell the entire territory rather than see it seized by British naval power.\n\nAmerican negotiators Robert Livingston and James Monroe had been sent to Paris only to purchase the port of New Orleans, which controlled access to the Mississippi River for American farmers in the interior. When Napoleon's government offered the entire territory, they exceeded their instructions and agreed, correctly judging that the opportunity was too important to miss. President Jefferson, despite his constitutional scruples about whether the federal government had the power to acquire territory, persuaded Congress to ratify the treaty.\n\nThe [[event:2602|Lewis and Clark Expedition]] of 1804–06 was sent to explore the new territory, mapping rivers, cataloguing species, and establishing American presence to the Pacific Northwest. The Louisiana Purchase enabled the territorial expansion that the [[event:2566|Manifest Destiny]] ideology celebrated, ultimately incorporating over a dozen American states. It also dispossessed the Native peoples of the region, who were not parties to the transaction and whose lands were sold without their knowledge or consent.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Louisiana_Purchase",
+    "read_more_links": [
+        {
+            "title": "Louisiana Purchase – Britannica",
+            "url": "https://www.britannica.com/event/Louisiana-Purchase"
+        },
+        {
+            "title": "Lewis and Clark Expedition – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
+        },
+        {
+            "title": "Thomas Jefferson – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Map_illustrating_the_plan_of_the_defences_of_the_western_%26_north-western_frontier_%28NYPL_b20643878-5437624%29.jpg/300px-Map_illustrating_the_plan_of_the_defences_of_the_western_%26_north-western_frontier_%28NYPL_b20643878-5437624%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Map_illustrating_the_plan_of_the_defences_of_the_western_%26_north-western_frontier_%28NYPL_b20643878-5437624%29.jpg",
+            "caption": "* Shows rivers, roads, Indian lands, forts, military posts, cities and settle...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Louisiana_Purchase.png/300px-Louisiana_Purchase.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Louisiana_Purchase.png",
+            "caption": "The Louisiana Purchase\nProjection = USA Contiguous Albers Equal Area Conic (E...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Louisiana1804a.jpg/300px-Louisiana1804a.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Louisiana1804a.jpg",
+            "caption": "Louisiana map in 1804, surrounded on the west by the Rocky Mountains",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fort_Madison_1810.jpg/300px-Fort_Madison_1810.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fort_Madison_1810.jpg",
+            "caption": "John Johnson's 1810 map of Fort Madison. Johnson was the U.S. trading factor....",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Napoleon",
+            "summary": "French general and emperor (1769–1821)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon"
+        },
+        {
+            "name": "Thomas Jefferson",
+            "summary": "Founding Father, U.S. president from 1801 to 1809",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/250px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+        },
+        {
+            "name": "James Monroe",
+            "summary": "Founding Father, U.S. president from 1817 to 1825",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg/250px-James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Monroe"
+        },
+        {
+            "name": "François Barbé-Marbois",
+            "summary": "French politician (1745–1837)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Barbe_de_Marbois.jpg/250px-Barbe_de_Marbois.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Barb%C3%A9-Marbois"
+        },
+        {
+            "name": "James Madison",
+            "summary": "Founding Father, U.S. president from 1809 to 1817",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/250px-James_Madison.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_Madison"
+        },
+        {
+            "name": "Toussaint Louverture",
+            "summary": "Haitian general and revolutionary (1744–1803)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Toussaint_Louverture_-_Girardin.jpg/250px-Toussaint_Louverture_-_Girardin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Toussaint_Louverture"
+        }
+    ],
+    "territory_geojson": null
+}

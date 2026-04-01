@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1081,
+    "parent_id": 1080,
+    "granularity": "detailed",
+    "content_hash": "sha256:2400fecf03029b9e2c80220adfdb579ed728bc5d119eedfba31b3e067a84da20",
+    "summary": "The Battle of Philippi (42 BC) consisted of two separate engagements fought near the city of Philippi in Macedonia between the forces of the [[event:1080|Second Triumvirate]] (Mark Antony and Octavian) and those of the republican Liberatores (Brutus and Cassius, the assassins of Julius Caesar). The outcome ended the last organized resistance to Caesarian rule and determined that the Roman world would be governed by Caesar's heirs.\n\nIn the first battle (October 3), Antony broke Cassius's camp while Brutus simultaneously defeated Octavian's forces — a draw militarily but fatal to Cassius, who lost his camp and, believing the battle was lost, had himself killed. In the second battle three weeks later (October 23), with both sides' morale and supply situation deteriorating, Brutus accepted battle and was defeated. He fled and was killed, reportedly falling on his own sword. Mark Antony reportedly praised Brutus as the most noble of Caesar's assassins, since he had acted from principle rather than personal grievance. The two battles ended the Republic's defenders as a military force.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
+    "read_more_links": [
+        {
+            "title": "Marcus Junius Brutus",
+            "url": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
+        },
+        {
+            "title": "Gaius Cassius Longinus",
+            "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus"
+        },
+        {
+            "title": "Mark Antony",
+            "url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Brutus_and_his_companions_after_the_battle_of_Philippi.jpg/300px-Brutus_and_his_companions_after_the_battle_of_Philippi.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Brutus_and_his_companions_after_the_battle_of_Philippi.jpg",
+            "caption": "Brutus and his companions after the battle of Philippi",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Phil2.png/300px-Phil2.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Phil2.png",
+            "caption": "Phil2",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Phil3.png/300px-Phil3.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Phil3.png",
+            "caption": "Phil3",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Philippi_location.jpg/300px-Philippi_location.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Philippi_location.jpg",
+            "caption": "Filipos, en la Macedonia Oriental",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Marcus Junius Brutus",
+            "summary": "Roman politician and assassin of Julius Caesar (85–42 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brutusidesobv.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
+        },
+        {
+            "name": "Gaius Cassius Longinus",
+            "summary": "Roman senator and general (c.86 BC–42 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pseudo-Corbulo_Musei_Capitolini_MC561.jpg/250px-Pseudo-Corbulo_Musei_Capitolini_MC561.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus"
+        },
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Augustus",
+            "summary": "Roman emperor from 27 BC to AD 14",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Augustus_of_Prima_Porta_%28inv._2290%29.jpg/250px-Augustus_of_Prima_Porta_%28inv._2290%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "name": "Gnaeus Domitius Ahenobarbus (consul 32 BC)",
+            "summary": "Roman general and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cng103lot661cndomitius4140.jpg/250px-Cng103lot661cndomitius4140.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_%28consul_32_BC%29"
+        }
+    ],
+    "territory_geojson": null
+}

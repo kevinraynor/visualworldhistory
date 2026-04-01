@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2715,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e4540534ecfa7d4954848895abca136d49b00f5d54f4186a0ec393373e9100e4",
+    "summary": "The Camp David Accords were a pair of agreements signed by Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin on 17 September 1978, brokered by US President Jimmy Carter at the presidential retreat at Camp David, Maryland. After 13 days of secret negotiations, the two leaders agreed on a framework for peace in the Middle East and a framework for a peace treaty between Egypt and Israel.\n\nThe first framework outlined principles for Palestinian autonomy in the West Bank and Gaza Strip, though its provisions proved contentious and were never fully implemented. The second framework led directly to the Egypt-Israel Peace Treaty of March 1979, under which Israel withdrew from the Sinai Peninsula it had captured during the [[event:2686|Six-Day War]] of 1967, and Egypt became the first Arab state to officially recognize Israel.\n\nThe accords were remarkable diplomatic achievements that required Sadat and Begin to override intense domestic and international opposition. Sadat in particular faced fierce criticism across the Arab world for making peace without achieving a Palestinian state, and Egypt was suspended from the Arab League. Sadat was assassinated by Islamic extremists in October 1981, partly in response to the peace with Israel. Both Sadat and Begin were awarded the Nobel Peace Prize in 1978.\n\nThe peace between Egypt and Israel has proven durable, surviving multiple crises including the Sadat assassination, subsequent Egyptian governments, and regional conflicts. The withdrawal from Sinai established the principle of land for peace that would underpin subsequent Middle Eastern diplomatic efforts, including the Oslo Accords of the 1990s.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+    "read_more_links": [
+        {
+            "title": "Camp David Accords - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Camp-David-Accords"
+        },
+        {
+            "title": "Camp David Accords - Office of the Historian, US State Department",
+            "url": "https://history.state.gov/milestones/1977-1980/camp-david"
+        },
+        {
+            "title": "Egypt-Israel Peace Treaty 1979 - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_peace_treaty"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Carter_and_Sadat_White_House2.jpg/300px-Carter_and_Sadat_White_House2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Carter_and_Sadat_White_House2.jpg",
+            "caption": "President Jimmy Carter welcomes Egyptian President Anwar Sadat at the White H...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sadat_and_Begin_clean3.jpg/300px-Sadat_and_Begin_clean3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sadat_and_Begin_clean3.jpg",
+            "caption": "Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin ackn...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sadat_and_Begin_and_their_delegations_at_Camp_David%2C_September_17%2C_1978_%2810729645586%29.jpg/300px-Sadat_and_Begin_and_their_delegations_at_Camp_David%2C_September_17%2C_1978_%2810729645586%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Sadat_and_Begin_and_their_delegations_at_Camp_David%2C_September_17%2C_1978_%2810729645586%29.jpg",
+            "caption": "A 1978 meeting at Camp David with (seated, l-r) Aharon Barak, Menachem Begin,...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/300px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif",
+            "caption": "Close up of Menahem Begin, Jimmy Carter and Anwar Sadat at Camp David., 09-07-1978 - NARA - 181133",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Menachem Begin",
+            "summary": "Prime Minister of Israel from 1977 to 1983",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Menachem_Begin_and_Cyrus_R._Vance_%28cropped%29_%282%29.JPEG/250px-Menachem_Begin_and_Cyrus_R._Vance_%28cropped%29_%282%29.JPEG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Menachem_Begin"
+        },
+        {
+            "name": "Jimmy Carter",
+            "summary": "President of the United States from 1977 to 1981",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/250px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Carter"
+        },
+        {
+            "name": "Anwar Sadat",
+            "summary": "President of Egypt from 1970 to 1981",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Anwar_Sadat_cropped_%28cropped%29%282%29.jpg/250px-Anwar_Sadat_cropped_%28cropped%29%282%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Anwar_Sadat"
+        },
+        {
+            "name": "White House",
+            "summary": "Residence and workplace of the US president",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/250px-White_House_north_and_south_sides.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/White_House"
+        },
+        {
+            "name": "Presidency of Jimmy Carter",
+            "summary": "U.S. presidential administration from 1977 to 1981",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/250px-JimmyCarterPortrait2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Presidency_of_Jimmy_Carter"
+        },
+        {
+            "name": "Political campaign",
+            "summary": "Attempt to influence the decision-making process within a specific group",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lincoln_button_1860.jpg/250px-Lincoln_button_1860.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Political_campaign"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1425,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:bac558f5327226da261d8e0515ba87026c236423270546e529f9b73c7d80246b",
+    "summary": "The Peiligang culture, named after the site of Peiligang in Henan province of central China and dated from approximately 7000 to 5000 BCE, was one of the earliest Neolithic cultures of the Yellow River basin and middle Huai River area. It represents an important stage in the development of North Chinese Neolithic agriculture, centered on the cultivation of millet — specifically broomcorn millet (Panicum miliaceum) — rather than the rice that characterized southern Chinese Neolithic cultures.\n\nPeiligang communities lived in small villages and produced a distinctive ceramic tradition including wide-mouthed pots, four-legged vessels, and tripod vessels made from reddish or gray-brown clay. They cultivated millet, kept domesticated pigs, dogs, and possibly cattle, and supplemented their diet with hunting and gathering of wild resources. Ground stone tools for processing grain, including millstones and grinding stones, are a characteristic feature of Peiligang assemblages, reflecting the importance of millet processing in the community's daily economy.\n\nThe Peiligang culture is considered an important ancestor of the later, more elaborate Yangshao culture, which would produce sophisticated painted pottery and more complex social organization across the Yellow River basin from around 5000 BCE. The early millet farming of the Peiligang and related cultures established the agricultural foundation of North Chinese civilization, distinct from the rice-based traditions of the south that are represented by the [[event:1424|Hemudu culture]] and other southern Neolithic groups.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peiligang_culture",
+    "read_more_links": [
+        {
+            "title": "Yangshao Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yangshao_culture"
+        },
+        {
+            "title": "Neolithic China - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_China"
+        },
+        {
+            "title": "History of Millet - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Millet#History"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Red_Pottery_Jar_with_a_Deep_Belley.jpg/300px-Red_Pottery_Jar_with_a_Deep_Belley.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Red_Pottery_Jar_with_a_Deep_Belley.jpg",
+            "caption": "Red Pottery Jar with a Deep Belley，Peiligang Culture，6000～5200 B.C., a collec...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/PeiligangStoneRollerAndQuern.JPG/300px-PeiligangStoneRollerAndQuern.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/PeiligangStoneRollerAndQuern.JPG",
+            "caption": "Stone roller and quern\nNeolithic Peiligang Culture\n\nExcavated from the ruins ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PeiligangCulture-RedPotWithTwoEars-ShanghaiMuseum-May27-08.jpg/300px-PeiligangCulture-RedPotWithTwoEars-ShanghaiMuseum-May27-08.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/PeiligangCulture-RedPotWithTwoEars-ShanghaiMuseum-May27-08.jpg",
+            "caption": "A red pot with two \"ears\", from the Peiligang culture, c.6000-5200 B.C. On di...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Neolithic_stone_sickle%2C_Peiligang_Culture%2C_Jiaxian%2C_Henan%2C_1976.JPG/300px-Neolithic_stone_sickle%2C_Peiligang_Culture%2C_Jiaxian%2C_Henan%2C_1976.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Neolithic_stone_sickle%2C_Peiligang_Culture%2C_Jiaxian%2C_Henan%2C_1976.JPG",
+            "caption": "Neolithic stone sickle, Peiligang Culture, Jiaxian, Henan, found in 1976. Nat...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

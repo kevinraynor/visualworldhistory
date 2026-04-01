@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3828,
+    "parent_id": null,
+    "granularity": "major",
+    "content_hash": "sha256:978659e4ed2235173848da3fe08f3d1741c0d2d28d6e86d7ee3e48a3d7044732",
+    "summary": "The internet — the global network of interconnected computer networks that transformed human communication, commerce, culture, and knowledge — evolved from ARPANET, a US Defense Department research network created in 1969 to enable communication between geographically dispersed computers. ARPANET demonstrated that packet-switched networking was technically feasible and created the first network linking university and military research computers. The foundational protocols that define the modern internet — TCP/IP, developed by Vint Cerf and Bob Kahn — were standardized in the 1970s and adopted by ARPANET in January 1983.\n\nThroughout the 1970s and 1980s, separate networks for different research communities — USENET, BITNET, NSFNET — gradually interconnected, and by the late 1980s a coherent global network was emerging that was opened to commercial use in 1991. The invention of the [[event:2693|World Wide Web]] by Tim Berners-Lee at CERN in 1989–1991 added a graphical, hyperlinked layer atop the internet's infrastructure that made it accessible to non-technical users. The release of the Mosaic web browser in 1993 triggered explosive growth: by 1995, the internet was growing at roughly a hundred percent per year.\n\nBy 2000, approximately 400 million people worldwide had internet access, and the network had transformed journalism, retail, finance, entertainment, scientific research, and social organization. The dot-com boom and bust revealed both the transformative commercial potential and the speculative excess the internet generated. Email, search engines, e-commerce, and online communities had become integrated into daily life in developed countries and were spreading rapidly elsewhere. No communications technology since printing had diffused so quickly or altered so many aspects of social and economic life simultaneously.\n\nThe internet's architecture — decentralized, open-protocol, designed to route around failures — gave it extraordinary resilience and adaptability, enabling successive waves of innovation built atop its infrastructure. The governance of the internet became a contested political question involving national sovereignty, free speech, censorship, and the power of private platform companies that would intensify in the decades following the century's end.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Internet",
+    "read_more_links": [
+        {
+            "title": "History of the Internet",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
+        },
+        {
+            "title": "ARPANET",
+            "url": "https://en.wikipedia.org/wiki/ARPANET"
+        },
+        {
+            "title": "TCP/IP",
+            "url": "https://en.wikipedia.org/wiki/Internet_protocol_suite"
+        },
+        {
+            "title": "World Wide Web",
+            "url": "https://en.wikipedia.org/wiki/World_Wide_Web"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Share_of_individuals_using_the_internet.png/300px-Share_of_individuals_using_the_internet.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Share_of_individuals_using_the_internet.png",
+            "caption": "Share of the population using the Internet",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_sketch_of_the_ARPANET_in_December_1969.png/300px-A_sketch_of_the_ARPANET_in_December_1969.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/A_sketch_of_the_ARPANET_in_December_1969.png",
+            "caption": "A sketch of the ARPANET in December 1969. The nodes at UCLA and the Stanford ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Thai-coup-detat-2014-social-media-banner.jpg/300px-Thai-coup-detat-2014-social-media-banner.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Thai-coup-detat-2014-social-media-banner.jpg",
+            "caption": "Banner instructing residents not to 'like' or 'share' non-mainstream views (t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "J. C. R. Licklider",
+            "summary": "American psychologist and computer scientist (1915-1990)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/J._C._R._Licklider.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J._C._R._Licklider"
+        }
+    ],
+    "territory_geojson": null
+}

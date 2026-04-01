@@ -1,0 +1,70 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1813,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:9e919325e992891e3e267ae2bfc074902493f388647f4bb0ea080500208a5c97",
+    "summary": "The Third Intermediate Period of Egypt (c. 1077–664 BC) was an era of political fragmentation following the end of the [[event:60|New Kingdom]], characterized by competing dynasties ruling simultaneously from different capitals. The period began when the High Priests of Amun at Thebes accumulated sufficient power to effectively rule Upper Egypt independently while pharaohs of the Twenty-First Dynasty held nominal authority from Tanis in the Delta.\n\nSubsequent centuries saw Libyan military commanders who had settled in Egypt as mercenaries seize royal power, founding the Twenty-Second and Twenty-Third Dynasties. Multiple competing dynasties coexisted, with different regions owing allegiance to different rulers. The period ended when Kushite kings from Nubia swept northward to reunite Egypt under the Twenty-Fifth Dynasty, before Assyrian invasions in the seventh century BC reasserted foreign dominance. Despite its political instability, the Third Intermediate Period was not a cultural dark age — temples were built, religious art flourished, and Egyptian traditions were maintained.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Third_Intermediate_Period_of_Egypt",
+    "read_more_links": [
+        {
+            "title": "Twenty-First Dynasty of Egypt",
+            "url": "https://en.wikipedia.org/wiki/Twenty-first_dynasty_of_Egypt"
+        },
+        {
+            "title": "Kingdom of Kush",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kush"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Rulers_of_Kush%2C_Kerma_Museum.jpg/300px-Rulers_of_Kush%2C_Kerma_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Rulers_of_Kush%2C_Kerma_Museum.jpg",
+            "caption": "Rulers of Kush, Kerma Museum",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Smendes",
+            "summary": "Egyptian pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Canopic_Smendes_Met.jpg/250px-Canopic_Smendes_Met.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Smendes"
+        },
+        {
+            "name": "Pharaoh",
+            "summary": "Title of Ancient Egyptian rulers",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Double_crown.svg/250px-Double_crown.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh"
+        },
+        {
+            "name": "Psamtik I",
+            "summary": "Pharaoh",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bust_from_Statue_of_a_King_MET_EGX.358.jpeg/250px-Bust_from_Statue_of_a_King_MET_EGX.358.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Psamtik_I"
+        },
+        {
+            "name": "Ashurbanipal",
+            "summary": "Assyrian ruler",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AshurbanipalKingOfAssyria.jpg/250px-AshurbanipalKingOfAssyria.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashurbanipal"
+        },
+        {
+            "name": "Shoshenq I",
+            "summary": "Pharaoh of Egypt",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Shoshenq_I_by_Rosellini.jpg/250px-Shoshenq_I_by_Rosellini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Shoshenq_I"
+        },
+        {
+            "name": "Osorkon II",
+            "summary": "Egyptian king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egypte_louvre_066.jpg/250px-Egypte_louvre_066.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Osorkon_II"
+        }
+    ],
+    "territory_geojson": null
+}

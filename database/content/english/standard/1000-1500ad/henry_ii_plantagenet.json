@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3534,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:eedcd497154c710e39d2d6f0550fd47e5db53155822197dd56df55676ae07baa",
+    "summary": "Henry II of England (1133–1189 AD) was the founder of the Plantagenet dynasty and one of medieval England's most consequential rulers, whose legal and administrative reforms created the foundations of English common law, yet whose reign is perhaps most remembered for the murder of Archbishop Thomas Becket in Canterbury Cathedral in 1170 — one of the most dramatic church-state confrontations of the Middle Ages. Henry inherited England from his mother Empress Matilda after the civil war known as 'The Anarchy' (1135–1153), and also ruled Normandy, Anjou, Maine, and Touraine by inheritance, and Aquitaine through his marriage to Eleanor of Aquitaine, creating the vast Angevin Empire stretching from Scotland's borders to the Pyrenees that made him the most powerful ruler in western Europe.\n\nHenry's legal reforms were transformative for English governance. He expanded royal courts at the expense of feudal and church courts, developed the system of common law writs (legal mechanisms allowing subjects to bring disputes to royal courts), institutionalized trial by jury, and established the circuit system of itinerant justices who carried royal law throughout the kingdom. His conflict with Archbishop Thomas Becket — his former chancellor and close friend whom he had appointed Archbishop of Canterbury expecting a compliant ally — centered on 'criminous clerks': whether clergy accused of crimes should be tried in royal or church courts. When Becket was murdered by four of Henry's knights who interpreted his frustrated outburst ('Will no one rid me of this turbulent priest?') as a command, the resulting scandal forced Henry to do public penance at Becket's tomb. Becket was canonized within three years. Henry's reign also saw rebellions by his own sons (backed by Eleanor) that foreshadowed the dynastic conflicts of the [[event:2235|Hundred Years' War]] era.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+    "read_more_links": [
+        {
+            "title": "Thomas Becket murder Canterbury Cathedral 1170",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Becket"
+        },
+        {
+            "title": "Plantagenet Angevin Empire Henry II domains",
+            "url": "https://en.wikipedia.org/wiki/Angevin_Empire"
+        },
+        {
+            "title": "English common law Henry II legal reforms",
+            "url": "https://en.wikipedia.org/wiki/Henry_II_of_England#Legal_reforms"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Peter_of_Capua_mediating_between_Philip_Augustus_and_Richard_I_of_England%2C_from_Chroniques_de_France_ou_de_St_Denis%2C_14th_century_%2822702900162%29.jpg/300px-Peter_of_Capua_mediating_between_Philip_Augustus_and_Richard_I_of_England%2C_from_Chroniques_de_France_ou_de_St_Denis%2C_14th_century_%2822702900162%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Peter_of_Capua_mediating_between_Philip_Augustus_and_Richard_I_of_England%2C_from_Chroniques_de_France_ou_de_St_Denis%2C_14th_century_%2822702900162%29.jpg",
+            "caption": "Peter of Capua mediating between Philip Augustus and Richard I of England",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aleanor_of_Aqutaine_and_Henri_II.jpg/300px-Aleanor_of_Aqutaine_and_Henri_II.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Aleanor_of_Aqutaine_and_Henri_II.jpg",
+            "caption": "Les gisants d'Aliénor d'Aquitaine et Henri II",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/English_-_Carrow_Psalter_-_Walters_W34_-_Reverse_Detail.jpg/300px-English_-_Carrow_Psalter_-_Walters_W34_-_Reverse_Detail.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/English_-_Carrow_Psalter_-_Walters_W34_-_Reverse_Detail.jpg",
+            "caption": "English - Carrow Psalter - Walters W34 - Reverse Detail",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/The_Children_of_Henry2_England.jpg/300px-The_Children_of_Henry2_England.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Children_of_Henry2_England.jpg",
+            "caption": "King Henry II of England and his children. (British Library, Royal 14 B VI)\nf...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Stephen, King of England",
+            "summary": "King of England from 1135 to 1154",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/BL_MS_Royal_14_C_VII_f.8v_%28Stephen%29.jpg/250px-BL_MS_Royal_14_C_VII_f.8v_%28Stephen%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stephen%2C_King_of_England"
+        },
+        {
+            "name": "Henry the Young King",
+            "summary": "Junior King of England from 1170 to 1183",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coronation_of_Henry_the_Young_King_-_Becket_Leaves_%28c.1220-1240%29%2C_f._3r_-_BL_Loan_MS_88-2.jpg/250px-Coronation_of_Henry_the_Young_King_-_Becket_Leaves_%28c.1220-1240%29%2C_f._3r_-_BL_Loan_MS_88-2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_the_Young_King"
+        },
+        {
+            "name": "Eleanor of Aquitaine",
+            "summary": "Queen of France (1137–52) and England (1154–89); Duchess of Aquitaine (1137–1204)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Church_of_Fontevraud_Abbey_Eleanor_of_Aquitaine_effigy.jpg/250px-Church_of_Fontevraud_Abbey_Eleanor_of_Aquitaine_effigy.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine"
+        },
+        {
+            "name": "William IX, Count of Poitiers",
+            "summary": "English prince (1153–1156)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/William_IX%2C_Count_of_Poitiers.jpg/250px-William_IX%2C_Count_of_Poitiers.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_IX%2C_Count_of_Poitiers"
+        },
+        {
+            "name": "Geoffrey II, Duke of Brittany",
+            "summary": "Duke of Brittany from 1181 to 1186",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Geoffrey2.jpg/250px-Geoffrey2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Geoffrey_II%2C_Duke_of_Brittany"
+        },
+        {
+            "name": "Eleanor of England, Queen of Castile",
+            "summary": "Queen of Castile and Toledo from 1170 to 1214",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/EleonoraAngl.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eleanor_of_England%2C_Queen_of_Castile"
+        }
+    ],
+    "territory_geojson": null
+}

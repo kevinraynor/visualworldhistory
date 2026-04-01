@@ -1,0 +1,49 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3635,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:f5db6c1fe03c92892da785a79743be3ce1cdae7d596dbfd76787288989cc0b44",
+    "summary": "The Tongzhi Restoration (1861–74) was a period of conservative reform and partial recovery in [[event:2337|Qing dynasty]] China, named after the young Tongzhi Emperor whose reign it encompassed. Following the devastating mid-century crises — the [[event:2543|Taiping Rebellion]], the [[event:3500|Nian Rebellion]], the [[event:2540|Opium Wars]], and the occupation of Beijing by Anglo-French forces in 1860 — a group of capable officials led by Zeng Guofan, Li Hongzhang, Zuo Zongtang, and the regent Prince Gong attempted to stabilize and partially modernize the dynasty.\n\nThe restoration's approach combined Confucian moral revitalization with selective adoption of Western technology, a philosophy encapsulated in the formula 'Chinese learning for the fundamental principles, Western learning for practical application.' Practically, this meant rebuilding administrative institutions, suppressing rebellions, reestablishing fiscal order, and creating a small number of Western-style arsenals, shipyards, and military schools under the [[event:2625|Self-Strengthening Movement]]. The Jiangnan Arsenal (1865) and the Fuzhou Shipyard (1866) were the most prominent products of this effort.\n\nThe restoration achieved genuine stabilization — the rebellions were suppressed, tax revenues recovered, and the dynasty survived — but it fell short of the deeper structural reforms that might have positioned China to compete with industrial powers. Empress Dowager Cixi's conservative influence, the resistance of orthodox Confucian officials, and the dynasty's dependence on regional strongmen who had built their own military and fiscal bases all constrained the restoration's ambitions. The Tongzhi Emperor died in 1875 without an heir, and the subsequent reign of the Guangxu Emperor under Cixi's regency continued the dynasty's troubled trajectory.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tongzhi_Restoration",
+    "read_more_links": [
+        {
+            "title": "Self-Strengthening Movement – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Self-Strengthening_Movement"
+        },
+        {
+            "title": "Li Hongzhang – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Li_Hongzhang"
+        },
+        {
+            "title": "Empress Dowager Cixi – Britannica",
+            "url": "https://www.britannica.com/biography/Cixi"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Tongzhi Emperor",
+            "summary": "Emperor of China from 1861 to 1875",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E7%A9%86%E5%AE%97%E5%90%8C%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/250px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E7%A9%86%E5%AE%97%E5%90%8C%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tongzhi_Emperor"
+        },
+        {
+            "name": "Zeng Guofan",
+            "summary": "Chinese politician and military commander (1811–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tseng_Kwo-Fan.tif/lossy-page1-250px-Tseng_Kwo-Fan.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeng_Guofan"
+        },
+        {
+            "name": "Li Hongzhang",
+            "summary": "Chinese politician and general (1823–1901)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Li_Hung_Chang_in_1896.jpg/250px-Li_Hung_Chang_in_1896.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Li_Hongzhang"
+        }
+    ],
+    "territory_geojson": null
+}

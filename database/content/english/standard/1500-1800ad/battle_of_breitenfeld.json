@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2404,
+    "parent_id": 2328,
+    "granularity": "detailed",
+    "content_hash": "sha256:ca4175ebcb8b90164d89dcc325fea8d388b70592c7953605f9a44ada95b1d5aa",
+    "summary": "The Battle of Breitenfeld (September 17, 1631 AD) was the first major Protestant victory of the [[event:2328|Thirty Years' War]] and a crucial turning point that saved the Protestant cause from imminent collapse, won by the Swedish-Saxon coalition under King [[event:2405|Gustavus Adolphus]] of Sweden against the Imperial forces under Count Tilly. By 1630, the war had gone disastrously for the Protestants: the Edict of Restitution (1629) had ordered the return of secularized Church properties, demonstrating Habsburg determination to crush Protestantism, and Imperial armies had devastated northern Germany. Gustavus Adolphus's intervention in 1630 with a Swedish army of 13,000 was initially cautious; the sack of Magdeburg by Imperial forces in May 1631 (killing approximately 20,000 Protestant civilians) finally shocked the Protestant princes into alliance with Sweden.\n\nAt Breitenfeld, Gustavus's innovative tactics — smaller, more mobile infantry units capable of both firepower and melee combat; flexible formations that could counter-march and redeploy rapidly; combined arms coordination between infantry, cavalry, and mobile field artillery — proved decisive against Tilly's more rigid tercio formations. When the Saxon allied contingent collapsed and fled on the Protestant left, Gustavus held his center and used his reserves to counter-attack, exploiting Imperial overconfidence. The battle ended in a complete rout: Tilly lost approximately 20,000 men; the Imperial army was shattered. The victory opened northern Germany to Swedish operations and completely reversed the war's momentum — transforming what had been potentially a decisive Catholic-Habsburg victory into a prolonged conflict that would ultimately produce the Protestant-preserving [[event:2329|Peace of Westphalia]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Breitenfeld_(1631)",
+    "read_more_links": [
+        {
+            "title": "Gustavus Adolphus tactics Breitenfeld Swedish victory",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Breitenfeld_(1631)#Tactics"
+        },
+        {
+            "title": "Sack Magdeburg 1631 Protestant catastrophe",
+            "url": "https://en.wikipedia.org/wiki/Sack_of_Magdeburg"
+        },
+        {
+            "title": "Thirty Years War Protestant cause Swedish intervention",
+            "url": "https://en.wikipedia.org/wiki/Swedish_intervention_in_the_Thirty_Years%27_War"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Slaget_vid_Breitenfeld_SP232.jpg/300px-Slaget_vid_Breitenfeld_SP232.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Slaget_vid_Breitenfeld_SP232.jpg",
+            "caption": "Schlacht bei Breitenfeld (1631)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/29a_Gustave_Adolphe_%C3%A0_la_bataille_de_Breitenfeld%2C_1632.jpg/300px-29a_Gustave_Adolphe_%C3%A0_la_bataille_de_Breitenfeld%2C_1632.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/29a_Gustave_Adolphe_%C3%A0_la_bataille_de_Breitenfeld%2C_1632.jpg",
+            "caption": "A photograph taken by DCHNwam",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pike_and_shot_model.jpg/300px-Pike_and_shot_model.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Pike_and_shot_model.jpg",
+            "caption": "A model of a section of a pike and shot formation from the Thirty Years' War ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Battle_of_Breitenfeld_7.9.1631.png/300px-Battle_of_Breitenfeld_7.9.1631.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Battle_of_Breitenfeld_7.9.1631.png",
+            "caption": "Battle of Breitenfeld on 7.9.1631 by Otto August Mankell.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Johann Jakob Walther (artist)",
+            "summary": "German painter (1604–1677)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Johann_Jakob_Walther19.jpg/250px-Johann_Jakob_Walther19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Jakob_Walther_%28artist%29"
+        },
+        {
+            "name": "Gustavus Adolphus",
+            "summary": "King of Sweden from 1611 to 1632",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Attributed_to_Jacob_Hoefnagel_-_Gustavus_Adolphus%2C_King_of_Sweden_1611-1632_-_Google_Art_Project.jpg/250px-Attributed_to_Jacob_Hoefnagel_-_Gustavus_Adolphus%2C_King_of_Sweden_1611-1632_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gustavus_Adolphus"
+        },
+        {
+            "name": "Johan Banér",
+            "summary": "Swedish field marshal (1596–1641)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Johan_Ban%C3%A9r_%281596-1641%29.jpg/250px-Johan_Ban%C3%A9r_%281596-1641%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johan_Ban%C3%A9r"
+        },
+        {
+            "name": "Lennart Torstensson",
+            "summary": "Swedish Field Marshal, Privy Councillor and Governor-General (1603–1651)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lennart_Torstenson%2C_1603-51_-_Nationalmuseum_-_40308.tif/lossy-page1-250px-Lennart_Torstenson%2C_1603-51_-_Nationalmuseum_-_40308.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lennart_Torstensson"
+        },
+        {
+            "name": "John George I, Elector of Saxony",
+            "summary": "Elector of Saxony from 1611 to 1656",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Johann_Georg_I_Saxony.jpg/250px-Johann_Georg_I_Saxony.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_George_I%2C_Elector_of_Saxony"
+        },
+        {
+            "name": "Hans Georg von Arnim-Boitzenburg",
+            "summary": "German general (1583–1641)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sachsen_sonst_und_jetzt_%28260%29a.jpg/250px-Sachsen_sonst_und_jetzt_%28260%29a.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Georg_von_Arnim-Boitzenburg"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 80,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:bc6788703844b7685793a4532591576788a635ab8254c3b62a6e9966c89d24a1",
+    "summary": "The Hellenistic Period (323–31 BC) was the era of Greek cultural dominance across the Near East and Mediterranean following the conquests of [[event:75|Alexander the Great's Empire]], lasting until the Roman conquest of Egypt ended the last successor kingdom. The period takes its name from the spread of Greek (Hellenic) language and culture across vast territories where it mixed with local traditions to produce distinctive cultural syntheses that influenced art, religion, philosophy, and governance for centuries.\n\nThe period began with the [[event:1039|Wars of the Diadochi]] — the decades-long conflicts among Alexander's successor generals — and eventually resolved into three major successor kingdoms: the [[event:1040|Ptolemaic Kingdom]] in Egypt, the [[event:1041|Seleucid Empire]] across the Near East and Persia, and the [[event:1042|Antigonid Dynasty]] in Macedonia and Greece, along with numerous smaller kingdoms. These kingdoms competed, allied, and fought across the eastern Mediterranean in kaleidoscopic combinations.\n\nHellenistic culture was characterized by cosmopolitanism, individualism, and the spread of the Greek koine (common) dialect as a universal language of trade and learning. The great cities — [[event:1034|Foundation of Alexandria]], Antioch, Pergamon — became centers of scholarship and artistic production. The [[event:1044|Library of Alexandria]] embodied the Hellenistic ambition to collect and systematize all human knowledge. Hellenistic science produced [[event:1197|Archimedes]], [[event:1199|Eratosthenes Measures Earth]], and the [[event:1202|Antikythera Mechanism]]. Hellenistic philosophy developed Stoicism, Epicureanism, and Skepticism, all aimed at helping individuals navigate an uncertain and often violent world.\n\nThe period ended politically with Rome's gradual absorption of the successor states, completed when Augustus defeated [[event:1048|Cleopatra VII]] and Antony at the [[event:1082|Battle of Actium]] in 31 BC and annexed Egypt. Greek culture, however, did not end — it was absorbed by Rome and transmitted through the Roman Empire to later European and Islamic civilizations.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hellenistic_period",
+    "read_more_links": [
+        {
+            "title": "Wars of the Diadochi",
+            "url": "https://en.wikipedia.org/wiki/Wars_of_the_Diadochi"
+        },
+        {
+            "title": "Koine Greek",
+            "url": "https://en.wikipedia.org/wiki/Koine_Greek"
+        },
+        {
+            "title": "Hellenistic Art",
+            "url": "https://en.wikipedia.org/wiki/Hellenistic_art"
+        },
+        {
+            "title": "Stoicism",
+            "url": "https://en.wikipedia.org/wiki/Stoicism"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg/300px-Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Map_of_Greece%2C_Archipelago_and_part_of_Anadoli%3B_Louis_Stanislas_d%27Arcy_Delarochette_1791.jpg",
+            "caption": "Greece, Archipelago and part of Anadoli. Published for Willm. Faden, Geograph...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg/300px-Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg",
+            "caption": "Alexander the Great Ny Carlsberg Glyptotek IN574 n1",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Athena_and_Nike_fight_Alkyoneus%2C_Gaia_rises_up_from_the_ground_%285336871341%29.jpg/300px-Athena_and_Nike_fight_Alkyoneus%2C_Gaia_rises_up_from_the_ground_%285336871341%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Athena_and_Nike_fight_Alkyoneus%2C_Gaia_rises_up_from_the_ground_%285336871341%29.jpg",
+            "caption": "Athena and Nike fight Alkyoneus, Gaia rises up from the ground",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ptolemy_I_Soter_Louvre_Ma849.jpg/300px-Ptolemy_I_Soter_Louvre_Ma849.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ptolemy_I_Soter_Louvre_Ma849.jpg",
+            "caption": "A Hellenistic bust depicting Ptolemy I Soter, 3rd century BCE, founder of the...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Death of Alexander the Great",
+            "summary": "Death of the Macedonian king in 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Dying_Alexander.jpg/250px-Dying_Alexander.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Death_of_Alexander_the_Great"
+        },
+        {
+            "name": "Cleopatra",
+            "summary": "Pharaoh of Egypt from 51 to 30 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/250px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cleopatra"
+        },
+        {
+            "name": "Alexander the Great",
+            "summary": "King of Macedon from 336 to 323 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg/250px-Alexander_Mosaic_detail_of_Alexander_the_Great_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+        },
+        {
+            "name": "Euclid",
+            "summary": "Ancient Greek mathematician (fl. 300 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg/250px-Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Euclid"
+        },
+        {
+            "name": "Archimedes",
+            "summary": "Greek mathematician and physicist (c. 287 – 212 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/250px-Domenico-Fetti_Archimedes_1620.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Archimedes"
+        },
+        {
+            "name": "Roman emperor",
+            "summary": "Ruler of the Roman Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/250px-Better_Imperial_Aquila.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_emperor"
+        }
+    ],
+    "territory_geojson": null
+}

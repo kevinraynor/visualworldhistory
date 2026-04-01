@@ -1,0 +1,67 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3245,
+    "parent_id": 2337,
+    "granularity": "detailed",
+    "content_hash": "sha256:d8c119976a84ad6e2b2e3bf8a916891f043d356d4171ad48fb4540bf1de40331",
+    "summary": "The White Lotus Rebellion (1796–1804 AD) was a major uprising against the [[event:2337|Qing dynasty]] in central China that exposed the decay of Qing military power and fiscal administration that had developed during the later years of the [[event:2463|Qianlong Emperor's]] reign. The rebellion drew on the millenarian tradition of the White Lotus Society — a Buddhist-inspired syncretic religious movement that prophesied the imminent arrival of the Maitreya Buddha and the restoration of the Ming dynasty — combining genuine messianic belief with practical grievances: corrupt local officials, onerous tax collection, and the displacement of poor settlers on the agricultural frontiers of Hubei, Sichuan, and Shaanxi provinces. The Qing dynasty's Banner and Green Standard armies proved unable to suppress it, necessitating reliance on expensive militia forces (xiang yong) paid by local gentry.\n\nThe rebellion's suppression cost the Qing treasury approximately 200 million taels — more than twice the dynasty's annual revenue — and revealed that the Banners and Green Standard Army, which had been effective military forces in the 17th century, had deteriorated into largely ceremonial organizations incapable of serious combat. The reliance on locally-funded gentry militia that eventually suppressed the rebellion foreshadowed the military decentralization of the 19th century, when regional armies (like Zeng Guofan's Xiang Army during the Taiping Rebellion) would displace central Qing military authority. The White Lotus Rebellion is generally considered the beginning of the 'dynastic decline' phase of the Qing empire, signaling that the dynasty had passed its peak.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/White_Lotus_Rebellion",
+    "read_more_links": [
+        {
+            "title": "White Lotus Society millenarian Buddhism Ming restoration",
+            "url": "https://en.wikipedia.org/wiki/White_Lotus"
+        },
+        {
+            "title": "Qing military decline Banners Green Standard suppression failure",
+            "url": "https://en.wikipedia.org/wiki/White_Lotus_Rebellion#Military_significance"
+        },
+        {
+            "title": "White Lotus Rebellion cost 200 million taels treasury Qing",
+            "url": "https://en.wikipedia.org/wiki/White_Lotus_Rebellion#Aftermath"
+        }
+    ],
+    "images": [],
+    "figures": [
+        {
+            "name": "Hongwu Emperor",
+            "summary": "Emperor of China from 1368 to 1398",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/250px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hongwu_Emperor"
+        },
+        {
+            "name": "Qianlong Emperor",
+            "summary": "Emperor of China from 1735 to 1796",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/250px-%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Qianlong_Emperor"
+        },
+        {
+            "name": "Heshen",
+            "summary": "Chinese politician (1750–1799)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hesen.jpg/250px-Hesen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Heshen"
+        },
+        {
+            "name": "Fuk'anggan",
+            "summary": "Manchu nobleman and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fuk%27anggan_%28%E7%A6%8F%E5%BA%B7%E5%AE%89%29.jpg/250px-Fuk%27anggan_%28%E7%A6%8F%E5%BA%B7%E5%AE%89%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fuk%27anggan"
+        },
+        {
+            "name": "Daoguang Emperor",
+            "summary": "Emperor of China from 1820 to 1850",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/250px-%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daoguang_Emperor"
+        },
+        {
+            "name": "Zeng Guofan",
+            "summary": "Chinese politician and military commander (1811–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tseng_Kwo-Fan.tif/lossy-page1-250px-Tseng_Kwo-Fan.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeng_Guofan"
+        }
+    ],
+    "territory_geojson": null
+}

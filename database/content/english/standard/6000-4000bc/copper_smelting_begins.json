@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3416,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ede4f12638db29790655b09f4ed40fa264bb2bd261241330673f50617c690369",
+    "summary": "Copper smelting — the extraction of metallic copper from ore by heating — emerged independently in several regions of the Old World during the fifth millennium BC, most notably in the Balkans, Anatolia, and the Levant. Unlike the cold-hammering of native copper practiced earlier, smelting required sustained high temperatures above 1083°C and an understanding of reducing atmospheres within a furnace. The discovery likely grew out of experience with high-temperature pottery firing and the accidental or experimental heating of copper-bearing minerals such as malachite and azurite.\n\nThe advent of smelting dramatically expanded the supply of workable copper, since ore deposits are far more widespread than native metal. Communities in the Balkans, particularly those associated with the [[event:3597|Copper Age Balkans]] tradition, were among the earliest to exploit smelted copper on a significant scale, producing tools, ornaments, and prestige objects that circulated widely through exchange networks. Copper smelting is a foundational step in the sequence of metallurgical development that eventually led to bronze and iron working, reshaping the technological capacity of human societies across Eurasia and Africa.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Smelting",
+    "read_more_links": [
+        {
+            "title": "Chalcolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chalcolithic"
+        },
+        {
+            "title": "History of metallurgy - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Metallurgy#Prehistoric_metallurgy"
+        },
+        {
+            "title": "Copper Age - Britannica",
+            "url": "https://www.britannica.com/topic/Copper-Age"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/TVA_phosphate_smelting_furnace.jpg/300px-TVA_phosphate_smelting_furnace.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/TVA_phosphate_smelting_furnace.jpg",
+            "caption": "Title: Large electric phosphate smelting furnace used in the making of elemen...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karabash_copper_smelter.jpg/300px-Karabash_copper_smelter.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Karabash_copper_smelter.jpg",
+            "caption": "Copper smelter of Karabash, Chelyabinsk Oblast, Russia, responsible for one o...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg/300px-S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/S%C3%A9rie_de_cuves_d%27%C3%A9lectrolyse.jpg",
+            "caption": "Série de cuves d'électrolyse. Usine de Saint-Jean-de-Maurienne.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cowles_furnace-2.jpg/300px-Cowles_furnace-2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cowles_furnace-2.jpg",
+            "caption": "Cowles' electric smelting furnace at Cowles Syndicate Company, Limited, w:Sto...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Coke (fuel)",
+            "summary": "Coal product used in making steel",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Koks_Brennstoff.jpg/250px-Koks_Brennstoff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Coke_%28fuel%29"
+        },
+        {
+            "name": "Paul Héroult",
+            "summary": "French scientist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/PaulHeroult.jpg/250px-PaulHeroult.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_H%C3%A9roult"
+        }
+    ],
+    "territory_geojson": null
+}

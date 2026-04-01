@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2269,
+    "parent_id": 2268,
+    "granularity": "detailed",
+    "content_hash": "sha256:8e108ac52471d1e13e8102ddb76d9d69e1fe659a335045c3b05ab9d2e45a8c1b",
+    "summary": "Notre-Dame de Paris (construction began 1163, largely complete by 1345 AD) is the most famous [[event:2268|Gothic cathedral]] in the world, built on the Île de la Cité in the heart of Paris under Bishop Maurice de Sully and his successors over nearly two centuries of construction, and representing one of the supreme achievements of medieval European architecture and religious culture. The cathedral pioneered several Gothic structural innovations — its flying buttresses were among the first examples of this technology, added to support walls that had been built too thin for safety — and its west facade, with its twin towers, rose window, and elaborate sculptural program, became the definitive image of the Gothic cathedral for later European civilization.\n\nNotre-Dame was the site of some of the most important events in French history: the coronation of Henry VI of England as King of France (1431), Napoleon's coronation as Emperor (1804), and the liberation thanksgiving service of 1944. Victor Hugo's novel 'The Hunchback of Notre-Dame' (1831) was explicitly written to draw attention to the cathedral's deteriorating state and stimulate preservation efforts — one of the earliest examples of fiction mobilizing public opinion for cultural heritage protection. Notre-Dame housed the Sainte-Chapelle's relic of the Crown of Thorns (purchased by Louis IX at enormous expense from the Latin Emperor of Constantinople in 1239) and became the spiritual center of French Catholicism. The devastating fire of April 15, 2019, which destroyed the medieval spire and much of the roof, and the subsequent global fundraising campaign that raised over a billion euros for restoration, demonstrated the cathedral's enduring symbolic importance to global civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+    "read_more_links": [
+        {
+            "title": "Notre-Dame construction Gothic architecture Paris",
+            "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris#Architecture"
+        },
+        {
+            "title": "Victor Hugo Hunchback Notre-Dame preservation",
+            "url": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+        },
+        {
+            "title": "Notre-Dame 2019 fire restoration",
+            "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_fire"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Maison_Braun_%26_Cie%2C_Notre_Dame_de_Paris%2C_ca._1930-crop%2C_change_chiaroscuro%2C_perspective%2C_add_color_by_Paolo_Villa_2019.jpg/300px-Maison_Braun_%26_Cie%2C_Notre_Dame_de_Paris%2C_ca._1930-crop%2C_change_chiaroscuro%2C_perspective%2C_add_color_by_Paolo_Villa_2019.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Maison_Braun_%26_Cie%2C_Notre_Dame_de_Paris%2C_ca._1930-crop%2C_change_chiaroscuro%2C_perspective%2C_add_color_by_Paolo_Villa_2019.jpg",
+            "caption": "Maison Braun & Cie, Notre Dame de Paris, ca. 1930 - crop, change chiaroscuro,...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Notre-Dame_-_Eglise_Cath%C3%A9drale_de_Paris_2.jpg/300px-Notre-Dame_-_Eglise_Cath%C3%A9drale_de_Paris_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Notre-Dame_-_Eglise_Cath%C3%A9drale_de_Paris_2.jpg",
+            "caption": "Notre-Dame - Eglise Cathédrale de Paris",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg/300px-Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg",
+            "caption": "Joséphine kneels before Napoléon during his coronation at Notre Dame. Behind ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bourdon_Emmanuel_in_2016_%2836378821523%29.jpg/300px-Bourdon_Emmanuel_in_2016_%2836378821523%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Bourdon_Emmanuel_in_2016_%2836378821523%29.jpg",
+            "caption": "Paris for SIAM PP 2016",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Maurice de Sully",
+            "summary": "Medieval churchman (died 1196)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Maurice_de_Sully.jpg/250px-Maurice_de_Sully.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Maurice_de_Sully"
+        },
+        {
+            "name": "Cathedral",
+            "summary": "Christian church that is the seat of a bishop",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Catedral_da_S%C3%A9_em_S%C3%A3o_Paulo.jpg/250px-Catedral_da_S%C3%A9_em_S%C3%A3o_Paulo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cathedral"
+        },
+        {
+            "name": "Gothic architecture",
+            "summary": "Architectural style of Medieval Europe",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wells_Cathedral_West_Front_Exterior%2C_UK_-_Diliff.jpg/250px-Wells_Cathedral_West_Front_Exterior%2C_UK_-_Diliff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gothic_architecture"
+        },
+        {
+            "name": "French Gothic architecture",
+            "summary": "Architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Notre_Dame_de_Paris_Est_side.jpg/250px-Notre_Dame_de_Paris_Est_side.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/French_Gothic_architecture"
+        },
+        {
+            "name": "Laurent Ulrich",
+            "summary": "French prelate of the Catholic Church (born 1951)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mgr_Ulrich_%28cropped%29.jpg/250px-Mgr_Ulrich_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Laurent_Ulrich"
+        },
+        {
+            "name": "Olivier Latry",
+            "summary": "French musician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Olivier_Latry.png/250px-Olivier_Latry.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Olivier_Latry"
+        }
+    ],
+    "territory_geojson": null
+}

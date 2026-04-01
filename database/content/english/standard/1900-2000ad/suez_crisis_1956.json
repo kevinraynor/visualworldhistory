@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2707,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:a590d74da7683fb45652eedaad34e9d763eab8dfc65a958cdbf3e802462a9880",
+    "summary": "The Suez Crisis of 1956 was a diplomatic and military confrontation triggered when Egyptian President Gamal Abdel Nasser nationalized the Suez Canal Company on 26 July 1956. The canal, which had been jointly owned by Britain and France since its construction in the nineteenth century, was a vital artery for European trade and oil supplies, and its nationalization was seen in London and Paris as an unacceptable blow to their prestige and strategic interests.\n\nBritain, France, and Israel coordinated a secret military operation, with Israel attacking Egypt on 29 October 1956, followed by Anglo-French airstrikes and a paratrooper landing. The military campaign was militarily successful — Israeli forces rapidly captured the Sinai Peninsula while British and French troops seized the northern end of the canal — but it triggered a severe political crisis. Both the United States and the Soviet Union condemned the intervention. Eisenhower, furious at not having been consulted and concerned about Cold War alignments, demanded an immediate ceasefire and threatened economic pressure against Britain.\n\nThe humiliating withdrawal of British and French forces under American and Soviet pressure marked a decisive moment in the decline of European colonial power. It demonstrated that Britain and France could no longer act as independent great powers without American support, effectively signaling the end of their imperial era. The crisis accelerated decolonization movements across Africa and Asia.\n\nFor Egypt, the crisis was a political triumph. Nasser emerged as a hero of Arab nationalism despite military defeat, and Egypt retained control of the canal. The crisis strengthened non-alignment movements and established Nasser as one of the leading figures of Third World politics in the late 1950s and 1960s.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Suez_Crisis",
+    "read_more_links": [
+        {
+            "title": "Suez Crisis - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Suez-Crisis"
+        },
+        {
+            "title": "The Suez Canal Crisis 1956 - Office of the Historian, US Department of State",
+            "url": "https://history.state.gov/milestones/1953-1960/suez"
+        },
+        {
+            "title": "Gamal Abdel Nasser - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/biography/Gamal-Abdel-Nasser"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Portrait_Menzies_1950s.jpg/300px-Portrait_Menzies_1950s.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Portrait_Menzies_1950s.jpg",
+            "caption": "Robert Menzies",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Israeli_troops_in_sinai_war.jpg/300px-Israeli_troops_in_sinai_war.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Israeli_troops_in_sinai_war.jpg",
+            "caption": "IDF soldiers prepare trenches and clean their weapons in Sinai prior to renew...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/AMX-13_at_Latrun4.JPG/300px-AMX-13_at_Latrun4.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/AMX-13_at_Latrun4.JPG",
+            "caption": "AMX-13 at the Israeli Armoured Corps/Yad la-Shiryon Museum, Latrun, Israel.",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Yemenites_go_to_Aden.jpg/300px-Yemenites_go_to_Aden.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Yemenites_go_to_Aden.jpg",
+            "caption": "A JEWISH YEMENITE FAMILY WALKING THROUGH THE DESERT TO A RECEPTION CAMP SET U...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "David Ben-Gurion",
+            "summary": "Prime Minister of Israel (1948–1953; 1955–1963)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/David_Ben-Gurion_%28D597-087%29.jpg/250px-David_Ben-Gurion_%28D597-087%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/David_Ben-Gurion"
+        },
+        {
+            "name": "Moshe Dayan",
+            "summary": "Israeli military leader and politician (1915–1981)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moshe_Dayan%2C_Chief_of_General_Staff.jpg/250px-Moshe_Dayan%2C_Chief_of_General_Staff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Moshe_Dayan"
+        },
+        {
+            "name": "Asaf Simhoni",
+            "summary": "Israeli major general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Asaf_Simchoni_1953.jpg/250px-Asaf_Simchoni_1953.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Asaf_Simhoni"
+        },
+        {
+            "name": "Haim Bar-Lev",
+            "summary": "Israeli military officer and politician (1924–1994)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Haim_Bar-Lev%2C_Chief_of_General_Staff.jpg/250px-Haim_Bar-Lev%2C_Chief_of_General_Staff.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Haim_Bar-Lev"
+        },
+        {
+            "name": "Avraham Yoffe",
+            "summary": "Israeli politician and general (1913–1983)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Avraham_Yoffe_%281967%29.jpg/250px-Avraham_Yoffe_%281967%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Avraham_Yoffe"
+        },
+        {
+            "name": "Israel Tal",
+            "summary": "Israeli general (1924–2010)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Aluf_Israel_Tal.jpg/250px-Aluf_Israel_Tal.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Israel_Tal"
+        }
+    ],
+    "territory_geojson": null
+}

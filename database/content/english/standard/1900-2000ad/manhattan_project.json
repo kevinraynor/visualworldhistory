@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2765,
+    "parent_id": 112,
+    "granularity": "notable",
+    "content_hash": "sha256:b594ce1b2eed5a838f4ee392cbb8a7bdae9824d590aa44355addaede9d06c70d",
+    "summary": "The Manhattan Project was the secret American-led research and development program that produced the world's first nuclear weapons during World War II. Formally established in August 1942 under the administrative authority of the U.S. Army Corps of Engineers, the project brought together an unprecedented concentration of scientific talent, including many European physicists who had fled Nazi persecution, along with enormous industrial resources. The scientific leadership was provided by J. Robert Oppenheimer, who directed the Los Alamos Laboratory in New Mexico where the weapons were designed. The administrative director was General Leslie Groves.\n\nThe project operated at multiple sites across the United States and in Canada. The Oak Ridge facility in Tennessee enriched uranium; the Hanford site in Washington state produced plutonium in nuclear reactors; Los Alamos designed and assembled the actual weapons. At its peak, the project employed approximately 130,000 people and cost nearly two billion dollars, though the vast majority of workers did not know what they were building. The theoretical foundation rested on the discovery of nuclear fission by Otto Hahn and Fritz Strassmann in 1938, and on the work of physicists including Enrico Fermi, who had achieved the first controlled nuclear chain reaction in Chicago in December 1942.\n\nThe first successful nuclear test, Trinity, was conducted at the Jornada del Muerto desert in New Mexico on July 16, 1945. The test confirmed that the implosion-type plutonium bomb worked as designed. Less than a month later, nuclear bombs were dropped on [[event:2661|Hiroshima and Nagasaki]], killing an estimated 150,000–200,000 people and precipitating Japan's surrender.\n\nThe Manhattan Project initiated the [[event:2704|nuclear age]] and the subsequent arms race between the United States and Soviet Union. Its moral legacy is deeply contested: the bombs ended the war and may have prevented a costly invasion of Japan, but they inaugurated a new era of weapons capable of civilizational destruction.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+    "read_more_links": [
+        {
+            "title": "Manhattan Project - Encyclopaedia Britannica",
+            "url": "https://www.britannica.com/event/Manhattan-Project"
+        },
+        {
+            "title": "J. Robert Oppenheimer - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
+        },
+        {
+            "title": "Trinity Test - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/%22_The_Calutron_Girls%22_Y-12_Oak_Ridge_1944_Large_Format_%2832093954911%29_%282%29.jpg/300px-%22_The_Calutron_Girls%22_Y-12_Oak_Ridge_1944_Large_Format_%2832093954911%29_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/%22_The_Calutron_Girls%22_Y-12_Oak_Ridge_1944_Large_Format_%2832093954911%29_%282%29.jpg",
+            "caption": "Y-12-142 DOE photo Ed Westcott 1944 Oak Ridge Tennessee",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg/300px-The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/The_Blue_Marble%2C_AS17-148-22727.jpg",
+            "caption": "The Blue Marble, by Apollo 17, AS17-148-22727.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Manhattan_Project_employment_graph_1942-1946.png/300px-Manhattan_Project_employment_graph_1942-1946.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Manhattan_Project_employment_graph_1942-1946.png",
+            "caption": "A graph of total contractors' employment on the Manhattan Project, from Augus...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/HD.4G.053_%2810540204545%29.jpg/300px-HD.4G.053_%2810540204545%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/HD.4G.053_%2810540204545%29.jpg",
+            "caption": "Trinity Test. Norris Bradbury, group leader for bomb assembly, stands next to...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "James C. Marshall",
+            "summary": "US Army general and engineer (1897–1977)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/James_C._Marshall.jpg/250px-James_C._Marshall.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/James_C._Marshall"
+        },
+        {
+            "name": "Kenneth Nichols",
+            "summary": "United States Army general (1907–2000)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Col._K._D._Nichols_1945_Oak_Ridge_%2815284265500%29.jpg/250px-Col._K._D._Nichols_1945_Oak_Ridge_%2815284265500%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kenneth_Nichols"
+        },
+        {
+            "name": "J. Robert Oppenheimer",
+            "summary": "American theoretical physicist (1904–1967)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Oppenheimer_%28cropped%29.jpg/250px-Oppenheimer_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/J._Robert_Oppenheimer"
+        },
+        {
+            "name": "Bikini Atoll",
+            "summary": "Coral atoll in the Marshall Islands",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bikini_Atoll_2001-01-14%2C_Landsat_7_ETM%2B%2C_bands_3-2-1-8.png/250px-Bikini_Atoll_2001-01-14%2C_Landsat_7_ETM%2B%2C_bands_3-2-1-8.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bikini_Atoll"
+        },
+        {
+            "name": "Lise Meitner",
+            "summary": "Austrian-Swedish nuclear physicist (1878–1968)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lise_Meitner_NatGeo.jpg/250px-Lise_Meitner_NatGeo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lise_Meitner"
+        },
+        {
+            "name": "Leo Szilard",
+            "summary": "Hungarian-American physicist and inventor (1898–1964)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Leo_Szilard-cropped.png/250px-Leo_Szilard-cropped.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_Szilard"
+        }
+    ],
+    "territory_geojson": null
+}

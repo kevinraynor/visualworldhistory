@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2020,
+    "parent_id": 81,
+    "granularity": "notable",
+    "content_hash": "sha256:36afd8b635f82c64f93cfb622c79fd009326df90b9450824a1efcf07de902112",
+    "summary": "The Colosseum (Flavian Amphitheater, constructed 72–80 AD) is the largest amphitheater ever built — an elliptical structure 188 × 156 meters, capable of seating 50,000–80,000 spectators, built by the Flavian emperors Vespasian and Titus partly to reclaim the site of Nero's hated Domus Aurea and restore public amenity to the Roman people. It is Rome's most enduring architectural symbol and one of the great engineering achievements of the ancient world.\n\nThe Colosseum hosted gladiatorial combat (see [[event:1241|Roman Gladiatorial Games]]), animal hunts (venationes), executions of criminals, and possibly mock naval battles (naumachiae) before it was converted to other uses. Roman concrete technology (see [[event:2087|Roman Concrete Technology]]) and an efficient system of vaulted corridors allowed enormous crowds to enter and exit quickly through 80 numbered entrances. The hypogeum (underground level, excavated in the 19th century) reveals the elaborate machinery — lifts, trapdoors, caged animals — used to produce spectacle. Despite medieval reuse as a fortress and quarrying of its stone for other buildings, the Colosseum's surviving structure remains extraordinary. It held almost continuous events for over four centuries until gladiatorial games were banned in the early 5th century and animal hunts continued until 523 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Colosseum",
+    "read_more_links": [
+        {
+            "title": "Colosseum construction technology",
+            "url": "https://en.wikipedia.org/wiki/Colosseum#Structure"
+        },
+        {
+            "title": "Hypogeum underground system",
+            "url": "https://en.wikipedia.org/wiki/Colosseum#Hypogeum"
+        },
+        {
+            "title": "Flavian dynasty builders",
+            "url": "https://en.wikipedia.org/wiki/Flavian_dynasty"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/300px-Colosseo_2020.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
+            "caption": "Colosseo 2020",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Christian_Martyrs%27_Last_Prayer_GA%26C.jpg/300px-The_Christian_Martyrs%27_Last_Prayer_GA%26C.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Christian_Martyrs%27_Last_Prayer_GA%26C.jpg",
+            "caption": "William T. Walters commissioned this painting in 1863, but the artist did not...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Colosseum%2C_Rome.jpg/300px-Colosseum%2C_Rome.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Colosseum%2C_Rome.jpg",
+            "caption": "The Colosseum viewed from Via Nicola Salvi, Rome, 2023",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Colosseum%2C_Eastern_Interior.jpg/300px-Colosseum%2C_Eastern_Interior.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Colosseum%2C_Eastern_Interior.jpg",
+            "caption": "Eastern interior of the colosseum (viewed from the west), Rome, 2023",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vespasian",
+            "summary": "Roman emperor from AD 69 to 79",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg/250px-Vespasian%2C_from_Naples%2C_c._AD_70%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2813646730625%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vespasian"
+        },
+        {
+            "name": "Titus",
+            "summary": "Roman emperor from AD 79 to 81",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Titus_Ny_Carlsberg_Glyptotek_IN3159.jpg/250px-Titus_Ny_Carlsberg_Glyptotek_IN3159.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Titus"
+        },
+        {
+            "name": "Domitian",
+            "summary": "Roman emperor from AD 81 to 96",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Domiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG/250px-Domiziano_da_collezione_albani%2C_fine_del_I_sec._dc._02.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Domitian"
+        },
+        {
+            "name": "Hadrian",
+            "summary": "Roman emperor from 117 to 138",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/M%C3%BCnchen_SMAEK_2019-03-23n.jpg/250px-M%C3%BCnchen_SMAEK_2019-03-23n.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian"
+        },
+        {
+            "name": "Bede",
+            "summary": "Anglo-Saxon monk, writer and saint (672/3–735)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/E-codices_bke-0047_001v_medium_%28cropped%29.jpg/250px-E-codices_bke-0047_001v_medium_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bede"
+        },
+        {
+            "name": "John Capgrave",
+            "summary": "English hagiographer and theologian (1393–1464)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Capgrave-duke-humfrey-bodleian_%28cropped%29.png/250px-Capgrave-duke-humfrey-bodleian_%28cropped%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Capgrave"
+        }
+    ],
+    "territory_geojson": null
+}

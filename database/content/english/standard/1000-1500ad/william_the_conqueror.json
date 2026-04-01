@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-1500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3532,
+    "parent_id": 2233,
+    "granularity": "notable",
+    "content_hash": "sha256:fbde73a318d7c67134c58c89ade7f6d8ee8cc61eeadb38c7a1942b42cdcdc75f",
+    "summary": "William the Conqueror (c. 1028–1087 AD) was the Duke of Normandy who, by defeating and killing King Harold II at the [[event:2234|Battle of Hastings]] in October 1066, became King William I of England — the last successful invader of England in recorded history. Born as an illegitimate son of Duke Robert I of Normandy and a tanner's daughter, William overcame the stigma of his birth and the near-constant rebellions of his barons to consolidate ducal power in Normandy before turning his ambitions to England, where he claimed the throne as the designated heir of his cousin, the childless King Edward the Confessor. William's conquest transformed England more radically than any previous event since the Roman occupation: the Anglo-Saxon aristocracy was almost entirely dispossessed and replaced by Norman French nobles, reshaping England's language, culture, law, and social structure.\n\nWilliam's reign introduced the most thorough feudal land reorganization in European history. He distributed conquered English land to his followers as fiefs held directly from the crown, creating a Norman-French ruling class atop an Anglo-Saxon peasant population. His administrative masterwork, the [[event:3533|Domesday Book]] (1086), was an unprecedented survey of all landholding in England — its name derived from contemporary English who said it was as final as the Last Judgment. William ruled England while remaining Duke of Normandy, a dual role that created the persistent entanglement of English and French political interests that would drive the [[event:2235|Hundred Years' War]] three centuries later. The fusion of Norse-descended Norman culture with Anglo-Saxon and Latin elements produced the hybrid civilization — Middle English language, common law, parliamentary institutions — that would become England's distinctive contribution to Western history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+    "read_more_links": [
+        {
+            "title": "Norman conquest England 1066 transformation",
+            "url": "https://en.wikipedia.org/wiki/Norman_conquest_of_England"
+        },
+        {
+            "title": "William feudal land redistribution Norman barons",
+            "url": "https://en.wikipedia.org/wiki/William_the_Conqueror#King_of_England"
+        },
+        {
+            "title": "Bayeux Tapestry visual record Norman conquest",
+            "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Church_of_Saint-%C3%89tienne_interior_%282%29.jpg/300px-Church_of_Saint-%C3%89tienne_interior_%282%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Church_of_Saint-%C3%89tienne_interior_%282%29.jpg",
+            "caption": "The interior of the church of Saint-Étienne, Abbaye aux Hommes, Caen.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Statue_d%27Dgilliaume_l%C3%A9_Contch%C3%A9thant_%C3%A0_Falaise_01.jpg/300px-Statue_d%27Dgilliaume_l%C3%A9_Contch%C3%A9thant_%C3%A0_Falaise_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Statue_d%27Dgilliaume_l%C3%A9_Contch%C3%A9thant_%C3%A0_Falaise_01.jpg",
+            "caption": "Monument to William the Conqueror at Falaise (Calvados, Basse-Normandie). The...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Bayeuxtapestrywilliamgivesharoldarms.jpg/300px-Bayeuxtapestrywilliamgivesharoldarms.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bayeuxtapestrywilliamgivesharoldarms.jpg",
+            "caption": "Panel from the Bayeux Tapestry - this one depicts Duke William giving arms to...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tower_of_London_White_Tower.jpg/300px-Tower_of_London_White_Tower.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tower_of_London_White_Tower.jpg",
+            "caption": "The White Tower at the Tower of London",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "William II of England",
+            "summary": "King of England from 1087 to 1100",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/William_II_of_England.jpg/250px-William_II_of_England.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/William_II_of_England"
+        },
+        {
+            "name": "Duke of Normandy",
+            "summary": "Medieval ruler of the Duchy of Normandy",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Blason_Duch%C3%A9_de_Normandie.svg/250px-Blason_Duch%C3%A9_de_Normandie.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Duke_of_Normandy"
+        },
+        {
+            "name": "Robert I, Duke of Normandy",
+            "summary": "Duke of Normandy from 1027 to 1035",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Robert_the_Magnificent_of_Normandy.png/250px-Robert_the_Magnificent_of_Normandy.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_I%2C_Duke_of_Normandy"
+        },
+        {
+            "name": "Robert Curthose",
+            "summary": "Duke of Normandy from 1087 to 1106",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Robert_Curthose_-_MS_Royal_14_B_VI.png/250px-Robert_Curthose_-_MS_Royal_14_B_VI.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Curthose"
+        },
+        {
+            "name": "Matilda of Flanders",
+            "summary": "Queen of England from 1066 to 1083",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Luxembourg_-_La_Reine_Mathilde.jpg/250px-Luxembourg_-_La_Reine_Mathilde.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Matilda_of_Flanders"
+        },
+        {
+            "name": "Richard (son of William the Conqueror)",
+            "summary": "11th-century son of William the Conqueror",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Richard%2C_son_of_William_the_Conqueror.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Richard_%28son_of_William_the_Conqueror%29"
+        }
+    ],
+    "territory_geojson": null
+}

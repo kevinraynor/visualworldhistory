@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2322,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:7fca60a11954d22a5092cee48b63bfee19a66e5753d2170bcbea2faa7a950643",
+    "summary": "The Council of Trent (1545–1563 AD) was the Catholic Church's primary institutional response to the [[event:102|Protestant Reformation]], a major ecumenical council convened by Pope Paul III that met in three periods over eighteen years, and produced a comprehensive reaffirmation and clarification of Catholic doctrine while also implementing genuine internal reforms to address the abuses that had given the Reformation its original impetus. The Council represented the Counter-Reformation's doctrinal core: it explicitly rejected Protestant positions on justification (affirming that salvation required both faith and good works, rejecting Luther's sola fide), confirmed the authority of tradition alongside Scripture (rejecting sola scriptura), reaffirmed transubstantiation, clerical celibacy, purgatory, the veneration of saints, and the seven sacraments — leaving no ambiguity about the gulf between Catholic and Protestant theology.\n\nAt the same time, the Council enacted substantial internal reforms that addressed the corruption and ignorance that had fueled Protestant criticism. It mandated that bishops reside in their dioceses (ending absenteeism), regulated the appointment of parish priests, established seminaries in every diocese to provide proper training for clergy (a revolutionary innovation), standardized the Mass liturgy (the Tridentine Mass, which remained standard until the Second Vatican Council in 1962), and reformed the breviary and missal. The Council's decrees gave the papacy centralized doctrinal and disciplinary authority over the Church to a degree unprecedented before the Reformation. Combined with the [[event:2433|Jesuit order's]] educational and missionary work, the Council of Trent defined a renewed, reformed, and doctrinally precise Catholicism that would prove durable for four centuries, and committed Catholic Europe to a path of confessional conflict with Protestant states that would drive the [[event:2328|Thirty Years' War]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Council_of_Trent",
+    "read_more_links": [
+        {
+            "title": "Council Trent decrees Catholic doctrine response",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Trent#Doctrinal_decisions"
+        },
+        {
+            "title": "Tridentine Mass Catholic liturgy standardized",
+            "url": "https://en.wikipedia.org/wiki/Tridentine_Mass"
+        },
+        {
+            "title": "Counter-Reformation Catholic revival seminaries",
+            "url": "https://en.wikipedia.org/wiki/Counter-Reformation"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Concilio_Trento_Museo_Buonconsiglio.jpg/300px-Concilio_Trento_Museo_Buonconsiglio.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Concilio_Trento_Museo_Buonconsiglio.jpg",
+            "caption": "Council of Trent, painting in the Museo del Palazzo del Buonconsiglio, Trento ",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/WAF_im_Landesmuseum_Z%C3%BCrich_64.jpg/300px-WAF_im_Landesmuseum_Z%C3%BCrich_64.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/WAF_im_Landesmuseum_Z%C3%BCrich_64.jpg",
+            "caption": "Council of Trent, oil on canvas, around 1770, Stans, copy of a model from 156...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Portrait_of_Pope_Paul_III_Farnese_%28by_Titian%29_-_National_Museum_of_Capodimonte.jpg/300px-Portrait_of_Pope_Paul_III_Farnese_%28by_Titian%29_-_National_Museum_of_Capodimonte.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Portrait_of_Pope_Paul_III_Farnese_%28by_Titian%29_-_National_Museum_of_Capodimonte.jpg",
+            "caption": "Ritratto di papa Paolo III a capo scoperto.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Society_of_Saint_Pius_X.png/300px-Society_of_Saint_Pius_X.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Society_of_Saint_Pius_X.png",
+            "caption": "Society of Saint Pius X",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pope Paul III",
+            "summary": "Head of the Catholic Church from 1534 to 1549",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Portrait_of_Pope_Paul_III_Farnese_%28by_Titian%29_-_National_Museum_of_Capodimonte.jpg/250px-Portrait_of_Pope_Paul_III_Farnese_%28by_Titian%29_-_National_Museum_of_Capodimonte.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Paul_III"
+        },
+        {
+            "name": "Pope Julius III",
+            "summary": "Head of the Catholic Church from 1550 to 1555",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Girolamo_Sicciolante_-_Paus_Julius_IIIFXD.jpg/250px-Girolamo_Sicciolante_-_Paus_Julius_IIIFXD.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Julius_III"
+        },
+        {
+            "name": "Pope Pius IV",
+            "summary": "Head of the Catholic Church from 1559 to 1565",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Portrait_of_Pope_Pius_IV%2C_three-quarter-length%2C_seated_at_a_draped_table_%28Circle_of_Scipione_Pulzone%29.jpg/250px-Portrait_of_Pope_Pius_IV%2C_three-quarter-length%2C_seated_at_a_draped_table_%28Circle_of_Scipione_Pulzone%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pope_Pius_IV"
+        },
+        {
+            "name": "Sacred tradition",
+            "summary": "Foundation of Christian doctrinal and spiritual authorities",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nicene_and_Post-Nicene_Fathers.jpg/250px-Nicene_and_Post-Nicene_Fathers.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sacred_tradition"
+        },
+        {
+            "name": "Titian",
+            "summary": "Italian painter (c. 1477/88/90–1576)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg/250px-Titian_-_Self-portrait_%28Museo_del_Prado%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Titian"
+        },
+        {
+            "name": "Martin Luther",
+            "summary": "German priest, theologian and author (1483–1546)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/250px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther"
+        }
+    ],
+    "territory_geojson": null
+}

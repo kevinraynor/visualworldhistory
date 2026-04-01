@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3263,
+    "parent_id": 2346,
+    "granularity": "detailed",
+    "content_hash": "sha256:0c791882ed2e5ea845b59b7e01d26f6b7888f51bd45e277489a1ad4fe37c582f",
+    "summary": "Jean-Jacques Rousseau's The Social Contract (Du Contrat Social, 1762 AD) was the most politically radical and influential political text of the [[event:2346|French Enlightenment]] — the work that provided the theoretical foundation for popular sovereignty, democratic legitimacy, and the idea that political authority derives from the consent of the governed. Rousseau's opening declaration — 'Man is born free, and everywhere he is in chains' — captured the central Enlightenment critique of existing social and political arrangements. His argument: legitimate political authority could only rest on a 'social contract' through which individuals give up their natural freedom and receive civil liberty guaranteed by the 'general will' (volonté générale) — the collective will of the community for its common good, not merely the sum of individual preferences.\n\nRousseau's concept of the general will was both his most influential and most problematic contribution. By insisting that the general will was always right and always pointed toward the common good, and that individuals who defied it could be 'forced to be free' (by being compelled to obey what their own best interest truly demanded), Rousseau provided ideological resources both for democratic self-governance and for authoritarian claims to embody the 'true' will of the people against individual dissent. Revolutionary figures like Robespierre drew explicitly on Rousseau during the [[event:2354|Reign of Terror]], using the general will to justify suppressing opposition. Rousseau's other major works — the Discourse on Inequality (arguing that property and civilization had corrupted natural human goodness) and Émile (a revolutionary treatise on education) — complemented the Social Contract to create the most comprehensive critique of 18th-century civilization produced by any single thinker.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Social_Contract",
+    "read_more_links": [
+        {
+            "title": "Rousseau general will concept political theory democracy",
+            "url": "https://en.wikipedia.org/wiki/General_will"
+        },
+        {
+            "title": "Rousseau Discourse Inequality property civilization critique",
+            "url": "https://en.wikipedia.org/wiki/Discourse_on_Inequality"
+        },
+        {
+            "title": "Robespierre Rousseau general will Reign Terror influence",
+            "url": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau#Influence_on_the_French_Revolution"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rousseau_pirated_edition.jpg/300px-Rousseau_pirated_edition.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rousseau_pirated_edition.jpg",
+            "caption": "This is the title page of an early pirated edition of Rousseau's Social Contr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Social_contract_rousseau_page.jpg/300px-Social_contract_rousseau_page.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Social_contract_rousseau_page.jpg",
+            "caption": "Social contract rousseau page",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Virgil",
+            "summary": "1st-century-BC Roman poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/250px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Virgil"
+        },
+        {
+            "name": "Hugo Grotius",
+            "summary": "Dutch philosopher and jurist (1583–1645)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg/250px-Michiel_Jansz_van_Mierevelt_-_Hugo_Grotius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugo_Grotius"
+        },
+        {
+            "name": "Thomas Hobbes",
+            "summary": "English philosopher and political theorist (1588–1679)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg/250px-Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Hobbes"
+        },
+        {
+            "name": "Samuel von Pufendorf",
+            "summary": "German jurist and philosopher (1632–1694)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Samuelis-Pufendorfii-De-jure-natur%C3%A6-et-gentium_MG_9071.tif/lossy-page1-250px-Samuelis-Pufendorfii-De-jure-natur%C3%A6-et-gentium_MG_9071.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Samuel_von_Pufendorf"
+        },
+        {
+            "name": "Frederick Jackson Turner",
+            "summary": "American historian (1861–1932)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Frederick_J._Turner_%28Wisconsin_Authors%2C_1918%29.png/250px-Frederick_J._Turner_%28Wisconsin_Authors%2C_1918%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_Jackson_Turner"
+        },
+        {
+            "name": "Noah Webster",
+            "summary": "American lexicographer and author (1758–1843)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/James_Herring_-_Noah_Webster_-_NPG.67.31_-_National_Portrait_Gallery.jpg/250px-James_Herring_-_Noah_Webster_-_NPG.67.31_-_National_Portrait_Gallery.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Noah_Webster"
+        }
+    ],
+    "territory_geojson": null
+}

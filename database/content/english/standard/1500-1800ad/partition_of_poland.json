@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2334,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:92b3e8f71c7089a7b73a343f38a2db73b63337630e41a311467d05f249a2f767",
+    "summary": "The Partitions of Poland (1772, 1793, 1795) were the progressive dismemberment and eventual complete erasure of the [[event:2390|Polish-Lithuanian Commonwealth]] by its three neighboring great powers — Russia, Prussia, and Austria — one of the most dramatic examples in modern European history of a sovereign state being destroyed by its neighbors without its consent and in violation of its territorial integrity. The Commonwealth's chronic political dysfunction — including the liberum veto (which allowed a single noble to dissolve the Sejm and nullify all legislation), the election of foreign kings, and noble factional conflicts funded by foreign powers — had left it militarily weak and diplomatically vulnerable despite its vast territory (the largest state in Europe in the 17th century).\n\nThe First Partition (1772) was coordinated by Frederick the Great of Prussia, [[event:2367|Catherine the Great]] of Russia, and Maria Theresa of Austria, who collectively seized approximately 30% of Poland's territory. Reform efforts — including the Constitution of May 3, 1791, the first written national constitution in Europe — briefly promised revival, but the Second Partition (1793, by Russia and Prussia alone) stripped Poland of another 50% of its remaining territory. Kościuszko's National Uprising (1794), which briefly mobilized a national resistance army, was crushed; the Third Partition (1795) divided the remaining Polish territory among all three powers, erasing Poland from the map of Europe entirely. Poland would not reappear as an independent state until 1918. The partitions became a symbol of great-power cynicism and nationalism's power as a unifying force — the memory of partition sustained Polish national consciousness through 123 years of foreign rule and became a touchstone of European nationalist movements.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Partitions_of_Poland",
+    "read_more_links": [
+        {
+            "title": "Polish-Lithuanian Commonwealth decline liberum veto",
+            "url": "https://en.wikipedia.org/wiki/Liberum_veto"
+        },
+        {
+            "title": "Constitution of May 3 1791 Polish reform",
+            "url": "https://en.wikipedia.org/wiki/Constitution_of_May_3,_1791"
+        },
+        {
+            "title": "Kościuszko Uprising 1794 Polish national resistance",
+            "url": "https://en.wikipedia.org/wiki/Kosciuszko_Uprising"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Map_of_the_partition_of_the_Kingdom_of_Poland_and_the_Grand_Duchy_of_Lithuania_from_1799.jpg/300px-Map_of_the_partition_of_the_Kingdom_of_Poland_and_the_Grand_Duchy_of_Lithuania_from_1799.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Map_of_the_partition_of_the_Kingdom_of_Poland_and_the_Grand_Duchy_of_Lithuania_from_1799.jpg",
+            "caption": "Title: \"A map of the Kingdom of Poland and the Grand Duchy of Lithuania inclu...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Jan_Matejko_-_Upadek_Polski_%28Reytan%29.jpg/300px-Jan_Matejko_-_Upadek_Polski_%28Reytan%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Jan_Matejko_-_Upadek_Polski_%28Reytan%29.jpg",
+            "caption": "Jan Matejko - Upadek Polski (Reytan)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Allegory_of_the_1st_partition_of_Poland_crop.jpg/300px-Allegory_of_the_1st_partition_of_Poland_crop.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Allegory_of_the_1st_partition_of_Poland_crop.jpg",
+            "caption": "\"The first partition of Poland, 1772. In the Middle Ages, Poland was a large ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rzeczpospolita_Rozbiory_3.png/300px-Rzeczpospolita_Rozbiory_3.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rzeczpospolita_Rozbiory_3.png",
+            "caption": "Partitions of the Polish-Lithuanian Commonwealth in 1772, 1793 and 1795.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Catherine the Great",
+            "summary": "Empress of Russia from 1762 to 1796",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg/250px-Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Catherine_the_Great"
+        },
+        {
+            "name": "Joseph II, Holy Roman Emperor",
+            "summary": "Holy Roman Emperor from 1765 to 1790",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Anton_von_Maron_006.png/250px-Anton_von_Maron_006.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_II%2C_Holy_Roman_Emperor"
+        },
+        {
+            "name": "Frederick the Great",
+            "summary": "King of Prussia from 1740 to 1786",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg/250px-Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_the_Great"
+        },
+        {
+            "name": "Włodzimierz Tetmajer",
+            "summary": "Polish painter",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wlodzimierz_Tetmajer_%2898589273%29.jpg/250px-Wlodzimierz_Tetmajer_%2898589273%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/W%C5%82odzimierz_Tetmajer"
+        },
+        {
+            "name": "Władysław IV Vasa",
+            "summary": "Ruler of Poland–Lithuania from 1632 to 1648",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Rubens_Wladyslaw_Vasa.jpg/250px-Rubens_Wladyslaw_Vasa.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_IV_Vasa"
+        },
+        {
+            "name": "Stanisław August Poniatowski",
+            "summary": "Ruler of Poland–Lithuania from 1764 to 1795",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Stanis%C5%82aw_II_August_Poniatowski_in_coronation_clothes.PNG/250px-Stanis%C5%82aw_II_August_Poniatowski_in_coronation_clothes.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski"
+        }
+    ],
+    "territory_geojson": null
+}

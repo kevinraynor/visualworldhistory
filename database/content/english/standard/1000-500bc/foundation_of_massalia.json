@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1989,
+    "parent_id": 1927,
+    "granularity": "detailed",
+    "content_hash": "sha256:459c10ca8aa180ab0cd45ed5bcdfe094e2b0f7532f73c59c96e81ac2e838945a",
+    "summary": "The Foundation of Massalia (c. 600 BC) by Phocaean Greeks from Ionia (western Anatolia) was the establishment of what is now Marseille, France — the oldest continuously inhabited city in France and the gateway through which Greek culture entered western Europe. The Phocaeans were seafaring Greeks known for their venture into the western Mediterranean, and Massalia's location at the mouth of the Rhône River gave it access to trade routes deep into Gaul (modern France).\n\nMassalia became a prosperous trading city, exporting Greek wine, olive oil, and manufactures in exchange for Celtic tin, amber, furs, and grain. Greek artifacts from Massalia — wine vessels, bronze cups, Greek pottery — have been found at Celtic hillforts (oppida) throughout Gaul, central Europe, and even Britain, documenting the extensive trade networks. The city maintained its Greek character through centuries of contact with Gallic neighbors and intermittent conflict with Carthage (which contested the western Mediterranean), and later allied with Rome in the Punic Wars. Massalia was famous for its astronomy school and was an important channel through which Greek mathematical and geographical knowledge reached the Roman West; Pytheas of Massalia (c. 325 BC) made the first scientific exploration of northern Europe, reaching Britain and possibly the Arctic.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Massalia",
+    "read_more_links": [
+        {
+            "title": "Phocaean Greeks founders",
+            "url": "https://en.wikipedia.org/wiki/Phocaea"
+        },
+        {
+            "title": "Pytheas explorer from Massalia",
+            "url": "https://en.wikipedia.org/wiki/Pytheas"
+        },
+        {
+            "title": "Celtic-Greek trade contacts",
+            "url": "https://en.wikipedia.org/wiki/Massalia#Trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Massalia_large_coin_5th_1st_century_BCE.jpg/300px-Massalia_large_coin_5th_1st_century_BCE.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Massalia_large_coin_5th_1st_century_BCE.jpg",
+            "caption": "Silver drachma of Massalia, 375-200 BC. Obv. head of Artemis, rev. lion, insc...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Marseille_-_Le_jardin_des_vestiges.JPG/300px-Marseille_-_Le_jardin_des_vestiges.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Marseille_-_Le_jardin_des_vestiges.JPG",
+            "caption": "Le jardin des vestiges de Marseille",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Heavy_drachm_Massilia_reverse_CdM_Paris.jpg/300px-Heavy_drachm_Massilia_reverse_CdM_Paris.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Heavy_drachm_Massilia_reverse_CdM_Paris.jpg",
+            "caption": "Silver drachm (so-called heavy drachm) of Massilia, ca. 390–220 BC, reverse: ...",
+            "attribution": "Wikimedia Commons, CC BY 2.5"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Aristotle",
+            "summary": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/250px-Aristotle_Altemps_Inv8575.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle"
+        },
+        {
+            "name": "Gnaeus Pompeius Trogus",
+            "summary": "Gallo-Roman historian",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pompeius_Trogus_1777_%28cropped%29.jpg/250px-Pompeius_Trogus_1777_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Trogus"
+        },
+        {
+            "name": "Euthymenes",
+            "summary": "Greek explorer (sixth century BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Euthym%C3%A8nes.jpg/250px-Euthym%C3%A8nes.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Euthymenes"
+        },
+        {
+            "name": "Pytheas",
+            "summary": "Ancient Greek geographer (born ca. 350 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Parisinus_gr_1397_f.162_pytheas_of_massalia_from_Strabo_7.3.1.jpg/250px-Parisinus_gr_1397_f.162_pytheas_of_massalia_from_Strabo_7.3.1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pytheas"
+        },
+        {
+            "name": "Livy",
+            "summary": "Roman historian (59 BC – AD 17)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/250px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Livy"
+        },
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        }
+    ],
+    "territory_geojson": null
+}

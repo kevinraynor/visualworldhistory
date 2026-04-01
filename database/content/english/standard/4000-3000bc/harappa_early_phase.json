@@ -1,0 +1,62 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1682,
+    "parent_id": 1680,
+    "granularity": "notable",
+    "content_hash": "sha256:9b1372d83d91bc79adfe03b8cc8a5d3d6a9ea05bcf3c01d4ebffa12bbafddc67",
+    "summary": "Harappa, located on the Ravi River in what is now Punjab province, Pakistan, was one of the primary urban centers of the [[event:1680|Indus Valley Civilization]] and has given its name to the entire culture (Harappan Civilization). The site's early phase occupation, beginning around 3300 BCE, predates the great planned city that would grow here by the Mature Harappan period (2600-1900 BCE), but already shows the beginnings of the urban complexity and standardized material culture that defined Harappan civilization.\n\nHarappa's strategic location on the Ravi River in the fertile Punjab plains gave it access to both agricultural lands and trade routes connecting the wider Indus system to the foothills of the Himalaya and ultimately to Central Asia. The early occupation levels at Harappa, known in the archaeological sequence as Ravi Phase (3300-2800 BCE), are characterized by a distinctive early pottery style and the beginnings of the craft specialization — particularly bead-making and ceramic production — that would characterize the mature city.\n\nThe site covers an area of approximately 150 hectares and was excavated beginning in the nineteenth century, though early excavations were unfortunately conducted without modern archaeological methods and damaged portions of the stratigraphy. More systematic excavations in the twentieth and twenty-first centuries have clarified the site's long occupation sequence. Among the most important finds are inscribed tablets and seals bearing the undeciphered [[event:1683|Indus script]], craft workshops producing beads from carnelian, lapis lazuli, and faience, and the skeletal remains of diverse populations suggesting a cosmopolitan urban center drawing migrants from across the region.\n\nHarappa's prominence in the study of the Indus Civilization is partly historical — it was the first major Harappan site excavated — and partly reflects its genuine importance as one of the two largest cities in the mature system. Together with [[event:1681|Mohenjo-daro]], it anchored a civilization of extraordinary geographic extent and urban sophistication.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harappa",
+    "read_more_links": [
+        {
+            "title": "Indus Valley Civilisation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        },
+        {
+            "title": "Harappa - Britannica",
+            "url": "https://www.britannica.com/place/Harappa"
+        },
+        {
+            "title": "Harappa Archaeological Research Project",
+            "url": "https://www.harappa.com/"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg/300px-View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg",
+            "caption": "This is a photo of a monument in Pakistan identified as the",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg/300px-View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg",
+            "caption": "This is a photo of a monument in Pakistan identified as the",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Harappa_red_jasper_male_torso.jpg/300px-Harappa_red_jasper_male_torso.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Harappa_red_jasper_male_torso.jpg",
+            "caption": "Male torso carved from red jasper, Bronze Age, Harappa, Indus Valley Civilisa...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Harappa_13_grey_stone_male_dancer_statuette.jpg/300px-Harappa_13_grey_stone_male_dancer_statuette.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harappa_13_grey_stone_male_dancer_statuette.jpg",
+            "caption": "Harappa 13; Male dancing torso; 2400-1900 BC; limestone; height: 9.9 cm; Nati...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Harappan architecture",
+            "summary": "Bronze Age Indus Valley architecture",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mohenjo-daro.jpg/250px-Mohenjo-daro.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Harappan_architecture"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2085,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d08006c400227d3bee3ceeffd95a2a4c355fcd5904dd43dec3b5da84db72ff26",
+    "summary": "Claudius Ptolemy's Almagest (c. 150 AD) was the most comprehensive and influential astronomical treatise of the ancient world — a systematic mathematical description of the motions of the Sun, Moon, and planets that synthesized and extended centuries of Greek astronomical observation and theory into a single authoritative text. Written in Alexandria and known in Arabic as al-Majisti (the greatest), the Almagest presented a geocentric model of the universe using a sophisticated system of epicycles, deferents, and equant points that could predict planetary positions with reasonable accuracy. The model was so mathematically sophisticated that it remained the definitive astronomical reference for 1,400 years, until superseded by Copernicus.\n\nPtolemy also produced the Geographia — a mapping treatise that included coordinates for thousands of places across the known world and instructions for constructing map projections, which was rediscovered by European scholars in the 15th century and directly influenced Columbus-era cartography and exploration. His Tetrabiblos codified astrological theory and remained influential for centuries alongside the Almagest. The remarkable durability of Ptolemaic astronomy — despite its fundamental incorrectness about Earth's central position — reflects both the mathematical elegance of his epicycle system (which did work predictively within its limitations) and the authority that classical texts acquired in medieval European and Islamic intellectual culture. Ptolemy exemplifies the Alexandrian tradition of empirical observation combined with mathematical systematization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Almagest",
+    "read_more_links": [
+        {
+            "title": "Claudius Ptolemy astronomer",
+            "url": "https://en.wikipedia.org/wiki/Ptolemy"
+        },
+        {
+            "title": "Ptolemy Geographia maps",
+            "url": "https://en.wikipedia.org/wiki/Geography_(Ptolemy)"
+        },
+        {
+            "title": "Geocentric Ptolemaic model",
+            "url": "https://en.wikipedia.org/wiki/Geocentric_model"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

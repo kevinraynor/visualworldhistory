@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1247,
+    "parent_id": 1074,
+    "granularity": "detailed",
+    "content_hash": "sha256:cb7859afc5cf35a8f6452d4435d1d6024ecf36d239ce3005289e8d0e370a8b09",
+    "summary": "Vercingetorix (c. 82–46 BC) was the Arvernian chieftain who united the Gallic tribes in the most serious challenge to Caesar's conquest of Gaul, leading the Great Gallic Revolt of 52 BC. Adopting a scorched-earth strategy that denied Caesar supplies, he won significant early successes and inflicted heavy casualties on Roman forces. His defeat of Caesar at Gergovia (a Roman assault on his hilltop stronghold) was one of Caesar's rare battlefield reverses.\n\nThe decisive moment came at Alesia, where Caesar besieged Vercingetorix's fortified position on a hilltop while simultaneously facing a massive Gallic relief army estimated at 250,000 men. Caesar's extraordinary engineering — building simultaneous inner and outer rings of circumvallation totaling over 40 kilometers — allowed him to defend against both the besieged force and the relief army, defeating both. Vercingetorix surrendered himself to Caesar, reportedly riding out in full armor and circling Caesar before dismounting. He was held prisoner in Rome for six years, displayed in Caesar's Triumph in 46 BC, and then executed. Vercingetorix became a French national hero in the 19th century, a symbol of Gallic identity and resistance to conquest, though this nationalistic appropriation overlooks the complexity of Gallic tribal politics.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vercingetorix",
+    "read_more_links": [
+        {
+            "title": "Battle of Alesia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Alesia"
+        },
+        {
+            "title": "Battle of Gergovia",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Gergovia"
+        },
+        {
+            "title": "Great Gallic Revolt 52 BC",
+            "url": "https://en.wikipedia.org/wiki/Great_Gallic_Revolt"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_02.jpg/300px-Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Alise-Sainte-Reine_-_Statue_de_Vercing%C3%A9torix_-_02.jpg",
+            "caption": "Alise-Sainte-Reine (Côte-d'Or, France) - Statue of Vercingetorix",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mus%C3%A9oparc_d%27Al%C3%A9sia_fortifications.JPG/300px-Mus%C3%A9oparc_d%27Al%C3%A9sia_fortifications.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Mus%C3%A9oparc_d%27Al%C3%A9sia_fortifications.JPG",
+            "caption": "Muséoparc d'Alésia : vue de la fortification et de la ligne de défense.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Monnaie_-_Stat%C3%A8re%2C_or%2C_fonds_celtique%2C_Arvernes%2C_Type_VERCINGETORIX_-_btv1b11285769t_%281_of_2%29.jpg/300px-Monnaie_-_Stat%C3%A8re%2C_or%2C_fonds_celtique%2C_Arvernes%2C_Type_VERCINGETORIX_-_btv1b11285769t_%281_of_2%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Monnaie_-_Stat%C3%A8re%2C_or%2C_fonds_celtique%2C_Arvernes%2C_Type_VERCINGETORIX_-_btv1b11285769t_%281_of_2%29.jpg",
+            "caption": "Sujet : Numismatique celtique\nAncien possesseur : Saulcy, Félicien de (1807-1...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vercing%C3%A9torix_stat%C3%A8re_Gallica_avers.jpg/300px-Vercing%C3%A9torix_stat%C3%A8re_Gallica_avers.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vercing%C3%A9torix_stat%C3%A8re_Gallica_avers.jpg",
+            "caption": "Statère au nom de Vercingétorix. Avers : VERCINGETORIXS - tête stylisée à gau...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Florus",
+            "summary": "2nd-century Roman historians and poets",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lucius_Annaeus_Florus_%2874-130%29.jpg/250px-Lucius_Annaeus_Florus_%2874-130%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Florus"
+        },
+        {
+            "name": "Cassius Dio",
+            "summary": "Greco-Roman statesman and historian (c. 155–c. 235)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dio_Cassius.jpg/250px-Dio_Cassius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cassius_Dio"
+        },
+        {
+            "name": "Bituitus",
+            "summary": "King of the Arveni",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bituit_mis_en_prison.jpg/250px-Bituit_mis_en_prison.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bituitus"
+        },
+        {
+            "name": "Yann Le Bohec",
+            "summary": "French historian and epigrapher (born 1943)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Yann-le-bohec_2019.jpg/250px-Yann-le-bohec_2019.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yann_Le_Bohec"
+        }
+    ],
+    "territory_geojson": null
+}

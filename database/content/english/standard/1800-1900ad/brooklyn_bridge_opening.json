@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3773,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:87786f9a0cde9eba024542b7ce5c8236cac32f3d4227a4f892c63fe300e62ebf",
+    "summary": "The Brooklyn Bridge, opened on 24 May 1883, was at the time of its completion the longest suspension bridge in the world and a landmark achievement of nineteenth-century engineering. Spanning the East River between Manhattan and Brooklyn — then separate cities — the bridge was a practical necessity that transformed daily life for hundreds of thousands of commuters, and a cultural symbol of American industrial and urban ambition in the Gilded Age.\n\nThe bridge was designed by John Augustus Roebling, a German-born engineer who had pioneered the use of steel wire cables for suspension bridges. Roebling died in 1869 from a construction accident before work properly began; his son Washington Roebling took over as chief engineer. Washington Roebling himself was incapacitated by caisson disease (decompression sickness, contracted while supervising work in the underwater pneumatic caissons used to set the bridge's foundations) and spent years directing construction from his apartment overlooking the bridge, communicating through his wife Emily Warren Roebling, who became a crucial intermediary between the bedridden engineer and the construction team.\n\nThe bridge's construction required fourteen years and the lives of approximately twenty-seven workers. Its two granite towers, rising 87 meters above the water, were the tallest structures in New York City when completed. The suspension cables, each nearly 16 inches in diameter and containing thousands of individual steel wires, represented a new level of precision in industrial manufacturing. On opening day, crowds walked across what was then the world's longest span. The bridge directly spurred the consolidation of New York City in 1898, when Brooklyn and Manhattan merged into a single municipality, and became one of the most photographed and painted urban icons in American visual culture.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+    "read_more_links": [
+        {
+            "title": "John Roebling – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/John_A._Roebling"
+        },
+        {
+            "title": "Brooklyn Bridge – Britannica",
+            "url": "https://www.britannica.com/topic/Brooklyn-Bridge"
+        },
+        {
+            "title": "Emily Warren Roebling – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emily_Warren_Roebling"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/BrooklynBridgeNoPeople.png/300px-BrooklynBridgeNoPeople.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/BrooklynBridgeNoPeople.png",
+            "caption": "The Brooklyn Bridge's elevated promenade with the pedestrians on the right an...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Currier_and_Ives_Brooklyn_Bridge2.jpg/300px-Currier_and_Ives_Brooklyn_Bridge2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Currier_and_Ives_Brooklyn_Bridge2.jpg",
+            "caption": "Chromolithograph of the Brooklyn Bridge in the City of New York, New York, Un...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Brooklyn_Bridge_und_Lower_Manhattan.jpg/300px-Brooklyn_Bridge_und_Lower_Manhattan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Brooklyn_Bridge_und_Lower_Manhattan.jpg",
+            "caption": "The Brooklyn Bridge with Lower Manhattan in the backround.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Manhattan_1876.jpg/300px-Manhattan_1876.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Manhattan_1876.jpg",
+            "caption": "1876 view of Manhattan showing Brooklyn Bridge under construction. Possibly t...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Brooklyn",
+            "summary": "Borough and county in New York, US",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Brooklyn_Bridge_Manhattan.jpg/250px-Brooklyn_Bridge_Manhattan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Brooklyn"
+        },
+        {
+            "name": "Renaissance architecture",
+            "summary": "15th–16th-century European architectural style",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tempietto_di_Bramante02783.jpg/250px-Tempietto_di_Bramante02783.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Renaissance_architecture"
+        },
+        {
+            "name": "Essex County, New York",
+            "summary": "County in New York, United States",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lake_Placid.jpg/250px-Lake_Placid.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Essex_County%2C_New_York"
+        }
+    ],
+    "territory_geojson": null
+}

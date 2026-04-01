@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2028,
+    "parent_id": 2027,
+    "granularity": "notable",
+    "content_hash": "sha256:fb9bcaadd393402cccac2e1753569f34de1d8e8565216b55123f977bf59e42f8",
+    "summary": "The Edict of Milan (313 AD) was an agreement between the emperors Constantine and Licinius that established religious toleration throughout the Roman Empire — granting Christians and all other religions the freedom to practice without persecution and ordering the return of confiscated church property. It was not technically an 'edict' in the formal sense but a letter to provincial governors implementing the agreed policy; the earlier Edict of Toleration (311 AD) by Galerius had already ended official persecution.\n\nThe Edict's significance was transformational: after three centuries of intermittent persecution culminating in Diocletian's [[event:2822|Great Persecution Diocletian]] (303–311 AD), the church emerged from illegality to legal recognition, property rights, and eventually active imperial patronage. The return of confiscated property was a substantial material benefit, and the recognition of Sunday as a public holiday (321 AD) embedded Christianity in the civil calendar. The Edict of Milan has been cited as a foundational document for the concept of religious freedom, though its authors' intent was pragmatic rather than principled: Constantine sought to unify the empire through religious peace, not to establish an abstract right. It marked the beginning of the alliance between church and Roman state that shaped both institutions for centuries.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Edict_of_Milan",
+    "read_more_links": [
+        {
+            "title": "Galerius Edict of Toleration",
+            "url": "https://en.wikipedia.org/wiki/Edict_of_Toleration_by_Galerius"
+        },
+        {
+            "title": "Church property restoration",
+            "url": "https://en.wikipedia.org/wiki/Edict_of_Milan#Implementation"
+        },
+        {
+            "title": "Religious freedom concept origins",
+            "url": "https://en.wikipedia.org/wiki/Freedom_of_religion#Origins"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Constantine_Chiaramonti_Inv1749.jpg/300px-Constantine_Chiaramonti_Inv1749.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Constantine_Chiaramonti_Inv1749.jpg",
+            "caption": "MuseiVaticani |Unknown |Colossal head of Emperor Constantine. Marble, Roman a...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ImperialpalaceMilan.jpg/300px-ImperialpalaceMilan.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/ImperialpalaceMilan.jpg",
+            "caption": "Ruins of the Ancient Roman imperial palace in via Brisa in Milan, Italy. Mila...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Constantine the Great",
+            "summary": "Roman emperor from 306 to 337",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/250px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+        },
+        {
+            "name": "Licinius",
+            "summary": "Roman emperor from 308 to 324",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg/250px-Bust_of_Licinius%2C_Kunsthistorisches_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Licinius"
+        },
+        {
+            "name": "Galerius",
+            "summary": "Roman emperor from 305 to 311",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Romuliana_Galerius_head.jpg/250px-Romuliana_Galerius_head.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Galerius"
+        },
+        {
+            "name": "Lactantius",
+            "summary": "Roman Christian author (c. 250 – c. 325)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lactantius.jpg/250px-Lactantius.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lactantius"
+        },
+        {
+            "name": "Nerva",
+            "summary": "Roman emperor from AD 96 to 98",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nerva_aureus_Gallica_15832_avers.jpg/250px-Nerva_aureus_Gallica_15832_avers.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nerva"
+        },
+        {
+            "name": "Decius",
+            "summary": "Roman emperor from 249 to 251",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bust_of_Decius_%28loan_from_Capitoline_Museums%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg/250px-Bust_of_Decius_%28loan_from_Capitoline_Museums%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Decius"
+        }
+    ],
+    "territory_geojson": null
+}

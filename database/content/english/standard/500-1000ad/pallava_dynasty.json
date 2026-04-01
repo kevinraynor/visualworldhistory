@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2173,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:a91b9dd5f4a945fdea75100f8f48f16b84bcb2ca70749f1930299f995d16976a",
+    "summary": "The Pallava Dynasty (c. 275–897 AD) was the first major Tamil dynasty to develop monumental stone temple architecture — the precursor and inspiration for all subsequent South Indian Dravidian temple building — and the transmitter of Indian culture and writing systems to Southeast Asia. Ruling from Kanchipuram (near modern Chennai), the Pallavas were prolific builders: under Narasimhavarman I (c. 630–668 AD), the Shore Temple at Mahabalipuram and the famous 'rathas' (monolithic rock-cut temples shaped like chariots, each in a different architectural style) were commissioned, representing the earliest extant South Indian stone temples.\n\nThe Pallava script (an early form of the Grantha script derived from Sanskrit) was the ancestor of multiple Southeast Asian writing systems — the scripts of Thailand, Cambodia (Khmer), Java, Bali, and the Philippines all ultimately derive from Pallava script transmitted by Indian traders, priests, and diplomats who spread Indian culture across maritime Southeast Asia between the 4th and 9th centuries. The Pallavas thus played a crucial role in the Indianization of Southeast Asia that produced the [[event:2094|Hindu kingdoms]] of the region. The dynasty's political power was gradually eroded by the rising [[event:2171|Chola dynasty]] to the south, and the last Pallava ruler was killed by the Chola king Aditya I in 897 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+    "read_more_links": [
+        {
+            "title": "Mahabalipuram rathas Shore Temple",
+            "url": "https://en.wikipedia.org/wiki/Mahabalipuram"
+        },
+        {
+            "title": "Pallava script Southeast Asia",
+            "url": "https://en.wikipedia.org/wiki/Grantha_script#Influence_on_other_scripts"
+        },
+        {
+            "title": "Kanchipuram Pallava capital",
+            "url": "https://en.wikipedia.org/wiki/Kanchipuram"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Vaikuntha_Perumal_Temple%2C_Kanchipuram%2C_dedicated_to_Vishnu%2C_Pallava_period%2C_8th_century_%285%29.jpg/300px-Vaikuntha_Perumal_Temple%2C_Kanchipuram%2C_dedicated_to_Vishnu%2C_Pallava_period%2C_8th_century_%285%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Vaikuntha_Perumal_Temple%2C_Kanchipuram%2C_dedicated_to_Vishnu%2C_Pallava_period%2C_8th_century_%285%29.jpg",
+            "caption": "Thiru Parameswara Vinnagaram or Vaikunta Perumal Temple is a temple dedicated...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Shore_Temple_%28Detail_of_North_Face%2C_2011-05-28%29.jpg/300px-Shore_Temple_%28Detail_of_North_Face%2C_2011-05-28%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Shore_Temple_%28Detail_of_North_Face%2C_2011-05-28%29.jpg",
+            "caption": "A detailed black and white image of the north face of the monument. Most of t...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mahabalipuram%2C_Pancha_Rathas%2C_Tamil_Nadu%2C_India.jpg/300px-Mahabalipuram%2C_Pancha_Rathas%2C_Tamil_Nadu%2C_India.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mahabalipuram%2C_Pancha_Rathas%2C_Tamil_Nadu%2C_India.jpg",
+            "caption": "Pancha Rathas (Pandava Rathas), a monument complex of monolithic ancient Drav...",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vaikunta_Perumal_Temple.jpg/300px-Vaikunta_Perumal_Temple.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Vaikunta_Perumal_Temple.jpg",
+            "caption": "This is a photo of ASI monument number",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mahendravarman I",
+            "summary": "Pallava emperor from 590 to 630",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mahendravarman_I.jpg/250px-Mahendravarman_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mahendravarman_I"
+        },
+        {
+            "name": "Narasimhavarman I",
+            "summary": "Pallava emperor from 630 to 668",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mamallapuram_si0497.jpg/250px-Mamallapuram_si0497.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Narasimhavarman_I"
+        },
+        {
+            "name": "Aditya I",
+            "summary": "Chola emperor from 871 to 907",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aditya_territories.png/250px-Aditya_territories.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Aditya_I"
+        },
+        {
+            "name": "Xuanzang",
+            "summary": "Chinese Buddhist monk and scholar (602–664)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Xuanzang_w.jpg/250px-Xuanzang_w.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xuanzang"
+        },
+        {
+            "name": "Alvars",
+            "summary": "Tamil poet-saints of South India",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Thiruthankal_temple_%287%29.jpg/250px-Thiruthankal_temple_%287%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alvars"
+        },
+        {
+            "name": "K. A. Nilakanta Sastri",
+            "summary": "Indian historian (1892–1975)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/KAN_Sastri.jpg/250px-KAN_Sastri.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/K._A._Nilakanta_Sastri"
+        }
+    ],
+    "territory_geojson": null
+}

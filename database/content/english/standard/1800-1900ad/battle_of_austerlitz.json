@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2520,
+    "parent_id": 109,
+    "granularity": "notable",
+    "content_hash": "sha256:ebba0c920838ca525fec3841b8183ed169a39227b1c64de9a6c85358216488cd",
+    "summary": "The Battle of Austerlitz, fought on 2 December 1805 near the town of Austerlitz in Moravia (present-day Czech Republic), is widely regarded as Napoleon Bonaparte's greatest tactical victory and one of the most brilliant engagements in military history. The battle pitted approximately 68,000 French troops against a combined Austro-Russian force of around 85,000 men, commanded by Emperor Francis II of Austria and Tsar Alexander I of Russia.\n\nNapoleon deliberately feigned weakness on his right flank, inviting the allied commanders to concentrate their forces there in an attempt to cut his line of retreat. Once the Allied center was weakened by this movement, he launched a devastating attack that split their army in two. French forces under Marshal Soult seized the strategically crucial Pratzen Heights, which had been abandoned by the Allies in their rush to envelop the French right, creating an irreparable rupture through the Allied center.\n\nThe consequences were catastrophic for the Coalition. Austrian and Russian forces suffered approximately 36,000 casualties and the capture of 180 guns. The Russian army retreated eastward while the Austrian Empire was forced to seek immediate terms. The resulting Treaty of Pressburg forced Austria to cede significant territories and pay a large indemnity, effectively removing Austria from the Third Coalition and cementing French dominance over Central Europe.\n\nAusterlitz triggered the dissolution of the Holy Roman Empire in 1806 and led to the creation of the French-dominated Confederation of the Rhine, a protectorate that incorporated most of the German states. Napoleon considered the battle the finest of his career. The victory demonstrated the effectiveness of his corps system and his ability to manipulate enemy commanders into fighting the battle he had designed for them. The engagement is still studied in military academies as a masterclass in deception, rapid movement, and decisive strike.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Austerlitz",
+    "read_more_links": [
+        {
+            "title": "Battle of Austerlitz – Britannica",
+            "url": "https://www.britannica.com/event/Battle-of-Austerlitz"
+        },
+        {
+            "title": "Napoleonic Wars – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars"
+        },
+        {
+            "title": "Treaty of Pressburg – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Pressburg_(1805)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Battle_of_Austerlitz_-_Situation_at_0900%2C_2_December_1805.png/300px-Battle_of_Austerlitz_-_Situation_at_0900%2C_2_December_1805.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Battle_of_Austerlitz_-_Situation_at_0900%2C_2_December_1805.png",
+            "caption": "Battle of Austerlitz - Situation at 0900, 2 December 1805",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Battle_of_Austerlitz%2C_Situation_at_1800%2C_1_December_1805.png/300px-Battle_of_Austerlitz%2C_Situation_at_1800%2C_1_December_1805.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Battle_of_Austerlitz%2C_Situation_at_1800%2C_1_December_1805.png",
+            "caption": "Battle of Austerlitz, Situation at 1800, 1 December 1805",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Battle_of_Austerlitz_-_Situation_at_1400%2C_2_December_1805.png/300px-Battle_of_Austerlitz_-_Situation_at_1400%2C_2_December_1805.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Battle_of_Austerlitz_-_Situation_at_1400%2C_2_December_1805.png",
+            "caption": "Battle of Austerlitz - Situation at 1400, 2 December 1805",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/La_bataille_d%27Austerlitz._2_decembre_1805_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg/300px-La_bataille_d%27Austerlitz._2_decembre_1805_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/La_bataille_d%27Austerlitz._2_decembre_1805_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg",
+            "caption": "La bataille d'Austerlitz. 2 decembre 1805 (François Gérard)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "François Gérard",
+            "summary": "French painter (1770–1837)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fran%C3%A7ois_G%C3%A9rard_%281770%E2%80%931837%29%2C_later_Baron_G%C3%A9rard_MET_DP327712.jpg/250px-Fran%C3%A7ois_G%C3%A9rard_%281770%E2%80%931837%29%2C_later_Baron_G%C3%A9rard_MET_DP327712.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_G%C3%A9rard"
+        },
+        {
+            "name": "Margraviate of Moravia",
+            "summary": "Part of the Bohemian Crown from 1182 to 1918",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Locator_Moravia_within_the_Holy_Roman_Empire_%281618%29.svg/250px-Locator_Moravia_within_the_Holy_Roman_Empire_%281618%29.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Margraviate_of_Moravia"
+        },
+        {
+            "name": "Napoleon",
+            "summary": "French general and emperor (1769–1821)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon"
+        },
+        {
+            "name": "Jean-Baptiste Bessières",
+            "summary": "French Marshal (1768–1813)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Reisener_-_Portrait_du_mar%C3%A9chal_Jean-Baptiste_Bessi%C3%A8res%2C_duc_d%27Istries_%281768-1813%29.jpg/250px-Reisener_-_Portrait_du_mar%C3%A9chal_Jean-Baptiste_Bessi%C3%A8res%2C_duc_d%27Istries_%281768-1813%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Baptiste_Bessi%C3%A8res"
+        },
+        {
+            "name": "Charles XIV John",
+            "summary": "King of Sweden and Norway from 1818 to 1844",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png/250px-Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_XIV_John"
+        },
+        {
+            "name": "Louis-Nicolas Davout",
+            "summary": "French Marshal (1770–1823)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Louis_nicolas_davout.jpg/250px-Louis_nicolas_davout.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Louis-Nicolas_Davout"
+        }
+    ],
+    "territory_geojson": null
+}

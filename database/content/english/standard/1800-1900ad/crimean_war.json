@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2547,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:f6bb2a63bbbb15f8022a6916f2e7fc25a45a83c00122fe80b002b3bfa3f76705",
+    "summary": "The Crimean War, fought from 1853 to 1856, was a conflict pitting the Russian Empire against an alliance of the Ottoman Empire, Britain, France, and Sardinia, primarily on the Crimean Peninsula. It was the largest European war between the Napoleonic era and the Franco-Prussian War, and its consequences — political, military, and medical — were far-reaching and lasting.\n\nThe war's origins lay in the 'Eastern Question' — the problem of what would happen to the territories of the declining Ottoman Empire as Russian power pressed southward toward the Bosphorus and the warm-water ports that Russian strategic ambition sought. The immediate trigger was a dispute between Russia and France over the rights of Orthodox and Catholic Christians in the Holy Land, with Russia claiming the right to protect Orthodox Christians throughout Ottoman territory. Britain and France, alarmed by Russian expansion and determined to prop up the Ottoman Empire as a buffer, allied with the Ottomans when Russia invaded the Ottoman-controlled Danubian Principalities.\n\nThe war is remembered primarily for the siege of the Russian naval base at [[event:3760|Sevastopol]], which lasted nearly a year and produced enormous casualties on both sides. The [[event:2608|Charge of the Light Brigade]] at the Battle of Balaclava in October 1854 — a catastrophically misconceived cavalry charge into Russian guns, immortalized in Tennyson's poem — became one of the conflict's most enduring images. The war's conduct revealed shocking failures of military logistics, medicine, and command on all sides.\n\nThe conflict's indirect effects were transformative. [[event:2609|Florence Nightingale's]] work at the military hospitals at Scutari brought modern nursing practices and statistical analysis to military medicine, helping to found the modern nursing profession. The [[event:3762|Treaty of Paris in 1856]] ended the war with Russia accepting restrictions on its Black Sea fleet and abandoning its Danubian ambitions, at least temporarily. Russia's defeat, the first by a major European power in over a century, shocked the Russian establishment and contributed to the reform program of Tsar Alexander II, including the [[event:2548|emancipation of the serfs]] in 1861.\n\nThe war also demonstrated the power of modern communications and reporting. William Howard Russell of The Times of London was one of the first war correspondents to provide graphic, critical coverage of a conflict to the home public, helping to expose the incompetence of the British military establishment and contributing to public pressure for reform.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crimean_War",
+    "read_more_links": [
+        {
+            "title": "Crimean War – Britannica",
+            "url": "https://www.britannica.com/event/Crimean-War"
+        },
+        {
+            "title": "Siege of Sevastopol – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Sevastopol_(1854%E2%80%931855)"
+        },
+        {
+            "title": "Florence Nightingale – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Simpson_Disembarkation_of_the_expedition_to_Kertch_at_Kamish_Bournou.jpg/300px-Simpson_Disembarkation_of_the_expedition_to_Kertch_at_Kamish_Bournou.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Simpson_Disembarkation_of_the_expedition_to_Kertch_at_Kamish_Bournou.jpg",
+            "caption": "Disembarkation of the expedition to Kertch at Kamish Bournou, from: The Seat ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Valley_of_the_shadow_of_death.jpg/300px-Valley_of_the_shadow_of_death.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Valley_of_the_shadow_of_death.jpg",
+            "caption": "\"The valley of the shadow of death\" Crimean War photograph. Dirt road in ravi...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Attaque_du_mamelon_vert_et_des_ouvrages_blancs%2C_7_juin_1855.jpg/300px-Attaque_du_mamelon_vert_et_des_ouvrages_blancs%2C_7_juin_1855.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Attaque_du_mamelon_vert_et_des_ouvrages_blancs%2C_7_juin_1855.jpg",
+            "caption": "Attaque du mamelon vert et des ouvrages blancs, 7 juin 1855",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arundel_Russian_Bell_6.JPG/300px-Arundel_Russian_Bell_6.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Arundel_Russian_Bell_6.JPG",
+            "caption": "Russian Orthodox Church Bells in Arundel Castle, West Sussex United Kingdom. ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Bogdan Willewalde",
+            "summary": "Russian artist (1819–1903)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Willewalde_000.jpg/250px-Willewalde_000.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Bogdan_Willewalde"
+        },
+        {
+            "name": "Southern Bessarabia",
+            "summary": "Part of Bessarabia returned to Moldavia from 1856 to 1878",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cahul_Ismail_si_Bolgrad.PNG/250px-Cahul_Ismail_si_Bolgrad.PNG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_Bessarabia"
+        },
+        {
+            "name": "Omar Pasha",
+            "summary": "Ottoman general and governor",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Omer_Pascha_Litho.jpg/250px-Omer_Pascha_Litho.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Omar_Pasha"
+        },
+        {
+            "name": "Napoleon III",
+            "summary": "Emperor of the French from 1852 to 1870",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Alexandre_Cabanel_002.jpg/250px-Alexandre_Cabanel_002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Napoleon_III"
+        },
+        {
+            "name": "FitzRoy Somerset, 1st Baron Raglan",
+            "summary": "British Army officer and politician (1788–1855)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Raglan.jpg/250px-Raglan.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/FitzRoy_Somerset%2C_1st_Baron_Raglan"
+        },
+        {
+            "name": "Alfonso Ferrero La Marmora",
+            "summary": "Italian general and politician",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Crimean_War_1854-56_Q71522.jpg/250px-Crimean_War_1854-56_Q71522.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfonso_Ferrero_La_Marmora"
+        }
+    ],
+    "territory_geojson": null
+}

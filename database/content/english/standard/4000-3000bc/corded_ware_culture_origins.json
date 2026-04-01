@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1651,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2eb82c6bac540e3e8285d92fe2583751b25cd16f62d0dcc2b61a1841ad870aa9",
+    "summary": "The Corded Ware culture (also called the Single Grave culture or Battle-Axe culture), whose origins emerge around 3100 BCE in central Europe, represents one of the most geographically expansive prehistoric cultural complexes in European history, spreading rapidly across a huge swath of northern and central Europe from the Rhine to the Volga. Named for the distinctive corded impressions decorating its pottery, the Corded Ware complex is now understood — thanks to ancient DNA research — as the primary vehicle through which [[event:1652|Yamnaya]] steppe ancestry and likely Proto-Indo-European languages were transmitted into much of temperate Europe.\n\nThe Corded Ware complex is characterized by a distinctive archaeological assemblage: cord-decorated beakers and amphorae, polished stone battle-axes, and single inhumation burials beneath small earthen mounds (kurgans), in which men are typically buried with axes and women with ornaments in a pattern reflecting gender differentiation in grave goods. This burial rite, with its individual inhumation beneath a mound, contrasts strongly with the collective megalithic tomb traditions that had dominated much of western Europe in the preceding millennia and reveals the influence of steppe mortuary customs.\n\nGenetic studies published from 2015 onward have demonstrated that individuals from Corded Ware archaeological contexts carry between 50-75% ancestry from the [[event:1652|Yamnaya culture]] of the Pontic steppe, with the remainder from earlier European farming populations. This represents a massive demographic transformation of European populations that appears to have occurred very rapidly — within a few generations in some regions. The mechanisms included actual migration of steppe-derived populations rather than merely elite cultural diffusion.\n\nThe Corded Ware horizon overlapped with and influenced a range of successor cultures — including the Bell Beaker culture that spread across western Europe — and its descendants contributed directly to the Bronze Age cultures of Scandinavia, the Baltic, central Europe, and the British Isles. The Corded Ware complex is therefore the proximate ancestor of many of the Indo-European-speaking populations who shaped subsequent European history.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Corded_Ware_culture",
+    "read_more_links": [
+        {
+            "title": "Indo-European Migrations - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indo-European_migrations"
+        },
+        {
+            "title": "Battle Axe Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Single_Grave_culture"
+        },
+        {
+            "title": "Prehistoric Europe - Britannica",
+            "url": "https://www.britannica.com/place/Europe/Prehistory"
+        },
+        {
+            "title": "Steppe Ancestry - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Steppe_Ancestry"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/R%C3%B6ssener_H%C3%BCgel.jpg/300px-R%C3%B6ssener_H%C3%BCgel.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/R%C3%B6ssener_H%C3%BCgel.jpg",
+            "caption": "Rössener Hügel",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Necklace%2C_animal_teeth%2C_Corded_Ware_culture%2C_City_of_Prague_Museum%2C_200338.jpg/300px-Necklace%2C_animal_teeth%2C_Corded_Ware_culture%2C_City_of_Prague_Museum%2C_200338.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Necklace%2C_animal_teeth%2C_Corded_Ware_culture%2C_City_of_Prague_Museum%2C_200338.jpg",
+            "caption": "Unique necklace from female graves of the Corded Ware culture at Praha Čimice...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Necklaces%2C_Corded_Ware_culture%2C_City_of_Prague_Museum.png/300px-Necklaces%2C_Corded_Ware_culture%2C_City_of_Prague_Museum.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Necklaces%2C_Corded_Ware_culture%2C_City_of_Prague_Museum.png",
+            "caption": "Necklaces from female graves of the Corded Ware culture at Praha Čimice, made...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Alunda%C3%A4lgen_123172_HST.jpg/300px-Alunda%C3%A4lgen_123172_HST.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alunda%C3%A4lgen_123172_HST.jpg",
+            "caption": "Alundaelgen",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1919,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:4a317192ae11ff2ffcba1e1da6c483af6158165459a82d2a2cd87684137a9c43",
+    "summary": "The Kingdom of Judah (c. 930–586 BC) was the southern Israelite successor state after the division of Solomon's kingdom, comprising the tribe of Judah and the city of Jerusalem with the Temple — the smaller but religiously central of the two kingdoms. Ruled by the Davidic dynasty throughout its existence (in contrast to Israel's multiple dynasties), Judah survived the Assyrian conquest that destroyed Israel in 722 BC partly through payment of tribute and the extraordinary deliverance during Sennacherib's siege (701 BC).\n\nJudah's greatest religious reforms came under Kings Hezekiah and Josiah, who centralized worship in Jerusalem, suppressed local shrines (bamot), and according to 2 Kings, discovered a 'Book of the Law' (probably an early version of Deuteronomy) that sparked a comprehensive religious renewal. These reforms shaped the final form of the Hebrew Bible's historical and legal texts. The kingdom ended with [[event:1905|Nebuchadnezzar II]]'s conquests: a first deportation in 597 BC removed King Jehoiachin and the elites, and the final conquest in 586 BC brought the [[event:1909|Destruction of Solomon Temple]] and the great [[event:1908|Babylonian Captivity Judah]] exile. Judah's name is the etymological origin of 'Judaism' and 'Jew,' and the kingdom's religious legacy — transmitted through the exile — shaped the entire Abrahamic tradition.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kingdom_of_Judah",
+    "read_more_links": [
+        {
+            "title": "Josiah reforms Deuteronomy",
+            "url": "https://en.wikipedia.org/wiki/Josiah#Reforms"
+        },
+        {
+            "title": "Hezekiah religious reform",
+            "url": "https://en.wikipedia.org/wiki/Hezekiah"
+        },
+        {
+            "title": "Davidic dynasty continuity",
+            "url": "https://en.wikipedia.org/wiki/Davidic_line"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Edward_Weller%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36012236_3897579%29_%28cropped%29.jpg/300px-Edward_Weller%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36012236_3897579%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edward_Weller%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36012236_3897579%29_%28cropped%29.jpg",
+            "caption": "The Kingdoms of Judah and Israel..",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Capture_of_Lachish_-_booty_and_exiles.jpg/300px-Capture_of_Lachish_-_booty_and_exiles.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Capture_of_Lachish_-_booty_and_exiles.jpg",
+            "caption": "Bas-relief from the south-west palace of Nineveh, on the taking of Lachish. \n...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Jerusalem-Broad-Wall-770.jpg/300px-Jerusalem-Broad-Wall-770.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Jerusalem-Broad-Wall-770.jpg",
+            "caption": "The \"Broad Wall\" in Jerusalem, Israel.",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Palestine_from_720_BC_to_the_exile_of_Judah_%28Smith%2C_1915%29.jpg/300px-Palestine_from_720_BC_to_the_exile_of_Judah_%28Smith%2C_1915%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Palestine_from_720_BC_to_the_exile_of_Judah_%28Smith%2C_1915%29.jpg",
+            "caption": "In 721, the city of Samaria and the whole of N. Israel fell to Assyria. Under...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Davidic line",
+            "summary": "Lineage of the Israelite king David",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/250px-Star_of_David.svg.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Davidic_line"
+        },
+        {
+            "name": "Hezekiah",
+            "summary": "King of Judah",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%C3%85hus_kyrka-10.jpg/250px-%C3%85hus_kyrka-10.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hezekiah"
+        },
+        {
+            "name": "Sennacherib",
+            "summary": "King of Assyria",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sanherib-tr-4271.jpg/250px-Sanherib-tr-4271.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sennacherib"
+        },
+        {
+            "name": "Josiah",
+            "summary": "Biblical King of Judah",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%C3%85hus_kyrka-12.jpg/250px-%C3%85hus_kyrka-12.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Josiah"
+        },
+        {
+            "name": "Nebuchadnezzar II",
+            "summary": "King of Babylon from 605 to 562 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nebuchadnezzar_II_crop.png/250px-Nebuchadnezzar_II_crop.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nebuchadnezzar_II"
+        },
+        {
+            "name": "Cyrus the Great",
+            "summary": "Founder of the Achaemenid Empire",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg/250px-Cyrus_II_%28The_Great%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cyrus_the_Great"
+        }
+    ],
+    "territory_geojson": null
+}

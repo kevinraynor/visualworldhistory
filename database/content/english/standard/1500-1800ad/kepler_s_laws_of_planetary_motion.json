@@ -1,0 +1,81 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "2.0",
+    "event_id": 2474,
+    "summary": "Johannes Kepler's Laws of Planetary Motion (published 1609–1619 AD) were a pivotal achievement of the [[event:104|Scientific Revolution]], providing the mathematical framework that replaced Ptolemaic geocentric astronomy with a precise, predictive heliocentric model. Kepler, a German mathematician and astronomer who served as assistant to Tycho Brahe in Prague, inherited Brahe's extraordinary collection of precise naked-eye astronomical observations after the latter's death in 1601. Working for years with Brahe's data, particularly observations of Mars, Kepler arrived at three laws: that planets orbit the sun in ellipses (not perfect circles, as both Copernicus and Ptolemy had assumed) with the sun at one focus; that a planet sweeps equal areas in equal times (moving faster when closer to the sun); and that the square of a planet's orbital period is proportional to the cube of its semi-major axis.\n\nKepler's laws were empirically derived from observation rather than deduced from first principles — Kepler himself could not explain why planets followed elliptical orbits. It was left to [[event:2363|Isaac Newton]] to provide the physical explanation: that universal gravitation, following an inverse-square law, produced precisely the elliptical orbits Kepler had described. The combination of Kepler's mathematical laws and Newton's physical explanation created the framework of classical celestial mechanics that described planetary motion with extraordinary accuracy for two and a half centuries, until Einstein's general relativity provided a still more accurate framework. Kepler also made foundational contributions to optics, described the principles of the telescope, and wrote one of the earliest works of science fiction (Somnium, 1634, describing a journey to the moon).",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion",
+    "read_more_links": [
+        {
+            "title": "Kepler first law elliptical orbits heliocentric model",
+            "url": "https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion#First_law"
+        },
+        {
+            "title": "Tycho Brahe observations Prague imperial mathematician",
+            "url": "https://en.wikipedia.org/wiki/Tycho_Brahe"
+        },
+        {
+            "title": "Astronomia Nova Kepler 1609 Mars orbit calculation",
+            "url": "https://en.wikipedia.org/wiki/Astronomia_nova"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/300px-Solar_system.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Solar_system.jpg",
+            "caption": "This is  a montage of planetary images taken by spacecraft managed by the Jet...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/300px-Crab_Nebula.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crab_Nebula.jpg",
+            "caption": "This is a mosaic image, one of the largest ever taken by NASA's Hubble Space ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/300px-Earth-moon.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Earth-moon.jpg",
+            "caption": "This view of the rising Earth greeted the Apollo 8 astronauts as they came fr...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Circular_orbit_of_planet_with_%28eccentricty_of_0.0%29.gif/300px-Circular_orbit_of_planet_with_%28eccentricty_of_0.0%29.gif",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Circular_orbit_of_planet_with_%28eccentricty_of_0.0%29.gif",
+            "caption": "This animation shows  orbits a star in a circular orbit.  It is a special cas...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Johannes Kepler",
+            "summary": "German astronomer and mathematician (1571–1630)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/250px-JKepler.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Kepler"
+        },
+        {
+            "name": "Tycho Brahe",
+            "summary": "Danish astronomer (1546–1601)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif/lossy-page1-250px-Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Tycho_Brahe"
+        },
+        {
+            "name": "Carl Runge",
+            "summary": "German mathematician and physicist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Voit_202_Karl_Runge.jpg/250px-Voit_202_Karl_Runge.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Carl_Runge"
+        },
+        {
+            "name": "Voltaire",
+            "summary": "French writer, historian, and philosopher (1694–1778)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-002.jpg/250px-Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-002.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Voltaire"
+        },
+        {
+            "name": "John Napier",
+            "summary": "Scottish mathematician (1550–1617)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/John_Napier_of_Merchiston%2C_1616.jpg/250px-John_Napier_of_Merchiston%2C_1616.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/John_Napier"
+        }
+    ]
+}

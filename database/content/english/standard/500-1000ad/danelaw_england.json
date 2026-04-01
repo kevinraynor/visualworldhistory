@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2144,
+    "parent_id": 88,
+    "granularity": "detailed",
+    "content_hash": "sha256:5747f0916c6c90abe7d9638cd2acea4302662594722788f787523a45652d0cea",
+    "summary": "The Danelaw (established c. 866–954 AD) was the region of northern and eastern England under Danish [[event:88|Viking]] law and control, established after the Great Heathen Army invaded England in 865 AD with the stated purpose of conquest rather than mere raiding — reportedly seeking revenge for the death of the legendary Viking leader Ragnar Lothbrok. The Danes quickly conquered Northumbria (York/Jorvik, 866 AD), East Anglia, and much of Mercia, reducing the Anglo-Saxon kingdoms to the sole remaining kingdom of Wessex in the southwest.\n\nIt was [[event:2150|Alfred the Great]] of Wessex who stemmed the Danish advance, defeating the Viking king Guthrum at the Battle of Edington (878 AD) and negotiating the Treaty of Wedmore, which divided England into the Danelaw (north and east) and English Wessex (south and west), and required Guthrum's baptism as a Christian. The Viking city of Jorvik (York) became a major trading center — archaeological excavations at Coppergate revealed a densely inhabited urban community making leather goods, amber jewelry, and metalwork, with trade connections across Europe and beyond. The Danelaw was gradually reconquered by Alfred's successors (Edward the Elder, Athelstan) over the early 10th century; Athelstan became the first king of a unified England around 927 AD. Many Scandinavian place names (those ending in -by, -thorpe, -thwaite, -toft) in northern England testify to the depth of Viking settlement.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Danelaw",
+    "read_more_links": [
+        {
+            "title": "Great Heathen Army invasion",
+            "url": "https://en.wikipedia.org/wiki/Great_Heathen_Army"
+        },
+        {
+            "title": "Jorvik Viking York archaeology",
+            "url": "https://en.wikipedia.org/wiki/Coppergate"
+        },
+        {
+            "title": "Alfred Guthrum Treaty Wedmore",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Wedmore"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/England_Grosses_Heer_892.jpg/300px-England_Grosses_Heer_892.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/England_Grosses_Heer_892.jpg",
+            "caption": "The Great Army 892–896 in England.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/South_Yorkshire_Place_Names.png/300px-South_Yorkshire_Place_Names.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/South_Yorkshire_Place_Names.png",
+            "caption": "Toponymy within the English county of South Yorkshire.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Vikingshipmini.jpg/300px-Vikingshipmini.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Vikingshipmini.jpg",
+            "caption": "Vikingshipmini",
+            "attribution": "Wikimedia Commons"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Vikings",
+            "summary": "Norse seafarers, merchants and raiders",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg/250px-Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Vikings"
+        },
+        {
+            "name": "Alfred the Great",
+            "summary": "King of Wessex (871 – c. 886); King of the Anglo-Saxons (c. 886 – 899)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alfred_the_Great%2C_silver_penny%3B_struck_875%E2%80%93880_%28obverse%29.png/250px-Alfred_the_Great%2C_silver_penny%3B_struck_875%E2%80%93880_%28obverse%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_the_Great"
+        },
+        {
+            "name": "Guthrum",
+            "summary": "King of East Anglia from 879 to 890",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/%C3%86thelstan_II_Guthrum%2C_silver_penny%3B_struck_circa_879%E2%80%93890.png/250px-%C3%86thelstan_II_Guthrum%2C_silver_penny%3B_struck_circa_879%E2%80%93890.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Guthrum"
+        },
+        {
+            "name": "Yorkshire",
+            "summary": "Historic county of England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2015_Swaledale_from_Kisdon_Hill.jpg/250px-2015_Swaledale_from_Kisdon_Hill.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Yorkshire"
+        },
+        {
+            "name": "Halfdan Ragnarsson",
+            "summary": "9th Century leader of the Great Heathen Army",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/A_child%27s_book_of_warriors_%281907%29_%2814750789584%29.jpg/250px-A_child%27s_book_of_warriors_%281907%29_%2814750789584%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Halfdan_Ragnarsson"
+        },
+        {
+            "name": "Ragnar Lodbrok",
+            "summary": "Legendary king of Sweden and Denmark",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Harley_MS_2278%2C_folio_39r_excerpt.jpg/250px-Harley_MS_2278%2C_folio_39r_excerpt.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ragnar_Lodbrok"
+        }
+    ],
+    "territory_geojson": null
+}

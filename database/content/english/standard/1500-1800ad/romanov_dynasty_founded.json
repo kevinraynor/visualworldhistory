@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2412,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:59acc814c1c44090e35c5a8f2bf4fac0df9e6d571a6a02d46185602d5c0b7096",
+    "summary": "The Romanov Dynasty (1613–1917 AD) was the last ruling dynasty of Russia, founded when the Zemsky Sobor (national assembly) elected 16-year-old Mikhail Romanov as Tsar in February 1613, ending the catastrophic [[event:2411|Time of Troubles]] and establishing the family that would rule Russia for 304 years — through the reigns of 18 tsars, from the exhausted provincial youth who barely wanted the throne to the tragic Nicholas II, whose family was murdered in a cellar in Yekaterinburg in 1918. Mikhail's connection to the Rurik dynasty (his great-aunt had been married to [[event:2410|Ivan the Terrible]]) provided legitimacy; his family's relatively clean record during the Troubles made him acceptable to competing factions.\n\nThe early Romanov tsars — Mikhail, Alexis, and Fyodor III — consolidated authority, recovered lost territories, and gradually built up the administrative capacity that [[event:2349|Peter the Great]] would then use to transform Russia into a European empire. Alexis's reign (1645–1676) saw the legal codification of serfdom (the Sobornoye Ulozheniye of 1649), which bound peasants permanently to the land and to their lords, creating the institution that would define Russian social structure for the next two centuries. The [[event:3629|Cossack uprisings]] (Stenka Razin's rebellion, 1670–1671) demonstrated the explosive social tensions of this serf society. The Romanov dynasty's greatest monarchs — Peter I, Catherine II, Alexander I — made Russia a global power; its least capable final tsars (especially Nicholas II) proved unable to manage the pressures of industrialization, nationalism, and military defeat that produced the [[event:107|revolutionary]] wave of 1917.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/House_of_Romanov",
+    "read_more_links": [
+        {
+            "title": "Mikhail Romanov election Tsar 1613 dynasty founding",
+            "url": "https://en.wikipedia.org/wiki/Michael_I_of_Russia"
+        },
+        {
+            "title": "Romanov dynasty 304 years Russian history overview",
+            "url": "https://en.wikipedia.org/wiki/House_of_Romanov#History"
+        },
+        {
+            "title": "Russian serfdom codification 1649 Sobornoye Ulozheniye",
+            "url": "https://en.wikipedia.org/wiki/Sobornoye_Ulozheniye"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gran_Palacio_del_Kremlin%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_28-29_HDR.jpg/300px-Gran_Palacio_del_Kremlin%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_28-29_HDR.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Gran_Palacio_del_Kremlin%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_28-29_HDR.jpg",
+            "caption": "Night view of the Grand Kremlin Palace, Moscow, Russia. It was built from 183...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg/300px-RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/RUS-2016-Aerial-SPB-Peter_and_Paul_Fortress_02.jpg",
+            "caption": "Aerial view of Peter and Paul Fortress on Zayachy Island, Saint Petersburg, R...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Emperors_%28or_Tsars%29_of_Russia_-_lifespan_age_%281721-1918%29.png/300px-Emperors_%28or_Tsars%29_of_Russia_-_lifespan_age_%281721-1918%29.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Emperors_%28or_Tsars%29_of_Russia_-_lifespan_age_%281721-1918%29.png",
+            "caption": "Emperors of Russia - lifespan age (All emperors in the interval 1721-1918).\nF...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grand_Cascade_in_Peterhof_01.jpg/300px-Grand_Cascade_in_Peterhof_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Grand_Cascade_in_Peterhof_01.jpg",
+            "caption": "Grand Cascade of Peterhof",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Peter III of Russia",
+            "summary": "Emperor of Russia in 1762",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Coronation_portrait_of_Peter_III_of_Russia_-1761.JPG/250px-Coronation_portrait_of_Peter_III_of_Russia_-1761.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_III_of_Russia"
+        },
+        {
+            "name": "Alexander II of Russia",
+            "summary": "Emperor of Russia from 1855 to 1881",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zar_Alexander_II_%28cropped%29.jpg/250px-Zar_Alexander_II_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_II_of_Russia"
+        },
+        {
+            "name": "Alexander III of Russia",
+            "summary": "Emperor of Russia from 1881 to 1894",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Tsar_Alexander_III_c._1885.jpg/250px-Tsar_Alexander_III_c._1885.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia"
+        },
+        {
+            "name": "Michael of Russia",
+            "summary": "Tsar of Russia from 1613 to 1645",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Michael-I-Romanov-Wedekind_%28cropped%29.jpg/250px-Michael-I-Romanov-Wedekind_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_of_Russia"
+        },
+        {
+            "name": "Elizabeth of Russia",
+            "summary": "Empress of Russia from 1741 to 1762",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Elizabeth_of_Russia_by_V.Eriksen.jpg/250px-Elizabeth_of_Russia_by_V.Eriksen.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_of_Russia"
+        },
+        {
+            "name": "Nicholas II",
+            "summary": "Emperor of Russia from 1894 to 1917",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mikola_II_%28cropped%29-2.jpg/250px-Mikola_II_%28cropped%29-2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicholas_II"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1008,
+    "parent_id": 1001,
+    "granularity": "detailed",
+    "content_hash": "sha256:716cb9f11ea7526564249b3296705749bdcd4561bcd7b2c9f830656fee7e145f",
+    "summary": "The Battles of Artemisium (480 BC) were a series of naval engagements fought off the northern coast of Euboea simultaneously with the land battle at [[event:1004|Battle of Thermopylae]]. The Greek fleet, commanded by the Spartan admiral Eurybiades with tactical direction from the Athenian Themistocles, sought to hold the strait between Euboea and the mainland against the Persian fleet advancing southward.\n\nThe three days of fighting were tactically inconclusive — both fleets suffered significant losses — but strategically important. The Greek fleet successfully blocked the Persian navy from outflanking the Thermopylae position by sea. When news arrived of Thermopylae's fall and the death of Leonidas, the Greek fleet withdrew southward toward Salamis, having fulfilled its purpose of buying time. The experience gained in these engagements, and the damage inflicted on the Persian fleet (further exacerbated by storms), contributed to the Greek victory at [[event:1005|Battle of Salamis]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Artemisium",
+    "read_more_links": [
+        {
+            "title": "Themistocles",
+            "url": "https://en.wikipedia.org/wiki/Themistocles"
+        },
+        {
+            "title": "Battle of Salamis",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Salamis"
+        },
+        {
+            "title": "Greek Trireme",
+            "url": "https://en.wikipedia.org/wiki/Trireme"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Disaster_to_the_Persian_fleet.jpg/300px-Disaster_to_the_Persian_fleet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Disaster_to_the_Persian_fleet.jpg",
+            "caption": "Disaster to the Persian fleet",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Meeting_of_the_Ionian_fleet_and_the_Persian_army.jpg/300px-Meeting_of_the_Ionian_fleet_and_the_Persian_army.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Meeting_of_the_Ionian_fleet_and_the_Persian_army.jpg",
+            "caption": "Meeting of the Ionian fleet and the Persian army",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Egyptian_hoplites.jpg/300px-Egyptian_hoplites.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Egyptian_hoplites.jpg",
+            "caption": "Egyptian hoplites",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Departure_of_the_Grecian_fleet_for_Thessaly.jpg/300px-Departure_of_the_Grecian_fleet_for_Thessaly.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Departure_of_the_Grecian_fleet_for_Thessaly.jpg",
+            "caption": "Departure of the Grecian fleet for Thessaly",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Themistocles",
+            "summary": "Athenian politician and general (c. 524–459 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Illustrerad_Verldshistoria_band_I_Ill_116.png/250px-Illustrerad_Verldshistoria_band_I_Ill_116.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Themistocles"
+        },
+        {
+            "name": "Ariabignes",
+            "summary": "Persian admiral and prince (died 480 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/William_Rainey_-_Death_of_the_Persian_admiral_at_Salamis_%28cropped_to_focus_on_Ariabignes%29.jpg/250px-William_Rainey_-_Death_of_the_Persian_admiral_at_Salamis_%28cropped_to_focus_on_Ariabignes%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ariabignes"
+        },
+        {
+            "name": "Xerxes I",
+            "summary": "King of Kings of the Achaemenid Empire from 486 to 465 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/National_Museum_of_Iran_Darafsh_%28785%29.JPG/250px-National_Museum_of_Iran_Darafsh_%28785%29.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Xerxes_I"
+        },
+        {
+            "name": "Hoplite",
+            "summary": "Ancient Greek soldier in a phalanx",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hoplite1.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hoplite"
+        },
+        {
+            "name": "Alexander I of Macedon",
+            "summary": "King of Macedon from c. 498/497 to 454 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alexander_I_of_Macedon%2C_silver_obol%3B_struck_circa_460%E2%80%93450_BC.png/250px-Alexander_I_of_Macedon%2C_silver_obol%3B_struck_circa_460%E2%80%93450_BC.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_I_of_Macedon"
+        },
+        {
+            "name": "Stylianos Lykoudis",
+            "summary": "Greek rear admiral",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Stylianos_Lykoudis.png/250px-Stylianos_Lykoudis.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stylianos_Lykoudis"
+        }
+    ],
+    "territory_geojson": null
+}

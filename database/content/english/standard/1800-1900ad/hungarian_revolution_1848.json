@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3644,
+    "parent_id": 2532,
+    "granularity": "detailed",
+    "content_hash": "sha256:0b25510f39d7134bf1d30ad73668a44dac649339ef042d0f290b6f20edd373a6",
+    "summary": "The Hungarian Revolution of 1848–49 was the most sustained and militarily formidable of the national revolts that shook the [[event:2496|Habsburg Empire]] during the [[event:2532|Revolutions of 1848]]. Beginning as a liberal constitutional movement in March 1848, it escalated into a full war of independence under the leadership of Lajos Kossuth, and required the intervention of a Russian army to suppress — the only instance in 1848 of one great power militarily assisting another to crush a revolution.\n\nThe March revolution in Pest, inspired by simultaneous uprisings in Vienna and Paris, compelled the Habsburg emperor to grant Hungary a nominally independent government under Count Batthyány. The Hungarian Diet passed the April Laws, establishing a constitutional monarchy with full civil liberties and ending serfdom. When the Habsburg government attempted to reverse these concessions and use Croatian forces under Ban Jellačić to suppress the Hungarian movement, war broke out. The Hungarian forces, though initially pushed back, reorganized under Artúr Görgei and Józef Bem and mounted a remarkable spring campaign in 1849 that drove Austrian forces from most of Hungary.\n\nIn April 1849 the Hungarian diet declared full independence and deposed the Habsburg dynasty. The response was decisive: Emperor Franz Joseph appealed to Tsar Nicholas I, who sent an army of 200,000 Russian troops into Hungary in June 1849. Outnumbered and surrounded, the Hungarian forces surrendered in August 1849 at Világos. Thirteen Hungarian generals were executed at Arad in October 1849. Kossuth fled into exile and became a celebrated figure in liberal movements throughout Europe and America, while Austria imposed a decade of neo-absolutist rule over Hungary before the [[event:3645|Austro-Hungarian Compromise]] of 1867.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1848",
+    "read_more_links": [
+        {
+            "title": "Lajos Kossuth – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lajos_Kossuth"
+        },
+        {
+            "title": "Hungarian Revolution – Britannica",
+            "url": "https://www.britannica.com/event/Hungarian-Revolution-1848-1849"
+        },
+        {
+            "title": "Thirteen Martyrs of Arad – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Thirteen_Martyrs_of_Arad"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Austrian_grenadiers_parading_%28c._1840%29.jpg/300px-Austrian_grenadiers_parading_%28c._1840%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Austrian_grenadiers_parading_%28c._1840%29.jpg",
+            "caption": "Austrian grenadiers parading (c. 1840)",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buda_ostroma_1849._m%C3%A1jus_21.jpg/300px-Buda_ostroma_1849._m%C3%A1jus_21.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Buda_ostroma_1849._m%C3%A1jus_21.jpg",
+            "caption": "Buda ostroma az 1848–49-es forradalom és szabadságharc tavaszi hadjáratának c...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hungarian_National_Guard_from_1848.jpg/300px-Hungarian_National_Guard_from_1848.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hungarian_National_Guard_from_1848.jpg",
+            "caption": "Hungarian National Guard from 1848",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bachmann-Hohmann%2C_B%CB%90_Die_Schlacht_bei_Temesv%C3%A1r.jpg/300px-Bachmann-Hohmann%2C_B%CB%90_Die_Schlacht_bei_Temesv%C3%A1r.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bachmann-Hohmann%2C_B%CB%90_Die_Schlacht_bei_Temesv%C3%A1r.jpg",
+            "caption": "Cavalry struggle at the battle of Temesvár (09.08.1849)",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mihály Zichy",
+            "summary": "Hungarian painter (1827–1906)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Zichy_Mih%C3%A1ly_f%C3%A9nyk%C3%A9pe_1881_B%C3%A9cs.jpg/250px-Zichy_Mih%C3%A1ly_f%C3%A9nyk%C3%A9pe_1881_B%C3%A9cs.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mih%C3%A1ly_Zichy"
+        },
+        {
+            "name": "Sándor Petőfi",
+            "summary": "Hungarian poet and liberal revolutionary",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Barab%C3%A1s_Pet%C5%91fi.jpg/250px-Barab%C3%A1s_Pet%C5%91fi.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/S%C3%A1ndor_Pet%C5%91fi"
+        },
+        {
+            "name": "Ferdinand I of Austria",
+            "summary": "Emperor of Austria from 1835 to 1848",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Leopold_Kupelwieser_-_Kaiser_Ferdinand_I.jpg/250px-Leopold_Kupelwieser_-_Kaiser_Ferdinand_I.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Austria"
+        },
+        {
+            "name": "Alfred I, Prince of Windisch-Grätz",
+            "summary": "Austrian nobleman and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Windischgr%C3%A4tz%2C_Alfred_I._F%C3%BCrst_von.jpg/250px-Windischgr%C3%A4tz%2C_Alfred_I._F%C3%BCrst_von.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_I%2C_Prince_of_Windisch-Gr%C3%A4tz"
+        },
+        {
+            "name": "Julius Jacob von Haynau",
+            "summary": "19th-century Austrian general (1786–1853)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Haynau.jpg/250px-Haynau.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Jacob_von_Haynau"
+        },
+        {
+            "name": "Karl von Urban",
+            "summary": "Austrian field marshal-lieutenant",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Karl_von_Urban_1857_-_painting.png/250px-Karl_von_Urban_1857_-_painting.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Karl_von_Urban"
+        }
+    ],
+    "territory_geojson": null
+}

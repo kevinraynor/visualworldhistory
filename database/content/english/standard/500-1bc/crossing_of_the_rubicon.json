@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1076,
+    "parent_id": 72,
+    "granularity": "notable",
+    "content_hash": "sha256:8e574f1eb74bfc501736129bdd73fa9a87d9300c80c30f22b0ca992cf237cc14",
+    "summary": "The Crossing of the Rubicon (January 10–11, 49 BC) was the moment Julius Caesar led his veteran 13th Legion across the small river marking the boundary between his Gallic province and Italy proper, committing an act of war against the Roman state and launching the [[event:1077|Caesar's Civil War]] that would ultimately transform Rome from a republic to a monarchy. Roman law strictly forbade a general from bringing armed troops into Italy — doing so was treason.\n\nCaesar faced a political trap: the Senate, dominated by his enemies and influenced by his rival Pompey, had refused to allow him to stand for the consulship in absentia while retaining his command, which would have protected him from prosecution for alleged illegalities during his [[event:1074|Gallic Wars]] campaign. The demand that he disband his army before entering Italy was, Caesar argued, a demand that he surrender himself to his enemies. He reportedly spent the evening before the crossing in anguished deliberation, then crossed at dawn.\n\nAncient sources record that Caesar quoted Menander's line 'Let the die be cast' (alea iacta est) as he crossed — the origin of the English phrase 'crossing the Rubicon' for any irreversible commitment. The political and military calculation proved correct: Pompey and most of the Senate fled Italy without offering resistance, abandoning Rome and its treasury to Caesar. The extraordinary speed and audacity of Caesar's subsequent advance, capturing city after city without significant resistance, demonstrated the political as well as military dividends of swift decisive action.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+    "read_more_links": [
+        {
+            "title": "Julius Caesar",
+            "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "title": "Caesar's Civil War",
+            "url": "https://en.wikipedia.org/wiki/Caesar%27s_Civil_War"
+        },
+        {
+            "title": "Pompey",
+            "url": "https://en.wikipedia.org/wiki/Pompey"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/300px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "caption": "Portrait of Julius Caesar ",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Julius Caesar",
+            "summary": "Roman general and dictator (100–44 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/250px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+        },
+        {
+            "name": "Suetonius",
+            "summary": "Roman historian (c. AD 69 – after AD 122)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Suetonius_etching_%28cropped%29.jpg/250px-Suetonius_etching_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Suetonius"
+        },
+        {
+            "name": "Sallust",
+            "summary": "Roman historian and politician (86–35 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Salluste_%28cropped%29.jpg/250px-Salluste_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sallust"
+        },
+        {
+            "name": "The Twelve Caesars",
+            "summary": "Biographies of Julius Caesar and the first 11 Roman emperors by Suetonius",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg/250px-Suetonius%2C_De_vita_Caesarum%2C_Berlin%2C_Ms._lat._fol._28.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/The_Twelve_Caesars"
+        },
+        {
+            "name": "Plutarch",
+            "summary": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg/250px-Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Plutarch"
+        },
+        {
+            "name": "Menander",
+            "summary": "Athenian comic playwright (c. 342/341 – c. 290 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Menander_Chiaramonti_Inv1453.jpg/250px-Menander_Chiaramonti_Inv1453.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Menander"
+        }
+    ],
+    "territory_geojson": null
+}

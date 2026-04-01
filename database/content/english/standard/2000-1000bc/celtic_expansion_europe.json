@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 68,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:1c618089d0e698b9f4025e7e7f1c19d244783a3218ab290ccc710a917dc01c88",
+    "summary": "The Celts were a group of peoples speaking related Indo-European languages who expanded across much of Europe during the late Bronze Age and early Iron Age, from roughly 1200 BC onward. At their greatest extent, Celtic-speaking cultures ranged from the Iberian Peninsula and Britain in the west to Anatolia in the east, leaving a profound cultural imprint on European civilization.\n\nThe origins of Celtic cultural identity are associated with a succession of archaeological cultures in central Europe: the [[event:1866|Urnfield culture]] (c. 1300–750 BC), the Hallstatt culture (c. 800–450 BC), and the La Tène culture (c. 450–50 BC). These cultures shared distinctive metallurgical traditions, burial practices, and decorative styles, and are associated with the spread of Celtic languages through trade, migration, and cultural diffusion. The question of whether the Celts spread primarily through population movement or through the adoption of cultural and linguistic practices by indigenous peoples remains debated.\n\nCeltic society was characterized by a warrior aristocracy, skilled metalworking — particularly in iron and bronze — and an oral literary tradition maintained by specialized priests called Druids. Druids served as religious leaders, judges, scholars, and keepers of sacred knowledge, passing their learning orally across generations. Celtic religious practice involved reverence for natural sites such as springs, lakes, and groves, and included human sacrifice according to Roman and Greek accounts.\n\nBy the second century BC, Celtic peoples had expanded into northern Italy, the Balkans, and even conducted raids on Rome (387 BC) and Delphi (279 BC), creating a lasting impression on Mediterranean civilizations. Roman conquest progressively absorbed Celtic territories from the second century BC onward, but Celtic languages survived in Britain and Ireland, where they gave rise to the Welsh, Cornish, Breton, Irish, and Scottish Gaelic languages still spoken today.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Celts",
+    "read_more_links": [
+        {
+            "title": "Hallstatt Culture",
+            "url": "https://en.wikipedia.org/wiki/Hallstatt_culture"
+        },
+        {
+            "title": "La Tène Culture",
+            "url": "https://en.wikipedia.org/wiki/La_T%C3%A8ne_culture"
+        },
+        {
+            "title": "Celts - Britannica",
+            "url": "https://www.britannica.com/topic/Celt-people"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/10_2023_-_Palazzo_Altemps%2C_Roma%2C_Lazio%2C_00186%2C_Italia_-_Galata_suicida_%28Ludovisi_Gaul%29_-_Arte_Ellenistica_Greca_-_Copia_Romana_-_Photo_Paolo_Villa_FO232046_ombre_gimp_bis.jpg/300px-10_2023_-_Palazzo_Altemps%2C_Roma%2C_Lazio%2C_00186%2C_Italia_-_Galata_suicida_%28Ludovisi_Gaul%29_-_Arte_Ellenistica_Greca_-_Copia_Romana_-_Photo_Paolo_Villa_FO232046_ombre_gimp_bis.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/10_2023_-_Palazzo_Altemps%2C_Roma%2C_Lazio%2C_00186%2C_Italia_-_Galata_suicida_%28Ludovisi_Gaul%29_-_Arte_Ellenistica_Greca_-_Copia_Romana_-_Photo_Paolo_Villa_FO232046_ombre_gimp_bis.jpg",
+            "caption": "So-called Ludovisi Gaul and his wife. Marble, Roman copy after an Hellenistic...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stone_sculpture_of_celtic_hero.jpg/300px-Stone_sculpture_of_celtic_hero.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Stone_sculpture_of_celtic_hero.jpg",
+            "caption": "Stone sculpture of Celtic hero, from the sanctuary at Mšecké Žehrovice near S...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/0877_Keltische_Frau_im_3._Jh._v._Chr.JPG/300px-0877_Keltische_Frau_im_3._Jh._v._Chr.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/0877_Keltische_Frau_im_3._Jh._v._Chr.JPG",
+            "caption": "Kleidung der Kelten  in Südpolen im 3.Jh. v. Chr.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/0910_Tracht_der_Kelten_in_S%C3%BCdpolen_im_3._Jh._v._Chr.JPG/300px-0910_Tracht_der_Kelten_in_S%C3%BCdpolen_im_3._Jh._v._Chr.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/0910_Tracht_der_Kelten_in_S%C3%BCdpolen_im_3._Jh._v._Chr.JPG",
+            "caption": "Kleidung der Kelten  in Südpolen im 3.Jh. v. Chr.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

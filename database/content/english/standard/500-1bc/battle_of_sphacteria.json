@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1014,
+    "parent_id": 1010,
+    "granularity": "detailed",
+    "content_hash": "sha256:b2074502ea8fb95965d7b4517793044a7b4a76a005f0472f06b4949dee290dad",
+    "summary": "The Battle of Sphacteria (425 BC) was a remarkable Athenian victory during the [[event:1010|Peloponnesian War]] in which a force of Athenian troops and light-armed allies surrounded and captured a garrison of Spartan soldiers on the island of Sphacteria off the southwest Peloponnese. The capture of approximately 120 Spartiates — full Spartan citizens — was a profound shock to Greek opinion, as Spartans were assumed to prefer death to surrender.\n\nThe operation grew from an Athenian general Demosthenes's opportunistic fortification of Pylos, a headland on the Messenian coast. When Sparta sent troops to dislodge him, they became trapped on the nearby island when the Athenian fleet arrived and cut off their retreat. A siege ensued until Demosthenes and the politician Cleon led a combined assault using archers, javelin throwers, and slingers who pelted the Spartans from a distance, negating their superiority in close combat. Facing annihilation, the remaining Spartans surrendered — an outcome that astonished all of Greece. The prisoners were held in Athens as hostages, deterring Spartan raids on Attica for years.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Sphacteria",
+    "read_more_links": [
+        {
+            "title": "Demosthenes (general)",
+            "url": "https://en.wikipedia.org/wiki/Demosthenes_(general)"
+        },
+        {
+            "title": "Cleon",
+            "url": "https://en.wikipedia.org/wiki/Cleon"
+        },
+        {
+            "title": "Pylos",
+            "url": "https://en.wikipedia.org/wiki/Pylos"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Battle_of_sphacteria.png/300px-Battle_of_sphacteria.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Battle_of_sphacteria.png",
+            "caption": "map of the battle of Sphacteria, 425 bc",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hoplite",
+            "summary": "Ancient Greek soldier in a phalanx",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hoplite1.gif",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hoplite"
+        },
+        {
+            "name": "Thucydides",
+            "summary": "5th-century BC Athenian historian and general",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thucydides_pushkin01.jpg/250px-Thucydides_pushkin01.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thucydides"
+        },
+        {
+            "name": "Nicias",
+            "summary": "Athenian politician and general (5th century BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg/250px-Nicias%2C_p_105_%28World%27s_Famous_Orations_Vol_1%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Nicias"
+        },
+        {
+            "name": "Strategos",
+            "summary": "Greek military leader",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Greek_strategist_Pio-Clementino_Inv306.jpg/250px-Greek_strategist_Pio-Clementino_Inv306.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strategos"
+        },
+        {
+            "name": "Donald Kagan",
+            "summary": "American historian and classicist (1932–2021)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dkaganbiopic.png/250px-Dkaganbiopic.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Kagan"
+        }
+    ],
+    "territory_geojson": null
+}

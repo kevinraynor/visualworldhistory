@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2098,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:8bdba3247a2701a413725ca458571e47e9bba275f366b591a72a97a320122a4e",
+    "summary": "The Polynesian settlement of Easter Island (Rapa Nui, c. 300–900 AD) was one of the most isolated human colonizations in history — a small group of Polynesian voyagers reaching a tiny island roughly 2,100 kilometers from the nearest inhabited land (Pitcairn Island) and approximately 3,700 kilometers from South America, with the most likely origin being the Marquesas Islands some 3,700 kilometers to the northwest. Linguistic and genetic evidence points to the Marquesas as the likely origin, with settlement occurring somewhere between 300 and 900 AD. The settlers brought the Polynesian toolkit of domesticated plants and animals, and found an island densely forested with the Jubaea palm.\n\nThe descendants of these settlers created one of the world's most remarkable monumental traditions: the moai — roughly 900 massive stone statues averaging 4 meters tall and 12.5 tons, carved from volcanic tuff in the Rano Raraku crater and transported across the island to stand on stone platforms (ahu) facing inland. The moai represented ancestral chiefs and were believed to channel divine power (mana) to protect communities. The method of transporting the multi-ton statues was long debated; oral tradition says the statues 'walked,' and recent experiments confirm they could have been rocked forward on their flat bases using ropes. The island's later history became a cautionary tale of ecological collapse — deforestation (possibly worsened by rats that ate palm seeds), soil exhaustion, and resource competition led to societal collapse before European contact, a narrative famously documented in Jared Diamond's 'Collapse.'",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Easter_Island",
+    "read_more_links": [
+        {
+            "title": "Moai statues construction",
+            "url": "https://en.wikipedia.org/wiki/Moai"
+        },
+        {
+            "title": "Rapa Nui deforestation collapse",
+            "url": "https://en.wikipedia.org/wiki/Easter_Island#Ecological_disaster_theory"
+        },
+        {
+            "title": "Polynesian settlement dating",
+            "url": "https://en.wikipedia.org/wiki/Easter_Island#Settlement"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/300px-Easter_Island_5.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Easter_Island_5.jpg",
+            "caption": "Ahu in Easter Island. Hanga Roa seen in the background.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pu_o_Hiro_%28Trumpet_of_Hiro%29_in_Easter_Island_2018.jpg/300px-Pu_o_Hiro_%28Trumpet_of_Hiro%29_in_Easter_Island_2018.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pu_o_Hiro_%28Trumpet_of_Hiro%29_in_Easter_Island_2018.jpg",
+            "caption": "Pu o Hiro (translation: Trumpet of Hiro) is an ancient stone aerophone (1.25 ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/EasterIsland_1772.JPG/300px-EasterIsland_1772.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/EasterIsland_1772.JPG",
+            "caption": "North down 1772 map of Easter Island (Isla de San Carlos) drawn by the 1772 S...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Easter_Island_13.jpg/300px-Easter_Island_13.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Easter_Island_13.jpg",
+            "caption": "A view from the west side of the crater at Rano Kau, looking towards the sout...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Thor Heyerdahl",
+            "summary": "Norwegian anthropologist and adventurer (1914–2002)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ThorHeyerdahl.jpg/250px-ThorHeyerdahl.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Thor_Heyerdahl"
+        },
+        {
+            "name": "Alphonse Pinart",
+            "summary": "French anthropologist (1852 - 1911)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Alphonse_Pinart.jpg/250px-Alphonse_Pinart.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alphonse_Pinart"
+        },
+        {
+            "name": "Cornwall",
+            "summary": "Ceremonial county in England",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_Michael%27s_Mount_View.jpg/250px-St_Michael%27s_Mount_View.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cornwall"
+        },
+        {
+            "name": "Felipe González de Ahedo",
+            "summary": "Spanish navigator and cartographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/EasterIsland_1772.JPG/250px-EasterIsland_1772.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Felipe_Gonz%C3%A1lez_de_Ahedo"
+        },
+        {
+            "name": "Charles Borromeo",
+            "summary": "Catholic prelate and saint (1538–1584)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/250px-Carlo_Borromeo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Borromeo"
+        },
+        {
+            "name": "Charles III of Spain",
+            "summary": "King of Spain from 1759 to 1788",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Charles_III_of_Spain_high_resolution.jpg/250px-Charles_III_of_Spain_high_resolution.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_III_of_Spain"
+        }
+    ],
+    "territory_geojson": null
+}

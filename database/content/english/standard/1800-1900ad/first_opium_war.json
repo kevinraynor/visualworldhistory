@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1800-1900ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2541,
+    "parent_id": 2540,
+    "granularity": "notable",
+    "content_hash": "sha256:9bbb42de96003d1b86edce8a600b711bacd8250860fbc593f24df54fee39dc47",
+    "summary": "The First Opium War, fought between Britain and Qing China from 1839 to 1842, was the opening episode of the [[event:2540|Opium Wars]] and the first major conflict in which a modern industrialized Western power directly confronted and defeated a traditional Asian empire. The war exposed the enormous military gap that industrialization had opened between Britain and China and inaugurated a century of Western and Japanese encroachment on Chinese sovereignty.\n\nThe conflict's immediate trigger was the Chinese government's forcible seizure and destruction of approximately 20,000 chests of British-held opium in 1839, ordered by the imperial commissioner Lin Zexu. Lin's action was legally defensible under Chinese law and morally justified — opium addiction was devastating Chinese society — but it provided the pretext for British military action that many in London, led by Foreign Secretary Lord Palmerston, had been seeking to force open Chinese markets and compel respect for British merchants.\n\nBritish naval and land forces proved overwhelmingly superior. Steam-powered gunboats, most famously the Nemesis, could navigate rivers and attack shore fortifications that had been designed to repel traditional sailing vessels. British forces captured Canton (Guangzhou), seized the key city of Zhoushan, and threatened to attack Nanjing itself. Facing military helplessness, the Qing government negotiated the [[event:2542|Treaty of Nanking]] in August 1842.\n\nThe terms set a damaging precedent. China ceded Hong Kong island to Britain in perpetuity, opened five ports to foreign residence and trade, abolished the monopolistic Canton trading system (the Cohong), paid an indemnity of 21 million silver dollars, and granted British subjects most-favored-nation status. The war revealed the military weakness of the Qing state and triggered a period of intense internal debate about whether and how China needed to modernize — a debate that would preoccupy Chinese intellectuals and officials for the rest of the century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/First_Opium_War",
+    "read_more_links": [
+        {
+            "title": "First Opium War – Britannica",
+            "url": "https://www.britannica.com/event/First-Opium-War"
+        },
+        {
+            "title": "Treaty of Nanking – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Nanking"
+        },
+        {
+            "title": "Lin Zexu – Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lin_Zexu"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Signing_of_the_Treaty_of_Nanking.jpg/300px-The_Signing_of_the_Treaty_of_Nanking.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_Signing_of_the_Treaty_of_Nanking.jpg",
+            "caption": "The signing and sealing of the Treaty of Nanking.",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/A_busy_stacking_room_in_the_opium_factory_at_Patna%2C_India._L_Wellcome_V0019154.jpg/300px-A_busy_stacking_room_in_the_opium_factory_at_Patna%2C_India._L_Wellcome_V0019154.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/A_busy_stacking_room_in_the_opium_factory_at_Patna%2C_India._L_Wellcome_V0019154.jpg",
+            "caption": "A busy stacking room in the opium factory at Patna, India. Lithograph after W...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Canton_River_and_adjacent_islands.jpg/300px-Canton_River_and_adjacent_islands.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Canton_River_and_adjacent_islands.jpg",
+            "caption": "Map of the Canton River and adjacent islands. The inset shows the position of...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/18th_Royal_Irish_at_Amoy.jpg/300px-18th_Royal_Irish_at_Amoy.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/18th_Royal_Irish_at_Amoy.jpg",
+            "caption": "The 18th (Royal Irish) Regiment of Foot at the storming of the forts of Amoy,...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Queen Victoria",
+            "summary": "Queen of the United Kingdom from 1837 to 1901",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/250px-Queen_Victoria_by_Bassano.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_Victoria"
+        },
+        {
+            "name": "George Elliot (Royal Navy officer, born 1784)",
+            "summary": "Royal Navy Admiral (1784–1863)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sir_George_Elliot_by_Sir_George_Hayter.jpg/250px-Sir_George_Elliot_by_Sir_George_Hayter.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/George_Elliot_%28Royal_Navy_officer%2C_born_1784%29"
+        },
+        {
+            "name": "Hugh Gough, 1st Viscount Gough",
+            "summary": "British field marshal (1779–1869)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hugh_Gough%2C_1st_Viscount_Gough%2C_1850.png/250px-Hugh_Gough%2C_1st_Viscount_Gough%2C_1850.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hugh_Gough%2C_1st_Viscount_Gough"
+        },
+        {
+            "name": "Sir William Parker, 1st Baronet, of Shenstone",
+            "summary": "Royal Navy Admiral of the Fleet (1781–1866)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Admiral_Sir_William_Parker.jpg/250px-Admiral_Sir_William_Parker.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sir_William_Parker%2C_1st_Baronet%2C_of_Shenstone"
+        },
+        {
+            "name": "Daoguang Emperor",
+            "summary": "Emperor of China from 1820 to 1850",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png/250px-%E6%B8%85%E4%BA%BA%E7%94%BB%E6%97%BB%E5%AE%81%E6%9C%9D%E6%9C%8D%E5%83%8F%E8%BD%B4.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Daoguang_Emperor"
+        },
+        {
+            "name": "Chen Huacheng",
+            "summary": "Qing admiral (1776–1842)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chen_Huacheng_-_DSCF9888.JPG/250px-Chen_Huacheng_-_DSCF9888.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chen_Huacheng"
+        }
+    ],
+    "territory_geojson": null
+}

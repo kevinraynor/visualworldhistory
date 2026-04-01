@@ -1,0 +1,44 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1272,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:d93a71d71199919c283db8d99c76c87f4de411fda5be0a5595e35686a3bc2c2a",
+    "summary": "Nanzhuangtou is an Early Neolithic site in Hebei Province, northern China, dated to approximately 9500–8500 BCE, notable for yielding some of the earliest pottery fragments and domesticated millet remains found in northern China. The site represents an early phase of sedentary life and food production in the northern Chinese plains, distinct from the rice-based agricultural traditions developing in the [[event:6|Yangtze basin]] to the south.\n\nNanzhuangtou's inhabitants produced a simple cord-marked pottery tradition and exploited a mixed subsistence base including hunting, fishing, gathering, and early millet cultivation. The site contributes important evidence to the understanding of millet domestication in northern China, a process that occurred independently from rice domestication in the south and produced two distinct agricultural traditions — foxtail millet (Setaria italica) and broomcorn millet (Panicum miliaceum) — that would underpin the early civilizations of the Yellow River valley. The northern Chinese Neolithic sequence, of which Nanzhuangtou is an early representative, ultimately gave rise to the Yangshao and Longshan cultures and contributed to the foundations of Chinese civilization.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nanzhuangtou",
+    "read_more_links": [
+        {
+            "title": "Millet - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Millet"
+        },
+        {
+            "title": "Chinese Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_China"
+        },
+        {
+            "title": "Yellow River Civilization - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Yellow_River"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gugong.jpg/300px-Gugong.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Gugong.jpg",
+            "caption": "Gugong",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        }
+    ],
+    "territory_geojson": null
+}

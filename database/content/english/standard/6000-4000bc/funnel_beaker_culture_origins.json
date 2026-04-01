@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "6000-4000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1553,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:87f85b7563d2e7dc5a934bf15eca200105fda35fd2bafe3d5c30b6e861e596bf",
+    "summary": "The Funnel Beaker culture (Trichterbecherkultur or TRB), one of the major Neolithic cultures of northern Europe, emerged around 4300 BCE in the region of southern Scandinavia and the North European Plain, expanding to cover much of present-day Denmark, Sweden, Germany, Poland, and the Netherlands over the following centuries. Named for its characteristic funnel-shaped pottery, the TRB culture represents the introduction of farming to the northern European lowlands and the spread of megalithic monument building into Scandinavia.\n\nFunnel Beaker communities cultivated emmer wheat, barley, and flax, and herded cattle, pigs, and sheep. They were among the first farming communities to penetrate the previously hunter-gatherer territories of northern Europe, establishing villages in the fertile morainic landscapes left by the retreating Pleistocene glaciers. The TRB culture is also known for constructing passage graves and dolmens — collective stone-chambered tombs — in a tradition related to the [[event:35|wider Atlantic megalithic tradition]], introducing monumental burial architecture to Scandinavia and northern Germany.\n\nThe Funnel Beaker culture was eventually replaced across most of its range by the Corded Ware culture around 3000 BCE — a transition that recent ancient DNA studies have linked to a major demographic replacement involving steppe-ancestry populations. The TRB culture thus represents the final major expression of the first farmers who colonized northern Europe from the Near East before this replacement.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Funnelbeaker_culture",
+    "read_more_links": [
+        {
+            "title": "Neolithic Scandinavia - Britannica",
+            "url": "https://www.britannica.com/topic/Ertebolle-Ellerbek-culture"
+        },
+        {
+            "title": "Northern European Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Europe"
+        },
+        {
+            "title": "Corded Ware culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Corded_Ware_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/DO-3836.jpg/300px-DO-3836.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/DO-3836.jpg",
+            "caption": "Clay vessel and amber necklaces, Sortekærs Mose",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Vase_Toustrup_Nationalmuseet.jpg/300px-Vase_Toustrup_Nationalmuseet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vase_Toustrup_Nationalmuseet.jpg",
+            "caption": "Vase Toustrup Nationalmuseet",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kors%C3%B8r_Langdysse_20100410-3.JPG/300px-Kors%C3%B8r_Langdysse_20100410-3.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kors%C3%B8r_Langdysse_20100410-3.JPG",
+            "caption": "Long dolmen near Korsør, Denmark. It was buildt around 4000 B.C. It is 40m lo...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Valby_Hegn_Langdysse_5-4.jpg/300px-Valby_Hegn_Langdysse_5-4.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Valby_Hegn_Langdysse_5-4.jpg",
+            "caption": "in the Heritage Agency of Denmark database for Sites and Monuments.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mace (bludgeon)",
+            "summary": "Blunt striking weapon",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Various_Indo-Persian_maces.jpg/250px-Various_Indo-Persian_maces.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mace_%28bludgeon%29"
+        },
+        {
+            "name": "Alvastra pile-dwelling",
+            "summary": "Dwelling from about 3000 BC in Östergötland County, Sweden",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alvastra_pile_dwelling.jpg/250px-Alvastra_pile_dwelling.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alvastra_pile-dwelling"
+        }
+    ],
+    "territory_geojson": null
+}

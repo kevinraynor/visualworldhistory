@@ -1,0 +1,87 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "2.0",
+    "event_id": 1935,
+    "summary": "Hesiod (c. 700 BC) was one of the earliest and most influential Greek poets — alongside Homer, the foundational figure of Greek literary tradition. His two surviving works, the Theogony and Works and Days, served fundamentally different purposes: the Theogony systematized Greek religion by narrating the genealogy of the gods from Chaos to Zeus's supremacy; Works and Days addressed practical ethics and the farmer's calendar, containing the myth of Pandora and the doctrine of the Five Ages of Man (Gold, Silver, Bronze, Heroic, Iron).\n\nHesiod is notable for being the first Greek poet whose personal voice and biography are partially visible: Works and Days mentions his quarrel with his brother Perses over their inheritance, his father's move from Aeolian Cyme to Ascra in Boeotia, and his victory at a poetic contest at Chalcis. His description of the Iron Age — in which humans must labor endlessly, justice is uncertain, and the gods have withdrawn — has been interpreted as a pessimistic commentary on his own time. The Theogony's systematic organization of Greek mythology provided the authoritative account of divine genealogy that all subsequent Greek and Roman religious and literary culture built upon, making Hesiod, as Herodotus noted, one of the two poets who 'gave the gods their names and described their honors and arts.'",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hesiod",
+    "read_more_links": [
+        {
+            "title": "Theogony divine genealogy",
+            "url": "https://en.wikipedia.org/wiki/Theogony"
+        },
+        {
+            "title": "Works and Days farmer ethics",
+            "url": "https://en.wikipedia.org/wiki/Works_and_Days"
+        },
+        {
+            "title": "Five Ages of Man",
+            "url": "https://en.wikipedia.org/wiki/Ages_of_Man"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rheinisches_Landesmuseum_Trier_20210705_113435_%2851291907059%29.jpg/300px-Rheinisches_Landesmuseum_Trier_20210705_113435_%2851291907059%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rheinisches_Landesmuseum_Trier_20210705_113435_%2851291907059%29.jpg",
+            "caption": "20210705_113435",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Helikonmountainascent.JPG/300px-Helikonmountainascent.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Helikonmountainascent.JPG",
+            "caption": "Ascent on Mountain Helikon",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bronze_Bust_of_an_Aged_Man.jpg/300px-Bronze_Bust_of_an_Aged_Man.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bronze_Bust_of_an_Aged_Man.jpg",
+            "caption": "Naples Museum, Italy",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1807_Thorvaldsen_Tanz_der_Musen_auf_dem_Helikon_anagoria.JPG/300px-1807_Thorvaldsen_Tanz_der_Musen_auf_dem_Helikon_anagoria.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/1807_Thorvaldsen_Tanz_der_Musen_auf_dem_Helikon_anagoria.JPG",
+            "caption": "Dance of the Muses on Mount Helicon, 1807",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Works and Days",
+            "summary": "Poem written by the ancient Greek poet Hesiod",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Werke_und_Tage.jpg/250px-Werke_und_Tage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Works_and_Days"
+        },
+        {
+            "name": "Homer",
+            "summary": "Ancient Greek poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/250px-Homer_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Homer"
+        },
+        {
+            "name": "Zeus",
+            "summary": "Greek god of the sky and king of the gods",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zeus_Otricoli_Pio-Clementino_Inv257.jpg/250px-Zeus_Otricoli_Pio-Clementino_Inv257.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Zeus"
+        },
+        {
+            "name": "Rhapsode",
+            "summary": "Classical Greek professional performer of epic poetry",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/%28Venice%29_Rhapsode_by_Giandomenico_Tiepolo.jpg/250px-%28Venice%29_Rhapsode_by_Giandomenico_Tiepolo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Rhapsode"
+        },
+        {
+            "name": "Pausanias (geographer)",
+            "summary": "2nd-century AD Greek geographer",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/250px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pausanias_%28geographer%29"
+        },
+        {
+            "name": "Cædmon",
+            "summary": "Ancient English poet",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MemorialToCaedmon%28RichardThomas%29Jul2006.jpg/250px-MemorialToCaedmon%28RichardThomas%29Jul2006.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/C%C3%A6dmon"
+        }
+    ]
+}

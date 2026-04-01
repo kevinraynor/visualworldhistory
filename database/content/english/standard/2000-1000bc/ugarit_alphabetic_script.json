@@ -1,0 +1,60 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3796,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:fcf226cf81e4c320082944c5310a44f9a882c441bc41d85ca00b823464920beb",
+    "summary": "The city of [[event:1833|Ugarit]] on the Syrian coast developed one of the world's earliest alphabetic writing systems during the fourteenth and thirteenth centuries BC. The Ugaritic script consisted of thirty cuneiform signs representing consonants, with three additional signs for vowels used in writing foreign words. Unlike the hundreds of signs required for Akkadian cuneiform or Egyptian hieroglyphics, this small, learnable alphabet represented a dramatic simplification that made literacy accessible to a far wider segment of the population.\n\nUgaritic texts were impressed on clay tablets in the characteristic wedge-shaped marks of cuneiform writing, a medium familiar to Near Eastern scribes, but the underlying system was purely alphabetic rather than logographic. Scholars have debated the relationship between Ugaritic and other early alphabetic scripts, including the Proto-Sinaitic script and the [[event:1835|Phoenician alphabet]]. The evidence suggests that multiple early alphabetic experiments were underway in the Levant during the second millennium BC, with Ugaritic representing an independent or closely related tradition.\n\nThe Ugaritic textual corpus, discovered beginning with French excavations at Ras Shamra in 1929, includes administrative records, legal texts, diplomatic correspondence, and a rich body of mythological literature. The Baal Cycle, a series of poems describing the exploits of the storm god Baal and his conflicts with the sea god Yam and the death god Mot, is particularly significant for understanding Canaanite religion and its relationship to later Biblical traditions. The Ugaritic script ceased to be used when the city was destroyed around 1185 BC, likely a casualty of the [[event:1814|Sea Peoples]] incursions that disrupted the entire eastern Mediterranean.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ugaritic_alphabet",
+    "read_more_links": [
+        {
+            "title": "Ugarit - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ugarit"
+        },
+        {
+            "title": "Baal Cycle - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Baal_cycle"
+        },
+        {
+            "title": "Phoenician Alphabet - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Phoenician_alphabet"
+        },
+        {
+            "title": "History of the Alphabet - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_alphabet"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Literacy.PNG/300px-Literacy.PNG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Literacy.PNG",
+            "caption": "The slow spread of literacy. The dark blue areas were literate at around 2300...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/22_alphabet.jpg/300px-22_alphabet.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/22_alphabet.jpg",
+            "caption": "the picture depicting the w:ugarit alphabet , self-scan of Old syrian post-ca...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Stylus",
+            "summary": "Writing utensil or small tool for marking or shaping",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Table_with_was_and_stylus_Roman_times.jpg/250px-Table_with_was_and_stylus_Roman_times.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Stylus"
+        },
+        {
+            "name": "Jared Diamond",
+            "summary": "American scientist, historian, and author (born 1937)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jared_Diamond_author_academic.jpg/250px-Jared_Diamond_author_academic.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jared_Diamond"
+        }
+    ],
+    "territory_geojson": null
+}

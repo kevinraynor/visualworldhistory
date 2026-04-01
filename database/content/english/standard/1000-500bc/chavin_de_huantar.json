@@ -1,0 +1,74 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1000-500bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1979,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:0a37548b87ee90a1a1a56496cc40352c02b275812839e4789be276eae8eb7a55",
+    "summary": "Chavín de Huántar (c. 900–200 BC) was the principal ceremonial center of the Chavín culture — a monumental stone temple complex at 3,150 meters elevation in the Andean highlands of Peru that served as the focal point of a far-ranging pilgrimage network. The site features an elaborate three-dimensional stone temple with internal galleries, hidden passageways, ventilation systems, and drainage channels that would have been awe-inspiring and disorienting to pilgrims entering the sacred interior.\n\nThe main temple (the Castillo or New Temple) contains a complex network of underground galleries lit only by indirect light, in which elaborate carved stone monuments stood — most notably the Lanzón, a 4.5-meter lance-shaped stone with a smiling supernatural deity combining jaguar fangs, serpents, and human features. Sound effects produced by the gallery architecture (including conch-shell trumpets that would create disorienting echoes) enhanced the religious experience. Archaeological evidence of exotic prestige goods — obsidian from distant sources, spondylus shells from Ecuador, tropical birds and plants — documents the long-distance exchange network that both financed and spread Chavín religious influence across the Andes. Chavín de Huántar is a UNESCO World Heritage Site.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar",
+    "read_more_links": [
+        {
+            "title": "Lanzón monolith deity",
+            "url": "https://en.wikipedia.org/wiki/Lanz%C3%B3n"
+        },
+        {
+            "title": "Chavín sound archaeology",
+            "url": "https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar#Acoustics"
+        },
+        {
+            "title": "Andean exchange networks",
+            "url": "https://en.wikipedia.org/wiki/Chav%C3%ADn_culture#Trade"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chav%C3%ADn_de_Hu%C3%A1ntar_-_51148191837.jpg/300px-Chav%C3%ADn_de_Hu%C3%A1ntar_-_51148191837.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Chav%C3%ADn_de_Hu%C3%A1ntar_-_51148191837.jpg",
+            "caption": "Chavín de Huántar",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chav%C3%ADn_de_Hu%C3%A1ntar_-_51149086708.jpg/300px-Chav%C3%ADn_de_Hu%C3%A1ntar_-_51149086708.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Chav%C3%ADn_de_Hu%C3%A1ntar_-_51149086708.jpg",
+            "caption": "Chavín de Huántar",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chavin_-_Ao%C3%BBt_2007.jpg/300px-Chavin_-_Ao%C3%BBt_2007.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chavin_-_Ao%C3%BBt_2007.jpg",
+            "caption": "El Castillo, part of the Chavín de Huantar ruins",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chavin_circular_plaza_cyark.jpg/300px-Chavin_circular_plaza_cyark.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chavin_circular_plaza_cyark.jpg",
+            "caption": "The Circular Plaza Terrace was built up around the Circular Plaza in order to...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Course (architecture)",
+            "summary": "Architecture term for a layer of the same unit running horizontally in a wall",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Brick-terms-1.jpg/250px-Brick-terms-1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Course_%28architecture%29"
+        },
+        {
+            "name": "Pottery",
+            "summary": "Craft of making objects from clay",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/250px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pottery"
+        },
+        {
+            "name": "Alberto Fujimori",
+            "summary": "President of Peru from 1990 to 2000",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg/250px-Visit_of_Alberto_Fujimori%2C_President_of_Peru%2C_to_the_CEC_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Alberto_Fujimori"
+        }
+    ],
+    "territory_geojson": null
+}

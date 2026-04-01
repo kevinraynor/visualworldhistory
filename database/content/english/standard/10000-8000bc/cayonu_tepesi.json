@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1254,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:3627bc9df82699038766ab7128201b232d33937e125c28bb59ec689aabee8556",
+    "summary": "Cayonu Tepesi is an early Neolithic site in southeastern Anatolia, located near the Ergani district of Diyarbakir province in Turkey, occupied from approximately 8600 to 6000 BCE. The site is particularly significant for its long occupational sequence, which documents a remarkable series of architectural phases reflecting the evolving social organization of one of the earliest farming communities in the region.\n\nCayonu's architectural sequence — progressing from round-plan structures through increasingly sophisticated rectangular buildings with specialized functional areas — is one of the best-documented examples of architectural development in the Pre-Pottery Neolithic of the Near East. The site also contains a large building known as the Skull Building, which held the remains of hundreds of human skulls, linking it to the [[event:1323|skull cult practices]] widespread in PPNB communities. Cayonu provides some of the earliest evidence for the use of native copper for small tools and ornaments, anticipating the later [[event:1305|earliest copper technology in Anatolia]], and has yielded evidence for the cultivation of emmer wheat and einkorn among the earliest known agricultural assemblages in the region.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%87ay%C3%B6n%C3%BC",
+    "read_more_links": [
+        {
+            "title": "Pre-Pottery Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic"
+        },
+        {
+            "title": "Anatolian Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_in_Anatolia"
+        },
+        {
+            "title": "Early Copper Use - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Copper_Age"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Urfa_museum_Head_plus_gear_-_Nevali_%C3%87ori_-_Neolithic_age_-_4857.jpg/300px-Urfa_museum_Head_plus_gear_-_Nevali_%C3%87ori_-_Neolithic_age_-_4857.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Urfa_museum_Head_plus_gear_-_Nevali_%C3%87ori_-_Neolithic_age_-_4857.jpg",
+            "caption": "I did not take a note, but on the web found this totem to be from Nevalı Çori...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Standing_Stones%2C_7500_BC%2C_Diyarbak%C4%B1r_Archaeology_Museum.jpg/300px-Standing_Stones%2C_7500_BC%2C_Diyarbak%C4%B1r_Archaeology_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Standing_Stones%2C_7500_BC%2C_Diyarbak%C4%B1r_Archaeology_Museum.jpg",
+            "caption": "Diyarbakır '22\nDiyarbakır Archaeology Museum\n\nÇayönü Tepesi standing stones, ...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/%C3%87ayonu.jpg/300px-%C3%87ayonu.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/%C3%87ayonu.jpg",
+            "caption": "Qota Berçem, ciyê yekem ê niştecihiyê",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Model_house%2C_Neolithic%2C_%C3%87ay%C3%B6n%C3%BC%2C_6600-6300_BCE%2C_Diyarbak%C4%B1r_Archaeology_Museum.jpg/300px-Model_house%2C_Neolithic%2C_%C3%87ay%C3%B6n%C3%BC%2C_6600-6300_BCE%2C_Diyarbak%C4%B1r_Archaeology_Museum.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Model_house%2C_Neolithic%2C_%C3%87ay%C3%B6n%C3%BC%2C_6600-6300_BCE%2C_Diyarbak%C4%B1r_Archaeology_Museum.jpg",
+            "caption": "Diyarbakır '22\nDiyarbakır Archaeology Museum\n\nNeolithic, Çayönü, 6600-6300 BC",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

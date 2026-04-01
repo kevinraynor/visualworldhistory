@@ -1,0 +1,96 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "2000-1000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3815,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:fdbc3b186f82b9a6a8cda520264e2c2e4d1fb4aa575d07fc21401433fc9c9b4c",
+    "summary": "The term Sea Peoples refers to a loose confederation of maritime raiders and migrants who struck the eastern Mediterranean coastlands repeatedly between approximately 1250 and 1150 BC, contributing to the destabilization and eventual collapse of Late Bronze Age palace civilization. Egyptian inscriptions from the reigns of Merneptah and Ramesses III name several of these groups — including the Peleset, Tjeker, Shekelesh, Denyen, and Weshesh — and describe them as coming from islands and coastlands, sailing and marching together with their families and possessions in what appears to have been a mass migration rather than simple raiding.\n\nThe campaign of Ramesses III against the Sea Peoples, recorded in dramatic relief carvings at Medinet Habu and dated to approximately 1175 BC, describes a combined land and sea battle in which the Egyptian forces defeated a major Sea Peoples incursion at the Nile Delta. Egyptian sources portray this as a decisive victory, but it did not prevent the permanent settlement of some groups, notably the [[event:3543|Philistines]], along the Canaanite coast under some form of Egyptian oversight. The carved reliefs at Medinet Habu include depictions of the Sea Peoples' boats and the hand-to-hand fighting that characterize this period of intense maritime violence.\n\nThe origins and identities of the Sea Peoples groups remain one of the most debated questions in ancient history. Some scholars identify certain groups with Mycenaeans, Anatolians, or western Mediterranean peoples displaced by the same upheavals they were participating in, while others see them primarily as opportunistic raiders exploiting the weakness of established states. Whatever their origins, their activities formed part of the broader [[event:1815|Bronze Age Collapse]] that ended the palace economies of the Levant, Anatolia, and Greece and ushered in the Iron Age.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+    "read_more_links": [
+        {
+            "title": "Medinet Habu - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Medinet_Habu"
+        },
+        {
+            "title": "Bronze Age Collapse - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+        },
+        {
+            "title": "Ramesses III - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ramesses_III"
+        },
+        {
+            "title": "Sea Peoples - Britannica",
+            "url": "https://www.britannica.com/topic/Sea-Peoples"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg/300px-Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg",
+            "caption": "Resignature of the \"war of sea peoples\" on the northeast wall of the temple o...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Medinet_Habu_Ramses_III._Tempel_Nordostwand_08.jpg/300px-Medinet_Habu_Ramses_III._Tempel_Nordostwand_08.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Medinet_Habu_Ramses_III._Tempel_Nordostwand_08.jpg",
+            "caption": "Northeast wall of the Temple of the Dead Ramses III in Medinet Habu, Egypt",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Medinet_Habu_Ramses_III._Tempel_Erster_Hof_01.jpg/300px-Medinet_Habu_Ramses_III._Tempel_Erster_Hof_01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Medinet_Habu_Ramses_III._Tempel_Erster_Hof_01.jpg",
+            "caption": "Erster Innenhof des Totentempels Ramses’ III. in Medinet Habu, Ägypten",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Museum_of_Beirut_%E2%80%93_Resheph_obelisk.jpg/300px-National_Museum_of_Beirut_%E2%80%93_Resheph_obelisk.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/National_Museum_of_Beirut_%E2%80%93_Resheph_obelisk.jpg",
+            "caption": "National Museum of Beirut – Resheph obelisk",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ramesses III",
+            "summary": "Pharaoh of Egypt from 1186 to 1155 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/KhonsuTemple-Karnak-RamessesIII-2.jpg/250px-KhonsuTemple-Karnak-RamessesIII-2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_III"
+        },
+        {
+            "name": "Emmanuel de Rougé",
+            "summary": "French politician, philologist, and egyptologist (1811–1872)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Emmanuel_de_Roug%C3%A9_%28%C3%A9gyptologue%29.jpg/250px-Emmanuel_de_Roug%C3%A9_%28%C3%A9gyptologue%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Emmanuel_de_Roug%C3%A9"
+        },
+        {
+            "name": "Ramesses II",
+            "summary": "Pharaoh of Egypt from 1279 to 1213 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/250px-Ramses_II_British_Museum.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ramesses_II"
+        },
+        {
+            "name": "Merneptah",
+            "summary": "Pharaoh of Egypt from 1213 to 1203 BC",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Buste_de_Meremptah_%28la_Villette%2C_2023%29.jpg/250px-Buste_de_Meremptah_%28la_Villette%2C_2023%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merneptah"
+        },
+        {
+            "name": "Eduard Meyer",
+            "summary": "German historian (1855–1930)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eduard_Meyer_%281925%29.tif/lossy-page1-250px-Eduard_Meyer_%281925%29.tif.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Eduard_Meyer"
+        },
+        {
+            "name": "Merneptah Stele",
+            "summary": "Inscription by the ancient Egyptian pharaoh Merneptah",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Merneptah_Steli_%28cropped%29.jpg/250px-Merneptah_Steli_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Merneptah_Stele"
+        }
+    ],
+    "territory_geojson": null
+}

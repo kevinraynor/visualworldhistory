@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1104,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:82141e55fca28da2a538ad80395baaf150c8b0ff9a6072ceb9c0b904a0296404",
+    "summary": "The Indo-Greek Kingdom (180–10 BC) was a Hellenistic state that ruled portions of the Punjab and northwestern Indian subcontinent, representing the furthest eastern extension of Greek culture and one of the most fascinating cultural fusions in ancient history — producing a unique blend of Greek and Indian artistic, religious, and political traditions.\n\nEmerging from the breakup of the [[event:1041|Seleucid Empire]]'s eastern territories, the Indo-Greek kingdom was founded when Demetrius I of Bactria invaded India around 180 BC. The most famous ruler was [[event:1105|Menander I]], whose philosophical dialogues with the Buddhist monk Nagasena are preserved in the Milindapanha, suggesting he may have converted to Buddhism. Indo-Greek coinage combined Greek artistic conventions (realistic portraiture) with Indian languages (Kharosthi script) and symbols, illustrating the cultural synthesis characteristic of the realm. The kingdom produced some of the earliest Buddha images in human form, blending Hellenistic sculptural style with Buddhist iconography — the beginning of the [[event:1216|Gandhara Art]] tradition.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
+    "read_more_links": [
+        {
+            "title": "Menander I",
+            "url": "https://en.wikipedia.org/wiki/Menander_I"
+        },
+        {
+            "title": "Milindapanha",
+            "url": "https://en.wikipedia.org/wiki/Milindapanha"
+        },
+        {
+            "title": "Gandhara",
+            "url": "https://en.wikipedia.org/wiki/Gandhara"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/054_Cave_17%2C_Pillars_and_Inscription_%2833811675492%29.jpg/300px-054_Cave_17%2C_Pillars_and_Inscription_%2833811675492%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/054_Cave_17%2C_Pillars_and_Inscription_%2833811675492%29.jpg",
+            "caption": "Trirasmi Caves, Nashik, India\n\nPandavlena, Nashik, India",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/057_Cave_17%2C_Capital_%2833811669422%29.jpg/300px-057_Cave_17%2C_Capital_%2833811669422%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/057_Cave_17%2C_Capital_%2833811669422%29.jpg",
+            "caption": "Trirasmi Caves, Nashik, India\n\nPandavlena, Nashik, India",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Foreigners_at_Sanchi_Stupa_I_North_Gateway.jpg/300px-Foreigners_at_Sanchi_Stupa_I_North_Gateway.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Foreigners_at_Sanchi_Stupa_I_North_Gateway.jpg",
+            "caption": "Crop and formatting of attached file. \nDescribes foreigners, probably Indo-Gr...",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/058_Cave_17%2C_Standing_Buddha_%2833156344033%29.jpg/300px-058_Cave_17%2C_Standing_Buddha_%2833156344033%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/058_Cave_17%2C_Standing_Buddha_%2833156344033%29.jpg",
+            "caption": "Trirasmi Caves, Nashik, India\n\nPandavlena, Nashik, India",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Menander I",
+            "summary": "2nd-century BCE Greco-Bactrian and Indo-Greek king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Menander_I%2C_portrait_from_coinage.jpg/250px-Menander_I%2C_portrait_from_coinage.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Menander_I"
+        },
+        {
+            "name": "Demetrius I of Bactria",
+            "summary": "2nd century BC Greco-Bactrian and Indo-Greek king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Demetrius_I_portrait.jpg/250px-Demetrius_I_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Demetrius_I_of_Bactria"
+        },
+        {
+            "name": "Strato III",
+            "summary": "King of Gandhara",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Strato_II_other_coin.jpg/250px-Strato_II_other_coin.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Strato_III"
+        },
+        {
+            "name": "Hippostratus",
+            "summary": "Indo-Greek king",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hippostratos_portrait.jpg/250px-Hippostratos_portrait.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hippostratus"
+        },
+        {
+            "name": "Ptolemy",
+            "summary": "Greco-Roman astronomer and geographer (c. 100–170)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/250px-Ptolemy_1476_with_armillary_sphere_model.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ptolemy"
+        },
+        {
+            "name": "Greco-Buddhist art",
+            "summary": "Artistic syncretism between Classical Greece and Buddhist India",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gandhara_Buddha_%28tnm%29.jpeg/250px-Gandhara_Buddha_%28tnm%29.jpeg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Greco-Buddhist_art"
+        }
+    ],
+    "territory_geojson": null
+}

@@ -1,0 +1,30 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1500-1800ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2362,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:278b5f725f44689d2152794202247107698394db74909794aca6bc2a9f40f220",
+    "summary": "Galileo Galilei's telescopic observations (1609–1610 AD) were the most transformative astronomical discoveries since antiquity, using an instrument Galileo had improved from a Dutch optical toy into a powerful scientific tool to observe the moon, planets, and stars with unprecedented detail — and producing evidence that directly contradicted the Aristotelian-Ptolemaic model of a perfect, unchanging cosmos with Earth at its center. Hearing of a Dutch optical device that magnified distant objects, Galileo constructed his own telescope in 1609, rapidly improving it to 20x magnification. His observations, published in the Sidereus Nuncius ('Starry Messenger', 1610), reported findings that shocked European science: the moon was mountainous and cratered (not a perfect sphere), the Milky Way was composed of thousands of individual stars, and — most consequentially — four moons orbited Jupiter ([[event:3287|Galilean moons]]: Io, Europa, Ganymede, Callisto).\n\nThe discovery of Jupiter's moons was philosophically crucial: here was clear evidence that celestial objects orbited something other than Earth, directly undermining the geocentric argument that all heavenly bodies must revolve around our planet. Subsequent observations of the phases of Venus (1610–1611) — showing that Venus went through a complete cycle of phases like the moon, possible only if it orbited the sun — provided the most direct telescopic evidence for the Copernican heliocentric model. These discoveries made Galileo the most celebrated scientist in Europe but also brought him into conflict with Church authorities, culminating in the [[event:2472|Inquisition trial]] of 1633 in which he was forced to recant his Copernican views. His later work, the Discorsi (1638) — smuggled to the Netherlands for publication — laid the mathematical foundations of mechanics and accelerated motion that Newton would later synthesize into his [[event:3864|universal laws]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+    "read_more_links": [
+        {
+            "title": "Sidereus Nuncius 1610 Galileo telescopic discoveries",
+            "url": "https://en.wikipedia.org/wiki/Sidereus_Nuncius"
+        },
+        {
+            "title": "Galilean moons Jupiter Io Europa Ganymede Callisto",
+            "url": "https://en.wikipedia.org/wiki/Galilean_moons"
+        },
+        {
+            "title": "Phases Venus Copernican evidence heliocentric",
+            "url": "https://en.wikipedia.org/wiki/Galileo_Galilei#Phases_of_Venus"
+        }
+    ],
+    "images": [],
+    "figures": [],
+    "territory_geojson": null
+}

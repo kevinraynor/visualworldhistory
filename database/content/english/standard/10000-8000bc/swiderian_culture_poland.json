@@ -1,0 +1,50 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1337,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:1e9c30b3737faa7acf54530d53d02e0d8912f7b69005e586da387f175892ffd5",
+    "summary": "The Swiderian culture was a late Palaeolithic and early Mesolithic hunter-gatherer tradition of central and eastern Europe, particularly associated with Poland, the Baltic region, and adjacent areas, dated to approximately 11,000–8,000 BCE. Named after the site of Swidry Wielkie near Warsaw, the culture followed closely after the retreat of the Weichselian (Fennoscandian) ice sheet and represents the first human recolonization of the north-central European plain after the last glacial maximum.\n\nSwiderian communities were primarily reindeer hunters who followed the herds northward as the tundra and boreal forest zones expanded into newly deglaciated territory. Their characteristic tool kit includes distinctive tanged (stemmed) arrowheads — Swiderian points — alongside blades, burins, and scrapers typical of late Palaeolithic traditions. The Swiderian people lived in small, highly mobile groups capable of covering vast distances in pursuit of migratory prey, occupying temporary camps near lakes and rivers where reindeer could be intercepted during migrations. As the climate continued to warm and forests replaced the open tundra of the early Holocene, the Swiderian way of life gave way to the forest-adapted [[event:1282|Maglemosian]] and other Mesolithic traditions of northern Europe.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Swiderian_culture",
+    "read_more_links": [
+        {
+            "title": "European Mesolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/European_Mesolithic"
+        },
+        {
+            "title": "Poland Prehistory - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_Poland"
+        },
+        {
+            "title": "Late Paleolithic Europe - Britannica",
+            "url": "https://www.britannica.com/topic/Paleolithic-Period"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Swiderian_point_2.jpg/300px-Swiderian_point_2.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Swiderian_point_2.jpg",
+            "caption": "Swiderian willow-leaf point",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Swiderian_culture.jpg/300px-Swiderian_culture.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Swiderian_culture.jpg",
+            "caption": "Zasięg kultury świderskiej",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Finnmark",
+            "summary": "County in Northern Norway",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Silfar_canyon_in_Porsanger%2C_Troms_og_Finnmark%2C_Norway%2C_2022_August_-_2.jpg/250px-Silfar_canyon_in_Porsanger%2C_Troms_og_Finnmark%2C_Norway%2C_2022_August_-_2.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Finnmark"
+        }
+    ],
+    "territory_geojson": null
+}

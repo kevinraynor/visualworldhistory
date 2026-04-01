@@ -1,0 +1,63 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1439,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:e6ca585f3b076e33925a1efc89f4bdc3e839160e5c518846855339371e3919af",
+    "summary": "The domestication of maize (Zea mays) from its wild ancestor teosinte (Balsas teosinte, Zea mays ssp. parviglumis) in the tropical highland valleys of southwestern Mexico represents one of the most dramatic examples of transformation through human selection in the history of agriculture. Wild teosinte bears little resemblance to modern corn — its seeds are small, encased in hard shells, and arranged on tiny frail cobs — yet through thousands of years of selective cultivation, early Mesoamerican farmers transformed this unpromising grass into the high-yielding cereal that became one of the world's most important food crops.\n\nGenetic and archaeological evidence converges on the Balsas River valley region of the modern Mexican state of Guerrero as the most likely center of maize domestication, with the process beginning approximately 9000 years ago (c. 7000 BCE) and taking thousands of years to produce the recognizable early domesticated cobs found at sites like Guilá Naquitz Cave in Oaxaca and sites in the [[event:1441|Tehuacan Valley]]. The initial stages of domestication involved subtle genetic changes affecting plant architecture, seed retention, and cob size, accumulating gradually through generations of human selection.\n\nThe fully domesticated maize varieties that emerged from this long process eventually became the foundation of Mesoamerican civilization. When combined with squash and beans — the Three Sisters agricultural complex — maize provided a nutritionally complete and highly productive food system that supported the dense populations of the Olmec, Maya, Aztec, and other cultures. The subsequent spread of maize cultivation northward into North America and southward into South America transformed agricultural systems across the Western Hemisphere.\n\nMaize's global importance today — as a food crop, animal feed, and industrial raw material — makes its domestication one of the most consequential agricultural events in human history. The transformation of teosinte into modern corn represents one of the most striking demonstrations of the power of human selection to reshape the plant world.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maize#Origin",
+    "read_more_links": [
+        {
+            "title": "Maize - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Maize"
+        },
+        {
+            "title": "Teosinte - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Teosinte"
+        },
+        {
+            "title": "Three Sisters Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Three_Sisters_(agriculture)"
+        },
+        {
+            "title": "Guilá Naquitz Cave - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Guil%C3%A1_Naquitz"
+        },
+        {
+            "title": "Mesoamerican Civilizations - Britannica",
+            "url": "https://www.britannica.com/topic/Mesoamerican-civilization"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Corn_By-Product_Used_for_Livestock_Feed.jpg/300px-Corn_By-Product_Used_for_Livestock_Feed.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Corn_By-Product_Used_for_Livestock_Feed.jpg",
+            "caption": "Several cows line the fence of a cattle farm, waiting to eat. A truck drives ...",
+            "attribution": "Wikimedia Commons, CC BY 2.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MyanmarCorn3.jpg/300px-MyanmarCorn3.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/MyanmarCorn3.jpg",
+            "caption": "Hand-picking harvest of maize in Myanmar.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Corn_blooming.jpg/300px-Corn_blooming.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Corn_blooming.jpg",
+            "caption": "Zea mays (Corn blooming)",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Corn_in_regional_NSW%2C_Australia%2C_2022.jpg/300px-Corn_in_regional_NSW%2C_Australia%2C_2022.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Corn_in_regional_NSW%2C_Australia%2C_2022.jpg",
+            "caption": "A seed corn crop pictured in 2022 in regional New South Wales, Australia",
+            "attribution": "Wikimedia Commons, CC BY 4.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

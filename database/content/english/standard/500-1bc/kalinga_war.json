@@ -1,0 +1,56 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1099,
+    "parent_id": 1098,
+    "granularity": "notable",
+    "content_hash": "sha256:f0092b9cf44f200dc009fdec735a3a5b61221901742b246410b36e5d1d6ebdd5",
+    "summary": "The Kalinga War (261 BC) was the final military conquest of [[event:1098|Ashoka the Great]] and the event that precipitated his conversion to Buddhism and his renunciation of war as an instrument of policy — making it one of antiquity's most consequential battles not for its immediate political results but for the moral and religious transformation it reportedly triggered. Kalinga (modern Odisha on India's eastern coast) was the last major independent kingdom not yet under Mauryan control.\n\nThe conquest was brutal: [[event:1100|Edicts of Ashoka]] record that 100,000 people were killed, many more died from the indirect effects of war, and 150,000 were deported. Unlike most royal inscriptions of antiquity, which celebrate conquest, Ashoka's rock edicts about Kalinga express deep remorse: 'Beloved-of-the-Gods, King Piyadasi, is deeply pained by the killing, dying, and deportation that take place when an unconquered country is conquered... Even those who are not affected by all this suffer when they see friends, acquaintances, companions, and relatives affected.'\n\nThis public expression of regret and the policy changes that followed — the rejection of further military expansion, the emphasis on dharma-conquest over military conquest, the welfare programs, the religious tolerance — made the Kalinga War the turning point of Ashoka's reign and the beginning of his historical legacy as the exemplary Buddhist ruler. Whether the transformation was as sudden and complete as Ashoka's own account suggests, or a more gradual process given literary form in retrospect, historians debate; its consequences for the spread of Buddhism are beyond dispute.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kalinga_War",
+    "read_more_links": [
+        {
+            "title": "Ashoka",
+            "url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "title": "Edicts of Ashoka",
+            "url": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka"
+        },
+        {
+            "title": "Kalinga",
+            "url": "https://en.wikipedia.org/wiki/Kalinga_(historical_region)"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dhauli_Shanti_Stupa%2C_Bhubaneswar.jpg/300px-Dhauli_Shanti_Stupa%2C_Bhubaneswar.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dhauli_Shanti_Stupa%2C_Bhubaneswar.jpg",
+            "caption": "Dhauli Shanti Stupa, Bhubaneswar",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Chandragupta_Maurya_Empire.png/300px-Chandragupta_Maurya_Empire.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Chandragupta_Maurya_Empire.png",
+            "caption": "The en:Maurya Empire after en:Bindusara's death 269.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ashoka",
+            "summary": "Mauryan emperor from 269 to 232 BCE",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/250px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ashoka"
+        },
+        {
+            "name": "Chandragupta Maurya",
+            "summary": "Founder of the Maurya Empire (340–295 BCE)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lomas_Rishi_entrance.jpg/250px-Lomas_Rishi_entrance.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Chandragupta_Maurya"
+        }
+    ],
+    "territory_geojson": null
+}

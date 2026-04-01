@@ -1,0 +1,92 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "500-1bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1080,
+    "parent_id": 72,
+    "granularity": "detailed",
+    "content_hash": "sha256:9006cadc4a3233c2bab90a46d85cd5b10dac21a706629142d46d141c1bb4f4ff",
+    "summary": "The Second Triumvirate (43–32 BC) was a formal constitutional arrangement — unlike the informal [[event:1073|First Triumvirate]] — that granted three men, Octavian (the future [[event:1083|Augustus - First Roman Emperor]]), Mark Antony, and Marcus Lepidus, dictatorial powers over Rome for five years (later renewed) to 'restore the Republic.' In practice, it was a vehicle for eliminating their enemies and fighting the remaining opposition to Caesar's legacy.\n\nThe Triumvirs began their rule with proscriptions more extensive than [[event:1071|Sulla's Dictatorship]], listing hundreds of senators and equestrians for death and property confiscation. Among the most famous victims was [[event:1095|Cicero and Roman Oratory]], Cicero, murdered on Antony's insistence despite his great fame — his hands and head were nailed to the Rostra in the Forum. The [[event:1081|Battle of Philippi]] in 42 BC destroyed the last Caesarian opponents. The Triumvirs then divided the Roman world: Antony took the wealthy east, Octavian the west (including the difficult job of settling veterans in Italy), and Lepidus Africa.\n\nThe alliance deteriorated steadily. Lepidus was neutralized in 36 BC after attempting to seize Sicily from Octavian. Antony's alliance with [[event:1048|Cleopatra VII]] and apparent preference for an eastern empire alarmed Rome and provided Octavian the propaganda he needed to frame the final conflict as a patriotic war against an eastern queen rather than a Roman civil war. The Triumvirate formally ended in 32 BC, leading to the final confrontation at [[event:1082|Battle of Actium]].",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Second_Triumvirate",
+    "read_more_links": [
+        {
+            "title": "Mark Antony",
+            "url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "title": "Augustus",
+            "url": "https://en.wikipedia.org/wiki/Augustus"
+        },
+        {
+            "title": "Battle of Philippi",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Philippi"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Roman-Empire-39BC-sm.png/300px-Roman-Empire-39BC-sm.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Roman-Empire-39BC-sm.png",
+            "caption": "Karte des Römischen Reiches nach dem Vertrag von Misenum 39 v. Chr.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Roman-Empire-43BC.png/300px-Roman-Empire-43BC.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Roman-Empire-43BC.png",
+            "caption": "Adaptée de File:Roman-Empire-39BC-sm.png. Version provisoire.",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Death_of_Caesar_-_Walters_37884.jpg/300px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Death_of_Caesar_-_Walters_37884.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Death_of_Caesar_-_Walters_37884.jpg",
+            "caption": "Julius Caesar was assassinated in Rome on the Ides of March (March 15), 44 BC...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Augustus_Statue.JPG/300px-Augustus_Statue.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Augustus_Statue.JPG",
+            "caption": "A statue of the first Roman Emperor Augustus (r. 27 BC - 14 AD) as a younger ...",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Mark Antony",
+            "summary": "Roman politician and general (83–30 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Octavian_and_Antony_denarius_%28obverse%29.jpg/250px-Octavian_and_Antony_denarius_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Mark_Antony"
+        },
+        {
+            "name": "Lepidus",
+            "summary": "Roman politician and general (89–13/12 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg/250px-Denarius_of_Lepidus_and_Octavian_%28obverse%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Lepidus"
+        },
+        {
+            "name": "Sextus Pompey",
+            "summary": "Roman politician and general (c. 67–35 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Aureus_Sextus_Pompeius_42BC_Goldberg_%28cropped%29.jpg/250px-Aureus_Sextus_Pompeius_42BC_Goldberg_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Sextus_Pompey"
+        },
+        {
+            "name": "Pompey",
+            "summary": "Roman general and statesman (106–48 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/250px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Pompey"
+        },
+        {
+            "name": "First Triumvirate",
+            "summary": "Alliance between Roman politicians Caesar, Pompey and Crassus",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/C%C3%A9sar_%2813667960455%29.jpg/250px-C%C3%A9sar_%2813667960455%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/First_Triumvirate"
+        },
+        {
+            "name": "Jean-Léon Gérôme",
+            "summary": "French painter and sculptor (1824–1904)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jean-Leon_Gerome.jpg/250px-Jean-Leon_Gerome.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-L%C3%A9on_G%C3%A9r%C3%B4me"
+        }
+    ],
+    "territory_geojson": null
+}

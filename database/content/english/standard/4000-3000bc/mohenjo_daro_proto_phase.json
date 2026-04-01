@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "4000-3000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1681,
+    "parent_id": 1680,
+    "granularity": "notable",
+    "content_hash": "sha256:78cbecd65597cfbb43d2f66dc5ee6c050028027a60a9e6fa21e7abcf14b76e61",
+    "summary": "Mohenjo-daro, located on the right bank of the ancient Indus River in what is now Sindh province, Pakistan, was one of the two major urban centers of the [[event:1680|Indus Valley Civilization]]. During the proto-phase of its occupation (approximately 3300-3000 BCE), the site was already developing into a substantial settlement, laying the physical and cultural foundations for the great planned city that would emerge during the mature Harappan phase after 2600 BCE.\n\nThe name Mohenjo-daro is Sindhi for Mound of the Dead Men, a modern name referring to the archaeological mounds rather than an ancient designation — the original name of the city in its own (undeciphered) language is unknown. The proto-phase occupation is partially obscured by the later city built on top of it, but stratigraphic excavations have confirmed long pre-mature-phase occupation, with the site already showing the distinctive fired-brick construction, planned street alignments, and drainage infrastructure that would become hallmarks of Harappan urbanism.\n\nThe city's location in the lower Indus plain gave it access to the agricultural resources of the surrounding alluvial lands, while the river provided both a water source and a trade artery. The distinctive standardization of Harappan material culture — including the use of weights and measures of consistent ratios found across sites hundreds of kilometers apart — was already beginning to develop during the early phase, suggesting growing economic integration across the Indus network.\n\nMohenjo-daro at its mature peak would become one of the largest cities in the ancient world, covering approximately 250 hectares and housing an estimated 40,000-80,000 inhabitants in a grid of carefully planned streets with an elaborate municipal drainage system unparalleled in the ancient world. The proto-phase laid the urban foundations for this achievement and situates Mohenjo-daro within the broader context of fourth-millennium urbanism that also saw the rise of [[event:1617|Uruk]] in Mesopotamia and the first cities of Egypt.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+    "read_more_links": [
+        {
+            "title": "Indus Valley Civilisation - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+        },
+        {
+            "title": "Mohenjo-daro - Britannica",
+            "url": "https://www.britannica.com/place/Mohenjo-daro"
+        },
+        {
+            "title": "Harappan Civilization - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#Mature_Harappan"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Other_side_of_Moenjodaro_by_Usman_Ghani.jpg/300px-Other_side_of_Moenjodaro_by_Usman_Ghani.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Other_side_of_Moenjodaro_by_Usman_Ghani.jpg",
+            "caption": "This is a photo of a monument in Pakistan identified as the",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Great_bath_view_Mohenjodaro.JPG/300px-Great_bath_view_Mohenjodaro.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Great_bath_view_Mohenjodaro.JPG",
+            "caption": "The Great Bath. A 2.4m deep, 12m long, and 7m wide pool known as \"The Great B...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mohenjo-daro.jpg/300px-Mohenjo-daro.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mohenjo-daro.jpg",
+            "caption": "Excavated ruins of Mohenjo-daro, with the Great Bath in the foreground and th...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mohenjodaro_-_view_of_the_stupa_mound.JPG/300px-Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+            "caption": "A view of the Buddhist stupa in the background located in the higher settleme...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

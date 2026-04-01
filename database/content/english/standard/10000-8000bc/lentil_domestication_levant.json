@@ -1,0 +1,68 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1326,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:518b5f6b8f4974a4aee14fe5f5f1b6b226cb0deab3b9084909338cfa00c717bc",
+    "summary": "The lentil (Lens culinaris) was domesticated from wild Lens orientalis in the Fertile Crescent, with the domestication process believed to have occurred in the Levant and adjacent areas during the period 9000–7000 BCE. Lentils are one of the \"founder crops\" of Near Eastern agriculture — a suite of plants including emmer wheat, einkorn wheat, barley, peas, bitter vetch, and flax that were brought into cultivation at roughly the same time and in the same region during the early Neolithic period.\n\nLentils are among the earliest legumes to have been domesticated and were an important source of dietary protein in early farming communities that relied heavily on grain crops for carbohydrates. The nitrogen-fixing properties of legumes also benefited soil fertility when lentils were grown in rotation with cereals, a benefit that early Neolithic farmers likely observed empirically even without understanding the underlying chemistry. Evidence for cultivated lentils appears in the botanical assemblages of PPNB sites across the Levant and Anatolia, and the crop spread westward into Europe and eastward into South Asia with the expansion of Neolithic farming populations. Lentils remain a staple crop across the Middle East, South Asia, and the Mediterranean today, testament to the enduring importance of this early agricultural domestication.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lentil",
+    "read_more_links": [
+        {
+            "title": "Founder Crops - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Founder_crops"
+        },
+        {
+            "title": "Neolithic Agriculture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Neolithic_Revolution"
+        },
+        {
+            "title": "Legume Domestication - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Legume"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Split_Red_Lentil.jpg/300px-Split_Red_Lentil.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Split_Red_Lentil.jpg",
+            "caption": "Picture of Split Red Lentil seeds. Size is approximately 6mm.",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Llenties_maig.JPG/300px-Llenties_maig.JPG",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Llenties_maig.JPG",
+            "caption": "Lentil plants 75 days after emergence, Castelltallat, Catalonia",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/300px-3_types_of_lentil.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/3_types_of_lentil.png",
+            "caption": "3 lentils with transparent background.",
+            "attribution": "Wikimedia Commons, CC BY-SA 2.5"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Illustration_Lens_culinaris0.jpg/300px-Illustration_Lens_culinaris0.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Illustration_Lens_culinaris0.jpg",
+            "caption": "Illustration Lens culinaris0",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dal",
+            "summary": "Dried, split pulses used for cooking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/250px-3_types_of_lentil.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dal"
+        },
+        {
+            "name": "Cicero",
+            "summary": "Roman statesman and lawyer (106–43 BC)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/250px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Cicero"
+        }
+    ],
+    "territory_geojson": null
+}

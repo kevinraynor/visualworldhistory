@@ -1,0 +1,55 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3840,
+    "parent_id": null,
+    "granularity": "detailed",
+    "content_hash": "sha256:ac5024c538eec75dcd0e48a2f9f3cc6c3c21cd0f14fb17287561abde629eec4d",
+    "summary": "The [[event:4|Natufian culture]] of the Levant, flourishing roughly between 12,500 and 9,500 BCE, developed some of the earliest and most elaborate mortuary practices documented in the prehistoric Near East. Natufian communities buried their dead within or immediately adjacent to habitation sites — beneath house floors, in refuse middens, and in dedicated cemetery areas — a pattern that marked a significant departure from the more dispersed burial practices of earlier Paleolithic peoples. This close spatial relationship between the living and the dead reflects an emerging attachment to place and ancestry that is closely connected to the broader Natufian transition toward semi-sedentary or sedentary settlement.\n\nNatufian burials display considerable variation in treatment of the body. Primary inhumations — burials of articulated, intact bodies — are common in earlier phases, often placed in a flexed position in shallow pits lined with stones. Secondary burials, in which bones were disinterred, sorted, and reburied after defleshing, became increasingly common in later Natufian phases and may reflect multi-stage mortuary rituals involving the curation of ancestral remains. Grave goods recovered from Natufian burials include perforated shells, bone pendants, animal teeth, and stone beads, indicating that the deceased were interred with personal ornaments that likely signified social identity or status during life. A small number of individuals — sometimes interpreted as shamans, ritual specialists, or community leaders — received unusually rich grave assemblages, hinting at nascent social differentiation.\n\nParticularly striking among Natufian mortuary finds is the evidence for feasting associated with burial events. At Hilazon Tachtit cave in northern Israel, the grave of an elderly woman dated to around 12,000 BCE contained the remains of large quantities of animal food, tortoise shells, and other materials interpreted as the remnants of a communal funerary feast. Such evidence suggests that burial was not merely a practical act of disposal but a social event that reinforced community bonds and perhaps enacted beliefs about the afterlife or the continuing agency of the dead. The Natufian mortuary complex thus reveals a community deeply invested in commemorating and integrating the dead into the ongoing life of the living.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Natufian_culture",
+    "read_more_links": [
+        {
+            "title": "Hilazon Tachtit - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Hilazon_Tachtit"
+        },
+        {
+            "title": "Prehistoric burial - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Burial"
+        },
+        {
+            "title": "Natufian Culture - Britannica",
+            "url": "https://www.britannica.com/topic/Natufian-culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Limestone_%26_basalt_mortars_from_Eynan%2C_early_Natufian_circa_12500_BC.jpg/300px-Limestone_%26_basalt_mortars_from_Eynan%2C_early_Natufian_circa_12500_BC.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Limestone_%26_basalt_mortars_from_Eynan%2C_early_Natufian_circa_12500_BC.jpg",
+            "caption": "Limestone & Basalt Mortars Early Natufian circa 12000 BC Israel Museum, Jerus...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Stone_Mortars_from_Eynan%2C_Natufian_period.jpg/300px-Stone_Mortars_from_Eynan%2C_Natufian_period.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Stone_Mortars_from_Eynan%2C_Natufian_period.jpg",
+            "caption": "Stone Mortars from Eynan, Natufian period\nIsrael Museum, Jerusalem, Israel. C...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Basalt_%26_Limestone_Mortar_%26_Pestle%2C_Natufian_Culture.jpg/300px-Basalt_%26_Limestone_Mortar_%26_Pestle%2C_Natufian_Culture.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Basalt_%26_Limestone_Mortar_%26_Pestle%2C_Natufian_Culture.jpg",
+            "caption": "Basalt & Limestone Mortar & Pestle, Natufian Culture\nIsrael Museum, Jerusalem...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Israel_Museum_Stone_Age_Artifact.jpg/300px-Israel_Museum_Stone_Age_Artifact.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Israel_Museum_Stone_Age_Artifact.jpg",
+            "caption": "Israel Museum Stone Age Artifact Israel Museum, Jerusalem, Israel. Complete i...",
+            "attribution": "Wikimedia Commons, CC0"
+        }
+    ],
+    "figures": [],
+    "territory_geojson": null
+}

@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "10000-8000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1258,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:2bb3d2179c3bc25a0de9efdd9a38761ae483b7e1aeac9e1033d828b8d37e68c7",
+    "summary": "The domestic goat (Capra hircus) was domesticated from the wild bezoar ibex (Capra aegagrus) in the Zagros Mountains of western Iran and adjacent areas of the northern Fertile Crescent, with the process well documented by approximately 9000–8000 BCE. Goats were among the earliest herd animals brought under human management, roughly contemporaneous with the domestication of [[event:5|sheep in Mesopotamia]], and the two species frequently appear together in early Neolithic faunal assemblages.\n\nArchaeological evidence for goat domestication includes demographic changes in kill patterns — a shift toward culling young males while retaining breeding females — and eventually osteological changes in horn and limb morphology that distinguish domesticated from wild populations. Key sites documenting early goat domestication include Ganj Dareh and [[event:1357|Ali Kosh]] in the Zagros, and the process spread rapidly westward into the Levant and Anatolia as part of the broader Neolithic package.\n\nGoats provided early farming communities with milk, meat, hide, horn, and fiber (from later mohair-producing breeds). Their adaptability to marginal, rocky, and semi-arid environments where sheep and cattle could not thrive made them indispensable to pastoral and agropastoral economies across the ancient Near East, Mediterranean, and eventually sub-Saharan Africa. Goat herding was a fundamental component of the subsistence strategies at major Neolithic sites including [[event:7|Ain Ghazal]] and numerous PPNB villages throughout the Levant.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Goat#Domestication",
+    "read_more_links": [
+        {
+            "title": "Capra aegagrus - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wild_goat"
+        },
+        {
+            "title": "Zagros Mountains Neolithic - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Zagros_Mountains"
+        },
+        {
+            "title": "Animal Domestication - Britannica",
+            "url": "https://www.britannica.com/topic/history-of-agriculture"
+        },
+        {
+            "title": "Ganj Dareh - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ganj_Dareh"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Goats_in_landscape_management_at_German_Highway_B_42._Spielvogel_2013.jpg/300px-Goats_in_landscape_management_at_German_Highway_B_42._Spielvogel_2013.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Goats_in_landscape_management_at_German_Highway_B_42._Spielvogel_2013.jpg",
+            "caption": "Goats in landscape management at German Highway B 42 near Bonn.",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Capra_hircus_%26_Homo_sapiens_%2855026684731%29.jpg/300px-Capra_hircus_%26_Homo_sapiens_%2855026684731%29.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Capra_hircus_%26_Homo_sapiens_%2855026684731%29.jpg",
+            "caption": "Capra hircus and Homo sapiens at Copenhagen Zoo in Frederiksberg, Copenhagen....",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kleine_Ziegen_im_Tiergehege.jpg/300px-Kleine_Ziegen_im_Tiergehege.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Kleine_Ziegen_im_Tiergehege.jpg",
+            "caption": "Zwergziegen im Tiergehege Frankenthal Pfalz im Sommer [1]",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/10.36_Ziegenherde_am_Tell.jpg/300px-10.36_Ziegenherde_am_Tell.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/10.36_Ziegenherde_am_Tell.jpg",
+            "caption": "Ziegenherde am Tell",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Dominance hierarchy",
+            "summary": "Type of socially subordinate ranking",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mandrillus_sphinx_%28alpha_male%29.jpg/250px-Mandrillus_sphinx_%28alpha_male%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Dominance_hierarchy"
+        }
+    ],
+    "territory_geojson": null
+}

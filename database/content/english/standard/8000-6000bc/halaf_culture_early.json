@@ -1,0 +1,66 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "8000-6000bc",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 1405,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:ad12cc8a0719e872ed9b04abc34005ee575e9c02bce8fb0ccc3add7183a4560b",
+    "summary": "The Halaf culture, named after the site of Tell Halaf in northeastern Syria and dated broadly from approximately 6100 to 5400 BCE, represents one of the most widespread and culturally distinctive Neolithic cultures of the ancient Near East. It emerged in the upper Khabur basin region of northern Syria and spread across a large territory encompassing northern Mesopotamia, southeastern Anatolia, and the northern Levant — an extraordinary geographic reach for a prehistoric culture. The Halaf is recognized above all for its stunning polychrome painted pottery, featuring complex geometric and naturalistic designs in red, black, and cream that are widely regarded as among the most aesthetically accomplished ceramics of the prehistoric Near East.\n\nHalaf communities lived in small to medium-sized villages and practiced dry farming of wheat and barley supplemented by herding and hunting. A distinctive architectural feature of Halaf settlements is the tholos — a circular, domed building often built in association with rectangular antechambers — which appears at multiple Halaf sites and may have served both residential and communal functions. The widespread appearance of similar pottery styles and architectural forms across a vast area suggests significant interaction and contact between Halaf communities, possibly through exchange networks, seasonal mobility, or shared cultural practices maintained across communities.\n\nThe Halaf culture succeeded the earlier [[event:1403|Hassuna]] and [[event:1404|Samarra]] traditions in northern Mesopotamia and coexisted with the emerging [[event:39|Ubaid culture]] of the south before eventually being absorbed by or transformed into Ubaid-influenced communities across the region. This Halaf-Ubaid transition, visible archaeologically in the gradual replacement of Halaf ceramics by Ubaid-style wares, represents one of the major cultural transitions of late prehistoric Mesopotamia.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Halaf_culture",
+    "read_more_links": [
+        {
+            "title": "Tell Halaf - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tell_Halaf"
+        },
+        {
+            "title": "Ubaid Period - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ubaid_period"
+        },
+        {
+            "title": "Neolithic Mesopotamia - Britannica",
+            "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia"
+        },
+        {
+            "title": "Samarra Culture - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Samarra_culture"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bowl_fragment_MET_DP368821.jpg/300px-Bowl_fragment_MET_DP368821.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bowl_fragment_MET_DP368821.jpg",
+            "caption": "Halaf; Bowl; Ceramics-Vessels",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Halaf_culture_pottery%2C_zoomorphic_porcupine_vase%2C_painted._Circa_5000_BCE._From_Tell_Arpachiyah%2C_Iraq._Iraq_Museum%2C_Baghdad.jpg/300px-Halaf_culture_pottery%2C_zoomorphic_porcupine_vase%2C_painted._Circa_5000_BCE._From_Tell_Arpachiyah%2C_Iraq._Iraq_Museum%2C_Baghdad.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Halaf_culture_pottery%2C_zoomorphic_porcupine_vase%2C_painted._Circa_5000_BCE._From_Tell_Arpachiyah%2C_Iraq._Iraq_Museum%2C_Baghdad.jpg",
+            "caption": "Halaf culture pottery, zoomorphic porcupine vase, painted, hollow. Probably w...",
+            "attribution": "Wikimedia Commons, CC BY-SA 4.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Stamp_seal_and_modern_impression-_geometric_pattern_MET_DP104233.jpg/300px-Stamp_seal_and_modern_impression-_geometric_pattern_MET_DP104233.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Stamp_seal_and_modern_impression-_geometric_pattern_MET_DP104233.jpg",
+            "caption": "Halaf; Stamp seal; Stone-Stamp Seals",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mesopotamian_Prehistorical_cultures.jpg/300px-Mesopotamian_Prehistorical_cultures.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mesopotamian_Prehistorical_cultures.jpg",
+            "caption": "Mesopotamian Prehistorical cultures",
+            "attribution": "Wikimedia Commons, CC BY 3.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Hill people",
+            "summary": "General demonym for people who live at elevation",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/CIA_Hand_Rendered_Terrain_Map_%2830253172314%29.jpg/250px-CIA_Hand_Rendered_Terrain_Map_%2830253172314%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Hill_people"
+        }
+    ],
+    "territory_geojson": null
+}

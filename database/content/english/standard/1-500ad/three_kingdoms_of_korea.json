@@ -1,0 +1,80 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1-500ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 2091,
+    "parent_id": null,
+    "granularity": "notable",
+    "content_hash": "sha256:89fbe91c1e1b35eb784e3ed05e7bfb11bb092654364ef0365d8a6e6d227c2326",
+    "summary": "The Three Kingdoms of Korea (c. 57 BC–668 AD — Goguryeo in the north, Baekje in the southwest, and Silla in the southeast) represent the first clearly defined Korean states and the political framework within which Korean identity, culture, and civilization took its classical form. The three kingdoms absorbed Chinese administrative models, Buddhism, and Confucian thought while developing their own distinctive cultures; they also served as the primary conduit through which Chinese (and Buddhist) civilization was transmitted to Japan, making Korea one of the most important cultural intermediaries in East Asian history.\n\nGoguryeo, the largest and most militarily powerful, controlled much of Manchuria and the northern peninsula and maintained a vigorous independence against Chinese imperial pressure — famously repelling Sui Dynasty invasions in the early 7th century (which contributed to the Sui's collapse). Baekje was particularly important as a transmitter of Buddhism and Chinese culture to Japan, with the Baekje court sending Buddhist monks, craftsmen, and scholars to the Yamato court. Silla, initially the weakest, ultimately unified the peninsula in 668 AD by allying with the Tang Dynasty of China to defeat Goguryeo and Baekje — then successfully maneuvering to prevent Tang from annexing the unified kingdom, establishing the United Silla state that ruled the peninsula until 935 AD.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Kingdoms_of_Korea",
+    "read_more_links": [
+        {
+            "title": "Goguryeo military resistance Sui",
+            "url": "https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_War"
+        },
+        {
+            "title": "Baekje transmission to Japan",
+            "url": "https://en.wikipedia.org/wiki/Baekje#Relations_with_Japan"
+        },
+        {
+            "title": "Silla unification 668",
+            "url": "https://en.wikipedia.org/wiki/Silla#Unification"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pensive_Bodhisattva_02.jpg/300px-Pensive_Bodhisattva_02.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Pensive_Bodhisattva_02.jpg",
+            "caption": "Gilt-bronze Maitreya in Meditation (National Treasure No. 83). H. 93.5 cm.",
+            "attribution": "Wikimedia Commons, KOGL Type 1"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/7th_century_painting_of_Koreans.png/300px-7th_century_painting_of_Koreans.png",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/7th_century_painting_of_Koreans.png",
+            "caption": "7th century Tang dynasty painting of envoys from the Three Kingdoms of Korea:...",
+            "attribution": "Wikimedia Commons, Public domain"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%EB%B0%B1%EC%A0%9C_%EA%B8%88%EB%8F%99%EB%8C%80%ED%96%A5%EB%A1%9C.jpg/300px-%EB%B0%B1%EC%A0%9C_%EA%B8%88%EB%8F%99%EB%8C%80%ED%96%A5%EB%A1%9C.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%EB%B0%B1%EC%A0%9C_%EA%B8%88%EB%8F%99%EB%8C%80%ED%96%A5%EB%A1%9C.jpg",
+            "caption": "Great Gilt-bronze Incense Burner of Baekje, National Treasure of Republic of ...",
+            "attribution": "Wikimedia Commons, KOGL Type 1"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Korea-Goguryeo-Roof.tiles-01.jpg/300px-Korea-Goguryeo-Roof.tiles-01.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Korea-Goguryeo-Roof.tiles-01.jpg",
+            "caption": "en:Goguryeo roof tiles, en:Three Kingdoms of Korea period.",
+            "attribution": "Wikimedia Commons, Public domain"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Gwanggaeto the Great",
+            "summary": "19th King of Goguryeo (r. 391–413)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gwanggaeto_Stele_5.jpg/250px-Gwanggaeto_Stele_5.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Gwanggaeto_the_Great"
+        },
+        {
+            "name": "Jangsu of Goguryeo",
+            "summary": "20th King of Goguryeo (r. 413–491)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tomb_of_the_General_1.jpg/250px-Tomb_of_the_General_1.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Jangsu_of_Goguryeo"
+        },
+        {
+            "name": "Geunchogo of Baekje",
+            "summary": "13th King of Baekje (r. 346–375)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Seoul_Seokchon-dong_Gobungun-1.JPG/250px-Seoul_Seokchon-dong_Gobungun-1.JPG",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Geunchogo_of_Baekje"
+        },
+        {
+            "name": "Buyeo County",
+            "summary": "County in South Chungcheong, South Korea",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Buyeo_National_Museum_%2820160719_1%29.png/250px-Buyeo_National_Museum_%2820160719_1%29.png",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Buyeo_County"
+        }
+    ],
+    "territory_geojson": null
+}

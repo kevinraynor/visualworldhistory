@@ -1,0 +1,86 @@
+{
+    "language": "english",
+    "type": "standard",
+    "era": "1900-2000ad",
+    "version": "3.0",
+    "template_version": "3.0",
+    "event_id": 3466,
+    "parent_id": 114,
+    "granularity": "detailed",
+    "content_hash": "sha256:af6709a0bb355841b85427778d82bb2147ec741c2d8b595b4258b11740c7105b",
+    "summary": "1960 is remembered as the Year of Africa because seventeen African countries gained independence from European colonial rule in that single year, representing the most dramatic acceleration of the [[event:114|decolonization of Africa]]. The newly independent states included Nigeria, Senegal, Mali, Ivory Coast, Cameroon, Togo, Madagascar, the Democratic Republic of the Congo, Somalia, Benin, Niger, Burkina Faso, Chad, Gabon, the Central African Republic, Mauritania, and others. France granted independence to most of its West and Equatorial African territories, while Belgium relinquished the Congo.\n\nThe year transformed the composition of the United Nations: the seventeen new members nearly doubled the organization's African membership and shifted the General Assembly's balance of power toward newly independent developing nations. The Year of Africa symbolized the collapse of the European colonial order that had dominated the continent since the late nineteenth century. However, independence did not automatically resolve deep structural problems inherited from colonialism, including arbitrary borders, inadequate infrastructure, underdeveloped economies, and inexperienced institutions, challenges that would shape African political history for the remainder of the century.",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Year_of_Africa",
+    "read_more_links": [
+        {
+            "title": "Decolonisation of Africa",
+            "url": "https://en.wikipedia.org/wiki/Decolonisation_of_Africa"
+        },
+        {
+            "title": "Independence of the Congo",
+            "url": "https://en.wikipedia.org/wiki/Independence_of_the_Congo"
+        },
+        {
+            "title": "Post-colonial Africa",
+            "url": "https://en.wikipedia.org/wiki/Postcolonial_Africa"
+        }
+    ],
+    "images": [
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Semaine_des_barricades_Alger_1960_Haute_Qualit%C3%A9.jpg/300px-Semaine_des_barricades_Alger_1960_Haute_Qualit%C3%A9.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Semaine_des_barricades_Alger_1960_Haute_Qualit%C3%A9.jpg",
+            "caption": "Baricades set up during the Algerian War of Independence. January 1960. Stree...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/LumumbaBrussel1960.jpg/300px-LumumbaBrussel1960.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/LumumbaBrussel1960.jpg",
+            "caption": "De Congolese leider Patrice Loemoemba in Brussel\nDatum 26 januari 1960\n\nLocat...",
+            "attribution": "Wikimedia Commons, CC0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Murder_at_Sharpeville_21_March_1960.jpg/300px-Murder_at_Sharpeville_21_March_1960.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Murder_at_Sharpeville_21_March_1960.jpg",
+            "caption": "Painting of the Sharpeville massacre, which took place 21 March 1960, Sharpev...",
+            "attribution": "Wikimedia Commons, CC BY-SA 3.0"
+        },
+        {
+            "thumb_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_National_Archives_UK_-_CO_1069-124-8.jpg/300px-The_National_Archives_UK_-_CO_1069-124-8.jpg",
+            "full_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/The_National_Archives_UK_-_CO_1069-124-8.jpg",
+            "caption": "Dr Kenneth Kaunda with United National Independence Party supporters after a ...",
+            "attribution": "Wikimedia Commons, OGL v1.0"
+        }
+    ],
+    "figures": [
+        {
+            "name": "Ralph Bunche",
+            "summary": "American diplomat and political scientist",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ralph_Bunche_-_1963_March_on_Washington.jpg/250px-Ralph_Bunche_-_1963_March_on_Washington.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Ralph_Bunche"
+        },
+        {
+            "name": "Wind of Change (speech)",
+            "summary": "1960 speech by British Prime Minister Harold Macmillan",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_National_Archives_UK_-_CO_1069-1-5.jpg/250px-The_National_Archives_UK_-_CO_1069-1-5.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Wind_of_Change_%28speech%29"
+        },
+        {
+            "name": "Kwame Nkrumah",
+            "summary": "Ghanaian politician (1909–1972)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg/250px-Kwame_Nkrumah_Portrait%2C_The_National_Archives_UK.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah"
+        },
+        {
+            "name": "Patrice Lumumba",
+            "summary": "Congolese politician and independence leader (1925–1961)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Patrice_Lumumba%2C_1960_%28cropped%29.jpg/250px-Patrice_Lumumba%2C_1960_%28cropped%29.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Patrice_Lumumba"
+        },
+        {
+            "name": "Le Grand Kallé",
+            "summary": "Congolese musician (1930–1983)",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Joseph_Kabasele_promotional_photo.jpg",
+            "wikipedia_url": "https://en.wikipedia.org/wiki/Le_Grand_Kall%C3%A9"
+        }
+    ],
+    "territory_geojson": null
+}
