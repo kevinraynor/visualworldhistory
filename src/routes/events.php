@@ -8,7 +8,7 @@ return function (RouteCollectorProxy $group) {
     $group->get('/events', function ($request, $response) {
         $db = Database::getConnection();
 
-        $stmt = $db->query('SELECT id, name, year_start, year_end, lat, lng, dot_radius, category, granularity FROM events ORDER BY year_start');
+        $stmt = $db->query('SELECT id, name, year_start, year_end, lat, lng, dot_radius, category, granularity, parent_id FROM events ORDER BY year_start');
         $events = $stmt->fetchAll();
 
         // Cast numeric fields
@@ -19,6 +19,7 @@ return function (RouteCollectorProxy $group) {
             $event['lat'] = (float)$event['lat'];
             $event['lng'] = (float)$event['lng'];
             $event['dot_radius'] = (int)$event['dot_radius'];
+            $event['parent_id'] = $event['parent_id'] !== null ? (int)$event['parent_id'] : null;
         }
 
         $response->getBody()->write(json_encode($events));

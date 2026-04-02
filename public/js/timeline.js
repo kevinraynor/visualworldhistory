@@ -179,6 +179,24 @@ function draw() {
     ctx.beginPath();
     ctx.arc(handleX, handleCenterY, 3, 0, Math.PI * 2);
     ctx.fill();
+
+    // Cross-link highlight marker
+    if (highlightYear !== null) {
+        const hx = yearToX(highlightYear);
+        const hy = trackY + trackHeight / 2;
+        const size = 6;
+        ctx.fillStyle = '#e06040';
+        ctx.strokeStyle = '#c04020';
+        ctx.lineWidth = 1.5;
+        ctx.beginPath();
+        ctx.moveTo(hx, hy - size);
+        ctx.lineTo(hx + size, hy);
+        ctx.lineTo(hx, hy + size);
+        ctx.lineTo(hx - size, hy);
+        ctx.closePath();
+        ctx.fill();
+        ctx.stroke();
+    }
 }
 
 function drawTicks(trackY, trackHeight) {
@@ -294,11 +312,41 @@ function updateFromPointer(clientX) {
 
 function updateYearLabel() {
     const label = document.getElementById('current-year-label');
-    if (label) {
+    if (label && !label.dataset.editing) {
         if (currentYear <= 0) {
             label.textContent = Math.abs(currentYear) + ' BC';
         } else {
             label.textContent = currentYear + ' AD';
         }
     }
+}
+
+// Animate smoothly to a target year
+export function animateToYear(targetYear, onFrame) {
+    targetYear = Math.max(-10000, Math.min(2000, Math.round(targetYear)));
+    const startYear = currentYear;
+    const startTime = performance.now();
+    const duration = 800;
+    function step(now) {
+        const t = Math.min((now - startTime) / duration, 1);
+        const ease = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+        const year = Math.round(startYear + (targetYear - startYear) * ease);
+        setCurrentYear(year);
+        if (onFrame) onFrame(year);
+        if (t < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+}
+
+// Timeline highlight for cross-link hover
+let highlightYear = null;
+
+export function highlightYearOnTimeline(year) {
+    highlightYear = year;
+    draw();
+}
+
+export function clearTimelineHighlight() {
+    highlightYear = null;
+    draw();
 }

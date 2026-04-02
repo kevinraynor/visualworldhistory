@@ -5,6 +5,7 @@ let dotsLayer;
 let bordersLayer = null;
 let territoryLayer = null;
 let labelsLayer = null;
+let baseTileLayer = null;
 let visibleDots = new Map(); // eventId -> { marker, event, anim }
 let eventsById = new Map();
 let allEvents = [];
@@ -13,6 +14,16 @@ let activeGranularities = new Set(['major', 'notable', 'detailed']);
 let activeCategories = new Set(['empire', 'war', 'civilization', 'discovery', 'religion', 'cultural', 'trade']);
 let territoryCache = new Map(); // eventId -> geojson or null
 let hoveredEventId = null;
+let linkLine = null;
+let highlightedDotId = null;
+let highlightedDotOriginal = null;
+
+// Hierarchy mode state
+let hierarchyMode = false;
+let hierarchyLines = [];
+let hierarchyRelatedIds = null;
+let hierarchyOverlayEl = null;
+let childrenMap = new Map(); // parentId -> Set<childId>
 
 // Cluster state
 let clusterMap = new Map();       // clusterId -> { centerLatLng, members: Set<eventId> }
@@ -87,14 +98,13 @@ export function initMap(eventClickHandler) {
         attributionControl: true,
     });
 
-    // CartoDB Positron - clean, light, no labels base
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+    // Initial tile layers (light style)
+    baseTileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
         subdomains: 'abcd',
         maxZoom: 19,
     }).addTo(map);
 
-    // Labels layer (on top of dots)
     labelsLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
         subdomains: 'abcd',
         maxZoom: 19,
@@ -138,6 +148,11 @@ export function initMap(eventClickHandler) {
         }
     });
 
+    // Click on empty map space — exit hierarchy mode
+    map.on('click', () => {
+        if (hierarchyMode) exitHierarchyMode();
+    });
+
     return map;
 }
 
@@ -156,8 +171,13 @@ function getCategoryColors(category) {
 export function setAllEvents(events) {
     allEvents = events;
     eventsById.clear();
+    childrenMap.clear();
     for (const e of events) {
         eventsById.set(e.id, e);
+        if (e.parent_id) {
+            if (!childrenMap.has(e.parent_id)) childrenMap.set(e.parent_id, new Set());
+            childrenMap.get(e.parent_id).add(e.id);
+        }
     }
 }
 
@@ -225,6 +245,14 @@ export function updateVisibleEvents(currentYear) {
 
             // Hover effects + territory + cluster expansion
             marker.on('mouseover', () => {
+                // If a cluster is expanded and this event is NOT in it, collapse immediately
+                if (expandedCluster !== null) {
+                    const thisCid = eventToCluster.get(event.id);
+                    if (thisCid === undefined || thisCid !== expandedCluster) {
+                        collapseClusterImmediate();
+                    }
+                }
+
                 const cid = eventToCluster.get(event.id);
                 const inCluster = cid !== undefined;
                 const clusterExpanded = inCluster && expandedCluster === cid;
@@ -256,8 +284,8 @@ export function updateVisibleEvents(currentYear) {
                     hoveredEventId = event.id;
                     showTerritoryForEvent(event.id, event.category);
                 }
-                // Trigger cluster expansion if this dot is part of a cluster
-                if (cid !== undefined && expandedCluster !== cid) {
+                // Trigger cluster expansion if this dot is part of a cluster (disabled in hierarchy mode)
+                if (!hierarchyMode && cid !== undefined && expandedCluster !== cid) {
                     expandCluster(cid);
                 }
             });
@@ -278,6 +306,9 @@ export function updateVisibleEvents(currentYear) {
             // Click — open panel and collapse any expanded cluster
             marker.on('click', (e) => {
                 L.DomEvent.stopPropagation(e);
+                if (hierarchyMode && hierarchyRelatedIds && !hierarchyRelatedIds.has(event.id)) {
+                    exitHierarchyMode();
+                }
                 collapseCluster();
                 if (onEventClick) onEventClick(event.id);
             });
@@ -883,10 +914,253 @@ export function getEventById(id) {
 
 export { CATEGORY_COLORS };
 
+// ===== Hierarchy Mode =====
+export function buildHierarchyTree(eventId) {
+    // Walk up to root
+    let current = eventsById.get(eventId);
+    if (!current) return null;
+    while (current.parent_id) {
+        const parent = eventsById.get(current.parent_id);
+        if (!parent) break;
+        current = parent;
+    }
+    const rootId = current.id;
+
+    // Walk down collecting all descendants
+    const relatedIds = new Set();
+    const edges = [];
+    function collectDescendants(id) {
+        relatedIds.add(id);
+        const kids = childrenMap.get(id);
+        if (!kids) return;
+        for (const childId of kids) {
+            edges.push({ from: id, to: childId });
+            collectDescendants(childId);
+        }
+    }
+    collectDescendants(rootId);
+    return { rootId, relatedIds, edges };
+}
+
+function dimNonHierarchyDots(relatedIds) {
+    for (const [id, entry] of visibleDots) {
+        if (relatedIds.has(id)) continue;
+        const greyFill = toGreyscaleHex(entry.marker.options.fillColor);
+        const greyStroke = toGreyscaleHex(entry.marker.options.color);
+        entry.marker.setStyle({
+            fillColor: greyFill,
+            color: greyStroke,
+            fillOpacity: 0.12,
+            opacity: 0.2,
+        });
+    }
+}
+
+function buildHierarchyTreeHtml(rootId, activeEventId) {
+    const event = eventsById.get(rootId);
+    if (!event) return '';
+    const name = escapeHtml(event.name);
+    const yearStr = formatYear(event.year_start) + (event.year_end !== event.year_start ? ' – ' + formatYear(event.year_end) : '');
+    const isActive = rootId === activeEventId ? ' class="hierarchy-active"' : '';
+    const kids = childrenMap.get(rootId);
+    let childrenHtml = '';
+    if (kids && kids.size > 0) {
+        const sorted = [...kids].map(id => eventsById.get(id)).filter(Boolean).sort((a, b) => a.year_start - b.year_start);
+        childrenHtml = '<ul>' + sorted.map(child => '<li>' + buildHierarchyTreeHtml(child.id, activeEventId) + '</li>').join('') + '</ul>';
+    }
+    return `<a href="#" data-event-id="${rootId}"${isActive}><span class="hier-name">${name}</span> <span class="hier-year">${yearStr}</span></a>${childrenHtml}`;
+}
+
+export function enterHierarchyMode(eventId) {
+    if (hierarchyMode) exitHierarchyMode();
+    collapseClusterImmediate();
+
+    const tree = buildHierarchyTree(eventId);
+    if (!tree || tree.relatedIds.size <= 1) return; // no hierarchy
+
+    hierarchyMode = true;
+    hierarchyRelatedIds = tree.relatedIds;
+
+    // Dim non-related dots
+    dimNonHierarchyDots(tree.relatedIds);
+
+    // Draw polylines from child to parent
+    for (const edge of tree.edges) {
+        const parent = eventsById.get(edge.from);
+        const child = eventsById.get(edge.to);
+        if (!parent || !child) continue;
+        const colors = getCategoryColors(parent.category || 'general');
+        const line = L.polyline(
+            [[child.lat, child.lng], [parent.lat, parent.lng]],
+            { color: colors.fill, weight: 2, opacity: 0.5, dashArray: '6 4', interactive: false }
+        ).addTo(map);
+        hierarchyLines.push(line);
+    }
+
+    // Fit bounds of all related events
+    const latLngs = [];
+    for (const id of tree.relatedIds) {
+        const e = eventsById.get(id);
+        if (e) latLngs.push([e.lat, e.lng]);
+    }
+    if (latLngs.length > 1) {
+        const bounds = L.latLngBounds(latLngs);
+        map.fitBounds(bounds, { padding: [60, 60], maxZoom: 8 });
+    }
+
+    // Render hierarchy tree overlay
+    hierarchyOverlayEl = document.createElement('div');
+    hierarchyOverlayEl.id = 'hierarchy-overlay';
+    hierarchyOverlayEl.innerHTML =
+        '<div class="hierarchy-header"><span>Event Hierarchy</span><button id="hierarchy-close">&times;</button></div>' +
+        '<div class="hierarchy-tree">' + buildHierarchyTreeHtml(tree.rootId, eventId) + '</div>';
+    document.getElementById('map').appendChild(hierarchyOverlayEl);
+
+    // Wire up tree clicks
+    hierarchyOverlayEl.querySelectorAll('a[data-event-id]').forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const targetId = parseInt(link.dataset.eventId, 10);
+            const target = eventsById.get(targetId);
+            if (target) {
+                flyToEvent(targetId);
+                if (onEventClick) onEventClick(targetId);
+                // Update active highlight
+                hierarchyOverlayEl.querySelectorAll('.hierarchy-active').forEach(el => el.classList.remove('hierarchy-active'));
+                link.classList.add('hierarchy-active');
+            }
+        });
+    });
+
+    // Close button
+    document.getElementById('hierarchy-close').addEventListener('click', () => exitHierarchyMode());
+}
+
+export function exitHierarchyMode() {
+    if (!hierarchyMode) return;
+    hierarchyMode = false;
+    hierarchyRelatedIds = null;
+
+    // Remove polylines
+    for (const line of hierarchyLines) {
+        map.removeLayer(line);
+    }
+    hierarchyLines = [];
+
+    // Restore dot colors
+    restoreAllDots();
+
+    // Remove overlay
+    if (hierarchyOverlayEl) {
+        hierarchyOverlayEl.remove();
+        hierarchyOverlayEl = null;
+    }
+}
+
+export function isHierarchyMode() {
+    return hierarchyMode;
+}
+
+export function getHierarchyRelatedIds() {
+    return hierarchyRelatedIds;
+}
+
+// ===== Cross-Link Hover Line =====
+export function drawLinkLine(fromLatLng, toLatLng, category) {
+    clearLinkLine();
+    const colors = getCategoryColors(category || 'general');
+    linkLine = L.polyline([fromLatLng, toLatLng], {
+        color: colors.fill,
+        weight: 2.5,
+        opacity: 0.7,
+        dashArray: '8 5',
+        interactive: false,
+    }).addTo(map);
+}
+
+export function clearLinkLine() {
+    if (linkLine) {
+        map.removeLayer(linkLine);
+        linkLine = null;
+    }
+}
+
+export function highlightDot(eventId) {
+    const entry = visibleDots.get(eventId);
+    if (!entry) return;
+    highlightedDotId = eventId;
+    highlightedDotOriginal = {
+        radius: entry.marker.getRadius(),
+        fillOpacity: entry.marker.options.fillOpacity,
+        weight: entry.marker.options.weight,
+    };
+    entry.marker.setStyle({ fillOpacity: 0.8, weight: 3 });
+    entry.marker.setRadius(highlightedDotOriginal.radius * 1.4);
+}
+
+export function unhighlightDot(eventId) {
+    if (highlightedDotId !== eventId) return;
+    const entry = visibleDots.get(eventId);
+    if (entry && highlightedDotOriginal) {
+        entry.marker.setStyle({
+            fillOpacity: highlightedDotOriginal.fillOpacity,
+            weight: highlightedDotOriginal.weight,
+        });
+        entry.marker.setRadius(highlightedDotOriginal.radius);
+    }
+    highlightedDotId = null;
+    highlightedDotOriginal = null;
+}
+
 function formatYear(year) {
     if (year < 0) return Math.abs(year) + ' BC';
     if (year === 0) return '1 BC';
     return year + ' AD';
+}
+
+// ===== Map Style Switcher =====
+const TILE_STYLES = {
+    light: {
+        base: 'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
+        labels: 'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    },
+    terrain: {
+        base: 'https://tiles.stadiamaps.com/tiles/stamen_terrain_background/{z}/{x}/{y}{r}.png',
+        labels: 'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://stadiamaps.com/">Stadia</a>',
+    },
+    dark: {
+        base: 'https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
+        labels: 'https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    },
+};
+
+export function setMapStyle(styleName) {
+    const style = TILE_STYLES[styleName];
+    if (!style) return;
+
+    if (baseTileLayer) map.removeLayer(baseTileLayer);
+    if (labelsLayer) map.removeLayer(labelsLayer);
+
+    baseTileLayer = L.tileLayer(style.base, {
+        attribution: style.attribution,
+        subdomains: 'abcd',
+        maxZoom: 19,
+    }).addTo(map);
+
+    // Re-add dots layer on top of base
+    dotsLayer.bringToFront();
+
+    labelsLayer = L.tileLayer(style.labels, {
+        subdomains: 'abcd',
+        maxZoom: 19,
+        pane: 'overlayPane',
+    }).addTo(map);
+
+    // Toggle dark class for tooltip readability
+    document.body.classList.toggle('map-dark', styleName === 'dark');
 }
 
 function escapeHtml(str) {

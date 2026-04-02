@@ -166,6 +166,27 @@ body {
     color: white;
 }
 
+.btn-github {
+    background: none;
+    border: 1px solid rgba(51, 51, 51, 0.3);
+    color: #555;
+    padding: 4px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.btn-github:hover {
+    background: #333;
+    border-color: #333;
+    color: white;
+}
+
 .btn-auth {
     background: var(--accent);
     color: white;
@@ -378,9 +399,113 @@ body {
     color: var(--text-primary);
     z-index: 600;
     box-shadow: var(--shadow-md);
-    pointer-events: none;
+    cursor: pointer;
     transition: opacity var(--transition);
     letter-spacing: -0.5px;
+}
+
+#year-input-container {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+#year-input {
+    width: 72px;
+    padding: 2px 6px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    outline: none;
+    -moz-appearance: textfield;
+}
+#year-input::-webkit-outer-spin-button,
+#year-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+#year-input:focus {
+    border-color: var(--accent);
+}
+
+#year-era-toggle {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.era-btn {
+    padding: 1px 8px;
+    font-size: 10px;
+    font-weight: 700;
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    background: var(--bg-primary);
+    color: var(--text-secondary);
+    cursor: pointer;
+    line-height: 1.4;
+    transition: all 0.15s ease;
+}
+
+.era-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: white;
+}
+
+/* ===== MAP STYLE SWITCHER ===== */
+#map-style-switcher {
+    position: fixed;
+    bottom: calc(var(--timeline-height) + 12px);
+    right: 12px;
+    z-index: 600;
+    display: flex;
+    gap: 4px;
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 4px;
+    box-shadow: var(--shadow-sm);
+}
+
+.style-option {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 10px;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    background: none;
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.style-option:hover {
+    background: rgba(0, 0, 0, 0.04);
+}
+
+.style-option.active {
+    background: var(--bg-secondary);
+    border-color: var(--border-color);
+    color: var(--text-primary);
+    box-shadow: var(--shadow-sm);
+}
+
+.style-swatch {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
 }
 
 /* ===== TIMELINE ===== */
@@ -1005,6 +1130,158 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.5px;
     margin-top: 2px;
+}
+
+/* Dark map style overrides */
+body.map-dark .event-tooltip {
+    background: #2a2a2a;
+    border-color: #444;
+    color: #e0e0e0;
+}
+body.map-dark .event-tooltip .tooltip-dates {
+    color: #aaa;
+}
+body.map-dark #map-style-switcher {
+    background: rgba(40, 40, 40, 0.85);
+    border-color: #444;
+}
+body.map-dark .style-option {
+    color: #bbb;
+}
+body.map-dark .style-option.active {
+    background: #333;
+    border-color: #555;
+    color: #eee;
+}
+
+/* ===== HIERARCHY MODE ===== */
+.btn-hierarchy {
+    background: none;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    padding: 3px 12px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    margin-left: 8px;
+}
+
+.btn-hierarchy:hover {
+    background: var(--accent);
+    color: white;
+}
+
+#hierarchy-overlay {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 700;
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    box-shadow: var(--shadow-md);
+    max-width: 340px;
+    max-height: 350px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.hierarchy-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border-color);
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.hierarchy-header button {
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    color: var(--text-muted);
+    padding: 0 4px;
+    line-height: 1;
+}
+.hierarchy-header button:hover {
+    color: var(--text-primary);
+}
+
+.hierarchy-tree {
+    padding: 8px 12px;
+    overflow-y: auto;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+.hierarchy-tree ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 16px;
+    border-left: 1px solid var(--border-color);
+}
+
+.hierarchy-tree li {
+    position: relative;
+}
+
+.hierarchy-tree li::before {
+    content: '';
+    position: absolute;
+    left: -16px;
+    top: 10px;
+    width: 12px;
+    height: 1px;
+    background: var(--border-color);
+}
+
+.hierarchy-tree a {
+    display: inline-block;
+    text-decoration: none;
+    color: var(--text-primary);
+    padding: 1px 6px;
+    border-radius: 4px;
+    transition: background 0.1s;
+}
+
+.hierarchy-tree a:hover {
+    background: rgba(74, 111, 165, 0.1);
+}
+
+.hierarchy-tree a.hierarchy-active {
+    background: rgba(74, 111, 165, 0.15);
+    font-weight: 600;
+}
+
+.hierarchy-tree .hier-year {
+    color: var(--text-muted);
+    font-size: 10px;
+}
+
+body.map-dark #hierarchy-overlay {
+    background: rgba(40, 40, 40, 0.92);
+    border-color: #444;
+}
+body.map-dark .hierarchy-header {
+    border-color: #444;
+    color: #ddd;
+}
+body.map-dark .hierarchy-tree a {
+    color: #ddd;
+}
+body.map-dark .hierarchy-tree ul {
+    border-color: #555;
+}
+body.map-dark .hierarchy-tree li::before {
+    background: #555;
 }
 
 /* Category badge colors in panel */

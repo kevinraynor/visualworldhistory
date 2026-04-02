@@ -1,8 +1,8 @@
 // Side Panel module - open/close, content display
 
 import { apiGet, apiPost, apiDelete } from './api.js?v=3';
-import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents } from './map.js?v=3';
-import { setCurrentYear } from './timeline.js?v=3';
+import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents, drawLinkLine, clearLinkLine, highlightDot, unhighlightDot, enterHierarchyMode, exitHierarchyMode, buildHierarchyTree } from './map.js?v=3';
+import { setCurrentYear, highlightYearOnTimeline, clearTimelineHighlight } from './timeline.js?v=3';
 
 let panelEl, panelBody, panelLoading;
 let currentEventId = null;
@@ -117,6 +117,8 @@ export function closePanel() {
     panelEl.classList.remove('panel-open');
     panelEl.classList.add('panel-closed');
     clearTerritory();
+    clearLinkLine();
+    clearTimelineHighlight();
     currentEventId = null;
     currentEventData = null;
 }
@@ -139,6 +141,20 @@ function renderPanel(data) {
     badge.textContent = cat;
     badge.setAttribute('data-cat', cat);
 
+    // Hierarchy button — show only if event has parent or children
+    const existingHierBtn = document.getElementById('panel-hierarchy-btn');
+    if (existingHierBtn) existingHierBtn.remove();
+    const tree = buildHierarchyTree(data.id);
+    if (tree && tree.relatedIds.size > 1) {
+        const hierBtn = document.createElement('button');
+        hierBtn.id = 'panel-hierarchy-btn';
+        hierBtn.className = 'btn-hierarchy';
+        hierBtn.textContent = 'Show Hierarchy';
+        hierBtn.title = `View ${tree.relatedIds.size} related events`;
+        hierBtn.addEventListener('click', () => enterHierarchyMode(data.id));
+        badge.parentElement.appendChild(hierBtn);
+    }
+
     // Favorite button
     const favBtn = document.getElementById('panel-favorite');
     favBtn.innerHTML = data.is_favorited ? '&#9733;' : '&#9734;';
@@ -155,6 +171,28 @@ function renderPanel(data) {
     } else {
         summaryEl.innerHTML = '<p><em>No detailed summary available yet.</em></p>';
     }
+
+    // Cross-link hover: draw line from current event to target
+    summaryEl.querySelectorAll('.event-crosslink').forEach(link => {
+        const targetId = parseInt(link.dataset.eventId, 10);
+        link.addEventListener('mouseenter', () => {
+            const targetEvent = getEventById(targetId);
+            if (!targetEvent) return;
+            drawLinkLine(
+                [data.lat, data.lng],
+                [targetEvent.lat, targetEvent.lng],
+                targetEvent.category
+            );
+            highlightDot(targetId);
+            const midYear = Math.round((targetEvent.year_start + targetEvent.year_end) / 2);
+            highlightYearOnTimeline(midYear);
+        });
+        link.addEventListener('mouseleave', () => {
+            clearLinkLine();
+            unhighlightDot(targetId);
+            clearTimelineHighlight();
+        });
+    });
 
     // Territory shown on click too
     if (data.territory_geojson) {
