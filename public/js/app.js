@@ -1,7 +1,7 @@
 // WorldHistory - Main Application Entry Point
 
 import { apiGet } from './api.js?v=3';
-import { initMap, setAllEvents, updateVisibleEvents, toggleBorders, setActiveGranularities, getActiveGranularities, setActiveCategories, getActiveCategories, setMapStyle } from './map.js?v=3';
+import { initMap, setAllEvents, updateVisibleEvents, toggleBorders, setActiveGranularities, getActiveGranularities, setActiveCategories, getActiveCategories, setMapStyle, flyToEvent, isHierarchyMode } from './map.js?v=3';
 import { initTimeline, setCurrentYear, setEvents, getCurrentYear, animateToYear } from './timeline.js?v=3';
 import { initPanel, openPanel, closePanel } from './panel.js?v=3';
 import { initAuth } from './auth.js?v=3';
@@ -21,8 +21,9 @@ async function init() {
     // Initialize auth (await to ensure CSRF token is set before user can interact)
     await initAuth();
 
-    // Borders toggle
-    document.getElementById('borders-toggle').addEventListener('change', (e) => {
+    // Show Countries toggle
+    const bordersToggle = document.getElementById('borders-toggle');
+    bordersToggle.addEventListener('change', (e) => {
         toggleBorders(e.target.checked);
     });
 
@@ -123,6 +124,22 @@ async function init() {
         }
     });
 
+    // Year step buttons (±1 year)
+    document.getElementById('year-prev').addEventListener('click', (e) => {
+        e.stopPropagation();
+        const yr = getCurrentYear();
+        const target = Math.max(-10000, yr - 1);
+        setCurrentYear(target);
+        handleYearChange(target);
+    });
+    document.getElementById('year-next').addEventListener('click', (e) => {
+        e.stopPropagation();
+        const yr = getCurrentYear();
+        const target = Math.min(2000, yr + 1);
+        setCurrentYear(target);
+        handleYearChange(target);
+    });
+
     // Map style switcher
     document.querySelectorAll('.style-option').forEach(btn => {
         btn.addEventListener('click', () => {
@@ -142,6 +159,9 @@ async function init() {
         currentYear = 1569;
         setCurrentYear(1569);
         updateVisibleEvents(1569);
+
+        // Apply initial Show Countries state (after dots exist)
+        if (bordersToggle.checked) toggleBorders(true);
     } catch (err) {
         console.error('Failed to load events:', err);
     }
@@ -153,6 +173,8 @@ function handleYearChange(year) {
 }
 
 function handleEventClick(eventId) {
+    // flyToEvent first — it will always assume panel is open since openPanel follows
+    if (!isHierarchyMode()) flyToEvent(eventId);
     openPanel(eventId);
 }
 

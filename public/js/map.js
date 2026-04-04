@@ -1,6 +1,7 @@
 // Map module - Leaflet setup, event dots, territory overlays
 
 let map;
+let onExitHierarchyCb = null;
 let dotsLayer;
 let bordersLayer = null;
 let territoryLayer = null;
@@ -14,6 +15,7 @@ let activeGranularities = new Set(['major', 'notable', 'detailed']);
 let activeCategories = new Set(['empire', 'war', 'civilization', 'discovery', 'religion', 'cultural', 'trade']);
 let territoryCache = new Map(); // eventId -> geojson or null
 let hoveredEventId = null;
+let currentStyleName = 'light';
 let linkLine = null;
 let highlightedDotId = null;
 let highlightedDotOriginal = null;
@@ -80,7 +82,7 @@ const CATEGORY_COLORS = {
     general:      { fill: '#999999', stroke: '#777777' },
 };
 
-const DEFAULT_ZOOM = 3;
+const DEFAULT_ZOOM = 4;
 const ANIM_DURATION = 400; // ms
 
 export function initMap(eventClickHandler) {
@@ -88,7 +90,7 @@ export function initMap(eventClickHandler) {
 
     map = L.map('map', {
         preferCanvas: true,
-        center: [20, 0],
+        center: [45, 25],
         zoom: DEFAULT_ZOOM,
         minZoom: 2,
         maxZoom: 10,
@@ -98,32 +100,31 @@ export function initMap(eventClickHandler) {
         attributionControl: true,
     });
 
-    // Initial tile layers (light style)
+    // Initial tile layers (light style — no labels, controlled by Show Countries toggle)
     baseTileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
         subdomains: 'abcd',
         maxZoom: 19,
     }).addTo(map);
 
-    labelsLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png', {
-        subdomains: 'abcd',
-        maxZoom: 19,
-        pane: 'overlayPane',
-    }).addTo(map);
+    labelsLayer = null;
 
     // Layer for event dots
     dotsLayer = L.layerGroup().addTo(map);
 
     // Re-scale dots and rebuild clusters on zoom
     map.on('zoomend', () => {
-        collapseClusterImmediate();
         const zoom = map.getZoom();
         visibleDots.forEach((entry) => {
             if (entry.targetScale === 1) {
                 entry.marker.setRadius(scaleDotRadius(entry.event.dot_radius, zoom));
             }
         });
-        rebuildClusters();
+        // Skip cluster logic during hierarchy mode (no clustering needed)
+        if (!hierarchyMode) {
+            collapseClusterImmediate();
+            rebuildClusters();
+        }
     });
 
     // Hover zone detection for expanded clusters
@@ -202,11 +203,13 @@ export function updateVisibleEvents(currentYear) {
     const shouldBeVisible = new Set();
 
     for (const event of allEvents) {
-        if (event.year_start <= currentYear && event.year_end >= currentYear) {
-            // Check granularity and category filters
+        // In hierarchy mode, always show related events regardless of year
+        const inHierarchy = hierarchyMode && hierarchyRelatedIds && hierarchyRelatedIds.has(event.id);
+        if (inHierarchy || (event.year_start <= currentYear && event.year_end >= currentYear)) {
+            // Check granularity and category filters (skip for hierarchy-forced events)
             const gran = event.granularity || 'notable';
             const cat = (event.category || 'general').toLowerCase();
-            if (activeGranularities.has(gran) && activeCategories.has(cat)) {
+            if (inHierarchy || (activeGranularities.has(gran) && activeCategories.has(cat))) {
                 shouldBeVisible.add(event.id);
             }
         }
@@ -539,8 +542,9 @@ function dimNonClusterDots(clusterMembers) {
     dimAnimFrame = requestAnimationFrame(step);
 }
 
-function restoreAllDots() {
+function restoreAllDots(instant) {
     if (dimAnimFrame) cancelAnimationFrame(dimAnimFrame);
+    dimAnimFrame = null;
     const targets = [];
     for (const id of dimmedDots) {
         const entry = visibleDots.get(id);
@@ -548,14 +552,25 @@ function restoreAllDots() {
         const colors = getCategoryColors(entry.event.category);
         targets.push({
             entry,
-            fromFill: toGreyscaleHex(colors.fill),
             toFill: colors.fill,
-            fromStroke: toGreyscaleHex(colors.stroke),
             toStroke: colors.stroke,
+            fromFill: toGreyscaleHex(colors.fill),
+            fromStroke: toGreyscaleHex(colors.stroke),
         });
     }
     dimmedDots.clear();
     if (targets.length === 0) return;
+    if (instant) {
+        for (const d of targets) {
+            d.entry.marker.setStyle({
+                fillColor: d.toFill,
+                color: d.toStroke,
+                fillOpacity: 0.35,
+                opacity: 0.7,
+            });
+        }
+        return;
+    }
     const startTime = performance.now();
     const duration = 300;
     function step(now) {
@@ -669,10 +684,14 @@ function expandCluster(clusterId) {
             const lng = orig.lng + (target.lng - orig.lng) * ease;
             entry.marker.setLatLng([lat, lng]);
 
-            // Update connector line
+            // Update connector line (shorten to circle edges)
             const lineData = linesByMember.get(mid);
             if (lineData) {
-                lineData.line.setLatLngs([[lineData.anchorLat, lineData.anchorLng], [lat, lng]]);
+                const memberR = scaleDotRadius(entry.event.dot_radius, zoom);
+                const [adjFrom, adjTo] = shortenLineToEdges(
+                    [lineData.anchorLat, lineData.anchorLng], [lat, lng], memberR, memberR
+                );
+                lineData.line.setLatLngs([adjFrom, adjTo]);
                 lineData.line.setStyle({ opacity: 0.4 * ease });
             }
         }
@@ -761,7 +780,7 @@ function collapseCluster() {
 function collapseClusterImmediate() {
     if (expandedCluster === null) return;
 
-    restoreAllDots();
+    restoreAllDots(true);
     const cluster = clusterMap.get(expandedCluster);
     if (cluster) {
         for (const mid of cluster.members) {
@@ -794,23 +813,19 @@ function easeOutCubic(t) {
 }
 
 export function toggleBorders(show) {
-    if (show && !bordersLayer) {
-        fetch('data/country-borders.geojson')
-            .then(r => r.json())
-            .then(geojson => {
-                bordersLayer = L.geoJSON(geojson, {
-                    style: {
-                        color: '#999',
-                        weight: 1,
-                        fill: false,
-                        opacity: 0.5,
-                    },
-                }).addTo(map);
-            })
-            .catch(() => {
-                console.log('Country borders GeoJSON not available');
-            });
-    } else if (!show && bordersLayer) {
+    if (!map) return; // not initialized yet
+    if (show) {
+        if (bordersLayer) { map.removeLayer(bordersLayer); bordersLayer = null; }
+        const style = TILE_STYLES[currentStyleName] || TILE_STYLES.light;
+        bordersLayer = L.tileLayer(style.labels, {
+            subdomains: 'abcd',
+            maxZoom: 19,
+            pane: 'overlayPane',
+            opacity: 0.9,
+        }).addTo(map);
+        // Bring dots above labels
+        if (dotsLayer) dotsLayer.eachLayer(l => l.bringToFront());
+    } else if (bordersLayer) {
         map.removeLayer(bordersLayer);
         bordersLayer = null;
     }
@@ -872,24 +887,10 @@ export function clearTerritory() {
 export function flyToEvent(eventId) {
     const event = eventsById.get(eventId);
     if (event) {
-        const zoom = Math.max(map.getZoom(), 5);
-        const panel = document.getElementById('side-panel');
-        const panelOpen = panel && panel.classList.contains('panel-open');
+        const targetLatLng = L.latLng(event.lat, event.lng);
 
-        let targetLatLng;
-        if (panelOpen) {
-            // Offset left by half the panel width so the dot centers in the visible map area
-            const targetPoint = map.project(L.latLng(event.lat, event.lng), zoom);
-            const offsetPoint = L.point(targetPoint.x + panel.offsetWidth / 2, targetPoint.y);
-            targetLatLng = map.unproject(offsetPoint, zoom);
-        } else {
-            targetLatLng = L.latLng(event.lat, event.lng);
-        }
-
-        // Manually animate pan so canvas-rendered dots reposition continuously.
-        // Leaflet's flyTo uses CSS transforms that leave canvas markers stuck until moveend.
+        // Manually animate pan (no zoom change) so canvas-rendered dots reposition continuously.
         const startLatLng = map.getCenter();
-        const startZoom = map.getZoom();
         const duration = 1000;
         const startTime = performance.now();
 
@@ -898,8 +899,7 @@ export function flyToEvent(eventId) {
             const ease = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2; // easeInOutCubic
             const lat = startLatLng.lat + (targetLatLng.lat - startLatLng.lat) * ease;
             const lng = startLatLng.lng + (targetLatLng.lng - startLatLng.lng) * ease;
-            const z = startZoom + (zoom - startZoom) * ease;
-            map.setView([lat, lng], z, { animate: false });
+            map.setView([lat, lng], map.getZoom(), { animate: false });
             if (t < 1) {
                 requestAnimationFrame(step);
             }
@@ -953,6 +953,7 @@ function dimNonHierarchyDots(relatedIds) {
             fillOpacity: 0.12,
             opacity: 0.2,
         });
+        dimmedDots.add(id);
     }
 }
 
@@ -981,23 +982,56 @@ export function enterHierarchyMode(eventId) {
     hierarchyMode = true;
     hierarchyRelatedIds = tree.relatedIds;
 
+    // Force related events to be visible (they may be outside current year range)
+    // We need a reference to currentYear — read it from the timeline label or recalculate
+    // Trigger a re-render so hierarchy-related events appear
+    const zoom = map.getZoom();
+    for (const id of tree.relatedIds) {
+        if (visibleDots.has(id)) continue;
+        const event = eventsById.get(id);
+        if (!event) continue;
+        const radius = scaleDotRadius(event.dot_radius, zoom);
+        const colors = getCategoryColors(event.category);
+        const marker = L.circleMarker([event.lat, event.lng], {
+            fillColor: colors.fill,
+            fillOpacity: 0.35,
+            color: colors.stroke,
+            weight: 2,
+            opacity: 0.7,
+            radius: radius,
+        });
+        const yearStr = formatYear(event.year_start) + ' \u2013 ' + formatYear(event.year_end);
+        marker.bindTooltip(
+            `<div class="event-tooltip"><strong>${escapeHtml(event.name)}</strong><br><span class="tooltip-dates">${yearStr}</span><span class="tooltip-category" style="color:${colors.fill}">${event.category || 'general'}</span></div>`,
+            { direction: 'top', offset: [0, -10], className: '' }
+        );
+        marker.on('click', () => { if (onEventClick) onEventClick(event.id); });
+        dotsLayer.addLayer(marker);
+        visibleDots.set(event.id, { marker, event, anim: null, targetScale: 1, targetRadius: radius });
+    }
+
     // Dim non-related dots
     dimNonHierarchyDots(tree.relatedIds);
 
-    // Draw polylines from child to parent
+    // Draw polylines from child to parent (lines stop at circle edges)
     for (const edge of tree.edges) {
         const parent = eventsById.get(edge.from);
         const child = eventsById.get(edge.to);
         if (!parent || !child) continue;
         const colors = getCategoryColors(parent.category || 'general');
+        const childR = getEventDisplayRadius(child.id);
+        const parentR = getEventDisplayRadius(parent.id);
+        const [adjFrom, adjTo] = shortenLineToEdges(
+            [child.lat, child.lng], [parent.lat, parent.lng], childR, parentR
+        );
         const line = L.polyline(
-            [[child.lat, child.lng], [parent.lat, parent.lng]],
+            [adjFrom, adjTo],
             { color: colors.fill, weight: 2, opacity: 0.5, dashArray: '6 4', interactive: false }
         ).addTo(map);
         hierarchyLines.push(line);
     }
 
-    // Fit bounds of all related events
+    // Fit bounds — account for side panel (right) and hierarchy overlay (top-left)
     const latLngs = [];
     for (const id of tree.relatedIds) {
         const e = eventsById.get(id);
@@ -1005,7 +1039,29 @@ export function enterHierarchyMode(eventId) {
     }
     if (latLngs.length > 1) {
         const bounds = L.latLngBounds(latLngs);
-        map.fitBounds(bounds, { padding: [60, 60], maxZoom: 8 });
+        // Padding: hierarchy overlay (left), controls (top), side panel (right ~600px)
+        const paddingTL = L.point(200, 120);
+        const paddingBR = L.point(640, 60);
+        const targetZoom = Math.min(map.getBoundsZoom(bounds, false, paddingTL.add(paddingBR)), 8);
+        const targetCenter = bounds.getCenter();
+
+        // Manual animation so circle markers rescale continuously during zoom
+        const startLatLng = map.getCenter();
+        const startZoom = map.getZoom();
+        const duration = 1000;
+        const startTime = performance.now();
+        function stepHierarchy(now) {
+            const t = Math.min((now - startTime) / duration, 1);
+            const ease = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+            const lat = startLatLng.lat + (targetCenter.lat - startLatLng.lat) * ease;
+            const lng = startLatLng.lng + (targetCenter.lng - startLatLng.lng) * ease;
+            const z = startZoom + (targetZoom - startZoom) * ease;
+            map.setView([lat, lng], z, { animate: false });
+            if (t < 1) {
+                requestAnimationFrame(stepHierarchy);
+            }
+        }
+        requestAnimationFrame(stepHierarchy);
     }
 
     // Render hierarchy tree overlay
@@ -1016,19 +1072,31 @@ export function enterHierarchyMode(eventId) {
         '<div class="hierarchy-tree">' + buildHierarchyTreeHtml(tree.rootId, eventId) + '</div>';
     document.getElementById('map').appendChild(hierarchyOverlayEl);
 
-    // Wire up tree clicks
+    // Prevent map scroll when cursor is over hierarchy overlay
+    L.DomEvent.disableScrollPropagation(hierarchyOverlayEl);
+    L.DomEvent.disableClickPropagation(hierarchyOverlayEl);
+
+    // Wire up tree clicks and hover highlighting
     hierarchyOverlayEl.querySelectorAll('a[data-event-id]').forEach(link => {
+        const targetId = parseInt(link.dataset.eventId, 10);
+
         link.addEventListener('click', (e) => {
             e.preventDefault();
-            const targetId = parseInt(link.dataset.eventId, 10);
             const target = eventsById.get(targetId);
             if (target) {
-                flyToEvent(targetId);
+                // Stay on current camera — don't flyTo in hierarchy mode
                 if (onEventClick) onEventClick(targetId);
                 // Update active highlight
                 hierarchyOverlayEl.querySelectorAll('.hierarchy-active').forEach(el => el.classList.remove('hierarchy-active'));
                 link.classList.add('hierarchy-active');
             }
+        });
+
+        link.addEventListener('mouseenter', () => {
+            highlightDot(targetId);
+        });
+        link.addEventListener('mouseleave', () => {
+            unhighlightDot(targetId);
         });
     });
 
@@ -1036,10 +1104,13 @@ export function enterHierarchyMode(eventId) {
     document.getElementById('hierarchy-close').addEventListener('click', () => exitHierarchyMode());
 }
 
+export function onExitHierarchy(cb) { onExitHierarchyCb = cb; }
+
 export function exitHierarchyMode() {
     if (!hierarchyMode) return;
     hierarchyMode = false;
     hierarchyRelatedIds = null;
+    if (onExitHierarchyCb) onExitHierarchyCb();
 
     // Remove polylines
     for (const line of hierarchyLines) {
@@ -1065,11 +1136,37 @@ export function getHierarchyRelatedIds() {
     return hierarchyRelatedIds;
 }
 
+// ===== Line Edge Helpers =====
+function shortenLineToEdges(fromLatLng, toLatLng, fromRadiusPx, toRadiusPx) {
+    const fromPt = map.latLngToContainerPoint(L.latLng(fromLatLng[0], fromLatLng[1]));
+    const toPt = map.latLngToContainerPoint(L.latLng(toLatLng[0], toLatLng[1]));
+    const dx = toPt.x - fromPt.x;
+    const dy = toPt.y - fromPt.y;
+    const dist = Math.hypot(dx, dy);
+    if (dist < (fromRadiusPx + toRadiusPx)) return [fromLatLng, toLatLng]; // too close, don't shorten
+    const ux = dx / dist;
+    const uy = dy / dist;
+    const newFrom = map.containerPointToLatLng(L.point(fromPt.x + ux * fromRadiusPx, fromPt.y + uy * fromRadiusPx));
+    const newTo = map.containerPointToLatLng(L.point(toPt.x - ux * toRadiusPx, toPt.y - uy * toRadiusPx));
+    return [[newFrom.lat, newFrom.lng], [newTo.lat, newTo.lng]];
+}
+
+function getEventDisplayRadius(eventId) {
+    const entry = visibleDots.get(eventId);
+    if (entry) return scaleDotRadius(entry.event.dot_radius, map.getZoom());
+    const event = eventsById.get(eventId);
+    if (event) return scaleDotRadius(event.dot_radius, map.getZoom());
+    return 6;
+}
+
 // ===== Cross-Link Hover Line =====
-export function drawLinkLine(fromLatLng, toLatLng, category) {
+export function drawLinkLine(fromLatLng, toLatLng, category, fromEventId, toEventId) {
     clearLinkLine();
     const colors = getCategoryColors(category || 'general');
-    linkLine = L.polyline([fromLatLng, toLatLng], {
+    const fromR = fromEventId ? getEventDisplayRadius(fromEventId) : 6;
+    const toR = toEventId ? getEventDisplayRadius(toEventId) : 6;
+    const [adjFrom, adjTo] = shortenLineToEdges(fromLatLng, toLatLng, fromR, toR);
+    linkLine = L.polyline([adjFrom, adjTo], {
         color: colors.fill,
         weight: 2.5,
         opacity: 0.7,
@@ -1083,6 +1180,48 @@ export function clearLinkLine() {
         map.removeLayer(linkLine);
         linkLine = null;
     }
+}
+
+// ===== Temporary Dot for Cross-Link Hover =====
+let tempDot = null;
+let tempDotAnim = null;
+
+export function showTempDot(eventId) {
+    hideTempDot();
+    const event = eventsById.get(eventId);
+    if (!event) return;
+    // If the dot is already visible, skip (highlightDot handles it)
+    if (visibleDots.has(eventId)) return;
+    const colors = getCategoryColors(event.category || 'general');
+    const targetRadius = scaleDotRadius(event.dot_radius, map.getZoom());
+    tempDot = L.circleMarker([event.lat, event.lng], {
+        radius: 0,
+        fillColor: colors.fill,
+        color: colors.stroke,
+        fillOpacity: 0.55,
+        opacity: 0.8,
+        weight: 2,
+        interactive: false,
+    }).addTo(map);
+    // Animate in with elastic bounce
+    const startTime = performance.now();
+    const duration = 400;
+    function step(now) {
+        const t = Math.min((now - startTime) / duration, 1);
+        const ease = elasticOut(t);
+        if (tempDot) tempDot.setRadius(targetRadius * ease);
+        if (t < 1) {
+            tempDotAnim = requestAnimationFrame(step);
+        } else {
+            tempDotAnim = null;
+        }
+    }
+    tempDotAnim = requestAnimationFrame(step);
+}
+
+export function hideTempDot() {
+    if (tempDotAnim) { cancelAnimationFrame(tempDotAnim); tempDotAnim = null; }
+    if (tempDot) { map.removeLayer(tempDot); tempDot = null; }
 }
 
 export function highlightDot(eventId) {
@@ -1126,9 +1265,9 @@ const TILE_STYLES = {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
     },
     terrain: {
-        base: 'https://tiles.stadiamaps.com/tiles/stamen_terrain_background/{z}/{x}/{y}{r}.png',
-        labels: 'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://stadiamaps.com/">Stadia</a>',
+        base: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png',
+        labels: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_only_labels/{z}/{x}/{y}{r}.png',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
     },
     dark: {
         base: 'https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
@@ -1140,9 +1279,9 @@ const TILE_STYLES = {
 export function setMapStyle(styleName) {
     const style = TILE_STYLES[styleName];
     if (!style) return;
+    currentStyleName = styleName;
 
     if (baseTileLayer) map.removeLayer(baseTileLayer);
-    if (labelsLayer) map.removeLayer(labelsLayer);
 
     baseTileLayer = L.tileLayer(style.base, {
         attribution: style.attribution,
@@ -1150,14 +1289,13 @@ export function setMapStyle(styleName) {
         maxZoom: 19,
     }).addTo(map);
 
-    // Re-add dots layer on top of base
-    dotsLayer.bringToFront();
+    // Re-apply country labels if toggle is on
+    const countriesOn = document.getElementById('borders-toggle')?.checked;
+    if (bordersLayer) { map.removeLayer(bordersLayer); bordersLayer = null; }
+    if (countriesOn) toggleBorders(true);
 
-    labelsLayer = L.tileLayer(style.labels, {
-        subdomains: 'abcd',
-        maxZoom: 19,
-        pane: 'overlayPane',
-    }).addTo(map);
+    // Re-add dots layer on top
+    if (dotsLayer) dotsLayer.eachLayer(l => l.bringToFront());
 
     // Toggle dark class for tooltip readability
     document.body.classList.toggle('map-dark', styleName === 'dark');
