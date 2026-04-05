@@ -1,8 +1,9 @@
 // Side Panel module - open/close, content display
 
-import { apiGet, apiPost, apiDelete } from './api.js?v=3';
-import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents, drawLinkLine, clearLinkLine, highlightDot, unhighlightDot, showTempDot, hideTempDot, enterHierarchyMode, exitHierarchyMode, isHierarchyMode, onExitHierarchy, buildHierarchyTree, CATEGORY_COLORS } from './map.js?v=3';
-import { setCurrentYear, highlightYearOnTimeline, clearTimelineHighlight } from './timeline.js?v=3';
+import { apiGet, apiPost, apiDelete } from './api.js?v=4';
+import { formatYear, escapeHtml } from './utils.js';
+import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents, drawLinkLine, clearLinkLine, highlightDot, unhighlightDot, showTempDot, hideTempDot, enterHierarchyMode, exitHierarchyMode, isHierarchyMode, onExitHierarchy, buildHierarchyTree, CATEGORY_COLORS } from './map/index.js';
+import { setCurrentYear, highlightYearOnTimeline, clearTimelineHighlight } from './timeline.js?v=4';
 
 let panelEl, panelBody, panelLoading;
 let currentEventId = null;
@@ -149,15 +150,26 @@ function renderPanel(data) {
     panelLoading.style.display = 'none';
     panelBody.style.display = 'block';
 
-    // Title
+    renderPanelHeader(data);
+    renderPanelSummary(data);
+
+    if (data.territory_geojson) {
+        showTerritory(data.territory_geojson, data.category);
+    }
+
+    renderImageGallery(data.images);
+    renderFigures(data.figures);
+    renderLinks(data);
+    renderComments(data.comments || [], data.id);
+}
+
+function renderPanelHeader(data) {
     document.getElementById('panel-title').textContent = data.name;
 
-    // Dates
     const startStr = formatYear(data.year_start);
     const endStr = formatYear(data.year_end);
     document.getElementById('panel-dates').textContent = `${startStr} \u2013 ${endStr}`;
 
-    // Category badge
     const badge = document.getElementById('panel-category');
     const cat = data.category || 'general';
     badge.textContent = cat;
@@ -182,11 +194,14 @@ function renderPanel(data) {
     favBtn.innerHTML = data.is_favorited ? '&#9733;' : '&#9734;';
     favBtn.classList.toggle('favorited', data.is_favorited);
     favBtn.onclick = () => toggleFavorite(data.id, favBtn);
+}
 
-    // Summary with cross-event links
+function renderPanelSummary(data) {
+    const cat = data.category || 'general';
     const summaryEl = document.getElementById('panel-summary');
     const catColors = CATEGORY_COLORS[cat] || CATEGORY_COLORS.general;
     summaryEl.style.setProperty('--drop-cap-color', catColors.fill);
+
     if (data.summary) {
         summaryEl.innerHTML = data.summary
             .split('\n\n')
@@ -221,19 +236,9 @@ function renderPanel(data) {
             clearTimelineHighlight();
         });
     });
+}
 
-    // Territory shown on click too
-    if (data.territory_geojson) {
-        showTerritory(data.territory_geojson, data.category);
-    }
-
-    // Image gallery
-    renderImageGallery(data.images);
-
-    // Key figures
-    renderFigures(data.figures);
-
-    // Links
+function renderLinks(data) {
     const linkList = document.getElementById('panel-link-list');
     linkList.innerHTML = '';
 
@@ -260,9 +265,6 @@ function renderPanel(data) {
             linkList.appendChild(li);
         }
     }
-
-    // Comments
-    renderComments(data.comments || [], data.id);
 }
 
 // ===== Cross-event link parsing =====
@@ -592,20 +594,9 @@ async function toggleFavorite(eventId, btn) {
     }
 }
 
-function formatYear(year) {
-    if (year < 0) return Math.abs(year) + ' BC';
-    if (year === 0) return '1 BC';
-    return year + ' AD';
-}
-
 function formatDate(dateStr) {
     if (!dateStr) return '';
     const d = new Date(dateStr);
     return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 }
 
-function escapeHtml(str) {
-    const div = document.createElement('div');
-    div.textContent = str;
-    return div.innerHTML;
-}

@@ -1,28 +1,29 @@
 // WorldHistory - Main Application Entry Point
 
-import { apiGet } from './api.js?v=3';
-import { initMap, setAllEvents, updateVisibleEvents, toggleBorders, setActiveGranularities, getActiveGranularities, setActiveCategories, getActiveCategories, setMapStyle, flyToEvent, isHierarchyMode } from './map.js?v=3';
-import { initTimeline, setCurrentYear, setEvents, getCurrentYear, animateToYear } from './timeline.js?v=3';
-import { initPanel, openPanel, closePanel } from './panel.js?v=3';
-import { initAuth } from './auth.js?v=3';
+import { apiGet } from './api.js?v=4';
+import { initMap, setAllEvents, updateVisibleEvents, toggleBorders, setActiveGranularities, getActiveGranularities, setActiveCategories, getActiveCategories, setMapStyle, flyToEvent, isHierarchyMode } from './map/index.js';
+import { initTimeline, setCurrentYear, setEvents, getCurrentYear, animateToYear } from './timeline.js?v=4';
+import { initPanel, openPanel, closePanel } from './panel.js?v=4';
+import { initAuth } from './auth.js?v=4';
 
-let currentYear = 1569;
+const INITIAL_YEAR = 1569;
+let currentYear = INITIAL_YEAR;
 
 async function init() {
-    // Initialize map
     initMap(handleEventClick);
-
-    // Initialize timeline
     initTimeline(handleYearChange);
-
-    // Initialize side panel
     initPanel();
-
-    // Initialize auth (await to ensure CSRF token is set before user can interact)
     await initAuth();
 
-    // Show Countries toggle
     const bordersToggle = document.getElementById('borders-toggle');
+    setupFilterControls(bordersToggle);
+    setupYearInput();
+    setupMapStyleSwitcher();
+    await loadUserPreferences(bordersToggle);
+    await loadEvents(bordersToggle);
+}
+
+function setupFilterControls(bordersToggle) {
     bordersToggle.addEventListener('change', (e) => {
         toggleBorders(e.target.checked);
     });
@@ -66,8 +67,9 @@ async function init() {
     document.getElementById('donate-btn').addEventListener('click', () => {
         window.open('https://ko-fi.com/kevinraynor', '_blank');
     });
+}
 
-    // Year input — click year label to enter edit mode
+function setupYearInput() {
     const yearLabel = document.getElementById('current-year-label');
     const yearInputContainer = document.getElementById('year-input-container');
     const yearInput = document.getElementById('year-input');
@@ -124,7 +126,7 @@ async function init() {
         }
     });
 
-    // Year step buttons (±1 year)
+    // Year step buttons (+-1 year)
     document.getElementById('year-prev').addEventListener('click', (e) => {
         e.stopPropagation();
         const yr = getCurrentYear();
@@ -139,8 +141,9 @@ async function init() {
         setCurrentYear(target);
         handleYearChange(target);
     });
+}
 
-    // Map style switcher
+function setupMapStyleSwitcher() {
     document.querySelectorAll('.style-option').forEach(btn => {
         btn.addEventListener('click', () => {
             document.querySelectorAll('.style-option').forEach(b => b.classList.remove('active'));
@@ -148,8 +151,9 @@ async function init() {
             setMapStyle(btn.dataset.style);
         });
     });
+}
 
-    // Load user preferences (if logged in) and apply them
+async function loadUserPreferences(bordersToggle) {
     try {
         const settings = await apiGet('/api/settings');
         if (settings.show_borders !== undefined) {
@@ -164,17 +168,17 @@ async function init() {
     } catch (e) {
         // Not logged in or no settings — use defaults
     }
+}
 
-    // Load events
+async function loadEvents(bordersToggle) {
     try {
         const events = await apiGet('/api/events');
         setAllEvents(events);
         setEvents(events);
 
-        // Start at year 1569 AD
-        currentYear = 1569;
-        setCurrentYear(1569);
-        updateVisibleEvents(1569);
+        currentYear = INITIAL_YEAR;
+        setCurrentYear(INITIAL_YEAR);
+        updateVisibleEvents(INITIAL_YEAR);
 
         // Apply initial Show Countries state (after dots exist)
         if (bordersToggle.checked) toggleBorders(true);
@@ -189,10 +193,8 @@ function handleYearChange(year) {
 }
 
 function handleEventClick(eventId) {
-    // flyToEvent first — it will always assume panel is open since openPanel follows
     if (!isHierarchyMode()) flyToEvent(eventId);
     openPanel(eventId);
 }
 
-// Start the app
 document.addEventListener('DOMContentLoaded', init);

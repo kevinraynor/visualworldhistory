@@ -1,5 +1,7 @@
 // Timeline module - Custom Canvas timeline widget with piecewise linear scale
 
+import { formatYear, easeInOutCubic } from './utils.js';
+
 let canvas, ctx;
 let currentYear = 1;
 let isDragging = false;
@@ -155,48 +157,53 @@ function draw() {
         ctx.setLineDash([]);
     }
 
-    // Handle glow
-    const handleX = fillX;
-    const handleCenterY = trackY + trackHeight / 2;
-    const handleRadius = 9;
+    drawHandle(fillX, trackY + trackHeight / 2);
 
+    if (highlightYear !== null) {
+        drawHighlightMarker(trackY, trackHeight);
+    }
+}
+
+function drawHandle(x, centerY) {
+    const radius = 9;
+
+    // Glow
     ctx.fillStyle = COLORS.handleGlow;
     ctx.beginPath();
-    ctx.arc(handleX, handleCenterY, handleRadius + 5, 0, Math.PI * 2);
+    ctx.arc(x, centerY, radius + 5, 0, Math.PI * 2);
     ctx.fill();
 
-    // Handle
+    // Circle
     ctx.fillStyle = COLORS.handle;
     ctx.strokeStyle = COLORS.handleBorder;
     ctx.lineWidth = 2;
     ctx.beginPath();
-    ctx.arc(handleX, handleCenterY, handleRadius, 0, Math.PI * 2);
+    ctx.arc(x, centerY, radius, 0, Math.PI * 2);
     ctx.fill();
     ctx.stroke();
 
-    // Handle inner dot
+    // Inner dot
     ctx.fillStyle = 'rgba(255,255,255,0.9)';
     ctx.beginPath();
-    ctx.arc(handleX, handleCenterY, 3, 0, Math.PI * 2);
+    ctx.arc(x, centerY, 3, 0, Math.PI * 2);
     ctx.fill();
+}
 
-    // Cross-link highlight marker
-    if (highlightYear !== null) {
-        const hx = yearToX(highlightYear);
-        const hy = trackY + trackHeight / 2;
-        const size = 6;
-        ctx.fillStyle = '#e06040';
-        ctx.strokeStyle = '#c04020';
-        ctx.lineWidth = 1.5;
-        ctx.beginPath();
-        ctx.moveTo(hx, hy - size);
-        ctx.lineTo(hx + size, hy);
-        ctx.lineTo(hx, hy + size);
-        ctx.lineTo(hx - size, hy);
-        ctx.closePath();
-        ctx.fill();
-        ctx.stroke();
-    }
+function drawHighlightMarker(trackY, trackHeight) {
+    const hx = yearToX(highlightYear);
+    const hy = trackY + trackHeight / 2;
+    const size = 6;
+    ctx.fillStyle = '#e06040';
+    ctx.strokeStyle = '#c04020';
+    ctx.lineWidth = 1.5;
+    ctx.beginPath();
+    ctx.moveTo(hx, hy - size);
+    ctx.lineTo(hx + size, hy);
+    ctx.lineTo(hx, hy + size);
+    ctx.lineTo(hx - size, hy);
+    ctx.closePath();
+    ctx.fill();
+    ctx.stroke();
 }
 
 function drawTicks(trackY, trackHeight) {
@@ -313,11 +320,7 @@ function updateFromPointer(clientX) {
 function updateYearLabel() {
     const label = document.getElementById('current-year-label');
     if (label && !label.dataset.editing) {
-        if (currentYear <= 0) {
-            label.textContent = Math.abs(currentYear) + ' BC';
-        } else {
-            label.textContent = currentYear + ' AD';
-        }
+        label.textContent = formatYear(currentYear);
     }
 }
 
@@ -329,7 +332,7 @@ export function animateToYear(targetYear, onFrame) {
     const duration = 800;
     function step(now) {
         const t = Math.min((now - startTime) / duration, 1);
-        const ease = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
+        const ease = easeInOutCubic(t);
         const year = Math.round(startYear + (targetYear - startYear) * ease);
         setCurrentYear(year);
         if (onFrame) onFrame(year);

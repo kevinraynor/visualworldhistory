@@ -1,6 +1,7 @@
 // Auth module - login/register modal, session management
 
 import { apiGet, apiPost, setCsrfToken } from './api.js';
+import { escapeHtml } from './utils.js';
 
 let isRegistering = false;
 let currentUser = null;
@@ -140,12 +141,6 @@ async function handleLogout() {
 
 function showUserMenu() {
     // Already shown inline
-}
-
-function escapeHtml(str) {
-    const div = document.createElement('div');
-    div.textContent = str;
-    return div.innerHTML;
 }
 
 export function getCurrentUser() {
