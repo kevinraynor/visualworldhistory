@@ -133,11 +133,22 @@
 <body>
     <header id="top-bar">
         <div class="top-bar-left">
-            <a href="/" style="text-decoration:none;"><h1 class="logo">World History</h1></a>
-            <a href="about.html" class="nav-link">About</a>
+            <a href="/" class="logo-link">
+                <svg class="logo-icon" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="10"/>
+                    <ellipse cx="12" cy="12" rx="4" ry="10"/>
+                    <path d="M2 12h20"/>
+                    <path d="M4.5 6.5h15"/>
+                    <path d="M4.5 17.5h15"/>
+                </svg>
+                <span class="logo-text">World<span class="logo-accent">History</span></span>
+            </a>
+            <nav class="top-nav">
+                <a href="about.html" class="nav-link">About</a>
+            </nav>
         </div>
         <div class="top-bar-right">
-            <a href="/" class="btn-donate" style="text-decoration:none;">Back to Map</a>
+            <a href="/" class="nav-link">Back to Map</a>
         </div>
     </header>
 
@@ -182,10 +193,17 @@
             <div class="account-section">
                 <h2>Map Preferences</h2>
                 <p>These settings will be applied when you open the map.</p>
-                <label style="display:flex;align-items:center;gap:8px;font-size:13px;color:var(--text-secondary);cursor:pointer;">
+                <label style="display:flex;align-items:center;gap:8px;font-size:13px;color:var(--text-secondary);cursor:pointer;margin-bottom:12px;">
                     <input type="checkbox" id="pref-borders" />
-                    Show modern country borders by default
+                    Show modern country names by default
                 </label>
+                <div class="account-field">
+                    <label for="pref-map-style">Default Map Style</label>
+                    <select id="pref-map-style" style="width:100%;padding:8px 12px;border:1px solid var(--border-color);border-radius:var(--radius);font-size:14px;background:white;">
+                        <option value="light">Light</option>
+                        <option value="terrain">Terrain</option>
+                    </select>
+                </div>
             </div>
 
             <!-- Danger Zone -->
@@ -221,8 +239,9 @@
             document.getElementById('change-password-btn').addEventListener('click', changePassword);
             // Delete account
             document.getElementById('delete-account-btn').addEventListener('click', deleteAccount);
-            // Save border preference
+            // Save preferences
             document.getElementById('pref-borders').addEventListener('change', saveSettings);
+            document.getElementById('pref-map-style').addEventListener('change', saveSettings);
         }
 
         async function loadFavorites() {
@@ -259,6 +278,9 @@
             try {
                 const settings = await apiGet('/api/settings');
                 document.getElementById('pref-borders').checked = !!settings.show_borders;
+                if (settings.map_style) {
+                    document.getElementById('pref-map-style').value = settings.map_style;
+                }
             } catch (e) { /* ignore */ }
         }
 
@@ -266,6 +288,7 @@
             try {
                 await apiPut('/api/settings', {
                     show_borders: document.getElementById('pref-borders').checked,
+                    map_style: document.getElementById('pref-map-style').value,
                 });
             } catch (e) { /* ignore */ }
         }

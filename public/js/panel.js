@@ -1,7 +1,7 @@
 // Side Panel module - open/close, content display
 
 import { apiGet, apiPost, apiDelete } from './api.js?v=3';
-import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents, drawLinkLine, clearLinkLine, highlightDot, unhighlightDot, showTempDot, hideTempDot, enterHierarchyMode, exitHierarchyMode, isHierarchyMode, onExitHierarchy, buildHierarchyTree } from './map.js?v=3';
+import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents, drawLinkLine, clearLinkLine, highlightDot, unhighlightDot, showTempDot, hideTempDot, enterHierarchyMode, exitHierarchyMode, isHierarchyMode, onExitHierarchy, buildHierarchyTree, CATEGORY_COLORS } from './map.js?v=3';
 import { setCurrentYear, highlightYearOnTimeline, clearTimelineHighlight } from './timeline.js?v=3';
 
 let panelEl, panelBody, panelLoading;
@@ -185,6 +185,8 @@ function renderPanel(data) {
 
     // Summary with cross-event links
     const summaryEl = document.getElementById('panel-summary');
+    const catColors = CATEGORY_COLORS[cat] || CATEGORY_COLORS.general;
+    summaryEl.style.setProperty('--drop-cap-color', catColors.fill);
     if (data.summary) {
         summaryEl.innerHTML = data.summary
             .split('\n\n')

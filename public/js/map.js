@@ -1039,29 +1039,29 @@ export function enterHierarchyMode(eventId) {
     }
     if (latLngs.length > 1) {
         const bounds = L.latLngBounds(latLngs);
-        // Padding: hierarchy overlay (left), controls (top), side panel (right ~600px)
-        const paddingTL = L.point(200, 120);
-        const paddingBR = L.point(640, 60);
-        const targetZoom = Math.min(map.getBoundsZoom(bounds, false, paddingTL.add(paddingBR)), 8);
-        const targetCenter = bounds.getCenter();
-
-        // Manual animation so circle markers rescale continuously during zoom
-        const startLatLng = map.getCenter();
-        const startZoom = map.getZoom();
-        const duration = 1000;
-        const startTime = performance.now();
-        function stepHierarchy(now) {
-            const t = Math.min((now - startTime) / duration, 1);
-            const ease = t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2;
-            const lat = startLatLng.lat + (targetCenter.lat - startLatLng.lat) * ease;
-            const lng = startLatLng.lng + (targetCenter.lng - startLatLng.lng) * ease;
-            const z = startZoom + (targetZoom - startZoom) * ease;
-            map.setView([lat, lng], z, { animate: false });
-            if (t < 1) {
-                requestAnimationFrame(stepHierarchy);
+        // Padding: [top, right, bottom, left] — account for hierarchy overlay (left), side panel (right ~600px)
+        map.flyToBounds(bounds, {
+            paddingTopLeft: [200, 80],
+            paddingBottomRight: [640, 60],
+            maxZoom: 8,
+            duration: 1,
+        });
+        // After zoom completes, recalculate line endpoints at final zoom level
+        map.once('zoomend', () => {
+            for (let i = 0; i < hierarchyLines.length; i++) {
+                const edge = tree.edges[i];
+                if (!edge) continue;
+                const parent = eventsById.get(edge.from);
+                const child = eventsById.get(edge.to);
+                if (!parent || !child) continue;
+                const childR = getEventDisplayRadius(child.id);
+                const parentR = getEventDisplayRadius(parent.id);
+                const [adjFrom, adjTo] = shortenLineToEdges(
+                    [child.lat, child.lng], [parent.lat, parent.lng], childR, parentR
+                );
+                hierarchyLines[i].setLatLngs([adjFrom, adjTo]);
             }
-        }
-        requestAnimationFrame(stepHierarchy);
+        });
     }
 
     // Render hierarchy tree overlay
@@ -1269,11 +1269,6 @@ const TILE_STYLES = {
         labels: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_only_labels/{z}/{x}/{y}{r}.png',
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
     },
-    dark: {
-        base: 'https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png',
-        labels: 'https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}{r}.png',
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
-    },
 };
 
 export function setMapStyle(styleName) {
@@ -1297,8 +1292,6 @@ export function setMapStyle(styleName) {
     // Re-add dots layer on top
     if (dotsLayer) dotsLayer.eachLayer(l => l.bringToFront());
 
-    // Toggle dark class for tooltip readability
-    document.body.classList.toggle('map-dark', styleName === 'dark');
 }
 
 function escapeHtml(str) {

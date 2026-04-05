@@ -54,6 +54,11 @@ return function (RouteCollectorProxy $group) {
         $event['lng'] = (float)$event['lng'];
         $event['dot_radius'] = (int)$event['dot_radius'];
 
+        // Clean up em-dashes for readability
+        if (!empty($event['summary'])) {
+            $event['summary'] = preg_replace('/ \x{2014} /u', ', ', $event['summary']);
+        }
+
         // Parse JSON fields
         if ($event['read_more_links']) {
             $event['read_more_links'] = json_decode($event['read_more_links'], true);

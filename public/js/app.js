@@ -149,6 +149,22 @@ async function init() {
         });
     });
 
+    // Load user preferences (if logged in) and apply them
+    try {
+        const settings = await apiGet('/api/settings');
+        if (settings.show_borders !== undefined) {
+            bordersToggle.checked = !!settings.show_borders;
+        }
+        if (settings.map_style) {
+            setMapStyle(settings.map_style);
+            document.querySelectorAll('.style-option').forEach(b => {
+                b.classList.toggle('active', b.dataset.style === settings.map_style);
+            });
+        }
+    } catch (e) {
+        // Not logged in or no settings — use defaults
+    }
+
     // Load events
     try {
         const events = await apiGet('/api/events');

@@ -28,7 +28,7 @@ return function (RouteCollectorProxy $group) {
         $db = Database::getConnection();
 
         // Allowed settings keys
-        $allowedKeys = ['show_borders', 'default_zoom', 'default_lat', 'default_lng', 'default_year', 'theme'];
+        $allowedKeys = ['show_borders', 'map_style', 'default_zoom', 'default_lat', 'default_lng', 'default_year'];
         $settings = [];
         foreach ($allowedKeys as $key) {
             if (isset($data[$key])) {
