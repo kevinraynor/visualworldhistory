@@ -1,9 +1,9 @@
 // Side Panel module - open/close, content display
 
-import { apiGet, apiPost, apiDelete } from './api.js?v=4';
+import { apiGet, apiPost, apiDelete } from './api.js';
 import { formatYear, escapeHtml } from './utils.js';
-import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents, drawLinkLine, clearLinkLine, highlightDot, unhighlightDot, showTempDot, hideTempDot, enterHierarchyMode, exitHierarchyMode, isHierarchyMode, onExitHierarchy, buildHierarchyTree, CATEGORY_COLORS } from './map/index.js';
-import { setCurrentYear, highlightYearOnTimeline, clearTimelineHighlight } from './timeline.js?v=4';
+import { showTerritory, clearTerritory, flyToEvent, getEventById, updateVisibleEvents, drawLinkLine, clearLinkLine, highlightDot, unhighlightDot, showTempDot, hideTempDot, enterHierarchyMode, exitHierarchyMode, isHierarchyMode, getHierarchyRelatedIds, updateHierarchyActive, onExitHierarchy, buildHierarchyTree, CATEGORY_COLORS } from './map/index.js';
+import { setCurrentYear, getCurrentYear, highlightYearOnTimeline, clearTimelineHighlight } from './timeline.js';
 
 let panelEl, panelBody, panelLoading;
 let currentEventId = null;
@@ -42,9 +42,13 @@ export function initPanel() {
     // Close button
     document.getElementById('panel-close').addEventListener('click', closePanel);
 
-    // When hierarchy mode exits (via its own close button or map click), also close panel
-    onExitHierarchy(() => {
-        if (isOpen) {
+    // When hierarchy mode exits, re-render panel to update button text.
+    // If exit was triggered externally (hierarchy overlay close or map click), close panel too.
+    onExitHierarchy((source) => {
+        // Re-apply year filter to remove force-shown hierarchy events
+        updateVisibleEvents(getCurrentYear());
+
+        if (source === 'external' && isOpen) {
             isOpen = false;
             panelEl.classList.remove('panel-open');
             panelEl.classList.add('panel-closed');
@@ -53,17 +57,17 @@ export function initPanel() {
             clearTimelineHighlight();
             currentEventId = null;
             currentEventData = null;
+        } else if (isOpen && currentEventData) {
+            // Re-render to update hierarchy button text
+            renderPanel(currentEventData);
         }
     });
 
-    // Click outside to close (on map) — but not on hierarchy overlay
+    // Click outside to close (on map) — but not on hierarchy overlay or dots
     document.getElementById('map').addEventListener('click', (e) => {
         if (e.target.closest('#hierarchy-overlay')) return;
-        if (isOpen && e.target.closest('.leaflet-interactive') === null) {
-            closePanel();
-        }
-        // Also exit hierarchy mode on map click
-        if (isHierarchyMode()) exitHierarchyMode();
+        if (e.target.closest('.leaflet-interactive')) return;
+        if (isOpen) closePanel();
     });
 
     // Cross-event link delegation on summary
@@ -72,6 +76,20 @@ export function initPanel() {
         if (link) {
             e.preventDefault();
             const targetId = parseInt(link.dataset.eventId, 10);
+
+            // In hierarchy mode: if target is in hierarchy, navigate like a hierarchy click
+            if (isHierarchyMode()) {
+                const relatedIds = getHierarchyRelatedIds();
+                if (relatedIds && relatedIds.has(targetId)) {
+                    updateHierarchyActive(targetId);
+                    flyToEvent(targetId);
+                    openPanel(targetId);
+                    return;
+                }
+                // Target not in hierarchy — exit hierarchy, then navigate normally
+                exitHierarchyMode('panel');
+            }
+
             const targetEvent = getEventById(targetId);
             if (targetEvent) {
                 const midYear = Math.round((targetEvent.year_start + targetEvent.year_end) / 2);
@@ -142,7 +160,7 @@ export function closePanel() {
     clearTimelineHighlight();
     currentEventId = null;
     currentEventData = null;
-    if (isHierarchyMode()) exitHierarchyMode();
+    if (isHierarchyMode()) exitHierarchyMode('panel');
     closingPanel = false;
 }
 
@@ -183,9 +201,25 @@ function renderPanelHeader(data) {
         const hierBtn = document.createElement('button');
         hierBtn.id = 'panel-hierarchy-btn';
         hierBtn.className = 'btn-hierarchy';
-        hierBtn.textContent = 'Show Related Events';
-        hierBtn.title = `View ${tree.relatedIds.size} related events`;
-        hierBtn.addEventListener('click', () => enterHierarchyMode(data.id));
+        if (isHierarchyMode()) {
+            hierBtn.textContent = 'Close Related Events';
+            hierBtn.title = 'Exit hierarchy view';
+            hierBtn.addEventListener('click', () => {
+                exitHierarchyMode('panel');
+                // Adjust timeline so the event is visible
+                const midYear = Math.round((data.year_start + data.year_end) / 2);
+                setCurrentYear(midYear);
+                updateVisibleEvents(midYear);
+                flyToEvent(data.id);
+            });
+        } else {
+            hierBtn.textContent = 'Show Related Events';
+            hierBtn.title = `View ${tree.relatedIds.size} related events`;
+            hierBtn.addEventListener('click', () => {
+                enterHierarchyMode(data.id);
+                renderPanel(data);
+            });
+        }
         badge.parentElement.appendChild(hierBtn);
     }
 

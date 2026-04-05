@@ -1,10 +1,10 @@
 // WorldHistory - Main Application Entry Point
 
-import { apiGet } from './api.js?v=4';
-import { initMap, setAllEvents, updateVisibleEvents, toggleBorders, setActiveGranularities, getActiveGranularities, setActiveCategories, getActiveCategories, setMapStyle, flyToEvent, isHierarchyMode } from './map/index.js';
-import { initTimeline, setCurrentYear, setEvents, getCurrentYear, animateToYear } from './timeline.js?v=4';
-import { initPanel, openPanel, closePanel } from './panel.js?v=4';
-import { initAuth } from './auth.js?v=4';
+import { apiGet } from './api.js';
+import { initMap, setAllEvents, updateVisibleEvents, toggleBorders, setActiveGranularities, getActiveGranularities, setActiveCategories, getActiveCategories, setMapStyle, flyToEvent, isHierarchyMode, updateHierarchyActive } from './map/index.js';
+import { initTimeline, setCurrentYear, setEvents, getCurrentYear, animateToYear } from './timeline.js';
+import { initPanel, openPanel, closePanel } from './panel.js';
+import { initAuth } from './auth.js';
 
 const INITIAL_YEAR = 1569;
 let currentYear = INITIAL_YEAR;
@@ -160,9 +160,10 @@ async function loadUserPreferences(bordersToggle) {
             bordersToggle.checked = !!settings.show_borders;
         }
         if (settings.map_style) {
-            setMapStyle(settings.map_style);
+            const style = settings.map_style === 'terrain' ? 'default' : settings.map_style;
+            setMapStyle(style);
             document.querySelectorAll('.style-option').forEach(b => {
-                b.classList.toggle('active', b.dataset.style === settings.map_style);
+                b.classList.toggle('active', b.dataset.style === style);
             });
         }
     } catch (e) {
@@ -193,7 +194,11 @@ function handleYearChange(year) {
 }
 
 function handleEventClick(eventId) {
-    if (!isHierarchyMode()) flyToEvent(eventId);
+    if (isHierarchyMode()) {
+        updateHierarchyActive(eventId);
+    } else {
+        flyToEvent(eventId);
+    }
     openPanel(eventId);
 }
 

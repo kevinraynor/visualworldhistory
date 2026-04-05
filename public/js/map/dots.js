@@ -104,6 +104,7 @@ function addDot(event, zoom) {
         weight: 2,
         opacity: 0,
         radius: 0,
+        bubblingMouseEvents: false,
     });
 
     const yearStr = formatYear(event.year_start) + ' \u2013 ' + formatYear(event.year_end);

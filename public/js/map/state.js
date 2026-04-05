@@ -47,7 +47,7 @@ export const mapState = {
 
     onEventClick: null,
     hoveredEventId: null,
-    currentStyleName: 'light',
+    currentStyleName: 'default',
 
     activeGranularities: new Set(['major', 'notable', 'detailed']),
     activeCategories: new Set(['empire', 'war', 'civilization', 'discovery', 'religion', 'cultural', 'trade']),

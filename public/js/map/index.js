@@ -10,6 +10,7 @@ export { setAllEvents, updateVisibleEvents, getEventById,
          drawLinkLine, clearLinkLine } from './dots.js';
 
 export { buildHierarchyTree, enterHierarchyMode, exitHierarchyMode,
-         isHierarchyMode, getHierarchyRelatedIds, onExitHierarchy } from './hierarchy.js';
+         isHierarchyMode, getHierarchyRelatedIds, onExitHierarchy,
+         updateHierarchyActive } from './hierarchy.js';
 
 export { CATEGORY_COLORS } from './state.js';

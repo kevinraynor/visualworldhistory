@@ -7,14 +7,14 @@ import { exitHierarchyMode, isHierarchyMode } from './hierarchy.js';
 import { scaleDotRadius } from '../utils.js';
 
 const TILE_STYLES = {
+    default: {
+        base: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png',
+        labels: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_only_labels/{z}/{x}/{y}{r}.png',
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    },
     light: {
         base: 'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
         labels: 'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
-    },
-    terrain: {
-        base: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png',
-        labels: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_only_labels/{z}/{x}/{y}{r}.png',
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
     },
 };
@@ -35,9 +35,9 @@ export function initMap(eventClickHandler) {
     });
     mapState.map = map;
 
-    // Initial tile layers (light style — no labels, controlled by Show Countries toggle)
-    mapState.baseTileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    // Initial tile layers (default/voyager style — no labels, controlled by Show Countries toggle)
+    mapState.baseTileLayer = L.tileLayer(TILE_STYLES.default.base, {
+        attribution: TILE_STYLES.default.attribution,
         subdomains: 'abcd',
         maxZoom: 19,
     }).addTo(map);

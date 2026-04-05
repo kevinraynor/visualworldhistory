@@ -25,6 +25,13 @@ export function onExitHierarchy(cb) {
     onExitHierarchyCb = cb;
 }
 
+export function updateHierarchyActive(eventId) {
+    if (!hierarchyOverlayEl) return;
+    hierarchyOverlayEl.querySelectorAll('.hierarchy-active').forEach(el => el.classList.remove('hierarchy-active'));
+    const link = hierarchyOverlayEl.querySelector(`a[data-event-id="${eventId}"]`);
+    if (link) link.classList.add('hierarchy-active');
+}
+
 // ===== Tree Building =====
 
 export function buildHierarchyTree(eventId) {
@@ -98,13 +105,17 @@ export function enterHierarchyMode(eventId) {
             weight: 2,
             opacity: 0.7,
             radius: radius,
+            bubblingMouseEvents: false,
         });
         const yearStr = formatYear(event.year_start) + ' \u2013 ' + formatYear(event.year_end);
         marker.bindTooltip(
             `<div class="event-tooltip"><strong>${escapeHtml(event.name)}</strong><br><span class="tooltip-dates">${yearStr}</span><span class="tooltip-category" style="color:${colors.fill}">${event.category || 'general'}</span></div>`,
             { direction: 'top', offset: [0, -10], className: '' }
         );
-        marker.on('click', () => { if (mapState.onEventClick) mapState.onEventClick(event.id); });
+        marker.on('click', (e) => {
+            L.DomEvent.stopPropagation(e);
+            if (mapState.onEventClick) mapState.onEventClick(event.id);
+        });
         mapState.dotsLayer.addLayer(marker);
         mapState.visibleDots.set(event.id, { marker, event, anim: null, targetScale: 1, targetRadius: radius });
     }
@@ -215,11 +226,11 @@ export function enterHierarchyMode(eventId) {
     document.getElementById('hierarchy-close').addEventListener('click', () => exitHierarchyMode());
 }
 
-export function exitHierarchyMode() {
+export function exitHierarchyMode(source = 'external') {
     if (!hierarchyMode) return;
     hierarchyMode = false;
     hierarchyRelatedIds = null;
-    if (onExitHierarchyCb) onExitHierarchyCb();
+    if (onExitHierarchyCb) onExitHierarchyCb(source);
 
     const map = mapState.map;
 
