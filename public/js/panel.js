@@ -52,6 +52,7 @@ export function initPanel() {
             isOpen = false;
             panelEl.classList.remove('panel-open');
             panelEl.classList.add('panel-closed');
+            document.body.classList.remove('panel-open-mobile');
             clearTerritory();
             clearLinkLine();
             clearTimelineHighlight();
@@ -124,6 +125,7 @@ export async function openPanel(eventId, forceRefresh = false) {
     isOpen = true;
     panelEl.classList.add('panel-open');
     panelEl.classList.remove('panel-closed');
+    if (window.innerWidth <= 768) document.body.classList.add('panel-open-mobile');
 
     // Only show loading spinner on first open, not on refresh
     if (!forceRefresh) {
@@ -155,6 +157,7 @@ export function closePanel() {
     isOpen = false;
     panelEl.classList.remove('panel-open');
     panelEl.classList.add('panel-closed');
+    document.body.classList.remove('panel-open-mobile');
     clearTerritory();
     clearLinkLine();
     clearTimelineHighlight();

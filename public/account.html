@@ -146,8 +146,12 @@
             <nav class="top-nav">
                 <a href="about.html" class="nav-link">About</a>
             </nav>
+            <button id="hamburger-btn" class="hamburger-btn" aria-label="Menu">
+                <span></span><span></span><span></span>
+            </button>
         </div>
         <div class="top-bar-right">
+            <a href="/" class="mobile-nav-link">Back to Map</a>
             <a href="/" class="nav-link">Back to Map</a>
         </div>
     </header>
@@ -218,8 +222,10 @@
 
     <script type="module">
         import { apiGet, apiPost, apiPut, apiDelete, setCsrfToken } from './js/api.js';
+        import { initNav } from './js/nav.js';
 
         async function init() {
+            initNav();
             // Check auth
             try {
                 const auth = await apiGet('/api/auth/me');

@@ -1331,3 +1331,306 @@ body.map-dark .hierarchy-tree li::before {
 .panel-open #panel-body {
     animation: fadeIn 0.3s ease-out;
 }
+
+/* ===== MOBILE-ONLY ELEMENTS (hidden on desktop) ===== */
+.hamburger-btn,
+.mobile-nav-link,
+.map-controls-toggle {
+    display: none;
+}
+
+/* ============================================================
+   MOBILE RESPONSIVE — max-width: 768px
+   ============================================================ */
+@media (max-width: 768px) {
+
+    /* --- Hamburger Button --- */
+    .hamburger-btn {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 4px;
+        width: 36px;
+        height: 36px;
+        padding: 6px;
+        background: none;
+        border: none;
+        cursor: pointer;
+        margin-left: 8px;
+        flex-shrink: 0;
+    }
+    .hamburger-btn span {
+        display: block;
+        width: 100%;
+        height: 2px;
+        background: var(--text-primary);
+        border-radius: 2px;
+        transition: transform 0.25s, opacity 0.25s;
+    }
+    /* Animate to X when open */
+    body.menu-open .hamburger-btn span:nth-child(1) {
+        transform: translateY(6px) rotate(45deg);
+    }
+    body.menu-open .hamburger-btn span:nth-child(2) {
+        opacity: 0;
+    }
+    body.menu-open .hamburger-btn span:nth-child(3) {
+        transform: translateY(-6px) rotate(-45deg);
+    }
+
+    /* --- Top Bar --- */
+    #top-bar {
+        padding: 0 12px;
+    }
+    .logo-text {
+        display: none;
+    }
+    .top-nav {
+        display: none;
+    }
+
+    /* --- Mobile Nav Dropdown --- */
+    .top-bar-right {
+        display: none;
+        position: absolute;
+        top: var(--topbar-height);
+        left: 0;
+        right: 0;
+        background: var(--bg-secondary);
+        border-bottom: 1px solid var(--border-color);
+        box-shadow: var(--shadow-md);
+        flex-direction: column;
+        padding: 8px 0;
+        z-index: 1000;
+    }
+    body.menu-open .top-bar-right {
+        display: flex;
+    }
+    .mobile-nav-link {
+        display: flex;
+        align-items: center;
+        padding: 12px 20px;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--text-primary);
+        text-decoration: none;
+        min-height: 44px;
+    }
+    .mobile-nav-link:hover {
+        background: var(--bg-primary);
+    }
+    .top-bar-right .toggle-borders {
+        padding: 12px 20px;
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+    }
+    .top-bar-right .btn-donate,
+    .top-bar-right .btn-github {
+        justify-content: flex-start;
+        padding: 12px 20px;
+        min-height: 44px;
+        border-radius: 0;
+        font-size: 14px;
+        width: 100%;
+        text-align: left;
+    }
+    .top-bar-right #user-menu {
+        padding: 8px 20px;
+        width: 100%;
+    }
+    .top-bar-right #user-menu .btn-auth {
+        width: 100%;
+        text-align: center;
+    }
+
+    /* --- Ad Space (mobile-ready, still hidden) --- */
+    #ad-space {
+        /* display: none — remains hidden until ads are enabled */
+        position: fixed;
+        top: var(--topbar-height);
+        left: 0;
+        right: 0;
+        height: 50px;
+        z-index: 950;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        background: var(--bg-secondary);
+        border-bottom: 1px solid var(--border-color);
+    }
+    #ad-space .ad-placeholder {
+        width: 100%;
+        max-width: 320px;
+        height: 50px;
+        max-height: none;
+    }
+
+    /* --- Map --- */
+    #map {
+        top: var(--topbar-height);
+        left: 0;
+        right: 0;
+        bottom: var(--timeline-height);
+    }
+
+    /* --- Map Controls Toggle Button (mobile) --- */
+    .map-controls-toggle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: calc(var(--topbar-height) + 10px);
+        right: 10px;
+        width: 40px;
+        height: 40px;
+        background: rgba(255, 255, 255, 0.92);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        border-radius: 8px;
+        box-shadow: var(--shadow-sm);
+        cursor: pointer;
+        z-index: 700;
+        color: var(--text-secondary);
+    }
+    .map-controls-toggle:active {
+        background: rgba(240, 240, 240, 0.95);
+    }
+
+    /* --- Map Controls (collapsed by default) --- */
+    #map-controls {
+        display: none;
+        top: calc(var(--topbar-height) + 56px);
+        right: 10px;
+        max-height: calc(100vh - var(--topbar-height) - var(--timeline-height) - 80px);
+        overflow-y: auto;
+    }
+    body.controls-open #map-controls {
+        display: flex;
+    }
+
+    /* --- Map Style Switcher --- */
+    #map-style-switcher {
+        bottom: calc(var(--timeline-height) + 8px);
+        right: 10px;
+        padding: 3px;
+    }
+    #map-style-switcher .style-option {
+        font-size: 10px;
+        padding: 3px 8px;
+    }
+    #map-style-switcher .style-swatch {
+        width: 10px;
+        height: 10px;
+    }
+
+    /* --- Year Display --- */
+    #year-display {
+        font-size: 16px;
+        padding: 5px 14px;
+        bottom: calc(var(--timeline-height) + 8px);
+    }
+
+    /* --- Timeline --- */
+    #timeline-container {
+        height: var(--timeline-height);
+    }
+
+    /* --- Side Panel (full-screen on mobile) --- */
+    #side-panel {
+        width: 100%;
+        top: var(--topbar-height);
+        bottom: 0;
+        z-index: 950;
+        border-left: none;
+    }
+    #side-panel .panel-close-btn {
+        width: 44px;
+        height: 44px;
+        font-size: 28px;
+    }
+    #panel-content {
+        padding: 0 16px 24px;
+    }
+    #panel-header {
+        padding-top: 8px;
+    }
+    #panel-summary {
+        font-size: 14px;
+        line-height: 1.7;
+    }
+    .figures-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .image-gallery {
+        scroll-snap-type: x mandatory;
+    }
+    .gallery-item {
+        min-width: 150px;
+        scroll-snap-align: start;
+    }
+
+    /* --- Hide hierarchy features --- */
+    .btn-hierarchy {
+        display: none !important;
+    }
+    #hierarchy-overlay {
+        display: none !important;
+    }
+
+    /* --- Auth Modal --- */
+    .modal-content {
+        width: 92vw;
+        padding: 24px 20px;
+    }
+    .modal-content input {
+        min-height: 44px;
+        font-size: 16px;
+    }
+    .modal-content .btn-primary {
+        min-height: 44px;
+        font-size: 16px;
+    }
+
+    /* --- Lightbox --- */
+    .lightbox-img {
+        max-width: 96vw;
+        max-height: 70vh;
+    }
+    .lightbox-nav {
+        padding: 12px 18px;
+        font-size: 28px;
+    }
+    .lightbox-prev-btn {
+        left: 6px;
+    }
+    .lightbox-next-btn {
+        right: 6px;
+    }
+    .lightbox-close {
+        top: 10px;
+        right: 14px;
+        font-size: 28px;
+        padding: 8px;
+    }
+
+    /* --- Account Page --- */
+    .account-page {
+        padding: 70px 16px 40px;
+    }
+    .account-section {
+        padding: 16px;
+    }
+    .account-field input,
+    .account-field select {
+        min-height: 44px;
+        font-size: 16px;
+    }
+
+    /* --- Body scroll lock when panel is open --- */
+    body.panel-open-mobile {
+        overflow: hidden;
+    }
+
+}

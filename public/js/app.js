@@ -5,11 +5,13 @@ import { initMap, setAllEvents, updateVisibleEvents, toggleBorders, setActiveGra
 import { initTimeline, setCurrentYear, setEvents, getCurrentYear, animateToYear } from './timeline.js';
 import { initPanel, openPanel, closePanel } from './panel.js';
 import { initAuth } from './auth.js';
+import { initNav } from './nav.js';
 
 const INITIAL_YEAR = 1569;
 let currentYear = INITIAL_YEAR;
 
 async function init() {
+    initNav();
     initMap(handleEventClick);
     initTimeline(handleYearChange);
     initPanel();
@@ -19,6 +21,7 @@ async function init() {
     setupFilterControls(bordersToggle);
     setupYearInput();
     setupMapStyleSwitcher();
+    setupMapControlsToggle();
     await loadUserPreferences(bordersToggle);
     await loadEvents(bordersToggle);
 }
@@ -150,6 +153,22 @@ function setupMapStyleSwitcher() {
             btn.classList.add('active');
             setMapStyle(btn.dataset.style);
         });
+    });
+}
+
+function setupMapControlsToggle() {
+    const toggle = document.getElementById('map-controls-toggle');
+    if (!toggle) return;
+    toggle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        document.body.classList.toggle('controls-open');
+        document.body.classList.remove('menu-open');
+    });
+    // Close controls when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!document.body.classList.contains('controls-open')) return;
+        if (e.target.closest('#map-controls') || e.target.closest('#map-controls-toggle')) return;
+        document.body.classList.remove('controls-open');
     });
 }
 
