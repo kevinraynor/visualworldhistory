@@ -8,3 +8,6 @@
 /database/*
 !/database/content/
 /database/content/curation-log.json
+!/database/events-registry.json
+!/database/seed_events.sql
+!/database/seed_details_v2.sql

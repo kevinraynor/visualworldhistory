@@ -18,20 +18,27 @@ let lightboxIndex = 0;
 const useImageProxy = location.hostname === 'localhost' || location.hostname === '127.0.0.1';
 
 function proxyUrl(url) {
-    if (!useImageProxy || !url) return url;
+    if (!url) return url;
+    // Rewrite 300px thumbs to 250px — 300px is not a standard Wikimedia pre-generated
+    // size and triggers on-demand thumbnail rendering, which gets 429 rate-limited.
+    // 250px is a standard size that Wikimedia pre-caches reliably.
+    if (url.includes('/thumb/') && url.includes('/300px-')) {
+        url = url.replace('/300px-', '/250px-');
+    }
+    if (!useImageProxy) return url;
     if (url.includes('upload.wikimedia.org')) {
         return `/api/image-proxy?url=${encodeURIComponent(url)}`;
     }
     return url;
 }
 
-// Build an 800px thumbnail URL for lightbox (instead of full resolution)
+// Build lightbox URL — full resolution on desktop, 500px thumbnail on mobile
+// (pre-cached by Wikimedia, avoids large downloads on mobile connections).
 function lightboxUrl(imageData) {
-    if (imageData.thumb_url && imageData.thumb_url.includes('/thumb/')) {
-        // Replace /300px- with /800px- in the existing thumbnail URL
-        return imageData.thumb_url.replace(/\/\d+px-/, '/800px-');
+    if (window.innerWidth <= 768 && imageData.thumb_url && imageData.thumb_url.includes('/thumb/')) {
+        return imageData.thumb_url.replace(/\/\d+px-/, '/500px-');
     }
-    return imageData.full_url;
+    return imageData.full_url || imageData.thumb_url;
 }
 
 export function initPanel() {
@@ -332,10 +339,17 @@ function renderImageGallery(images) {
         item.className = 'gallery-item';
 
         const imgEl = document.createElement('img');
-        imgEl.src = proxyUrl(img.thumb_url);
         imgEl.alt = img.caption || '';
-        imgEl.loading = 'lazy';
-        imgEl.onerror = () => { item.style.display = 'none'; };
+        imgEl.onerror = () => {
+            // Retry once before hiding — mobile browsers sometimes abort initial loads
+            if (!imgEl.dataset.retried) {
+                imgEl.dataset.retried = '1';
+                imgEl.src = proxyUrl(img.thumb_url);
+            } else {
+                item.style.display = 'none';
+            }
+        };
+        imgEl.src = proxyUrl(img.thumb_url);
 
         item.appendChild(imgEl);
         item.addEventListener('click', () => openLightbox(images, index));
