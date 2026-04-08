@@ -2,6 +2,8 @@
 
 An interactive world history map that visualizes thousands of historical events on a Leaflet-powered map with a draggable timeline slider spanning from 10,000 BC to 2000 AD.
 
+Project is live at: https://visualworldhistory.com/
+
 ## Features
 
 - **Interactive map** with animated dots representing historical events, color-coded by category (Empire, War, Civilization, Discovery, Religion, Cultural, Trade)
